@@ -7,7 +7,7 @@ tags:
 
 # Explanation of the Apocalypse
 
-Bede's *Expositio Apocalypseos* (c. 710–716), one of the earliest Latin commentaries on the Book of Revelation and the only one of his biblical commentaries available in a public-domain English translation (Rev. Edw. Marshall, 1878). One note per chapter of Revelation; converted from **uncorrected OCR**.
+Bede's *Expositio Apocalypseos* (c. 710–716), one of the earliest Latin commentaries on the Book of Revelation and the only one of his biblical commentaries available in a public-domain English translation (Rev. Edw. Marshall, 1878). One note per chapter of Revelation.
 
 - [[BAp Preface|Preface]] (Bede's prefatory letter and the seven periods)
 

@@ -34,11 +34,11 @@ one public-domain biblical commentary (on Revelation) follow.
 
 ## Minor Historical & Hagiographical Works
 
-- [[Library/Venerable Bede/Minor Historical Works/Minor Historical Works|Minor Historical Works]] — the Life of St Cuthbert, Lives of the Abbots, Letter to Egbert, Of the Holy Places, the Letter on Bede's death, and more. *(Trans. J. A. Giles, 1843; uncorrected OCR.)*
+- [[Library/Venerable Bede/Minor Historical Works/Minor Historical Works|Minor Historical Works]] — the Life of St Cuthbert, Lives of the Abbots, Letter to Egbert, Of the Holy Places, the Letter on Bede's death, and more. *(Trans. J. A. Giles, 1843, re-read from the page images.)*
 
 ## Biblical Commentary
 
-- [[Library/Venerable Bede/Explanation of the Apocalypse/Explanation of the Apocalypse|Explanation of the Apocalypse]] — Bede's commentary on Revelation (c. 710–716), 22 chapters. *(Trans. Edw. Marshall, 1878; uncorrected OCR.)*
+- [[Library/Venerable Bede/Explanation of the Apocalypse/Explanation of the Apocalypse|Explanation of the Apocalypse]] — Bede's commentary on Revelation (c. 710–716), 22 chapters. *(Trans. Edw. Marshall, 1878, re-read from the page images.)*
 
 ## Homilies
 
@@ -47,4 +47,12 @@ one public-domain biblical commentary (on Revelation) follow.
 ---
 *Sources: Project Gutenberg #38326 (Ecclesiastical History); archive.org
 `theminorhistoric00bede` (Minor Historical Works) and `explanationapoc00bedegoog`
-(Apocalypse); Wikisource (Homily on All Saints). Conversion scripts in `_sources/`.*
+(Apocalypse); Wikisource (Homily on All Saints).*
+
+*The two works taken from archive.org were first converted from the OCR text that
+ships with those scans, which was unreadable in places. They have since been read
+again from the page images themselves. Six pages the Apocalypse scan is missing —
+printed pages 28-29, 56-57 and 124-125, which carry the opening of chapter iv and
+the whole of BOOK THE SECOND's heading — were supplied from the Bodleian copy on
+Google Books, and seventy further pages were taken from that copy where it reads
+more clearly than the Internet Archive's.*
