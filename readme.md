@@ -76,4 +76,4 @@ You can add (out-of-copyright) material to this vault by opening a pull request 
 
 I believe all the resources scraped to build this site are either public domain or freely available. However, if you are the copyright holder and there is a copyright issue, please [open an issue](https://github.com/BenjaminPoole/Ecumenical-Christian-Library-Obsidian-Vault/issues) on the GitHub repository. See [[license.txt]].
 
-If you find this helpful consider supporting me with [Buy Me a Coffee](buymeacoffee.com/BenjaminPoole)
+If you find this helpful consider supporting me with [Buy Me a Coffee](https://buymeacoffee.com/BenjaminPoole)

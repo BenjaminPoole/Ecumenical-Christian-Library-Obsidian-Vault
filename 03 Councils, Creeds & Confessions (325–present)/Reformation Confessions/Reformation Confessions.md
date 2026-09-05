@@ -1,5 +1,6 @@
 ---
 title: "Reformation Confessions & Catechisms"
+written: "1529–1648"
 tags:
   - reformation-confessions
   - council-index
