@@ -5,365 +5,809 @@ translator: "'H. I.' (1577), ed. Thomas Harding"
 work: "The Decades"
 chapter: 23
 year: "1549-1551"
-source: "archive.org Parker Society edition (1849-52), tr. H. I.; converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "archive.org decadesofhenrybu0102bull (a modern Tesseract 5.1 eng+grc rescan of the Parker Society 1849 edition, tr. H. I.), re-OCR'd with local eng+grc tesseract and rebuilt with build_from_ocr.py"
 written: "1549-1551"
 tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
+
 # 23. Decade 2, Sermon 10, Part 2
 
-ae tee The apostle Paul, verily, doth expressly say, that “ meat commendeth us not to God: for neither if we eat, have we anything the more; neither if we eat not, have we anything the less?.” He therefore doth not fast truly, which doth
+we not ashamed of such superstition!?” Thus much saith Hierome. And it is evident, that even at this day this vice is especially received among our wealthy and religious men. οἱ But the end of christian fastings are, that the church, or sinner, should submit and humble themselves before the Lord, that the flesh should be obedient and subject to the spirit, that the flesh should not hinder the sinner to work righteousness, and that the intent and mind of him that prayeth should be the more earnestly bent toward God. For fasting is of the number of those works which of themselves are not absolute and perfect, but have another meaning, for which they are ordained to another end and purpose: therefore fasting is a certain help to the prayers and virtues of godly men. Whereupon in the prophets we find, that the fastings of the Jews displeased the Lord: for they did nought else but fast alone; that is, they did at a certain and appointed time abstain from their usual manner of eating, but they restrained not themselves from sin and wickedness, but let their flesh have the bridle at will, when as indeed they should have ceased to have pampered it, that thereby it being the weaker, the spirit might be the stronger to do and fulfil all sort of good works. And therefore saith the Lord: I have not chosen such a manner of fasting;” and the rest, as it followeth in the fifty-eighth chapter of Esay, and in the seventh and eighth chapters of Zachary’s prophecy.
 
-{1 Tantum tibi jejuniorum modum impone, quantum ferre potes. Sint tibi pura, casta, simplicia, moderata, et non superstitiosa jejunia. Quid prodest oleo non vesci, et molestias quasdam difficultatesque ciborum querere, carycas, piper, nuces, palmarum fructus, similam, mel, pistacia? Tota hortorum cultura vexatur, ut cibario non vescamur pane; et dum delicias sectamur, a regno ccelorum retrahimur. Audio preeterea quosdam, contra rerum hominumque naturam, aquam non bibere, nec vesci pane; sed sorbitiunculas delicatas et contrita olera, betarumque succum, non calice sorbere, sed concha. Proh pudor! non erubescimus istiusmodi ineptiis, nec teedet superstitionis ?— Hieron. Opp. Par. 1706. Epist. xxx1v. ad Nepot. de Vit. Cler. Tom. 1v. pars 2. col. 264.]
+The apostle Paul, verily, doth expressly say, that “meat commendeth us not to God: for neither if we eat, have we anything the more; neither if we eat not, have we anything the less%.” He therefore doth not fast truly, which doth
 
-[21 Cor. viii. 8. Erasmus’ rendering. ] it i an!
+[1 Tantum tibi jejuniorum modum impone, quantum ferre potes.]
 
-abstain only, at a certain appointed time, from certain manner of meats; but he, which doth therefore refrain from the pleasures of the flesh, that thereby he may make it subject to the spirit, and do the works of faith and charity, which are acceptable in the sight of the Lord. If therefore thou dost desire to fast a true fast, eat, drink, and sleep, and take heed to thy body, that it wax not insolent; fast from all sin, eat not the meat of malice, taste not the juncats® of lust and pleasure, and be not set on fire with the wine of wantonness. Fast from evil deeds, abstain from evil words, and refrain thyself from naughty thoughts. For Basil also saith: “ True fasting consisteth in freeness from vices, in continency of tongue, in suppressing of anger, in cutting off concupiscence, backbiting, lying, and perjury*,’ &c. But even as the good works themselves, which are done by faith, do not merit the kingdom of heaven (for that glory is due to the merit of Christ alone); even so fasting, which is an aid and help to good works, doth not meritoriously deserve the kingdom of God.
+[Sint tibi pura, casta, simplicia, moderata, et non superstitiosa jejunia.]
 
-But now I see a doubtful disputation arise among the most divines of this our age, touching the time and manner of fastings, and also of the choice of meats. Some there are which affirm and uphold the fasts of Lent®, and embering days, and such other, to be the fasts which God hath appointed. There are that say, thou hast not fasted, if by any means thou taste any flesh: and there are which prescribe and appoint some certain hours to fast in, But I, for my part, see not any such doctrines to be taught us in the scriptures. For the Lord in the gospel kept not any of their devised fasts, when he fasted forty days; but did altogether abstain from all kinds of meat, even as Moses and Helias had also done: wherefore he by that deed of his did not give us any law to fast so. Moreover, the Lord in the gospel doth evidently teach, that the thing, which entereth in by the mouth, doth not defile the man, but that which issueth out from his heart®.
+[Quid prodest oleo non vesci, et molestias quasdam diflicultatesque]
 
-[3 epulas, Lat. ]
+[ciborum queerere, carycas, piper, nuces, palmarum fructus, similam,]
 
-[4 ἀληθὴς νηστεία ἡ τοῦ κακοῦ ἀλλοτρίωσις, ἐγκράτεια γλώσσης, θυμοῦ ἐποχὴ, ἐπιθυμιῶν χωρισμὸς, καταλαλιᾶς, ψεύδους, ἐπιορκίας. ----Βα511. Hom. u. de Jejunio, T. m. p. 15. Paris. 1722.]
+[mel, pistacia? Tota hortorum cultura vexatur, ut cibario non ves-]
 
-[5 stata jejunia quadragesime, quatuor temporum, Lat. See Bingham’s Orig. Eccles. Lib. xx1. cap. 1. and cap. 2. § 1.]
+[camur pane; et dum delicias sectamur, a regno ccelorum retrahimur.]
 
-[8 Matt. xv. 11, 18.]
+[Audio praeterea quosdam, contra rerum hominumque naturam, aquam]
 
-Of the manner and time of fasting, and of the choice of meats.
+[non bibere, nec vesci pane; sed sorbitiunculas delicatas et contrita]
 
-## 432 the Second Decade. [Serm
+[olera, betarumque succum, non calice sorbere, sed concha. Proh pu-]
 
-«To the pure are all things pure'.” And Paul saith: “I know, and am persuaded through the Lord Jesus Christ, that nothing is common of itself; but to him that thinketh that any thing is common, to him is it common.” Again: “ Let not him which eateth despise him which eateth not; nor let him which eateth not judge him which eateth: for him that eateth the Lord hath taken*®.” Moreover, the place is evident, which the same Paul writeth in the fourth chapter of his first epistle to Timothy, where he affirmeth, that the forbidding of meats is a “doctrine of devils.” Neither needeth any man here to tell us any whit of the Tatians and Encratites*; for they did slander the good creatures of God. Paul speaketh of them who, although they do not utterly condemn meat and marriage, do yet notwithstanding forbid the use of meat. Difference in Furthermore, we do not read that any laws were ordained ne in that age which followed next after the preaching of the apostles, which did command and prescribe any time and order of fasting, or choice of meats. I will rehearse unto you, : dearly beloved, the words of Irenzus the martyr, which in the Ecclesiastical History of Eusebius are to be found word for word, as they are here set down: “The controversy is not only touching Easter-day, but also touching the manner of fasting. For some do think that the fast ought to be kept but one day only, other two, other more, and some whole forty days; so that, counting the hours of the night and day, they make a day. Which difference of observing the times is not now first of all in our age begun, but was brought in a great while ago (as I suppose) of them, which did not simply keep that which was taught from the beginning, but, either by negligence or unskilfulness, fell afterward into a worse use and custom. And yet notwithstanding, all these, though they jarred in the observation of times, were nevertheless and are
+[dor! non erubescimus istiusmodi ineptiis, nec tedet superstitionis?—]
 
-[1 Titus i. 15.]
+[Hieron. Opp. Par. 1706. Epist. xxx1v. ad Nepot. de Vit. Cler. Tom. 1v.]
 
-[2 Rom. xiv. 14, 3.
+[pars 2. col. 264.] [2 1 Cor. viii. 8. Erasmus’ rendering.]]
 
-[3 The Tatiani or Tatianists, who were also called Encratite, or abstainers, were the followers of Tatian in the second century of the Christian era. They held matter to be the source of all evil, and therefore discarded all the external comforts and conveniences of life, and fasted rigorously.—Mosheim. Eccles. Hist. Book 1. Cent. 11. part 2. chap. 5. § 9. Vol. 1. p. 195. ed. Soames. See also Early Writings of Hooper, Parker Soe. ed. p. 375.] agreeable with us; neither hath the discord about fasting broke our concord in faith’ Thus much Ireneus. More- over, Socrates Constantinopolitanus in the ninth book and thirty-eighth chapter of his® Tripartite History witnesseth, that about the year of our Lord 453, in the reign of Theodo- sius the younger, the same diversity was in the church, and setteth it down in these words following: “ Furthermore, they , have not the same kind of abstinence from meat. For some do altogether abstain from living creatures; some among liv-ing creatures do eat fish only; some with fish do feed on fowls also, saying, that they (as Moses saith) have their sub-stance of water; some are known to abstain from herbs and The Latin copy hath eggs; some do feed of dry bread only ; some not so much as ¢ais, which that: some, fasting nine hours, do then without difference use herbs; it may also be any kind of meat: and innumerable customs are found among ‘2¢f2 ἴσ sundry men.” Now the very same Socrates, shewing his opinion upon that diversity, doth say: “ And for because no ancient writing is found touching this thing, I think that the apostles left it free to every man’s judgment, that every one may work, not by fear or necessity, the thing that is good®.” Thus far Socrates. The fasts of Christians, therefore, ought Fastings must be
+abstain only, at a certain appointed time, from certain manner of meats; but he, which doth therefore refrain from the pleasures of the flesh, that thereby he may make it subject to the spirit, and do the works of faith and charity, which are acceptable in the sight of the Lord. If therefore thou dost desire to fast a true fast, eat, drink, and sleep, and take heed to thy body, that it wax not insolent; fast from all sin, eat not the meat of malice, taste not the juncats? of lust and pleasure, and be not set on fire with the wine of wantonness. Fast from evil deeds, abstain from evil words, and refrain thyself from naughty thoughts. For Basil also saith: “True fasting consisteth in freeness from vices, in continency of tongue, in suppressing of anger, in cutting off concupiscence, backbiting, lying, and perjury” &c. But even as the good works themselves, which are done by faith, do not merit the kingdom of heaven (for that glory is due to the merit of Christ alone); even so fasting, which is an aid and help to good works, doth not meritoriously deserve the kingdom of God.
 
-[4 οὐδὲ yap μόνον περὶ τῆς ἡμέρας ἐστὶν ἡ ἀμφισβήτησις, ἀλλὰ καὶ περὶ τοῦ εἴδους αὐτοῦ τῆς νηστείας. Οἱ μὲν γὰρ οἴονται μίαν ἡμέραν δεῖν αὐτοὺς νηστεύειν, of δὲ δύο, οἱ δὲ καὶ πλείονας" οἱ δὲ τεσσαράκοντα ὥρας ἡμερινάς τε καὶ νυκτερινὰς συμμετροῦσι τὴν ἡμέραν αὐτῶν. Καὶ τοιαύτη μὲν ποικιλία τῶν ἐπιτηρούντων οὐ νῦν ἐφ᾽ ἡμῶν γεγονυῖα, ἀλλὰ καὶ πολὺ πρότερον ἐπὶ τῶν πρὸ ἡμῶν, τῶν παρὰ τὸ ἀκριβὲς, ὡς εἰκὸς, κρατούντων, τὴν καθ᾽ ἁπλόtyta καὶ ἰδιωτισμὸν συνήθειαν εἰς τὸ μετέπειτα πεποιηκότων. Καὶ οὐδὲν ἔλαττον πάντες οὗτοι εἰρήνευσάν τε, καὶ εἰρηνεύομεν πρὸς ἀλλήλους, καὶ ἡ διαφωνία τῆς νηστείας τὴν ὁμόνοιαν τῆς πίστεως συνίστησι.---- ΕἸ 560. Histor. Eccles. Lib. v. cap. 24. ed. Burton. ]
+But now I see a doubtful disputation arise among the most divines of this our age, touching the time and manner of fastings, and also of the choice of meats. Some there are which affirm and uphold the fasts of Lent? and embering days, and such other, to be the fasts which God hath appointed. There are that say, thou hast not fasted, if by any means thou taste any flesh: and there are which prescribe and appoint some certain hours to fast in. But I, for my part, see not any such doctrines to be taught us in the scriptures. For the Lord in the gospel kept not any of their devised fasts, when he fasted forty days; but did altogether abstain from all kinds of meat, even as Moses and Helias had also done: wherefore he by that deed of his did not give us any law to fast so. Moreover, the Lord in the gospel doth evidently teach, that the thing, which entereth in by the mouth, doth not defile the man, but that which issueth out from his heart. [3 epulas, Lat.]
 
-[5 Not his, but the history compiled from him and others. ]
+[ ἀληθὴς νηστεία ἡ τοῦ κακοῦ ἀλλοτρίωσις, ἐγκράτεια γλώσσης, θυμοῦ ἐποχὴ; ἐπιθυμιῶν χωρισμὸς, καταλαλιᾶς, ψεύδους, émopkias.— Basil. Hom. 11. de Jejunio, T. 11. p. 15. Paris. 1722.]
 
-[6 Sed etiam ciborum abstinentiam non similem habent. Nam alii omnino ab animatis abstinent: alii ex animantibus pisces solummodo comedunt: quidam cum piscibus vescuntur et volatilibus, dicentes hzec secundum Mosen ex aqua habere substantiam: alii vero etiam caulibus et ovis abstinere noscuntur: quidam sicco tantummodo pane vescuntur: alii neque hoc. Alii, usque ad nonam jejunantes horam, sine discretione ciborum reficiuntur. Et innumere consuetudines apud diversos reperiuntur. Et quia nulla lectio de hoc invenitur antiqua, puto apostolos singulorum hoc reliquisse sententize, ut unusquisque operetur non timore, non necessitate, quod bonum est.—Hist. Tripart. ap. Cassiodori Opp. Lib. rx. cap. 38. Tom. v. p. 348. Rotomag. 1679.] free, andnot to be free, and not bound to laws. Apollinus, a certain laws. ancient and ecclesiastical writer, disputing against Montanus, the heretic, saith: “This is he which taught that marriages are undone, and which first of all hath appointed laws for men to fast by!.”
+[5 stata jejunia quadragesimee, quatuor temporum, Lat. See Bing-ham’s Orig. Eccles. Lib. xx1. cap. 1. and cap. 2. 1.]
 
-And verily, to go about to set down to all men and nations one manner of fasting in one appointed time, one prescribed order and choice of meat, is a mere folly, and a brain-sick kind of madness. For, according to the choice of air, so are men’s bodies of sundry temperatures, and one kind of meat doth not stir men of sundry complexions to one kind of affection. The most godly way, therefore, and profitable order for the church is, that all pastors in every congregation should teach sobriety, temperancy, and the true fast indeed: not presuming to prescribe any laws for the choice of meats or times, but leaving that free to every man and nation, who undoubtedly will have an especial eye to temper themselves from the things by which they perceive that their health? will be endangered ; but most of all in the time when the flesh beginneth to wax over wanton, or when some great peril hangeth over their head. For the time of fasting is not prorogued till an appointed number of years or days be expired, but till the looseness or wantonness of the flesh, temptations, or motions, be utterly bridled. Fastings being so ordered, as they be the exercises of godliness, obtain great praise indeed in the church of the Lord.
+**[6 Matt.** xv. 11, 18.]
 
-The sum of Thus much hitherto touching fasting. Now, to shut up he seven ‘ : Ξ . . presence this seventh precept, I say it forbiddeth all intemperance, it ment. commandeth holiness, and the clean and lawful use of all the members of the whole body. And therefore in this short precept there is contained a good part of the doctrine of Christ and his apostles. For Paul to the Thessalonians saith : “We beseech you, brethren, and exhort you by the Lord Jesus, that ye increase more and more, as ye have received of us how ye ought to walk, and to please God. For ye know
+“Τὸ the pure are all things pure.” And Paul saith: “1 know, and am persuaded through the Lord Jesus Cheist, that nothing is common of itself; but to him that thinketh that any thing is common, to him is it common.” Again: ‘ Let not him which eateth despise him which eateth net; nor let him which eateth not judge him which eateth: for him that eateth the Lord hath taken2” Moreover, the place is evident, which the same Paul writeth in the fourth chapter of his first epistle to Timothy, where he affirmeth, that the forbidding of meats is a “doctrine of devils.” Neither needeth any man here to tell us any whit of the Tatians and Encratites; for they did slander the good creatures of God. Paul speaketh of them who, although they do not utterly condemn meat and marriage, do yet notwithstanding forbid the use of meat. Diftrence in Furthermore, we do not read that any laws were ordained "in that age which followed next after the preaching of the apostles, which did command and prescribe any time and order of fasting, or choice of meats. I will rehearse unto you, dearly beloved, the words of Irenzus the martyr, which in the Ecclesiastical History of Eusebius are to be found word for word, as they are here set down: The controversy is not only touching Easter-day, but also touching the manner of fasting. For some do think that the fast ought to be kept but one day only, other two, other more, and some whole forty days; so that, counting the hours of the night and day, they make a day. Which difference of observing the times is not now first of all in our age begun, but was brought in a great while ago (as I suppose) of them, which did not simply keep that which was taught from the beginning, but, either by negligence or unskilfulness, fell afterward into a worse use and custom. And yet notwithstanding, all these, though they jarred in the observation of times, were nevertheless and are
 
-{1 Auctor Euseb. Ecclesiast. Hist. Lib. v. cap. 18, Lat. οὗτός ἐστιν ὁ διδάξας λύσεις γάμων, ὁ νηστείας νομοθετήσας.---- 560. Hist. Eccles. Lib. v. cap. 18. ed. Burton. The writer is Apollonius.—Routh, Reliq. Sacr. Tom. 1. p. 466. Oxon. 1846. See also Calvin. Comment. in 1, Ep. ad Tim. cap. rv. v. 3. Tom. vi. p. 455. ed. Amst. ]
+[1 Titus i. 15.] [2 Rom. xiv. 14, 3.] [3 The Tatiani or Tatianists, who were also called Encratite, or ί]
 
-[2 Suze integritati, Lat. } what commandments we gave you by the Lord Jesus. For this is the will of God, even your holiness; that ye should abstain from fornication; that every one of you should know how to possess his vessel‘ in holiness and honour; not in the lust of concupiscence, as the Gentiles, which knew not God. God is a revenger of all such, as we have forewarned you and testified. For God hath not called us unto uncleanness, but unto holiness®.” And straightway after again: “The God of peace sanctify you throughout, that your whole spirit, and soul, and body, may be preserved blameless in the coming of our Lord Jesus Christ®.”
+[abstainers, were the followers of Tatian in the second century of the]
+
+[Christian era. They held matter to be the source of all evil, and]
+
+[therefore discarded all the external comforts and conveniences of life,]
+
+[and fasted rigorously.—Mosheim. Eccles. Hist. Book 1. Cent. 11. part 2.]
+
+[chap. 5. 9. Vol. τ. p. 195. ed. Soames. See also Early Writings of]
+
+[Hooper, Parker Soc. ed. p. 375.]]
+
+agreeable with us; neither hath the discord about fasting broke our concord in faith%” Thus much Irenszus. Moreover, Socrates Constantinopolitanus in the ninth book and thirty-eighth chapter of his Tripartite History witnesseth, that about the year of our Lord 453, in the reign of Theodosius the younger, the same diversity was in the church, and setteth it down in these words following: Furthermore, they have not the same kind of abstinence from meat. For some do altogether abstain from living creatures; some among living creatures do eat fish only; some with fish do feed on fowls also, saying, that they (as Moses saith) have their substance of water; some are known to abstain from herbs and eggs; some do feed of dry bread only; some not so much as that: some, fasting nine hours, do then without difference use any kind of meat: and innumerable customs are found among sundry men.” Now the very same Socrates, shewing his opinion upon that diversity, doth say: “And for because no ancient writing is found touching this thing, I think that the apostles left it free to every man’s judgment, that every one may work, not by fear or necessity, the thing that is good.” Thus far Socrates. The fasts of Christians, therefore, ought
+
+[4 οὐδὲ yap μόνον περὶ τῆς ἡμέρας ἐστὶν ἡ ἀμφισβήτησις, ἀλλὰ kai περὶ]
+
+[τοῦ εἴδους αὐτοῦ τῆς νηστείας. Οἱ μὲν γὰρ οἴονται μίαν ἡμέραν δεῖν αὐτοὺς]
+
+[νηστεύειν, οἱ δὲ δύο, οἱ δὲ καὶ πλείονας οἱ δὲ τεσσαράκοντα ὥρας ἡμερινάς]
+
+[τε καὶ νυκτερινὰς συμμετροῦσι τὴν ἡμέραν αὐτῶν. Καὶ τοιαύτη μὲν ποικιλία]
+
+[τῶν ἐπιτηρούντων οὐ νῦν ἐφ ἡμῶν γεγονυῖα, ἀλλὰ καὶ πολὺ πρότερον ἐπὶ]
+
+[τῶν πρὸ ἠμῶν, τῶν παρὰ τὸ ἀκριβὲς, ὡς εἰκὸς, κρατούντων, τὴν καθ᾽ ἁπλό-]
+
+[τητα καὶ ἰδιωτισμὸν συνήθειαν εἰς τὸ μετέπειτα πεποιηκότων. Καὶ οὐδὲν]
+
+[ἔλαττον πάντες οὗτοι εἰρήνευσάν τε, καὶ εἰρηνεύομεν πρὸς ἀλλήλους, καὶ ἡ]
+
+[διαφωνία τῆς νηστείας τὴν ὁμόνοιαν τῆς πίστεως συνίστησι.---- 500 Histor.]
+
+[Eccles. Lib. v. cap. 24. ed. Burton. ] [5 Not kis, but the history compiled from him and others.] [6 Sed etiam ciborum abstinentiam non similem habent. Nam alii]
+
+[omnino ab animatis abstinent: alii ex animantibus pisces solummodo]
+
+[comedunt: quidam cum piscibus vescuntur et volatilibus, dicentes heee]
+
+[secundum Mosen ex aqua habere substantiam: alii vero etiam cau-]
+
+[libus et ovis abstinere noscuntur: quidam sicco tantummodo pane]
+
+[vescuntur: alii neque hoc. Alii, usque ad nonam jejunantes horam,]
+
+[sine discretione ciborum reficiuntur. Et innumers consuetudines apud]
+
+[diversos reperiuntur. Et quia nulla lectio de hoc invenitur antiqua,]
+
+[puto apostolos singulorum hoc reliquisse sententize, ut unusquisque]
+
+[operetur non timore, non necessitate, quod bonum est.—Hist. Tripart.]
+
+[ap. Cassiodori Opp. Lib. 1x. cap. 38. Tom. v. p. 348. Rotomag. 1679.] 28 [BULLINGER.]]
+
+not 0 be free, and not bound to laws. Apollinus, a certain ancient and ecclesiastical writer, disputing against Montanus, the heretic, saith: This is he which taught that marriages are undone, and which first of all hath appointed laws for men to fast byl”
+
+And verily, to go about to set down to all men and nations one manner of fasting in one appointed time, one prescribed order and choice of meat, is a mere folly, and a brain-sick kind of madness. For, according to the choice of air, so are men’s bodies of sundry temperatures, and one kind of meat doth not stir men, of sundry complexions to one kind of affection. The most godly way, therefore, and profitable order for the church is, that all pastors in every congregation should teach sobriety, temperancy, and the true fast indeed: not presuming to prescribe any laws for the choice of meats or times, but leaving that free to every man and nation, who undoubtedly will have an especial eye to temper themselves from the things by which they perceive that their health? will be endangered; but most of all in the time when the flesh beginneth to wax over wanton, or when some great peril hangeth over their head. For the time of fasting is not prorogued till an appointed number of years or days be expired, but till the looseness or wantonness of the flesh, temptations, or motions, be utterly bridled. Fastings being so ordered, as they be the exercises of godliness, obtain great praise indeed in the church of the Lord.
+
+**6.** Thus much hitherto touching fasting. Now, to shut up this seventh precept, I say it forbiddeth all intemperance, it commandeth holiness, and the clean and lawful use of all the members of the whole body. And therefore in this short precept there is contained a good part of the doctrine of Christ and his apostles. For Paul to the Thessalonians saith: “We beseech you, brethren, and exhort you by the Lord Jesus, that ye increase more and more, as ye have received of us how ye ought to walk, and to please God. For ye know
+
+[1 Auctor Euseb. Ecclesiast. Hist. Lib. v. cap. 18, Lat. Οὗτός]
+
+[ἐστιν ὁ διδάξας λύσεις γάμων, 6 νηστείας vopoberoas.——Euseb. Hist.]
+
+[Eccles. Lib. v. cap. 18. ed. Burton. The writer is Apollonius.— Routh,]
+
+[Reliq. Sacr. Tom. 1. p. 466. Oxon. 1846. See also Calvin. Comment.]
+
+[in 1. Ep. ad Tim. cap. 1v. v. 3. Tom. vir. p. 455. ed. Amst.] (2 Suse integritati, Lat.]]
+
+what commandments we gave you by the Lord? Jesus. For this is the will of God, even your holiness; that ye should abstain from fornication; that every one of you should know how to possess his vessel? in holiness and honour; not in the lust of concupiscence, as the Gentiles, which knew not God. God is a revenger of all such, as we have forewarned you and testified. For God hath not called us unto uncleanness, but unto holiness” And straightway after again: “The God of peace sanctify you throughout, that your whole spirit, and soul, and body, may be preserved blameless in the coming of our Lord Jesus Christ6.”.
 
 I have again, my brethren, passed beyond the appointed time of an ordinary sermon, staying you longer than I am wont to do. Pardon this fault; for, I hope, I have not troubled you, almost two whole hours, without profiting you any whit at all. Make your prayers now, and depart in peace. By the help and will of God I will, within these few days, add the rest of the ten commandments. The grace of our Lord and Saviour Jesus Christ be with you all. Amen.
 
-[3 Dominum nostrum, Lat. our Lord. |
+[3 Dominum nostrum, Lat. our Lord.] [ suum inquam corpus, Lat. omitted by the translator:—I mean,]
 
-[4 suum inquam corpus, Lat. omitted by the translator :—I mean, his body. ]
+[his body.] [6 1 Thess. iv. 1—7. immunditize causa, Lat. Erasmus’ rendering. ] [6 1 Thess. v. 23. The rendering in Cranmer’s Bible is more agree-]
 
-[5 1 Thess. iv. 1—7. immunditise causa, Lat. Erasmus’ rendering. |
+[able with Bullinger’s text: viz. “So that in nothing ye may be blamed]
 
-[6 1 Thess. vy. 23. The rendering in Cranmer’s Bible is more agreeable with Bullinger’s text: viz. “So that in nothing ye may be blamed in the coming of our Lord Jesus Christ.”]
+[in the coming of our Lord Jesus Christ.”]]
 
-PAGE 15 note 7 29 line 9 83 note 5 9] 3 112 line 32 123 note 4 129 line 22 212 note 2 320 line 1
+## Errata. Page Note Line for "read
 
-## Errata
+10 2 1 hee hanc 138 2 8 reyis regio -Ξ -- 12 lationis latronis 202 1 2 ine sine
 
-NOTE LINE FOR READ 2 1 hee hane 2 8 regis regio ἜΣ 12 lationis latronis 1 2 ine sine ADDENDA.
+[ADDENDA.]
 
-line 8 παθόντα, 12 ἢ τρεπτὸν,
+[15 note 7 line ὃ παθόντα, ---. 12 ἢ τρεπτὸν.]
 
-“sat at the right hand of God,” should have been noted as an interpolation of the Translator’s.
+[29 line 9 ‘“sat at the right hand of God,” should have been noted as an interpolation of the Translator’s.]
 
-of the Saviour: ab ipso Salvatore, Lat.
+[53 13 of the Saviour: ab ipso Salvatore, Lat.]
 
-Mark, dele’, and insert [Matt. xv. 9.]
+[54 33 Mark,]
 
-The definition is taken from Budzi Comment. Ling. Gree. p. 103.
+[64 21 dele 2, and insert [ Matt. xv. 9.]]
 
-cf. Tertull. adv. Praxean. cap. 10. Tom. II. p. 161. ed. Semler. Hal. Mag. 1828, which passage, no doubt, Bullinger had here in his mind, as he has referred to it also in his Exposit. Epist. ad Roman. iv. 20, 21. p. 47. Tigur. 1537.
+[83 note 5 The definition is taken from Budai Comment. Ling. Grzc. p. 103.]
 
-So in his Expos. Epist. ad Rom. iii. 26. p. 35, Bullinger writes : Hactenus exposuit (Paulus) fidem, videlicet in Christum, id est, ipsum Christum Jesum, Dei filium, cui fidimus, veram esse pii hominis justitiam.
+[91 3 cf. Tertull. adv. Praxean. cap. 10. Tom. II. p. 161. ed. Semler. Hal. Mag. 1828, which passage, no doubt, Bullinger had here in his mind, as he has referred to it also in his Exposit. Epist. ad Roman. iv. 20, 21. p. 47. Tigur. 1537.]
 
-line 13. Of this treatise Bullinger himself says in his Comment. in Lucam. Lib. 1. p. 17. Tigur. 1546.—que S. Cyprianus, sive is Ruffinus est, scripsit.
+[112 line 32 So in his Expos. Epist. ad Rom. iii. 26. p. 35, Bullinger writes: Hactenus exposuit (Paulus) fidem, videlicet in Christum, id est, ipsum Christum Jesum, Dei filium, cui fidimus, veram esse pii hominis justitiam.]
 
-cf. Augustine’s Enarrat. in Psalm. cit.
+[123 note 4 line 13. Of this treatise Bullinger himself says in his Comment. in Lucam. Lib. 1. p. 17. Tigur. 1646.—qua S. Cyprianus, sive is Ruffinus est, scripsit.]
 
-See Pearson on the Creed. Art.7. p. 455. Vol. 1. and Vol, 11. p-. 365. Oxf. 1820.
+[129 line 22 cf. Augustine’s Enarrat. in Psalm. cit.]
 
-Symbolum secundo conditum disertis verbis in hunc modum confitendum docet: πιστεύω els τὸ Πνεῦμα τὸ ἅγιον τὸ Κύριον, τὸ λαλῆσαν διὰ τῶν προφητῶν εἰς μίαν καθολικὴν καὶ ἀποστολικὴν ἐκκλησίαν, hoc est, Credo in Spiritum sanctum Dominum, qui loquutus est per prophetas in unam catholicam et apostolicam ecclesiam. Audis unum atque eundem esse Spiritum, qui per prophetas loquator in unam generalem ecclesiam, olim quidem a prophetis, nunc ab apostolis, verbo veritatis, qui Sancti Spiritus instinctus est, collectam. Bullingeri Comment. in 1 Epist. Petri. cap. i. p. 11.
+[154 9 See Pearson on the Creed. Art. 7. p.455. Vol. 1. and Vol. 11. p. 365. Oxf. 1820.]
 
-See Erasmi Adag. Chili. p. 500, conscientia mille testes.
+[158 23 Symbolum secundo conditum disertis verbis in hunc modum confitendum docet: πιστεύω eis τὸ Πνεῦμα τὸ ἅγιον τὸ Κύριον, τὸ λαλῆσαν διὰ τῶν προφητῶν εἰς μίαν καθολικὴν καὶ ἀπο- στολικὴν ἐκκλησίαν, hoc est, Credo in Spiritum sanctum Dominum, qui loquutus est per prophetas in unam catholicam et apostolicam ecclesiam. Audis unum atque eundem esse Spiritum, qui per prophetas loquatur in unam generalem ecclesiam, olim quidem a prophetis, nunc ab apostolis, verbo veritatis, qui Sancti Spiritus instinctus est, collectam. Bullingeri Comment. in 1 Epist. Petri. cap. i. p. 11.]
 
-See an anecdote of Celio Secundo Curio in M‘Crie’s Hist. of Reform. in Italy, p. 102. Lond. 1827.
+[195 36 See Erasmi Adag. Chili. p. 500, conscientia mille testes.]
 
-cf. Bp. Hooper’s Karly Writ. ed. Park. Soc. p. 78.
+[212 note 2 See an anecdote of Celio Secundo Curio in MCrie’s Hist. of Reform. in Italy, p. 102. Lond. 1827.]
 
-These were the Anabaptists’ objections. See Bullinger. adv. Anabapt. Lib. v. cap. 4.
+[320 line l cf. Bp. Hooper’s Early Writ. ed. Park. Soc. p. 78.]
 
-## The
+[350 6 These were the Anabaptists’ objections. See Bullinger. adv. Anabapt. Lib. v. cap. 4.]
 
-## Eighth Annual Report
-
-## (For the Year 1848.) Of
+## The (for the Year 1848.) of
 
 The Parker Society,
 
-## Instituted A.d. 1840
+## Instituted 1840. for the Publication of Works of the Fathers and Early Writers Reformed English Church. To the General Meeting, May
 
-## For the Publication Of
+(Archbishop Parker) was a great collector of ancient and modern safe preservation of them for all succeeding times; as foreseeing, made of them by posterity; that, by having recourse to such originals of things might the better appear.” he was a great patron and promoter of good learning, so he took care a great instrument of the increase thereof.”
 
-## The Works of the Fathers and Early Writers of the Reformed English Church
+Strype’s Life
 
-## Presented to the General Meeting, May the 2181, 1849
+[The Council of the Parker Society have to lay before the Members the]
 
-“ He (Archbishop Parker) was a great collector of ancient and modern writings, and took especial care of the safe preservation of them for all succeeding times; as foreseeing, undoubtedly, what use might be made of them by posterity ; that, by having recourse to such originals and precedents, the true knowledge of things might the better appear.”
+[following Report of the proceedings of the past year: —]
 
-“ As he was a great patron and promoter of good learning, so he took care of giving encouragement to printing—a great instrument of the increase thereof.”
+[The total receipts, from all sources, for the year just closed were]
 
-Strype’s Life of Archbishop Parker.
+[£5983, 16s. 1d.; the total payments £6357, 7s. 8d., leaving a balance]
 
-The Council of the Parker Society have to lay before the Members the following Report of the proceedings of the past year:— =|
+[against the Society of £373, 115. 7d., which comprises several payments for]
 
-The total receipts, from all sources, for the year just closed were £5983, 16s. Id.; the total payments £6357, 7s. 8d., leaving a balance against the Society of £373, 11s. 7d., which comprises several payments for books in progress, to appear in future years.
+[books in progress, to appear in future years.]
 
-The books for the year 1848 which have been circulated among the Subscribers were four in number :—Ist. A third portion of Bishop Jewel’s works; containing his celebrated Apology, both in the original Latin, and in Lady Bacon’s English Translation; also, a part of the Defence of the Apology.
+[The books for the year 1848 which have been circulated among the]
 
-2nd. Doctrinal Treatises of Tyndale, the martyr, and translator of the Scriptures.
+[Subseribers were four in number:—1st. A third portion of Bishop Jewels]
 
-3rd. A portion of the Writings of Bradford; containing various Sermons, Meditations, and other Tracts, by that honoured martyr.
+[works; containing his celebrated Apology, both in the original Latin, and in]
 
-4th. Fulke’s Answer to Stapleton, Martiall, and Sanders; being a supplement to Calfhill’s work, published in 1846.
+[Lady Bacon’s English Translation; also, a part of the Defence of the Apology.]
 
-A small edition of the Latin originals of the Letters printed in two parts in 1846 and 1847, has been issued to those who paid the specified additional subscription.
+[2nd. Doctrinal Treatises of Tyndale, the martyr, and translator of the]
 
-For the year 1849, the following books are in preparation :—
+[Scriptures.]
 
-Ist. Another portion of Tyndale’s Works.
+[3rd. A portion of the Writings of Bradford; containing various Sermons,]
 
-2nd. A volume of Bullinger’s Decades, a work of great importance, having been prescribed by the Convocation of 1586 as a manual for the clergy.
+[Meditations, and other Tracts, by that honoured martyr.]
 
-3rd. Selections from the Writings of Bishop Bale.
+[4th. Fulke’s Answer to Stapleton, Martiall, and Sanders; being a]
 
-4th. A translation of Whitaker's valuable Disputation on Holy Scripture. These volumes, it is confidently expected, will have been circulated among the members before Christmas.
+[supplement to Calfhill's work, published in 1846.]
 
-## 2 the Eighth Report of the Council
+[A small edition of the Latin originals of the Letters printed in two parts in]
 
-In reference to future proceedings, the Council feel that they may now speak more definitely than they have hitherto ventured to do. A wish has frequently been expressed by subscribers, to know how long the series of re-publicatiuns was likely to last; but, in the early stages of their progress, the Council could only pomt out certain works which they felt it desirable to print, and promise that pains should be taken to issue these as speedily as circumstances, with a due regard to the creditable editing of them, would allow. Now, however, when much has been accomplished, and many volumes have been presented to the subscribers, the Council can more easily define what remains to be done. They are sure that the members will agree with them in deeming the works of Bishop Jewel, and of Archbishop Whitgift, of the highest importance, which it would be a discredit to the Society to leave unfinished. To complete Jewel and to publish Whitgift must, therefore, be a main object. Simultaneously with these may proceed the remaining volumes of Tyndale, Bradford, and Hooper, of which portions have already appeared. There are also in forward preparation Archbishop Parker’s Correspondence, Rogers on the Articles, the remainder of Bullinger s Decades, the Reformatio Legum, Nowel’s Catechisms, with a few other valuable treatises and documents. The precise time of completing these must of course depend upon the support the Council continue to receive; but it may be stated with confidence, that about four years will suffice to place the works they have enumerated in the hands of the subscribers, who will then possess a series of the most important character.
+[1846 and 1847, has been issued to those who paid the specified additional]
 
-If these volumes have been more generally controversial than some persons expected, the Council would remind their friends that a peculiar value must always attach to them as evidence of the opinions of men to whom, under God, we owe the deliverance of our Church from the foreign yoke under which she had for centuries laboured, and who compiled and settled those formularies which are her present standards of doctrine. On every point connected with the doctrine and discipline of the Church the opinions of such men must be of ifcalculable interest. They were ner defenders against external and internal assailants; they were the expounders of the truths which they had contributed to embody. Of course it is not intended to assert that the private writings of any divines, however venerable and eminent, can claim a public authority; but public standards may indisputably be illustrated by the contemporaneous writings of their compilers, and the spirit in which they were conceived, and the sense they were designed to convey be hence better understood.
+[subscription.]
 
-And it is to be observed, that the writers of the Reformation era demand respect, not only for the circumstances under which they wrote, but because they were the distinguished men of an age neither unlearned nor unadorned with genius of the highest order; besides, they were men, not only of uatural endowments, but of primitive zeal and piety. They, many of them, obtained the martyr’s crown, and are, therefore, worthy to be had in everlasting remembrance. Their faults, in a great measure, were those of the system in which they had been nurtured, or of the period in which they lived ; their graces were the peculiar and excellent gift of Him who raises up and strengthens His own instruments for the great work He is accomplishing in the earth: they were honoured by Him, they should be honoured and esteemed by us
+[For the year 1849, the following books are in preparation:—]
 
-The Council feel grateful to God that they have been enabled to put forth the works of so many of these men, that they have been permitted so far to complete their original design ; and they would earnestly solicit from the members sueh continued support, as that they may not have to leave undone that which yet remains.
+[Ist. Another portion of Tyndale’s Works.]
 
-ΔΛΟΊ SIONVUd “TIVNMOd AUNTH
+[2nd. A volume of Bullinger’s Decades, a work of great importance, having]
 
-“το. py ῷ Z LSEe9¥ ope ies eee "TBO noon an
+[been prescribed by the Convocation of 1586 as a manual for the clergy.]
 
-Smnmvun ὦ προ τοὺ πρυκουν νον εἴ 66 sosuadxa (1104 snowwea ἃ put ‘sjvoo ‘aSeriuva ‘eSejsod Surpnyour ‘speyuaprout 10,4
+[3rd. Selections from the Writings of Bishop Bale.]
 
-Il 9 Tees Sees SHOOR FUNDY pus ἀχϑποιη81ς OJ ¢ 9 tarde Foe hee? = Sinaia pus slung (ΟἿ ΟἹ Fg tert seecsresece os syas aqajdmos 0} paseyoind syoog
+[4th. A translation of Whitaker's valvable Disputation on Holy Seripture.]
 
-“Ὁ ‘S19J10g PUB 5. 1910 ΕἸ 8h | Jo sasv Ay puv *‘Aaeyaioag 10 Arepeg “0110 jo 29} 10] εΣ eg dre ang be een SUIMISI}IIAPVW Ὗ Joy pus “ΔΒποα. pus syodoy “δι 8} 4 Suyug 10.7 LU TT
+[These volumes, it is confidently expected, will have been circulated among]
 
-Z1¢ Merete state IS oily wou oouvansuy 10g lL 692 veestrescreecgreesesseeeesggguada BHOUPT 20,3 gt ΠῚ Terre eeeeeseeceerercoess ΔΎΟ ΤΙ; pus Sulpuig 10g Gl 6016 “" SFST 10} Syooq 911 Jo sodvy pu Sunutitg 10} preg Cer a ‘dIvg ᾧ δι ον ὁ ὃ διῳι φ᾽' δ' δ᾽ δ᾽'δ᾽)᾽ ὁ. ὁ. δ' ὁ ᾧ ὁ ἃ ς
+[the members before Christmas.]
 
-Areiqvy eevee
+In reference to future proceedings, the Council feel that they may now speak more definitely than they have hitherto ventured to do. A wish has frequently been expressed by subscribers, to know how long the series of re-publications was likely to last; but, in the early stages of their progress, the Council could only point out certain works which they felt it desirable to print, and promise that pains should be taken to issue these as speedily as circumstances, with a due regard to the creditable editing of them, would allow. Now, however, when much has been accomplished, and many volumes have been presented to the subscribers, the Council can more easily define what remains to be done. They are sure that the members will agree with them in deeming the works of Bishop Jewel, and of Archbishop Whitgift, of the highest importance, which it would be a discredit to the Society to leave unfinished. To complete Jewel and to publish Whitgift must, therefore, be a main object. Simultaneously with these may proceed the remaining volumes of Tyndale, Bradford, and Hooper, of which portions have already appeared. There are also in forward preparation Archbishop Parker’s Correspondence, Rogers on the Articles, the remainder of Bullinger s Decades, the Reformatio Legum, Nowel’s Catechisms, with a few other valuable treatises and documents. The precise time of completing these must of course depend upon the support the Council continue to receive; but it may be stated with confidence, that about four years will suffice to place the works they have enumerated in the hands of the subscribers, who will then possess a series of the most important character.
 
-## Ἔρβι Uvaa Ahl Wo
+If these volumes have been more generally controversial than some persons expected, the Council would remind their friends that a peculiar value must always attach to them as evidence of the opinions of men to whom, under God, we owe the deliverance of dur Church from the foreign yoke under which she had for centuries laboured, and who compiled and settled those formularies which are her present standards of doctrine. On every point connected with the doctrine and discipline of the Church the opinions of such men must be of incalculable interest. They were her defenders against external and internal assailants; they were the expounders of the truths which they had contributed to embody. Of course it is not intended to assert that the private writings of any divines, however venerable and eminent, can claim a public authority; but public standards may indisputably be illustrated by the contemporaneous writings of their compilers, and the spirit in which they were conceived, and the sense they were designed to convey be hence better understood.
 
-8 L Lloegr
+[And it is to be observed, that the writers of the Reformation era demand]
 
-Ῥ 2199 9 81 π|9160 Il Il ¥6 ‘D'S F renee eeeeee smog
+[respect, not only for the circumstances under which they wrote, but because]
 
-Fetes eee seeeecsceeeeeees Jomsealy 09 ὉΠΡ θυ εἰ seeeese* gunosoe [ig qanboyoxm “ τ" μὲ
+[they were the distinguished men of an age neither unlearned nor um-]
 
-ΛΎΣΙΣ ΣΦ Σ δ ΦΆΠΟΟΟΌ S[OSUOD UO Ὀϑλιθοϑα JUNOULY
+[adorned with genius of the highest order; besides, they were men, not only]
 
-** savaX snotaoid pue 681] 10} paatooer storydiosqng οἷς 0:9 66 8 O60 sR cee ew te oe LFSI wor 2η3ποια oourleg “CH AIRZONY
+[of natural endowments, but of primitive zeal and piety. They, many of]
 
-‘ALAIOOS UAMUVd AHL JO LNQOOOV HSVO AHL JO LOVULSAV
+[them, obtained the martyr’s crown, and are, therefore, worthy to be had in]
 
-Soper SS
+[everlasting remembrance. Their faults, in a great measure, were those of the]
 
-## 4 the Laws of the Parker Society
+[system in which they had been nurtured, or of the period in which they lived;]
 
-## Laws Of,the Parker Society
+[their graces were the peculiar and excellent gift of Him who raises up and]
 
-I.—That the Society shall be called THE PARKER SOCIETY, and that it objects shall be—first, the reprinting, without abridgement, alteration, or omission, of the best Works of the Fathers and Early Writers of the Reformed English Church, published in the period between the accession of King Edward VI. and the death of Queen Elizabeth: secondly, the printing of such remains of other Writers of the Sixteenth Century as may appear desirable (including, under both classes, some of the early English Translations of the Foreign Reformers) ; and thirdly, the printing of some manuscripts of the same Authors, hitherto unpublished.
+[strengthens His own instruments for the great work He is accomplishing in the]
 
-II1.—That the Society shall consist of such a number of members, being subscribers of at least One Pound each annually, as the Council may determine; the subscription to be considered due on the First day of January in each year, in advance, and to be paid on or before such a day as the Council may fix ; sufficient notice being given of the day appointed.
+[earth: they were honoured by Him, they should te honoured and esteemed by us The Council feel grateful to God that they have been enabled to put forth]
 
-II.—That the Management of the Society shall be vested in a President, a Treasurer, a Librarian, and a Council of twenty-four other subscribers, being members of the established Church, of whom not less than sixteen shall be Clergymen. The Council and Officers to be elected annually by the subscribers, at a General Meeting to be held in the month of May; and no persons shall then be proposed who are not already members of the Council, or Officers, unless their names shall have been transmitted to the Secretaries on or before the 15th of April in the current year, by nominations in writing, signed by at least five subscribers. And that there be three Secretaries appointed by the Council ; also that the Council have power to fill all vacancies during the year.
+[the works of so many of these men, that they have been permitted so far to]
+
+[complete their original design; and they would earnestly solicit from the mem-]
+
+[bers such continued support, as that they may not have to leave undone that which]
+
+[yet remains.]
+
+ye Ὁ τὸ
+
+## Beb”
+
+bop β. Ἐ - Ear '
+
+## i
+
+[QL ἵ NN ΩΝ ish a ἔνδον 4 i gi 1 ἘΕῚ
+
+## Ser 1
+
+g if] αν ἢ
+
+ΤῊ [ἐ pany ate oo in Bihan F101 11 Hg aE
+
+## 
+
+ἘΠ ἢ ya EE] La {hf ΠΗΠΗΙΕ 3 Ε Ξ ἐξ Ξ 5 ΠῚ Hi Ξ “ᾳ 3 Ὁ = Ξ TEER 2853 Coie my TE Hi ΤΠ ΗΕ 2: iE AEA: HE LER pide = 1 Hail ΞΕ ΞΞΊΣΙΣ ΔΈΗΙ HEED Hii τ RHEE pk IEEE - -: ἐ + Si 9 IE 22 τ τ: Ξ =
+
+## 
+
+FR ty γον Lu 5545 ΩΝ as 4 ἀρ ἐμένα
+
+[ὩΣ]
+
+[OD Ne rs]
+
+[Ξ ἘΠ]
+
+[adie FILE]
+
+[gis]
+
+[SEP]
+
+[ἌΜΕ]
+
+[ἜΛΡΕ]
+
+[ΓΝ]
+
+[1114]
+
+[= 2%;]
+
+[325 Ξ]
+
+[= 3]
+
+[2 8]
+
+[cs Ez]
+
+[ER Ξ]
+
+[FRI]
+
+[523 3 = fs a)]
+
+## Laws of the Parker Society
+
+I.—That the Society shall be called THE PARKER SOCIETY, and that it objects shall be—first, the reprinting, without abridgement, alteration, or omission, of the best Works of the Fathers and Early Writers of the Reformed English Church, published in the period between the accession of King Edward VI. and the death of Queen Elizabeth: secondly, the printing of such remains of other Writers of the Sixteenth Century as may appear desirable (including, under both classes, some of the early English Translations of the Foreign Reformers); and thirdly, the printing of some manuscripts of the same Authors, hitherto unpublished.
+
+IT.—That the Society shall consist of such a number of members, being subscribers of at least One Pound each annually, as the Council may determine; the subscription to be considered due on the First day of January in each year, in advance, and to be paid on or before such a day as the Council may fix; sufficient notice being given of the day appointed.
+
+III.—That the Management of the Society shall be vested in a President, a Treasurer, a Librarian, and a Council of twenty-four other subscribers, being members of the established Church, of whom not less than sixteen shall be Clergymen. The Council and Officers to be elected annually by the subscribers, at a General Meeting to be held in the month of May; and no persons shall then be proposed who are not already members of the Council, or Officers, unless their names shall have been transmitted to the Secretaries on or before the 15th of April in the current year, by nominations in writing, signed by at least five subscribers. And that there be three Secretaries appointed by the Council; also that the Council have power to fill all vacancies during the year.
 
 IV.—That the accounts of the receipt and expenditure of the Society shall be examined every year, previously to the General Meeting by four Auditors, two of them selected from the Council, and two appointed by the preceeding General Meeting.
 
-V.—That the funds shall be expended in the payment of the expenses incurred in producing the works published by the Society, so that every member not in arrear of his or her annual subscription, shall receive a copy of every work published by the Society during the year, for each sum of One Pound subscribed, without any charge for the same; and that the number of copies printed in each year, shall be limited to the quantity required for the number actually subscribed for.
+**v. 1.** That the funds shall be expended in the payment of the expenses incurred in producing the works published by the Society, so that every member not in arrear of his or her annual subscription, shall receive a copy of every work published by the Society during the year, for each sum of One Pound subscribed, without any charge for the same; and that the number of copies printed in each year, shall be limited to the quantity required for the number actually subscribed for.
 
-ViI.—That every member of the Society who shall intimate to the Council a desire to withdraw, or who shall not pay the subscription by the time appointed, shall cease to be a member of the Society ; and no Member shall at any time incur any liability beyond the annual subscription.
+VI.—That every member of the Society who shall intimate to the Council a desire to withdraw, or who shall not pay the subscription by the time appointed, shall cease to be a member of the Society; and no Member shall at any time incur any liability beyond the annual subscription.
 
-VIi.—That, after the commencement of the proceedings, no rule shall be made or altered excepting at a General Meeting, and after notice of the same has been communicated to the members by circulars, or by advertisement in Ἂν London daily newspapers, at least fourteen days before the General eeting.
+VII.—That, after the commentement of the proceedings, no rule shall be made or altered excepting at a General Meeting, and after notice of the same has been communicated to the members by circulars, or by advertisement in ho London daily newspapers, at least fourteen days before the General eeting.
 
-VIII.—Donations and Legacies will be thankfully received ; the amount of which shall be expended by the Council in supplying copies of the publications to clerical, or other libraries, destitute of funds to purchase the same, and for such other purposes, connected with the objects of the Society, as the Council may determine.
+VIII.—Donations and Legacies will be thankfully received; the amount of which shall be expended by the Council in supplying copies of the publications to clerical, or other libraries, destitute of funds to purchase the same, and for such other purposes, connected with the objects of the Society, as the Council may determine.
 
-THE MEMBERS OF THE PARKER SOCIETY. ὃ
+FOLLOWING NAMES, AMONG OTHERS, ARE IN THE
 
-## The Following Names, Among Others, Are in the List of Subscribers To
+## Of Subscribers to the Parker Society. Most Gracious Majesty Adelaide, Queen Dowager. His Royal Highness the Prince Albert. His Majesty the King of Prussia. Her Royal Highness the Duchess of Kent
 
-Che Parker Society,
+[His Grace THE Lorp ArcEBISHOP OF CANTERBURY.—HIs GRACE THE LORD ARCHBISHOP OF YORK.]
 
-HER MOST GRACIOUS MAJESTY ADELAIDE, QUEEN DOWAGER. HIS ROYAL HIGHNESS THE PRINCE ALBERT. HIS MAJESTY THE KING OF PRUSSIA. HER ROYAL HIGHNESS THE DUCHESS OF KENT.
+[His Grace the Duke of Devonshire.—His Grace the Duke of Manchester.]
 
-His Grace He Lorp ΑΒΟΉΒΙΒΗΟΡ or CanTerBURY.—His Grace THE Lorp ARcHBISHOP OF YORK.
+[—His Grace the Duke of Sutherland.—His Grace the Duke of Roxburghe.]
 
-His Grace the Duke of Devonshire.—His Grace the Duke of Manchester.
+[The most Honourable the Marquesses of Bute, Cholmondeley, Conyngham,]
 
-—His Grace the Duke of Sutherland.— His Grace the Duke of Roxburghe.
+[Downshire, Northampton, Ormonde, and Salisbury.]
 
-The most Honourable the Marquesses of Bute, Cholmondeley, Conyngham,
+[The Right Honourable the Earis of Cavan, Chichester, Clancarty, De Grey,]
 
-Downshire, Northampton, Ormonde, and Salisbury.
+[Essex, Galloway, Howe, Jermyn, Nelson, Rosse, and Spencer.]
 
-The Right Honourable the Earls of Cavan, Chichester, Clancarty, De Grey, Essex, Galloway, Howe, Jermyn, Nelson, Rosse, and Spencer.
+[The Right Honourable Lord Viscounts Adare, Alford, Campden, De Vesci, Fordwich, Hill, and Lorton.]
 
-The Right Honourable Lord Viscounts Adare, Alford, Campden, De
+[The Right Honourable and Reverend Lords Charles Thynne, John Thynne,]
 
-Vesci, Fordwich, Hill, and Lorton.
+[Arthur Hervey, Wriothesley Russell, The Right Honourable Lord George]
 
-The Right Honourable and Reverend Lords Charles Thynne, John Thynne,
+[A. Hill, Lord Lindsay, Lord Henry Cholmondeley, Lord Edward Chichester, &c., ὅσο.]
 
-Arthur Hervey, Wriothesley Russell, The Right Honourable Lord George
+[The Right Honourable and Right Reverend the Lord Bishop of London.—]
 
-A. Hill, Lord Lindsay, Lord Henry Cholmondeley, Lord Edward
+[The Right Reverend the Lords Bishops of Durham, Winchester,]
 
-- Chichester, &c., &c.
+[Chester, Chichester, Ely, Hereford, Lichfield, Lincoln, Llandaff,]
 
-The Right Honourable and Right Reverend the Lord Bishop of London.— The Right Reverend the Lords Bishops of Durham, Winchester, Chester, Chichester, Ely, Hereford, Lichfield, Lincoln, Llandaff, Manchester, Oxford, Peterborough, Ripon, Rochester, St. Asaph, and of Worcester.
+[Manchester, Oxford, Peterborough, Ripon, Rochester, St. Asaph,]
 
-The Right Honourable and Right Reverend the Lords Bishops of Clogher, of Meath, and of Killaloe and Clonfert.—The Right Reverend the Lords Bishops of Down and Connor, of Ossory and Ferns, and of Cashel and Waterford.
+[and of Worcester.]
 
-The Right Reverend the Lords Bishops of Australia, Bombay, Calcutta, Capetown, Colombo, Guiana, Melbourne, Newcastle, Toronto, and of Tasmania.
+[The Right Honourable and Right Reverend the Lords Bishops of Clogher,]
 
-The Right Reverend the Bishops of Delaware, Georgia, Maryland, New Jersey, Ohio, South Carolina, and of Virginia.
+[of Meath, and of Killaloe and Clonfert.—The Right Reverend the]
 
-The Right Honourable the Lords Ashley, (President), Bolton, Calthorpe. Farnham, Lindsay, Littleton, Rayleigh, and Teignmouth.
+[Lords Bishops of Down and Connor, of Ossory and Ferns, and of]
 
-Her Grace the Duchess Dowager of Argyle-—Right Honourable the Countess of Annesley.—Right Honourable Viscountess Valentia.— Right Honourable Lady Ward, &c.
+[Cashel and Waterford.]
 
-## 6 Members of the Parker Society.’
+[The Right Reverend the Lords Bishops of Australia, Bombay, Calcutta,]
 
-The Right Honourable the Lord Chief Justice of Ireland.—The Right Honourable Lord Justice Clerk, Scotland.—The Honourable Mr. Justice Jackson, The Chevalier Bunsen.—The Right Honourable Henry Goulburn, M.P. for the University of Cambridge.—The Right Honourable W. E. Gladstone, M.P. for the University of Oxford, &c.
+[Capetown, Colombo, Guiana, Melbourne, Newcastle, Toronto, and of]
 
-The Very Reverend the Deans of Chester, Durham, Gloucester, Manchester, Norwich, Peterborough, Salisbury, and Winchester.—The Deans and Chapters of Lichfield, Worcester, Limerick, Raphoe, Tuam, &c.
+[Tasmania.]
 
-The Very Reverend the Deans of Clogher, Cloyne, Connor, Cork, Derry, Cashel, Elphin, Emly, St. Patrick, Ossory, Kildare, and Kilmacdaugh.
+[The Right Reverend the Bishops of Delaware, Georgia, Maryland, New]
 
-The Honourable and Worshipful T. W. Law, Chancellor of Bath and: Wells. —The Worshipful H. Raikes, Chancellor of Chester, E. T. M. Phillips, Chancellor of Gloucester, F. R. Sandys, Chancellor of Ossory, Marsham Argles, Chancellor of Peterborough, and J. N. Woodroffe, - Chancellor of Cork.
+[Jersey, Ohio, South Carolina, and of Virginia.]
 
-The Venerable Archdeacons Berners, Bevan, Brown, Buckle, Davys, Hare, Hill, Hodson, Hoare, Law, Mac Donald, Philpot, Spooner, C. Thorp, Henry Williams, William Williams of New Zealand, R. J. Wilberforce.
+[The Right Honourable the Lords Ashley, (President), Bolton, Calthorpe.]
 
-The Venerable Archdeacons Bell, Beresford, Creery, Digby, Mant, Monsell, Oldfield, Power, Stopford, Strean, Stuart, Verschoyle, and St. George.
+[Farnham, Lindsay, Littleton, Rayleigh, and Teignmouth.]
 
-Reverend Dr. Plumtre, Master of University Coll., Oxford, and Vice Chancellor of the University—Reverend Dr. Phelps, Master of Sidney Sussex Coll. Cambridge.—Reverend Dr. Philpot, Master of Catherine Hall, Cambridge. —Reverend Dr. Archdall, Master of Emmanuel Coll. Cambridge.— Reverend Dr. Tatham, Master of St. John’s Coll. Cambridge.—Reverend Dr. Symons, Warden of Wadham Coll. Oxford.—Reverend Dr. Fox, Provost of Queen’s Coll. Oxford.—Reverend Dr. Cotton, Provost of Worcester Coll. Oxford.—Reverend Dr. Jeune, Master of Pembroke Coll. Oxford.—Reverend Dr. Thackeray, Provost of King’s Coll. Cambridge. —Reverend Dr. Ainslie, Master of Pembroke Hall, Cambridge.—Reverend Dr. French, Master of Jesus Coll. Cambridge.—Dr. King, President of Queens’ Coll. Cambridge.—Reverend Dr. Webb, Master of Clare Hall, Cambridge.—Reverend Dr. Cramer, Principal of New Inn Hall, Oxford.—Reverend E. Cardwell, Principal of St. Alban’s Hall, Oxford.
+[Her Grace the Duchess Dowager of Argyle.—Right Honourable the]
 
-The Reverend Dr. Sadleir, Provost of Trinity Coll. Dublin.—The Venerable Archdeacon Thorp, Warden of the University of Durham.—The Very Reverend Dr. Lee, Principal of the University of Edinburgh.—Reverend J. Wheeler, President of the University of Vermont, U.S.—Reverend Dr. Hawtrey.—Reverend Dr. Williamson, late Head Master of Westminster School.—Reverend Dr. Tait, Head Master of Rugby School, &c., &c.
+[Countess of Annesley.—Right Honourable Viscountess Valentia.—]
 
-LiIBRARIES.—The Royal Library, Berlin.—Balliol Coll. Oxford.—Gonville and Caius, Pembroke, and Queens’ Coll. Cambridge.—Wadham, and Worcester Coll. Oxford.—Trinity Coll. Dublin.—University of Edinburgh.—King’s Coll. London.—Advocates’ Library, and Library of the Writers to the Signet, Edinburgh.—St. Bees’ Coll.—Cathedrals of Chester and Cashel.— The London Institution.—The London Library.—The Chetham Library, Manchester ; and many other Collegiate, Public, and School Libraries, &c.
+[Right Honourable Lady Ward, &c.]
 
-THE COUNCIL AND OFFICERS. vi
+The Right Honourable the Lord Chief Justice of Ireland.—The Right Honourable Lord Justice Clerk, Scotland.—The Honourable Mr. Justice Jackson, The Chevalier Bunsen.—The Right Honourable Henry Goulburn, M.P. for the University of Cambridge.—The Right Honourable W. E. Gladstone, M.P. for the University of Oxford, ἄο. The Very Reverend the Deans of Chester, Durham, Gloucester, Manchester, Norwich, Peterborough, Salisbury, and Winchester.—The Deans and Chapters of Lichfield, Worcester, Limerick, Raphoe, Tuam, &c. The Very Reverend the Deans of Clogher, Cloyne, Connor, Cork, Derry, Cashel, Elphin, Emly, St. Patrick, Ossory, Kildare, and Kilmacdaugh. The Honourable and Worshipful T. W. Law, Chancellor of Bath and Wells. —The Worshipful H. Raikes, Chancellor of Chester, E. T. M. Phillips, Α Chancellor of Gloucester, F. R. Sandys, Chancellor of Ossory, Marsham Argles, Chancellor of Peterborough, and J. N. Woodroffe, Chancellor of Cork. The Venerable Archdeacons Berners, Bevan, Brown, Buckle, Davys, Hare, Hill, Hodson, Hoare, Law, Mac Donald, Philpot, Spooner, C. Thorp, Henry Williams, William Williams of New Zealand, R. J. Wilberforce. The Venerable Archdeacons Bell, Beresford, Creery, Digby, Mant, Monsell, Oldfield, Power, Stopford, Strean, Stuart, Verschoyle, and St. George. Reverend Dr. Plumtre, Master of University Coll., Oxford, and Vice Chancellor of the University.—Reverend Dr. Phelps, Master of Sidney Sussex Coll. Cambridge.—Reverend Dr. Philpot, Master of Catherine Hall, Cambridge. —Reverend Dr. Archdall, Master of Emmanuel Coll. Cambridge.—Reverend Dr. Tatham, Master of St. John’s Coll. Cambridge.—Reverend Dr. Symons, Warden of Wadham Coll. Oxford.—Reverend Dr. Fox, Provost of Queen’s Coll. Oxford.—Reverend Dr. Cotton, Provost of Worcester Coll. Oxford.—Reverend Dr. Jeune, Master of Pembroke Coll. Oxford.—Reverend Dr. Thackeray, Provost of King’s Coll. Cambridge. —Reverend Dr. Ainslie, Master of Pembroke Hall, Cambridge.—Reverend Dr. French, Master of Jesus Coll. Cambridge.—Dr. King, President of Queens’ Coll. Cambridge.—Reverend Dr. Webb, Master of Clare Hall, Cambridge.—Reverend Dr. Cramer, Principal of New Inn Hall, Oxford.—Reverend E. Cardwell, Principal of St. Alban’s Hall, Oxford. The Reverend Dr. Sadleir, Provost of Trinity Coll. Dublin.—The Venerable Archdeacon Thorp, Warden of the University of Durham.—The Very Reverend Dr. Lee, Principal of the University of Edinburgh.—Reverend J. Wheeler, President of the University of Vermont, U.S.—Reverend Dr. Hawtrey.—Reverend Dr. Williamson, late Head Master of Westminster School.—Reverend Dr. Tait, Head Master of Rugby School, &c., &c. LiBrAriES.—The Royal Library, Berlin.—Balliol Coll. Oxford.—Gonville and (Caius, Pembroke, and Queens’ Coll. Cambridge.—Wadham, and Worcester Coll. Oxford.—Trinity Coll. Dublin.— University of Edinburgh.—King’s Coll. London.—Advocates’ Library, and Library of the Writers to the Signet, Edinburgh.—St. Bees’ Coll.—Cathedrals of Chester and Cashel.—The London Institution.—The London Library.—The Chetham Library, Manchester; and many other Collegiate, Public, and School Libraries, &c.
 
-## The Council and Officers for 1849-50
+THE COUNCIL AND OFFICERS FOR 1849-50.
 
-President. Tue Ricgut HonovuraBie Lorp Asutey, M.P., L.L.D., &c.
+## President
 
-Treasurer. Srr Watter R. Farquuar, Bart.
+The Ricar HoNourABLE Lorp AsvLEY, M.P., L.L.D., &c.
 
-Council.
+## Treasurer. Sik Walter Farquhar, Bart. Council
 
-Rev. R. G. Baxer.—Reyv. C. Benson, Canon of Worcester.—Rev. E. BIcKERSTETH.—JOHN Briperes, Esa.—Joun Brucr, Esq.—Rev. Guy Bryan.— Rev. RicnarRp BurGess.—Rev. T. Townson Cnaurton, Fellow of Brasenose College, Oxford.—Hon. Wittiam Cowrer.—Rerv. W. Haywarp Cox, Oxford.— Rev. J. W. Cunninguam.—Revy. THomas Date, Canon Residentiary of St. Paul’s. —Rev. W. Goopr.—Rev. Joan Harpinc.—Rey. T. H. Horne, Canon of St. Paul’s.\—JosEpH Hoare, Esq.—Rev. J. Jackson.—Hon. Artuur KINNAIRD.— Rey. Dr. Oxprivant, Regius Professor of Divinity in the University of Cambridge.— Henry Pownatr, Esq.—Rev. Jostan Pratr.—Rev. M. M. Preston.—Rev. Dr. Rosinson.—ReEv. DanrEL WiLson.
+Rev. R. G. Bager.—REev. C. Benson, Canon of Worcester—REv. BickeErSTETH.—J0HN BRripGEs, EsQq.—JoeN Bruck, EsQq.—REv. Guy BRYAN.—Rev. RicaarRD BurGEss.—REev. T. Townson CrUrTON, Fellow of Brasenose College, Oxford.—Ho~N. WirrLiam CowpPErR.—REV. W. Haywarp Cox, Oxford.—Rev. J. W. CuxNiNngHAM.—REV. THOMAS Dare, Canon Residentiary of St. —REv. W. Goope.—REv. JoEN HarDING.—REV. Τί H. Hor~NE, Canon Paul's.—Josepa Hoare, Esq.—REv. J. JacksoN.—HoN. ARTHUR KINNAIRD, Rev. Dr. Orrivant, Regius Professor of Divinity in the University of Cambridge.—HeNrY Pownarr, Esq.—REv. Josiam Pratr.—Rev. M. M. PrEsTON.—REV. RoBiNsoN.—REvV. DaNierL WiLson.
 
-General Secretary and Librarian. Rey. Joun AYRE.
+## General Secretary and Librarian. Rev. JoHN Ayre. Editorial Secretary
 
-Editorial Secretary. Rey. JaMES SCHOLEFIELD, Regius Professor of Greek in the University of Cambridge.
+REv. JAMES ScHOLEFIELD, Regius Professor of Greek in the University of Cambridge.
 
-Secretary for General Business. , Wittiam Tuomas, Esq., at the Office of the Parker Society, 33, Southampton Street, Strand, London.
+## Secretary for General Business
 
-Auditors. Hon, A. Kinnarrp, Rey. R. E. Hankinson, H. Pownatt, Esq., and F. ΤΟΤΕ. Esa
+WiLriam ΤΉΟΜΑΒ, Esq. at the Office of the Parker Society, 33, Southampton
 
-Bankers. Messrs. Herries, Farquyar, and Co., No. 16, St. James’s Street.
+## Strand, London. Auditors
 
-## Regulations for Delivery of the Books Published by the Society
+How. A. KinNva1rD, REV, R. E. Hankinson, Η. PowNaLL, Esq., and F. Lowk,
 
-I. They will be delivered, free of expense, at the Oniee, or within three miles of the General Post Office, London.
+## Bankers
 
-II, They will be sent to any place in England beyond the distance of three miles from the General Post Office, by any conveyance a member may point out. In this case the parcels will be booked at the expense of the Soeiety, but the carriage must be paid by the members to whom they are sent.
+Messrs. HERRIES, FARQUHAR, AND Co., No. 16, St. James's Street. REGULATIONS FOR DELIVERY OF THE BOOKS PUBLISHED
 
-ITI. They will be delivered, free of expense, at any place in London which a member resident in the country may name.
+## By the Society
 
-IV. They may remain at the office of the Society until the members apply for them ; but in that case, the Society will not be responsible for any damage which may happen from fire, or other accident.
+[I. They will be delivered, free of expense, at the office, or within three miles of the]
 
-Vv. They will be sent to any of the Correspondents, or Agents of the Society, each member paying the Correspondent or Agent a share of the carriage of the parcel in which the books were included. Arrangements are made for the delivery on this plan, in many of the cities and large towns where a sufficient number of members reside; and it will be esteemed a favour if gentlemen who are willing to further the objects of the Parker Society, by taking charge of the books for the members in their respective neighbourhoods, will write to the Office on the subject.
+[General Post Office, London.]
 
-VI. ‘They will be delivered in Edinburgh and Dublin as in London, and forwarded from thence to members in other parts of Scotland and Ireland, in the same manner as is mentioned above with respect to England.
+[II. They will be sent to any place in England beyond the distance of three miles from]
 
-IW PLP PLD IPP PDI men
+[the General Post Office, by any conveyance a member may point out. In this]
 
-For 1841.
+[case the parcels will be booked at the expense of the Society, but the carriage]
 
-For 1842.
+[must be paid by the members to whom they are sent.]
 
-For 1844. For 1843.
+[ITI They will be delivered, free of expense, at any place in London which a member]
 
-For 1845.
+[resident in the country may name.]
 
-For 1847. For 1846.
+[IV They may remain at the office of the Society until the members apply for them;]
 
-For 1848.
+[but in that case, the Society will not be responsible for any damage which may]
 
-A List of the Works
+[happen from fire, or other accident.]
 
-## Already Published by the Parker Society
+[V They will be sent to any of the Correspondents, or Agents of the Society, each]
 
-The Works of Bishop Ridley. The Sermons and other Pieces of Archbishop Sandys. The Works of Bishop Pilkington. The Works of Roger Hutchinson. The Examinations and Writings of Archdeacon Philpot. Christian Prayers and Meditations. Letters of Bishop Jewel, and others, translated from the Originals i in the Archives of Zurich (1st Series). The Writings of Archbishop Grindal. Early Writings of the Rev. T. Becon, Chaplain to Archbishop Cranmer, and Prebendary of Canterbury.
+[member paying the Correspondent or Agent a share of the carriage of the parcel]
 
-Fulke’s Defence of the English Translation of the Bible. Early Writings of Bishop Hooper. Writings of Archbishop Cranmer on the Lord’s Supper. The Catechism and other pieces of Becon. The Liturgies, Primer, and Catechism of the Reign of Edward VI. Writings of Bishop Coverdale. Sermons of Bishop Latimer. The Flower of Godly Prayers, and other pieces of Becon.
+[in which the books were included. Arrangements are made for the delivery on]
 
-Remains of Bishop Latimer. Writings of Bishop Jewel. Devotional Poetry of the Reign of Queen Elizabeth.
+[this plan, in many of the cities and large towns where a sufficient number of]
 
-Second Series of Letters from the Archives of Zurich. Remaining Pertion of Bishop Coverdale’s Writings. Original Letters relative to the Reformation. Remains of Archbishop Cranmer. Calfhill’s Answer to Martiall’s Treatise on the Cross.
+[members reside; and it will be esteemed a favour if gentlemen who are willing to]
 
-A further Portion of Bishop Jewel’s Works, including the latter part of his Answer to Harding, his Exposition on the Epistles to the Thessalonians, and other Pieces. Liturgies and Occasional Services of the Reign of Queen Elizabeth. The concluding Portion of the Original Letters relative to the Reformation, Norden’s Progress of Piety.
+[Surther the objects of the Parker Society, by taking charge of the books for the]
 
-A third Portion of Bishop Jewel’s Works, containing his Apology and the Ist part of the Defence.
+[members in their respective neighbourhoods, will write to the Office on the subject.]
 
-A Volume of Bradford.
+[VIL "They will be delivered in Edinburgh and Dublin as in London, and forwarded]
 
-A Volume of Tyndale.
+[from thence to members in other parts of Scotland and Ireland, in the same]
 
-Fulke’s Answer to Martiall and Stapleton.
+[manner as is mentioned above with respect to England.]
 
-The Books preparing for 1849, are :—
+A List of the Works ALREADY PUBLISHED BY THE τὸ (The Works of Bishop Ridley. @ J The Sermons and other Pieces of Archbishop =~ The Works of Bishop Pilkington. τ [The Works of Roger Hutchinson. The Examinations and Writings of Archdeacon. Christian Prayers and Meditations. Z Letters of Bishop Jewel, and others, translated [oc]
 
-Whitaker’s Disputation on Holy Scripture. Bullinger’s Sermons.
+## of Zurich (1st Series)
 
-Bishop Bale’s Select Writings.
+5 The Writings of Archbishop Grindal. F Early Writings of the Rev. T. Becon, Chaplain
 
-Tyndale, 2nd Portion.
+## Prebendary of Canterbury
 
-## Date Due
+οὐ [(Fulke's Defence of the English Translation Early Writings of Bishop Hooper. Writings of Archbishop Cranmer on the Lord’s ΚΞ The Catechism and other pieces of Becon. πῇ (The Liturgies, Primer, and Catechism of the pes Writings of Bishop Coverdale. 7.) Sermons of Bishop Latimer. τ (The Flower of Godly Prayers, and other pieces ιῷ (Second Series of Letters from the Archives % Remains of Bishop Latimer. = Writings of Bishop Jewel. = Devotional Poetry of the Reign of Queen Elizabeth. Remaining Portion of Bishop Coverdale’s Writings. @ Original Letters relative to the Reformation. Remains of Archbishop Cranmer. = Calfhill’s Answer to Martiall's Treatise on the -ς A further Portion of Bishop Jewel's Works, including πῇ to Harding, his Exposition on the Epistles Z Liturgies and Occasional Services of the Reign 8 The concluding Portion of the Original Letters Βα Norden’s Progress of Piety. or A third Portion of Bishop Jewel's Works, containing be of the Defence. = { A Volume of Bradford. 5 A Volume of Tyndale. & Fulke’s Answer to Martiall and Stapleton,
 
-## Apr 1 4 1978
+[The Books preparing for 1849, are i= Whitaker's Disputation on Holy Scripture. Bullinger's Sermons. Bishop Bale’s Select Writings. Tyndale, 2nd Portion.]
 
-CAT. NO. 1137 wie Ὰ at at aia esky MeN y er eRe CL Lat amen tater ah
+\ i! A A Ἢ τ ' ν ἐν qv LY
 
-, nego EBA ee pepht τ beter tied Serer atten aed ee ae ors: Ne ome pat Ae κα, Sl a et I aang eta τ “ deanna τὰ μι τ nettle ἀράν pa iw ᾿ ne gem 2
+ΝΥ RG Rey le h i, ἮΝ A Ν ἡ Talk [9:
 
-PLE Plat A Ama, ecto ιπ τ Z 4 Ὁ . past te i Tap Raf PsP Ah LR i Nala 9 en ar Ἶ Sikes E ‘oe a : iene emery: ν δα ere Ns es homes eaten Rien. τανε τ Ys av hes τῇ y wayne tr ᾿ ig re aoe ξ τῷ δαὶ ? ἀμ Ἢ notes hes
+J IR ΤΗΝ be Ἷ τ ἡ a Le A wy vel ᾿ MLA
 
-“Men an OEE ΟΝ yn rectal Tae τ ὌΝ Sag Top Pern taal Pereira Tan Bi
+᾿ fn M W ps Ν ΠῊ Hw. ins ᾿ δ
+
+Ie th A hh ΜΙ ες RR α Ὁ ha 4 as Aa MATE hy Nat eh al ι ᾿ ΠΝ ὴ Ν LV eg = 4 ἮΝ ἐν mr (] Ἣ’ 1 " ".14 ον " a0
+
+“ΜΠ iain Ἰ Si ἵ ἰ ἣν ὰ a ἡ ᾿ i yo! κΝ A pa f ἐν ἥν oN be
+
+ὑν 38 AN NOE ἫΝ ἜΝ i HL Δ ἔν ᾿ GC
+
+yy ΡΥ i Wi ἢ ALL, er ι ht οἱ " Baie Ra L SEER ET ἡ " ὴ νἀ γνλ. ϊ 2 ἐν Xvi Wy Al ᾿ ii oe Α 3 Ἱ v Nd Ha Win DANE i Vs ) Ἵν» Ν J BY ἡ ὍΝ hg pg att ir ks Valle Bg Wid ee i ΠΥ. δ nny ὃ bi A i. V i Ν ᾿ ἯΙ i &,
+
+**Γ } i.** ᾿ ph dN ' A f 8848 8 (CN ἌΟΥ! AR Ἢ 4 os out =n’ A Ύ y ᾿ SA TEE ue ἡ ἡ ν΄. iy a J k abl ἡ hi. νι γν te i! - Ro NL 1 ᾿Ψ a i: y i: Ἂς υ " d al 6 " ' \ Vall hd ε Ν ii " > i -~ Ὶ Ὕ th ΓΝ 4 LS A A 5: ha ae THESE Υ ἘΝῚ ν i “Ἢ wa ᾿ γὼ Ὁ i } gue "aL NA wy. i " A Bi ῆν a ey " LE 4 ω Ἢ Ἢ " ' Ϊ ΟΜ ' LO] 4 " ' Ν. ΠῚ ἡ ἢν = ᾿ d = i ψ A I 8 ᾿ ν᾿ gt a ᾿ y: τὴ Blak Ν ' ‘ Me τ ως, Lid - ᾿ HTT “lg iP a Υ 1 Ὺ ἡ νυν, fis - Ady “Ἢ key Ἧι ἐν’! ie ᾿ = x nah BAN 3 Ve ἵν 7 i Ta @ x Ok hy v ἐὰν ᾿ ' wud TLL che THEA TUS i οὐ ΗΝ ἣν ᾽ν “᾿ ἦν γᾶ" ΓΕ v: Γ by Ν ld WE of ΠΝ ι 5 A: y i ia Ath a ὁ LA; y ᾿. Ξ Wy 0 hy ἢ “ο Ἢ L ' y hy Re. 5 ft: v - ᾿, ἡ. i 5 ᾿ ᾿ $y et ' A i 1 i For 4 A \ \ 4}.
+
+bh th 4 > 4 wr
+
+[Na Sie ) Fire]
+
+[UN 4 ἐ fa i 4 thr Ὺ ᾿]
+
+[" Ν ἢ iH. { ἢ ' ὟΝ A A]
+
+[" )". fh { ΗΝ i a 3! a0 μ ᾿ ih, i 40 TE]
+
+[f ᾿ hy " i με A Ἧ i: i i” “ἣν -- Ἵ ΠΝῚ ART BY LY i]
+
+[ia TLE wt f A A i i "ν ih SIV Mel ve Ld AX i ) « HOEY ν᾿ γι nN SRR Er h STL ἣν" 1d Lift 2 ΝΠ ν Wl, ν Ἢ ᾿ i - “7 5 i ᾿ ii " ‘ ἐν ΄ i ᾿ a8 fit Via ME REE At } doo iby REE We, Not oh ν " ἣν ud ΝΗ i hie Le ᾿ Νὴ. A EE ὦ i LA 2." vo A αἡ a a ERY fh I Fy Cl La dL fd LANG Cl]
+
+a BL MRR Iq 7A RAC Sa LE ΜῊ A Ν i δ is ΠΑΝ yy ἐλ ν i ἡ A aN ] ΙΝ 7, \ RW 1 WA hei iy ων ΗΓ, “Δ᾽ γ ες uM τὶ 4 yd " 3 5% Can 5 ΛΗ. ἜΗΝ Ee A 1 Ὁ 4 ὶ ὌΝ δ 7 by! ἀπ" be 3 bo od " Υ Τὰ ἣ Ψ " ‘ i { h 7 " 3 4 δὰ 4 ᾿. +H La hha ἭΝ εἰ ν ' ν { ᾿ 'ψ᾿ f 2" IL ἜΜ ἶ ii ΨΥ ied eh i i af po Ν: ν His Δ 3 τ A REE τ ἐ (A) ον λῶν a {Ln Hod Sine d J I’ ἫΝ Ἢ ' el ne Lae wa ANN J RE de ΜΝ. 3 ᾿ {n prom RAY fa: ἢ ar d ἣ ᾿ ΩΝ 5 i ΠΝ Υ Ψ Ἢ “πὶ ΙΝ HRS ne I Ca a i RAL {ig £5 δ νὰ ba ΡΥ ΙΝ {δ Fa) Α RY a Ay a 1 LY ah LS an 4 NU N bq πε \ 3 yg L'a a % ' λι ay J f J i WAT 7 Sts Al Lod 5 Y i v δ᾽ Ὶ y ἵ ἵ A gi his: HS LH A oH } “ἈΝ Ὶ ῃ " a ᾿ A Wn hd’ "a Α fe 2408 y ν i ἡ ὰ ΗΝ ' Π 3 J \ \ k 5 ' “i rr iy ἣ ᾿} 1 ᾿ Ῥε Th Ἢ Eh 0 i; hy ἢ τ Jd Ν ΄ λ ' ἢ: ns’ ᾿ν ᾿ Dis a hyd bi yp N y [#)
+
+ΕἾ " ' A Vitd ΗΝ Ll Π’ \
+
+AO ΜΗ τ ᾿ ΤΥ a
+
+- Ὑ ε ~ hel 6 ἐμ ἱ " { ι ΟΝ Ὧ Σ ον ΚΝ
+
+Lo Eby
+
+[i y’ i ΔΕ]
+
+[“A]
+
+[Ἷ ' je ἜΝ ig AN; Ἢ.]
+
+[Ἢ ' "π War aid { Ay APRS νυ yar } AB 4]
+
+[Pla fr a at in a AES Lhe 1 Baas toil ade Ay fly ΠΥ ἡ ΠΝ]
+
+## 
+
+**4.** 4 TIN ae Er ἡ E Ὧλ ᾿ hs Om eb ὶ
+
+f i Γ τὺ Εν ΛΩΝ «8 Ν ἢ Ἢ: We “
+
+Ν A bh! ht Je » i” ΜΗ ry ip. "ἢ τ iy ἽΝ X Ea
+
+$e Ὰ ἐὺ ἐν ΝΣ ΤῊΝ " OR pred αν ν" ΠΝ λιν J
+
+ut } y Γ 1 fag if Ῥ ( tN Ύ ἵ a I) rh iy 5
+
+N 1" Ὑ he "Ἢ a1 γ het £ ἥλω ἢ 0 RN OS Ta pL ἊΝ 2 R A! Py 5 oh A fi play) [2 Re pA " rf V ΝΜ ε META 0) i" pr Ἢ”, ὺ Ων 1 ᾿ Al a ΓΗ ᾿ i ἢ JC. ᾿ 5 a 141 νὰ yuh rR Re CC SRE Ὦ Γ νη an oT PRE ὴ Δ A ih; γι Af Ἴ Ψ “wi ᾿ ὙΝ μ Ν, “ἐ “" Ψ bi Wid ἡ LE A Wy Ν ΓΝ A AB ' ἵ ht Ny: J ᾿, ἌἜ "" Xi fies ᾽ν 3: '; ok! ω nl 7 i ᾿ \ 9.00 4 ᾿ ον ΟΝ ὼ ) ᾿ Ὕ ve SEs Nal ty ΩΝ ἣ “ΝΗ’ ΨΠ, Ms f Re Le SR PRR Ll ph i, μ" (Ὁ Py Ar \ x Re J A " ji RR Fe ιν td i" ‘ " ὌΝ 3 Ie Lad ] ν " ἡ ϊ a LY a { “τὰ At ἣν i Ἷ v γι ὦ" Ny } ΓΝ ν. Δ.Ὶ a i Ἢ εἶ Ἵ - ψ δ i 7 i A εἶν ᾿ Ξ f ΤΙ ΝΗ ᾿ " 3 x ν ψ Ν ' ἡ. ἣ 3 " ᾿ Ὶ ῳ. f FEA. ὦ a" 14 i ' Ἦν tl 4 4 hy [4H >, ᾿ 5 " i] 10 8 ' y ᾿, ‘ TR 11 \ i: Ἢ Λ YU
+
+ha Hy ge ae; Ἔν". Η N ἢ Ὁ" { Μ' a al A. ey A
+
+[Ν; ι oh: ' 4 ἡ ΣΡ ᾿ ν]
+
+[νι hy i v i 4 [iy i τ]
+
+[ι i 1a A fo: i ς “ol. ἐν]
+
+[ly Je ͵ oh: i as ἡ ἱ]
+
+[ΝΜ hi no ) gt 4 bl ' A ἡ oF i ΓΝ A Lf ΝΑ ἫΝ ART i hot ξ oe:]
+
+[ἔν a “Ν Ἢ ᾿: ER AN πὶ]
+
+[νυ CR SR NE ASAE LR IA 7.]
+
+[MN 2 of ν" νὰ VAL LR ᾿, & At vs I i {]
+
+[id A fe dS ad WF SR CA oT ΡΝ JT]
+
+[/ ον)».! is CB Ep τς ΜῊ FEN Ν ἫΝ i]
+
+[᾿ J ως AR Ii τω Py [4 ἡ ALD μ ν᾿ it he on i he #1 iy ᾿ AT, 3]
+
+[᾿ A pat iy rik \ Ν ΜΠ Thi To SREY ἡ ᾿' LE]
+
+[LT 1 η ἣν τον { Ls H tind Τ αν ον γα ἡ H ad a ᾿ is RY ἣν ἵ]
+
+[HE ] has τὸ ἡ π wl Ln νὴ Ἄν "ἢ Vig Age ih ᾿ wy " EER A.]
+
+[It ἊΣ, MT 4 & Pi J NL SY # ΑΝ ᾿ {hee]
+
+[joy a hays wd Ne hs 1 4 νη iy Ty» ott ἡ; JA Ny Oy ἀν " kL]
+
+[ἡ » δ ως νιν ὦ 4 oh μη» ὦ nas Ahan ὉΔῚ Ἑ { fin J ERRATA Ne PRN LE EE 3 ane SENS]
+
+[" Ny AT λ' ν; 1 “ἡ i h 1 ὶ ἣν i -]
+
+Date Due wl = alld HD ὥψω. B ἡ
+
+hr
+
+[PRINTED IN U. Ss, A,]
+
+os 5 ΣΕ, pu Τ ΄ GRIT er ae Ἢ ἢ A Wi EEE » Fy 4 Ὡ i (Ὧ 3 ore JA " 2 BA a) au ἐμ ΓΝ a WA > beg Jo ay pth ' Α - ea 3 0 x; + ln A po Fi! τεῦς Pad v " att il AAR X Wo 2 pe oy oN tine pA Fre, Watt 3 Av! ὴ al ThA i hy A. te AT FM 9 ΕΔ ΝᾺ % i δὰ Κῶ ie Fra be” i Ret 3 ν bi a αν PEASE 3 lz: Ait, πε roi od ae ἰ Sis Η J RN: ol ΜΗ ὦ »» oo ‘ - Pros A Yh. rats Χ ᾿ - Ὶ Pn whe gre ASE EE oor ΔΣ ἘΠ ε φ A 0 ἡ ro Gao " τ. fr. fy AL EV po, vil: pros hs AT Ἢ " ny £0 IPRS gen EY I i Yu eu vd ἘΠ} We δ τ τσ δὴ ΣᾺ Slat ὸς AP oJ.
+
+## or
+
+ἢ Ὁ ἀφο 3 ei
+
+## 7; A jos or o
+
+4 So k ᾿ are oF) red ois ae ἐδ αν, ἜΝ Se AS +, Rr an a — τι i ἘΠῚ Tissier τὴν Fr der ONE - oe & Fix ἐν," πὴ a es lg ΕΣ Ladd NF i 1" δ rt be “4 “RIN " ““Wad 4 {2d ie ol » ΄ μὰ. a REA oo et oot Fi CY », "5 ἃ ΠΣ ΟΡ ne Sh I SR ag eas ae Sn 25 PHN ne i ro, μήν 4 ow Lee oo) 4“, £30, 4, 5 ie 3 τ « <a BN.« αὖ Ay XH) le Bd ee OR ΩΣ vi Sy e oan, Joa Fn ν 8. ese, “. pi TIE Se CG Bone DRE 20 < RR τ ΝΗ 5 Wis ANH at ΟΣ Ἐ i Ἐς τὰς, Lak δὲ ο, hi RIERH S τὴν 7} Ta eo oo Ha RR: " ie ΠΩ pri Ns Ca is SL nt ἘΣ Jo Le i KAN ΤᾺΝ od er Bis = HH nae Rate “atl “4 og Th pi «nifty pes Gi a BREE Ha Li " RR eh) ELIE " Ὁ Ἴ ta ἜΣ + ROHN. a. sade N HR: we τὸν ἘΝ lat Rha ΠῈΣ RI Vide) va » Ἂς ἀμ’ ὍΣ Ἢ bor “Aley 5 oa Lies rae’, 2! idl Ye μ΄ hy HHH DIN ΡΝ ΠΗ Ν pater WI HA ie XH 1 Sn dé - Ws el 145 es SR Se 2a is hl Ν erry τ rl ΡΝ ier LA hs ARNE i ns laid SHA RIN Rn Na foes oe ed Ge ἐ ] Geir! Ὁ δῷ 11 nk gy ἸΔῈΣ ὙΝῚΣ τ μι Ϊ Pe o.oo ἜΑ, ΤΕ A ὁ Py 335 μονα, kat. Μ᾿ ἜΤΗ betes ted 3 wo 5 ον HR St 2H weit $33 ok or ER MY) Hat “ΕΣ ᾿ στε A we Jou 4 ἐς ες 0 ἜΣΕΙ SoH SH MD teat Hendy a4 BR Lh ERS & WE A Ρ Ν fy PM tp ΚΣ SH. % 250% 0) A! XN 2 HAN a3, γῃ ἐ DR EI REN WH IN thet A hk sf a i Fil se a dH ὸ ἘΝ ΡΩΝ = i Ps μη Ἡ)} 0% bs ΟΣ RID x Sve fetes HK <add oh a Wo Ρ Ce τ Ὶ γ " " OF wh iden τὶ fo $588 ες τ wl ἐν eres a RN } τ “PERE Pad τς i ΗΝ τ τ MN fata a pH τῶ ε He wa a 4 2 Ate " 9%) 1s Case ἡ Cas BBA a NS a Ine < a, ha Aen Ci bass κὰ fle τας 5 aL ἧς a pe in PE Le i ἐ ἢ x Π sa ΤΣ ΤΩΝ JAIN re fo a »Ἂ A £3 4 bide! Sp inh δ ἐν 3 τς ree "8" EE Si oe a ia Le SAN i WA ε O ς TRE NE 1! τ᾿ τις κ᾿» 6 “0) 2H SHIH 23 BRR oH Sedit τε τὲ dell yl 5 Ya ἱ “eats ΗΝ SO ‘ " Bote = ὺ Se ον ως fae BL HR) Pps ΠΣ 4 Sees bod. ed eed 0 Σ WM Sete SN Xe a et ν La i ty PF y 4 nd {tate RI He CR 29 250 Ro 3H he 143 St at MN deed fines o Cen x i Ἢ 1 gH f ων "ἢ 2% ih ἐλευ. 5.0 fe re κε 0 $25: ) es 5 SOR Ce RO EI qi Δ WAN h t ἐξ ἘΝ ΤῊ Hig. RK] 3 “i 1 δ ἜΡΡΕΙ 2H ἫΝ nts δες 0 σον no bed IHR wed RATS ἧ 5) ie ai edi HRN sie 1 is Φ! A ey Stet τ 3 593 pI Aad i, 4 λον SX 30 29, Sa < ΠΝ VEN 2 Ἐ fetid Feter he ly; ox ι 0 Ρ a - Ἐν [τ ΗΝ oy "3 1 ye at 2) fide Heh frais Cn δ 9 BARN So Se a RR SO RN Sel ε" Hird ΓΝ Ac ag i % sn τ 24.85 ᾿ ἊΝ At as ΣῊ εἶ ς φ' τ τιν δ 35. δ δὰ of SERIE ARID IR et 59. ν ῃ ΚΝ RY RR a he HET Ἢ τ΄. « elect seas 25 τ PX de ὃν et on hota) ὩΣ Δ ον fepured ΗΝ “a ἃ Η͂ τ ves τ αἱ τὰ τ 2 πῆς 352 3G: 2) 4% ne. HN τς Ho ἜΝΙ at ΡΣ τ Fe aly la eve - A eh πε ΜΌΝ ih Al po 2 ibe ea, eit tad seis To oe) sk RO) 25 5 τ ἡ Ἢ ἜΣ av oT ou ΡΝ ne ot δὲ τ εν ἀν "WS ἼΗΙ et SRB 57 $a 1} in ots Whe pe 5%, Re ad REI on WHA - SE rd ΗΝ ἡ Hh AN 4.} ΔῈ ht AR fot th fake cele τεῆς es Rp ee ho RRL SN oo δ ε oe ἜΝ vad ν NH ᾿ ὅν wy Ἢ ἮΝ feted w ry Fa Cited HP na Ss PR) 0 SR a el “,, Con sea " ᾿ ΤΣ τς id LIE t yoke! pK SHEE Ge ote wn DR a 0 Ra CK pe ΙΝ? SER fable fades ») ole? 53) etal, PRY an FORK D5 SOT! δὰ ἱ. Pe oN τῶ aris id Ph RI: εἰ! ὡς Ἀν ω ΟΖ,; ΜΗ Ω Ts berets εἶ, 23 EN « Ny) ee δὰ Vs ot He 2 NX ΣῊΝ ἘΚ rah ee - Ho ἮΝ: ΚΝ ἡ ἐδ ᾿ Sl! A 3 XR “gt hs 4 νὴ ode 04 adel. ated SES 4 oR sets Do «ele x Side) 2 Rr 0 Ὴ ete “τ Η Ay! δῶν ας δον ski τς RA ri di " i! OF v5 0 εἶ « Si $55 Ὡ ἜΤΟΣ 23 i he ae 25 57 “et, yo Ta he RH MY ON NH ved tae i A pt ἢ Foe te 3 i. 55 dl ᾿ς A) oir 4 sede τὰ εν δὰ eat iN re ore NY bd adele eed + sled pM o {A ) UF ἡ < CL PR AL REE prety Fo? 2 x0 il AH 4 SAR oti Lv. at ε ht A nel: ep εμέ ΠΗ rR μὰ fo δεῖ “Ἢ ἐφ. es ΠΗ RP νοὶ SH ΗΝ al RATS) te 2, SLAs eed toy RR rt ara AS πως eh »» ΝΥ PLM 22 est: τ τς <i ER ae re τς ΜΗ Κ Sa Trees ot a CAI Aa JN a Ύ hs " ΜΡ} {325 ipl Lo S25 ede ROD pre Wo lt ele SoH DRS Sec ae Cites δ Cri feet } ἦν \ iat We ‘$a Ra » ΗΕ “44 3) δὰ ΜΗ etal ΠΗ 4% HLS? 1 oS HH ε ot 3 x Fads 9 ἐκ of ee i oo Ni, Ἕ σι ΣΉ bo 34 os τ ἐν ἌΗ + BA ox ee RX τς Sno rise OR τ ‘ ah ΠΡΟ τς ΠΙᾺ er RR ie Sn 2 Sart Bi 2. ie ae He og ‘ Ar Εν 4 ΠΝ i ATS HH Bh. Do % So ος epee io
+
+ML ᾿ w et, δ Ἡ > ie Sn Ss 4d ΤΗΝ ha < tia, al δ ot yt SIC ων a Rd pa ro τὰς τὸ ΦΉΣ 2 re rar. tania "ἢ WH N ΠΡ Nt ΡΖ by 343 0) al, 5 ΡΝ NH A wy 3 ἐμὰς ΠΕΣ Le “4 on μ 5; Ὴ a Ὰ ΥΩ S005 Ser Solar. az i Tar Dt ἐλ’ τ της SHH 5 oii ον, ἐν RRR Ῥῃ Ὡς eat et 25 Tha 2 Hn “ε 2 τῆς REE 2 is iF V He [Hs τς WH “Ὁ WILY, "a 434% “5% τ ΠΝ ἭΡΗ Tes o 2 4, ΜῊ μὴ 13. SN) {oh Yo et Tel iat Σ A et! eie Ν χε “w ft 4 ει » PI δ aii 148 2) ΜΗ ἜΝ ΡΝ 0 ) fad Bo 3 ree La Te eet: fe aie ia ARE nr pi PI PR) “᾿ atid ts. ΜῊ 34 Gites HH 320 WH tak BRIT) “4 ν a IE 4, ah Je pr τς fel ens N Ad πῇ ph zr Aa ᾿ ν DR 2} 2H 2A τ ed «᾿ 33) Pe 3 MH pi) ᾽ν: hel i ed νη Say νι i 53 HOH ἫΝ I φ 1ehyted raed Ἧς i \ Hoy, εἰ ΣῊΝ as def GE SBN ἊΝ 4, δ, tele ve ia Dal, 3 tote SA ae ὍΝ aan SON ee ἔ ΗΠ N id No] Ng εἰς fete 250% Sede BX Fed elie) ai hes yd oat RIS ARRAS Le aie 2 ad 1. HS Ἢ RH sh 2 Wo ded δὴ 5 He» « ot, 54, OH Μ an ἀπ CL MN 14% on RUT! ε AA x ie bee Nor” EA ἌΝ 4 fed ts He " οι, ἘΣ “1. Ranes LR i tefetat path — ῷ S23 £4. Wi i, Ν Md Ve Ye ων ΣΝ » ut. $i Eo a An i ἧς 14, 7 SL 2 Lets send Is ΜῊ Η τ kb A Ἢ ay af 15% x a ἀνθ de ΠΗ SEN Sn de τ SOR RP Ra te og ΑΙ od Ν A x i Ni”) Fated 35) 44d tage ρας ete RR Sn Ho ps ee ede SR wade 1 4 \ a hh #2 τ ἢ ἱ 2 ΗΜ τς 2, sti ΜΗ i a Ci i er fi ay i τ rs in Carts
+
+᾿ hy / Ἢ] » τς “0) 0) ᾿ς 4% ἜΣ ΗΝ ΜῊΝ ΜΝ pe el ΠΗ no A A IAS pa oR b de ERD BS fait ded τ πε ΤΣ 5 ds i ς ΤΗ Sa πὰ RE adit Ν 1. δ᾽ lat 6$st, 1. at] PNK Cr ἌΝ SR Rede t, 4 ni ad ry @ OR pre.: φ' Sel sats fed 5 « ged #3) Ph τα Let 45 τς 3H γε Ly, et, he Pie Wh ι ) Η Lo. HN able ed Ψ Ω “Ol nN" a ἣν: tat the: κί op ft in KH 0 ΡΝ ὌΡΗ Ha δ τε ε τ Gag εἰ Ie τῦ ES 44, Η eters 20 “BONS) Bt ἢ ἐν HN ΔΝ, dae? Ce 3 is τας ἘΝ 445 τας. Hiv aed 3 Hear Li ot ὡΜ τ nN ed uN il Ων Ra A Eo Ἢ rh: de Ἣ» ἢ ΗΝ En fh Gan Sil Sa Ν he Rx id 2 ον» sds ἌΝ w se κεῖ γῇ S30 Ω τ ἧς 3 « Ri RH 0 2 Co SLY Ν ὯΝ} i ἐπὶ x rid ἼΤΩ Rib al ec: RI SR) fess al Spe tel ffi ἜΗΝ ΘΝ ic ἰ Fi SRN Rl ented PEIN ᾿ ΠΑ ii B det J 253 oR SE ΜΗ ᾿ Ἢ « of 4 (Ct Sed ΝΗ μων $e μ η 525 ς pH τ He lH ΡΝ a Κ εν ys Pith re Μ ἣν i 2 lt J ἃ Ie μ᾿ 4. SE Le. ΜῊ oN φ RI ἐκ τὶ 1 dae 4. ih dd co [3] ane Tete gd HH fod th pe ν «ἡ 3 ΟΝ ν ι: DIN 3] 14 » 3) ERS 2) τ πεν et ef Hie al πες ἘΣ νὴ Li τς Xa ei Ge of dol " H
+
+PR] Ἐπ 4 Ἷ Η τς 25 SRI of. 5. rie Sci 15 es 3 dell eg RSE re
+
+i aly Js - is τς πεν IR τας 34 << $a ie 3 ες Td ἀκα ὌΝ SH ὩΣ Same 2 {RN ret ie ὌΗ 7 he Ἢ A Bot, Se Yl IRs! τ Th τ ΗΝ ἘΠ Μ᾿ Shp) pA Μ ἐκ Gli ὰ $d ho gr att edi ft { " N (He Ως JOR THD Rn pI Lek pi Gt ged ARH ΠΗ τς ΜΗ τα Ν ἜΣ JAN Lo “frets ds! ς γθ ariel Ν i oh To τὴν \ fi pn de $0 peded τε ΡΝ ia γὴν ἫΝ ΡΝ wx ΜΗ ees ἢ ο i ee Ὁ rene τ ῖς λ ΨΥ ΤΥ νὰν {τ " OLN ἐς RA SRE fins He an ΜΗ ὶ Hi Ren οτος Crary ἧ Lat 4 dt. 3 $ J) Ἢ bo τς NEN; SEER τ RS La ates dade BH τς Rr ie HI SI Rs + τ Σ IB "αἰ: ὍΝ ΑΝ τς Ἀπ Sas ied 2 44 es SI Sele Co ated ΡΝ ΗΝ ATH et, tel A τς afi Μ nt 0s Fe Le εν J 00 A ih Ἄς Δ ἰδὲ ἐν $e RR an. Si IER τ ed RE SI wy Ars N PH Tea <. ἡ» IN μ᾿ « Ret τ SHRI ἐς 3 be 5) ἜΗΙ τί SEIN Cad 3 i pe 4 a Ro SI ENE oh {πὶ EA AeA Tana b She τς HT ve! of ΡΝ He Sete oy ΜῊ "Ὁ τε XH iH Shin SRR Sh “4 2) tel te oN PN ΡΝ el Ho WH 4 ΠΡΊΝ φ ἡ ils Jed ne AR ul 5 dates elie da Ga LL SR no ΩΝ ᾿ ἊΣ Seve BIH SH ἩΔΎ 3s 3 νη coe 3) + dele ἐδ Seal be ὰ» CRG iE ae “iiss AN τ Xe ἅ ΚΣ ᾿ Raa = ἨΣ 3 BaD TERR Bs Σ ΡΝ ἧς ΜΗ Mad RR a Bi ain Η πο x: el $i SD εν πα “3 ra ht "ἢ 0 at ΔῊΝ le NY inn ὑπ τ δεῖ RI 44% SEE Why 4 ΡΝ fe “ἢ ὴ giant o st rt “id “ἜΘ pA ἰ Εν ἣν as op a ας τ er rete #" 5! εἰς Tae te τς “Lite Ρ hy "Ὰ pp ὸ < ἀπῇ τ Μ Py “2585 rs “Ra PN ἢ δὶ. ui = 18 Se Fi μὰ ΡΣ τ HA 4 SN 4 fe ei oN eis ek fe Bit ga ee τς Ged eit a MN ht ἵ Εν μ" 5 ἘΝ 3 ΠΡ 5 ase ) od WH +) τ i I id 0) Mb “pny - 1 ed ie 5 2 fedex ed ek Η RY % Ft BO SY Boss ες BH Se 343 REN ded HH Pe ΝΗ 4d » δε tek Slee τ ΤΕΣ ς νὴ» 0 et te} ete τ “" x ἘΝ ἮΝ ν δ] 3) Satie δ}: «( HE 4 PASH For J of. Py) ε ΜΝ (ed py ἴ ace yi ie els A ot fas δ) = ΓῚ ἜΝ 4 Ce eo a. 4 > ἧς μὴ ῃ ὌΝ "Ὁ 3H Hh 3) <4 WH τ ted ted τς ΠΡΣ ree Cae greet yA ale oats IN ra fie EY way Eo che ok SRE Η i HA Ἢ γὰ SES HRA ies Set it duck $e} led 34 34 dois WH wd Ν 5. 13] RA ) 4 en eyed Shi i fe £37 it 5 - Ra SR el =. a i JOE Hig! J] ΗΝ εἰν ἄν» ΩΣ δῷ) NOH Le reed 15 a, ΤΑ, Mn 0 4 pO 5..” ΜΝ MX fated Mn) 5 ie Pl ἀέ MH 7h $ 3 ds ΡΣ py κ adi atat ἡ τἰ “τ Rt ea ty re oY Sr: faa 3 Ay RRL 5 at ν: 4, π “τ pi ik) Μ eli es Ἢ 8 Fa ἜΣ Ha ἘΝ δὴ "goat, ἜΣ νον Se RPA rd Sa Fen iE RE 5 Ξ τς EON, Aly, 2) δ 200 eae HR oo ΧΟ feat ἴ ΣΝ ted 05 ite Η {edd ot ot SR a es {ont A “ἢ ΠΟΙ by = τῆς het MN 2 HRD ἌΣ 2H RRR PN AK tet, deetes DR it γ fee ἢ Py εἶ fe ΡΣ ε Tugel es So 3 « het by J ἐνὶ > Sol 3 ΚΝ 0 252 οτος ated σὴν IRS Sh «ὦ fees ΣΝ ἜΣ 4 fel Ld oH ΡΗ ed id ht Set LiL HH of νη ρ Ἐ Ν ἢ " a 23) 03 +5 τ γῳ δ 48 ol SDN ») ψ. τ > 4 Η “4 “ΜΝ “τ “4 ὰ Ν % fade! ἀν Lt 7 1 wy AL Theat i ΤῈ \ fe dye ὑὸν ei Pl 24% Jade 4 HN 343 Telit Μ ε ERI ds ne PR) AR RIE Ἄ vo ἊΣ iy Cp ἐπ DURE Ln oo τῆς, Ης μος Ἢ ἘΝ i San Go RIPE) alate ack Sadar ess Δ Lean τ AS MAH sl I ai eo! Sone {eit WY AER if vo v ull B dat <5 rs 13, σας Ὁ os, ἐς is ede ῷ ἧ WH “Pa Be HERS ther tal WA Peli SR oi oo ΩΝ ἡ Ha 4 ἘΠ ΕΣ naa Ἔ ΕΣ Fa ey Ἀ ἂν a ὩΣ 3 STN) ho 2 RI ἜΡΙΣ τὰ CR Eh ay Sat a NG i hs ὍΣ Fa is. x] ee de Ga Ro stein oy dae ἜΤΗ 0d κῃ satel gated oh Wh τ tr ἜΝ ἶ PH a Ἂν PVE i ΥΑα IR ras Ὧν {tad 2) A) ye $250 HI es ois 4 By; τς tates ie! al 3 τς EB «5 τες rid 50 wt i aK ἘΝ J He δὰ Bahn i ny al ae ii Eon a ii τε ΤΟΝ A ἄπ: Ln. Gl i i Ἵ i Δ τα τ Η ΝΗ 2%) RAR Lids Satese IRL 0 ΚΗ bed ε τ. get WM γῇ pK 3 ul YJ.4 des ε rat " Rave ASN δι Ny I 7) He Wy ot pasts 2%) i! ἐκ $054 ot. δ τ) εἰς ate end ote Ot 4 id αὖ τε J! Tel Pes πεῖ ν hes γε ΜΙ vt H ΜῊ 3 dvr ἢ i qed ΠΝ Ἐπ ΜΝ Rs rs hel i ah ot be ἐόν 1} di fe FH HE Hk, £ ER TI ἩΖ 0] ve. RL B+ Ὁ i I RD Ss Bh SR ede yell: aie er Rs ne Π Ths Sh a ἊΣ ἣ 5 2s ΣΡ ν Ka ‘ IRN a ed Η ς 08 PL AH I ““΄ ie i τω ΐ f 2 Sh nF 3 Ὡς. HG ede UERRaE hs BERR: SR ash 4 ER τ τ Hodes Sea AR π ee Tal id ὃν ὯΔ 3 x DEN NH 0 ΤῊ OE pa) « PK ΡΝ We x) 5 Ri Ὡς IRR: “4 SH WU ΡΣ 5, Wo Aa ᾿ς Ὴ pf ὰ AONE ἐμ: hits Na) ho 4 "9 τ aes >) Rl 23) Ni ᾽ν La ot 3 τα ei Wi Br MR Ae + oS 4 ot NR wes «ἵ τοῖς PE Ay] δ » 22. 4. εἶ BT; 00 0% le iG ede ih ea Lt 4 ΤᾺ: ‘> La 205 Nek HR Ὁ ΠΈΡΙ SA τ oR RI Ra pas "" ed > shells FEA ἀπ. ΚΟΡΗ Fs irs Ef ΤᾺΣ aX τ ΝΟ deg ΟΝ 28 ᾽ν» 4G, ah oy δ ἣν Hn Rn: HRS 2, hat, "ε 3% ot 0 PIN ease fed Fa a τ) ξ +e” h " ~s A J ἢ «] 3) HR) I) hey doit NN SE eR 2) iia SE od Gel τ SN re Len oh tate H $2 SARE ν oe Sen ἢ ᾿ SE ies 3 BEER νυν SOA bo, Totus crore sheds SE “νν I by Ὅν ‘2 DOR xa Spo} Ὁ ΕΝ ΝῈ 4, ἧς 3 PR ᾿ς 4 SA Soe, ea 2, bu i, boi fa 30 te ΣΉΝ μὴ ΠΗ So i he Ν rt HE als ar < ay Ἢ oa ἡ:. RIN Ou ΓΝ 0 Satie os oY 2 SPER Sl oe ARH 2% " ΠΩΣ WW δ τ “Sade ν ‘ a ey ENA or F oa SEN ἊΨ elated 3 i ats oa SON AH 4 ded Η τς Rs ie hy ον ge SE ies ἘΣῪ reg - ΝΣ δι,. OH Lede? τς ΝΥ RAS J RRR 55! N HARA oi SO! M3 μὰ μὴ ἌΣ, M3 ὁ, ὁ ot {3 243 i ἥ pa OL 9] fe “ἃ γ ε pli Haan 3 Hath 303 or ΩΝ α HR od an ἔς Aa a ΕΝ
+
+**τ 3.** 5 ' 4 » DIAN Ν yn. 525 “Ὁ 2 rafded “ἐν WIC Cr RL en ‘ x =) By TU in HE 3 Shs τς 4%, 25 δ 1) 25 ἧς bo: on Xx) det. 3 2) Hews ἀγρὸς fae fad 2 + oR Resets τ MINH Fi i En ἜΘΟΣ as " BRE a. un ἡ ᾿ 3 1 ὍΔ] ἘΝ 5 od ai So Rot a 208 Eos τς ta ἐν poo re IRN π erase EH tds ο Ε Ss ὡ Ν A ν᾿ ΑΝ LE Wat ἥ 2 Ay X32 ed 2%) 5 Ri os] KORA ete We x 38. Whe ἌΧ BERR et PIED ah ἧς Ἦν SEH ἐν RR 2 OR, ΡΝ RIS ς ad ties et par τ το SR » AY Δ: ΓΝ" Ὁ ΩΝ NY Sr ERs EEE tie ate FE τ - hag 8 ox i ᾿ ᾽ 4. aa 5 oe as ‘ IA A τῇ ie τ τ τ ο τ ΡΟ II hai de “yr To H Bak jen 8 Ἢ BY SN ' SITs ἜΣ no tes. xn ARR, Dede 2 ly! “δ δ Pe. aiate oo 4g HN PRD " I ν el ἐν ΠΩ ἮΡΙ ἘΦ. a ee τῶν CA ΠΡ} 4 ἡ Ὁ. Cy i ἰς eet ΜΗ dodse Ἢ 4 BE το hes, Xa oe 15: ot, Sed ded > MR walt, δ SR on EH) TAL " ἢ oe 2) ΦΉΣ ᾿ ΒΝ ON of os 2) ΜΗ Ah, a ee ed Aes RN 3 R00 SRS fe Sn SEA ἦ ζου tats ae es vite TA i eo 1 hy rin io 3 ho 1} Sites ΡΝ Gal An of >, 7 3 ie ot, ob " tat 0 SEEM Tile Telia rail ) RN (0H W SCR) WI i NR ἢ πος ed li Ρ Aves a SCE he Lo, a a J εἶν A ΓᾺΜ HM ate, es »} » Hd DI A RI τς He Se 4. nt RIL 5 τ Τ ot ὃς Sk "Ἀν ΤῸΝ ΕΝ R ξεῖν ΡΟ retest ὩΣ SRY τ eos Por δον SO ΔῊ Ran RoR; Sh PR BRE Ve We, Si ᾽ς wz J WH ὑφ ANT 1 et μ᾿ 4 3% HRA 3 ΤΟΙΣ ts ot Ων Bs ai ῳ κ ΠΟΤΕ ῳ Ce sa ον aN oan 2 - κεῖ a oval po het « δ le Seer ut. ve yt relate ΗΝ 2) RX ales Se RIK 3 “eer Ἢ B ae ᾿ 4 3 Wa! h ah dln A Io SE Ce ἐ aA I νἀ or I ST τὰ ΩΣ WI la Bo ὩΣ ole τ ἧς oR Er, 2 PRY “2 pied fie Δ Sten A +" KH RY CRIN neh Tats ἜΣ pA PE ἐδ ἩΠ Γ᾽ ha; ἫΝ ΣΝ ΗΝ x SR pon ᾿ς 3H 7, BIS a 4 5 i an ox ON ) al OR 3 τσι A he ρον, γὴν ἡ ‘ RA at risetes. i ΠΩ SIRS ele! Hil ot 1 aii Ἵ ἡ ΝΗ A XN iy So of" ak ihe. phd Rn fa GEE ie RRR ian Na o Hak on ἐν ΑἹ Fo Rl ΔῊΝ ΙΗ LTE A τ ΜΗ bp RR RT LH ede! ae tes ey ε Τ re 3 ΠΣ e ΡΣ Fats ad iia Ba ey hea iA τ a Ran {’ fray ἂν ES ~; Wo oy owas ἢ; ἘΩ͂Ν h 7 a: μὴ Fem ae Ts a Peete ἘΠ Sa Eh 33 aod nt ὁ 5 RA = ἘΣ hk as, ats! ἐπ 2 IN Re a a ΡῈ \ 411 i Get ἐν ee el es, RG of ᾽ν RAR) pS tA hot CA ᾿ Beir “ΖΞ i ar τ apie SE: “i ) alt mt ZEEE, ΚΣ ἊΣ i 0 oh, hod. yo bo api La ν yi wah! “is bs i, ria es ΄ τ Pa Ale ef OM Τὰ ὌΝ ae 1,
+
+## 5 i
+
+DREN ἄχος Be ate Ἐ bg.- be, DIS ἀ Tal SH & So “Oh SE oJ = % δ ‘ “re Sele ᾿ σ΄ we ‘ ut Le nn, Γὶ ΩΝ νὲ ᾿ “ΠΣ ν a ς we er < & AN ed
+
+[ia “a v 4 Fad an ~ - es -' hy! “Ὁ da? a an Ea a See " " '’ " tages ΜῈ J 1 4 RB Nal " Sth 143 ἣν ᾿ i k ΡΕ ht ν᾿ ᾿]
+
+" SO VIR oh ὰ ἢ Ga dk ποθ 4 SRE TIE SITE AR ELA SL SE I BLA σι ey a " τ ἘΦ a SRE EXE δ᾽ α αὐ πῇ ἘΣ πὸ Emi πὶ Ht ah θοῷ B, rf PS oar AF iy EB fT HA LR RE er 5, μ Bh wag - τς: 5 “f TALE Tah TR FRE.. ΣΉΝ 1 ha Ξ ᾿; HE Σ Ν “᾿ En ὡς al τὸν. τῷ; - - Η " ELE Ἐπ} Ὶ yo wr WL Fr mi b vw SR i ἊΣ a:? a: a “ὦ Ω τὰ wf Fe ἐ aa Ks μ᾿ ες WE. ψ πὶ ou 5. Ww Moa Eat = “= a RF 4 ἘΠ5 SPSL, SP ἃ LE ARSE (PU ot SEDARIS J τὶ Ἢ IRE δ SE Cw Th Te } of 4 π ἐ- Ὁ # - Ih: % 2 MA 4, ς FN we "ge ed ΣΤ΄. “τ δὲ τ ἦν» ἐς ν \ ᾽ Pa “ὦ 2 pl εἰ Ft J IA $F ERT ROE FIT Rh f ᾿ [ ἣ i A LEN Pye Mog aw Ω f δ’ fla 2 Ἔ- τ κί ξ- 1 ARNE ὁ: ῳ. ἢ, LEC oe 3 IRL - ἢ 5. SUT PIE SEE TR gE 8. ἔ or ἶφι 1 3 A I I ET an tr ἢ τ᾽ GE aa ᾿ LA Ὁ" ἀξ} EY EAL Ss ΣΝ 5 TR τι 4. φι ὦ Nr EF Foe Ἢ Wr ΧΆ αν ἃ “-.” δι ἐς ἃ Ἢ TINE CBN TE TTR ἀ 2 ιν AERA Ἐ’ J ὁ τ΄. 2 op [3 be ORE τς 4. EE. ἢ Ἂς te 2 CE MEd a Γ᾿ oe WE Hg ἢ PY “3 ar 5 τῷ wa 5 «ἃ
+
+**8.** 3 ΣΝ, ὸ Be > ἐν Φ Se TINE SE ἔξ ν Ὁ ᾧ ΤΥ: RE α μον. ΟΝ ἢ: Era NER. { 3 9 - $ " ἀν. we a va, EN SS i ew A " HK 8 ) Ὕ ὁ oa α LIN TG PR χ. ME LSE hale SRL ΗΝ ἂν by 4x ὦ { 2 α “. vp. ἃ: oy ts χα BB i μι J 4 I AA Ὃ E ‘4 IE uy { a τ μ" 3 Hp A ι “-αᾳἷι i Bi od ey gh ἡ τ th / Li " of ν" MEET TAPE TLE RR JE AR SE ἐν ͵: Φ κα Ὑδ' κῃ, Πα ἘΦ νὰ ἐ. ὁ ele fy map Him Ων ἐσ og. σ δος ἐς “τς BO % Ἢ ΠΡ i AT Sr Rr! Ie 4g ον TE ΝΥΝ "ΕΔ Ἐπ A ἡ πο α΄ αὐ pee HE eG LL δὲ δ CUE CI TL RRO a ν FP F i φ Γ ᾿] £4 " 4 or PA Νὴ ἐν;: i A 3: yi laa rt wi ἐς ᾿ς A ᾿ =e > ha of ᾿ τ Rd Α > Yu ᾿ Η ᾿ ᾿ STR tr ᾿. Tu ] ν᾿ ἢ i ἜΣ Is LY bx Fe, LE ΝῊ ΠΝ ΒΝ 3 MEE ~y b J Ps A 4 ἃ ἐ di BF τῆ Rea “eg ἐν ᾿ t tI PR a RE TR >. = ΓΝ RB 9 le - Ω - v τοῦ TY ει 8. Ξ »:;: x ) ἐν Η » Wo. £ Σ ᾿ Da GY & - ay ἢ CR Ἂ κα. Ὁ ᾿ “δ ᾿ p 4 Ἢ ' ts i Pas. 4 aa; Ι; a - " H 3 wi Ι SR UI J AR vr Ν $ > -. oq ἐ. - - “of TORI “i ἢ Μ" “- ι ir ay I “1 HA x τ - ἡ ᾿ a “ἡ νὰ Can @: Η Ped vd gg ᾿ & Ta TT Ro Too Nor, Ἢ 3 2 μ WR DT ER ΟΝ SATE RY RATS AM Ey EOE ΕΝ ἐν ged -.-ς τ πα χὰ Nao ) Γ ἘΝ fife de HE ὦ ὰ “0, αν 3. Wy: vg ty £ Ὁ τ. ΕΣ ἰ FP. W " Η 2 ΕἸ α τ ἢ H va, oF ὰ 2 ὦ ͵ τὰ. i a - 3. v ᾿ FIRST BE SURES SERRE I BEATE AHMED ETE RUEIES ἃ Bl Pe Με Σ αν hpi i ἰ τῷ Κ καὶ Tox dR B Eos Κα M os 3 ἐᾷ Fs at H ‘ Ἢ A ᾧ al J BR =3 2 - LE SE LF SR τ hd we. A “Ὁ “uk £ γπ' “wg ἃ:: IE ῳ ὁ ὼ Pa " pS R08 FT oR GE ue ERTL BP a nt " Η 5 τς. ἂν 1 Ὁ Ὁ 3 %+: A ou «ἢ ζ « Ὥς: LR Fa τῷ 3 an ον ἘΞ τ τς, SIE IEEE TH ὦ ἘΞ: Be ny ἄν gaat Ev ἢ os aL πα, CY a Ὁ th τ; + ἘΠ RT [ - -"-- x “- 9 A og ETO a Ἃ de FR 4 ik ts ba ΣΙ ὃ. 4.8 SW ἐ- Ὁ 9 A αὶ 8. fF ἜΠῚΡ A I ἘΠ" 4 Fu uli ail Dra ] 'ἐ et ‘ For ΨῚ ἜΣ: 3 Μ LIAR wy st + “x 7: ey Bh Gay Mog 2 te ἃ ε ὅν. i Ἴ “. αὶ: 4 & ἡ xm ἘΠ Ἢ 4 ᾿ ) ' LA ᾿ oe PA] i. fy EE Ew a εν PN ε. ves edd 2 FY ὁ " Ro θῳ Μ κ 4} be BE ξὶ LE ae se, PO ν. 1 ᾿ " Pd » «5 "σὴ "ἢ EC Ca 3 Η, ἨΦ Σὰ Γ RR:; Pd f- or ἐ ρ ' 8 a εἶ ἐ οἴ 2:.Ξ ἢ ᾿ he ΗΝ I h FLARE Poa τ Γ ᾿ ᾿ vo ᾿ T g a pee. yn B Bg sue ok wl we " “wh Τὺ Ἢ Ἢ ἌΝ ἡ "ἢ x ἐϊ ji Af ay Ὑλπ ἡ (ἡ ξι ν᾿ ἦ ἐν ἐς EL ἀτὃς ὴν Φ' πὸ αὶ ὦ; FP 4% g % Ἐν Ἰ' Ἠξ Σὲ \ ih IPS i FLEE 2 "σ GLEE: με ΝΣ ps sg τ 3. wn RR PB AE NK RE LEERY νι Ὁ ΤΡ Ἢ ὦ Te Te dR cul! SE CS I SE Tc SN I $ sri fy:
+
+[APC 3’ δὴ ρ; ν i ot A ὁ Ὁ 3 1 ε it oF ν a Εν ς ἔξ ς & ‘3 de 5 FM Za]
+
+[».-ς ῃ 4. ᾿ Ἢ ΠῚ ι. ΤΣ ἢ. δ Fil Log 1:]
+
+[LR τ α Δ PY ALS ARR ἦ IS 4 SR AE LEA AF SF SE 5; ἃ ἈἘὶ τ SR EE Ἃ a Peg ἐ δὰ ras ὅῳ = ον fed RE Sh ἢ]
+
+[ἡ ᾿ {EET S EN ὁ ἫΒ δὶ SETAE ἐν PIE HI SIS J I TO TT A Ἐ' καὶ ἐπ']
+
+[ν ᾷ of a n lL SRE ῃ ΐ - Η " Ξ, με i ἃ. ᾿. χ hE.; wo.]
+
+[a wig ‘ por πὶ FE PL a i Fy “ἕν Σ om gw Ps εἰ κκ A;:]
+
+[HN rad LL ΕΣ Pad 3: 3 ὁ,} ΝΣ ξ i 3. ἐ [A i 4t & # £ ER ΓΦ ΒΦ RE τιν ἡ Δ νον Fi a,]
+
+[Me v « Ρ Le Te A 3 ET CE Ἄ & $m SC a κῶς ΝΜ αν Ω Ω Η 3 3,’ ᾿ νῷ. ὑξ NET be ἫΝ wt g - ἢ ᾿ Ἰ]
+
+[ΕΥ̓ ἃ: Rd ETE A Da τ $50 Be Red) Bg wy ὁ 5. ὦ]
+
+[‘ " Pr ἮΝ ν εν ἢ i Fe % ry » a pv Ww. τῷ: A ἃ ᾿ i]
+
+[πε κ Fee te vg GA 9 AE ag Xr]
+
+[SE TRIE EEE TREE SI AIRE A AL I Tras ALL ον, CEA BANC A SE " 3 i d “a: ᾿ Ν ᾿ da fh an. iy - ς: Ἀπ Bo ἃ Ὥ; aA ΓᾺ Ξε φ ἐ ὶ) $ ξ ά - i oy Ν Fy εἶ (ie ἀν ν᾽ alo.; hb Pr A, 1]
+
+[Fe ne τ: “TR J TO I καὶ TR TY ry ‘ ΕἾ; “= Α “ἃ i i; i]
+
+[- SE ETRE TR ᾳ.- RX HK. ANC om vp by ᾽ ᾿ ἐν ἐ ἑ' J ‘ JH "a 2s ὸ » "» Ὡς "es τς; a B ΜΕ:]
+
+[> ἐν ἜΣ " α ἐν ν ae rs:; ἔξ. MEE TR Η wp ἃ αὶ Ra Be ἃ. 3 x ve ν ἂν -.]
+
+[py! ““- pos. Ar IA ΜΕ J I x3]
+
+[fa fo a4 te ς “ἔν στ 3 Ko i ὖ Ν »ὕ «. Ἢ ἐν 4 « ὅ: ὶ ζᾧὶ a” Νὴ ΕῚ δι hy » = Re Ν μὴ Ἁ:]
+
+[Ὁ’ 1 “ι Τὴ "ὰν wm a Lh Ἐπ᾿: oem Ν]
+
+[PRT 421 γυ τ ν wn am de oT κε ν᾿ a LRT ete ἃ, ἐφ τ A κι ἀπ Α ἢ "1 y Υ 7 ᾽ ΄{ς ἡ 3 τ ἦν τὸ ἠ 5» i μὴν ΝΣ ΜΝ δ με αἱ " ἜΗΝ ᾿ ὐ. ᾿ ἱ “, ‘ a. “" r 3. εξ “ἢ ᾿ τρ: - τὸ ᾿]
+
+[bi foe Ἐν 1; ‘i 3 as PARE SP a i Be = » i: - Fy Νὴ]
+
+[Φ Γ ro - 1 RE “" Β ᾿ ὰ ' Boonies “Ἢ.," μοι ἄρον EX τὶ οἶς, "ὦ.]
+
+[ὦ % 4 ἫΝ fr qo Ae LT Head Fg Ν Hg Tg fe MD πον. ἃ ὦ. κοῖς Bw Sl a ΠΥ]
+
+[4 ad 9, NA No MILI ἐν ν σι ph μὲ i + Ps 2. » i 5: x μεν αὶ - EG]
+
+[ω » ue Ν < 3 " we 4" ᾿ FY ͵ re “ot $s ' A ως x “. 8]
+
+[ΣΉ PEL NE, ἢ EER ER τς Μὴ ERA κα τ ἀν ρον. ὁ καὶ XT Αὶ]
+
+[84 νυ οὖ ΒΕ ot: “"Ἢ 4 εἶ i Δ. 4 ὁ oy 1; tuo eA 4 oe LF ΓῚ πᾷ να Έ a Ee) 4 "ὦ. wy Rr]
+
+[π 1 oe PR ἔν Ne ῳ - yd i Svar Ba Bow B, £]
+
+[eh 1d Far i: + ΚΗ it il ek ἃ i ν ὐ ὰ Tg be Wy wife yg ἃ )ε. «Ὁ]
+
+[ΤῊΣ - Ἔ i e 4.! 9. Bib 4 aw ἈΠ a? «, ΤΣ ι wis]
+
+[Ο ψ ak og 5 ἢ 3 ς 2 “ἢ. da 46m AC dg νη EA φς ὁ Iw FEW a τὸ. μὰ, er AL + ΧΑ, EAE TE EA TE EE A TER LD. Pa Lod a ᾧ ἘΞ Δ Rr oy Boi ΡΣ en]
+
+[ed a ἱ ὰ } rd } 3" » Pr ie] Η as Ad A τ' ΡΥ 3 a+ h ΓΙ LA 4 3 t ' ΠΩ J uf Ἣν ν 12 A]
+
+[Δ " ε “ar $- ἅ᾽ gi ar gd 4 ἡ" uf de 3" a wf a: 3 εν "a bod mg »ὲ οἰ. Ἀὰ ἐ: = Εν ΠῚ ο τῇ]
+
+[εἶ εἰ εν br ᾿ τ τὰ SE Ἶ »Ἀ Ly La i - 4 ν νν' bi ἐ, i ε. (ἃ. Φ «ἃ +. “= - ἐς ἐν hid με Bi - τὰ ΒΩ of hgh:]
+
+[Lag “Ἔ “« Ll ACNE Υ ὲ Cd = Se RE 4 FA ) 19 AY τον AE A isl ν'. se Lilo a a ae ag]
+
+[8 Ξ ὃ εἰ HEARS LEN αὶ Bn Re kr yeh PH ax «if p i Poa. τὰ etn LE me pe]
+
+[ἜΣ fa TBE ET ἔ αἴ χω α αὐ 4d α gh “ὦ ἐν i." γε ἢ, φρο τς 5 Φ' Ὡ' αὶ κ' κα 5; wt ΤΠ ως ΠΩ͂Σ]
+
+[΄ M "!.” ψ': κ᾽, - φι Γ { " » 4 Pa Ι i } Re BS. ERS:]
+
+[ix ET δ fe Pe th ALL tl EP ὁ τ κτ A Te ll Mr 3]
+
+[OCR SE i LE SIE ER Bl ake ν εὖ Ne Ter ab »Ἐ, }]
+
+[SE ὰ τ SA 4 ' oe τ' ὧν “4 v. Ἢ ἢ ὸ αν, {τὶ ἢ ἐ B ‘a: bY PA 33. " ᾧ EY ra]
+
+[ῃ i Ν, i IN ν 4 4 ἡ. 43 R δ Η ᾿ PR: i TH vs τῷ ᾿ Oy ᾿]
+
+[ed og Ae og WT a Δ iv Τὰ > bol ἅ- “me VE i 4 RSE. a 4- TP ‘A ω Ih Ρ RK». het τ Ἔν J]
+
+[Wy τ ἡ. ΟΣ τ PRE SL SRT Ἦ ΟΝ ET vow 4 oo a τι ε ΣΕ νος ες my τ ὁ]
+
+[H a Μὲ BH go; « i εὐ. Ce Gr 0B. τῶι wa Lg Gl.; εν]
+
+[+. "at Th FIER ed δ ἀν ὦ ἘΡ HO NA ὁ ἃ ἐ ΤΣ ΟΣ "ἢ τ Tie bp A To]
+
+[dr δι ne al oo BE ΝΗ 160. J ε ὴ 3 CA The αἰ δ ἢ Ὁ SIC AA “ιν αὶ 4]
+
+[yore oe Yun RH de aq gw dE 9 - μι A a ᾿ yi 4 LB ν ἦν a ae ERTS τὸ ἃ ἐν ἃ. τ ἃ % 0) Φ: Ἀν" Ἵν ἅς]
+
+[oR A TI ὁτιο ν Ἃ, κε; i pl } Bo whe Β g % a dah a. deta FY alec AE wm WE a i]
+
+[0 nd] 8 τ ν JR.. Ν Η]
+
+3 SR Es
+
+[or]
+
+[oe J SR”]
+
+FF 3 SREY «8 B i
+
+ge ] ἱ ἂ 8 8.}}.: od ὧν -Σ 4 πων 3)" ἀγα is 11 hs ol 2 Ee i ὁ 24 = - hi le = ay a h h ht i 3 ν eg i lh ir A
+
+- wh ἜΣ μον..Ἢ
+
+## 4 3 A 5 3 i 3 00) y a 5 5 3 Sbc
+
+o ἂν 3} 1 π εν; πὰ π
+
+A 5 4 ah ys 3 σα [ of 1 ν Ta ἃ -ς. Fra. Eh M 1 gd
+
+## 
+
+oh Δ” 4. LX Α͂ εν Π - "
+
+ἍΨ', FA a iy Ad «Ross ω 3 3
+
+»»} i A nl = x “ΨῈ v 3 i RY ὴ
+
+h jo el
+
+re yg.
+
+. » Se ἐμ; ps ] “πὶ a i yf od
+
+᾿ Jot, DE al -: - ΈῈΣ A Ts ᾿ ᾿ ff B el #, = ᾿ 1 τ 5h -
+
+**i a ok.** ἃ "ἡ o
+
+## 5 y o 41 i)
+
+> Be o
+
+## 
+
+ψ - " ϊ ὦ ).:
+
+## 
+
+% ὺ 1 B Π ᾿ ᾿ - i
+
+**4.** é ἃ ὧν ᾿ τς \ 4 i ν hor 11: ὮΝ ΩΣ ζει 1 Aa! RN Ὁ Tee μ Γ i of ω a ΓΨ' BA 1- r.l ow yl hit o = ' AN a No
+
+4:
+
+## 
+
+ως 1}
+
+## o a lal
+
+1 Lite τὴ.
+
+## a
+
+[ea. Pe Ἢ]
+
+[dat i]
+
+[i νῇ]
+
+[IO ες ἢ 4 ξ 5]
 
 ---
 [[Bullinger Dec 22 Decade 2, Sermon 10, Part 1|← 22. Decade 2, Sermon 10, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 24 Decade 3, Sermon 1|24. Decade 3, Sermon 1 →]]
+
