@@ -18,21 +18,7 @@ tags:
 
 ---
 
-## The
-
-## History of Rome
-
-## Titus Livius
-
-## Books Twenty-Seven to Thirty-Six
-
-BY
-
-## Cyrus Edmonds
-
-## MDCCCL
-
-## The History of Rome
+*Titus Livius. Books Twenty-Seven to Thirty-Six. Translated by Cyrus Edmonds, 1850.*
 
 ## Book XXVII
 

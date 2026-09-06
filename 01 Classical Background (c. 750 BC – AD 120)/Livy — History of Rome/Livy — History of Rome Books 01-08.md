@@ -18,22 +18,7 @@ tags:
 
 ---
 
-## The
-
-## History of Rome
-
-BY
-
-## Titus Livius
-
-## The First Eight Books
-
-BY
-
-HENRY G. BOHN, YORK STREET, COVENT GARDEN.
-MDCCCLIII.
-
-## John Childs and Son, Bungay
+*Titus Livius. The First Eight Books. Henry G. Bohn, York Street, Covent Garden, 1853.*
 
 ## Preface
 
@@ -61,10 +46,6 @@ the present volumes by additions in that department.
 Among the manuals of Roman History which may most advantageously be used
 by the student, is Twiss's Epitome of Niebuhr, 2 vols. 8vo, a work
 frequently referred to in these pages.
-
-## The
-
-## History of Rome
 
 ## Book I
 
@@ -245,7 +226,9 @@ and permanent settlement. They build a town. Æneas calls it Lavinium,
 after the name of his wife. In a short time, too, a son was the issue of
 the new marriage, to whom his parents gave the name of Ascanius.
 
-2. The Aborigines and Trojans were soon after attacked together in war.
+## Chapter II
+
+The Aborigines and Trojans were soon after attacked together in war.
 Turnus, king of the Rutulians, to whom Lavinia had been affianced before
 the coming of Æneas, enraged that a stranger had been preferred to
 himself, made war on Æneas and Latinus together. Neither side came off
@@ -278,7 +261,9 @@ name; and in speaking of his being buried, it would be improper to name
 him by his divine title. _---- Indigetem_. He is called by Dionysius
 ??????? Te??.]
 
-3. Ascanius, the son of Æneas, was not yet old enough to take the
+## Chapter III
+
+Ascanius, the son of Æneas, was not yet old enough to take the
 government upon him; that government, however, remained secure for him
 till the age of maturity. In the interim, the Latin state and the
 kingdom of his grandfather and father was secured for the boy under the
@@ -322,7 +307,9 @@ pretence of doing his brother's daughter, Rhea Sylvia, honour, having
 made her a vestal virgin, by obliging her to perpetual virginity he
 deprives her of all hopes of issue.
 
-4. But, in my opinion, the origin of so great a city, and the
+## Chapter IV
+
+But, in my opinion, the origin of so great a city, and the
 establishment of an empire next in power to that of the gods, was due to
 the Fates. The vestal Rhea, being deflowered by force, when she had
 brought forth twins, declares Mars to be the father of her illegitimate
@@ -358,7 +345,9 @@ sports.
 
 [Footnote 9: _Forte quádam divinitus_. ?e?? t??? t???. Plut.]
 
-5. They say, that the festival of the lupercal, as now celebrated, was
+## Chapter V
+
+They say, that the festival of the lupercal, as now celebrated, was
 even at that time solemnized on the Palatine hill, which, from
 Palanteum, a city of Arcadia, was first called Palatium, and afterwards
 Mount Palatine. There they say that Evander, who belonged to the tribe
@@ -398,7 +387,9 @@ his brother, and so they kill the king.
 [Footnote 11: By all his inquiries he arrived at the same conclusion as
 before, viz. that they were his grand-children.]
 
-6. Numitor, at the beginning of the fray, having given out that enemies
+## Chapter VI
+
+Numitor, at the beginning of the fray, having given out that enemies
 had invaded the city, and assaulted the palace, after he had drawn off
 the Alban youth to secure the citadel with a garrison and arms, when he
 saw the young men, after they had killed the king, advancing to
@@ -423,7 +414,9 @@ due to seniority could not determine the point, they agreed to leave to
 the tutelary gods of the place to choose, by augury, which should give a
 name to the new city, which govern it when built.
 
-7. Romulus chose the Palatine and Remus the Aventine hill as their
+## Chapter VII
+
+Romulus chose the Palatine and Remus the Aventine hill as their
 stands to make their observations. It is said, that to Remus an omen
 came first, six vultures; and now, the omen having been declared, when
 double the number presented itself to Romulus, his own party saluted
@@ -502,7 +495,9 @@ Olympiad, and 751 B.C. This is two years short of Varro's computation.]
 
 [Footnote 13: He taught the Italians to read and write.]
 
-8. The duties of religion having been duly performed, and the multitude
+## Chapter VIII
+
+The duties of religion having been duly performed, and the multitude
 summoned to a meeting, as they could be incorporated into one people by
 no other means than fixed rules, he gave them a code of laws, and
 judging that these would be best respected by this rude class of men, if
@@ -551,7 +546,9 @@ to have amounted to 46,000 foot and almost 1,000 horse.]
 
 [Footnote 17: _Ex industria_--_deditâ operá_--?p? pa?as?e???.]
 
-9. And now the Roman state was become so powerful, that it was a match
+## Chapter IX
+
+And now the Roman state was become so powerful, that it was a match
 for any of the neighbouring nations in war, but, from the paucity of
 women, its greatness could only last for one age of man; for they had no
 hope of issue at home, nor had they any intermarriages with their
@@ -616,7 +613,9 @@ the husbands were added, excusing what they had done on the plea of
 passion and love, arguments that work most successfully on women's
 hearts.
 
-10. The minds of the ravished virgins were soon much soothed, but their
+## Chapter X
+
+The minds of the ravished virgins were soon much soothed, but their
 parents by putting on mourning, and tears and complaints, roused the
 states. Nor did they confine their resentment to their own homes, but
 they flocked from all quarters to Titus Tatius, king of the Sabines; and
@@ -657,7 +656,9 @@ been the successful attainment of that honour.
 king of Veii, U. C. 318, another by M. Claudius Marcellus, for killing
 Viridomarus, king of the Gauls, U. C. 532.]
 
-11. Whilst the Romans are achieving these exploits, the army of the
+## Chapter XI
+
+Whilst the Romans are achieving these exploits, the army of the
 Antemnates, taking advantage of their absence, makes an incursion into
 the Roman territories in a hostile manner. A Roman legion being marched
 out in haste against these also, surprise them whilst straggling through
@@ -692,7 +693,9 @@ of the compact to deliver up what was on their left hands, she expressly
 demanded their shields, and that appearing to act with treachery, she
 was killed by the reward of her own choosing.
 
-12. The Sabines, however, kept possession of the citadel, and on the day
+## Chapter XII
+
+The Sabines, however, kept possession of the citadel, and on the day
 after, when the Roman army, drawn up in order of battle, filled up all
 the ground lying between the Palatine and Capitoline hills, they did not
 descend from thence into the plain, till the Romans, fired with
@@ -734,7 +737,9 @@ calling to him, acquires new courage from the affection of his many
 friends, and makes his escape. The Romans and Sabines renew the battle
 in the valley between the hills; but Roman prowess had the advantage.
 
-13. At this juncture the Sabine women, from the outrage on whom the war
+## Chapter XIII
+
+At this juncture the Sabine women, from the outrage on whom the war
 originated, with hair dishevelled and garments rent, the timidity of
 their sex being overcome by such dreadful scenes, had the courage to
 throw themselves amid the flying weapons, and making a rush across, to
@@ -770,7 +775,9 @@ uncertain.
 [Footnote 19: _Nepotum et liberûm progeniem_ = Nepotes et
 liberos,--??e? ??a??? = ?? ??a???.]
 
-14. Thenceforward the two kings held the regal power not only in common,
+## Chapter XIV
+
+Thenceforward the two kings held the regal power not only in common,
 but in concord also. Several years after, some relatives of king Tatius
 beat the ambassadors of the Laurentes, and when the Laurentes commenced
 proceedings according to the law of nations, the influence of his
@@ -822,7 +829,9 @@ against them.
 version coincides with the reading, _locis circà densa obsita virgulta
 obscuris_.]
 
-15. The minds of the Veientes being excited by the contagious influence
+## Chapter XV
+
+The minds of the Veientes being excited by the contagious influence
 of the Fidenatian war, both from the tie of consanguinity, for the
 Fidenates also were Etrurians, and because the very proximity of
 situation, in case the Roman arms should be turned against all their
@@ -857,7 +866,9 @@ above all others he was most beloved by the soldiers. And he kept three
 hundred of them armed as a body-guard not only in war but in peace, whom
 he called Celeres.
 
-16. After performing these immortal achievements, while he was holding
+## Chapter XVI
+
+After performing these immortal achievements, while he was holding
 an assembly of the people for reviewing his army, in the plain near the
 lake of Capra, on a sudden a storm having arisen, with great thunder and
 lightning, enveloped the king in so dense a mist, that it took all sight
@@ -892,7 +903,9 @@ making this announcement, and how much the regret of the common people
 and army, for the loss of Romulus, was assuaged upon the assurance of
 his immortality.
 
-17. Meanwhile ambition and contention for the throne actuated the minds
+## Chapter XVII
+
+Meanwhile ambition and contention for the throne actuated the minds
 of the fathers; factions had not yet sprung up from individuals,
 because, among a new people, no one person was eminently distinguished
 above the rest: the contest was carried on between the different orders.
@@ -944,7 +957,9 @@ senate for its ratification: but that sanction now being given
 beforehand, the order of the people is no longer subject to the control
 of the senate, and therefore not precarious as heretofore.]
 
-18. The justice and piety of Numa Pompilius was at that time celebrated.
+## Chapter XVIII
+
+The justice and piety of Numa Pompilius was at that time celebrated.
 He dwelt at Cures, a city of the Sabines, and was as eminently learned
 in all laws human and divine, as any man could be in that age. They
 falsely represent that Pythagoras of Samos was his instructor in
@@ -994,7 +1009,9 @@ any one to become a pupil?" Other editions read _quâ famâ_; thus, from
 which places by what high character for talent, or by what intercourse
 of language, could he, Pythagoras, have aroused any one, etc.?]
 
-19. Having thus obtained the kingdom, he sets about establishing anew,
+## Chapter XIX
+
+Having thus obtained the kingdom, he sets about establishing anew,
 on the principles of laws and morals, the city recently established by
 violence and arms. When he saw that their minds, as having been rendered
 ferocious by military life, could not be reconciled to those principles
@@ -1064,7 +1081,9 @@ intercalations.]
     Fastus erit, per quem lege licebit agi._--Ov. F. i. 47.
 ]
 
-20. Next he turned his attention to the appointment of priests, though
+## Chapter XX
+
+Next he turned his attention to the appointment of priests, though
 he performed many sacred rites himself, especially those which now
 belong to the flamen of Jupiter. But, as he imagined that in a warlike
 nation there would be more kings resembling Romulus than Numa, and that
@@ -1110,7 +1129,9 @@ Jupiter [28]Elicius, and consulted the god by auguries as to what
 
 Ov. F. iii. 327.]
 
-21. The whole multitude having been diverted from violence and arms to
+## Chapter XXI
+
+The whole multitude having been diverted from violence and arms to
 the considering and adjusting these matters, both their minds had been
 engaged in doing something, and the constant watchfulness of the gods
 now impressed upon them, as the deity of heaven seemed to interest
@@ -1147,7 +1168,9 @@ fact however is, that _cum_ here does not answer to _tum_ at all; _cum_
 is here "whilst,"--and so necessarily requires the verb to be in the
 subjunctive mood.]
 
-22. Upon the death of Numa, the administration returned again to an
+## Chapter XXII
+
+Upon the death of Numa, the administration returned again to an
 interregnum. After that the people appointed as king, Tullus Hostilius,
 the grandson of that Hostilius who had made the noble stand against the
 Sabines at the foot of the citadel. The fathers confirmed the choice. He
@@ -1178,7 +1201,9 @@ dismissed the ambassadors demanding restitution, that on it they may
 visit all the calamities of this war." The Albans carry home these
 tidings.
 
-23. War was prepared for on both sides with the utmost vigour, very like
+## Chapter XXIII
+
+War was prepared for on both sides with the utmost vigour, very like
 to a civil war, in a manner between parents and children: both being
 Trojan offspring; for from Troy came Lavinium, from Lavinium Alba, and
 the Romans were descended from the race of Alban kings. But the result
@@ -1237,7 +1262,9 @@ Roman _nomina_ terminated in _ius_.]
 ego videor audisse regem nostrum Cluilium (præ se ferre) injurias et non
 redditas res ... nec dubito te ferre eadem præ te, Tulle_.]
 
-24. It happened that there were in each of the two armies three
+## Chapter XXIV
+
+It happened that there were in each of the two armies three
 brothers[32] born at one birth, unequal neither in age nor strength.
 That they were called Horatii and Curiatii is certain enough; nor is
 there any circumstance of antiquity more celebrated; yet in a matter so
@@ -1284,7 +1311,9 @@ their own form and oath by their own dictator and priests.
 describes them as cousin-germans. Vid. Wachsmuth, p. 147. Niebuhr, i. p.
 342.]
 
-25. The treaty being concluded, the twin-brothers, as had been agreed,
+## Chapter XXV
+
+The treaty being concluded, the twin-brothers, as had been agreed,
 take arms. Whilst their respective friends exhortingly reminded each
 party "that their country's gods, their country and parents, all their
 countrymen both at home and in the army, had their eyes then fixed on
@@ -1355,7 +1384,9 @@ place, _super alium alius_; consequently were buried together; whilst
 the Curiatii fell in different places, as Horatius contrived to separate
 them to avoid their joint attack.]
 
-26. Before they parted from thence, when Mettus, in conformity to the
+## Chapter XXVI
+
+Before they parted from thence, when Mettus, in conformity to the
 treaty which had been concluded, asked what orders he had to give,
 Tullus orders him to keep the youth in arms, that he designed to employ
 them, if a war should break out with the Veientes. After this both
@@ -1441,7 +1472,9 @@ an opening for the culprit's acquittal.]
 [Footnote 40: By the laws of Romulus, a father had the power of life and
 death over his children.]
 
-27. Nor did the peace with Alba continue long. The dissatisfaction of
+## Chapter XXVII
+
+Nor did the peace with Alba continue long. The dissatisfaction of
 the populace, because the fortune of the state had been hazarded on
 three soldiers, perverted the weak mind of the dictator; and because
 honourable measures had not turned out well, he began to conciliate
@@ -1505,7 +1538,9 @@ independence. Nieb. i. 24. 5.]
 alte_, or formerly _haut_, because soldiers then stand upright and hold
 their spears erect.]
 
-28. Then the Alban army, that had been spectators of the fight, was
+## Chapter XXVIII
+
+Then the Alban army, that had been spectators of the fight, was
 marched down into the plains. Mettus congratulates Tullus on his defeat
 of the enemy; Tullus on his part addresses Mettus with great civility.
 He orders the Albans to unite their camp with the Romans, which he
@@ -1565,7 +1600,9 @@ camp, where it joined that of the Albans.]
 
 [Footnote 46: As well as by the orders issued by Tullus.]
 
-29. During these occurrences the cavalry had been despatched onward to
+## Chapter XXIX
+
+During these occurrences the cavalry had been despatched onward to
 Alba to remove the multitude to Rome. The legions were next led thither
 to demolish the city. When they entered the gates, there was not indeed
 that tumult nor panic, such as usually takes place with captured cities
@@ -1595,7 +1632,9 @@ demolition and ruin the work of four hundred years, during which Alba
 had stood. The temples of the gods, however, for such had been the
 orders given by the king, were spared.
 
-30. In the mean time Rome increases by the demolition of Alba. The
+## Chapter XXX
+
+In the mean time Rome increases by the demolition of Alba. The
 number of citizens is doubled. The Cœlian mount is added to the city,
 and in order that it might be inhabited more populously, Tullus selects
 that situation for his palace and there took up his abode. The leading
@@ -1636,7 +1675,9 @@ restored, or a retreat accomplished without great slaughter.
 
 [Footnote 47: _Malitiosam_. ??? ???? ?a???µ???? ?a???????. Dio. iii.]
 
-31. After the defeat of the Sabines, when the government of Tullus and
+## Chapter XXXI
+
+After the defeat of the Sabines, when the government of Tullus and
 the whole Roman state was in high renown, and in a very flourishing
 condition, word was brought to the king and senators, that it rained
 stones on the Alban Mount. As this could scarcely be credited, on
@@ -1677,7 +1718,9 @@ with his house, through the anger of Jupiter, exasperated at the
 impropriety of the ceremony. Tullus reigned two-and-thirty years with
 great military renown.
 
-32. On the death of Tullus the government devolved once more upon the
+## Chapter XXXII
+
+On the death of Tullus the government devolved once more upon the
 senate, and they nominated an interrex; and on his holding the comitia,
 the people elected Ancus Marcius king. The fathers confirmed the
 election. Ancus Marcius was the grandson of king Numa Pompilius by his
@@ -1753,7 +1796,9 @@ that, he threw the spear within their confines. After this manner
 restitution was demanded from the Latins at that time, and war
 proclaimed: and that usage posterity have adopted.
 
-33. Ancus, having committed the care of sacred things to the flamines
+## Chapter XXXIII
+
+Ancus, having committed the care of sacred things to the flamines
 and other priests, set out with a new army, which he had levied, and
 took Politorium, a city of the Latins, by storm; and following the
 example of former kings, who had increased the Roman state by taking
@@ -1794,7 +1839,9 @@ the Tiber; salt-pits were formed around it, and, in consequence of the
 distinguished success achieved in war, the temple of Jupiter Feretrius
 was enlarged.
 
-34. In the reign of Ancus, Lucumo, a rich and enterprising man, came to
+## Chapter XXXIV
+
+In the reign of Ancus, Lucumo, a rich and enterprising man, came to
 settle at Rome, prompted chiefly by the desire and hope of obtaining
 great preferment there, which he had no means of attaining at Tarquinii
 (for there also he was descended from an alien stock). He was the son of
@@ -1852,7 +1899,9 @@ length, by the king's will, appointed guardian to his children.
 of a warlike sacerdotal character, patricians, not kings. Vid. Niebuhr,
 i. p. 372.]
 
-35. Ancus reigned twenty-four years, equal to any of the former kings
+## Chapter XXXV
+
+Ancus reigned twenty-four years, equal to any of the former kings
 both in the arts and renown of war and peace. His sons were now nigh
 the age of puberty, for this reason Tarquin was more urgent that the
 assembly for the election of a king should be held as soon as possible.
@@ -1894,7 +1943,9 @@ annual, being variously called the Roman and Great (games). By the same
 king also spaces round the forum were portioned off for private
 individuals to build on; porticoes and shops were erected.
 
-36. He was also preparing to surround the city with a stone wall, when a
+## Chapter XXXVI
+
+He was also preparing to surround the city with a stone wall, when a
 Sabine war obstructed his designs. The matter was so sudden, that the
 enemy had passed the Anio before the Roman army could meet and stop
 them; great alarm therefore was produced at Rome. And at first they
@@ -1928,7 +1979,9 @@ consisted of one thousand eight hundred knights. Those that were added
 were called "the younger," but by the same names with the former; which,
 now that they have been doubled, they call six centuries.
 
-37. This part of his forces being augmented, a second battle is fought
+## Chapter XXXVII
+
+This part of his forces being augmented, a second battle is fought
 with the Sabines. But, besides that the Roman army was thus reinforced,
 a stratagem also is secretly resorted to, persons having been sent to
 throw into the river a great quantity of timber that lay on the banks of
@@ -1967,7 +2020,9 @@ Tiber----Another reading is, _pleraque in ratibus impacta subliciis quam
 hærerent_, "most of them being driven against the boats, resting on
 piles, stuck there," &c.]
 
-38. Collatia and all the land about it was taken from the Sabines, and
+## Chapter XXXVIII
+
+Collatia and all the land about it was taken from the Sabines, and
 Egerius, son to the king's brother, was left there with a garrison. I
 understand that the people of Collatia were thus surrendered, and that
 the form of the surrender was as follows: the king asked them, "Are ye
@@ -1997,7 +2052,9 @@ a temple to Jupiter in the Capitol, which he had vowed to him in the
 Sabine war; his mind even then presaging the future grandeur of the
 place.
 
-39. At that time, a prodigy occurred in the palace, wonderful both in
+## Chapter XXXIX
+
+At that time, a prodigy occurred in the palace, wonderful both in
 its appearance and in its result. They relate, that the head of a boy,
 called Servius Tullius, as he lay fast asleep, blazed with fire in the
 sight of many persons. That by the very great noise made at so
@@ -2031,7 +2088,9 @@ brought up in the house from his infancy, was beloved and respected;
 that his mother's lot, in having fallen into the hands of the enemy,
 caused him to be considered the son of a slave.
 
-40. About the thirty-eighth year of Tarquin's reign, Servius Tullius was
+## Chapter XL
+
+About the thirty-eighth year of Tarquin's reign, Servius Tullius was
 in the highest esteem, not only with the king, but also with the senate
 and people. At this time the two sons of Ancus, though they had before
 that always considered it the highest indignity that they had been
@@ -2096,7 +2155,9 @@ are two formal assertions, one, that resentment stimulated the sons of
 Ancus against the king himself; the other, that the plot is laid for the
 king himself upon two considerations, of reason and policy.]
 
-41. When those who were around had raised up the king in a dying state,
+## Chapter XLI
+
+When those who were around had raised up the king in a dying state,
 the lictors seize on the men who were endeavouring to escape. Upon this
 followed an uproar and concourse of people, wondering what the matter
 was. Tanaquil, during the tumult, orders the palace to be shut, thrusts
@@ -2139,7 +2200,9 @@ having been already seized, as soon as it was announced that the king
 still lived, and that the power of Servius was so great, had already
 gone into exile to Suessa Pometia.
 
-42. And now Servius began to strengthen his power, not more by
+## Chapter XLII
+
+And now Servius began to strengthen his power, not more by
 public[53] than by private measures; and lest the feelings of the
 children of Tarquin might be the same towards himself as those of the
 children of Ancus had been towards Tarquin, he unites his two daughters
@@ -2174,7 +2237,9 @@ them by Romulus be here meant, it was long since expired, since about
 140 years had now elapsed. It is probable, however, that it was renewed
 in the reign of Tullius.]
 
-43. Of those who had an estate of a hundred thousand asses or more, he
+## Chapter XLIII
+
+Of those who had an estate of a hundred thousand asses or more, he
 made eighty centuries, forty of seniors and forty of juniors. All these
 were called the first class, the seniors were to be in readiness to
 guard the city, the juniors to carry on war abroad. The arms enjoined
@@ -2229,7 +2294,9 @@ centuries.
 [Footnote 55: Varro, de L.L. iv. 36, thinks, on the contrary, that
 _tributum_ was so called, as being paid by the _tribes_.]
 
-44. The census being now completed, which he had expedited by the terror
+## Chapter XLIV
+
+The census being now completed, which he had expedited by the terror
 of a law passed on those not rated, with threats of imprisonment and
 death, he issued a proclamation that all the Roman citizens, horse and
 foot, should attend at the dawn of day in the Campus Martius, each in
@@ -2257,7 +2324,9 @@ it: and in enlarging the city, as far as the walls were intended to
 proceed outwards, so far these consecrated limits were likewise
 extended.
 
-45. The state being increased by the enlargement of the city, and every
+## Chapter XLV
+
+The state being increased by the enlargement of the city, and every
 thing modelled at home and abroad for the exigencies both of peace and
 war, that the acquisition of power might not always depend on mere force
 of arms, he endeavoured to extend his empire by policy, and at the same
@@ -2299,7 +2368,9 @@ satisfaction to the king, and to the whole state.
 mount towards the Tiber. On its brazen pillar were engraved the laws of
 the treaty, and which were still extant in the time of Augustus.]
 
-46. Servius, though he had now acquired an indisputable right to the
+## Chapter XLVI
+
+Servius, though he had now acquired an indisputable right to the
 kingdom by long possession, yet as he heard that expressions were
 sometimes thrown out by young Tarquin, importing, "That he held the
 crown without the consent of the people," having first secured their
@@ -2353,7 +2424,9 @@ division by Niebuhr, i. p. 161.]
 [Footnote 58: _His son_. Dionysius will have it that he was the
 grandson. See Nieb. i. p. 367.]
 
-47. Then indeed the old age of Servius began to be every day more
+## Chapter XLVII
+
+Then indeed the old age of Servius began to be every day more
 disquieted, his reign to be more unhappy. For now the woman looked from
 one crime to another, and suffered not her husband to rest by night or
 by day, lest their past murders might go for nothing. "That what she had
@@ -2411,7 +2484,9 @@ might please."
 senate, as we have seen, by Tarquinius Priscus, and consequently
 favoured the Tarquinian interest. Nieb. i. p. 372.]
 
-48. When Servius, aroused by the alarming announcement, came in during
+## Chapter XLVIII
+
+When Servius, aroused by the alarming announcement, came in during
 this harangue, immediately from the porch of the senate-house, he says
 with a loud voice, "What means this, Tarquin? by what audacity hast thou
 dared to summon the fathers, while I am still alive? or to sit on my
@@ -2460,7 +2535,9 @@ whilst meditating the liberation of his country.
 regarding the Commentaries of Servius Tullius, chap. 60, has reference
 to this.]
 
-49. After this period Tarquin began his reign, whose actions procured
+## Chapter XLIX
+
+After this period Tarquin began his reign, whose actions procured
 him the surname of the Proud, for he refused his father-in-law burial,
 alleging, that even Romulus died without sepulture. He put to death the
 principal senators, whom he suspected of having been in the interest of
@@ -2492,7 +2569,9 @@ by far the most eminent of the Latin name, being descended, if we
 believe tradition, from Ulysses and the goddess Circe, and by this match
 he attaches to himself his numerous kinsmen and friends).
 
-50. The influence of Tarquin among the chief men of the Latins was now
+## Chapter L
+
+The influence of Tarquin among the chief men of the Latins was now
 considerable, when he issues an order that they should assemble on a
 certain day at the grove of Ferentina; that there was business about
 which he wished to confer with them touching their common interest. They
@@ -2531,7 +2610,9 @@ between a father and son, and that it might be decided in a few
 words,--unless he submitted to his father, that he must prove
 unfortunate."
 
-51. The Arician withdrew from the meeting, uttering these reflections
+## Chapter LI
+
+The Arician withdrew from the meeting, uttering these reflections
 against the Roman king. Tarquin, feeling the matter much more acutely
 than he appeared to do, immediately sets about planning the death of
 Turnus, in order that he might inspire into the Latins the same terror
@@ -2577,7 +2658,9 @@ being thrown into that, he was drowned.
 [Footnote 61: _Hurdle_, a mode of punishment in use among the
 Carthaginians. See Tac. Germ. 12. Similar to the Greek, ?atap??t?sµ??.]
 
-52. Tarquin, having recalled the Latins to the meeting, and applauded
+## Chapter LII
+
+Tarquin, having recalled the Latins to the meeting, and applauded
 those who had inflicted well-merited punishment on Turnus, as one
 convicted of parricide, by his attempting a change of government, spoke
 as follows: "That he could indeed proceed by a long-established right;
@@ -2604,7 +2687,9 @@ compounded companies of Latins and Romans, so as to make one out of two,
 and two out of one; the companies being thus doubled, he appointed
 centurions over them.
 
-53. Nor was Tarquin, though a tyrannical prince in peace, a despicable
+## Chapter LIII
+
+Nor was Tarquin, though a tyrannical prince in peace, a despicable
 general in war; nay, he would have equalled his predecessors in that
 art, had not his [62]degeneracy in other respects likewise detracted
 from his merit here. He began the war against the Volsci, which lasted
@@ -2649,7 +2734,9 @@ transferred from the gates of Gabii to the walls of Rome.
 [Footnote 62: _His degeneracy--degeneratum_. This use of the passive
 participle is of frequent occurrence in Livy.]
 
-54. Upon this he was admitted into their public councils, where though,
+## Chapter LIV
+
+Upon this he was admitted into their public councils, where though,
 with regard to other matters, he professed to submit to the judgment of
 the old inhabitants of Gabii, to whom they were better known, yet he
 every now and then advised them to renew the war; to that he pretended
@@ -2695,7 +2782,9 @@ extinguished in them, till the state of Gabii, destitute of counsel and
 assistance, was delivered without a struggle into the hands of the Roman
 king.
 
-55. Tarquin, thus put in possession of Gabii, made peace with the
+## Chapter LV
+
+Tarquin, thus put in possession of Gabii, made peace with the
 Æquians, and renewed the treaty with the Etrurians. Then he turned his
 thoughts to the business of the city. The chief whereof was that of
 leaving behind him the temple of Jupiter on the Tarpeian mount, as a
@@ -2731,7 +2820,9 @@ to be expected from the spoils of any one city in those times, and one
 that would more than suffice for the foundation of any structure, even
 though exhibiting the magnificence of modern structures.
 
-56. Tarquin, intent upon finishing this temple, having sent for workmen
+## Chapter LVI
+
+Tarquin, intent upon finishing this temple, having sent for workmen
 from all parts of Etruria, employed on it not only the public money, but
 the manual labour of the people; and when this labour, by no means
 inconsiderable in itself, was added to their military service, still the
@@ -2792,7 +2883,9 @@ attributed to Tarquinius Priscus by several writers. Dio. iii. 67,
 states that it was he who commenced it. See Plin. H. N. xxxvi. Nieb. i.
 p. 385.]
 
-57. The Rutulians, a nation very wealthy, considering the country and
+## Chapter LVII
+
+The Rutulians, a nation very wealthy, considering the country and
 age they lived in, were at that time in possession of Ardea. Their
 riches gave occasion to the war; for the king of the Romans, being
 exhausted of money by the magnificence of his public works, was desirous
@@ -2829,7 +2922,9 @@ for violating Lucretia by force seizes Sextus Tarquin; both her beauty,
 and her approved purity, act as incentives. And then, after this
 youthful frolic of the night, they return to the camp.
 
-58. A few days after, without the knowledge of Collatinus, Sextus came
+## Chapter LVIII
+
+A few days after, without the knowledge of Collatinus, Sextus came
 to Collatia with one attendant only; where, being kindly received by
 them, as not being aware of his intention, after he had been conducted
 after supper into the guests' chamber, burning with passion, when every
@@ -2877,7 +2972,9 @@ she dropped down expiring. The husband and father shriek aloud.
 _facto_ and _maturato_ similar to that already noticed in chap. 53,
 _degeneratum_.]
 
-59. Brutus, while they were overpowered with grief, having drawn the
+## Chapter LIX
+
+Brutus, while they were overpowered with grief, having drawn the
 knife out of the wound, and holding it up before him reeking with blood,
 said, "By this blood, most pure before the pollution of royal villany, I
 swear, and I call you, O gods, to witness my oath, that I shall pursue
@@ -2933,7 +3030,9 @@ prefect of the city by the king. During this tumult Tullia fled from her
 house, both men and women cursing her wherever she went, and invoking on
 her the furies the avengers of parents.
 
-60. News of these transactions having reached the camp, when the king,
+## Chapter LX
+
+News of these transactions having reached the camp, when the king,
 alarmed at this sudden revolution, was going to Rome to quell the
 commotions, Brutus, for he had notice of his approach, turned out of the
 way, that he might not meet him; and much about the same time Brutus and
@@ -2982,7 +3081,9 @@ according to the commentaries of Servius Tullius.
      to obey orders. An account of the wars with the Volscians, Æquians,
      and Veientians, and the contests of the fathers with the commons._
 
-1. The affairs, civil and military, of the Roman people, henceforward
+## Chapter I
+
+The affairs, civil and military, of the Roman people, henceforward
 free, their annual magistrates, and the sovereignty of the laws, more
 powerful than that of men, I shall now detail.--The haughty insolence of
 the late king had caused this liberty to be the more welcome: for the
@@ -3029,7 +3130,9 @@ patricians.
 [Footnote 65: All were called _Patres conscripti_. Scil. Patres et
 Conscripti, the conjunction being omitted. Nieb. i. p. 517.]
 
-2. Then attention was paid to religious matters, and as some part of the
+## Chapter II
+
+Then attention was paid to religious matters, and as some part of the
 public worship had been performed by the kings in person, that they
 might not be missed in any respect, they elect a king of the sacrifices.
 This office they made subject to the pontiff, that honour being added to
@@ -3085,7 +3188,9 @@ the kings for his colleague.
 people, and his consequent expulsion from Rome, by his endeavours to
 save his nephews, the Aquillii, from punishment.]
 
-3. Though nobody doubted that a war was impending from the Tarquins, yet
+## Chapter III
+
+Though nobody doubted that a war was impending from the Tarquins, yet
 it broke out later than was universally expected; but liberty was well
 nigh lost by treachery and fraud, a thing they had never apprehended.
 There were, among the Roman youth, several young men of no mean
@@ -3115,7 +3220,9 @@ their feelings; to those by whom their proposals were favourably
 received they give letters from the Tarquins, and confer with them about
 admitting the royal family into the city secretly by night.
 
-4. The matter was first intrusted to brothers of the name of Vitellii
+## Chapter IV
+
+The matter was first intrusted to brothers of the name of Vitellii
 and those of the name of Aquilii. A sister of the Vitellii had been
 married to Brutus the consul, and the issue of that marriage were young
 men, Titus and Tiberius; these also their uncles admit into a
@@ -3146,7 +3253,9 @@ doubt was entertained respecting the ambassadors, and though they
 deserved to be considered as enemies, the law of nations however
 prevailed.
 
-5. The question concerning the restitution of the tyrants' effects,
+## Chapter V
+
+The question concerning the restitution of the tyrants' effects,
 which the senate had formerly voted, came again under consideration. The
 fathers, fired with indignation, expressly forbad them either to be
 restored or confiscated. They were given to be rifled by the people,
@@ -3211,7 +3320,9 @@ his duty in superintending the public punishment inflicted on them.]
 manumitted slaves were admitted to the rights of citizenship as were
 registered by their masters in the census.]
 
-6. On these things being announced to him, as they had occurred,
+## Chapter VI
+
+On these things being announced to him, as they had occurred,
 Tarquin, inflamed not only with grief for the frustration of such great
 hopes, but with hatred and resentment also, when he saw that the way was
 blocked up against stratagem, considering that he should have recourse
@@ -3262,7 +3373,9 @@ accustomed to be discomfited by the Roman soldiers, were routed and put
 to flight. The Tarquinienses, who were a new enemy, not only stood their
 ground, but even on their side obliged the Romans to give way.
 
-7. After the issue of this battle, so great a terror seized Tarquin and
+## Chapter VII
+
+After the issue of this battle, so great a terror seized Tarquin and
 the Etrurians, that both the armies, the Veientian and Tarquinian,
 giving up the matter as impracticable, departed to their respective
 homes. They annex strange incidents to this battle,--that in the silence
@@ -3317,7 +3430,9 @@ the foot of the hill where the temple of Victory now stands.
 
 [Footnote 71: _A year_, scil. of ten months.]
 
-8. After this laws were passed, which not only cleared him of all
+## Chapter VIII
+
+After this laws were passed, which not only cleared him of all
 suspicions of aiming at the regal power, but had so contrary a tendency,
 that they made him popular. From thence he was surnamed Poplicola. Above
 all, the laws regarding an appeal to the people against the magistrates,
@@ -3361,7 +3476,9 @@ Thus Misenus, whilst unburied, _incestat funere classem_. Virg. Æn. vi.
 _oblativa_ sunt, quæ non poscuntur, aut _impetrativa_, quæ optata
 veniunt. The latter could not be rejected.]
 
-9. By this time the Tarquins had fled to Lars[75] Porsena, king of
+## Chapter IX
+
+By this time the Tarquins had fled to Lars[75] Porsena, king of
 Clusium. There, mixing advice with their entreaties, "They sometimes
 besought him not to suffer them, who were descended from the Etrurians,
 and of the same blood and name, to live in exile and poverty; at other
@@ -3415,7 +3532,9 @@ tenants, but kept them in the hands of public labourers, to collect all
 the salt for the public use; and appointed salesmen to retail it to the
 people at a cheaper rate. See Stocker's ed.]
 
-10. Some parts seemed secured by the walls, others by the interposition
+## Chapter X
+
+Some parts seemed secured by the walls, others by the interposition
 of the Tiber. The Sublician bridge well nigh afforded a passage to the
 enemy, had there not been one man, Horatius Cocles, (that defence the
 fortune of Rome had on that day,) who, happening to be posted on guard
@@ -3463,7 +3582,9 @@ public honours. For, amid the great scarcity, each person contributed
 something to him according to his supply at home, depriving himself of
 his own support.
 
-11. Porsena being repulsed in his first attempt, having changed his
+## Chapter XI
+
+Porsena being repulsed in his first attempt, having changed his
 plans from a siege to a blockade, after he had placed a garrison in
 Janiculum, pitched his camp in the plain and on the banks of the Tiber.
 Then sending for boats from all parts, both to guard the river, so as
@@ -3499,7 +3620,9 @@ being a match in strength for fighting, and all the ways being blocked
 up to prevent escape: this put an end to the Etrurians strolling about
 in so disorderly a manner.
 
-12. Nevertheless the blockade continued, and there was a scarcity of
+## Chapter XII
+
+Nevertheless the blockade continued, and there was a scarcity of
 corn, with a very high price. Porsena entertained a hope that by
 continuing the siege he should take the city, when C. Mucius, a young
 nobleman, to whom it seemed a disgrace that the Roman people, when
@@ -3558,7 +3681,9 @@ attack you in this manner. It was my lot first. The rest will follow,
 each in his turn, according as the lot shall set him forward, unless
 fortune shall afford an opportunity of you."
 
-13. Mucius being dismissed, to whom the cognomen of Scævola was
+## Chapter XIII
+
+Mucius being dismissed, to whom the cognomen of Scævola was
 afterwards given, from the loss of his right hand, ambassadors from
 Porsena followed him to Rome. The risk of the first attempt, from which
 nothing had saved him but the mistake of the assailant, and the risk to
@@ -3599,7 +3724,9 @@ the Romans marked the uncommon instance of bravery in the woman, by an
 uncommon kind of honour, an equestrian statue; (the statue representing)
 a lady sitting on horseback was placed at the top of the Via Sacra.
 
-14. Inconsistent with this so peaceful a departure of the Etrurian king
+## Chapter XIV
+
+Inconsistent with this so peaceful a departure of the Etrurian king
 from the city, is the custom handed down from the ancients, and which
 continues down to our times among other usages at public sales, (I mean)
 that of selling the goods of king Porsena; the origin[78] of which
@@ -3643,7 +3770,9 @@ be dated the commencement of the recovery of their liberty by the
 Romans, and that the flight of the Roman hostages, the sale of Porsena's
 goods, &c. were subsequent to it.]
 
-15. Then P. Lucretius and P. Valerius Publicola were elected consuls.
+## Chapter XV
+
+Then P. Lucretius and P. Valerius Publicola were elected consuls.
 This year ambassadors came from Porsena for the last time, regarding the
 restoration of Tarquin to the throne. And when they were answered, that
 the senate would send deputies to the king; some of the principal
@@ -3675,7 +3804,9 @@ Janiculum. Tarquin, all hopes of return being now cut off, went to
 Tusculum to live in exile with his son-in-law Mamilius Octavius. Thus
 the peace between Porsena and the Romans was inviolably preserved.
 
-16. M. Valerius and P. Posthumius were chosen consuls. This year war was
+## Chapter XVI
+
+M. Valerius and P. Posthumius were chosen consuls. This year war was
 carried on successfully against the Sabines; the consuls received the
 honour of a triumph. Upon this the Sabines made preparations for war on
 a larger scale. To make head against them, and lest any sudden danger
@@ -3712,7 +3843,9 @@ did the enemy, in their resentment, spare even the three hundred
 hostages which they had received. This year also the consuls triumphed
 at Rome.
 
-17. The following consuls, Opiter Virginius and Sp. Cassius, first
+## Chapter XVII
+
+The following consuls, Opiter Virginius and Sp. Cassius, first
 endeavoured to take Pometia by storm, and afterwards by raising vineæ
 and other works. But the Auruncians, prompted more by an irreconcilable
 hatred against them, than induced by hopes of success, or by a
@@ -3735,7 +3868,9 @@ the town was razed, and the land sold. The consuls obtained a triumph
 more from having severely gratified their revenge, than in consequence
 of the importance of the war thus brought to a close.
 
-18. The following year had Postumus Cominius and T. Lartius for consuls.
+## Chapter XVIII
+
+The following year had Postumus Cominius and T. Lartius for consuls.
 On this year, during the celebration of the games at Rome, as some of
 the courtesans were being carried off by some of the Sabine youth in a
 frolic, a mob having assembled, a scuffle ensued, and almost a battle;
@@ -3784,7 +3919,9 @@ disposed to suspect that the dictator was created to take on him the
 management of war. See Nieb. p. 553, and Niebhr. Epit. by Twiss, Append.
 p. 355.]
 
-19. Servius Sulpicius and M. Tullius were consuls the next year: nothing
+## Chapter XIX
+
+Servius Sulpicius and M. Tullius were consuls the next year: nothing
 worth mentioning happened. Then T. Æbutius and C. Vetusius. In their
 consulship, Fidenæ was besieged, Crustumeria taken, and Præneste
 revolted from the Latins to the Romans. Nor was the Latin war, which had
@@ -3816,7 +3953,9 @@ Tarquin's son. This body, inasmuch as they fought with greater fury from
 having been banished from their country, and lost their estates,
 restored the battle for a short time.
 
-20. When the Romans were beginning to give ground on that side, M.
+## Chapter XX
+
+When the Romans were beginning to give ground on that side, M.
 Valerius, brother to Poplicola, having observed young Tarquin boldly
 figuring away at the head of his exiles, fired with the renown of his
 family, that the slaying of the princes might belong to the same family
@@ -3867,7 +4006,9 @@ master of the horse returned to the city in triumph.
 [Footnote 82: By giving up the advantage of their horses, and forgetting
 their superiority of rank.]
 
-21. For the next three years there was neither settled peace nor open
+## Chapter XXI
+
+For the next three years there was neither settled peace nor open
 war. The consuls were Q. Clælius and T. Lartius. After them A.
 Sempronius and M. Minucius. In their consulship, a temple was dedicated
 to Saturn, and the Saturnalia appointed to be kept as a festival. Then
@@ -3895,7 +4036,9 @@ fifteenth of May.
 [Footnote 83: Qui consules secundum quosdam, who were the consuls that
 came after certain consuls.]
 
-22. During the Latin war, there had been neither peace nor war with the
+## Chapter XXII
+
+During the Latin war, there had been neither peace nor war with the
 nation of the Volscians; for both the Volscians had raised auxiliary
 troops to send to the Latins had not so much expedition been used by the
 Roman dictator, and the Roman employed this expedition that he might not
@@ -3930,7 +4073,9 @@ connexions of hospitality. And never at any former time was the Latin
 name more closely united to the Roman state, either by public or private
 ties.
 
-23. But both the Volscian war was threatening, and the state, being
+## Chapter XXIII
+
+But both the Volscian war was threatening, and the state, being
 disturbed within itself, glowed with intestine animosity between the
 senate and people, chiefly on account of those confined for debt. They
 complained loudly, that whilst fighting abroad for liberty and dominion,
@@ -3998,7 +4143,9 @@ their minds were in this ferment, it would be both more safe and more
 easy to bend than to break them. Amidst these debates, another terror of
 a more serious nature presented itself.
 
-24. Some Latin horse came full speed to Rome, with the alarming news
+## Chapter XXIV
+
+Some Latin horse came full speed to Rome, with the alarming news
 that the Volscians were marching with a hostile army, to besiege the
 city, the announcement of which (so completely had discord made the
 state two from one) affected the senators and people in a far different
@@ -4037,7 +4184,9 @@ bravery or activity of the others more conspicuous in the Volscian war.
 The consul led out his army against the enemy, and pitched his camp at a
 little distance from them.
 
-25. The next night the Volscians, relying on the dissension among the
+## Chapter XXV
+
+The next night the Volscians, relying on the dissension among the
 Romans, made an attempt on their camp, to see if any desertion or
 treachery might be resorted to during the night. The sentinels on guard
 perceived them; the army was called up, and the signal being given they
@@ -4065,7 +4214,9 @@ Volscians, alarmed for their state after the taking of Pometia, come to
 him. By a decree of the senate peace is granted them, but their land is
 taken from them.
 
-26. Immediately after the Sabines also caused an alarm to the Romans;
+## Chapter XXVI
+
+Immediately after the Sabines also caused an alarm to the Romans;
 but it was rather a tumult than a war. It was announced in the city
 during the night that a Sabine army had advanced as far as the river
 Anio, plundering the country: that the country houses there were
@@ -4089,7 +4240,9 @@ arms, give a pacific answer to those advancing against them in arms.
 They march to Aricia with a determined army, come to an engagement not
 far from thence, and in one battle put an end to the war.
 
-27. After the defeat of the Auruncians, the people of Rome, victorious
+## Chapter XXVII
+
+After the defeat of the Auruncians, the people of Rome, victorious
 in so many wars within a few days, were expecting the promises of the
 consul and the engagement of the senate (to be made good). But Appius,
 both through his natural pride, and in order to undermine the credit of
@@ -4149,7 +4302,9 @@ far more dangerous, by a secession and by secret meetings. At length the
 consuls, so odious to the commons, went out of office: Servilius liked
 by neither party, Appius highly esteemed by the senators.
 
-28. Then A. Virginius and T. Vetusius enter on the consulship. Upon this
+## Chapter XXVIII
+
+Then A. Virginius and T. Vetusius enter on the consulship. Upon this
 the commons, uncertain what sort of consuls they were to have, held
 nightly meetings, some of them upon the Esquiline, and others upon the
 Aventine hill, that they might not be confused by hasty resolutions in
@@ -4186,7 +4341,9 @@ time. Then indeed the younger senators flocked in a hurry round the
 chairs of the consuls, commanding them to abdicate the consulate, and
 resign an office which they had not courage to support.
 
-29. Having sufficiently tried both[84] ways, the consuls at length said,
+## Chapter XXIX
+
+Having sufficiently tried both[84] ways, the consuls at length said,
 "Conscript fathers, lest you may say that you were not forewarned, a
 great disturbance is at hand. We require that they who accuse us most
 severely of cowardice, would assist us in raising the levies; we shall
@@ -4235,7 +4392,9 @@ insulted."
 [Footnote 85: _rem non vulgabat_, was not for extending the relief to
 all.]
 
-30. To many the opinion of Appius appeared, as it really was, severe and
+## Chapter XXX
+
+To many the opinion of Appius appeared, as it really was, severe and
 violent. On the other hand, those of Virginius and Largius were not safe
 for the precedent they established; especially they thought that of
 Largius so, as it would destroy all credit. The opinion of Virginius was
@@ -4291,7 +4450,9 @@ the promiscuous slaughter which was here made of all ranks, there was
 more blood spilt than in the battle itself. Quarter was given to a small
 number of them, who threw down their arms and surrendered.
 
-31. Whilst these things are going on among the Volsci, the dictator
+## Chapter XXXI
+
+Whilst these things are going on among the Volsci, the dictator
 routs, puts to flight, and strips of their camp, the Sabines, where by
 far the most serious part of the war lay. By a charge of his cavalry he
 had thrown into confusion the centre of the enemy's line, where, by the
@@ -4345,7 +4506,9 @@ his home with approbation and applause.
 _adversus_ to read _aversas_: scil. the valleys behind them, or in their
 rear.]
 
-32. Fear then seized the senators lest, if the army should be dismissed,
+## Chapter XXXII
+
+Fear then seized the senators lest, if the army should be dismissed,
 secret meetings and conspiracies would be renewed; wherefore though the
 levy had been held by the dictator, yet supposing that, as they had
 sworn obedience to the consuls, the soldiers were bound by their oath,
@@ -4392,7 +4555,9 @@ of the food." By comparing in this way how similar the intestine
 sedition of the body was to the resentment of the people against the
 senators, he made an impression on the minds of the multitude.
 
-33. Then a commencement was made to treat of a reconciliation, and among
+## Chapter XXXIII
+
+Then a commencement was made to treat of a reconciliation, and among
 the conditions it was allowed, "that the commons should have their own
 magistrates, with inviolable privileges, who should have the power of
 bringing assistance against the consuls, and that it should not be
@@ -4441,7 +4606,9 @@ him by the contribution of a sextans from each person.
 [Footnote 88: I have here adopted the reading of Stacker and others,
 scil. _ad terrorem, ut solet, primum ortus_.]
 
-34. T. Geganius and P. Minutius were next elected consuls. In this year,
+## Chapter XXXIV
+
+T. Geganius and P. Minutius were next elected consuls. In this year,
 when every thing was quiet from war abroad, and the dissensions were
 healed at home, another much more serious evil fell upon the state;
 first a scarcity of provisions, in consequence of the lands lying
@@ -4497,7 +4664,9 @@ corn, to get rid of the tribunes, &c. Such a judgment is easily formed;
 it is not, however, he says, so easy to determine, whether it would have
 been expedient to follow the advice of Coriolanus.]
 
-35. This proposal both appeared to the senate too harsh, and from
+## Chapter XXXV
+
+This proposal both appeared to the senate too harsh, and from
 exasperation well nigh drove the people to arms: "that they were now
 assailed with famine, as if enemies, that they were defrauded of food
 and sustenance, that the foreign corn, the only support which fortune
@@ -4544,7 +4713,9 @@ of resentment.
 of delivering one up to the vengeance of the people, in order to save
 themselves from the further consequences of plebeian rage.]
 
-36. It happened that preparations were being made at Rome for a
+## Chapter XXXVI
+
+It happened that preparations were being made at Rome for a
 repetition of the [91]great games; the cause of repeating them was this:
 on the morning of the games, the show not yet being commenced, a master
 of a family, after flogging his slave loaded with a neck-yoke, had
@@ -4583,7 +4754,9 @@ discharged his duty.
 [Footnote 92: _Realized_--_repræsentatas_--quasi præsentes factas,
 oculis subjectas--presented as it were to the sight.--_Rasch_.]
 
-37. The senate decreed that the games should be celebrated on as grand a
+## Chapter XXXVII
+
+The senate decreed that the games should be celebrated on as grand a
 scale as possible. To these games a great number of Volscians came by
 the advice of Attius Tullus. Before the games were commenced, Tullus, as
 had been concerted at home with Marcius, comes to the consuls. He tells
@@ -4617,7 +4790,9 @@ gods."
 
 [Footnote 93: _Sequius sit_--otherwise than as it should be.]
 
-38. As they went along in an almost continuous body, Tullus having
+## Chapter XXXVIII
+
+As they went along in an almost continuous body, Tullus having
 preceded them to the fountain of Ferentina, accosting the chiefs among
 them according as each arrived, by asking questions and expressing
 indignation, he led both themselves, who greedily listened to language
@@ -4650,7 +4825,9 @@ revolt.
 [Footnote 94: _Audientes secunda iræ verba_--attentively listening to
 words which fanned (or chimed in with) their anger.--_St_.]
 
-39. The generals selected for that war by the unanimous choice of all
+## Chapter XXXIX
+
+The generals selected for that war by the unanimous choice of all
 the states were Attius Tullus and Caius Marcius; in the latter of whom
 their chief hope was reposed. And this hope he by no means disappointed:
 so that it clearly appeared that the Roman commonwealth was more
@@ -4700,7 +4877,9 @@ viam transversis itineribus transgressus) have been transposed from
 their proper place, and that they should come in after "he then took,"
 &c. (tunc deinceps).]
 
-40. Then the matrons assemble in a body around Veturia, the mother of
+## Chapter XL
+
+Then the matrons assemble in a body around Veturia, the mother of
 Coriolanus, and his wife, Volumnia: whether that was the result of
 public counsel, or of the women's fear, I cannot ascertain. They
 certainly carried their point that Veturia, a lady advanced in years,
@@ -4755,7 +4934,9 @@ the Hernici (for they too were in arms) to Aquillius. That year the
 Hernici were defeated; they came off with respect to the Volscians on
 equal terms.
 
-41. Sp. Cassius and Proculus Virginius were next made consuls; a treaty
+## Chapter XLI
+
+Sp. Cassius and Proculus Virginius were next made consuls; a treaty
 was struck with the Hernici; two-thirds of their land were taken from
 them: of this the consul Cassius was about to distribute one half among
 the Latins, the other half among the commons. To this donation he was
@@ -4802,7 +4983,9 @@ decree: this is the area before the temple of Tellus. But whether that
 trial was private or public, he was condemned in the consulship of Ser.
 Cornelius and Q. Fabius.
 
-42. The resentment of the people against Cassius was not of long
+## Chapter XLII
+
+The resentment of the people against Cassius was not of long
 duration. The allurements of the agrarian law, now that its proposer was
 gone, were of themselves gaining ground in their minds; and this feeling
 was further heightened by the parsimonious conduct of the senators, who,
@@ -4849,7 +5032,9 @@ were not duly attended to. These terrors, however, terminated in this,
 that Oppia, a vestal virgin, being found guilty of a breach of chastity,
 was made to suffer punishment.
 
-43. Quintus Fabius and C. Julius were then made consuls. During this
+## Chapter XLIII
+
+Quintus Fabius and C. Julius were then made consuls. During this
 year the dissension at home was not abated, and the war abroad was more
 desperate. Arms were taken up by the Æquans; the Veientes also entered
 the territory of the Romans committing devastations; the solicitude
@@ -4891,7 +5076,9 @@ hatred of his soldiers towards him. The patricians, however, succeeded
 in having the consulship remain in the Fabian family. They elect M.
 Fabius consul: Cn. Manlius is assigned as a colleague to Fabius.
 
-44. This year also had a tribune as a proposer of the agrarian law. It
+## Chapter XLIV
+
+This year also had a tribune as a proposer of the agrarian law. It
 was Titus Pontificius: he pursuing the same course, as if it had
 succeeded with Sp. Licinius, obstructed the levy for a little time. The
 patricians being once more perplexed, Appius Claudius asserts "that the
@@ -4939,7 +5126,9 @@ than to declare and make a show of war: that the fates and the gods
 would of themselves manage the rest." These hopes had armed the
 Etrurians, who in many vicissitudes had been vanquished and victors.
 
-45. The Roman consuls also dreaded nothing else, than their own
+## Chapter XLV
+
+The Roman consuls also dreaded nothing else, than their own
 strength, and their own arms. The recollection of the destructive
 precedent set in the last war, deterred them from bringing matters to
 such a pass as that they should have to fear two armies at the same
@@ -5009,7 +5198,9 @@ which during many civil contests had been alienated from them. The line
 of battle is formed; nor do the Veientian foe and the Etrurian legions
 decline the contest.
 
-46. An almost certain hope was entertained that they would no more fight
+## Chapter XLVI
+
+An almost certain hope was entertained that they would no more fight
 with them than they had done with the Æqui; that even some more serious
 attempt was not to be despaired of, considering the irritated state of
 their feelings, and the very critical occasion. The affair turned out
@@ -5043,7 +5234,9 @@ fighting rather than by exhorting." Thus the two Fabii rush forward to
 the front with presented spears, and brought on with them the whole
 line.
 
-47. The battle being restored on one side, Cn. Manlius, the consul, with
+## Chapter XLVII
+
+The battle being restored on one side, Cn. Manlius, the consul, with
 no less ardour, encouraged the fight on the other wing. Where an almost
 similar result took place; for as the soldiers undauntedly followed Q.
 Fabius on the one wing, so did they follow Manlius on this, as he was
@@ -5102,7 +5295,9 @@ the state.
 [Footnote 96: The triarii were veteran soldiers of approved valour: they
 formed the third line, whence their name.]
 
-48. Accordingly Kæso Fabius, having been elected consul with T.
+## Chapter XLVIII
+
+Accordingly Kæso Fabius, having been elected consul with T.
 Virginius not more with the zealous wishes of the senators than of the
 commons, attended neither to wars, nor levies, nor any other object,
 until the hope of concord being now in some measure commenced, the
@@ -5150,7 +5345,9 @@ the Fabii in a body, who had been standing in the porch of the
 senate-house, returned home. Being ordered to attend on the following
 day in arms at the consul's gate, they retire to their homes.
 
-49. The rumour spreads through the entire city; they extol the Fabii to
+## Chapter XLIX
+
+The rumour spreads through the entire city; they extol the Fabii to
 the skies by their encomiums. "That a single family had taken on them
 the burden of the state: that the Veientian war had now become a private
 concern, a private quarrel. If there were two families of the same
@@ -5207,7 +5404,9 @@ sacrifices and prayers in the Capitol; and then, laying aside his
 consular gown, marched out of the city, dressed in a military robe of
 state, called Paludamentum.]
 
-50. Again the Veientian state had to contend with the Fabii without any
+## Chapter L
+
+Again the Veientian state had to contend with the Fabii without any
 additional military armament [on either side]; and there were not merely
 incursions into each other's territories, or sudden attacks on those
 making the incursions, but they fought repeatedly in the open field, and
@@ -5256,7 +5455,9 @@ the Roman people both at home and in war.
 
 [Footnote 98: This statement is rejected by Niebuhr entirely.]
 
-51. At the time when this disaster was received, C. Horatius and T.
+## Chapter LI
+
+At the time when this disaster was received, C. Horatius and T.
 Menenius were consuls. Menenius was immediately sent against the
 Etrurians, elated with victory. Then too an unsuccessful battle was
 fought, and the enemy took possession of the Janiculum: and the city
@@ -5294,7 +5495,9 @@ The Etrurians (hemmed in) between the two armies, when they presented
 their rear to the one and the other by turns, were entirely cut off.
 Thus the Veientian war was crushed by a fortunate act of temerity.
 
-52. Together with the peace, provisions returned to the city in greater
+## Chapter LII
+
+Together with the peace, provisions returned to the city in greater
 abundance, both by reason of corn having been brought in from Campania,
 and, as soon as the fear felt by each of future famine left them, that
 corn being brought forward which had been hoarded up. Then their minds
@@ -5335,7 +5538,9 @@ him by assigning to him a share of his own deserts; the condemnation of
 Menenius however was of greater service to him (so much had they changed
 their minds).
 
-53. The contests at home were now concluded. A Veientian war broke out,
+## Chapter LIII
+
+The contests at home were now concluded. A Veientian war broke out,
 with whom the Sabines had united their forces. The consul P. Valerius,
 after auxiliaries were sent for from the Latins and Hernicians, being
 despatched to Veii with an army, immediately attacks the Sabine camp,
@@ -5364,7 +5569,9 @@ There was no kind of injury or indignity that was not practised against
 the Volsci; nor could they be prevailed on however to come to an
 engagement in the field.
 
-54. Lucius Furius and Caius Manlius were the next consuls. The
+## Chapter LIV
+
+Lucius Furius and Caius Manlius were the next consuls. The
 Veientians fell to Manlius as his province. War however did not take
 place: a truce for forty years was granted them at their request, corn
 and pay for the soldiers being demanded of them. Disturbance at home
@@ -5412,7 +5619,9 @@ were innocent wished to be considered to have perpetrated it, and it was
 openly declared that the tribunitian power should be subdued by
 chastisement.
 
-55. Immediately after this victory of a most ruinous precedent a levy is
+## Chapter LV
+
+Immediately after this victory of a most ruinous precedent a levy is
 proclaimed; and the tribunes being now overawed, the consuls accomplish
 the matter without any opposition. Then indeed the commons became
 enraged more on account of the silence of the tribunes than the command
@@ -5456,7 +5665,9 @@ members prevailed, who recommended that the unthinking rashness of the
 commons should not be met by the passionate resentment of the
 patricians.
 
-56. The commons having espoused the interest of Volero, with great
+## Chapter LVI
+
+The commons having espoused the interest of Volero, with great
 warmth choose him, at the next election, tribune of the people for that
 year, which had Lucius Pinarius and Publius Furius for consuls; and,
 contrary to the opinion of all men, who thought that he would let loose
@@ -5520,7 +5731,9 @@ time to cool; that delay would not deprive them of their power, but
 would add prudence to strength; and that the senators would be under the
 control of the people, and the consul under that of the senators."
 
-57. With difficulty the people were pacified by Quintius: with much more
+## Chapter LVII
+
+With difficulty the people were pacified by Quintius: with much more
 difficulty was the other consul by the patricians. The assembly of the
 people being at length dismissed, the consuls convene the senate; where,
 though fear and resentment by turns had produced a diversity of
@@ -5541,7 +5754,9 @@ submitted to than were sanctioned on the sacred mount." Overcome however
 by the unanimous feeling of the senators, he desisted: the law is
 carried without opposition.
 
-58. Then for the first time the tribunes were elected in the comitia by
+## Chapter LVIII
+
+Then for the first time the tribunes were elected in the comitia by
 tribes. Piso said that three were added to the number, whereas there had
 been only two before. He names the tribunes also, Caius Sicinius, Lucius
 Numitorius, Marcus Duilius, Spurius Icilius, Lucius Mecilius. During the
@@ -5571,7 +5786,9 @@ vain, he no longer held any intercourse with the soldiers; he said the
 army was corrupted by the centurions; he sometimes gibingly called them
 tribunes of the people and Voleros.
 
-59. None of these circumstances were unknown to the Volscians, and they
+## Chapter LIX
+
+None of these circumstances were unknown to the Volscians, and they
 pressed on with so much the more vigour, hoping that the Roman army
 would entertain the same spirit of opposition against Appius, which they
 had formerly entertained against the consul Fabius. But they were much
@@ -5619,7 +5836,9 @@ the centurions, and those with the double allowance, who had left their
 ranks. With respect to the rest of the multitude, every tenth man was
 drawn by lot for punishment.
 
-60. In a contrary manner to this, the consul and soldiers in the country
+## Chapter LX
+
+In a contrary manner to this, the consul and soldiers in the country
 of the Æquans vied with each other in courtesy and acts of kindness:
 both Quintius was naturally milder in disposition, and the ill-fated
 severity of his colleague caused him to indulge more in his own good
@@ -5639,7 +5858,9 @@ there was more of dignity abstracted from the elections themselves by
 the exclusion of the patricians, than there was influence either added
 to the commons or taken from the patricians.
 
-61. A more turbulent year[99] next followed, Lucius Valerius, Tiberius
+## Chapter LXI
+
+A more turbulent year[99] next followed, Lucius Valerius, Tiberius
 Æmilius being consuls, both by reason of the struggles between the
 different orders concerning the agrarian law, as well as on account of
 the trial of Appius Claudius; for whom, as a most active opposer of the
@@ -5692,7 +5913,9 @@ Niebuhr considered that this account regarding the death of Appius was
 all fictitious. The Greek writers, scil. Dion. ix. 54, Zonar. vii. 17,
 state that he laid violent hands on himself.]
 
-62. In the same year the consul Valerius, having marched an army against
+## Chapter LXII
+
+In the same year the consul Valerius, having marched an army against
 the Æquans, when he could not entice the enemy to an engagement, set
 about assaulting their camp. A violent storm sent down from heaven with
 thunder and hail prevented him. Then, on a signal for a retreat being
@@ -5709,7 +5932,9 @@ following day removed their camp into a safer situation. This seemed a
 sufficient reason to the consul why he should leave the enemy as
 conquered, departing thence the war being still unfinished.
 
-63. During these wars, whilst dissensions still continued at home, Titus
+## Chapter LXIII
+
+During these wars, whilst dissensions still continued at home, Titus
 Numicius Priscus, Aulus Virginius, were elected consuls. The commons
 appeared determined no longer to brook a delay of the agrarian law, and
 extreme violence was on the eve of being resorted to, when it was
@@ -5738,7 +5963,9 @@ having entered their territories under exasperated feelings.
 Niebuhr considers this reading to be corrupt, and is satisfied that the
 correct reading is _coacto extemplo senatu_. See ii. n. 555.]
 
-64. Towards the close of the year there was some peace, but, as
+## Chapter LXIV
+
+Towards the close of the year there was some peace, but, as
 frequently at other times, disturbed by contests between the patricians
 and commons. The exasperated commons refused to attend the consular
 elections: Titus Quintius, Quintus Servilius, were elected consuls by
@@ -5780,7 +6007,9 @@ both from the strange riders placed on them, and moreover from the sound
 of the trumpets frightening them, kept the Volscians intently awaiting
 an attack of the enemy.
 
-65. When day dawned, the Romans, invigorated and refreshed with sleep,
+## Chapter LXV
+
+When day dawned, the Romans, invigorated and refreshed with sleep,
 on being marched out to battle, at the first onset overpowered the
 Volscians, wearied from standing and want of rest; though the enemy
 rather retired than were routed, because in the rear there were hills to
@@ -5845,7 +6074,9 @@ additional efforts to take the town.]
      of Ardea and Aricia concerning some disputed lands, adjudge them to
      themselves._
 
-1. After the taking of Antium, Titus Æmilius and Quintus Fabius are
+## Chapter I
+
+After the taking of Antium, Titus Æmilius and Quintus Fabius are
 elected consuls. This was the Fabius Quintus who alone had survived the
 family cut off at Cremera. Already, in his former consulate, Æmilius had
 been an adviser of giving land to the people. Accordingly in his second
@@ -5876,7 +6107,9 @@ The Æquans sued for peace from Quintus Fabius, (he was sent thither with
 an army,) and they themselves broke it by a sudden incursion into the
 Latin territory.
 
-2. In the following year Quintus Servilius, (for he was consul with
+## Chapter II
+
+In the following year Quintus Servilius, (for he was consul with
 Spurius Posthumius,) being sent against the Æquans, fixed his camp in
 the Latin territory: inaction necessarily kept the army within the camp,
 involved as they were in a distemper. The war was protracted to the
@@ -5930,7 +6163,9 @@ mass of one single army."
 here, but such instances of the indicative being used for the
 subjunctive are by no means infrequent.]
 
-3. Having left therefore a guard on the camp, they marched out and
+## Chapter III
+
+Having left therefore a guard on the camp, they marched out and
 attacked the Roman frontiers with such fury, as to carry terror even to
 the city: the unexpected nature of the thing also caused more alarm,
 because nothing could be less apprehended, than that an enemy,
@@ -5968,7 +6203,9 @@ returned to Rome with great glory and booty.
 
 [Footnote 106: _Justitium_--a jure sistendo.]
 
-4. Then Aulus Posthumius Albus and Spurius Furius Fusus were consuls.
+## Chapter IV
+
+Then Aulus Posthumius Albus and Spurius Furius Fusus were consuls.
 Furii some writers have written Fusii; this I mention, lest any one may
 imagine that the change, which is only in the names, may be in the
 persons themselves. There was no doubt but that one of the consuls would
@@ -6018,7 +6255,9 @@ power.]
 [Footnote 108: _Pro-consul_:--the first mention of a pro-consul in
 Livy.]
 
-5. During those days many movements and many attempts were made on
+## Chapter V
+
+During those days many movements and many attempts were made on
 either side, because the enemy, having the advantage in numbers,
 attempted to weaken the Roman strength by dividing it into many parts,
 as not being likely to suffice for all points of attack. At the same
@@ -6084,7 +6323,9 @@ having been returned to them for their spirited military services. The
 thousand soldiers from Antium were dismissed almost with disgrace,
 because they had come after the battle with assistance then too late.
 
-6. The elections were then held: Lucius Æbutius and Publius Servilius
+## Chapter VI
+
+The elections were then held: Lucius Æbutius and Publius Servilius
 being elected consuls, enter on their office on the calends of August,
 which was then considered as the commencement of the year.[109] This was
 a distressing time, and it so happened that the season was pestilential
@@ -6137,7 +6378,9 @@ which commenced in January.]
 [Footnote 111: _Circuitio_. Stroth observes, that this is what we
 understand by 'the Round.']
 
-7. The commonwealth thus desolate, without a head, without strength, the
+## Chapter VII
+
+The commonwealth thus desolate, without a head, without strength, the
 guardian gods and good fortune of the city saved, which inspired the
 Volscians and Æquans with the disposition of banditti rather than of
 enemies; for so far was any hope not only of taking but even of
@@ -6177,7 +6420,9 @@ to the pestilence.
 [Footnote 112: According to Dionysius, the Volsci attacked Rome on this
 occasion.]
 
-8. From this time, whether it was from the favour of the gods being
+## Chapter VIII
+
+From this time, whether it was from the favour of the gods being
 obtained, or that the more unhealthy season of the year was now passed,
 the bodies of the people having shaken off disease, gradually began to
 be more healthy, and their attention being now directed to public
@@ -6226,7 +6471,9 @@ enemy being beaten, their camp was also taken.
 
 [Footnote 113: As _præfectus urbis_.]
 
-9. Thus affairs at Rome returned to their former state; and successes
+## Chapter IX
+
+Thus affairs at Rome returned to their former state; and successes
 abroad immediately excited commotions in the city. Caius Terentillus
 Arsa[114] was tribune of the people in that year: he, considering that
 an opportunity was afforded for tribunitian intrigues during the absence
@@ -6281,7 +6528,9 @@ immediately sent for.
 Roman family names always, he says, ending in _ius_. He also thinks that
 for _Arsa_, we should read _Harsa_.]
 
-10. Lucretius returned with immense spoil, and much greater glory; and
+## Chapter X
+
+Lucretius returned with immense spoil, and much greater glory; and
 this glory he increased on his arrival, by exposing all the booty in the
 Campus Martius, so that each person might, during three days, recognise
 his own and carry it away; the remainder was sold, for which no owners
@@ -6344,7 +6593,9 @@ with safety." Thus far the tribunes.
 
 [Footnote 116: The Sibylline books.]
 
-11. But, on the other side, the consuls, having placed their chairs
+## Chapter XI
+
+But, on the other side, the consuls, having placed their chairs
 within view of them, were proceeding with the levy; thither the tribunes
 hasten, and draw the assembly along with them; a few were cited, by way
 of making an experiment, and instantly violence commenced. Whomsoever
@@ -6394,7 +6645,9 @@ see exercising kingly sway over you by his strength and audacity." Many
 assented, complaining that they had been beaten by him: and strongly
 urged on the tribune to go through with the prosecution.
 
-12. The day of trial now approached, and it was evident that persons in
+## Chapter XII
+
+The day of trial now approached, and it was evident that persons in
 general considered that their liberty depended on the condemnation of
 Cæso: then, at length being forced to it, he addressed the commons
 individually, though with a strong feeling of indignation; his relatives
@@ -6429,7 +6682,9 @@ listening to his entreaties; others complaining that themselves and
 their friends had been ill-treated, by the harshness of their answer
 declared their sentence beforehand.
 
-13. Independently of the general odium, one charge bore heavily on the
+## Chapter XIII
+
+Independently of the general odium, one charge bore heavily on the
 accused; that Marcus Volscius Fictor, who some years before had been
 tribune of the people, had come forward as a witness: "that not long
 after the pestilence had been in the city, he had fallen in with a party
@@ -6490,7 +6745,9 @@ scil. _plebi_. Niebuhr prefers this reading.]
 [Footnote 120: _Rigorously exacted_. See Niebuhr ii. p. 289, who
 expresses a different opinion on the matter.]
 
-14. When the tribunes, flushed as it were with victory, imagined that
+## Chapter XIV
+
+When the tribunes, flushed as it were with victory, imagined that
 the law was in a manner passed, the patricians being now dismayed by the
 banishment of Cæso, and when, with respect to the seniors of the
 patricians, they had relinquished all share in the administration of the
@@ -6518,7 +6775,9 @@ without one offensive expression, much less any violence being employed.
 By soothing and managing the commons they gradually rendered them
 tractable. By these methods the law was evaded for the entire year.
 
-15. The consuls Caius Claudius, the son of Appius, and Publius Valerius
+## Chapter XV
+
+The consuls Caius Claudius, the son of Appius, and Publius Valerius
 Publicola, found the state in a more tranquil condition. The new year
 had brought with it nothing new; the thoughts about carrying the law, or
 submitting to it, engrossed all the members of the state. The more the
@@ -6565,7 +6824,9 @@ all extremities."
 [Footnote 121: _Incerto hoste_, it being as yet uncertain who the enemy
 was.]
 
-16. The matter began to disclose itself more clearly to the patricians
+## Chapter XVI
+
+The matter began to disclose itself more clearly to the patricians
 and the consuls; besides those things, however, which were openly
 declared, they dreaded lest this might be a scheme of the Veientes or
 Sabines; and, as there were so many of the enemy in the city, lest the
@@ -6597,7 +6858,9 @@ greater than that which the nightly foe had occasioned.
 [Footnote 122: _Fidem abrogare_,--non habere fidem, non credere. _Non
 credendo_ here seems superfluous.]
 
-17. When it was announced that their arms were being laid aside, and
+## Chapter XVII
+
+When it was announced that their arms were being laid aside, and
 that the men were quitting their posts, Publius Valerius, his colleague
 still detaining the senate, hastens from the senate-house; he comes
 thence into the meeting to the tribunes: "What is all this," says he,
@@ -6655,7 +6918,9 @@ enemy should make any move.
 limits of the consular authority; acting in the same manner as if its
 power were unbounded, and admitted no appeal.]
 
-18. On the same night, messengers come to Tusculum announcing that the
+## Chapter XVIII
+
+On the same night, messengers come to Tusculum announcing that the
 citadel was taken, and the Capitol seized, and the other state of
 disturbance in the city. Lucius Mamilius was at that time dictator at
 Tusculum; he, having immediately convoked the senate and introduced the
@@ -6701,7 +6966,9 @@ that he might be buried with greater solemnity.
 25, where we read "Cæsonem neque Quintiæ familiæ, neque reipublicæ
 restitui posse." Comp. Niebuhr ii. n. 673, Wachsmuth, p. 347.]
 
-19. Peace being established, the tribunes then pressed on the patricians
+## Chapter XIX
+
+Peace being established, the tribunes then pressed on the patricians
 to fulfil the promise of Publius Valerius; they pressed on Claudius, to
 free the shade of his colleague from breach of faith, and to allow the
 business of the law to proceed. The consul asserted that he would suffer
@@ -6773,7 +7040,9 @@ their office at this time on the Calends of August.]
 religion is said to be _sacrum_; whilst _sanctum_ is said of that which
 the law states to be inviolable.]
 
-20. The consul's harangue had a great effect on the commons; the
+## Chapter XX
+
+The consul's harangue had a great effect on the commons; the
 patricians, recovering their spirits, considered the state as
 re-established. The other consul, more eager as a seconder than as the
 first mover (of a measure), readily suffering his colleague to take the
@@ -6810,7 +7079,9 @@ be stopped by the ordinary remedies. That the commonwealth required a
 dictator, so that whoever should stir a step to disturb the peace of the
 state, might feel that the dictatorship was without appeal."
 
-21. The senate was assembled in the Capitol. Thither the tribunes come
+## Chapter XXI
+
+The senate was assembled in the Capitol. Thither the tribunes come
 with the commons in great consternation: the populace, with loud
 clamours, implore the protection now of the consuls, now of the
 patricians: nor could they make the consul recede from his
@@ -6848,7 +7119,9 @@ been lessened." Upon this they issue this order jointly: "That no one
 should attempt to make Lucius Quintius consul: if any one should do so,
 that they would not allow that vote."
 
-22. The consuls elected were Quintus Fabius Vibulanus, a third time, and
+## Chapter XXII
+
+The consuls elected were Quintus Fabius Vibulanus, a third time, and
 Lucius Cornelius Maluginensis. The census was performed that year; it
 was a matter of religious scruple that the lustrum should be closed, on
 account of the Capitol having been taken and the consul slain. In the
@@ -6890,7 +7163,9 @@ greater, because the enemy were scarcely able to carry off their arms
 with them; and their entire army would have been destroyed, had not the
 woods covered them in their flight.
 
-23. Whilst these transactions are taking place at Antium, the Æqui, in
+## Chapter XXIII
+
+Whilst these transactions are taking place at Antium, the Æqui, in
 the mean while, sending forward the main strength of their youth,
 surprise the citadel of Tusculum by night, and with the rest of their
 army they sit down at no great distance from the walls of Tusculum, so
@@ -6928,7 +7203,9 @@ observes that _reducto_ is the more correct.]
 [Footnote 128: This account does not seem to be correct. See Niebuhr ii.
 p. 254.]
 
-24. This war being concluded, a tribunitian war at home alarms the
+## Chapter XXIV
+
+This war being concluded, a tribunitian war at home alarms the
 senate. They exclaim, "that the detaining the army abroad was done for a
 fraudulent motive: that such frustration was for the purpose of doing
 away with the law; that they, however, would go through with the matter
@@ -6989,7 +7266,9 @@ innocence.]
 [Footnote 130: _Comitia_, i. e. _curiata_, which exercised authority in
 the cases of persons accused of inflicting injuries on the patricians.]
 
-25. Lucius Minucius and Caius Nautius being next elected consuls, took
+## Chapter XXV
+
+Lucius Minucius and Caius Nautius being next elected consuls, took
 up the two causes which lay over since the preceding year. The consuls
 obstructed the law, the tribunes the trial of Volscius in the same
 manner: but in the new quæstors there was greater power, and greater
@@ -7027,7 +7306,9 @@ the Æqui. The tribunes, according to their practice, attempted to
 obstruct the levy; and probably would have eventually prevented it, but
 a new cause of alarm was suddenly added.
 
-26. A large body of Sabines, committing dreadful devastation, approached
+## Chapter XXVI
+
+A large body of Sabines, committing dreadful devastation, approached
 very close to the walls of the city. The fields were laid waste, the
 city was struck with terror. Then the commons cheerfully took up arms;
 two large armies were raised, the tribunes remonstrating to no purpose.
@@ -7079,7 +7360,9 @@ authority as too great, and the man vested with such authority rather
 arbitrary. And during that night indeed nothing was done in the city
 besides posting guards.
 
-27. On the next day the dictator, after he had come into the forum
+## Chapter XXVII
+
+On the next day the dictator, after he had come into the forum
 before day-light, names a master of the horse, Lucius Tarquitius, a man
 of patrician family, but one who, though he had served his campaigns
 among the foot by reason of his scanty means, was yet considered by many
@@ -7109,7 +7392,9 @@ please their leaders, exclaimed among themselves, "Standard-bearer,
 hasten on; follow, soldier." At midnight they reach Algidum: and, as
 soon as they perceived that they were near the enemy, they halted.
 
-28. There the dictator, having rode about, and having observed, as far
+## Chapter XXVIII
+
+There the dictator, having rode about, and having observed, as far
 as could be ascertained by night, what the situation of the camp was,
 and what its form, commanded the tribunes of the soldiers to order the
 baggage to be thrown into one place, and that the soldiers with their
@@ -7161,7 +7446,9 @@ them. Under this yoke the dictator sent the Æquans.
 should be more properly _ad prohibenda circumdanda opera_, i. e. ad
 prohibendum, ne opera circumdarentur.]
 
-29. The enemy's camp being taken, which was full of every thing, (for he
+## Chapter XXIX
+
+The enemy's camp being taken, which was full of every thing, (for he
 had sent them away naked,) he distributed all the booty among his own
 soldiers only: chiding the consul's army and the consul himself, he
 says, "Soldiers, ye shall do without any portion of the spoil taken from
@@ -7199,7 +7486,9 @@ They report that wolves seen in the Capitol were driven away by dogs;
 that on account of that prodigy the Capitol was purified. Such were the
 transactions in that year.
 
-30. Quintus Minucius and Caius Horatius Pulvillus follow as the next
+## Chapter XXX
+
+Quintus Minucius and Caius Horatius Pulvillus follow as the next
 consuls. At the commencement of this year, when there was peace abroad,
 the same tribunes and the same law occasioned disturbances at home; and
 parties would have proceeded further, (so highly were their passions
@@ -7232,7 +7521,9 @@ for their having betrayed the garrison.
 possessed _imperium_. The tribunes could not be said to possess it.
 Their province was confined to _auxilii latio_, sc. adversus consules.]
 
-31. Marcus Valerius and Spurius Virginius are next elected consuls.
+## Chapter XXXI
+
+Marcus Valerius and Spurius Virginius are next elected consuls.
 Quiet prevailed at home and abroad. They laboured under a scarcity of
 provisions on account of the excessive rains. A law was proposed
 regarding the making Mount Aventine public property. The same tribunes
@@ -7279,7 +7570,9 @@ Siccius Dentatus, and his strenuous exertions in endeavouring to carry
 the agrarian law, as well as of his angry contentions with the consuls.
 For his character, see Dion. x. 31, 32.]
 
-32. The year was undisturbed by foreign wars; the following one was
+## Chapter XXXII
+
+The year was undisturbed by foreign wars; the following one was
 still more quiet, Publius Curiatius and Sextus Quintilius being consuls,
 the tribunes observing uninterrupted silence, which was occasioned in
 the first place by their waiting for the ambassadors who had gone to
@@ -7305,7 +7598,9 @@ them: at length the point was given up to the patricians, provided that
 the Icilian law regarding the Aventine and the other devoting laws were
 not repealed.
 
-33. In the three hundred and first year after Rome was built, the form
+## Chapter XXXIII
+
+In the three hundred and first year after Rome was built, the form
 of the government was a second time changed, the supreme power being
 transferred from consuls to decemvirs, as it had passed before from
 kings to consuls. The change was less remarkable, because not of long
@@ -7345,7 +7640,9 @@ prosecutor (in a matter) of which he was legally a judge; and
 relinquished his right, so that he might add what had been taken from
 the power of the office to the liberty of the people.
 
-34. Whilst the highest and lowest alike experienced from them this
+## Chapter XXXIV
+
+Whilst the highest and lowest alike experienced from them this
 prompt administration of justice, impartial, as if from an oracle, then
 their attention was devoted to the framing of laws; and the ten tables
 being proposed amid the intense expectation of all, they summoned the
@@ -7373,7 +7670,9 @@ commons now, besides that they detested the name of consuls as much as
 that of kings, required not even the tribunitian aid, as the decemvirs
 in turn submitted to appeal.
 
-35. But when the assembly for electing decemvirs was proclaimed for the
+## Chapter XXXV
+
+But when the assembly for electing decemvirs was proclaimed for the
 third market-day, so strong a flame of ambition blazed forth, that the
 first men of the state began to canvass individuals, (through fear, I
 suppose, lest the possession of such high authority might become
@@ -7419,7 +7718,9 @@ should have been a bar to his being elected a decemvir.]
 [Footnote 135: Niebuhr will have it that five of these were of plebeian
 rank.]
 
-36. This was the end of Appius's assumption of a character not his own.
+## Chapter XXXVI
+
+This was the end of Appius's assumption of a character not his own.
 Henceforward he began to live according to his own natural disposition,
 and to mould to his own temper his new colleagues before they should
 enter on their office. They held daily meetings remote from witnesses:
@@ -7480,7 +7781,9 @@ should remove the axes from the fasces.--_Crev._]
 the people, whilst the _intercessio_ referred to the decemvirs against a
 colleague.]
 
-37. The plebeians then began to watch narrowly the countenances of the
+## Chapter XXXVII
+
+The plebeians then began to watch narrowly the countenances of the
 patricians, and (hoped) to catch the breeze of liberty from that
 quarter, by apprehending slavery from which, they had brought the
 republic into its present condition. The leading members of the senate
@@ -7518,7 +7821,9 @@ _cum fortuna_, so that _portentioris esset_ may refer to _quicquid
 cupitum foret_, i. e. with such favourable success, that every thing
 which the more powerful person might covet, became his.]
 
-38. The ides of May came. No new election of magistrates having taken
+## Chapter XXXVIII
+
+The ides of May came. No new election of magistrates having taken
 place, private persons came forth as decemvirs, without any abatement
 either in their determination to enforce their authority,[140] or any
 diminution in the emblems employed to make a parade of their station.
@@ -7611,7 +7916,9 @@ differed in no other respect from mere private citizens, except that
 they had recourse to violence, which it was competent for the magistrate
 only to do.]
 
-39. But they showed more obedience in coming into the senate than
+## Chapter XXXIX
+
+But they showed more obedience in coming into the senate than
 servility in the sentiments expressed by them, as we have learned. It
 is recorded that, after Appius's stating the subject of the meeting, and
 before the opinions were demanded in order, Lucius Valerius Potitus
@@ -7660,7 +7967,9 @@ was Marcus Horatius who made the army revolt against Tarquinius
 Superbus, and that the same in his second consulate rendered unavailing
 all the efforts of Porsenna to restore the Tarquins.]
 
-40. Whilst Horatius was exclaiming in this manner, "and the decemvirs
+## Chapter XL
+
+Whilst Horatius was exclaiming in this manner, "and the decemvirs
 could not discover any limit either to their anger or forbearance, nor
 could they see to what the thing would come, Caius Claudius, who was
 uncle to Appius the decemvir, delivered an address more like entreaties
@@ -7718,7 +8027,9 @@ and that no other matter should take precedence.
 maxime._ Crevier prefers to read _aut soli aut hi maxime_. Stroth
 explains _socii, se socios præbendo_.]
 
-41. The junior patricians succeeded in having this opinion carried.
+## Chapter XLI
+
+The junior patricians succeeded in having this opinion carried.
 Valerius and Horatius rising again with greater vehemence demanded
 aloud, "that it should be allowed them to express their sentiments
 concerning the republic; that they would address the people, if by a
@@ -7764,7 +8075,9 @@ Marcus Sergius: they determine on Spurius Oppius as an assistant to
 Appius Claudius to protect the city, their authority being equal to that
 of all the decemvirs.
 
-42. The republic was managed with no better success in war than at home.
+## Chapter XLII
+
+The republic was managed with no better success in war than at home.
 In this the only fault in the generals was, that they had rendered
 themselves objects of hatred to their fellow citizens: in other respects
 the whole fault lay with the soldiers; who, lest any enterprise should
@@ -7792,7 +8105,9 @@ Sabine territory; and that the enemy might be deterred, by thus
 attacking them first, from entertaining any intentions of attacking the
 city.
 
-43. To the calamities received from the enemy, the decemvirs add two
+## Chapter XLIII
+
+To the calamities received from the enemy, the decemvirs add two
 flagitious deeds, one abroad, and the other in the city. In the Sabine
 district, Lucius Siccius, who, during the unpopularity of the
 decemvirs, introduced, in secret conversation with the common soldiers,
@@ -7818,7 +8133,9 @@ military funeral for him at the public expense. He was buried amid the
 great grief of the soldiery, and with the worst possible reputation of
 the decemvirs among the common people.
 
-44. Another atrocious deed follows in the city, originating in lust,
+## Chapter XLIV
+
+Another atrocious deed follows in the city, originating in lust,
 attended with results not less tragical than that deed which drove the
 Tarquins from the city and the throne through the injured chastity and
 violent death of Lucretia: so that the decemvirs not only had the same
@@ -7866,7 +8183,9 @@ of the father; that he should allow the claim for her interim liberty
 according to the law passed by himself, and not allow a maiden of ripe
 age to encounter the risk of her reputation before that of her liberty.
 
-45. Appius prefaced his decree by observing that the very law, which
+## Chapter XLV
+
+Appius prefaced his decree by observing that the very law, which
 Virginius's friends were putting forward as the ground of their demand,
 clearly showed how much he favoured liberty. But that liberty would find
 secure protection in it on this condition, that it varied[146] neither
@@ -7959,7 +8278,9 @@ no one present, who claimed a legal right to the possession of her but
 M. Claudius, the judge had no alternative but to award her during the
 interim to his safe keeping.--_Stocker._]
 
-46. The multitude was now excited, and a contest seemed likely to ensue.
+## Chapter XLVI
+
+The multitude was now excited, and a contest seemed likely to ensue.
 The lictors had taken their stand around Icilius; nor did they, however,
 proceed beyond threats, when Appius said, "that it was not Virginia that
 was defended by Icilius, but that, being a restless man, and even now
@@ -8002,7 +8323,9 @@ delivered on the following morning to no purpose.
 
 [Footnote 149: _Sureties_--sponsores. The preliminary bail.]
 
-47. But in the city, when the citizens were standing in the forum erect
+## Chapter XLVII
+
+But in the city, when the citizens were standing in the forum erect
 with expectation, Virginius, clad in mourning, by break of day conducts
 his daughter, also attired in weeds, attended by some matrons, into the
 forum, with a considerable body of advocates. He then began to go round
@@ -8047,7 +8370,9 @@ decision. He had calculated, however, on the non-appearance of the
 father; yet did not now choose to be foiled by his unexpected
 presence.--_Stocker._]
 
-48. The decemvir, engrossed in mind by his lustful propensities, states
+## Chapter XLVIII
+
+The decemvir, engrossed in mind by his lustful propensities, states
 that not only from the abusive language of Icilius yesterday, and the
 violence of Virginius, of which he had the entire Roman people as
 witnesses, but from authentic information also he ascertained, that
@@ -8086,7 +8411,9 @@ entirely turned on the tribunitian power, on the right of appeal to the
 people which had been taken from them, and on the indignities thrown
 upon the state.
 
-49. The multitude was excited partly by the atrocious nature of the
+## Chapter XLIX
+
+The multitude was excited partly by the atrocious nature of the
 deed, partly by the hope of recovering their liberty through a
 favourable opportunity. Appius now orders Icilius to be summoned before
 him, now on refusing to come to be seized; at length, when an
@@ -8117,7 +8444,9 @@ opinion that neither the commons should be exasperated, and much more
 that care should be taken that the arrival of Virginius should not
 occasion any commotion in the army.
 
-50. Accordingly some of the junior patricians, being sent to the camp
+## Chapter L
+
+Accordingly some of the junior patricians, being sent to the camp
 which was at that time on Mount Vecilius, announce to the decemvirs
 "that by every means in their power they should keep the soldiers from
 mutinying." Where Virginius occasioned greater commotion than he had
@@ -8189,7 +8518,9 @@ them: that to them they would give their answer.
 accompanied Virginius into the camp. 2. Others who followed them
 subsequently.]
 
-51. The ambassadors being dismissed, Virginius reminds the soldiers
+## Chapter LI
+
+The ambassadors being dismissed, Virginius reminds the soldiers
 "that a little time before they had been embarrassed in a matter of no
 very great difficulty, because the multitude was without a head; and
 that the answer given, though not inexpedient, was the result rather of
@@ -8231,7 +8562,9 @@ complaining that they were now being degraded, stated that they would
 not resign their office, until those laws were passed on account of
 which they had been appointed.
 
-52. The people being informed through Marcus Duilius, who had been
+## Chapter LII
+
+The people being informed through Marcus Duilius, who had been
 tribune of the people, that by reason of their continual contentions no
 business was transacted, passes from the Aventine to the Sacred mount;
 Duilius affirming that serious concern for business would not enter the
@@ -8271,7 +8604,9 @@ ask is, that they may be protected from popular rage; they give a
 warning, that they should not through shedding their blood habituate the
 people to inflict punishment on the patricians.
 
-53. Then Valerius and Horatius, having been sent to bring back the
+## Chapter LIII
+
+Then Valerius and Horatius, having been sent to bring back the
 people on such terms as might seem fit, and to adjust all differences,
 are directed to make provision also for the decemvirs from the
 resentment and violence of the multitude. They set forward and are
@@ -8308,7 +8643,9 @@ decisions on our lives and fortunes shall be in your hands; then you
 shall determine according to the merits of each case; now it is
 sufficient that your liberty be restored."
 
-54. All permitting them to act just as they think proper, the
+## Chapter LIV
+
+All permitting them to act just as they think proper, the
 ambassadors assure them that they would speedily return, having
 completed every matter. When they went and laid before the patricians
 the message of the commons, the other decemvirs, since, contrary to
@@ -8357,7 +8694,9 @@ after Duilius carried a proposition for electing consuls, with right of
 appeal. All these things were transacted in an assembly of the commons
 in the Flaminian meadows, which they now call the Flaminian circus.
 
-55. Then through an interrex Lucius Valerius and Marcus Horatius were
+## Chapter LV
+
+Then through an interrex Lucius Valerius and Marcus Horatius were
 elected consuls, who immediately entered on their office; whose
 consulship was popular without any actual injury to the patricians,
 though not without their displeasure; for whatever provision was made
@@ -8408,7 +8747,9 @@ beheaded." All these matters, though against the feelings of the
 patricians, passed off without opposition from them, because no severity
 was aimed at any particular individual.
 
-56. Then both the tribunitian power and the liberty of the commons being
+## Chapter LVI
+
+Then both the tribunitian power and the liberty of the commons being
 firmly established, the tribunes now deeming it both safe and seasonable
 to attack individuals, single out Virginius as the first prosecutor and
 Appius as defendant. When Virginius appointed a day for Appius, and
@@ -8466,7 +8807,9 @@ laws; and whether the right of appeal and of challenge against the
 injustice of magistrates was only held out in empty words, or
 effectually granted.
 
-57. Virginius, on the other hand, affirmed that Appius Claudius was the
+## Chapter LVII
+
+Virginius, on the other hand, affirmed that Appius Claudius was the
 only person not entitled to a participation in the laws, nor in civil or
 human society. That men should look to the tribunal, the fortress of all
 villanies; where that perpetual decemvir, venting his fury on the
@@ -8510,7 +8853,9 @@ fixed up in public view, the decemviral laws, which have received the
 name of "the twelve tables." There are some who state that the ædiles
 discharged that office by order of the tribunes.
 
-58. Caius Claudius, who, detesting the crimes of the decemvirs and,
+## Chapter LVIII
+
+Caius Claudius, who, detesting the crimes of the decemvirs and,
 above all, incensed at the arrogant conduct of his brother's son, had
 retired to Regillum, the country of his forefathers, having returned,
 though now advanced in years, to deprecate the dangers impending over
@@ -8560,7 +8905,9 @@ death than when living, after having roamed through so many families in
 quest of vengeance, at length rested in peace, no guilty person being
 left unpunished.
 
-59. Great alarm seized the patricians, and the countenances of the
+## Chapter LIX
+
+Great alarm seized the patricians, and the countenances of the
 tribunes were now the same as those of the decemvirs had been, when
 Marcus Duilius, tribune of the people, having put a salutary check to
 their immoderate power, says, "There has been both enough of liberty on
@@ -8583,7 +8930,9 @@ firmness was shown, inasmuch as the fathers had given their approbation
 to the laws proposed; nor was there a doubt, but that in this troubled
 state of public affairs they had yielded to the times.
 
-60. The business in the city being settled, and the rights of the
+## Chapter LX
+
+The business in the city being settled, and the rights of the
 commons being firmly established, the consuls departed to their
 respective provinces. Valerius prudently deferred all warlike operations
 against the armies of the Æquans and the Volscians, which had now formed
@@ -8632,7 +8981,9 @@ their spirits, and their generals on every side reprovingly asked them,
 whether they were about to yield to their vanquished foes, the battle
 was restored.
 
-61. On the other side, the consul desired the Romans to remember that
+## Chapter LXI
+
+On the other side, the consul desired the Romans to remember that
 "on that day, for the first time, they fought as free men in defence of
 Rome, now a free city. That it was for themselves they were to conquer,
 and not that they should be the prize of the decemvirs, after
@@ -8686,7 +9037,9 @@ war on a number of insignificant skirmishes? why did they not engage
 them in the field, and consign the result to fortune to be determined at
 once?
 
-62. Besides that they had already of themselves recovered a sufficient
+## Chapter LXII
+
+Besides that they had already of themselves recovered a sufficient
 degree of courage, the Romans were fired with exasperation "that the
 other army would soon return victorious to the city; that the enemy were
 now wantonly insulting them by contumelies; when would they be a match
@@ -8726,7 +9079,9 @@ the cavalry should fight in their own proper character and in that of
 others; and that the infantry should not be equal to the cavalry even
 when dismounted.
 
-63. They press forward therefore to the fight, which had been suspended
+## Chapter LXIII
+
+They press forward therefore to the fight, which had been suspended
 on their part, and endeavour to regain the ground which they had lost,
 and in a moment not only is the battle restored, but one of the wings of
 the Sabines gives way. The cavalry, covered between the ranks of the
@@ -8775,7 +9130,9 @@ patricians also to the same purpose, all the tribes approved that
 proposition. Then for the first time a triumph was celebrated by order
 of the people, without the authority of the senate.
 
-64. This victory of the tribunes and people was well nigh terminating in
+## Chapter LXIV
+
+This victory of the tribunes and people was well nigh terminating in
 an extravagance of a by no means salutary tendency, a conspiracy being
 formed among the tribunes to have the same tribunes re-elected, and in
 order that their ambition might be the less conspicuous, to continue
@@ -8823,7 +9180,9 @@ of the people, after baffling the ambition of his colleagues, he
 resigned his office, being equally approved by the patricians and
 people.
 
-65. The new tribunes of the people in electing their colleagues evinced
+## Chapter LXV
+
+The new tribunes of the people in electing their colleagues evinced
 a disposition to gratify the wishes of the patricians; they even elected
 two who were patricians, and even consulars, Spurius Tarpeius and Aulus
 Aterius. The consuls then elected, Largius Herminius, Titus Virginius
@@ -8865,7 +9224,9 @@ themselves to become objects of dread; and we saddle on others injustice
 thrown off from ourselves, as if it were actually necessary either to
 commit injustice or to submit to it.
 
-66. Titus Quintius Capitolinus, for the fourth time, and Agrippa Furius
+## Chapter LXVI
+
+Titus Quintius Capitolinus, for the fourth time, and Agrippa Furius
 being then elected consuls, found neither disturbance at home nor war
 abroad; both, however, were impending. The discord of the citizens could
 now no longer be checked, both tribunes and commons being exasperated
@@ -8889,7 +9250,9 @@ devastation of the land by way of insult. Whence when they marched back
 to Corbio unmolested, and driving the prey before them, Quintius the
 consul summoned the people to an assembly.
 
-67. There I find that he spoke to this purport: "Though I am conscious
+## Chapter LXVII
+
+There I find that he spoke to this purport: "Though I am conscious
 to myself of no fault, Romans, yet with the greatest shame I have come
 forward to your assembly. That you should know this; that this should be
 handed down on record to posterity, that the Æquans and Volscians, a
@@ -8936,7 +9299,9 @@ Esquiliæ is almost taken by the enemy, and when the Volscian foe is
 scaling your rampart, there is no one to dislodge him: against us ye
 are men, against us ye take up arms.
 
-68. "Come, when ye have blockaded the senate-house here, and have made
+## Chapter LXVIII
+
+"Come, when ye have blockaded the senate-house here, and have made
 the forum the seat of war, and filled the prison with the leading men of
 the state, march forth through the Esquiline gate, with that same
 determined spirit; or if ye do not even venture thus far, behold from
@@ -8993,7 +9358,9 @@ of their camp, those ravagers of our lands, and transfer from our gates
 and walls to their cities this terror of war, by which you are now
 thrown into consternation."
 
-69. Scarcely ever was the speech of a popular tribune more acceptable to
+## Chapter LXIX
+
+Scarcely ever was the speech of a popular tribune more acceptable to
 the commons, than was this of a most strict consul on that occasion. The
 young men also, who during such alarming emergencies had been accustomed
 to employ the refusal to enlist as the sharpest weapon against the
@@ -9037,7 +9404,9 @@ on the Romans, a consciousness of guilt for having so often rebelled,
 and despair (of pardon) urged them on the other side, there was no delay
 made in coming to an engagement.
 
-70. In the Roman army, though the two consuls were invested with equal
+## Chapter LXX
+
+In the Roman army, though the two consuls were invested with equal
 authority, the supreme command was by the concession of Agrippa resigned
 to his colleague, a thing which is most salutary in the management of
 matters of great importance; and he who was preferred politely
@@ -9099,7 +9468,9 @@ half of the services done by them; lest if they even should obtain it,
 regard of persons rather than of merit might appear to have been
 entertained.
 
-71. A disgraceful decision of the people regarding the boundaries of
+## Chapter LXXI
+
+A disgraceful decision of the people regarding the boundaries of
 their allies disgraced the honourable victory obtained over their
 enemies. The states of Aricia and of Ardea, having frequently contended
 in arms concerning a disputed piece of land, and being wearied out by
@@ -9134,7 +9505,9 @@ acquire, as far as an individual could. That he strenuously advised the
 people not to damn their own interest by an improper feeling of
 delicacy."
 
-72. The consuls, when they perceived that Scaptius was listened to not
+## Chapter LXXII
+
+The consuls, when they perceived that Scaptius was listened to not
 only in silence, but even with approbation, appealing to gods and men,
 that an enormous and disgraceful act was being committed, send for the
 principal senators: with these they went around to the tribunes;
@@ -9183,7 +9556,9 @@ from either city or foreign commotions.
      treasury first given to the soldiers. Operations against the
      Volscians, Fidenatians, and Faliscians._
 
-1. Marcus Genucius and Caius Curtius followed these as consuls. The year
+## Chapter I
+
+Marcus Genucius and Caius Curtius followed these as consuls. The year
 was disturbed both at home and abroad. For at the commencement of the
 year Caius Canuleius, tribune of the people, proposed a law concerning
 the intermarriage of the patricians and commons; by which the patricians
@@ -9212,7 +9587,9 @@ never should hold a levee while he lived, before the commons had first
 ratified the laws proposed by him and his colleagues;" and he instantly
 summoned them to an assembly.
 
-2. Both the consuls incited the senate against the tribune, and the
+## Chapter II
+
+Both the consuls incited the senate against the tribune, and the
 tribune the people against the consuls at one and the same time. The
 consuls denied "that tribunitian frenzies could any longer be endured;
 that they were now come to a crisis; that more hostilities were being
@@ -9278,7 +9655,9 @@ should rob the patricians of their courage also? That the consuls were
 prepared to act against the wicked schemes of their countrymen, before
 they would act against the arms of the enemy."
 
-3. Just when these matters were going on in the senate, Canuleius thus
+## Chapter III
+
+Just when these matters were going on in the senate, Canuleius thus
 declaimed in favour of his laws and against the consuls: "Frequently
 even before now I think I have observed how much the patricians despised
 you, Romans, how unworthy they deemed you to dwell in the one city and
@@ -9340,7 +9719,9 @@ government? or shall we have consuls like the decemvirs, the most
 abandoned of mortals, who were, however, all patricians, rather than
 like the best of kings, though new men?
 
-4. "But (I may be told) no commoner has been consul since the expulsion
+## Chapter IV
+
+"But (I may be told) no commoner has been consul since the expulsion
 of the kings. What then? ought no innovation to be introduced? and what
 has not yet been practised, (and in a new state there are many things
 not yet practised,) ought not even such measures, even though they be
@@ -9394,7 +9775,9 @@ the number of human beings and fellow citizens; nor is there any reason
 why ye contest the point, except that it delights you to strive for
 insult and ignominy to us.
 
-5. "In a word, whether is the supreme power belonging to the Roman
+## Chapter V
+
+"In a word, whether is the supreme power belonging to the Roman
 people, or is it yours? Whether by the expulsion of kings has dominion
 been acquired for you or equal liberty for all? It is fitting that the
 Roman people should be allowed to enact a law, if it please. Or will ye
@@ -9422,7 +9805,9 @@ no one will take up arms, no one will fight for haughty masters, with
 whom there is no participation of honours in public, nor of
 intermarriage in private."
 
-6. When both the consuls came forward into the assembly, and the matter
+## Chapter VI
+
+When both the consuls came forward into the assembly, and the matter
 had changed from a long series of harangues to altercation, the tribune,
 on asking why it was not right that a plebeian should be made a consul,
 an answer was returned truly perhaps, though by no means expediently for
@@ -9474,7 +9859,9 @@ that the plebeians had been taken into account. Where could you now find
 in an individual such moderation, disinterestedness, and elevation of
 mind, as was then displayed by the entire people?
 
-7. In the three hundred and tenth year after the city of Rome was built,
+## Chapter VII
+
+In the three hundred and tenth year after the city of Rome was built,
 for the first time military tribunes in the room of consuls enter into
 office, Aulus Sempronius Atratinus, Lucius Atilius, Titus Clælius; in
 whose office the concord prevailing at home afforded peace also abroad.
@@ -9529,7 +9916,9 @@ that they were found both in the Ardean treaty and in the linen books at
 the temple of Moneta. There was tranquillity both at home and abroad,
 though so many alarms were held out by the neighbouring states.
 
-8. This year (whether it had tribunes only, or consuls substituted in
+## Chapter VIII
+
+This year (whether it had tribunes only, or consuls substituted in
 the room of tribunes) is followed by a year when there were undoubtedly
 consuls, scil. Marcus Geganius Macerinus a second time, Titus Quintius
 Capitolinus a fifth time. This same year was the commencement of the
@@ -9564,7 +9953,9 @@ that magistracy they might have some recompence for the incompleteness
 of their consulate. They were called censors from the nature of their
 office.
 
-9. Whilst these matters are transacting at Rome, ambassadors come from
+## Chapter IX
+
+Whilst these matters are transacting at Rome, ambassadors come from
 Ardea, imploring aid for their city, which was nearly destroyed, in
 consideration of their very ancient alliance, and of the treaty recently
 renewed. For by intestine wars they were not allowed to enjoy the peace
@@ -9615,7 +10006,9 @@ Romans with stronger works than the city was by themselves. The consul
 had also at another place connected an arm to the wall of Ardea, through
 which his friends might pass to and from the town.
 
-10. The Volscian general, who up to that period had maintained his army,
+## Chapter X
+
+The Volscian general, who up to that period had maintained his army,
 not out of provisions which had been previously provided, but with corn
 brought in daily from the plunder of the country, when now encompassed
 by a rampart he perceives himself suddenly destitute of every thing,
@@ -9661,7 +10054,9 @@ in a manner worthy of the consular dignity, rendered himself almost more
 venerable than the high office itself. On this account no mention was
 made of the military tribunes during this consulate.
 
-11. They appoint as consuls Marcus Fabius Vibulanus, Publius Æbutius
+## Chapter XI
+
+They appoint as consuls Marcus Fabius Vibulanus, Publius Æbutius
 Cornicen. Fabius and Æbutius, the consuls, inasmuch as they perceived
 that they succeeded to a greater glory of achievements performed at home
 and abroad, (the year was rendered particularly remarkable among the
@@ -9691,7 +10086,9 @@ annoyance by enrolling themselves as settlers and remaining in the
 colony, which they now had as a testimony of their integrity and
 justice.
 
-12. There was peace at home and abroad both this and the following year,
+## Chapter XII
+
+There was peace at home and abroad both this and the following year,
 Caius Furius Pacilus and Marcus Papirius Crassus being consuls. The
 games which had been vowed by the decemvirs, in pursuance of a decree of
 the senate on occasion of the secession of the commons from the
@@ -9737,7 +10134,9 @@ inquisition. Many of the commons, all hope being lost, rather than be
 tortured by dragging out existence, muffled up their heads and
 precipitated themselves into the Tiber.
 
-13. Then Spurius Mælius, of the equestrian order, extremely rich
+## Chapter XIII
+
+Then Spurius Mælius, of the equestrian order, extremely rich
 considering these times, set about a project useful in itself, but
 having a most pernicious tendency, and a still more pernicious motive.
 For having, by the assistance of his friends and clients, bought up corn
@@ -9800,7 +10199,9 @@ disgrace to the republic at so dangerous a juncture, is appointed
 dictator by the consul: he himself then appoints Caius Servilius Ahala
 his master of the horse.
 
-14. On the next day, having stationed proper guards, when he had gone
+## Chapter XIV
+
+On the next day, having stationed proper guards, when he had gone
 down to the forum, and the attention of the commons was attracted to him
 by the strangeness and extraordinary nature of the thing, and Mælius's
 friends and himself their leader perceived that the power of such high
@@ -9827,7 +10228,9 @@ commencing to excite the multitude after he had repulsed the beadle, had
 received condign punishment. "Thou hast acted nobly, Caius Servilius,"
 said the dictator, "in having saved the republic."
 
-15. He then ordered the multitude, who were much agitated, not knowing
+## Chapter XV
+
+He then ordered the multitude, who were much agitated, not knowing
 what judgment to form of the deed, to be called to an assembly: and he
 openly declared, "that Mælius had been justly put to death, even though
 he may have been innocent of the charge of aiming at regal power, who,
@@ -9869,7 +10272,9 @@ being contaminated with the price of purchasing kingly domination. He
 ordered, therefore, that the quæstors should sell this property and
 deposit the proceeds in the treasury."
 
-16. He then ordered his house to be immediately razed, that the vacant
+## Chapter XVI
+
+He then ordered his house to be immediately razed, that the vacant
 ground might serve as a monument of nefarious hopes destroyed. This was
 called Æquimælium. Lucius Minucius was presented with a gilded ox on the
 outside of the gate Trigemina, and this not even against the will of the
@@ -9901,7 +10306,9 @@ dictatorship an occasion for disturbance was sought. Mamercus Æmilius, a
 man of the highest dignity, was voted in, prior to Quintius. In the
 third place they appoint Lucius Julius.
 
-17. During their office Fidenæ, a Roman colony, revolted to Lars
+## Chapter XVII
+
+During their office Fidenæ, a Roman colony, revolted to Lars
 Tolunmius, king of the Veientians, and to the Veientians. To the revolt
 a more heinous crime was added. By order of Tolumnius they put to death
 Caius Fulcinius, Clælius Tullus, Spurius Antius, Lucius Roscius, Roman
@@ -9947,7 +10354,9 @@ from thence at the conflux on the banks of both rivers, lines being run
 across between them, as far as he was able to follow by a fortification.
 Next day he marched out his army into the field.
 
-18. Among the enemy there was a diversity of opinion. The Faliscians,
+## Chapter XVIII
+
+Among the enemy there was a diversity of opinion. The Faliscians,
 impatient of the hardships of war at a distance from home, and
 sufficiently confident of their own strength, earnestly demanded
 battle; the Veientians and Fidenatians placed more hope in protracting
@@ -9978,7 +10387,9 @@ cavalry made the greatest resistance; and the king himself, far the
 bravest of the cavalry, charging the Romans whilst they were pursuing in
 disorder in every direction, prolonged the contest.
 
-19. There was then among the cavalry, Aulus Cornelius Cossus, a tribune
+## Chapter XIX
+
+There was then among the cavalry, Aulus Cornelius Cossus, a tribune
 of the soldiers, distinguished for the beauty of his person, and equally
 so for courage and great strength of body, and mindful of his rank,
 which, having received in a state of the highest lustre, he left to his
@@ -10012,7 +10423,9 @@ triarii: and a panic being thus struck into them there was less
 slaughter, because they were fewer, but their flight was no less
 disorderly than it had been on the field of battle.
 
-20. Matters being managed successfully in every direction, the dictator,
+## Chapter XX
+
+Matters being managed successfully in every direction, the dictator,
 by a decree of the senate and order of the people, returned to the city
 in triumph. By far the most remarkable object in the triumph was Cossus,
 bearing the _spolia opima_ of the king he had slain. The soldiers
@@ -10056,7 +10469,9 @@ himself, to whom they were consecrated, and Romulus, no contemptible
 witnesses in case of a false inscription, entitled himself Aulus
 Cornelius Cossus consul.
 
-21. Marcus Cornelius Maluginensis and Lucius Papirius Crassus being
+## Chapter XXI
+
+Marcus Cornelius Maluginensis and Lucius Papirius Crassus being
 consuls, the armies were led into the territories of the Veientians and
 Faliscians; numbers of men and cattle were driven off as spoil; the
 enemy was no where to be found on the land, and no opportunity of
@@ -10101,7 +10516,9 @@ of a word or syllable was deemed highly inauspicious; to prevent which,
 the regular form of words was pronounced by a priest, and repeated after
 him by the persons officiating.]
 
-22. The dictator orders all to attend at break of day outside the
+## Chapter XXII
+
+The dictator orders all to attend at break of day outside the
 Colline gate. All whosoever had sufficient strength to bear arms,
 attended; the standards were quickly brought forth from the treasury and
 conveyed to the dictator. Whilst these matters were going on, the
@@ -10133,7 +10550,9 @@ there performed for the first time.
 holding the _census_, or survey of the people, the reception of
 ambassadors, &c.]
 
-23. That the same consuls were re-elected on the following year, Julius
+## Chapter XXIII
+
+That the same consuls were re-elected on the following year, Julius
 for the third time, Virginius for the second time, I find in Licinius
 Macer. Valerius Antias and Quintus Tubero state that Marcus Manlius and
 Quintus Sulpicius were, the consuls for that year. But in
@@ -10157,7 +10576,9 @@ so much the more energy than on the last occasion, in proportion as
 there was more danger from the whole body of Etruria than from two of
 its states.
 
-24. That matter passed off much more quietly than any one expected.
+## Chapter XXIV
+
+That matter passed off much more quietly than any one expected.
 Therefore when word was brought by certain traders, that aid was refused
 to the Veientians, and that they were bid to prosecute with their own
 strength a war entered into on their own separate views, and not to seek
@@ -10202,7 +10623,9 @@ censors through the influence of any person except of Mamercus himself.
 privileges of a citizen, on which he became _civis ærarius_, a citizen
 only so far as he paid taxes.]
 
-25. The tribunes of the people, by preventing the election of consuls by
+## Chapter XXV
+
+The tribunes of the people, by preventing the election of consuls by
 incessant harangues, succeeded at length, after the matter had been well
 nigh brought to an interregnum, in having tribunes of the soldiers
 elected with consular authority: as for the prize of their victory,
@@ -10255,7 +10678,9 @@ incline their support to men of their own party; and lest this should be
 optional with them, a decree of the senate is passed, that the election
 for consuls should be held.
 
-26. The cause was the rising, which the Hernicians and Latins announced
+## Chapter XXVI
+
+The cause was the rising, which the Hernicians and Latins announced
 as about to take place on the part of the Æquans and Volscians. Titus
 Quintius Cincinnatus, son of Lucius, (to the same person the cognomen of
 Pennus also is annexed,) and Caius Julius Mento were elected consuls:
@@ -10306,7 +10731,9 @@ persons are induced to give in their names. Soldiers were also enjoined
 of the Hernicians and Latins: the most zealous obedience is shown to the
 dictator on both sides.
 
-27. All these measures were executed with great despatch: and Caius
+## Chapter XXVII
+
+All these measures were executed with great despatch: and Caius
 Julius the consul being left to guard the city, and Lucius Julius master
 of the horse, for the sudden exigencies of the war, lest any thing which
 they might want in the camp should cause delay, the dictator, repeating
@@ -10355,7 +10782,9 @@ smoke, as had been agreed on, was perceived by the dictator, he
 exclaims that the enemy's camp was taken, and orders it to be announced
 in every direction.
 
-28. And now day was appearing, and every thing lay open to view; and
+## Chapter XXVIII
+
+And now day was appearing, and every thing lay open to view; and
 Fabius had made an attack with his cavalry, and the consul had sallied
 from the camp on the enemy now disconcerted; when the dictator on the
 other side, having attacked their reserve and second line, threw his
@@ -10389,7 +10818,9 @@ be removed by a wound in the shoulder, nor Fabius by having his thigh
 almost pinned to his horse, nor the consul by his arm being cut off,
 from the perilous conflict.
 
-29. Messius, with a band of the bravest youths, by a furious charge
+## Chapter XXIX
+
+Messius, with a band of the bravest youths, by a furious charge
 through heaps of slaughtered foes, was carried on to the camp of the
 Volscians, which had not yet been taken: the same route the entire body
 of the army followed. The consul, pursuing them in their disordered
@@ -10432,7 +10863,9 @@ transported an army into Sicily in aid of one of the parties.
 these belonged to single cities or were the senators of the entire
 Volscian nation.]
 
-30. In the city efforts were made by the tribunes of the people that
+## Chapter XXX
+
+In the city efforts were made by the tribunes of the people that
 military tribunes with consular power should be elected; nor could the
 point be carried. Lucius Papirius Crassus and Lucius Junius were made
 consuls. When the ambassadors of the Æquans solicited a treaty from the
@@ -10497,7 +10930,9 @@ fines should be appraised and the value paid in money. Another law fixed
 a certain rate at which the cattle should be estimated, 100 asses for an
 ox, 10 for a sheep.]
 
-31. Four military tribunes with consular authority were elected--Titus
+## Chapter XXXI
+
+Four military tribunes with consular authority were elected--Titus
 Quintius Pennus, from the consulship, Caius Furius, Marcus Postumius,
 and Aulus Cornelius Cossus. Of these Cossus held the command in the
 city. The other three, after the levy was held, set out to Veii, and
@@ -10537,7 +10972,9 @@ along the walls, and a suspension of all civil business is proclaimed in
 the forum, and the shops were closed; and every place becomes more like
 to a camp than a city.
 
-32. Then the dictator, having sent criers through the streets, and
+## Chapter XXXII
+
+Then the dictator, having sent criers through the streets, and
 having summoned the alarmed citizens to an assembly, began to chide them
 "that they allowed their minds to depend on such slight impulses of
 fortune, that, on the receipt of a trifling loss, which itself was
@@ -10586,7 +11023,9 @@ the Veientian robbers, truce-breakers, stained with the horrid murder of
 ambassadors, sprinkled with the blood of their own brother-colonists,
 treacherous allies, and dastardly enemies.
 
-33. In the very first onset they had made an impression on the enemy;
+## Chapter XXXIII
+
+In the very first onset they had made an impression on the enemy;
 when on a sudden, the gates of Fidenæ flying open, a strange sort of
 army sallies forth, unheard of and unseen before that time. An immense
 multitude armed with fire and all blazing with fire-brands, as if urged
@@ -10639,7 +11078,9 @@ just come down from the mountain, being the soldiers who were freshest
 for labour, because they had come up towards the close of the
 engagement.
 
-34. These, after they entered the gate mixed with the enemy, make their
+## Chapter XXXIV
+
+These, after they entered the gate mixed with the enemy, make their
 way to the walls, and raise from their summit a signal to their friends
 of the town being taken. When the dictator saw this, (for he had now
 made his way into the deserted camp of the enemy,) he leads on the
@@ -10664,7 +11105,9 @@ considerably narrower: except that perhaps in disputing the passage of
 the river, magnifying, as will happen, the scuffle of a few ships, they
 sought the empty honour of a naval victory.
 
-35. The following year had as military tribunes with consular power
+## Chapter XXXV
+
+The following year had as military tribunes with consular power
 Aulus Sempronius Atratinus, Lucius Quintius Cincinnatus, Lucius Furius
 Medullinus, Lucius Horatius Barbatus. To the Veientians a truce for
 twenty years was granted, and one for three years to the Æquans, though
@@ -10711,7 +11154,9 @@ made lawful which never could take place; for that there would be less
 cause for blushing at the injustice of the law, than if they were to be
 passed over through their own want of merit."
 
-36. Harangues of this kind, listened to with approbation, induced some
+## Chapter XXXVI
+
+Harangues of this kind, listened to with approbation, induced some
 persons to stand for the military tribuneship, each avowing that if in
 office he would propose something to the advantage of the commons. Hopes
 were held out of a distribution of the public land, of colonies to be
@@ -10732,7 +11177,9 @@ should contend, either with those persons now absent, who had procured
 the decree of the senate, nor with Appius, the matter being now all
 over.
 
-37. Caius Sempronius Atratinus, Quintus Fabius Vibulanus were elected
+## Chapter XXXVII
+
+Caius Sempronius Atratinus, Quintus Fabius Vibulanus were elected
 consuls. An affair in a foreign country, but one deserving of record, is
 stated to have happened in that year. Vulturnum, a city of the
 Etrurians, which is now Capua, was taken by the Samnites; and was called
@@ -10775,7 +11222,9 @@ The Romans rather covered themselves than fought. The Volscians
 advanced, pushed against their line, saw more of the enemy slain than
 running away.
 
-38. They now give way in every direction, the consul Sempronius in vain
+## Chapter XXXVIII
+
+They now give way in every direction, the consul Sempronius in vain
 chiding and exhorting them; neither his authority nor his dignity
 availed any thing; and they would presently have turned their backs to
 the enemy, had not Sextus Tempanius, a commander of a troop of horse,
@@ -10795,7 +11244,9 @@ onset reached; nor was there a doubt but that if so few could,
 accomplish every thing at the same time, the enemy would have turned
 their backs.
 
-39. And when they could now be withstood in no part, the Volscian
+## Chapter XXXIX
+
+And when they could now be withstood in no part, the Volscian
 commander gives a signal, that an opening should be made for the
 targeteers, the enemy's new cohort; until carried away by their
 impetuosity they should be cut off from their own party. When this was
@@ -10832,7 +11283,9 @@ Volscians, taking with him all the wounded he could, and not knowing
 what route the consul had taken, he proceeds by the shortest roads to
 the city.
 
-40. The report of the unsuccessful battle and of the abandonment of the
+## Chapter XL
+
+The report of the unsuccessful battle and of the abandonment of the
 camp had already reached there; and, above all other objects, the
 horsemen were mourned not more with private than with public grief; and
 the consul Fabius, the city also being now alarmed, stationed guards
@@ -10874,7 +11327,9 @@ Caius Sempronius, where are our legions? Have you been deserted, or have
 you deserted the consul and the army? In a word, have we been defeated,
 or have we gained the victory?"
 
-41. In answer to these questions the language of Tempanius is said to
+## Chapter XLI
+
+In answer to these questions the language of Tempanius is said to
 have been entirely devoid of elegance, but firm as became a soldier, not
 vainly parading his own merits, nor exulting in the inculpation of
 others: "How much military skill Caius Sempronius possessed, that it was
@@ -10921,7 +11376,9 @@ as also Capitolinus Quintius, now advanced in years, humbly entreating
 that they would not suffer him who had so short a time to live to be the
 bearer of such dismal tidings to Cincinnatus.
 
-42. The commons elected as tribunes of the people, though absent, Sextus
+## Chapter XLII
+
+The commons elected as tribunes of the people, though absent, Sextus
 Tempanius, Aulus Sellius, Sextus Antistius, and Spurius Icilius, whom
 the horsemen by the advice of Tempanius had appointed to command them as
 centurions. The senate, inasmuch as the name of consuls was now becoming
@@ -10956,7 +11413,9 @@ than was the temper of Hortensius, which yielded so readily to their
 just entreaties. Fortune no longer indulged the Æquans, who had embraced
 the doubtful victory of the Volscians as their own.
 
-43. In the year following, when Numerius Fabius Vibulanus and Titus
+## Chapter XLIII
+
+In the year following, when Numerius Fabius Vibulanus and Titus
 Quintius Capitolinus, son of Capitolinus, were consuls, nothing worth
 mentioning was performed under the conduct of Fabius, to whom that
 province had fallen by lot. When the Æquans had merely showed their
@@ -11006,7 +11465,9 @@ authority to be elected; the tribunes of the commons, by ceasing to
 protest against the four quæstors being elected promiscuously from the
 commons and patricians by the free suffrage of the people."
 
-44. The election of tribunes was first held. There were chosen tribunes
+## Chapter XLIV
+
+The election of tribunes was first held. There were chosen tribunes
 with consular power, Lucius Quintius Cincinnatus a third time, Lucius
 Furius Medullinus a second time, Marcus Manlius, Aulus Sempronius
 Atratinus. On the last-named tribune presiding at the election of
@@ -11060,7 +11521,9 @@ commanded her to refrain from indiscreet mirth, and to dress with more
 regard to sanctity than elegance. In the same year Cumæ, a city which
 the Greeks then occupied, was taken by the Campanians.
 
-45. The following year had for military tribunes with consular power,
+## Chapter XLV
+
+The following year had for military tribunes with consular power,
 Agrippa Menenius Lanatus, Publius Lucretius Tricipitinus, Spurius
 Nautius Rutilus: to the good fortune of the Roman people, the year was
 remarkable rather by great danger than by losses. The slaves conspire to
@@ -11100,7 +11563,9 @@ yours. My son, without having recourse to lots, shall take charge of the
 city. I wish that those who are so desirous of managing the war, may
 conduct it with more consideration and harmony than they covet it."
 
-46. It was determined that the levy should not be made out of the entire
+## Chapter XLVI
+
+It was determined that the levy should not be made out of the entire
 body of the people indiscriminately. Ten tribes were drawn by lot; the
 two tribunes enlisted the younger men out of these, and led them to the
 war. The contentions which commenced between them in the city, were,
@@ -11149,7 +11614,9 @@ and setting out to the war with his newly-raised army, after sending for
 those who were at Tusculum, chose ground for his camp at the distance
 of two miles from the enemy.
 
-47. The arrogance and negligence arising from success, which had
+## Chapter XLVII
+
+The arrogance and negligence arising from success, which had
 previously existed in the Roman generals, were now transferred to the
 Æquans. Accordingly, when in the very first engagement the dictator had
 thrown the enemy's van into disorder by a charge of his cavalry, he
@@ -11179,7 +11646,9 @@ Papirius Mugillanus and Spurius Nautius Rutilus both a second time,
 affairs abroad were peaceable for two years, but at home there was
 dissension from the agrarian laws.
 
-48. The disturbers of the commons were Spurius Mæcilius a fourth time,
+## Chapter XLVIII
+
+The disturbers of the commons were Spurius Mæcilius a fourth time,
 and Spurius Mætilius a third time, tribunes of the people, both elected
 during their absence. And after they had proposed a bill, that the land
 taken from the enemy should be divided man by man, and the property of
@@ -11235,7 +11704,9 @@ a meeting, and styling their colleagues traitors to the interests of the
 commons and the slaves of the consulars, and after inveighing against
 them in other abusive language, relinquished the measure.
 
-49. The following year, on which Publius Cornelius Cossus, Caius
+## Chapter XLIX
+
+The following year, on which Publius Cornelius Cossus, Caius
 Valerius Potitus, Quintus Quintius Cincinnatus, Numerius Fabius
 Vibulanus were military tribunes with consular power, would have brought
 with it two continual wars, had not the Veientian campaign been deferred
@@ -11297,7 +11768,9 @@ man? What matters that, if you will prefer this man who threatens woe to
 you, to those who are desirous to secure for you lands, settlements, and
 property?"
 
-50. This expression of Postumius being conveyed to the soldiers, excited
+## Chapter L
+
+This expression of Postumius being conveyed to the soldiers, excited
 in the camp much greater indignation. "Did the embezzler of the spoils
 and the defrauder threaten woe also to the soldiers?" Accordingly, when
 the murmur of indignation now became avowed, and the quæstor, Publius
@@ -11328,7 +11801,9 @@ pass, and when they also protested against the election of consuls, the
 affair was brought to an interregnum. The victory was then on the side
 of the patricians.
 
-51. Quintus Fabius Vibulanus, interrex, presiding in the assembly, Aulus
+## Chapter LI
+
+Quintus Fabius Vibulanus, interrex, presiding in the assembly, Aulus
 Cornelius Cossus, Lucius Furius Medullinus were elected consuls. During
 their office, at the commencement of the year, a decree of the senate
 was passed that the tribunes should, at the earliest opportunity,
@@ -11360,7 +11835,9 @@ Volscians, seeing small hopes of keeping it, carried off their effects
 and abandoned the town. It was taken on the following day, being nearly
 deserted. The land itself was given to the Hernicians.
 
-52. The year, tranquil through the moderation of the tribunes, was
+## Chapter LII
+
+The year, tranquil through the moderation of the tribunes, was
 succeeded by one in which Lucius Icilius was plebeian tribune, Quintus
 Fabius Ambustus, Caius Furius Pacilus being consuls. When this man, at
 the very commencement of the year, began to excite disturbances by the
@@ -11389,7 +11866,9 @@ annoyance during those two years. But as soon as these causes of anxiety
 disappeared, all those evils by which the state had hitherto been
 distressed, started up, discord at home, war abroad.
 
-53. In the consulship of Mamercus Æmilius and Caius Valerius Potitus,
+## Chapter LIII
+
+In the consulship of Mamercus Æmilius and Caius Valerius Potitus,
 the Æquans made preparations for war; the Volscians, though not by
 public authority, taking up arms, and entering the service as volunteers
 for pay. When on the report of these enemies having started up, (for
@@ -11438,7 +11917,9 @@ among the military tribunes being deemed as no longer questionable, if
 he should become a candidate, he was kept out of it by an election for
 consuls being appointed.
 
-54. Cneius Cornelius Cossus and Lucius Furius Medullinus were elected
+## Chapter LIV
+
+Cneius Cornelius Cossus and Lucius Furius Medullinus were elected
 consuls. The commons were not on any other occasion more dissatisfied at
 the election of tribunes not being conceded to them. This sense of
 annoyance they both manifested at the nomination of quæstors, and
@@ -11475,7 +11956,9 @@ The Icilii, on the contrary, said that military tribunes should be
 elected, and that posts of honour should be at length imparted to the
 commons.
 
-55. But the consuls had no proceeding on hand, by opposing which they
+## Chapter LV
+
+But the consuls had no proceeding on hand, by opposing which they
 could extort that which they desired; when by an extraordinary and
 favourable occurrence an account is brought that the Volscians and
 Æquans had proceeded beyond their frontiers into the Latin and Hernican
@@ -11515,7 +11998,9 @@ Volscian country was taken by the same army, and that great devastation
 had been made, and considerable booty captured both amongst the Æquans
 and in the Volscian territory.
 
-56. At Rome, as the commons gained the victory so far as to have the
+## Chapter LVI
+
+At Rome, as the commons gained the victory so far as to have the
 kind of elections which they preferred, so in the issue of the elections
 the patricians were victorious; for, contrary to the expectation of all,
 three patricians were elected military tribunes with consular power,
@@ -11559,7 +12044,9 @@ by the arrogance of magistrates; that in the mean while, the patricians,
 unrestrained as they were by respect for laws or magistrates, must
 manage the tribunitian office also by themselves."
 
-57. This contention occupied men's thoughts at a most unseasonable time,
+## Chapter LVII
+
+This contention occupied men's thoughts at a most unseasonable time,
 when a war of such importance was on hand: until when Julius and
 Cornelius descanted for a long time by turns, on "how unjust it was that
 a post of honour conferred on them by the people was now to be wrested
@@ -11612,7 +12099,9 @@ senate, might be prevented in several ways; as, for instance, by the
 want of a sufficiently full meeting, &c.; in such cases the judgment of
 the majority was recorded, and that was called _auctoritas senatûs_.]
 
-58. In that year, because the term of the truce with the Veientian
+## Chapter LVIII
+
+In that year, because the term of the truce with the Veientian
 nation was expired, restitution began to be demanded through ambassadors
 and heralds, who on coming to the frontiers were met by an embassy from
 the Veientians. They requested that they would not proceed to Veii,
@@ -11666,7 +12155,9 @@ an aversion to undertaking a war, the time for proposing the law was
 adjourned; which would obviously have been rejected, if it had been
 subjected to the feeling of discontent then prevailing.
 
-59. In the mean time it was determined that the military tribunes should
+## Chapter LIX
+
+In the mean time it was determined that the military tribunes should
 lead an army into the Volscian territory. Cneius Cornelius alone was
 left at Rome. The three tribunes, when it became evident that the
 Volscians had not established a camp any where, and that they would not
@@ -11702,7 +12193,9 @@ the commons or tribunes, the senate should decree that the soldiers
 should receive pay out of the public treasury, whereas up to that period
 every one had discharged that duty at his own expense.
 
-60. It is recorded that nothing was ever received by the commons with so
+## Chapter LX
+
+It is recorded that nothing was ever received by the commons with so
 much joy; that they ran in crowds to the senate-house, and caught the
 hands of those coming out, and called them fathers indeed; acknowledging
 that the result of such conduct was that no one would spare his person
@@ -11748,7 +12241,9 @@ volunteers.
 Various emendations have been attempted, but none can be deemed
 satisfactory.]
 
-61. The tribunes were Titus Quintius Capitolinus, Publius Quintius
+## Chapter LXI
+
+The tribunes were Titus Quintius Capitolinus, Publius Quintius
 Cincinnatus, Caius Julius Julus a second time, Aulus Manlius, Lucius
 Furius Medullinus a second time, and Manius Æmilius Mamercinus. By these
 Veii was first invested. A little before the commencement of this siege,
@@ -11808,7 +12303,9 @@ demolition of which has been mentioned, was in the Volscian territory.
      arrives with an army, expels the Gauls, and destroys their army. He
      successfully opposes the design of removing to Veii._
 
-1. Peace being established in every other quarter, the Romans and
+## Chapter I
+
+Peace being established in every other quarter, the Romans and
 Veientians were still in arms with such rancour and animosity, that it
 was evident that ruin awaited the vanquished party. The elections in the
 two states were conducted in very different methods. The Romans
@@ -11842,7 +12339,9 @@ sallies of the townsmen; by means of others a front looking towards
 Etruria was opposed to such auxiliaries as might happen to come from
 thence.
 
-2. When the Roman generals conceived greater hopes from a blockade than
+## Chapter II
+
+When the Roman generals conceived greater hopes from a blockade than
 from an assault, winter huts also, a thing quite new to the Roman
 soldier, began to be built; and their determination was to continue the
 war by wintering there. After an account of this was brought to Rome to
@@ -11890,7 +12389,9 @@ plebeians; who several year's before, as has been mentioned, recommended
 the dissolution of the tribunitian power by means of the protests of
 their colleagues.
 
-3. He, not only endowed with good natural powers, but well trained also
+## Chapter III
+
+He, not only endowed with good natural powers, but well trained also
 by experience, on that particular occasion, delivered the following
 address: "If, Romans, there was ever reason to doubt, whether the
 tribunes of the people have ever promoted sedition for your sake or
@@ -11926,7 +12427,9 @@ tractability of the commons! And if such concord were once permanent,
 who would not venture to engage, that this empire would in a short time
 become the highest among the neighbouring states?
 
-4. "I shall hereafter explain to you how not only expedient, but even
+## Chapter IV
+
+"I shall hereafter explain to you how not only expedient, but even
 necessary has been this plan of my colleagues, according to which they
 would not draw off the army from Veii until the business has been
 completed. For the present I am disposed to speak concerning the
@@ -11977,7 +12480,9 @@ this day busily employed at it; and they scarcely refrained from
 violating our ambassadors when demanding restitution. With such people
 ought war to be conducted in a remiss and dilatory manner?
 
-5. "If such just resentment have no influence with us, will not, I
+## Chapter V
+
+"If such just resentment have no influence with us, will not, I
 entreat you, the following considerations influence you? Their city has
 been enclosed with immense works, by which the enemy is confined within
 their walls. They have not tilled their land, and what was previously
@@ -12025,7 +12530,9 @@ person should render a disease tedious, and perhaps incurable, for the
 sake of present meat or drink, in a patient who, by resolutely suffering
 himself to be treated, might soon recover his health.
 
-6. "If, by Jove, it were of no consequence with respect to the present
+## Chapter VI
+
+"If, by Jove, it were of no consequence with respect to the present
 war, yet it certainly would be of the utmost importance to military
 discipline, that our soldiers should be accustomed not only to enjoy the
 victory obtained by them; but even though matters should proceed more
@@ -12090,7 +12597,9 @@ deference to the senate, nor to magistrates, nor laws, nor the usages of
 ancestors, nor the institutions of our fathers, nor military
 discipline."
 
-7. Even already Appius was a match for the tribunes of the people in the
+## Chapter VII
+
+Even already Appius was a match for the tribunes of the people in the
 popular assemblies; when suddenly a misfortune sustained before Veii,
 from a quarter whence no one could expect it, both gave Appius the
 superiority in the dispute, produced also a greater harmony between the
@@ -12145,7 +12654,9 @@ Supplies were conveyed from the city with greater care than before; lest
 any thing should be wanting for the accommodation of an army who
 deserved so well.
 
-8. The following year had military tribunes with consular authority,
+## Chapter VIII
+
+The following year had military tribunes with consular authority,
 Caius Servilius Ahala a third time, Quintus Servilius, Lucius Virginius,
 Quintus Sulpicius, Aulus Manlius a second time, Manius Sergius a second
 time. During their tribuneship, whilst the solicitude of all was
@@ -12196,7 +12707,9 @@ recriminations. But few took up the interests of the republic, (the
 greater number) favoured the one or the other, according as private
 regard or interest prejudiced each.
 
-9. The principal senators were of opinion, that whether so ignominious a
+## Chapter IX
+
+The principal senators were of opinion, that whether so ignominious a
 defeat had been sustained through the misconduct or the misfortune of
 the commanders, "the regular time of the elections should not be waited
 for, but that new military tribunes should be created immediately, who
@@ -12228,7 +12741,9 @@ universal consent, they held the elections of military tribunes, who
 were to commence their office on the calends of October, and before that
 day they retired from office.
 
-10. During the military tribuneship of Lucius Valerius Potitus for the
+## Chapter X
+
+During the military tribuneship of Lucius Valerius Potitus for the
 fourth time, Marcus Furius Camillus for the second time, Manius Æmilius
 Mamercinus a third time, Cneius Cornelius Cossus a second time, Kæso
 Fabius Ambustus, Lucius Julius Iulus, much business was transacted at
@@ -12270,7 +12785,9 @@ for the purpose of weakening the Trebonian law, it was managed that
 Caius Lacerius and Marcus Acutius should be admitted as tribunes of the
 commons, no doubt through the influence of the patricians.
 
-11. Chance so directed it, that this year Cneius Trebonius was tribune
+## Chapter XI
+
+Chance so directed it, that this year Cneius Trebonius was tribune
 of the commons, and he considered that he undertook the patronage of the
 Trebonian law as a debt due to his name and family. He crying out aloud,
 "that a point which some patricians had aimed at, though baffled in
@@ -12339,7 +12856,9 @@ they had severally imprecated the vengeance of the gods. That the gods
 themselves never laid hands on the guilty; it was enough if they armed
 the injured with the means of taking revenge."
 
-12. Urged on by these discourses the commons condemn the accused [in a
+## Chapter XII
+
+Urged on by these discourses the commons condemn the accused [in a
 fine] of ten thousand _asses_ in weight, Sergius in vain throwing the
 blame on fortune and the common chance of war, Virginius entreating that
 he might not be more unfortunate at home than he had been in the field.
@@ -12391,7 +12910,9 @@ the election, relaxed in their opposition regarding the tax, a matter
 which very much impeded the progress of public business. It was paid in
 with submission, and sent to the army.
 
-13. In the country of the Volscians Anxur was soon retaken, the guarding
+## Chapter XIII
+
+In the country of the Volscians Anxur was soon retaken, the guarding
 of the city having been neglected during a festival day. This year was
 remarkable for a cold and snowy winter, so that the roads were
 impassable, and the Tiber not navigable. The price of provisions
@@ -12443,7 +12964,9 @@ slain before the gates; whilst, through fear lest the Romans should
 force in along with them, they excluded the hindmost of their men by
 closing the gates.
 
-14. These were the transactions of that year. And now the election of
+## Chapter XIV
+
+These were the transactions of that year. And now the election of
 military tribunes approached; about which the patricians felt more
 intense solicitude than about the war, inasmuch as they saw that the
 supreme authority was not only shared with the commons, but almost lost
@@ -12473,7 +12996,9 @@ consummate commanders, Potitus from Falerii, Camillus from Capena,
 carried off great booty, nothing being left undestroyed which could be
 injured by sword or by fire.
 
-15. In the mean time many prodigies were announced; the greater part of
+## Chapter XV
+
+In the mean time many prodigies were announced; the greater part of
 which were little credited or even slighted, because individuals were
 the reporters of them, and also because, the Etrurians being now at war
 with them, they had no aruspices through whom they might attend to them.
@@ -12519,7 +13044,9 @@ deeming his authority as but of little weight, and not to be entirely
 depended on in so important a matter, determined to wait for the
 deputies and the responses of the Pythian oracle.
 
-16. Before the commissioners returned from Delphos, or an expiation of
+## Chapter XVI
+
+Before the commissioners returned from Delphos, or an expiation of
 the Alban prodigy was discovered, the new military tribunes with
 consular power entered on their office, Lucius Julius Iulus, Lucius
 Furius Medullinus for the fourth time, Lucius Sergius Fidenas, Aulus
@@ -12565,7 +13092,9 @@ thou, as victorious, bring ample offerings to my temples, and having
 renewed the religious institutions of your country, the care of which
 has been given up, perform them in the usual manner."
 
-17. Upon this the captive prophet began to be held in high esteem, and
+## Chapter XVII
+
+Upon this the captive prophet began to be held in high esteem, and
 Cornelius and Postumius, the military tribunes, began to employ him for
 the expiation of the Alban prodigy, and to appease the gods in due form.
 And it was at length discovered wherein the gods found fault with the
@@ -12603,7 +13132,9 @@ safety.
 "considering their circumstances," scil. the external circumstances in
 which they were placed.]
 
-18. Without opposition on the part of the patricians, the prerogative
+## Chapter XVIII
+
+Without opposition on the part of the patricians, the prerogative
 tribe elect Publius Licinius Calvus military tribune without his suing
 for it, a man of tried moderation in his former tribunate, but now of
 extreme old age; and it was observed that all were re-elected in regular
@@ -12650,7 +13181,9 @@ from the houses and temples of the city and from the walls of Rome, and
 that they would avert that terror to Veii, if the sacred rites had been
 duly renewed, if the prodigies had been expiated.
 
-19. The games and the Latin festival had now been performed anew; now
+## Chapter XIX
+
+The games and the Latin festival had now been performed anew; now
 the water from the Alban lake had been discharged upon the fields, and
 the fates were demanding [the ruin of] Veii. Accordingly a general
 destined for the destruction of that city and the preservation of his
@@ -12693,7 +13226,9 @@ they give up, until they made a passage into the citadel.
 [Footnote 161: _Expectatione, &c._ With confident expectations on the
 part of his countrymen, rather than simple hope.]
 
-20. When the dictator now saw that the victory was in his hands, that a
+## Chapter XX
+
+When the dictator now saw that the victory was in his hands, that a
 most opulent city was on the point of being taken, and that there would
 be more spoil than had been obtained in all previous wars taken
 together, that he might not incur either the resentment of the soldiers
@@ -12751,7 +13286,9 @@ Licinius was more favourable, especially to the poor, as the ordinary
 citizens would receive equal shares, and the compensation would be
 direct and immediate.--_Gunne._]
 
-21. The vast multitude who went filled the camp. Then the dictator,
+## Chapter XXI
+
+The vast multitude who went filled the camp. Then the dictator,
 going forth after taking the auspices, having issued orders that the
 soldiers should take arms, says, "Under thy guidance, O Pythian Apollo,
 and inspired by thy divinity, I proceed to destroy the city of Veii, and
@@ -12848,7 +13385,9 @@ public loss as possible. Pop-_li_ R-_i_, better than _o_, _o_, as
 _liceret_ would, in the latter case, apply only to one of the parties;
 in the former both are understood.]
 
-22. On the following day the dictator sold the inhabitants of free
+## Chapter XXII
+
+On the following day the dictator sold the inhabitants of free
 condition by auction: that was the only money applied to public use, not
 without resentment on the part of the people: and for the spoil they
 brought home with them, they felt no obligation either to their
@@ -12882,7 +13421,9 @@ considerably greater losses than it had sustained, eventually, fate now
 at length urging [its destruction], it was carried after all by the
 contrivances of art, not by force.
 
-23. When news was brought to Rome that Veii was taken, although both
+## Chapter XXIII
+
+When news was brought to Rome that Veii was taken, although both
 the prodigies had been expiated, and the answers of the prophets and the
 Pythian responses were well known, and though they had selected as their
 commander Marcus Furius, the greatest general of the day, which was
@@ -12922,7 +13463,9 @@ and Æquans to sue for peace; and peace was obtained, rather that the
 state wearied by so tedious a war might obtain repose, than that the
 petitioners were deserving of it.
 
-24. After the capture of Veii, the following year had six military
+## Chapter XXIV
+
+After the capture of Veii, the following year had six military
 tribunes with consular power, the two Publii Cornelii, Cossus and
 Scipio, Marcus Valerius Maximus a second time, Kæso Fabius Ambustus a
 third time, Lucius Furius Medullinus a fifth time, Quintus Servilius a
@@ -12977,7 +13520,9 @@ conquered land should be divided, but amongst the whole nation, so that
 the patricians also and their clients should receive a share as absolute
 property."--_Neibuhr_, vol. ii. p. 248.]
 
-25. Camillus, at every opportunity and in all places, stated publicly,
+## Chapter XXV
+
+Camillus, at every opportunity and in all places, stated publicly,
 "that this was not at all surprising; that the state was gone mad;
 which, though bound by a vow, yet felt greater concern in all other
 matters than in acquitting itself of its religious obligations. He would
@@ -13019,7 +13564,9 @@ to accomplish the same thing with respect to those who were opponents of
 the law. Thus the same persons in a great measure were re-elected
 tribunes of the commons.
 
-26. At the election of military tribunes the patricians succeeded by
+## Chapter XXVI
+
+At the election of military tribunes the patricians succeeded by
 their utmost exertions in having Marcus Furius Camillus elected. They
 pretended that he was wanted as a commander on account of the wars; but
 he was intended as an opponent to the tribunes in their profusion. The
@@ -13062,7 +13609,9 @@ fortune presented to the Roman general at once both an opportunity for
 displaying his virtuous firmness of mind already tested in warlike
 affairs, and a speedy victory.
 
-27. It was the custom among the Faliscians to employ the same person as
+## Chapter XXVII
+
+It was the custom among the Faliscians to employ the same person as
 preceptor and private tutor for their children; and, as continues the
 usage to this day in Greece, several youths were intrusted to the care
 of one man. The person who appeared to excel in knowledge, instructed,
@@ -13117,7 +13666,9 @@ was required of the Faliscians to pay off the soldiers for that year,
 that the Roman people might be relieved from the tribute. Peace being
 granted, the army was led back to Rome.
 
-28. When Camillus returned home, signalized by much more solid glory
+## Chapter XXVIII
+
+When Camillus returned home, signalized by much more solid glory
 than when white horses had drawn him through the city, having vanquished
 the enemy by justice and good faith, the senate did not conceal their
 sense of respect for him, but immediately set about acquitting him of
@@ -13178,7 +13729,9 @@ alarmed without cause, was followed by a letter from Postumius decked
 with laurel, (announcing) that "the victory belonged to the Roman
 people; that the army of the Æquans was destroyed."
 
-29. As the proceedings of the plebeian tribunes had not yet attained a
+## Chapter XXIX
+
+As the proceedings of the plebeian tribunes had not yet attained a
 termination, both the commons exerted themselves to continue their
 office for the promoters of the law, and the patricians to re-elect the
 opponents of the law; but the commons were more successful in the
@@ -13219,7 +13772,9 @@ senate to be deceived by [their reliance] on the public faith. By openly
 expressing these sentiments, he every day still further exasperated the
 angry feelings of the people.
 
-30. But he ceased not to urge the senate to oppose the law; "that when
+## Chapter XXX
+
+But he ceased not to urge the senate to oppose the law; "that when
 the day for proposing the law had arrived they should go down to the
 forum with no other feeling than as men who remembered that they had to
 contend for their altars and homes, and the temples of the gods, and the
@@ -13255,7 +13810,9 @@ only to the fathers of families, but so that all persons in their house
 in a state of freedom should be considered, and that they might be
 willing to rear up their children with that prospect.
 
-31. The commons being won over by such a boon, no opposition was made to
+## Chapter XXXI
+
+The commons being won over by such a boon, no opposition was made to
 holding the elections for consuls. Lucius Valerius Potitus, and Marcus
 Manlius, who afterwards obtained the surname of Capitolinus, were
 elected consuls. These consuls celebrated the great games which Marcus
@@ -13280,7 +13837,9 @@ time has a censor ever been substituted in the room of one deceased. And
 the consuls being seized by the distemper, it was determined that the
 auspices should be taken anew during an interregnum.
 
-32. Therefore when in pursuance of a decree of the senate the consuls
+## Chapter XXXII
+
+Therefore when in pursuance of a decree of the senate the consuls
 resigned their office, Marcus Furius Camillus is created interrex, who
 appointed Publius Cornelius Scipio interrex, and he afterwards Lucius
 Valerius Potitus. By him were appointed six military tribunes with
@@ -13331,7 +13890,9 @@ conscientiously do so. It may, however, signify simply, that the people
 were so incensed against him, that there existed not a rational prospect
 of acquittal for him.]
 
-33. That citizen being driven away, who being present, Rome could not be
+## Chapter XXXIII
+
+That citizen being driven away, who being present, Rome could not be
 captured, if any thing is certain regarding human affairs; the destined
 ruin now approaching the city, ambassadors came from the Clusinians,
 soliciting aid against the Gauls. A report is current that that nation,
@@ -13369,7 +13930,9 @@ situation has rendered savage, so as to retain nothing of their
 original, except the accent of their language, and not even that without
 corruption.
 
-34. Concerning the passage of the Gauls into Italy we have heard as
+## Chapter XXXIV
+
+Concerning the passage of the Gauls into Italy we have heard as
 follows. In the reign of Tarquinius Priscus at Rome, the supreme
 government of the Celts, who compose the third part of Gaul, was in the
 hands of the Biturigians: they gave a king to the Celtic nation. This
@@ -13408,7 +13971,9 @@ that the land in which they had posted themselves was called Insubria,
 the same name as the Insubres, a canton of the Ædui: embracing the omen
 of the place, they built a city there, and called it Mediolanum.
 
-35. Some time after another body, consisting of Cenomanians, having
+## Chapter XXXV
+
+Some time after another body, consisting of Cenomanians, having
 followed the tracks of the former under the conduct of Elitovius,
 crossed the Alps through the same forest, with the aid of Bellovesus,
 and settle themselves where the cities of Brixia and Verona now stand
@@ -13440,7 +14005,9 @@ better that war itself should be kept aloof, if possible; and that the
 Gauls, a nation strangers to them, should be known by peace, rather than
 by arms.
 
-36. The embassy was a mild one, had it not been consigned to ambassadors
+## Chapter XXXVI
+
+The embassy was a mild one, had it not been consigned to ambassadors
 too hot in temper, and who resembled Gauls more than Romans. To whom,
 after they delivered their commission in the assembly of the Gauls, the
 following answer is returned: Though the name of the Romans was new to
@@ -13491,7 +14058,9 @@ party. With the three Fabii the military tribunes elected were Quintus
 Sulpicius Longus, Quintus Servilius a fourth time, Servius Cornelius
 Maluginensis.
 
-37. Though danger of such magnitude was impending (so completely does
+## Chapter XXXVII
+
+Though danger of such magnitude was impending (so completely does
 Fortune blind the minds of men when she wishes not her threatening
 stroke to be foiled) a state, which against the Fidenatian and Veientian
 enemies, and other neighbouring states, had recourse to aid even from
@@ -13523,7 +14092,9 @@ the enemy, and this nation, which has a natural turn for causeless
 confusion, by their harsh music and discordant clamours, filled all
 places with a horrible din.
 
-38. There the military tribunes, without having previously selected a
+## Chapter XXXVIII
+
+There the military tribunes, without having previously selected a
 place for their camp, without having previously raised a rampart to
 which they might have a retreat, unmindful of their duty to the gods, to
 say nothing of that to man, without taking auspices or offering
@@ -13573,7 +14144,9 @@ number, their skill was what he had chiefly to guard against." Dureau De
 Lamalle thus translates: "supposant de la ruse aux ennemis, a raison de
 leur petit nombre." This is obviously the correct version.]
 
-39. The miraculous attainment of so sudden a victory held even the Gauls
+## Chapter XXXIX
+
+The miraculous attainment of so sudden a victory held even the Gauls
 in a state of stupefaction. And at first they stood motionless with
 panic, as if not knowing what had happened; then they apprehended a
 stratagem; at length they began to collect the spoils of the slain, and
@@ -13634,7 +14207,9 @@ destined to death.
 (_utique_,) from scarcity of provisions, whether they retired into the
 Capitol with the military youth, or were left behind in the city.]
 
-40. Their exhortations were then turned to the band of young men, whom
+## Chapter XL
+
+Their exhortations were then turned to the band of young men, whom
 they escorted to the Capitol and citadel, commending to their valour and
 youth whatever might be the remaining fortune of a city, which for three
 hundred and sixty years had been victorious in all its wars. When those
@@ -13674,7 +14249,9 @@ carriage, he commanded his wife and children to alight, placed the
 virgins and sacred utensils in the vehicle, and carried them on to Cære,
 whither the priests had intended to go.
 
-41. Meanwhile at Rome all arrangements being now made, as far as was
+## Chapter XLI
+
+Meanwhile at Rome all arrangements being now made, as far as was
 possible in such an emergency, for the defence of the citadel, the crowd
 of aged persons having returned to their houses, awaited the enemy's
 coming with minds firmly prepared for death. Such of them as had borne
@@ -13715,7 +14292,9 @@ in their seats. After the slaughter of the nobles, no person whatever
 was spared; the houses were plundered, and when emptied were set on
 fire.
 
-42. But whether it was that all were not possessed with a desire of
+## Chapter XLII
+
+But whether it was that all were not possessed with a desire of
 destroying the city, or it had been so determined by the leading men of
 the Gauls, both that some fires should be presented to their view, [to
 see] if the besieged could be forced into a surrender through affection
@@ -13748,7 +14327,9 @@ habituated to misfortunes, they abstracted their thoughts from all
 feeling of their circumstances, regarding their arms only, and the
 swords in their right hands, as the sole remnants of their hopes.
 
-43. The Gauls also, after having for several days waged an ineffectual
+## Chapter XLIII
+
+The Gauls also, after having for several days waged an ineffectual
 war against the buildings of the city, when they saw that among the
 fires and ruins of the captured city nothing now remained except armed
 enemies, neither terrified by so many disasters, nor likely to turn
@@ -13775,7 +14356,9 @@ the neighbouring states, that the other part should carry on the siege
 of the citadel, so that the ravagers of the country might supply the
 besiegers with corn.
 
-44. The Gauls, who marched from the city, were led by fortune herself,
+## Chapter XLIV
+
+The Gauls, who marched from the city, were led by fortune herself,
 to make trial of Roman valour, to Ardea, where Camillus was in exile:
 who, more distressed by the fortune of the public than his own, whilst
 he now pined away arraigning gods and men, fired with indignation, and
@@ -13816,7 +14399,9 @@ follow me to slaughter, not to battle. If I do not deliver them up to
 you fettered by sleep, to be butchered like cattle, I decline not the
 same issue of my affairs at Ardea as I had at Rome."
 
-45. Both friends and enemies were satisfied that there existed no where
+## Chapter XLV
+
+Both friends and enemies were satisfied that there existed no where
 at that time a man of equal military talent. The assembly being
 dismissed, they refresh themselves, carefully watching the moment the
 signal should be given; which being given, during the silence of the
@@ -13853,7 +14438,9 @@ nightly slaughter, they set out to Salinæ against another body of
 Tuscans, they suddenly made on the following night still greater havoc,
 and returned to Veii exulting in their double victory.
 
-46. Meanwhile, at Rome, the siege, in general, was slow, and there was
+## Chapter XLVI
+
+Meanwhile, at Rome, the siege, in general, was slow, and there was
 quiet on both sides, the Gauls being intent only on this, that none of
 the enemy should escape from between their posts; when, on a sudden, a
 Roman youth drew on himself the admiration both of his countrymen and
@@ -13904,7 +14491,9 @@ found that the law was passed; because he could neither change his
 residence without an order of the people, nor hold the privilege of the
 auspices in the army until he was nominated dictator.
 
-47. Whilst these things were going on at Veii, in the mean while the
+## Chapter XLVII
+
+Whilst these things were going on at Veii, in the mean while the
 citadel and Capitol of Rome were in great danger. For the Gauls either
 having perceived the track of a human foot where the messenger from Veii
 had passed, or having of themselves remarked the easy ascent by the rock
@@ -13954,7 +14543,9 @@ rumour spread that messengers passed between Veii and Rome, and on that
 of the Romans, from the recollection of the danger which occurred during
 the night.
 
-48. But beyond all the evils of siege and war, famine distressed both
+## Chapter XLVIII
+
+But beyond all the evils of siege and war, famine distressed both
 armies; pestilence, moreover, [oppressed] the Gauls, both as being
 encamped in a place lying between hills, as well as heated by the
 burning of the houses, and full of exhalations, and sending up not only
@@ -13994,7 +14585,9 @@ the Gauls, and on the tribune objecting, his sword was thrown in in
 addition to the weight by the insolent Gaul, and an expression was heard
 intolerable to the Romans, "Woe to the vanquished!"
 
-49. But both gods and men interfered to prevent the Romans from living
+## Chapter XLIX
+
+But both gods and men interfered to prevent the Romans from living
 on the condition of being ransomed; for by some chance, before the
 execrable price was completed, all the gold being not yet weighed in
 consequence of the altercation, the dictator comes up, and orders the
@@ -14034,7 +14627,9 @@ to that measure; and that was the cause of his not resigning his
 dictatorship after the triumph, the senate entreating him not to leave
 the commonwealth in so unsettled a state.
 
-50. First of all, he proposed matters appertaining to the immortal gods;
+## Chapter L
+
+First of all, he proposed matters appertaining to the immortal gods;
 for he was a most scrupulous observer of religious duties; and he
 procures a decree of the senate, "that all the temples, as the enemy had
 possessed them, should be restored, their bounds traced, and expiations
@@ -14069,7 +14664,9 @@ harangues, to leave the ruins, to remove to Veii, a city ready prepared
 for them, being escorted by the entire senate, he ascends the tribunal,
 and spoke as follows:
 
-51. "Romans, so disagreeable to me are contentions with the tribunes of
+## Chapter LI
+
+"Romans, so disagreeable to me are contentions with the tribunes of
 the people, that in my most melancholy exile, whilst I resided at Ardea,
 I had no other consolation than that I was removed from these contests;
 and for this same reason I would never have returned, even though you
@@ -14118,7 +14715,9 @@ enemies, who, blinded by avarice, have violated the faith of a treaty
 with respect to the weight of gold, they have turned dismay, and flight,
 and slaughter.
 
-52. "When you behold such striking instances of the effects of honouring
+## Chapter LII
+
+"When you behold such striking instances of the effects of honouring
 or neglecting the deity, do you perceive what an act of impiety we are
 about to perpetrate, scarcely emerging from the wreck of our former
 misconduct and calamity? We possess a city founded under auspices and
@@ -14187,7 +14786,9 @@ them to Veii? or whether for the purpose of holding their elections
 shall the people assemble at so great inconvenience into a city deserted
 by gods and men?
 
-53. "But the case itself forces us to leave a city desolated by fire and
+## Chapter LIII
+
+"But the case itself forces us to leave a city desolated by fire and
 ruin, and remove to Veii, where all things are entire, and not to
 distress the needy commons by building here. But that this is only held
 out as a pretext, rather than that it is the real motive, I think is
@@ -14232,7 +14833,9 @@ and what we individually would have done, if our private residence had
 been burned down, shall we as a body refuse to do in the case of a
 public conflagration?
 
-54. "What, if by some evil design of accident a fire should break out at
+## Chapter LIV
+
+"What, if by some evil design of accident a fire should break out at
 Veii, and the flames spread by the wind, as may happen, should consume a
 considerable portion of the city; are we then to seek Fidenæ, or Gabii,
 or any other city to remove to? Has our native soil so slight a hold on
@@ -14270,7 +14873,9 @@ and Terminus, to the very great joy of our fathers, suffered not
 themselves to be moved. Here is the fire of Vesta, here the Ancilia sent
 down from heaven, here are all the gods propitious to you if you stay."
 
-55. Camillus is said to have moved them as well by other parts of his
+## Chapter LV
+
+Camillus is said to have moved them as well by other parts of his
 speech, but chiefly by that which related to religious matters. But an
 expression seasonably uttered determined the matter whilst still
 undecided; for when a meeting of the senate, a little after this, was
@@ -14309,7 +14914,9 @@ commissioners].
      state; and Lucius Sextius was the first consul elected from the
      commons._
 
-1. The transactions of the Romans, from the building of the city of Rome
+## Chapter I
+
+The transactions of the Romans, from the building of the city of Rome
 to the capture of the same city, first under kings, then under consuls,
 and dictators, and decemvirs, and consular tribunes, their wars abroad,
 their dissensions at home, I have exhibited in five books: matters
@@ -14361,7 +14968,9 @@ religious undertakings on the day following the ides: thence the same
 religious observance was derived with respect to the days following the
 calends and the nones.
 
-2. But it was not long allowed them to consult in quiet regarding the
+## Chapter II
+
+But it was not long allowed them to consult in quiet regarding the
 means of raising the city, after so grievous a fall. On the one side
 their old enemies, the Volscians, had taken arms, to extinguish the
 Roman name: on the other, some traders brought [intelligence] that a
@@ -14409,7 +15018,9 @@ to the Æquans, who were also preparing for hostilities: he surprised
 their army at Bolæ, and having attacked not only their camp, but their
 city also, he took them at the first onset.
 
-3. When such fortune manifested itself on that side where Camillus, the
+## Chapter III
+
+When such fortune manifested itself on that side where Camillus, the
 life and soul of the Roman interest, was, a great alarm had fallen on
 another quarter. For almost all Etruria, taking up arms, were besieging
 Sutrium, allies of the Roman people, whose ambassadors having applied to
@@ -14454,7 +15065,9 @@ before night restored to the Sutrians uninjured and free from all the
 calamities of war, because it had not been taken by force but delivered
 up on terms.
 
-4. Camillus returned to the city in triumph, being victorious in three
+## Chapter IV
+
+Camillus returned to the city in triumph, being victorious in three
 wars at the same time. By far the greatest number of the prisoners whom
 he led before his chariot were from among the Etrurians. And these being
 sold by auction, such a sum of money was raised, that after paying the
@@ -14503,7 +15116,9 @@ city should not increase by private buildings only, the lower parts of
 the Capitol also were built of hewn stone; a work deserving of
 admiration even amid the present magnificence of the city.
 
-5. Now, whilst the state was busily occupied in building, the tribunes
+## Chapter V
+
+Now, whilst the state was busily occupied in building, the tribunes
 of the commons endeavoured to draw crowds to their harangues by
 [proposing] the agrarian laws. The Pomptine territory was then, for the
 first time since the power of the Volscians had been reduced by
@@ -14533,7 +15148,9 @@ Four tribes were added from the new citizens, the Stellatine, the
 Tormentine, the Sabatine, and the Arnian, and they made up the number of
 twenty-five tribes.
 
-6. Regarding the Pomptine land the matter was pressed by Lucius
+## Chapter VI
+
+Regarding the Pomptine land the matter was pressed by Lucius
 Sicinius, plebeian tribune, on the people, who now attended in greater
 numbers, and more readily aroused to the desire of land than they had
 been. And mention having been introduced in the senate regarding war
@@ -14601,7 +15218,9 @@ alike to obey and to command, and who were laying up praise as common
 stock, rather than taking it from the common fund to themselves
 individually."
 
-7. A suspension of civil business being proclaimed, and a levy being
+## Chapter VII
+
+A suspension of civil business being proclaimed, and a levy being
 held, Furius and Valerius set out to Satricum; to which place the
 Antians had drawn together not only the youth of the Volscians, selected
 out of the new generation, but immense numbers of the Latins and
@@ -14632,7 +15251,9 @@ look for the same result of the war. As soon as you commence the fight,
 each will do that which he has learned and been accustomed to do. You
 will conquer, they will run."
 
-8. Then having given the signal, he leaps from his horse, and seizing
+## Chapter VIII
+
+Then having given the signal, he leaps from his horse, and seizing
 the standard-bearer who was next him by the hand, he hurries him on with
 him against the enemy, calling aloud, "Soldiers, advance the standard."
 And when they saw Camillus himself, now disabled through age for bodily
@@ -14672,7 +15293,9 @@ hands, he attacked the walls on every side, amid the great alacrity of
 the soldiers, and took the town by scalade. The Volscians, having thrown
 down their arms, surrendered themselves.
 
-9. But the general's thoughts were fixed on a higher object, on Antium:
+## Chapter IX
+
+But the general's thoughts were fixed on a higher object, on Antium:
 [he knew] that that was the great aim of the Volscians, and main source
 of the late war. But because so strong a city could not be taken without
 great preparations, engines and machines, leaving his colleague with the
@@ -14718,7 +15341,9 @@ and restored to the allies, the army was led to Nepete, which having
 been received by capitulation, was now entirely in the possession of the
 Etrurians.
 
-10. It appeared probable, that there would be more of labour in
+## Chapter X
+
+It appeared probable, that there would be more of labour in
 recovering the city, not only for this reason, because it was all in
 possession of the enemy, but also because the surrender had been made in
 consequence of a party of the Nepesinians having betrayed the state. It
@@ -14753,7 +15378,9 @@ being destroyed by so many successive wars." Which answer being reported
 to the senate, they decided that there was wanting rather a seasonable
 time for declaring war than sufficient grounds for it.
 
-11. In the following year, Aulus Manlius, Publius Cornelius, Titus and
+## Chapter XI
+
+In the following year, Aulus Manlius, Publius Cornelius, Titus and
 Lucius Quintii Capitolini, Lucius Papirius Cursor a second time, Caius
 Sergius a second time, being military tribunes with consular power, a
 grievous war broke out abroad, a still more grievous disturbance at
@@ -14796,7 +15423,9 @@ the reforming plans that drove the senate to create a dictator. Aulus
 Cornelius Cossus having been elected dictator, nominated Titus Quinctius
 Capitolinus his master of the horse.
 
-12. The dictator, though he perceived that a greater struggle was
+## Chapter XII
+
+The dictator, though he perceived that a greater struggle was
 reserved for him at home than abroad; still, either because there was
 need of despatch for the war, or supposing that by a victory and a
 triumph he should add to the powers of the dictatorship itself, held a
@@ -14845,7 +15474,9 @@ engaged in the fight." The cavalry, the infantry conduct the fight, just
 as he had ordered them. Nor did either the general disappoint the
 legions, nor fortune the general.
 
-13. The army of the enemy, relying on nothing but on their number, and
+## Chapter XIII
+
+The army of the enemy, relying on nothing but on their number, and
 measuring both armies merely by the eye, entered on the battle
 inconsiderately, and inconsiderately gave it over: fierce only in their
 shout and with their missive weapons, and at the first onset of the
@@ -14880,7 +15511,9 @@ interrogated by the leading senators, plainly revealed the same
 circumstances as they had done to the dictator, the defection each of
 his respective state.
 
-14. The dictator kept his army in the standing camp, not at all doubting
+## Chapter XIV
+
+The dictator kept his army in the standing camp, not at all doubting
 that the senate would order war with these states; when a more momentous
 difficulty having occurred at home, rendered it necessary that he should
 be sent for to Rome, the sedition gaining strength every day, which the
@@ -14941,7 +15574,9 @@ directed to this point; and it became evident that neither their
 gratitude, if the information were true, nor their displeasure if it
 proved false, would know any bounds.
 
-15. Matters being in this state, the dictator, being summoned home from
+## Chapter XV
+
+Matters being in this state, the dictator, being summoned home from
 the army, came into the city. A meeting of the senate being held on the
 following day, when, having sufficiently sounded the inclinations of the
 people, he forbade the senate to leave him, attended by that body, he
@@ -14997,7 +15632,9 @@ the more do I dread lest you should blind the eyes of those narrowly
 watching you. Wherefore, it is not I that am to be compelled to discover
 your hoard, but you must be forced to produce it to the public."
 
-16. When the dictator ordered him to lay aside evasion, and urged him to
+## Chapter XVI
+
+When the dictator ordered him to lay aside evasion, and urged him to
 prove the truth of his information, or to own the guilt of having
 advanced a false accusation against the senate, and of having exposed
 them to the odium of a lying charge of concealment; when he refused to
@@ -15033,7 +15670,9 @@ appearance of persons under prosecutions, and terror being removed by
 the resignation of the dictatorship, after the triumph had set both the
 tongues and thoughts of men at liberty.
 
-17. Expressions were therefore heard freely uttered of persons
+## Chapter XVII
+
+Expressions were therefore heard freely uttered of persons
 upbraiding the multitude, that "by their favour they always raised their
 defenders to a precipice, then at the very critical moment of danger
 they forsook them. That in this way Spurius Cassius, when inviting the
@@ -15075,7 +15714,9 @@ allies, instantly to depart from the city, from the presence and sight
 of the Roman people; lest the law of embassy, provided for the
 foreigner, not for the citizen, should afford them no protection.
 
-18. The sedition excited by Manlius reassuming its former violence, on
+## Chapter XVIII
+
+The sedition excited by Manlius reassuming its former violence, on
 the expiration of the year the election was held, and military tribunes
 with consular power were elected from among the patricians; they were
 Servius Cornelius Maluginensis a third time, Publius Valerius Potitus a
@@ -15146,7 +15787,9 @@ to have arisen with respect to the obtaining of regal power; but no
 sufficiently clear account is handed down, either with whom [he acted],
 or how far his designs extended.
 
-19. But, on the other side, the senate began to deliberate regarding the
+## Chapter XIX
+
+But, on the other side, the senate began to deliberate regarding the
 secession of the commons into a private house, and that, as it so
 happened, situate in the citadel, and regarding the great danger that
 was threatening liberty. Great numbers cry out, that a Servilius Ahala
@@ -15174,7 +15817,9 @@ prosecutors from among the commons, the accused a patrician, and that
 the charge between both parties is that of aiming at regal power, they
 will favour no object more than their own liberty."
 
-20. With the approbation of all, they appoint a day of trial for
+## Chapter XX
+
+With the approbation of all, they appoint a day of trial for
 Manlius. When this took place, the commons were at first excited,
 especially when they saw the accused in a mourning habit, and with him
 not only none of the patricians, but not even any of his kinsmen or
@@ -15246,7 +15891,9 @@ preserver; nor was it agreeable to the gods that the punishment of him
 by whom their temples had been rescued from the hands of the enemy, had
 been brought in a manner before their eyes."
 
-21. The pestilence was succeeded by a scarcity of the fruits of the
+## Chapter XXI
+
+The pestilence was succeeded by a scarcity of the fruits of the
 earth, and the report of both calamities by spreading [was followed] by
 a variety of wars in the following year, Lucius Valerius a fourth time,
 Aulus Manlius a third time, Servius Sulpicius a third time, Lucius
@@ -15283,7 +15930,9 @@ the fact, the senate returned so placid an answer, that it became
 evident that less credit was given to the charges, because they wished
 them not to be true.
 
-22. In the following year the Papirii, Spurius and Lucius, new military
+## Chapter XXII
+
+In the following year the Papirii, Spurius and Lucius, new military
 tribunes, led the legions to Velitræ; their four colleagues in the
 tribuneship, Servius Cornelius Maluginensis a fourth time, Quintus
 Servilius, Servius Sulpicius, Lucius Æmilius a fourth time, being left
@@ -15329,7 +15978,9 @@ determined to make no delay to put all to the risk of an engagement,
 that by proceeding thus they should derive no advantage from the
 judgment of their distinguished commander, on which alone they confided.
 
-23. The same ardour existed also in the Roman army; nor did any thing,
+## Chapter XXIII
+
+The same ardour existed also in the Roman army; nor did any thing,
 but the wisdom and authority of one man, delay the fortune of the
 present engagement, who sought, by protracting the war, an opportunity
 of aiding their strength by skill. The enemy urged them the more on that
@@ -15379,7 +16030,9 @@ line; Camillus forms the reserve, and posts a strong guard before the
 camp; he himself took his station on an elevated place as a spectator,
 anxiously watching the result of the other's plan.
 
-24. As soon as the arms clashed at the first encounter, the enemy, from
+## Chapter XXIV
+
+As soon as the arms clashed at the first encounter, the enemy, from
 stratagem, not from fear, retreated. There was a gentle acclivity in
 their rear, between the army and their camp; and because they had
 sufficient numbers, they had left in the camp several strong cohorts,
@@ -15430,7 +16083,9 @@ pretended fear, great numbers were slain both in the battle itself, and
 afterwards in flight; the others in the camp, which was taken in the
 same onset: more, however, were captured than slain.
 
-25. Where when, on taking an account of the prisoners, several Tusculans
+## Chapter XXV
+
+Where when, on taking an account of the prisoners, several Tusculans
 were recognised, being separated from the rest, they are brought to the
 tribunes; and they confessed to those who interrogated them, that they
 had taken up arms by the authority of the state. By the fear of which
@@ -15476,7 +16131,9 @@ so completely was every thing in a state of steady tranquil peace, so
 that it scarcely seemed that even the rumour of war could have reached
 them.
 
-26. Overcome therefore by the submissive demeanour of the enemy, he
+## Chapter XXVI
+
+Overcome therefore by the submissive demeanour of the enemy, he
 ordered their senate to be called. "Tusculans," he says, "ye are the
 only persons who have yet found the true arms and the true strength, by
 which to protect your possessions from the resentment of the Romans.
@@ -15512,7 +16169,9 @@ made to you." These were nearly the words used by the Tusculans. They
 obtained peace at the present, and not long after the freedom of the
 state also. The legions were withdrawn from Tusculum.
 
-27. Camillus, distinguished by his prudence and bravery in the Volscian
+## Chapter XXVII
+
+Camillus, distinguished by his prudence and bravery in the Volscian
 war, by his success in the Tusculan expedition, in both by his
 extraordinary moderation and forbearance towards his colleague, went out
 of office; the military tribunes for the following year being Lucius and
@@ -15566,7 +16225,9 @@ tribunes of the commons to the struggle commenced than deterred them;
 nor did any thing else suffice to allay the discontent in the city, but
 the approach of hostilities to the very walls.
 
-28. For when the Prænestines had been informed that no army was levied
+## Chapter XXVIII
+
+For when the Prænestines had been informed that no army was levied
 at Rome, no general fixed on, that the senate and people were turned the
 one against the other; their leaders thinking that an opportunity
 presented itself, making a hasty march, and laying waste the country as
@@ -15600,7 +16261,9 @@ as they fought at Rome in recovering their country, as the day after at
 Gabii; then, when they took care, that no enemy, who had entered the
 walls of Rome, should carry home an account of their success or defeat."
 
-29. With these feelings on either side they came to the Allia. The Roman
+## Chapter XXIX
+
+With these feelings on either side they came to the Allia. The Roman
 dictator, when the enemy were in view drawn up and ready for action,
 says, "Aulus Sempronius, do you see that these men have taken their
 stand at the Allia, relying on the fortune of the place? nor have the
@@ -15639,7 +16302,9 @@ it, as a monument of his exploits, was engraved with nearly these words:
 should take nine towns." On the twentieth day after the appointment he
 abdicated the dictatorship.
 
-30. An election was then held of military tribunes with consular power;
+## Chapter XXX
+
+An election was then held of military tribunes with consular power;
 in which the number of patricians and plebeians was equal. From the
 patricians were elected Publius and Caius Manlius, with Lucius Julius;
 the commons gave Caius Sextilius, Marcus Albinius, and Lucius Antistius.
@@ -15674,7 +16339,9 @@ tranquillity, which the influence of the plebeian military tribunes and
 the respect shown to them among their own party procured, was a
 consolation for the want of success in war.
 
-31. The commencement of the following year blazed forth with violent
+## Chapter XXXI
+
+The commencement of the following year blazed forth with violent
 sedition, the military tribunes with consular power being Spurius
 Furius, Quintus Servilius a second time, Caius Licinius, Publius
 Clœlius, Marcus Horatius, Lucius Geganius. The debt was both the
@@ -15711,7 +16378,9 @@ hope of a harvest, all the booty both of men and cattle, which was
 outside the walls, being driven off, the troops were led back from both
 quarters to Rome.
 
-32. A short interval having been granted to the debtors to recover
+## Chapter XXXII
+
+A short interval having been granted to the debtors to recover
 breath, when matters became perfectly quiet with respect to the enemy,
 legal proceedings began to be instituted anew; and so remote was all
 hope of relieving the former debt, that a new one was now contracted by
@@ -15749,7 +16418,9 @@ rear. After that several days were spent in laying waste the country, as
 the Romans were neither supplied with military engines to attack walls,
 nor the others to hazard the chance of a battle.
 
-33. At this time a dissension arose between the Antians and the Latins;
+## Chapter XXXIII
+
+At this time a dissension arose between the Antians and the Latins;
 when the Antians, overcome by misfortunes and reduced by a war, in which
 they had both been born and had grown old, began to think of a
 surrender; whilst their recent revolt after a long peace, their spirits
@@ -15799,7 +16470,9 @@ there remain any strength for fight, nor any room for running away,
 between both they were all cut to pieces to a man. Tusculum being
 recovered from the enemy, the army was led back to Rome.
 
-34. In proportion as all matters were more tranquil abroad in
+## Chapter XXXIV
+
+In proportion as all matters were more tranquil abroad in
 consequence of their successes in war this year, so much did the
 violence of the patricians and the distresses of the commons in the city
 increase every day; as the ability to pay was prevented by the very fact
@@ -15846,7 +16519,9 @@ this he began to draw up his plans with his son-in-law, having attached
 to himself Lucius Sextius, an enterprising young man, and one to whose
 hope nothing was wanting but patrician descent.
 
-35. There appeared a favourable opportunity for making innovations on
+## Chapter XXXV
+
+There appeared a favourable opportunity for making innovations on
 account of the immense load of debt, no alleviation of which evil the
 commons could hope for unless their own party were placed in the highest
 authority. To [bring about] that object [they saw] that they should
@@ -15889,7 +16564,9 @@ continued in the city for the space of five years, the people
 re-electing the two tribunes, and these preventing the election of
 military tribunes.
 
-36. There was an opportune cessation of other wars: the colonists of
+## Chapter XXXVI
+
+There was an opportune cessation of other wars: the colonists of
 Velitræ, becoming wanton through ease, because there was no Roman army,
 made repeated incursions on the Roman territory, and set about laying
 siege to Tusculum. This circumstance, the Tusculans, old allies, new
@@ -15937,7 +16614,9 @@ to their creditors, and that the houses of the nobility should be filled
 with prisoners? and that wherever a patrician dwelt, there should be a
 private prison?"
 
-37. When they had uttered these statements, exasperating and pitiable
+## Chapter XXXVII
+
+When they had uttered these statements, exasperating and pitiable
 in the recital, before persons alarmed for themselves, exciting greater
 indignation in the hearers than was felt by themselves, they affirmed
 "that there never would be any other limit to their occupying the lands,
@@ -15989,7 +16668,9 @@ commons, the other half from the patricians; and they deferred the
 meeting [for the discussion] of all those propositions, till the coming
 of that army which was besieging Velitræ.
 
-38. The year was completed before the legions were brought back from
+## Chapter XXXVIII
+
+The year was completed before the legions were brought back from
 Velitræ. Thus the question regarding the laws was suspended and deferred
 for the new military tribunes; for the commons re-elected the same two
 plebeian tribunes, because they were the proposers of the laws. Titus
@@ -16050,7 +16731,9 @@ of disputes regarding the tribunitian and consular authority, even down
 to our own memory, the pre-eminence of the dictatorship was always
 decided.
 
-39. Between the abdication of the former dictatorship and the new one
+## Chapter XXXIX
+
+Between the abdication of the former dictatorship and the new one
 entered on by Manlius, an assembly of the commons being held by the
 tribunes, as if it were an interregnum, it became evident which of the
 laws proposed were more grateful to the commons, which to the proposers.
@@ -16099,7 +16782,9 @@ be necessary for each in private, there was no occasion for the
 invidious continuation of honour; that they would neither have the
 tribuneship, nor the people those matters which were proposed."
 
-40. In reply to such peremptory language of the tribunes, when amazement
+## Chapter XL
+
+In reply to such peremptory language of the tribunes, when amazement
 at the insolence of their conduct and silence struck all the rest of the
 patricians motionless, Appius Claudius Crassus, the grandson of the
 decemvir, is said to have stepped forward to refute their arguments,
@@ -16185,7 +16870,9 @@ What follows, but that if one plebeian stand candidate with two
 patricians, he owes no obligation to the people, and may say that he was
 appointed by the law, not by suffrages?
 
-41. "How they may extort, not how they may sue for honours, is what they
+## Chapter XLI
+
+"How they may extort, not how they may sue for honours, is what they
 seek: and they are anxious to attain the highest honour, so that they
 may not owe the obligations incurred even for the lowest; and they
 prefer to sue for honours rather through favourable conjunctures than
@@ -16237,7 +16924,9 @@ human society ceases to exist. For every reason, I consider that those
 propositions ought to be rejected by you. Whatever ye may do, I pray the
 gods to render it successful."
 
-42. The speech of Appius merely had this effect, that the time for
+## Chapter XLII
+
+The speech of Appius merely had this effect, that the time for
 passing the propositions was deferred. The same tribunes, Sextius and
 Licinius, being re-elected for the tenth time, succeeded in passing a
 law, that of the decemvirs for religious matters, one half should be
@@ -16318,7 +17007,9 @@ elections of that year.
      Successful operations against the Hernicians, Gauls, Tiburtians,
      Privernians, Tarquinians, Samnites, and Volscians._
 
-1. This year will be remarkable for the consulship of a man of mean
+## Chapter I
+
+This year will be remarkable for the consulship of a man of mean
 birth, remarkable for two new magistracies, the prætorship and curule
 ædileship. These honours the patricians claimed to themselves, in
 consideration of one consulship having been conceded to the plebeians.
@@ -16359,7 +17050,9 @@ many years afterwards did he live) he uniformly preserved his claims to
 such great glory, and was deemed deserving of their considering him,
 next after Romulus, a second founder of the city of Rome.
 
-2. The pestilence continued both for this and the following year, Caius
+## Chapter II
+
+The pestilence continued both for this and the following year, Caius
 Sulpicius Peticus and Caius Licinius Stolo being consuls. During that
 year nothing worth recording took place, except that for the purpose of
 imploring the favour of the gods, there was a Lectisternium, the third
@@ -16408,7 +17101,9 @@ me that the first origin of plays also should be noticed; that it might
 appear how from a moderate commencement it has reached its present
 extravagance, scarcely to be supported by opulent kingdoms.
 
-3. However, the first introduction of plays, intended as a religious
+## Chapter III
+
+However, the first introduction of plays, intended as a religious
 expiation, neither relieved their minds from religious awe, nor their
 bodies from disease. Nay more, when the circus being inundated by the
 overflowing of the Tiber happened to interrupt the middle of the
@@ -16445,7 +17140,9 @@ harassed the youth by a severe levy, and at length, all the plebeian
 tribunes having risen up against him, whether overcome by force or
 shame, he resigned the dictatorship.
 
-4. Notwithstanding this, in the commencement of the ensuing year,
+## Chapter IV
+
+Notwithstanding this, in the commencement of the ensuing year,
 Quintus Servilius Ahala, Lucius Genucius being consuls, a day of trial
 is appointed for Manlius, by Marcus Pomponius, tribune of the commons.
 His severity in the levies, carried not only to the fining of the
@@ -16472,7 +17169,9 @@ clogged the slowness of his intellects; and if there were in him even
 the least spark of natural ability he extinguished it by a rustic life
 and a clownish education, and keeping him among cattle."
 
-5. By these charges the minds of all were exasperated against him more
+## Chapter V
+
+By these charges the minds of all were exasperated against him more
 than that of the young man himself: nay, on the contrary, being grieved
 that he was even the cause of public odium and accusations to his
 father, that all the gods and men might know that he would rather afford
@@ -16513,7 +17212,9 @@ obtained the second place among six, without any merit of a civil or
 military nature to conciliate public favour; as he had spent his youth
 in the country and at a distance from all intercourse with the world.
 
-6. On the same year the middle of the forum is said to have fallen in to
+## Chapter VI
+
+On the same year the middle of the forum is said to have fallen in to
 an immense depth, forming a sort of vast cave, either by reason of an
 earthquake, or some other violent cause; nor could that gulf be filled
 up by throwing earth into it, every one exerting himself to the utmost,
@@ -16566,7 +17267,9 @@ measure which had been found fault with by himself, the consul Servilius
 appoints dictator by the general wish of the patricians, and a levy and
 cessation of business are procaimed.
 
-7. Before the dictator and the new legions could arrive among the
+## Chapter VII
+
+Before the dictator and the new legions could arrive among the
 Hernicians, matters were conducted with great success under the
 direction of Caius Sulpicius the lieutenant-general, making use of a
 favourable opportunity. On the Hernicians, who after the death of the
@@ -16604,7 +17307,9 @@ battle after a new style; nor could they be resisted, had not the
 extraordinary cohorts, possessing equal vigour both of body and spirit,
 thrown themselves in their way.
 
-8. Then the contest is carried on between the leading men of the two
+## Chapter VIII
+
+Then the contest is carried on between the leading men of the two
 states. Whatever the common fortune of war carried off from either side,
 the loss was many times greater than can be estimated by the numbers:
 the rest, an armed populace, as if they had delegated the fight to the
@@ -16632,7 +17337,9 @@ dispersed over the country in precipitate flight. Nor was the victory an
 unbloody one to the Romans; a fourth part of the soldiers perished; and,
 where there was no less of loss, several Roman horsemen fell.
 
-9. On the following year, when the consuls Caius Sulpicius and Caius
+## Chapter IX
+
+On the following year, when the consuls Caius Sulpicius and Caius
 Licinius Calvus led an army against the Hernicians, and finding no enemy
 in the country took their city Ferentinum by storm, as they were
 returning thence, the Tiburtians shut their gates against them. Though
@@ -16664,7 +17371,9 @@ as he could exert, "Let the bravest man that Rome now possesses come
 forward here to battle, that the event of an engagement between us both
 may show which nation is superior in war."
 
-10. There was for a long time silence among the young Roman nobility, as
+## Chapter X
+
+There was for a long time silence among the young Roman nobility, as
 they were both ashamed to decline the contest, and unwilling to claim
 the principal post of danger. Then Titus Manlius, son of Lucius, the
 same who had freed his father from the vexatious persecution of the
@@ -16713,7 +17422,9 @@ kept up, became afterwards an honour to the descendants even of the
 family. The dictator added a present of a golden crown, and before a
 public assembly extolled that action with the highest praises.
 
-11. And, indeed, of so great moment was the contest with respect to the
+## Chapter XI
+
+And, indeed, of so great moment was the contest with respect to the
 issue of the war in general, that on the night following the army of the
 Gauls, having abandoned their camp in confusion, passed over into the
 territory of Tibur, and from thence soon after into Campania, having
@@ -16759,7 +17470,9 @@ worthy of a triumph? They should not consider it an extraordinary and
 wondrous feat to raise a tumult at the enemy's gates, as they should
 soon see greater confusion before their own walls."
 
-12. Accordingly in the year following, Marcus Popilius Lænas and Cneius
+## Chapter XII
+
+Accordingly in the year following, Marcus Popilius Lænas and Cneius
 Manlius being consuls, during the first silence of the night having set
 out from Tibur with an army prepared for action, they came to the city
 of Rome. The suddenness of the thing, and the panic occurring at night,
@@ -16821,7 +17534,9 @@ now shouted from all quarters that "they should go forthwith to the
 dictator; that Sextus Tullius should speak in behalf of the army, so as
 became his courage."
 
-13. Tullius was now for the seventh time first centurion of a legion,
+## Chapter XIII
+
+Tullius was now for the seventh time first centurion of a legion,
 nor was there in the army, at least among those who served in the
 infantry, a man more distinguished by his conduct. He, at the head of a
 body of the soldiers, proceeds to the tribunal, and to Sulpicius, not
@@ -16868,7 +17583,9 @@ supremely great and good." The entreaties of the multitude followed the
 speech of Tullius; and from every side they cried out, that he would
 give the signal, that he would order them to take arms.
 
-14. The dictator, though he saw that a good result was brought about by
+## Chapter XIV
+
+The dictator, though he saw that a good result was brought about by
 a precedent not to be approved of, yet took on himself to do what the
 soldiers wished, and inquires of Tullius privately, what the nature of
 this transaction was, or on what precedent it was done? Tullius
@@ -16912,7 +17629,9 @@ on a sudden to descend, they also, on their part eager for the fight,
 rush forward to the encounter; and the battle commenced before the
 signal could be given by the leaders.
 
-15. The Gauls attacked the right wing with greater fierceness, nor could
+## Chapter XV
+
+The Gauls attacked the right wing with greater fierceness, nor could
 they have been withstood, had not the dictator happened to be on the
 spot, rebuking Sextus Tullius by name, and asking him, "Was it in this
 way he had engaged that the soldiers would fight? Where now were the
@@ -16961,7 +17680,9 @@ approbation of the senate; and by that bill they thought that the
 ambition of new men in particular, who had been accustomed to go around
 the markets and places of meeting, was checked.
 
-16. Not equally pleasing to the patricians on the following year was a
+## Chapter XVI
+
+Not equally pleasing to the patricians on the following year was a
 law passed in the consulship of Caius Marcius and Cneius Manlius, by
 Marcus Duilius and Lucius Mænius, tribunes of the commons, regarding the
 interest of money at twelve per cent., and the people received and
@@ -17006,7 +17727,9 @@ his own law, by Marcus Popillius Lænas, because he possessed in
 conjunction with his son a thousand acres of land, and because he had
 attempted to evade the law by emancipating his son.
 
-17. The next two consuls, Marcus Fabius Ambustus a second time, and
+## Chapter XVII
+
+The next two consuls, Marcus Fabius Ambustus a second time, and
 Marcus Popillius Lænas a second time, had two wars on their hands. The
 one with the Tiburtians was easy, which Licinius managed, who drove the
 enemy into their city, and laid waste their lands. The Faliscians and
@@ -17056,7 +17779,9 @@ able to effect nothing else than to put off the elections, two
 patricians were chosen consuls, Caius Sulpicius Peticus a third time,
 Marcus Valerius Publicola; and on the same day they entered into office.
 
-18. On the four hundredth year after the building of the city of Rome,
+## Chapter XVIII
+
+On the four hundredth year after the building of the city of Rome,
 and the thirty-fifth after its recovery from the Gauls, the consulship
 being taken away from the commons after eleven years, consuls, both
 patricians, entered into office after the interregnum, Caius Sulpicius
@@ -17095,7 +17820,9 @@ consuls elected were patricians, Marcus Fabius Ambustus a third time,
 Titus Quinctius. In some annals I find Marcus Popilius mentioned as
 consul instead of Titus Quinctius.
 
-19. Two wars were conducted with success on that year: and they forced
+## Chapter XIX
+
+Two wars were conducted with success on that year: and they forced
 the Tiburtians by force of arms to a surrender. The city of Sassula was
 taken from them; and the other towns would have shared the same fate,
 had not the entire nation laid down their arms, and put themselves under
@@ -17142,7 +17869,9 @@ appointed Aulus Cornelius Cossus his master of the horse, content with
 the consular army, declared war against the Cæritians by order of the
 people, with the sanction of the senate.
 
-20. Then for the first time were the Cæritians seized with a real dread
+## Chapter XX
+
+Then for the first time were the Cæritians seized with a real dread
 of war, as if there was greater power in the words of the enemy to
 indicate war than in their own acts, who had provoked the Romans by
 devastation; and they perceived how ill suited the contest was to their
@@ -17190,7 +17919,9 @@ refrained from besieging the towns; and the legions being brought back
 to Rome, the remainder of the year was spent in repairing the walls and
 the towers, and the temple of Apollo was dedicated.
 
-21. At the close of the year a dispute between the patricians and
+## Chapter XXI
+
+At the close of the year a dispute between the patricians and
 commons suspended the consular elections, the tribunes refusing to allow
 the elections to be held, unless they were held conformably to the
 Licinian law; the dictator being determined to do away with the
@@ -17231,7 +17962,9 @@ Caius Julius was nominated in the camp, (for the decree of the senate
 was sent thither to the consuls,) to whom Lucius Æmilius was attached as
 master of the horse. But all things were quiet abroad.
 
-22. An attempt made at home by the dictator, to have the election of two
+## Chapter XXII
+
+An attempt made at home by the dictator, to have the election of two
 patrician consuls, brought the government to an interregnum. The two
 interreges, Caius Sulpicius and Marcus Fabius, succeeded in that which
 the dictator had in vain attempted, scil. in having both the consuls
@@ -17271,7 +18004,9 @@ dictator as master of the horse. Nor yet did the dictatorship render
 that combination of the senators more effectual at the consular
 elections, than it had proved at that of the censors.
 
-23. Marcus Popillius Lænas was chosen consul on the part of the commons,
+## Chapter XXIII
+
+Marcus Popillius Lænas was chosen consul on the part of the commons,
 Lucius Cornelius Scipio on that of the patricians. Fortune even rendered
 the plebeian consul more distinguished; for when news was brought that a
 vast army of the Gauls had pitched their camp in the Latin territory,
@@ -17311,7 +18046,9 @@ carnage among themselves more shocking than the carnage [caused by the
 enemy]. For more were crushed by the precipitate rout, than there were
 slain by the sword.
 
-24. Nor as yet was the victory decided in favour of the Romans; another
+## Chapter XXIV
+
+Nor as yet was the victory decided in favour of the Romans; another
 difficulty still was remaining for them after they had descended into
 the plain; for the great numbers of the Gauls being such as to prevent
 all feeling of such a disaster, raised up fresh troops against the
@@ -17351,7 +18088,9 @@ horse, restored to the patricians their former possession of the
 consulship. He himself being, for that service, elected consul, had
 Appius Claudius Crassus named as his colleague.
 
-25. Before the new consuls entered on their office, a triumph was
+## Chapter XXV
+
+Before the new consuls entered on their office, a triumph was
 celebrated by Popillius over the Gauls amid the great applause of the
 commons; and they, in a low voice, frequently asked one another, whether
 any one was dissatisfied with a plebeian consul. At the same time they
@@ -17404,7 +18143,9 @@ were sufficiently subdued, by preventing from plunder persons whom
 necessity obliged to live on what was so obtained, he selected a
 suitable place for a fixed encampment.
 
-26. Where when they were spending the time in quiet in their quarters, a
+## Chapter XXVI
+
+Where when they were spending the time in quiet in their quarters, a
 Gaul, remarkable for his size and the appearance of his arms, came
 forward; and striking his shield with his spear, after he had procured
 silence, through an interpreter he challenged any one of the Romans to
@@ -17465,7 +18206,9 @@ the tyrants of Sicily; for the farther Greece, being at that time
 wearied by intestine war, was now in dread of the power of the
 Macedonians.
 
-27. The armies being disbanded, whilst there was both peace abroad, and
+## Chapter XXVII
+
+The armies being disbanded, whilst there was both peace abroad, and
 tranquillity at home by reason of the concord of the different orders,
 lest matters might be too happy, a pestilence having attacked the state,
 compelled the senate to order the decemvirs to inspect the Sibylline
@@ -17507,7 +18250,9 @@ of money into the treasury. There are some who state that this body of
 captives consisted of slaves; and this is more probable than that
 persons who had surrendered were exposed to sale.
 
-28. Marcus Fabius Dorso and Servius Sulpicius Camerinus succeeded these
+## Chapter XXVIII
+
+Marcus Fabius Dorso and Servius Sulpicius Camerinus succeeded these
 consuls. After this the Auruncan war commenced in consequence of a
 sudden attempt at depredation: and through fear lest this act of one
 state might be the concerted scheme of the whole Latin nation, Lucius
@@ -17548,7 +18293,9 @@ the consuls were elected from the patricians, Marcus Valerius Corvus a
 third time, and Aulus Cornelius Cossus, so that it would seem that such
 was the end aimed at.
 
-29. Henceforward shall be recorded wars of greater importance, both by
+## Chapter XXIX
+
+Henceforward shall be recorded wars of greater importance, both by
 the strength of the belligerent powers, by the distance of the
 countries, or the length of time during which they were carried on. For
 in that year arms were taken up against the Samnites, a nation powerful
@@ -17577,7 +18324,9 @@ an unsuccessful fight, being driven within their walls, when the flower
 of their youth being cut down, no hope was nigh at hand, they were
 obliged to sue for aid from the Romans.
 
-30. Their ambassadors, being introduced into the senate, spoke as near
+## Chapter XXX
+
+Their ambassadors, being introduced into the senate, spoke as near
 as possible to this purport: "Conscript fathers, the Campanian state has
 sent us to you, to solicit from you friendship for ever, and present
 aid, which if we had solicited whilst our affairs were prosperous, as it
@@ -17656,7 +18405,9 @@ other may, I feel horror to think. Determine therefore about us, as
 about persons who will be your future friends and allies, or as persons
 who are to have no existence any where."
 
-31. The ambassadors then withdrawing, after the senate had been
+## Chapter XXXI
+
+The ambassadors then withdrawing, after the senate had been
 consulted, though to a great many, their city the greatest and
 wealthiest in Italy, their land the most fertile, and situated near the
 sea, seemed likely to prove a granary to the Roman people for all
@@ -17706,7 +18457,9 @@ summoned the prefects of the cohorts; and with a distinct voice
 commanded them, to proceed forthwith into the Campanian territory, in
 order to plunder it.
 
-32. The result of this embassy being reported at Rome, the care of all
+## Chapter XXXII
+
+The result of this embassy being reported at Rome, the care of all
 other concerns being laid aside, the senate, having despatched heralds
 to demand satisfaction, and, because this was not complied with, war
 being proclaimed in the usual way, they decreed that the matter should
@@ -17765,7 +18518,9 @@ undeviating line of conduct through all my successive consulships. Now,
 with respect to that which is at hand, with the aid of the gods, join
 with me in seeking a new and complete triumph over the Samnites."
 
-33. Never was a general on a more familiar footing with his soldiers, by
+## Chapter XXXIII
+
+Never was a general on a more familiar footing with his soldiers, by
 his performing all the duties among the lowest of the soldiers without
 reluctance. Moreover in the military sports, wherein equals vie with
 their equals in contests of swiftness and strength, affable and
@@ -17822,7 +18577,9 @@ their departure by night. Next day the Romans take possession of the
 deserted camp of the enemy, whither all the Campanians flocked to
 congratulate them.
 
-34. But this joy was well nigh alloyed by a great loss sustained in
+## Chapter XXXIV
+
+But this joy was well nigh alloyed by a great loss sustained in
 Samnium. For the consul Cornelius, having set out from Saticula,
 incautiously led his army into a mountainous tract, passable through a
 deep defile, and beset on all sides by the enemy; nor did he perceive
@@ -17878,7 +18635,9 @@ carefully observed, clad in a soldier's vest, the centurions whom he
 took with him being also in the attire of common soldiers, lest the
 enemy might notice the general going the round.
 
-35. Then having placed watch-guards, he commands the ticket to be issued
+## Chapter XXXV
+
+Then having placed watch-guards, he commands the ticket to be issued
 to all the rest, that when the signal had been given by the trumpet of
 the second watch, they should assemble to him in silence fully armed.
 Whither when they had assembled in silence according to the orders
@@ -17923,7 +18682,9 @@ shout. Only follow me, whom you have followed. The same fortune which
 conducted us hither, will I follow. Those of you to whom these measures
 seem salutary, come on, pass over to the right."
 
-36. They all passed over, and followed Decius as he proceeded through
+## Chapter XXXVI
+
+They all passed over, and followed Decius as he proceeded through
 the intervals which lay between the guards. They had now passed the
 middle of the camp, when a soldier, striding over the bodies of the
 watchmen as they lay asleep, occasioned a noise by striking one of their
@@ -17974,7 +18735,9 @@ great part yielded to an enemy they had not seen. Those whom the panic
 had driven within the rampart (they amounted to thirty thousand) were
 all slain; the camp was plundered.
 
-37. Matters being thus conducted, the consul, having summoned an
+## Chapter XXXVII
+
+Matters being thus conducted, the consul, having summoned an
 assembly, pronounces a panegyric on Decius, not only that which had been
 commenced on a previous occasion, but as now completed by his recent
 deserts; and besides other military gifts, he presents him with a golden
@@ -18037,7 +18800,9 @@ hundred and seventy standards, with those which had been taken in the
 camp, were brought to the consul. Then they returned to the enemy's
 camp; and there all the plunder was given up to the soldiers.
 
-38. The result of this contest obliged the Faliscians, who were on terms
+## Chapter XXXVIII
+
+The result of this contest obliged the Faliscians, who were on terms
 of a truce, to petition for a treaty of alliance from the senate; and
 diverted the Latins, who had their armies already prepared, from the
 Roman to a Pelignian war. Nor did the fame of such success confine
@@ -18081,7 +18846,9 @@ cities of Campania, and their plots had spread from Capua to the entire
 army. This abatement being given to the eagerness of their projects, the
 mutiny was set at rest for the present.
 
-39. The consul, having led out his army to the summer campaign,
+## Chapter XXXIX
+
+The consul, having led out his army to the summer campaign,
 determined, whilst he had the Samnites quiet, to purge the army by
 sending away the turbulent men; by telling some that their regular time
 had been served; that others were weighed down by years and debilitated
@@ -18141,7 +18908,9 @@ city, had they not heard that an army was coming to meet them, and that
 Marcus Valerius Corvus was nominated dictator against them, and Lucius
 Æmilius Mamercinus master of the horse.
 
-40. As soon as they came in sight and recognised the arms and standards,
+## Chapter XL
+
+As soon as they came in sight and recognised the arms and standards,
 instantly the recollection of their country softened the resentment of
 all. Not yet were they so hardy as to shed the blood of their
 countrymen, nor had they known any but foreign wars, and secession from
@@ -18210,7 +18979,9 @@ desire peace: what ought we to desire? Why do we not, renouncing
 resentment and hope, those fallacious advisers, resign ourselves and all
 our interests to his tried honour?"
 
-41. All approving with a shout, Titus Quinctius, advancing before the
+## Chapter XLI
+
+All approving with a shout, Titus Quinctius, advancing before the
 standards, declared that "the soldiers would be obedient to the
 dictator; he entreated that he would espouse the cause of his
 unfortunate countrymen, and having espoused it, he would maintain it
@@ -18242,7 +19013,9 @@ that also carried. Equally ineffectual was the demand, that some
 deductions should be made from the pay of the cavalry, (they then
 received triple,) because they had opposed the conspiracy.
 
-42. Besides these, I find in some writers that Lucius Genucius, tribune
+## Chapter XLII
+
+Besides these, I find in some writers that Lucius Genucius, tribune
 of the commons, proposed to the people, that no one should be allowed to
 practise usury; likewise provision was made by other enactments, that no
 one should fill the same office within ten years; nor hold two offices
@@ -18293,7 +19066,9 @@ neighbourhood.
      the intercession of the people. Successful expedition against the
      Samnites._
 
-1. The consuls now were Caius Plautius a second time, and Lucius Æmilius
+## Chapter I
+
+The consuls now were Caius Plautius a second time, and Lucius Æmilius
 Mamercinus; when the people of Setia and Norba came to Rome to announce
 the revolt of the Privernians, with complaints of the damages received
 by them. News were brought that the army of the Volscians, under the
@@ -18330,7 +19105,9 @@ Samnites, sought their friendship in time of peace, nor, as the
 Campanians, their assistance in time of war, and were neither in
 alliance with, nor under subjection to the Roman people."
 
-2. After the prætor Tiberius Æmilius had consulted the senate respecting
+## Chapter II
+
+After the prætor Tiberius Æmilius had consulted the senate respecting
 the demands of the Samnites, and the senate voted that the treaty should
 be renewed with them, the prætor returned this answer to the Samnites:
 "That it neither had been the fault of the Roman people that their
@@ -18376,7 +19153,9 @@ accordingly, that the Campanians, whether they wished or not, should
 remain quiet: that in the Latin treaty there was no clause by which they
 were prevented from going to war with whomsoever they pleased.
 
-3. Which answer, whilst it sent away the Samnites uncertain as to what
+## Chapter III
+
+Which answer, whilst it sent away the Samnites uncertain as to what
 conduct they were to think that the Romans would pursue, it further
 estranged the Campanians through fear; it rendered the Samnites more
 presuming, they considering that there was nothing which the Romans
@@ -18417,7 +19196,9 @@ them, that they were summoned by the Roman senate, and consult them as
 to what answer it was their wish should be given on those subjects which
 they thought would be discussed with them.
 
-4. When different persons advanced different opinions, then Annius says:
+## Chapter IV
+
+When different persons advanced different opinions, then Annius says:
 "Though I myself put the question, as to what answer it might be your
 pleasure should be given, yet I think it more concerns our general
 interest how we should act than how we should speak. Your plans being
@@ -18466,7 +19247,9 @@ promised also his aid, they all, with acclamations of assent, permitted
 him to do and say whatever might appear to him conducive to the republic
 of the Latin nation and his own honour.
 
-5. When they arrived in Rome, an audience of the senate was granted them
+## Chapter V
+
+When they arrived in Rome, an audience of the senate was granted them
 in the Capitol. There, when Titus Manlius the consul, by direction of
 the senate, required of them not to make war on their confederates the
 Samnites, Annius, as if he had taken the Capitol by arms as a victor,
@@ -18504,7 +19287,9 @@ Lucius Tarquinius subsequently concluded with you? Does not the battle
 at the Lake Regillus occur to your thoughts? Have you so forgotten your
 own calamities and our kindnesses towards you?"
 
-6. When the indignation of the senate followed these words of the
+## Chapter VI
+
+When the indignation of the senate followed these words of the
 consul, it is recorded that, in reply to the frequent appeals to the
 gods, whom the consuls frequently invoked as witnesses to the treaties,
 an expression of Annius was heard in contempt of the divinity of the
@@ -18562,7 +19347,9 @@ the same armies, and often in the same companies. Lest in consequence of
 this the soldiers should be involved in any mistake, the consuls issue
 orders that no one should fight against an enemy out of his post.
 
-7. It happened that among the other prefects of the troops, who had been
+## Chapter VII
+
+It happened that among the other prefects of the troops, who had been
 sent out in all directions to reconnoitre, Titus Manlius, the consul's
 son, came with his troop to the back of the enemy's camp, so near that
 he was scarcely distant a dart's throw from the next post. In that place
@@ -18635,7 +19422,9 @@ any funeral could be celebrated: and Manlian orders were considered with
 horror, not only for the present, but of the most austere severity for
 future times.
 
-8. The severity of the punishment however rendered the soldiers more
+## Chapter VIII
+
+The severity of the punishment however rendered the soldiers more
 obedient to the general; and besides that the guards and watches and the
 regulation of the posts were every where more strictly attended to, such
 severity was also profitable in the final struggle when they came into
@@ -18699,7 +19488,9 @@ obtained the victory over the Latin centurion. They came to an
 engagement not far from the foot of Mount Vesuvius, where the road led
 to the Veseris.
 
-9. The Roman consuls, before they marched out their armies to the field,
+## Chapter IX
+
+The Roman consuls, before they marched out their armies to the field,
 offered sacrifices. The aruspex is said to have shown to Decius the head
 of the liver wounded on the side relating to himself, in other respects
 the victim was acceptable to the gods; whilst Manlius obtained highly
@@ -18752,7 +19543,9 @@ consul's nod to rise up.
 Sabines: Lara, Vesta, Minerva, Feronia, Concord, Faith, Fortune, Chance,
 Health. See Niebuhr III. ii. 249.]
 
-10. Afterwards, as the contest proceeded, when the superior numbers of
+## Chapter X
+
+Afterwards, as the contest proceeded, when the superior numbers of
 the Latins had the advantage in some places, the consul, Manlius, on
 hearing the circumstance of his colleague's death, after he had, as was
 right and just, honoured his so glorious a death with tears, as well as
@@ -18813,7 +19606,9 @@ belonging to our own country, I deemed it not irrelevant to relate the
 particulars even in the very terms used, as they have been handed down
 and expressed.
 
-11. I find it stated in some writers, that the Samnites, having awaited
+## Chapter XI
+
+I find it stated in some writers, that the Samnites, having awaited
 the issue of the battle, came at length with support to the Romans after
 the battle was over. Also aid from Lavinium, whilst they wasted time in
 deliberating, was at length sent to the Latins after they had been
@@ -18865,7 +19660,9 @@ of Castor at Rome. The Campanian state was also enjoined to pay them a
 yearly stipend of four hundred and fifty denarii each; their number
 amounted to one thousand six hundred.
 
-12. The war being thus concluded, after rewards and punishment were
+## Chapter XII
+
+The war being thus concluded, after rewards and punishment were
 distributed according to the deserts of each, Titus Manlius returned to
 Rome: on his approach it appears that the aged only went forth to meet
 him; and that the young men, both then, and all his life after, detested
@@ -18921,7 +19718,9 @@ patricians considered that more of detriment had been sustained on that
 year from the consuls and dictator than was counterbalanced by their
 success and achievements abroad.
 
-13. On the following year, Lucius Furius Camillus and Caius Mænius were
+## Chapter XIII
+
+On the following year, Lucius Furius Camillus and Caius Mænius were
 consuls, in order that the neglect of his duty by Æmilius, the consul of
 the preceding year, might be rendered more markedly reproachful, the
 senate loudly urge that Pedum should be assailed with arms, men, and
@@ -18985,7 +19784,9 @@ was our duty to bring matters to such a pass that you may have full
 power to deliberate on every matter; yours to decide what is most
 expedient to yourselves and the commonwealth."
 
-14. The principal members of the senate applauded the consul's
+## Chapter XIV
+
+The principal members of the senate applauded the consul's
 statement of the business on the whole; but said that "as the states
 were differently circumstanced, that their plan might be readily
 adjusted so that it might be determined according to the desert of each,
@@ -19029,7 +19830,9 @@ of the Antians some were drawn up to the docks at Rome, some were
 burned, and with the prows of these a pulpit built in the forum was
 ordered to be decorated; and that temple was called Rostra.
 
-15. During the consulship of Caius Sulpicius Longus and Publius Ælius
+## Chapter XV
+
+During the consulship of Caius Sulpicius Longus and Publius Ælius
 Pætus, when the Roman power not more than the kindly feeling engendered
 by acts of kindness diffused the blessings of peace among all parties, a
 war broke out between the Sidicinians and Auruncans. The Auruncans
@@ -19061,7 +19864,9 @@ as a candidate; the senate, as they had not succeeded on that ground in
 the case of the highest offices, being less earnest with respect to the
 prætorship.
 
-16. The following year, Lucius Papirius Crassus and Kæso Duilius being
+## Chapter XVI
+
+The following year, Lucius Papirius Crassus and Kæso Duilius being
 consuls, was distinguished by a war with the Ausonians, as being new
 rather than important. This people inhabited the city Cales; they had
 united their arms with their neighbours the Sidicinians; and the army of
@@ -19110,7 +19915,9 @@ thousand five hundred men should be enrolled for that purpose, they
 appointed Kæso Duilius, Titus Quinctius, and Marcus Fabius commissioners
 for conducting the colony and distributing the land.
 
-17. The new consuls then, recovering the army from their predecessors,
+## Chapter XVII
+
+The new consuls then, recovering the army from their predecessors,
 entered the enemy's territories and carried their depredations up to the
 walls and the city. There because the Sidicinians, who had raised a
 numerous army, seemed determined to fight vigorously for their last
@@ -19147,7 +19954,9 @@ with a law introduced by the prætor, Lucius Papirius, by which the right
 of citizenship with the privilege of suffrage was conferred. These were
 the transactions at home and abroad during that year.
 
-18. The following year was disastrous, whether by the intemperature of
+## Chapter XVIII
+
+The following year was disastrous, whether by the intemperature of
 the air, or by human guilt, Marcus Claudius Marcellus and Caius Valerius
 being consuls. I find in the annals Flaccus and Potitus variously given
 as the surname of the consul; but in this it is of little consequence
@@ -19191,7 +20000,9 @@ driving the nail. Cneius Quinctilius being nominated, appointed Lucius
 Valerius master of the horse, who, as soon as the nail was driven,
 abdicated their offices.
 
-19. Lucius Papirius Crassus a second time, and Lucius Plautius Venno
+## Chapter XIX
+
+Lucius Papirius Crassus a second time, and Lucius Plautius Venno
 were elected consuls; at the commencement of which year ambassadors came
 to Rome from the Fabraternians, a Volscian people, and from the
 Lucanians, soliciting to be admitted into alliance: [promising] that if
@@ -19245,7 +20056,9 @@ in chains to Rome; and that such submission was not received by the
 senate, because they considered that the people of Fundi wished to come
 off with impunity by the punishment of needy and humble persons.
 
-20. While the siege of Privernum was being conducted by the two consular
+## Chapter XX
+
+While the siege of Privernum was being conducted by the two consular
 armies, one of the consuls was recalled to Rome, on account of the
 elections. This year gaols were first erected in the circus. While the
 attention of the public was still occupied by the Privernian war, an
@@ -19297,7 +20110,9 @@ in the neighbourhood of the Samnites, our peace with whom is exceedingly
 uncertain, I should wish, that as little ground of animosity as possible
 may be left between them and us."
 
-21. The affair naturally admitted of a diversity of opinions, each,
+## Chapter XXI
+
+The affair naturally admitted of a diversity of opinions, each,
 agreeably to his particular temper, recommending either severity or
 lenity; matters were still further perplexed by one of the Privernian
 ambassadors, more mindful of the prospects to which he had been born,
@@ -19331,7 +20146,9 @@ people, that the freedom of the state should be granted to the
 Privernians. The same year a colony of three hundred was sent to Anxur,
 and received two acres of land each.
 
-22. The year following, in which the consuls were Publius Plautius
+## Chapter XXII
+
+The year following, in which the consuls were Publius Plautius
 Proculus and Publius Cornelius Scapula, was remarkable for no one
 transaction, civil or military, except the sending of a colony to
 Fregellæ, a district which had belonged to the Sidicinians, and
@@ -19368,7 +20185,9 @@ they should attempt any movement; but a report prevailed that they,
 anxiously expecting a revolt in Campania, intended to march their troops
 thither; that was judged by Cornelius the properest station for him.
 
-23. The senate received information, from both the consuls, that there
+## Chapter XXIII
+
+The senate received information, from both the consuls, that there
 was very little hope of peace with the Samnites. Publilius informed
 them, that two thousand soldiers from Nolæ, and four thousand of the
 Samnites, had been received into Palæpolis, a measure rather forced on
@@ -19440,7 +20259,9 @@ Cursor, as I find him named in some annals.
 reckoned inauspicious; hence _silentium_ signified among the augurs,
 every circumstance being favourable.]
 
-24. It has been recorded, that in this year Alexandria in Egypt was
+## Chapter XXIV
+
+It has been recorded, that in this year Alexandria in Egypt was
 founded; and that Alexander, king of Epirus, being slain by a Lucanian
 exile, verified in the circumstances of his death the prediction of
 Jupiter of Dodona. At the time when he was invited into Italy by the
@@ -19511,7 +20332,9 @@ This year, the fifth time since the building of the city, the
 lectisternium was performed at Rome for procuring the favour of the same
 deities to whom it was addressed before.
 
-25. When the new consuls had, by order of the people, sent persons to
+## Chapter XXV
+
+When the new consuls had, by order of the people, sent persons to
 declare war against the Samnites, and they themselves were making all
 preparations with greater energy than against the Greeks, a new
 accession of strength also came to them when expecting no such thing.
@@ -19558,7 +20381,9 @@ soldiers, with which he was to seize on that part of the city which was
 possessed by the Samnites; this detachment was commanded by Lucius
 Quinctius, military tribune.
 
-26. At the same time also, Nymphius, on his part, artfully addressing
+## Chapter XXVI
+
+At the same time also, Nymphius, on his part, artfully addressing
 himself to the commander of the Samnites, prevailed upon him, as all the
 troops of the Romans were employed either about Palæpolis or in Samnium,
 to allow him to sail round with the fleet to the territory of Rome,
@@ -19593,7 +20418,9 @@ incidents, which never before occurred in any case, befell this man: a
 prolongation of command never before granted to any one; and a triumph
 after the expiration of his office.
 
-27. Another war soon after arose with the Greeks of the other coast. For
+## Chapter XXVII
+
+Another war soon after arose with the Greeks of the other coast. For
 the Tarentines having, for a considerable time, buoyed up the state of
 Palæpolis with delusive hopes of assistance, when they understood that
 the Romans had gotten possession of that city, as if they were the
@@ -19635,7 +20462,9 @@ the false charges removing to Tarentum, the whole imposition came to
 light. But as they had given all power out of their own hands, nothing
 was left them but unavailing repentance.
 
-28. This year there arose, as it were, a new era of liberty to the Roman
+## Chapter XXVIII
+
+This year there arose, as it were, a new era of liberty to the Roman
 commons; in this that a stop was put to the practice of confining
 debtors. This alteration of the law was effected in consequence of the
 lust and signal cruelty of one usurer. His name was Lucius Papirius. To
@@ -19667,7 +20496,9 @@ person, should be answerable. Thus the confined debtors were released;
 and provision made, for the time to come, that they should not be liable
 to confinement.
 
-29. In the course of this year, while the war with the Samnites was
+## Chapter XXIX
+
+In the course of this year, while the war with the Samnites was
 sufficient in itself to give full employment to the senate, besides the
 sudden defection of the Lucanians, and the Tarentines, the promoters of
 the defection, [another source of uneasiness] was added in a union
@@ -19717,7 +20548,9 @@ Cingilia. The spoil of both cities he gave to the soldiers, in
 consideration of their having bravely surmounted the obstruction both of
 gates and walls.
 
-30. The commanders entered Samnium under uncertain auspices; an
+## Chapter XXX
+
+The commanders entered Samnium under uncertain auspices; an
 informality which pointed, not at the event of war, for that was
 prosperous, but at the furious passions and the quarrels which broke out
 between the leaders. For Papirius the dictator, returning to Rome in
@@ -19768,7 +20601,9 @@ city before him, who brought intelligence that the dictator was coming,
 eager for vengeance, and in almost every second sentence applauding the
 conduct of Titus Manlius.
 
-31. Fabius instantly called an assembly, and entreated the soldiers to
+## Chapter XXXI
+
+Fabius instantly called an assembly, and entreated the soldiers to
 "show the same courage in protecting him, under whose conduct and
 auspices they had conquered, from the outrageous cruelty of the
 dictator, which they had so lately displayed in defending the
@@ -19807,7 +20642,9 @@ interested themselves in the safety of one, it would bend his temper to
 milder counsels. In fine," he told them, "that he committed his life,
 and all his interests, to their honour and to their courage."
 
-32. His speech was received with the loudest acclamations from every
+## Chapter XXXII
+
+His speech was received with the loudest acclamations from every
 part of the assembly, bidding him "have courage; for while the Roman
 legions were in being, no man should offer him violence." Not long
 after, the dictator arrived, and instantly summoned an assembly by sound
@@ -19872,7 +20709,9 @@ acted from motives of regard to Quintus Fabius, they were ready to make
 oath that, in their judgment, it was not for the interest of the
 commonwealth that Quintus Fabius should be punished at that time."
 
-33. When by these expostulations they rather irritated the dictator
+## Chapter XXXIII
+
+When by these expostulations they rather irritated the dictator
 against themselves, than appeased his anger against the master of the
 horse, the lieutenants-general were ordered to go down from the
 tribunal; and after several vain attempts were made to procure silence
@@ -19955,7 +20794,9 @@ among their enemies!" This speech he accompanied with an abundant flow
 of tears; uniting reproaches and complaints, imploring the aid both of
 gods and men, and warmly embracing his son.
 
-34. On his side stood the majesty of the senate, the favour of the
+## Chapter XXXIV
+
+On his side stood the majesty of the senate, the favour of the
 people, the support of the tribunes, and regard for the absent army. On
 the other side were urged the inviolable authority of the Roman
 government and military discipline; the edict of the dictator, always
@@ -19997,7 +20838,9 @@ of the commons, accountable for all these evils to all future ages.
 Expose your own persons to these heavy imputations in defence of the
 licentious conduct of Quintus Fabius."
 
-35. The tribunes now confounded, and more anxiously concerned at their
+## Chapter XXXV
+
+The tribunes now confounded, and more anxiously concerned at their
 own situation than at his for whom their support was sought, were freed
 from this embarrassment by the Roman people unanimously having recourse
 to prayers and entreaties, that the dictator would, for their sakes,
@@ -20042,7 +20885,9 @@ incensed against him because he had been implacable towards Quintus
 Fabius, and because he had granted him pardon at the intercession of the
 Roman people, a thing which he had refused to their entreaties.
 
-36. The dictator, having appointed Lucius Papirius Crassus, as master of
+## Chapter XXXVI
+
+The dictator, having appointed Lucius Papirius Crassus, as master of
 the horse, to the command of the city, and prohibited Quintus Fabius
 from acting in any case as magistrate, returned to the camp; where his
 arrival brought neither any great joy to his countrymen, nor any degree
@@ -20085,7 +20930,9 @@ senate, they answered, that they would follow the dictator, committing
 their cause wholly to his integrity and honour. On this the troops were
 withdrawn out of Samnium.
 
-37. The dictator entered the city in triumph; and, though desirous of
+## Chapter XXXVII
+
+The dictator entered the city in triumph; and, though desirous of
 resigning his office immediately, yet, by order of the senate, he held
 it until the consuls were elected: these were Caius Sulpicius Longus a
 second time, and Quintus Æmilius Cerretanus. The Samnites, without
@@ -20129,7 +20976,9 @@ the Tusculans down to the age of our fathers; and that hardly any
 candidate of the Pollian tribe could, ever since, gain the votes of the
 Papirian.
 
-38. On the following year, in the consulate of Quintus Fabius and Lucius
+## Chapter XXXVIII
+
+On the following year, in the consulate of Quintus Fabius and Lucius
 Fulvius, Aulus Cornelius Arvina being made dictator, and Marcus Fabius
 Ambustus master of the horse, a levy being held with more than usual
 rigour in consequence of their apprehension of a very serious war in
@@ -20193,7 +21042,9 @@ their horses with spoil, and unarmed, put them to the sword, and make it
 bloody spoil for them. I will take care of the legions, and the fight of
 the infantry: yours be the honour which the horse shall acquire."
 
-39. The body of cavalry, in the most exact order possible, charging the
+## Chapter XXXIX
+
+The body of cavalry, in the most exact order possible, charging the
 enemy, who were straggling and embarrassed, filled every place with
 slaughter: for amid the packages which they hastily threw down, and
 which lay in the way of their feet, and of the affrighted horses, as
@@ -20244,7 +21095,9 @@ were accepted, except the prisoners, and such articles of the spoil as
 were recognised by the owners. The dictator obtained a triumph by a
 decree of the senate.
 
-40. Some writers affirm, that this war was conducted by the consuls, and
+## Chapter XL
+
+Some writers affirm, that this war was conducted by the consuls, and
 that they triumphed over the Samnites; and also, that Fabius advanced
 into Apulia, and carried off from thence abundance of spoil. But that
 Aulus Cornelius was dictator that year is an undisputed fact. The
@@ -20262,10 +21115,6 @@ itself the fame of warlike exploits and public honours. From this cause,
 certainly, both the actions of individuals and the public records of
 events have been confused. Nor is there extant any writer, contemporary
 with those events, on whose authority we can with certainty rely.
-
-## End of Vol. I
-
-## John Childs and Son, Bungay
 
 ---
 

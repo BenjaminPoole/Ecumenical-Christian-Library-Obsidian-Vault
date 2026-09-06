@@ -42,7 +42,9 @@ opening citation above.
 
 ## Book V. The Fifth Book of the Histories, Called Terpsichore
 
-1. In the meantime those of the Persians who had been left behind in
+## Chapter 1
+
+In the meantime those of the Persians who had been left behind in
 Europe by Dareios, of whom Megabazos was the commander, had subdued the
 people of Perinthos first of the Hellespontians, since they refused to
 be subject to Dareios. These had in former times also been hardly dealt
@@ -64,7 +66,9 @@ Paionians attacked the Perinthians when they had raised the shout of
 paion, and they had much the better in the fight, and left but few of
 them alive.
 
-2. Thus it happened with respect to those things which had been done to
+## Chapter 2
+
+Thus it happened with respect to those things which had been done to
 them in former times by the Paionians; and at this time, although the
 Perinthians proved themselves brave men in defence of their freedom,
 the Persians and Megabazos got the better of them by numbers. Then after
@@ -73,7 +77,9 @@ length of Thracia, forcing every city and every race of those who
 dwell there to submit to the king, for so it had been commanded him by
 Dareios, to subdue Thracia.
 
-3. Now the Thracian race is the most numerous, except the Indians, in
+## Chapter 3
+
+Now the Thracian race is the most numerous, except the Indians, in
 all the world: and if it should come to be ruled over by one man, or
 to agree together in one, it would be irresistible in fight and the
 strongest by far of all nations, in my opinion. Since however this is
@@ -83,7 +89,9 @@ various tribes in different places; but they all follow customs which
 are nearly the same in all respects, except the Getai and Trausians and
 those who dwell above the Crestonians.
 
-4. Of these the practices of the Getai, who believe themselves to be
+## Chapter 4
+
+Of these the practices of the Getai, who believe themselves to be
 immortal, have been spoken of by me already: 3 and the Trausians perform
 everything else in the same manner as the other Thracians, but in regard
 to those who are born and die among them they do as follows:--when
@@ -94,7 +102,9 @@ when a man is dead, they cover him up in the earth with sport and
 rejoicing, saying at the same time from what great evils he has escaped
 and is now in perfect bliss.
 
-5. Those who dwell above the Crestonians do as follows:--each man has
+## Chapter 5
+
+Those who dwell above the Crestonians do as follows:--each man has
 many wives, and when any man of them is dead, a great competition takes
 place among his wives, with much exertion on the part of their friends,
 about the question of which of them was most loved by their husband; and
@@ -104,7 +114,9 @@ nearest of kin, and afterwards she is buried together with her husband;
 and the others are exceedingly grieved at it, for this is counted as the
 greatest reproach to them.
 
-6. Of the other Thracians the custom is to sell their children to be
+## Chapter 6
+
+Of the other Thracians the custom is to sell their children to be
 carried away out of the country; and over their maidens they do not keep
 watch, but allow them to have commerce with whatever men they please,
 but over their wives they keep very great watch; and they buy their
@@ -114,12 +126,16 @@ sign of low birth. 4 Not to work is counted most honourable, and to be a
 worker of the soil is above all things dishonourable: to live on war and
 plunder is the most honourable thing.
 
-7. These are their most remarkable customs; and of the gods they worship
+## Chapter 7
+
+These are their most remarkable customs; and of the gods they worship
 only Ares and Dionysos and Artemis. Their kings, however, apart from the
 rest of the people, worship Hermes more than all gods, and swear by him
 alone; and they say that they are descended from Hermes.
 
-8. The manner of burial for the rich among them is this:--for three days
+## Chapter 8
+
+The manner of burial for the rich among them is this:--for three days
 they expose the corpse to view, and they slay all kinds of victims
 and feast, having first made lamentation. Then they perform the burial
 rites, either consuming the body with fire or covering it up in the
@@ -128,7 +144,9 @@ they celebrate games with every kind of contest, in which reasonably the
 greatest prizes are assigned for single combat. 5 This is the manner of
 burial among the Thracians.
 
-9. Of the region lying further on towards the North of this country
+## Chapter 9
+
+Of the region lying further on towards the North of this country
 no one can declare accurately who the men are who dwell in it; but the
 parts which lie immediately beyond the Ister are known to be uninhabited
 and vast in extent. The only men of whom I can hear who dwell beyond
@@ -145,7 +163,9 @@ everything is possible in the long course of ages. However that may be,
 the Ligurians who dwell in the region inland above Massalia call traders
 sigynnai, and the men of Cyprus give the same name to spears.
 
-10. Now the Thracians say that the other side of the Ister is occupied
+## Chapter 10
+
+Now the Thracians say that the other side of the Ister is occupied
 by bees, and that by reason of them it is not possible to pass through
 and proceed further: but to me it seems that when they so speak, they
 say that which is not probable; for these creatures are known to be
@@ -155,7 +175,9 @@ then are the tales reported about this country; and however that may
 be, Megabazos was then making the coast-regions of it subject to the
 Persians.
 
-11. Meanwhile Dareios, so soon as he had crossed over the Hellespont and
+## Chapter 11
+
+Meanwhile Dareios, so soon as he had crossed over the Hellespont and
 come to Sardis, called to mind the service rendered to him by Histiaios
 the Milesian and also the advice of the Mytilenian Coës, and having
 sent for them to come to Sardis he offered them a choice of rewards.
@@ -165,7 +187,9 @@ Myrkinos which belonged to the Edonians, desiring there to found a city.
 Histiaios chose this for himself; but Coës, not being a despot but a man
 of the people, asked to be made despot of Mitylene.
 
-12. After the desires of both had been fulfilled, they betook themselves
+## Chapter 12
+
+After the desires of both had been fulfilled, they betook themselves
 to that which they had chosen: and at this same time it chanced that
 Dareios saw a certain thing which made him desire to command Megabazos
 to conquer the Paionians and remove them forcibly from Europe into Asia:
@@ -188,7 +212,9 @@ water, she passed along by the same way, bearing the water upon her
 head, leading the horse after her by a bridle round her arm, and at the
 same time turning the spindle.
 
-13. Then Dareios, marvelling both at that which he heard from those who
+## Chapter 13
+
+Then Dareios, marvelling both at that which he heard from those who
 went to observe and also at that which he saw himself, bade them bring
 her into his presence: and when she was brought, her brothers also came,
 who had been watching these things at no great distance off. So then
@@ -205,7 +231,9 @@ industrious as their sister; and they very readily replied to this also,
 saying that it was so, for it was with a view to that very thing that
 they had been doing this.
 
-14. Then Dareios wrote a letter to Megabazos, whom he had left to
+## Chapter 14
+
+Then Dareios wrote a letter to Megabazos, whom he had left to
 command his army in Thrace, bidding him remove the Paionians from their
 place of habitation and bring them to the king, both themselves and
 their children and their wives. Then forthwith a horseman set forth to
@@ -214,7 +242,9 @@ over to the other side he gave the paper to Megabazos. So he having
 read it and having obtained guides from Thrace, set forth to march upon
 Paionia:
 
-15. and the Paionians, being informed that the Persians were coming
+## Chapter 15
+
+and the Paionians, being informed that the Persians were coming
 against them, gathered all their powers together and marched out in the
 direction of the sea, supposing that the Persians when they invaded them
 would make their attack on that side. The Paionians then were prepared,
@@ -231,7 +261,9 @@ happened that these tribes of the Paionians, namely the Siropaionians,
 6 the Paioplians and all up to the lake Prasias, were removed from their
 place of habitation and brought to Asia;
 
-16. but those who dwell about mount Pangaion, and about the Doberians
+## Chapter 16
+
+but those who dwell about mount Pangaion, and about the Doberians
 and Agrianians and Odomantians, 7 and about the lake Prasias itself,
 were not conquered at all by Megabazos. He tried however to remove even
 those who lived in the lake and who had their dwellings in the following
@@ -253,7 +285,9 @@ an empty basket by a cord into the lake, after waiting quite a short
 time he draws it up again full of fish. Of the fish there are two kinds,
 and they call them paprax and tilon.
 
-17. So then those of the Paionians who had been conquered were being
+## Chapter 17
+
+So then those of the Paionians who had been conquered were being
 brought to Asia: and Megabazos meanwhile, after he had conquered the
 Paionians, sent as envoys to Macedonia seven Persians, who after himself
 were the men of most repute in the army. These were being sent to
@@ -264,7 +298,9 @@ came in regularly a talent of silver every day to Alexander; and after
 the mine, when you have passed over the mountain called Dysoron, you are
 in Macedonia.
 
-18. These Persians then, who had been sent to Amyntas, having arrived
+## Chapter 18
+
+These Persians then, who had been sent to Amyntas, having arrived
 came into the presence of Amyntas and proceeded to demand earth and
 water for king Dareios. This he was willing to give, and also he invited
 them to be his guests; and he prepared a magnificent dinner and received
@@ -289,7 +325,9 @@ bade them sit by the side of the Persians; and when the women obeyed,
 forthwith the Persians, being much intoxicated, began to touch their
 breasts, and some no doubt also tried to kiss them.
 
-19. Amyntas seeing this kept quiet, notwithstanding that he felt anger,
+## Chapter 19
+
+Amyntas seeing this kept quiet, notwithstanding that he felt anger,
 because he excessively feared the Persians; but Alexander the son
 of Amyntas, who was present and saw this, being young and without
 experience of calamity was not able to endure any longer; but being
@@ -304,7 +342,9 @@ do violence to these men, that it may not be our ruin, but endure to see
 that which is being done: as to my departure, however, in that I will do
 as thou sayest."
 
-20. When Amyntas after having made of him this request had departed,
+## Chapter 20
+
+When Amyntas after having made of him this request had departed,
 Alexander said to the Persians: "With these women ye have perfect
 freedom, guests, to have commerce with all, if ye so desire, or with as
 many of them as ye will. About this matter ye shall be they who give the
@@ -329,7 +369,9 @@ bed." Having thus said Alexander caused a Macedonian man in the guise of
 a woman to sit by each Persian, and they, when the Persians attempted to
 lay hands on them, slew them.
 
-21. So these perished by this fate, both they themselves and their
+## Chapter 21
+
+So these perished by this fate, both they themselves and their
 company of servants; for there came with them carriages and servants and
 all the usual pomp of equipage, and this was all made away with at the
 same time as they. Afterwards in no long time a great search was made by
@@ -339,7 +381,9 @@ Gygaia;--by giving, I say, these things to Bubares a Persian, commander
 of those who were searching for the men who had been killed, Alexander
 stopped their search.
 
-22. Thus the death of these Persians was kept concealed. And that these
+## Chapter 22
+
+Thus the death of these Persians was kept concealed. And that these
 descendants of Perdiccas are Hellenes, as they themselves say, I happen
 to know myself, and not only so, but I will prove in the succeeding
 history that they are Hellenes. 10 Moreover the Hellanodicai, who manage
@@ -351,7 +395,9 @@ for Hellenes: since however Alexander proved that he was of Argos,
 he was judged to be a Hellene, and when he entered the contest of the
 foot-race his lot came out with that of the first. 11
 
-23. Thus then it happened with regard to these things: and at the same
+## Chapter 23
+
+Thus then it happened with regard to these things: and at the same
 time Megabazos had arrived at the Hellespont bringing with him the
 Paionians; and thence after passing over the straits he came to Sardis.
 Then, since Histiaios the Milesian was already engaged in fortifying
@@ -371,7 +417,9 @@ in a domestic war: and stop him by sending for him in a courteous
 manner; but when thou hast got him in thy hands, then cause that he
 shall never again return to the land of the Hellenes."
 
-24. Thus saying Megabazos easily persuaded Dareios, who thought that he
+## Chapter 24
+
+Thus saying Megabazos easily persuaded Dareios, who thought that he
 was a true prophet of that which was likely to come to pass: and
 upon that Dareios sent a messenger to Myrkinos and said as follows:
 "Histiaios, king Dareios saith these things:--By taking thought I find
@@ -395,7 +443,9 @@ Miletos alone and also thy newly-founded city in Thracia, and coming
 with me to Susa, have whatsoever things I have, eating at my table and
 being my counseller."
 
-25. Thus said Dareios, and having appointed Artaphrenes 12 his own
+## Chapter 25
+
+Thus said Dareios, and having appointed Artaphrenes 12 his own
 brother and the son of his father to be governor of Sardis, he marched
 away to Susa taking with him Histiaios, after he had first named Otanes
 to be commander of those who dwelt along the sea coasts. This man's
@@ -408,14 +458,18 @@ them in the seat, Cambyses appointed the son of that Sisamnes whom he
 had slain and flayed, to be judge instead of his father, enjoining him
 to remember in what seat he was sitting to give judgment.
 
-26. This Otanes then, who was made to sit in that seat, had now
+## Chapter 26
+
+This Otanes then, who was made to sit in that seat, had now
 become the successor of Megabazos in the command: and he conquered the
 Byzantians and Calchedonians, and he conquered Antandros in the land
 of Troas, and Lamponion; and having received ships from the Lesbians
 he conquered Lemnos and Imbros, which were both at that time still
 inhabited by Pelasgians.
 
-27. Of these the Lemnians fought well, and defending themselves for a
+## Chapter 27
+
+Of these the Lemnians fought well, and defending themselves for a
 long time were at length brought to ruin; 13 and over those of them
 who survived the Persians set as governor Lycaretos the brother of that
 Maiandrios who had been king of Samos. This Lycaretos ruled in Lemnos
@@ -424,7 +478,9 @@ reduce all to slavery and subdue them, accusing some of desertion to the
 Scythians and others of doing damage to the army of Dareios as it was
 coming back from Scythia.
 
-28. Otanes then effected so much when he was made commander: and after
+## Chapter 28
+
+Otanes then effected so much when he was made commander: and after
 this for a short time there was an abatement 15 of evils; and then again
 evils began a second time to fall upon the Ionians, arising from Naxos
 and Miletos. For Naxos was superior to all the other islands in wealth,
@@ -434,7 +490,9 @@ for two generations of men it had been afflicted most violently by
 faction until the Parians reformed it; for these the Milesians chose of
 all the Hellenes to be reformers of their State.
 
-29. Now the Parians thus reconciled their factions:--the best men of
+## Chapter 29
+
+Now the Parians thus reconciled their factions:--the best men of
 them came to Miletos, and seeing that the Milesians were in a grievously
 ruined state, they said that they desired to go over their land: and
 while doing this and passing through the whole territory of Miletos,
@@ -448,7 +506,9 @@ would take care of the public affairs as they had taken care of their
 own: and the rest of the Milesians, who before had been divided by
 factions, they commanded to be obedient to these men.
 
-30. The Parians then had thus reformed the Milesians; but at the time of
+## Chapter 30
+
+The Parians then had thus reformed the Milesians; but at the time of
 which I speak evils began to come to Ionia from these States 17 in the
 following manner:--From Naxos certain men of the wealthier class 18 were
 driven into exile by the people, and having gone into exile they
@@ -479,7 +539,9 @@ expectation that when they should appear at Naxos, the Naxians would do
 all their bidding, and likewise also the other islanders. For of these
 islands, that is the Cyclades, not one was as yet subject to Dareios.
 
-31. Aristagoras accordingly having arrived at Sardis, said to
+## Chapter 31
+
+Aristagoras accordingly having arrived at Sardis, said to
 Artaphrenes that Naxos was an island not indeed large in size, but fair
 nevertheless and of fertile soil, as well as near to Ionia, and that
 there was in it much wealth and many slaves: "Do thou therefore send an
@@ -499,7 +561,9 @@ there shall be prepared for thee two hundred by the beginning of the
 spring. And it is right that the king himself also should join in
 approving this matter."
 
-32. So Aristagoras hearing this went back to Miletos greatly rejoiced;
+## Chapter 32
+
+So Aristagoras hearing this went back to Miletos greatly rejoiced;
 and Artaphrenes meanwhile, when he had sent to Susa and communicated
 that which was said by Aristagoras, and Dareios himself also had joined
 in approving it, made ready two hundred triremes and a very great
@@ -511,7 +575,9 @@ betrothed himself, having formed a desire to become a despot of Hellas.
 Having appointed Megabates, I say, to be commander, Artaphrenes sent
 away the armament to Aristagoras.
 
-33. So when Megabates had taken force together with the Naxians, he
+## Chapter 33
+
+So when Megabates had taken force together with the Naxians, he
 sailed with the pretence of going to the Hellespont; but when he came
 to Chios, he directed his ships to Caucasa, in order that he might from
 thence pass them over to Naxos with a North Wind. Then, since it was
@@ -534,7 +600,9 @@ concern thee not?" Thus said Aristagoras; and the other being enraged at
 this, when night came on sent men in a ship to Naxos to declare to the
 Naxians all the danger that threatened them.
 
-34. For the Naxians were not at all expecting that this expedition
+## Chapter 34
+
+For the Naxians were not at all expecting that this expedition
 would be against them: but when they were informed of it, forthwith
 they brought within the wall the property which was in the fields, and
 provided for themselves food and drink as for a siege, and strengthened
@@ -547,7 +615,9 @@ only that, but Aristagoras himself had spent much in addition, and
 the siege demanded ever more and more, they built walls for the Naxian
 exiles and departed to the mainland again with ill success.
 
-35. And so Aristagoras was not able to fulfil his promise to
+## Chapter 35
+
+And so Aristagoras was not able to fulfil his promise to
 Artaphrenes; and at the same time he was hard pressed by the demand made
 to him for the expenses of the expedition, and had fears because of
 the ill success of the armament and because he had become an enemy of
@@ -569,7 +639,9 @@ great hopes then that if a revolt occurred he would be let go to
 the sea-coast; but if no change was made at Miletos 2001 he had no
 expectation of ever returning thither again.
 
-36. Accordingly Histiaios with this intention was sending the messenger;
+## Chapter 36
+
+Accordingly Histiaios with this intention was sending the messenger;
 and it chanced that all these things happened to Aristagoras together at
 the same time. He took counsel therefore with his partisans, declaring
 to them both his own opinion and the message from Histiaios; and while
@@ -592,7 +664,9 @@ of them should sail to Myus, to make the force which had returned from
 Naxos and was then there, and endeavour to seize the commanders who
 sailed in the ships.
 
-37. So Iatragoras was sent for this purpose and seized by craft Oliatos
+## Chapter 37
+
+So Iatragoras was sent for this purpose and seized by craft Oliatos
 the son of Ibanollis of Mylasa, and Histiaios the son of Tymnes of
 Termera, and Coës the son of Erxander, to whom Dareios had given
 Mytilene as a gift, and Aristagoras the son of Heracleides of Kyme, and
@@ -606,7 +680,9 @@ which had sailed with him to Naxis, these he surrendered, because he
 desired to do a pleasure to their cities, delivering them over severally
 to that city from which each one came.
 
-38. Now the men of Mitylene, so soon as they received Coës into their
+## Chapter 38
+
+Now the men of Mitylene, so soon as they received Coës into their
 hands, brought him out and stoned him to death; but the men of Kyme let
 their despot go, and so also most of the others let them go. Thus then
 the despots were deposed in the various cities; and Aristagoras the
@@ -615,7 +691,9 @@ commanders in their several cities, and then himself set forth as an
 envoy to Lacedemon; for in truth it was necessary that he should find
 out some powerful alliance.
 
-39. Now at Sparta Anaxandrides the son of Leon was no longer surviving
+## Chapter 39
+
+Now at Sparta Anaxandrides the son of Leon was no longer surviving
 as king, but had brought his life to an end; and Cleomenes the son of
 Anaxandrides was holding the royal power, not having obtained it by
 merit but by right of birth. For Anaxandrides had to wife his own
@@ -631,7 +709,9 @@ not give him honourable counsel, in that they advised him to send away
 the wife whom he had, though she had done him no wrong, and to take to
 his house another; and in short he would not follow their advice.
 
-40. Upon this the Ephors and the Senators deliberated together and
+## Chapter 40
+
+Upon this the Ephors and the Senators deliberated together and
 proposed to Anaxandrides as follows: "Since then we perceive that thou
 art firmly attached to the wife whom thou now hast, consent to do this,
 and set not thyself against it, lest the Spartans take some counsel
@@ -642,7 +722,9 @@ addition to this one, to bear thee children." When they spoke to him
 after this manner, Anaxandrides consented, having two wives, a thing
 which was not by any means after the Spartan fashion.
 
-41. Then when no long time had elapsed, the wife who had come in
+## Chapter 41
+
+Then when no long time had elapsed, the wife who had come in
 afterwards bore this Cleomenes of whom we spoke; and just when she was
 bringing to the light an heir to the kingdom of the Spartans, the former
 wife, who had during the time before been childless, then by some means
@@ -659,7 +741,9 @@ who had born Cleomenes and had come in after the first wife, being
 the daughter of Primetades the son of Demarmenos, did not bear a child
 again.
 
-42. Now Cleomenes, it is said, was not quite in his right senses but on
+## Chapter 42
+
+Now Cleomenes, it is said, was not quite in his right senses but on
 the verge of madness, 24 while Dorieos was of all his equals in age
 the first, and felt assured that he would obtain the kingdom by merit.
 Seeing then that he had this opinion, when Anaxandrides died and the
@@ -676,7 +760,9 @@ river; but afterwards in the third year he was driven out from thence
 by the Macai and the Libyans 26 and the Carthaginians, and returned to
 Peloponnesus.
 
-43. Then Antichares a man of Eleon gave him counsel out of the oracles
+## Chapter 43
+
+Then Antichares a man of Eleon gave him counsel out of the oracles
 of Laïos to make a settlement at Heracleia 27 in Sicily, saying that the
 whole land of Eryx belonged to the Heracleidai, since Heracles himself
 had won it: and hearing this he went forthwith to Delphi to inquire of
@@ -685,7 +771,9 @@ setting forth; and the Pythian prophetess replied to him that he would
 conquer it. Dorieos therefore took with him the armament which he
 conducted before to Libya, and voyaged along the coast of Italy. 28
 
-44. Now at this time, the men of Sybaris say that they and their king
+## Chapter 44
+
+Now at this time, the men of Sybaris say that they and their king
 Telys were about to make an expedition against Croton, and the men of
 Croton being exceedingly alarmed asked Dorieos to help them and obtained
 their request. So Dorieos joined them in an expedition against Sybaris
@@ -697,7 +785,9 @@ the following manner:--he ran away, they say, from Telys the despot of
 the Sybarites, when the sacrifices did not prove favourable, as he was
 sacrificing for the expedition against Croton, and so he came to them.
 
-45. Such, I say, are the tales which these tell, and they severally
+## Chapter 45
+
+Such, I say, are the tales which these tell, and they severally
 produce as evidence of them the following facts:--the Sybarites point
 to a sacred enclosure and temple by the side of the dried-up bed of
 the Crathis, 29 which they say that Dorieos, after he had joined in the
@@ -717,7 +807,9 @@ many times as much, they say, would have been given to him as to
 Callias. These then are the evidences which the two sides produce, and
 we may assent to whichever of them we think credible.
 
-46. Now there sailed with Dorieos others also of the Spartans, to be
+## Chapter 46
+
+Now there sailed with Dorieos others also of the Spartans, to be
 joint-founders with him of the colony, namely Thessalos and Paraibates
 and Keleas and Euryleon; and these when they had reached Sicily with all
 their armament, were slain, being defeated in battle by the Phenicians
@@ -731,7 +823,9 @@ time; for the men of Selinus rose in revolt against him and slew
 him, notwithstanding that he had fled for refuge to the altar of Zeus
 Agoraios. 30
 
-47. There had accompanied Dorieos also and died with him Philip the
+## Chapter 47
+
+There had accompanied Dorieos also and died with him Philip the
 son of Butakides, a man of Croton, who having betrothed himself to the
 daughter of Telys the Sybarite, became an exile from Croton; and then
 being disappointed of this marriage he sailed away to Kyrene, whence
@@ -743,12 +837,16 @@ men of Egesta that which none else ever obtained from them, for they
 established a hero-temple over his tomb, and they propitiate him still
 with sacrifices.
 
-48. In this manner Dorieos ended his life: but if he had endured to be a
+## Chapter 48
+
+In this manner Dorieos ended his life: but if he had endured to be a
 subject of Cleomenes and had remained in Sparta, he would have been king
 of Lacedemon; for Cleomenes reigned no very long time, and died leaving
 no son to succeed him but a daughter only, whose name was Gorgo.
 
-49. However, Aristagoras the despot of Miletos arrived at Sparta while
+## Chapter 49
+
+However, Aristagoras the despot of Miletos arrived at Sparta while
 Cleomenes was reigning: and accordingly with him he came to speech,
 having, as the Lacedemonians say, a tablet of bronze, on which was
 engraved a map 31 of the whole Earth, with all the sea and all the
@@ -797,7 +895,9 @@ the rule over all Asia?" Aristagoras spoke thus, and Cleomenes answered
 him saying: "Guest-friend from Miletos, I defer my answer to thee until
 the day after to-morrow." 37
 
-50. Thus far then they advanced at that time; and when the appointed
+## Chapter 50
+
+Thus far then they advanced at that time; and when the appointed
 day arrived for the answer, and they had come to the place agreed upon,
 Cleomenes asked Aristagoras how many days' journey it was from the sea
 of the Ionians to the residence of the king. Now Aristagoras, who in
@@ -811,7 +911,9 @@ Sparta before the sun has set; for thou speakest a word which sounds not
 well in the ears of the Lacedemonians, desiring to take them a journey
 of three months from the sea."
 
-51. Cleomenes accordingly having so said went away to his house:
+## Chapter 51
+
+Cleomenes accordingly having so said went away to his house:
 but Aristagoras took the suppliant's branch and went to the house of
 Cleomenes; and having entered in as a suppliant, he bade Cleomenes send
 away the child and listen to him; for the daughter of Cleomenes was
@@ -829,7 +931,9 @@ another room, and Aristagoras went away from Sparta altogether, and had
 no opportunity of explaining any further about the way up from the sea
 to the residence of the king.
 
-52. As regards this road the truth is as follows.--Everywhere there are
+## Chapter 52
+
+As regards this road the truth is as follows.--Everywhere there are
 royal stages 39 and excellent resting-places, and the whole road runs
 through country which is inhabited and safe. Through Lydia and Phrygia
 there extend twenty stages, amounting to ninety-four and a half leagues;
@@ -858,7 +962,9 @@ to the river Choaspes, which is also a navigable stream; and upon this
 is built the city of Susa. The number of these stages amounts in all to
 one hundred and eleven.
 
-53. This is the number of stages with resting-places, as one goes up
+## Chapter 53
+
+This is the number of stages with resting-places, as one goes up
 from Sardis to Susa: and if the royal road has been rightly measured as
 regards leagues, and if the league 45 is equal to thirty furlongs, 46
 (as undoubtedly it is), the number of furlongs from Sardis to that which
@@ -867,7 +973,9 @@ number of leagues being four hundred and fifty. So if one travels a
 hundred and fifty furlongs each day, just ninety days are spent on the
 journey. 47
 
-54. Thus the Milesian Aristagoras, when he told Cleomenes the
+## Chapter 54
+
+Thus the Milesian Aristagoras, when he told Cleomenes the
 Lacedemonian that the journey up from the sea to the residence of the
 king was one of three months, spoke correctly: but if any one demands
 a more exact statement yet than this, I will give him that also: for we
@@ -878,7 +986,9 @@ is fourteen thousand and forty; for the number of furlongs from Ephesos
 to Sardis is five hundred and forty: thus the three months' journey is
 lengthened by three days added.
 
-55. Aristagoras then being driven out of Sparta proceeded to Athens;
+## Chapter 55
+
+Aristagoras then being driven out of Sparta proceeded to Athens;
 which had been set free from the rule of despots in the way which I
 shall tell.--When Hipparchos the son of Peisistratos and brother of the
 despot Hippias, after seeing a vision of a dream which signified it to
@@ -887,7 +997,9 @@ originally by descent Gephyraians, the Athenians continued for
 four years after this to be despotically governed no less than
 formerly,--nay, even more.
 
-56. Now the vision of a dream which Hipparchos had was this:--in the
+## Chapter 56
+
+Now the vision of a dream which Hipparchos had was this:--in the
 night before the Panathenaia it seemed to Hipparchos that a man came
 and stood by him, tall and of fair form, and riddling spoke to him these
 verses:
@@ -900,7 +1012,9 @@ interpreters of dreams; but afterwards he put away thought of the vision
 49 and began to take part in that procession during which he lost his
 life.
 
-57. Now the Gephyraians, of whom were those who murdered Hipparchos,
+## Chapter 57
+
+Now the Gephyraians, of whom were those who murdered Hipparchos,
 according to their own account were originally descended from Eretria;
 but as I find by carrying inquiries back, they were Phenicians of those
 who came with Cadmos to the land which is now called Boeotia, and they
@@ -912,7 +1026,9 @@ fixed conditions to be citizens of their State, laying down rules that
 they should be excluded from a number of things not worth mentioning
 here.
 
-58. Now these Phenicians who came with Cadmos, of whom were the
+## Chapter 58
+
+Now these Phenicians who came with Cadmos, of whom were the
 Gephyraians, brought in among the Hellenes many arts when they settled
 in this land of Boeotia, and especially letters, which did not exist, as
 it appears to me, among the Hellenes before this time; and at first they
@@ -928,7 +1044,9 @@ paper "skins," because formerly, paper being scarce, they used skins of
 goat and sheep; nay, even in my own time many of the Barbarians write on
 such skins.
 
-59. I myself too once saw Cadmeian characters in the temple of Ismenian
+## Chapter 59
+
+I myself too once saw Cadmeian characters in the temple of Ismenian
 Apollo at Thebes of the Boeotians, engraved on certain 4901 tripods, and
 in most respects resembling the Ionic letters: one of these tripods has
 the inscription,
@@ -937,7 +1055,9 @@ the inscription,
  this inscription would be of an age contemporary  with Laïos
  the son of Labdacos, the son of Polydoros, the son of Cadmos.
 
-60. Another tripod says thus in hexameter rhythm:
+## Chapter 60
+
+Another tripod says thus in hexameter rhythm:
 
  "Me did Scaios offer to thee, far-darting Apollo,
   Victor in contest of boxing, a gift most fair in thine honour:"
@@ -946,7 +1066,9 @@ now Scaios would be the son of Hippocoön (at least if it were really he
 who offered it, and not another with  the same name as the son of
 Hippocoön), being of an age contemporary with OEdipus the son of Laïos:
 
-61. and the third tripod, also in hexameter rhythm, says:
+## Chapter 61
+
+and the third tripod, also in hexameter rhythm, says:
 
  "Me Laodamas offered to thee, fair-aiming Apollo,
   He, of his wealth, 51 being king, as a gift most fair in thine honor:"
@@ -959,7 +1081,9 @@ established in Athens, in which the other Athenians have no part, and
 besides others which are different from the rest, there is especially a
 temple of Demeter Achaia and a celebration of her mysteries.
 
-62. I have told now of the vision of a dream seen by Hipparchos, and
+## Chapter 62
+
+I have told now of the vision of a dream seen by Hipparchos, and
 also whence the Gephrynians were descended, of which race were the
 murderers of Hipparchos; and in addition to this I must resume and
 continue the story which I was about to tell at first, how the Athenians
@@ -978,7 +1102,9 @@ a manner more beautiful than the plan required, and especially in this
 respect, that having agreed to make the temple of common limestone, 53
 they built the front parts of it in Parian marble.
 
-63. So then, as the Athenians say, these men being settled at Delphi
+## Chapter 63
+
+So then, as the Athenians say, these men being settled at Delphi
 persuaded the Pythian prophetess by gifts of money, that whenever men of
 the Spartans should come to inquire of the Oracle, either privately
 or publicly sent, she should propose to them to set Athens free. The
@@ -1003,7 +1129,9 @@ their ships. Such was the issue of the first expedition from Lacedemon:
 and the burial-place of Anchimolios is at Alopecai in Attica, near the
 temple of Heracles which is at Kynosarges.
 
-64. After this the Lacedemonians equipped a larger expedition and sent
+## Chapter 64
+
+After this the Lacedemonians equipped a larger expedition and sent
 it forth against Athens; and they appointed to be commander of the army
 their king Cleomenes the son of Anaxandrides, and sent it this time
 not by sea but by land. With these, when they had invaded the land of
@@ -1014,7 +1142,9 @@ Then Cleomenes came to the city together with those of the Athenians
 who desired to be free, and began to besiege the despots shut up in the
 Pelasgian wall.
 
-65. And the Lacedemonians would never have captured the sons of
+## Chapter 65
+
+And the Lacedemonians would never have captured the sons of
 Peisistratos at all; for they on their side had no design to make a long
 blockade, and the others were well provided with food and drink; so that
 they would have gone away back to Sparta after besieging them for a few
@@ -1039,7 +1169,9 @@ time when Ionia revolted from Dareios and Aristagoras the Milesian
 came to Athens and asked them to help him, these I will set forth first
 before I proceed further.
 
-66. Athens, which even before that time was great, then, after having
+## Chapter 66
+
+Athens, which even before that time was great, then, after having
 been freed from despots, became gradually yet greater; and in it two men
 exercised power, namely Cleisthenes a descendant of Alcmaion, the same
 who is reported to have bribed the Pythian prophetess, and Isagoras,
@@ -1054,7 +1186,9 @@ Argades, and Hoples, and invented for them names taken from other
 heroes, all native Athenians except Ajax, whom he added as a neighbour
 and ally, although he was no Athenian.
 
-67. Now in these things it seems to me that this Cleisthenes was
+## Chapter 67
+
+Now in these things it seems to me that this Cleisthenes was
 imitating his mother's father Cleisthenes the despot of Sikyon: for
 Cleisthenes when he went to war with Argos first caused to cease in
 Sikyon the contests of rhapsodists, which were concerned with the
@@ -1087,7 +1221,9 @@ honoured him with tragic choruses, not paying the honour to Dionysos but
 to Adrastos. Cleisthenes however gave back the choruses to Dionysos, and
 the other rites besides this he gave to Melannipos.
 
-68. Thus he had done to Adrastos; and he also changed the names of the
+## Chapter 68
+
+Thus he had done to Adrastos; and he also changed the names of the
 Dorian tribes, in order that the Sikyonians might not have the same
 tribes as the Argives; in which matter he showed great contempt of the
 Sikyonians, for the names he gave were taken from the names of a pig
@@ -1101,7 +1237,9 @@ death; then however they considered the matter and changed them into
 Hylleis, Pamphyloi, and Dymanatai, adding to these a fourth, to which
 they gave the name Aigialeis after Aigialeus the son of Adrastos.
 
-69. Thus had the Cleisthenes of Sikyon done: and the Athenian
+## Chapter 69
+
+Thus had the Cleisthenes of Sikyon done: and the Athenian
 Cleisthenes, who was his daughter's son and was called after him,
 despising, as I suppose, the Ionians, as he the Dorians, imitated his
 namesake Cleisthenes in order that the Athenians might not have the same
@@ -1113,7 +1251,9 @@ ten rulers of tribes instead of four, and by tens also he distributed
 the demes in the tribes; and having added the common people to his party
 he was much superior to his opponents.
 
-70. Then Isagoras, as he was being worsted in his turn, contrived a
+## Chapter 70
+
+Then Isagoras, as he was being worsted in his turn, contrived a
 plan in opposition to him, that is to say, he called in Cleomenes the
 Lacedemonian to help him, who had been a guest-friend to himself since
 the siege of the sons of Peisistratos; moreover Cleomenes was accused
@@ -1124,7 +1264,9 @@ curse: 62 this message he sent by instruction of Isagoras, for the
 Alcmaionidai and their party were accused of the murder to which
 reference was thus made, while he and his friends had no part in it.
 
-71. Now the men of the Athenians who were "under the curse" got this
+## Chapter 71
+
+Now the men of the Athenians who were "under the curse" got this
 name as follows:--there was one Kylon among the Athenians, a man who
 had gained the victory at the Olympic games: this man behaved with
 arrogance, wishing to make himself despot; and having formed for himself
@@ -1137,7 +1279,9 @@ liable to any penalty short of death; and the Alcmaionidai are accused
 of having put them to death. This had occurred before the time of
 Peisistratos.
 
-72. Now when Cleomenes sent demanding the expulsion of Cleisthenes and
+## Chapter 72
+
+Now when Cleomenes sent demanding the expulsion of Cleisthenes and
 of those under the curse, Cleisthenes himself retired secretly; but
 after that nevertheless Cleomenes appeared in Athens with no very
 large force, and having arrived he proceeded to expel as accursed seven
@@ -1163,7 +1307,9 @@ be put to death, and among them Timesitheos the Delphian, with regard to
 whom I might mention very great deeds of strength and courage which he
 performed.
 
-73. These then having been thus laid in bonds were put to death; and the
+## Chapter 73
+
+These then having been thus laid in bonds were put to death; and the
 Athenians after this sent for Cleisthenes to return, and also for the
 seven hundred families which had been driven out by Cleomenes: and
 then they sent envoys to Sardis, desiring to make an alliance with
@@ -1179,7 +1325,9 @@ alliance with them, but if not, he bade them begone: and the envoys
 taking the matter upon themselves said that they were willing to do so,
 because they desired to make the alliance.
 
-74. These, when they returned to their own land, were highly censured:
+## Chapter 74
+
+These, when they returned to their own land, were highly censured:
 and Cleomenes meanwhile, conceiving that he had been outrageously dealt
 with by the Athenians both with words and with deeds, was gathering
 together an army from the whole of the Peloponnese, not declaring the
@@ -1194,7 +1342,9 @@ Athenians then, though attacked on more sides than one, thought that
 they would remember the Boeotians and Chalkidians afterwards, and
 arrayed themselves against the Peloponnesians who were in Eleusis.
 
-75. Then as the armies were just about the join battle, the Corinthians
+## Chapter 75
+
+Then as the armies were just about the join battle, the Corinthians
 first, considering with themselves that they were not acting rightly,
 changed their minds and departed; and after that Demaratos the son of
 Ariston did the same, who was king of the Spartans as well as Cleomenes,
@@ -1207,7 +1357,9 @@ kings was set free from service, so one of the sons of Tyndareus 64
 also should be left behind; for before this time both of these two were
 called upon by them for help and went with the armies.
 
-76. At this time then in Eleusis the rest of the allies, seeing that the
+## Chapter 76
+
+At this time then in Eleusis the rest of the allies, seeing that the
 kings of the Lacedemonians did not agree and also that the Corinthians
 had deserted their place in the ranks, themselves too departed and got
 them away quickly. And this was the fourth time that the Dorians had
@@ -1220,7 +1372,9 @@ the sons of Peisistratos, and fourthly on this occasion, when Cleomenes
 at the head of the Peloponnesians invaded Eleusis: thus the Dorians
 invaded Athens then for the fourth time.
 
-77. This army then having been ingloriously broken up, the Athenians
+## Chapter 77
+
+This army then having been ingloriously broken up, the Athenians
 after that, desiring to avenge themselves, made expedition first against
 the Chalkidians; and the Boeotians came to the Euripos to help the
 Chalkidians. The Athenians, therefore, seeing those who had come
@@ -1248,7 +1402,9 @@ the Propylaia in the Acropolis, and on it is the following inscription:
   In chains of iron and darkness they quenched their insolent spirit;
     And to Athene present these, of their ransom a tithe."
 
-78. The Athenians accordingly increased in power; and it is evident, not
+## Chapter 78
+
+The Athenians accordingly increased in power; and it is evident, not
 by one instance only but in every way, that Equality 68 is an excellent
 thing, since the Athenians while they were ruled by despots were not
 better in war that any of those who dwelt about them, whereas after they
@@ -1257,7 +1413,9 @@ they were kept down they were wilfully slack, because they were working
 for a master, whereas when they had been set free each one was eager to
 achieve something for himself.
 
-79. These then were faring thus: and the Thebans after this sent to the
+## Chapter 79
+
+These then were faring thus: and the Thebans after this sent to the
 god, desiring to be avenged on the Athenians; the Pythian prophetess
 however said that vengeance was not possible for them by their own
 strength alone, but bade them report the matter to the "many-voiced"
@@ -1270,7 +1428,9 @@ Thespiai; and these always fight zealously on our side and endure the
 war with us to the end: what need is there that we ask of these? Rather
 perhaps that is not the meaning of the oracle."
 
-80. While they commented upon it thus, at length one perceived "that
+## Chapter 80
+
+While they commented upon it thus, at length one perceived "that
 which the oracle means to tell us. Asopos is said to have had two
 daughters born to him, Thebe and Egina; and as these are sisters, I
 think that the god gave us for answer that we should ask the men of
@@ -1280,7 +1440,9 @@ the men of Egina to help them, calling upon them in accordance with the
 oracle; and they, when these made request, said that they sent with them
 the sons of Aiacos to help them.
 
-81. After that the Thebans, having made an attempt with the alliance
+## Chapter 81
+
+After that the Thebans, having made an attempt with the alliance
 of the sons of Aiacos and having been roughly handled by the Athenians,
 sent again and gave them back the sons of Aiacos and asked them for men.
 So the Eginetans, exalted by great prosperity and calling to mind an
@@ -1291,7 +1453,9 @@ Attica with ships of war, and they devastated Phaleron and also many
 demes in the remainder of the coast region, and so doing they deeply
 stirred the resentment of the Athenians. 69
 
-82. Now the grudge which was due beforehand from the Eginetans to the
+## Chapter 82
+
+Now the grudge which was due beforehand from the Eginetans to the
 Athenians came about from a beginning which was as follows:--The land
 of the Epidaurians yielded to its inhabitants no fruit; and accordingly
 with reference to this calamity the Epidaurians went to inquire at
@@ -1311,7 +1475,9 @@ images out of these olive-trees and set them up: and their land bore
 fruit and they continued to fulfil towards the Athenians that which they
 had agreed to do.
 
-83. Now during this time and also before this the Eginetans were subject
+## Chapter 83
+
+Now during this time and also before this the Eginetans were subject
 to the Epidaurians, and besides other things they were wont to pass over
 to Epidauros to have their disputes with one another settled by law: 71
 but after this time they built for themselves ships and made revolt
@@ -1327,7 +1493,9 @@ the deities to provide the choruses: and the choruses spoke evil of no
 man, but only of the women of the place. Now the Epidaurians also had
 the same rites; and they have also rites which may not be divulged.
 
-84. These images then having been stolen, the Epidaurians no longer
+## Chapter 84
+
+These images then having been stolen, the Epidaurians no longer
 continued to fulfil towards the Athenians that which they had agreed.
 The Athenians accordingly sent and expressed displeasure to the
 Epidaurians; and they declared saying that they were doing no wrong; for
@@ -1338,7 +1506,9 @@ any more; and they bade them demand these from the men of Egina, who had
 the images. So the Athenians sent to Egina and demanded the images back;
 but the Eginetans said that they had nothing to do with the Athenians.
 
-85. The Athenians then report that in one single trireme were despatched
+## Chapter 85
+
+The Athenians then report that in one single trireme were despatched
 those of their citizens who were sent by the State after this demand;
 who having come to Egina, attempted to tear up from off their pedestals
 the images, (alleging that they were made of wood which belonged to the
@@ -1351,7 +1521,9 @@ these, and being brought to this condition they killed one another as if
 they were enemies, until at last but one of the whole number was left;
 and he returned alone to Phaleron.
 
-86. Thus the Athenians report that it came to pass: but the Eginetans
+## Chapter 86
+
+Thus the Athenians report that it came to pass: but the Eginetans
 say that it was not with a single ship that the Athenians came; for
 a single ship, and even a few more than one, they could have easily
 repelled, even if they had not happened to have ships of their own: but
@@ -1377,7 +1549,9 @@ fell upon the Athenians before these had heard anything of the matter,
 cutting them off secretly from the way to their ships; and at this
 moment it was that the thunder and the earthquake came upon them.
 
-87. This is the report which is given by the Argives and Eginetans both,
+## Chapter 87
+
+This is the report which is given by the Argives and Eginetans both,
 and it is admitted by the Athenians also that but one alone of them
 survived and came back to Attica: only the Argives say that this one
 remained alive from destruction wrought by them upon the army of
@@ -1396,7 +1570,9 @@ dress to that of Ionia,--for before this the women of the Athenians wore
 Dorian dress, very like that of Corinth,--they changed it therefore to
 the linen tunic, in order that they might not have use for brooches.
 
-88. In truth however this fashion of dress is not Ionian originally but
+## Chapter 88
+
+In truth however this fashion of dress is not Ionian originally but
 Carian, for the old Hellenic fashion of dress for women was universally
 the same as that which we now call Dorian. Moreover it is said that with
 reference to these events the Argives and Eginetans made it a custom
@@ -1408,7 +1584,9 @@ nor anything else of Athenian make to the temple, but that it should be
 the custom for the future to drink there from pitchers made in the lands
 themselves.
 
-89. The women of the Argives and Eginetans from this time onwards
+## Chapter 89
+
+The women of the Argives and Eginetans from this time onwards
 because of the quarrel with the Athenians continued to wear brooches
 larger than before, and still do so even to my time; and the origin of
 the enmity of the Athenians towards the Eginetans came in the manner
@@ -1429,7 +1607,9 @@ that which is now established close to the market-place, but they could
 not endure to hear that they must stay for thirty years, when they had
 suffered injuries from the Eginetans.
 
-90. While however they were preparing to take vengeance, a matter arose
+## Chapter 90
+
+While however they were preparing to take vengeance, a matter arose
 from the Lacedemonians which provided a hindrance to them: for the
 Lacedemonians, having learnt that which had been contrived by the
 Alcmaionidai with respect to the Pythian prophetess, and that which had
@@ -1446,7 +1626,9 @@ sons of Peisistratos possessed before and had left in the temple when
 they were driven out; and Cleomenes recovered them after they had been
 left behind.
 
-91. At this time, then, when the Lacedemonians had recovered the oracles
+## Chapter 91
+
+At this time, then, when the Lacedemonians had recovered the oracles
 and when they saw that the Athenians were increasing in power and were
 not at all willing to submit to them, observing that the Athenian race
 now that it was free was becoming 74 a match for their own, whereas when
@@ -1473,7 +1655,9 @@ cities, in order that with common counsel and a common force we might
 conduct him to Athens and render back to him that which we formerly took
 away."
 
-92. Thus they spoke; but the majority of the allies did not approve of
+## Chapter 92
+
+Thus they spoke; but the majority of the allies did not approve of
 their words. The rest however kept silence, but the Corinthian Socles 78
 spoke as follows: (a) "Surely now the heaven shall be below the earth,
 and the earth raised up on high above the heaven, and men shall have
@@ -1619,7 +1803,9 @@ your design, but endeavour to restore Hippias contrary to that which is
 just, know that the Corinthians at least do not give their consent to
 that which ye do."
 
-93. Socles being the envoy of Corinth thus spoke, and Hippias made
+## Chapter 93
+
+Socles being the envoy of Corinth thus spoke, and Hippias made
 answer to him, calling to witness the same gods as he, that assuredly
 the Corinthians would more than all others regret the loss of the sons
 of Peisistratos, when the appointed days should have come for them to
@@ -1630,7 +1816,9 @@ they heard Socles speak freely, gave utterance every one of them to
 that which they felt, and adopted the opinion of the Corinthian envoy,
 adjuring the Lacedemonians not to do any violence to a city of Hellas.
 
-94. Thus was this brought to an end: and Hippias being dismissed from
+## Chapter 94
+
+Thus was this brought to an end: and Hippias being dismissed from
 thence had Anthemus offered to him by Amyntas king of the Macedonians
 and Iolcos by the Thessalians. He however accepted neither of these, but
 retired again to Sigeion; which city Peisistratos had taken by force
@@ -1646,7 +1834,9 @@ no better claim to the territory of Ilion than they and the rest of the
 Hellenes, as many as joined with Menelaos in exacting vengeance for the
 rape of Helen.
 
-95. Now while these carried on the war, besides many other things of
+## Chapter 95
+
+Now while these carried on the war, besides many other things of
 various kinds which occurred in the battles, once when a fight took
 place and the Athenians were conquering, Alcaios the poet, taking to
 flight, escaped indeed himself, but the Athenians retained possession of
@@ -1658,7 +1848,9 @@ Athenians and the Mytilenians, 87 for to him they referred the matter
 as arbitrator; and he made peace between them on the condition that each
 should continue to occupy that territory which they then possessed.
 
-96. Sigeion then in this matter had come under the rule of the
+## Chapter 96
+
+Sigeion then in this matter had come under the rule of the
 Athenians. And when Hippias had returned to Asia from Lacedemon, he
 set everything in motion, stirring up enmity between the Athenians and
 Artaphrenes, and using every means to secure that Athens should come
@@ -1672,7 +1864,9 @@ accept when it was reported; and as they did not accept this, it became
 at once a commonly received opinion among them that they were enemies of
 the Persians.
 
-97. While they had these thoughts and had been set at enmity with the
+## Chapter 97
+
+While they had these thoughts and had been set at enmity with the
 Persians, at this very time Aristagoras the Milesian, ordered away from
 Sparta by Cleomenes the Lacedemonian, arrived at Athens; for this
 was the city which had most power of all the rest besides Sparta. And
@@ -1693,7 +1887,9 @@ Melanthios one of their citizens, who was in all things highly reputed.
 These ships proved to be the beginning of evils for the Hellenes and the
 Barbarians.
 
-98. Aristagoras however sailed on before and came to Miletos; and then
+## Chapter 98
+
+Aristagoras however sailed on before and came to Miletos; and then
 having devised a plan from which no advantage was likely to come for the
 Ionians (nor indeed was he doing what he did with a view to that, but
 in order to vex king Dareios), he sent a man to Phrygia to the Paionians
@@ -1716,7 +1912,9 @@ however did not accept their proposal, but the men of Chios conveyed
 them from Chios to Lesbos, and the Lesbians brought them to Doriscos,
 and thence they proceeded by land and came to Paionia.
 
-99. Aristagoras meanwhile, when the Athenians had arrived with twenty
+## Chapter 99
+
+Aristagoras meanwhile, when the Athenians had arrived with twenty
 ships, bringing with them also five triremes of the Eretrians, joined
 the expedition not for the sake of the Athenians but of the Milesians
 themselves, to repay them a debt which they owed (for the Milesians in
@@ -1729,7 +1927,9 @@ this march he did not go himself, but remained at Miletos and appointed
 others to be in command of the Milesians, namely his brother Charopinos
 and of the other citizens one Hermophantos. 8701
 
-100. With this force then the Ionians came to Ephesos, and leaving their
+## Chapter 100
+
+With this force then the Ionians came to Ephesos, and leaving their
 ships at Coresos in the land of Ephesos, went up themselves in a large
 body, taking Ephesians to guide them in their march. So they marched
 along by the river Caÿster, and then when they arrived after crossing
@@ -1737,7 +1937,9 @@ the range of Tmolos, they took Sardis without any resistance, all except
 the citadel, but the citadel Artaphrenes himself saved from capture,
 having with him a considerable force of men.
 
-101. From plundering this city after they had taken it they were
+## Chapter 101
+
+From plundering this city after they had taken it they were
 prevented by this:--the houses in Sardis were mostly built of reeds,
 and even those of them which were of brick had their roofs thatched with
 reeds: of these houses one was set on fire by a soldier, and forthwith
@@ -1756,7 +1958,9 @@ coming on to the attack, were struck with fear and retired to the
 mountain called Tmolos, and after that at nightfall departed to go to
 their ships.
 
-102. Sardis was then destroyed by fire, and in it also the temple of the
+## Chapter 102
+
+Sardis was then destroyed by fire, and in it also the temple of the
 native goddess Hybebe; which the Persians alleged afterwards as a reason
 for setting on fire in return the temples in the land of the Hellenes.
 However at the time of which I speak the Persians who occupied districts
@@ -1771,7 +1975,9 @@ commander of the Eretrians, a man who had won wreaths in contests of
 the games and who was much celebrated by Simonides of Keos: and those of
 them who survived the battle dispersed to their various cities.
 
-103. Thus then they fought at that time; and after the battle the
+## Chapter 103
+
+Thus then they fought at that time; and after the battle the
 Athenians left the Ionians together, and when Aristagoras was urgent
 in calling upon them by messengers for assistance, they said that
 they would not help them: the Ionians, however, though deprived of the
@@ -1784,7 +1990,9 @@ in addition the most part of Caria to be in alliance with them: for even
 Caunos, which before was not willing to be their ally, then, after they
 had burnt Sardis, was added to them also.
 
-104. The Cyprians too, excepting those of Amathus, were added
+## Chapter 104
+
+The Cyprians too, excepting those of Amathus, were added
 voluntarily to their alliance; for these also had revolted from the
 Medes in the following manner:--there was one Onesilos, younger brother
 of Gorgos king of Salamis, and son of Chersis, the son of Siromos, the
@@ -1800,7 +2008,9 @@ endeavoured to persuade all the men of Cyprus to join him in revolt. The
 others then he persuaded; but since those of Amathus were not willing to
 do as he desired, he sat down before their city and besieged it.
 
-105. Onesilos then was besieging Amathus; and meanwhile, when it was
+## Chapter 105
+
+Onesilos then was besieging Amathus; and meanwhile, when it was
 reported to king Dareios that Sardis had been captured and burnt by the
 Athenians and the Ionians together, and that the leader of the league
 for being about these things 88 was the Milesian Aristagoras, it is said
@@ -1814,7 +2024,9 @@ granted me to take vengeance upon the Athenians!" Having so said he
 charged one of his attendants, that when dinner was set before the king
 he should say always three times: "Master, remember the Athenians."
 
-106. When he had given this charge, he called into his presence
+## Chapter 106
+
+When he had given this charge, he called into his presence
 Histiaios the Milesian, whom Dareios had now been keeping with him for a
 long time, and said: "I am informed, Histiaios, that thy deputy, to whom
 thou didst depute the government of Miletos, has made rebellion against
@@ -1848,11 +2060,15 @@ will not put off from me the tunic which I wear when I go down to Ionia,
 until I have made Sardinia tributary to thee, which is the largest of
 all islands."
 
-107. Thus saying Histiaios endeavoured to deceive the king, and
+## Chapter 107
+
+Thus saying Histiaios endeavoured to deceive the king, and
 Dareios was persuaded and let him go, charging him, when he should have
 accomplished that which he had promised, to return to him again at Susa.
 
-108. In the meantime, while the news about Sardis was going up to the
+## Chapter 108
+
+In the meantime, while the news about Sardis was going up to the
 king, and while Dareios, after doing that which he did with the bow,
 came to speech with Histiaios, and Histiaios having been let go by
 Dareios was making his journey to the sea-coast,--during all that time
@@ -1867,7 +2083,9 @@ Persians having crossed over in ships from Kilikia were proceeding by
 land to attack Salamis, while the Phenicians with the ships were sailing
 round the headland which is called the "Keys of Cyprus."
 
-109. This being the case, the despots of Cyprus called together the
+## Chapter 109
+
+This being the case, the despots of Cyprus called together the
 commanders of the Ionians and said: "Ionians, we of Cyprus give you
 a choice which enemy ye will rather fight with, the Persians or the
 Phenicians: for if ye will rather array yourselves on land and make
@@ -1884,7 +2102,9 @@ place to which we were appointed; and ye must call to mind all the evils
 which ye suffered from the Medes, when ye were in slavery to them, and
 prove yourselves good men."
 
-110. The Ionians made answer in these words; and afterwards, when the
+## Chapter 110
+
+The Ionians made answer in these words; and afterwards, when the
 Persians had come to the plain of Salamis, the kings of the Cyprians set
 in order their array, choosing the best part of the troops of Salamis
 and of Soloi to be arrayed against the Persians and setting the other
@@ -1892,7 +2112,9 @@ Cyprians against the rest of the enemy's troops; and against Artybios,
 the commander of the Persians, Onesilos took up his place in the array
 by his own free choice.
 
-111. Now Artybios was riding a horse which had been trained to rear
+## Chapter 111
+
+Now Artybios was riding a horse which had been trained to rear
 up against a hoplite. Onesilos accordingly being informed of this, and
 having a shield-bearer, by race of Caria, who was of very good repute
 as a soldier and full of courage besides, 89 said to this man: "I am
@@ -1915,7 +2137,9 @@ at least he shall never stand against any man more." Thus he spoke; and
 shortly afterwards the opposed forces joined battle both on land and
 with their ships.
 
-112. On that day the Ionians for their part greatly distinguished
+## Chapter 112
+
+On that day the Ionians for their part greatly distinguished
 themselves and overcame the Phenicians, and of them the Samians were
 best: and meanwhile on land, when the armies met, they came to close
 quarters and fought; and as regards the two commanders, what happened
@@ -1925,7 +2149,9 @@ Artybios himself, when he came to fight with him; and when the horse put
 its hoofs against the shield of Onesilos, then the Carian struck with a
 falchion 91 and smote off the horse's feet.
 
-113. So Artybios the commander of the Persians fell there on the spot
+## Chapter 113
+
+So Artybios the commander of the Persians fell there on the spot
 together with his horse: and while the others also were fighting,
 Stesenor the despot of Curion deserted them, having with him a
 large force of men,--now these Curians are said to be settlers
@@ -1939,7 +2165,9 @@ Aristokypros the son of Philokypros,--that Philokypros whom Solon the
 Athenian, when he came to Cyprus, commended in verse above all other
 despots.
 
-114. So the men of Amathus cut off the head of Onesilos, because he had
+## Chapter 114
+
+So the men of Amathus cut off the head of Onesilos, because he had
 besieged them; and having brought it to Amathus they hung it over the
 gate of the city: and as the head hung there, when it had now become a
 hollow, a swarm of bees entered into it and filled it with honeycomb.
@@ -1948,7 +2176,9 @@ the head, and they received an answer bidding them take it down and bury
 it and sacrifice to Onesilos every year as a hero; and if they did this,
 it would go better with them.
 
-115. The Amathusians accordingly continued to do so even to my time. But
+## Chapter 115
+
+The Amathusians accordingly continued to do so even to my time. But
 the Ionians who had fought the sea-fight in Cyprus, when they perceived
 that the fortunes of Onesilos were ruined and that the cities of the
 Cyprians were besieged, except Salamis, and that this city had been
@@ -1958,7 +2188,9 @@ cities in Cyprus Soloi held out for the longest time under the siege;
 and the Persians took it in the fifth month by undermining the wall
 round.
 
-116. The Cyprians then, after they had made themselves free for one
+## Chapter 116
+
+The Cyprians then, after they had made themselves free for one
 year, had again been reduced to slavery afresh: and meanwhile Daurises,
 who was married to a daughter of Dareios, and Hymaies and Otanes, who
 were also Persian commanders and were married also to daughters
@@ -1967,12 +2199,17 @@ expedition to Sardis and defeating them in battle had driven them
 by force to their ships,--after this distributed the cities amongst
 themselves and proceeded to sack them.
 
-117. Daurises directed his march to the cities on the Hellespont, and he
+## Chapter 117
+
+Daurises directed his march to the cities on the Hellespont, and he
 took Dardanos and Abydos and Percote and Lampsacos and Paisos, of these
 he took on each day one; and as he was marching from Paisos against the
 city of Parion, the report came that the Carians had made common cause
 with the Ionians and were in revolt from the Persians. He turned back
-therefore from the Hellespont and marched his army upon Caria. 118.
+therefore from the Hellespont and marched his army upon Caria.
+
+## Chapter 118
+
 And, as it chanced, a report of this was brought to the Carians before
 Daurises arrived; and the Carians being informed of it gathered together
 at the place which is called the "White Pillars" and at the river
@@ -1991,7 +2228,9 @@ should have the Maiander at their backs, evidently 92 in order that if
 there should be a flight of the Persians and they should be worsted in
 the battle, they might never return home, but might fall into the river.
 
-119. After this, when the Persians had come and had crossed the
+## Chapter 119
+
+After this, when the Persians had come and had crossed the
 Maiander, the Carians engaged with the Persians on the river Marsyas and
 fought a battle which was obstinately contested and lasted long; but at
 length they were worsted by superior numbers: and of the Persians there
@@ -2004,7 +2243,9 @@ taking counsel together about their safety, whether they would fare
 better if they delivered themselves over to the Persians or if they left
 Asia altogether.
 
-120. And while they were thus taking counsel, there came to their aid
+## Chapter 120
+
+And while they were thus taking counsel, there came to their aid
 the Milesians and their allies. Then the Carians dismissed the plans
 which they were before considering and prepared to renew the war again
 from the beginning: and when the Persians came to attack them, they
@@ -2012,7 +2253,9 @@ engaged with them and fought a battle, and they were worsted yet more
 completely than before; and while many were slain of all parties, 94 the
 Milesians suffered most.
 
-121. Then afterwards the Carians repaired this loss and retrieved their
+## Chapter 121
+
+Then afterwards the Carians repaired this loss and retrieved their
 defeat; for being informed that the Persians had set forth to march upon
 their cities, they laid an ambush on the road which is by Pedasos, 95
 and the Persians falling into it by night were destroyed both they and
@@ -2020,7 +2263,9 @@ their commanders, namely Daurises and Amorges and Sisimakes; and with
 them died also Myrsos the son of Gyges. Of this ambush the leader was
 Heracleides the son of Ibanollis, a man of Mylasa.
 
-122. These then of the Persians were thus destroyed; and meanwhile
+## Chapter 122
+
+These then of the Persians were thus destroyed; and meanwhile
 Hymaies, who was another of those who pursued after the Ionians that had
 made the expedition to Sardis, directed his march to the Propontis and
 took Kios in Mysia; and having conquered this city, when he was informed
@@ -2031,13 +2276,17 @@ Gergithes, who were left behind as a remnant of the ancient Teucrians.
 While conquering these tribes Hymaies himself ended his life by sickness
 in the land of Troas.
 
-123. He thus brought his life to an end; and Artaphrenes the governor
+## Chapter 123
+
+He thus brought his life to an end; and Artaphrenes the governor
 of the province of Sardis was appointed with Otanes the third of the
 commanders to make the expedition against Ionia and that part of Aiolia
 which bordered upon it. Of Ionia these took the city of Clazomenai, and
 of the Aiolians Kyme.
 
-124. While the cities were thus being taken, Aristagoras the Milesian,
+## Chapter 124
+
+While the cities were thus being taken, Aristagoras the Milesian,
 being, as he proved in this instance, not of very distinguished courage,
 since after having disturbed Ionia and made preparation of great matters
 96 he counselled running away when he saw these things, (moreover it
@@ -2051,13 +2300,17 @@ a colony there, or to Myrkinos in the land of the Edonians, which
 Histiaios had been fortifying, having received it as a gift from
 Dareios. This was the question proposed by Aristagoras.
 
-125. Now the opinion of Hecataios the son of Hegesander the historian
+## Chapter 125
+
+Now the opinion of Hecataios the son of Hegesander the historian
 97 was that he should not take a colony to either of these places, but
 build a wall of defence for himself in the island of Leros and keep
 still, if he should be forced to leave Miletos; and afterwards with this
 for his starting point he would be able to return to Miletos.
 
-126. This was the counsel of Hecataios; but Aristagoras was most
+## Chapter 126
+
+This was the counsel of Hecataios; but Aristagoras was most
 inclined to go forth to Myrkinos. He therefore entrusted the government
 of Miletos to Pythagoras, a man of repute among the citizens, and he
 himself sailed away to Thrace, taking with him every one who desired to
@@ -2384,7 +2637,9 @@ Some Editors read {epi Mulasoisi}, others {epi Pedaso}.]
 
 ## Book VI. The Sixth Book of the Histories, Called Erato
 
-1. Aristagoras accordingly, after having caused Ionia to revolt, thus
+## Chapter 1
+
+Aristagoras accordingly, after having caused Ionia to revolt, thus
 brought his life to an end; and meanwhile Histiaios the despot of
 Miletos, having been let go by Dareios had arrived at Sardis: and when
 he came from Susa, Artaphrenes the governor of Sardis asked him for what
@@ -2396,7 +2651,9 @@ knowledge of the truth about the revolt: "Thus it is with thee,
 Histiaios, about these matters,--this shoe was stitched by thee, and put
 on by Aristagoras.".
 
-2. Thus said Artaphrenes with reference to the revolt; and Histiaios
+## Chapter 2
+
+Thus said Artaphrenes with reference to the revolt; and Histiaios
 fearing Artaphrenes because he understood the matter, ran away the
 next night at nightfall and went to the sea-coast, having deceived king
 Dareios, seeing that he had engaged to subdue Sardinia the largest of
@@ -2407,7 +2664,9 @@ by them of working for a change of their State by suggestion of Dareios.
 When however the Chians learnt the whole story and heard that he was an
 enemy to the king, they released him..
 
-3. Then Histiaios, being asked by the Ionians for what reason he had so
+## Chapter 3
+
+Then Histiaios, being asked by the Ionians for what reason he had so
 urgently charged Aristagoras to revolt from the king and had wrought so
 great an evil for the Ionians, did not by any means declare to them
 that which had been in truth the cause, but reported to them that king
@@ -2416,7 +2675,9 @@ settle them in Ionia, and the Ionians in Phenicia; and for this reason,
 he said, he had given the charge. Thus he attempted to alarm the
 Ionians, although the king had never resolved to do so at all.
 
-4. After this Histiaios acting through a messenger, namely Hermippos
+## Chapter 4
+
+After this Histiaios acting through a messenger, namely Hermippos
 a man of Atarneus, sent papers to the Persians who were at Sardis,
 implying that he had already talked matters over with them about a
 revolt: and Hermippos did not deliver them to those to whom he was sent,
@@ -2427,7 +2688,9 @@ them, and to deliver to him the replies sent back by the Persians to
 Histiaios. These things having been discovered, Artaphrenes upon that
 put to death many of the Persians.
 
-5. As regards Sardis therefore there was confusion of the design; and
+## Chapter 5
+
+As regards Sardis therefore there was confusion of the design; and
 when Histiaios had been disappointed of this hope, the Chians attempted
 to restore him to Miletos at the request of Histiaios himself.
 The Milesians, however, who had been rejoiced before to be rid of
@@ -2443,7 +2706,9 @@ themselves there they captured the ships which sailed out of the Pontus,
 excepting where the crews of them said that they were ready to do the
 bidding of Histiaios.
 
-6. While Histiaios and the men of Mytilene were acting thus, a large
+## Chapter 6
+
+While Histiaios and the men of Mytilene were acting thus, a large
 army both of sea and land forces was threatening to attack Miletos
 itself; for the commanders of the Persians had joined together to form
 one single army and were marching upon Miletos, considering the other
@@ -2451,7 +2716,9 @@ towns of less account. Of their naval force the most zealous were the
 Phenicians, and with them also served the Cyprians, who had just been
 subdued, and the Kilikians and Egyptians..
 
-7. These, I say, were advancing upon Miletos and the rest of Ionia; and
+## Chapter 7
+
+These, I say, were advancing upon Miletos and the rest of Ionia; and
 meanwhile the Ionians being informed of this were sending deputies 1
 chosen from themselves to the Panionion. 2 When these had arrived at
 that place and took counsel together, they resolved not to gather a
@@ -2462,7 +2729,9 @@ as soon as possible at Lade, to fight a sea-battle in defence of
 Miletos. Now Lade is a small island lying opposite the city of the
 Milesians..
 
-8. Then the Ionians manned their ships and came thither, and with them
+## Chapter 8
+
+Then the Ionians manned their ships and came thither, and with them
 also those Aiolians who inhabit Lesbos; and they were drawn up in
 order thus:--the extremity of the line towards the East was held by the
 Milesians themselves, who furnished eighty ships; next to them were
@@ -2475,7 +2744,9 @@ ships, and last, holding the extremity of the line towards the West,
 were stationed the Samians with sixty ships. Of all these the total
 number proved to be three hundred and fifty-three triremes..
 
-9. These were the ships of the Ionians; and of the Barbarians the number
+## Chapter 9
+
+These were the ships of the Ionians; and of the Barbarians the number
 of ships was six hundred. When these too were come to the Milesian coast
 and their whole land-army was also there, then the commanders of the
 Persians, being informed of the number of the Ionian ships, were struck
@@ -2500,13 +2771,17 @@ the fight they shall be reduced to slavery, and we shall make their sons
 eunuchs, and their maidens we shall remove to Bactria, and deliver their
 land to others.".
 
-10. They thus spoke; and the despots of Ionia sent each one by night
+## Chapter 10
+
+They thus spoke; and the despots of Ionia sent each one by night
 to his own people announcing to them this. The Ionians however, that
 is those to whom these messages came, continued obstinate and would not
 accept the thought of treason to their cause; and each people thought
 that to them alone the Persians were sending this message.
 
-11. This happened as soon as the Persians came to Miletos; and after
+## Chapter 11
+
+This happened as soon as the Persians came to Miletos; and after
 this the Ionians being gathered together at Lade held meetings; and
 others no doubt also made speeches to them, but especially the Phocaian
 commander Dionysios, who said as follows: "Seeing that our affairs are
@@ -2521,7 +2796,9 @@ and I engage, if the gods grant equal conditions, that either the
 enemy will not fight with us, or that fighting he shall be greatly
 discomfited.".
 
-12. Hearing this the Ionians delivered themselves to Dionysios; and he
+## Chapter 12
+
+Hearing this the Ionians delivered themselves to Dionysios; and he
 used to bring the ships out every day in single file, 3 that he might
 practise the rowers by making the ships break through one another's
 line, 4 and that he might get the fighting-men in the ships under arms;
@@ -2544,7 +2821,9 @@ after this every one refused to obey him, and they pitched their tents
 in the island like an army, and kept in the shade, and would not go on
 board their ships or practise any exercises.
 
-13. Perceiving this which was being done by the Ionians, the commanders
+## Chapter 13
+
+Perceiving this which was being done by the Ionians, the commanders
 of the Samians then at length accepted from Aiakes the son of Syloson
 those proposals which Aiakes sent before at the bidding of the Persians,
 asking them to leave the alliance of the Ionians; the Samians, I say,
@@ -2560,7 +2839,9 @@ the Samians accepted the proposals, was the son of Syloson, the son of
 Aiakes, and being despot of Samos he had been deprived of his rule by
 Aristagoras the Milesian, like the other despots of Ionia..
 
-14. So when the Phenicians sailed to the attack, the Ionians also put
+## Chapter 14
+
+So when the Phenicians sailed to the attack, the Ionians also put
 out their ships from shore against them, sailing in single file: and
 when they came near and engaged battle with one another, as regards what
 followed I am not able exactly to record which of the Ionians showed
@@ -2577,7 +2858,9 @@ the market-place. Then the Lesbians also, when they saw that those next
 them in order were taking to flight, did the same things as the Samians
 had done, and so also most of the Ionians did the very same thing..
 
-15. Of those which remained in their places in the sea-fight the Chians
+## Chapter 15
+
+Of those which remained in their places in the sea-fight the Chians
 suffered very severely, 7 since they displayed brilliant deeds of valour
 and refused to play the coward. These furnished, as was before said,
 a hundred ships and in each of them forty picked men of their citizens
@@ -2588,7 +2871,9 @@ continued to fight and kept breaking through the enemy's line; until at
 last, after they had conquered many ships of the enemy, they lost the
 greater number of their own..
 
-16. The Chians then with the remainder of their ships fled away to
+## Chapter 16
+
+The Chians then with the remainder of their ships fled away to
 their own land; but those of the Chians whose ships were disabled by the
 damage which they had received, being pursued fled for refuge to Mycale;
 and their ships they ran ashore there and left them behind, while the
@@ -2601,7 +2886,9 @@ their land, supposed certainly that they were robbers and had a design
 upon the women; so they came out to the rescue in a body and slew the
 Chians.
 
-17. Such was the fortune which befell these men: but Dionysios the
+## Chapter 17
+
+Such was the fortune which befell these men: but Dionysios the
 Phocaian, when he perceived that the cause of the Ionians was ruined,
 after having taken three ships of the enemy sailed away, not to Phocaia
 any more, for he knew well that it would be reduced to slavery together
@@ -2611,14 +2898,18 @@ goods, he sailed thence to Sicily. Then with that for his starting-point
 he became a freebooter, not plundering any Hellenes, but Carthaginians
 and Tyrsenians only.
 
-18. The Persians, then, being conquerors of the Ionians in the
+## Chapter 18
+
+The Persians, then, being conquerors of the Ionians in the
 sea-fight, besieged Miletos by land and sea, undermining the walls and
 bringing against it all manner of engines; and they took it completely 9
 in the sixth year from the revolt of Aristagoras, and reduced the people
 to slavery; so that the disaster agreed with the oracle which had been
 uttered with reference to Miletos..
 
-19. For when the Argives were inquiring at Delphi about the safety of
+## Chapter 19
+
+For when the Argives were inquiring at Delphi about the safety of
 their city, there was given to them an oracle which applied to both,
 that is to say, part of it had reference to the Argives themselves,
 while that which was added afterwards referred to the Milesians. The
@@ -2638,14 +2929,18 @@ Didyma, with the sacred building and the sanctuary of the Oracle, was
 first plundered and then burnt. Of the things in this temple I have made
 mention frequently in other parts of the history. 11.
 
-20. After this the Milesians who had been taken prisoner were conducted
+## Chapter 20
+
+After this the Milesians who had been taken prisoner were conducted
 to Susa; and king Dareios did to them no other evil, but settled them
 upon the Sea called Erythraian, in the city of Ampe, by which the Tigris
 flows when it runs out into the sea. Of the Milesian land the Persians
 themselves kept the surroundings of the city and the plain, but the
 heights they gave to the Carians of Pedasa for a possession.
 
-21. When the Milesians suffered this treatment from the Persians, the
+## Chapter 21
+
+When the Milesians suffered this treatment from the Persians, the
 men of Sybaris, who were dwelling in Laos and Skidros, being deprived of
 their own city, did not repay like with like: for when Sybaris was taken
 by the men of Croton, the Milesians all from youth upwards shaved their
@@ -2659,7 +2954,9 @@ weeping, and the Athenians moreover fined the poet a thousand drachmas
 on the ground that he had reminded them of their own calamities; and
 they ordered also that no one in future should represent this drama.
 
-22. Miletos then had been stripped bare of its former inhabitants: but
+## Chapter 22
+
+Miletos then had been stripped bare of its former inhabitants: but
 of the Samians they who had substance were by no means satisfied with
 that which had been concerted by the commanders of their fleet with the
 Medes; and taking counsel forthwith after the sea-fight it seemed good
@@ -2674,7 +2971,9 @@ invitation, the Samians alone of all the Ionians set forth, having with
 them those of the Milesians who had escaped: and in the course of this
 matter it happened as follows:--
 
-23. The Samians as they made their way towards Sicily reached Locroi
+## Chapter 23
+
+The Samians as they made their way towards Sicily reached Locroi
 Epizephyroi, and at the same time the people of Zancle, both themselves
 and their king, whose name was Skythes, were encamped about a city
 of the Sikelians, desiring to conquer it. Perceiving these things,
@@ -2699,7 +2998,9 @@ of the Zanclaians he put in bonds and kept himself as slaves, but the
 chief men of them, three hundred in number, he gave to the Samians to
 put to death; which however the Samians did not do.
 
-24. Now Skythes the ruler of the Zanclaians escaped from Incyos to
+## Chapter 24
+
+Now Skythes the ruler of the Zanclaians escaped from Incyos to
 Himera, and thence he came to Asia and went up to the court of Dareios:
 and Dareios accounted him the most righteous of all the men who had come
 up to him from Hellas; for he obtained leave of the king and went away
@@ -2708,7 +3009,9 @@ brought his life to an end among the Persians in old age and possessing
 great wealth. The Samians then, having got rid of the rule of the Medes,
 had gained for themselves without labour the fair city of Zancle.
 
-25. After the sea-battle which was fought for Miletos, the Phenicians by
+## Chapter 25
+
+After the sea-battle which was fought for Miletos, the Phenicians by
 the command of the Persians restored to Samos Aiakes the son of Syloson,
 since he had been to them of much service and had done for them great
 things; and the Samians alone of all who revolted from Dareios, because
@@ -2718,7 +3021,9 @@ Miletos the Persians forthwith got possession of Caria, some of the
 cities having submitted to their power voluntarily, while others of them
 they brought over by force.
 
-26. Thus it came to pass as regards these matters: and meanwhile
+## Chapter 26
+
+Thus it came to pass as regards these matters: and meanwhile
 Histiaios the Milesian, who was at Byzantion and was seizing the
 merchant vessels of the Ionians as they sailed forth out of the Pontus,
 received the report of that which had happened about Miletos. Upon that
@@ -2731,7 +3036,9 @@ slew many of these, but also, taking Polichne of the Chians as his base,
 he conquered with the help of the Lesbians the remainder of the Chians
 as well, since they had suffered great loss by the sea-fight..
 
-27. And heaven is wont perhaps to give signs beforehand whenever great
+## Chapter 27
+
+And heaven is wont perhaps to give signs beforehand whenever great
 evils are about to happen to a city or a race of men; for to the Chians
 also before these events remarkable signs had come. In the first place
 when they had sent to Delphi a chorus of a hundred youths, two only
@@ -2744,7 +3051,9 @@ beforehand; and after this the sea-fight came upon them and brought
 their State down upon its knees; and as the Chians had suffered great
 loss, he without difficulty effected the conquest of them.
 
-28. Thence Histiaios made an expedition against Thasos, taking with him
+## Chapter 28
+
+Thence Histiaios made an expedition against Thasos, taking with him
 a large force of Ionians and Aiolians; and while he was encamped about
 the town of Thasos, a report came to him that the Phenicians were
 sailing up from Miletos to conquer the rest of Ionia. Being informed of
@@ -2757,7 +3066,9 @@ force; and this man fought a battle with him after he had landed, and
 he took Histiaios himself prisoner and destroyed the greater part of his
 army..
 
-29. And Histiaios was taken prisoner in the following manner:--As the
+## Chapter 29
+
+And Histiaios was taken prisoner in the following manner:--As the
 Hellenes were fighting with the Persians at Malene in the district of
 Atarneus, after they had been engaged in close combat for a long time,
 the cavalry at length charged and fell upon the Hellenes; and the
@@ -2769,7 +3080,9 @@ about to be run through by him in the moment of his capture, he spoke
 in Persian and made himself known, saying that he was Histiaios the
 Milesian..
 
-30. If then upon being taken prisoner he had been brought to king
+## Chapter 30
+
+If then upon being taken prisoner he had been brought to king
 Dareios, he would not, as I think, have suffered any harm, but Dareios
 would have forgiven the crime with which he was charged; as it was,
 however, for this very reason and in order that he might not escape
@@ -2783,7 +3096,9 @@ presence alive; and he bade wash the head of Histiaios and bestow upon
 it proper care, and then bury it, as that of one who had been greatly a
 benefactor both of the king himself and of the Persians.
 
-31. Thus it happened about Histiaios; and meanwhile the Persian fleet,
+## Chapter 31
+
+Thus it happened about Histiaios; and meanwhile the Persian fleet,
 after wintering near Miletos, when it put to sea again in the following
 year conquered without difficulty the islands lying near the mainland,
 Chios, Lesbos, and Tenedos; and whenever they took one of the islands,
@@ -2795,7 +3110,9 @@ hunting the people out of it. They took also the Ionian cities on the
 mainland in the same manner, except that they did not sweep off the
 inhabitants thus, for it was not possible..
 
-32. Then the commanders of the Persians proved not false to the threats
+## Chapter 32
+
+Then the commanders of the Persians proved not false to the threats
 with which they had threatened the Ionians when these were encamped
 opposite to them: for in fact when they conquered the cities, they chose
 out the most comely of the boys and castrated them, making eunuchs of
@@ -2805,7 +3122,9 @@ the temples. Thus for the third time had the Ionians been reduced
 to slavery, first by the Lydians and then twice in succession by the
 Persians.
 
-33. Departing from Ionia the fleet proceeded to conquer all the places
+## Chapter 33
+
+Departing from Ionia the fleet proceeded to conquer all the places
 of the Hellespont on the left as one sails in, for those on the right
 had been subdued already by the Persians themselves, approaching them by
 land. Now the cities of the Hellespont in Europe are these:--first comes
@@ -2824,7 +3143,9 @@ Phenicians sailed in had submitted to the king of their own accord, and
 had made terms with Oibares the son of Megabazos, the Persian governor
 at Daskyleion. 20.
 
-34. In the Chersonese then the Phenicians made themselves masters of all
+## Chapter 34
+
+In the Chersonese then the Phenicians made themselves masters of all
 the other cities except the city of Cardia. Of these cities up to that
 time Miltiades the son of Kimon, the son of Stesagoras, had been despot,
 Miltiades the son of Kypselos having obtained this government in the
@@ -2838,7 +3159,9 @@ then passed along the Sacred Road through the land of the Phokians and
 of the Boeotians, and as no man invited them, they turned aside and came
 to Athens..
 
-35. Now at that time in Athens the government was held by Peisistratos,
+## Chapter 35
+
+Now at that time in Athens the government was held by Peisistratos,
 but Miltiades also the son of Kypselos had some power, who belonged to
 a family which kept four-horse chariot teams, and who was descended
 originally from Aiacos and Egina, though in more recent times his family
@@ -2855,7 +3178,9 @@ Peisistratos and desired to be removed out of the way. He set out
 therefore forthwith to Delphi to inquire of the Oracle whether he should
 do that which the Dolonkians asked of him:.
 
-36, and as the Pythian prophetess also bade him do so, Miltiades the
+## Chapter 36
+
+and as the Pythian prophetess also bade him do so, Miltiades the
 son of Kypselos, who had before this been victor at Olympia with a
 four-horse chariot, now taking with him of the Athenians everyone who
 desired to share in the expedition, sailed with the Dolonkians and took
@@ -2867,7 +3192,9 @@ Now the number of furlongs 21 across the isthmus at this place
 is six-and-thirty, and from this isthmus the Chersonese within is
 altogether four hundred and twenty furlongs in length..
 
-37. Having made a wall then across the neck of the Chersonese and having
+## Chapter 37
+
+Having made a wall then across the neck of the Chersonese and having
 in this manner repelled the Apsinthians, Miltiades made war upon the
 people of Lampsacos first of all others; and the people of Lampsacos
 laid an ambush and took him prisoner. Now Miltiades had come to be a
@@ -2883,7 +3210,9 @@ down does not put forth any further growth but perishes, being utterly
 destroyed. The people of Lampsacos therefore fearing Croesus loosed
 Miltiades and let him go..
 
-38. He then escaped by means of Croesus, but afterwards he brought his
+## Chapter 38
+
+He then escaped by means of Croesus, but afterwards he brought his
 life to an end leaving no son to succeed him, but passing over his rule
 and his possessions to Stesagoras, who was the son of Kimon, his brother
 on the mother's side: 24 and the people of the Chersonese still offer
@@ -2896,7 +3225,9 @@ with an axe in the City Hall by a man who pretended to be a deserter,
 but who proved himself to be in fact an enemy and a rather hot one
 moreover..
 
-39. Then after Stesagoras also had ended his life in this manner,
+## Chapter 39
+
+Then after Stesagoras also had ended his life in this manner,
 Miltiades son of Kimon and brother of that Stesagoras who was dead, was
 sent in a trireme to the Chersonese to take possession of the government
 by the sons of Peisistratos, who had dealt well with him at Athens also,
@@ -2912,7 +3243,9 @@ in possession of the Chersonese, supporting a body of five hundred
 mercenary troops; and he married the daughter of Oloros the king of the
 Thracians, who was named Hegesipyle.
 
-40. Now this Miltiades son of Kimon had at the time of which we speak
+## Chapter 40
+
+Now this Miltiades son of Kimon had at the time of which we speak
 but lately returned 27 to the Chersonese; and after he had returned,
 there befell him other misfortunes worse than those which had befallen
 him already; for two years before this he had been a fugitive out of
@@ -2923,7 +3256,9 @@ from the Chersonese, until at last the Scythians departed and the
 Dolonkians brought him back again. These things happened two years
 before the calamities which now oppressed him:.
 
-41, and now, being informed that the Phenicians were at Tenedos, he
+## Chapter 41
+
+and now, being informed that the Phenicians were at Tenedos, he
 filled five triremes with the property which he had at hand and sailed
 away for Athens. And having set out from the city of Cardia he was
 sailing through the gulf of Melas; and as he passed along by the shore
@@ -2944,7 +3279,9 @@ contrary very much good; for he gave him a house and possessions and
 a Persian wife, by whom he had children born who have been ranked as
 Persians. Miltiades meanwhile came from Imbros to Athens.
 
-42. In the course of this year there was done by the Persians nothing
+## Chapter 42
+
+In the course of this year there was done by the Persians nothing
 more which tended to strife with the Ionians, but these things which
 follow were done in this year very much to their advantage.--Artaphrenes
 the governor of Sardis sent for envoys from all the cities and compelled
@@ -2958,7 +3295,9 @@ unaltered from that time even to my own days, as it was appointed by
 Artaphrenes; and the tribute was appointed to be nearly of the same
 amount for each as it had been before..
 
-43. These were things which tended to peace for the Ionians; but at the
+## Chapter 43
+
+These were things which tended to peace for the Ionians; but at the
 beginning of the spring, the other commanders having all been removed
 by the king, Mardonios the son of Gobryas came down to the sea, bringing
 with him a very large land-army and a very large naval force, being a
@@ -2976,7 +3315,9 @@ there was collected a vast number of ships and a large land-army, they
 crossed over the Hellespont in the ships and began to make their way
 through Europe, and their way was directed against Eretria and Athens..
 
-44. These, I say, furnished them the pretence for the expedition,
+## Chapter 44
+
+These, I say, furnished them the pretence for the expedition,
 but they had it in their minds to subdue as many as they could of the
 Hellenic cities; and in the first place they subdued with their ships
 the Thasians, who did not even raise a hand to defend themselves: then
@@ -2995,7 +3336,9 @@ some were seized by these and so perished, while others were dashed
 against the rocks; and some of them did not know how to swim and
 perished for that cause, others again by reason of cold..
 
-45. Thus fared the fleet; and meanwhile Mardonios and the land-army
+## Chapter 45
+
+Thus fared the fleet; and meanwhile Mardonios and the land-army
 while encamping in Macedonia were attacked in the night by the Brygian
 Thracians, and many of them were slain by the Brygians and Mardonios
 himself was wounded. However not even these escaped being enslaved by
@@ -3006,7 +3349,9 @@ fighting against the Brygians and with his fleet in going round Athos.
 So this expedition departed back to Asia having gained no honour by its
 contests.
 
-46. In the next year after this Dareios first sent a messenger to the
+## Chapter 46
+
+In the next year after this Dareios first sent a messenger to the
 men of Thasos, who had been accused by their neighbours of planning
 revolt, and bade them take away the wall around their town and bring
 their ships to Abdera. The Thasians in fact, as they had been besieged
@@ -3020,7 +3365,9 @@ without taxes upon the produce of their soil, had a revenue from the
 mainland and from the mines amounting yearly to two hundred talents, and
 when the amount was highest, to three hundred..
 
-47. I myself saw these mines, and by much the most marvellous of
+## Chapter 47
+
+I myself saw these mines, and by much the most marvellous of
 them were those which the Phenicians discovered, who made the first
 settlement in this island in company with Thasos; and the island had the
 name which it now has from this Thasos the Phenician. These Phenician
@@ -3030,7 +3377,9 @@ mountain which has been all turned up in the search for metal. Thus it
 is with this matter: and the Thasians on the command of the king both
 razed their walls and brought all their ships to Abdera.
 
-48. After this Dareios began to make trial of the Hellenes, what they
+## Chapter 48
+
+After this Dareios began to make trial of the Hellenes, what they
 meant to do, whether to make war with him or to deliver themselves up.
 He sent abroad heralds therefore, and appointed them to go some to one
 place and others to another throughout Hellas, bidding them demand earth
@@ -3039,7 +3388,9 @@ he was sending abroad other heralds to his own tributary cities which
 lay upon the sea-coast, and he bade them have ships of war built and
 also vessels to carry horses..
 
-49. They then were engaged in preparing these things; and meanwhile
+## Chapter 49
+
+They then were engaged in preparing these things; and meanwhile
 when the heralds had come to Hellas, many of those who dwelt upon the
 mainland gave that for which the Persian made demand, 32 and all those
 who dwelt in the islands did so, to whomsoever they came to make their
@@ -3052,7 +3403,9 @@ to get hold of an occasion against them. Accordingly they went backward
 and forwards to Sparta and accused the Eginetans of that which they had
 done, as having proved themselves traitors to Hellas..
 
-50. In consequence of this accusation Cleomenes the son of Anaxandrides,
+## Chapter 50
+
+In consequence of this accusation Cleomenes the son of Anaxandrides,
 king of the Spartans, crossed over to Egina meaning to seize those of
 the Eginetans who were the most guilty; but as he was attempting
 to seize them, certain of the Eginetans opposed him, and among them
@@ -3066,14 +3419,18 @@ Crios 33 what was his name, and he told him the truth; and Cleomenes
 said to him: "Surely now, O Ram, thou must cover over thy horns with
 bronze for thou wilt shortly have a great trouble to contend with."
 
-51. Meanwhile Demaratos the son of Ariston was staying behind in Sparta
+## Chapter 51
+
+Meanwhile Demaratos the son of Ariston was staying behind in Sparta
 and bringing charges against Cleomenes, he also being king of the
 Spartans but of the inferior house; which however is inferior in no
 other way (for it is descended from the same ancestor), but the house of
 Eurysthenes has always been honoured more, apparently because he was the
 elder brother..
 
-52. For the Lacedemonians, who herein agree with none of the poets, say
+## Chapter 52
+
+For the Lacedemonians, who herein agree with none of the poets, say
 that Aristodemos the son of Aristomachos, the son of Cleodaios, the
 son of Hyllos, being their king, led them himself (and not the sons of
 Aristodemos) to this land which they now possess. Then after no long
@@ -3113,7 +3470,9 @@ variance, they say, with one another, though they were brothers,
 throughout the whole time of their lives, and their descendants also
 continued after the same manner.
 
-53. This is the report given by the Lacedemonians alone of all the
+## Chapter 53
+
+This is the report given by the Lacedemonians alone of all the
 Hellenes; but this which follows I write in accordance with that which
 is reported by the Hellenes generally,--I mean that the names of these
 kings of the Dorians are rightly enumerated by the Hellenes up to
@@ -3127,20 +3486,26 @@ their ancestors in succession going back from Danae the daughter of
 Acrisios, the rulers of the Dorians will prove to be Egyptians by direct
 descent..
 
-54. Thus I have traced the descent according to the account given by the
+## Chapter 54
+
+Thus I have traced the descent according to the account given by the
 Hellenes; but as the story is reported which the Persians tell, Perseus
 himself was an Assyrian and became a Hellene, whereas the ancestors of
 Perseus were not Hellenes; and as for the ancestors of Acrisios, who
 (according to this account) belonged not to Perseus in any way by
 kinship, they say that these were, as the Hellenes report, Egyptians..
 
-55. Let it suffice to have said so much about these matters; and as to
+## Chapter 55
+
+Let it suffice to have said so much about these matters; and as to
 the question how and by what exploits being Egyptians they received the
 sceptres of royalty over the Dorians, we will omit these things, since
 others have told about them; but the things with which other narrators
 have not dealt, of these I will make mention.
 
-56. These are the royal rights which have been given by the Spartans
+## Chapter 56
+
+These are the royal rights which have been given by the Spartans
 to their kings, namely, two priesthoods, of Zeus Lakedaimon and Zeus
 Uranios; 37 and the right of making war against whatsoever land they
 please, and that no man of the Spartans shall hinder this right, or
@@ -3150,7 +3515,9 @@ picked men shall be their guard upon expeditions; and that they shall
 use in their goings forth to war as many cattle as they desire, and take
 both the hides and the backs of all that are sacrificed..
 
-57. These are their privileges in war; and in peace moreover things have
+## Chapter 57
+
+These are their privileges in war; and in peace moreover things have
 been assigned to them as follows:--if any sacrifice is performed at the
 public charge, it is the privilege of the kings to sit down at the feast
 before all others, and that the attendants shall begin with them first,
@@ -3182,7 +3549,9 @@ number eight-and-twenty, and if they do not come, those of the Senators
 who are most closely related to them shall have the privileges of the
 kings and give two votes besides their own, making three in all. 4201.
 
-58. These rights have been assigned to the kings for their lifetime by
+## Chapter 58
+
+These rights have been assigned to the kings for their lifetime by
 the Spartan State; and after they are dead these which follow:--horsemen
 go round and announce that which has happened throughout the whole of
 the Laconian land, and in the city women go about and strike upon
@@ -3196,7 +3565,9 @@ the Lacedemonians is dead, then from the whole territory of Lacedemon,
 not reckoning the Spartans, a certain fixed number of the "dwellers
 round" 43 are compelled to go to the funeral ceremony:
 
-59. and when there have been gathered together of these and of the
+## Chapter 59
+
+and when there have been gathered together of these and of the
 Helots and of the Spartans themselves many thousands in the same place,
 with their women intermingled, they beat their foreheads with a good
 will and make lamentation without stint, saying that this one who has
@@ -3212,7 +3583,9 @@ who was a debtor to the king or to the State; while among the Persians
 the king who comes to the throne remits to all the cities the arrears of
 tribute which are due.
 
-60. In the following point also the Lacedemonians resemble the
+## Chapter 60
+
+In the following point also the Lacedemonians resemble the
 Egyptians; that is to say, their heralds and fluteplayers and cooks
 inherit the crafts of their fathers, and a fluteplayer is the son of a
 fluteplayer, a cook of a cook, and a herald of a herald; other men do
@@ -3220,7 +3593,9 @@ not lay hands upon the office because they have loud and clear voices,
 and so shut them out of it, but they practise their craft by inheritance
 from their fathers.
 
-61. Thus are these things done: and at this time of which we speak, 44
+## Chapter 61
+
+Thus are these things done: and at this time of which we speak, 44
 while Cleomenes was in Egina doing deeds 45 which were for the common
 service of Hellas, Demaratos brought charges against him, not so much
 because he cared for the Eginetans as because he felt envy and jealousy
@@ -3253,7 +3628,9 @@ Sparta; and from that day her aspect was changed. Afterwards when she
 came to the age for marriage, she was married to Agetos the son of
 Alkeides, this friend of Ariston of whom we spoke..
 
-62. Now Ariston it seems was ever stung by the desire of this woman, and
+## Chapter 62
+
+Now Ariston it seems was ever stung by the desire of this woman, and
 accordingly he contrived as follows:--he made an engagement himself with
 his comrade, whose wife this woman was, that he would give him as a gift
 one thing of his own possessions, whatsoever he should choose, and he
@@ -3268,7 +3645,9 @@ consented to give anything else except this one thing only, but at
 length being compelled by the oath and by the treacherous deception, 46
 he allowed her to be taken away from him..
 
-63. Thus had Ariston brought into his house the third wife, having
+## Chapter 63
+
+Thus had Ariston brought into his house the third wife, having
 dismissed the second: and this wife, not having fulfilled the ten months
 47 but in a shorter period of time, bore him that Demaratos of whom we
 were speaking; and one of his servants reported to him as he was sitting
@@ -3284,7 +3663,9 @@ because before these things took place the Spartan people all in a body
 who was pre-eminent in renown over all the kings who had ever arisen in
 Sparta.
 
-64. For this reason the name Demaratos 51 was given to him. And as time
+## Chapter 64
+
+For this reason the name Demaratos 51 was given to him. And as time
 went on Ariston died, and Demaratos obtained the kingdom: but it was
 fated apparently that these things should become known and should cause
 Demaratos to be deposed from the kingdom; and therefore 52 Demaratos
@@ -3293,7 +3674,9 @@ when he withdrew his army from Eleusis, and also now especially, when
 Cleomenes had crossed over to take those of the Eginetans who had gone
 over to the Medes..
 
-65. Cleomenes then, being anxious to take vengeance on him, concerted
+## Chapter 65
+
+Cleomenes then, being anxious to take vengeance on him, concerted
 matters with Leotychides the son of Menares, the son of Agis, who was of
 the same house as Demaratos, under condition that if he should set
 him up as king instead of Demaratos, he would go with him against the
@@ -3314,7 +3697,9 @@ was not born of Ariston nor was rightfully reigning over Sparta; and he
 produced as witnesses those Ephors who chanced then to have been sitting
 with Ariston in council and to have heard him say this..
 
-66. At last, as there was contention about those matters, the Spartans
+## Chapter 66
+
+At last, as there was contention about those matters, the Spartans
 resolved to ask the Oracle at Delphi whether Demaratos was the son of
 Ariston. The question then having been referred by the arrangement of
 Cleomenes to the Pythian prophetess, thereupon Cleomenes gained over to
@@ -3327,7 +3712,9 @@ Afterwards however these things became known, and both Cobon went into
 exile from Delphi and Perialla the prophetess of the Oracle was removed
 from her office.
 
-67. With regard to the deposing of Demaratos from the kingdom it
+## Chapter 67
+
+With regard to the deposing of Demaratos from the kingdom it
 happened thus: but Demaratos became an exile from Sparta to the Medes
 on account of a reproach which here follows:--After he had been deposed
 from the kingdom Demaratos was holding a public office to which he had
@@ -3343,7 +3730,9 @@ he veiled his head and went forth out of the theatre to his own house;
 and forthwith he made preparations and sacrificed an ox to Zeus, and
 after having sacrificed he called his mother..
 
-68. Then when his mother had come, he put into her hands some of the
+## Chapter 68
+
+Then when his mother had come, he put into her hands some of the
 inner parts 54 of the victim, and besought her, saying as follows:
 "Mother, I beseech thee, appealing to the other gods and above all to
 this Zeus the guardian of the household, 55 to tell me the truth, who is
@@ -3358,7 +3747,9 @@ women; and the report is commonly believed in Sparta that there was not
 in Ariston seed which should beget children; for if so, then his former
 wives also would have borne children.".
 
-69. Thus he spoke, and she made answer as follows: "My son, since thou
+## Chapter 69
+
+Thus he spoke, and she made answer as follows: "My son, since thou
 dost beseech me with entreaties to speak the truth, the whole truth
 shall be told to thee. When Ariston had brought me into his house, on
 the third night 57 there came to me an apparition in the likeness of
@@ -3388,7 +3779,9 @@ then accept any other reports about thy begetting, for thou hast heard
 in all the full truth; but to Leotychides and to those who report these
 things may their wives bear children by keepers of asses!"
 
-70. Thus she spoke; and he, having learnt that which he desired to
+## Chapter 70
+
+Thus she spoke; and he, having learnt that which he desired to
 learn, took supplies for travelling and set forth to go to Elis,
 pretending that he was going to Delphi to consult the Oracle: but the
 Lacedemonians, suspecting that he was attempting to escape, pursued
@@ -3405,7 +3798,9 @@ and especially having gained for them an Olympic victory with the
 four-horse chariot, being the only one who achieved this of all the
 kings who ever arose in Sparta.
 
-71. Demaratos being deposed, Leotychides the son of Menares succeeded to
+## Chapter 71
+
+Demaratos being deposed, Leotychides the son of Menares succeeded to
 the kingdom; and he had born to him a son Zeuxidemos, whom some of the
 Spartans called Kyniscos. This Zeuxidemos did not become king of
 Sparta, for he died before Leotychides, leaving a son Archidemos: and
@@ -3414,7 +3809,9 @@ sister of Menios and daughter of Diactorides, by whom he had no male
 issue, but a daughter Lampito, whom Archidemos the son of Zeuxidemos
 took in marriage, she being given to him by Leotychides..
 
-72. Leotychides however did not himself 60 live to old age in Sparta,
+## Chapter 72
+
+Leotychides however did not himself 60 live to old age in Sparta,
 but paid a retribution for Demaratos as follows:--he went as commander
 of the Lacedemonians to invade Thessaly, and when he might have reduced
 all to subjection, he accepted gifts of money amounting to a large sum;
@@ -3423,7 +3820,9 @@ glove full of money, he was brought to trial and banished from Sparta,
 and his house was razed to the ground. So he went into exile to Tegea
 and ended his life there..
 
-73. These things happened later; but at this time, when Cleomenes had
+## Chapter 73
+
+These things happened later; but at this time, when Cleomenes had
 brought to a successful issue the affair which concerned Demaratos,
 forthwith he took with him Leotychides and went against the Eginetans,
 being very greatly enraged with them because of their insults towards
@@ -3436,7 +3835,9 @@ Aristocrates, who had the greatest power among them; and having taken
 these away to the land of Attica, they deposited them as a charge with
 the Athenians, who were the bitterest enemies of the Eginetans.
 
-74. After this Cleomenes, since it had become known that he had devised
+## Chapter 74
+
+After this Cleomenes, since it had become known that he had devised
 evil against Demaratos, was seized by fear of the Spartans and retired
 to Thessaly. Thence he came to Arcadia, and began to make mischief 62
 and to combine the Arcadians against Sparta; and besides other oaths
@@ -3450,7 +3851,9 @@ from a rock into a hollow ravine, and round the ravine runs a wall
 of rough stones. Now Nonacris, where it happens that this spring is
 situated, is a city of Arcadia near Pheneos..
 
-75. The Lacedemonians, hearing that Cleomenes was acting thus, were
+## Chapter 75
+
+The Lacedemonians, hearing that Cleomenes was acting thus, were
 afraid, and proceeded to bring him back to Sparta to rule on the same
 terms as before: but when he had come back, forthwith a disease of
 madness seized him (who had been even before this somewhat insane 64),
@@ -3475,7 +3878,9 @@ come down those of the Argives who had fled for refuge from the battle
 and slew them, and also set fire to the grove itself, holding it in no
 regard..
 
-76. For when Cleomenes was consulting the Oracle at Delphi, the answer
+## Chapter 76
+
+For when Cleomenes was consulting the Oracle at Delphi, the answer
 was given him that he should conquer Argos; so he led the Spartans and
 came to the river Erasinos, which is said to flow from the Stymphalian
 lake; for this lake, they say, running out into a viewless chasm,
@@ -3489,7 +3894,9 @@ led his army down to Thyrea; and having done sacrifice to the Sea by
 slaying a bull, he brought them in ships to the land of Tiryns and
 Nauplia..
 
-77. Being informed of this, the Argives came to the rescue towards the
+## Chapter 77
+
+Being informed of this, the Argives came to the rescue towards the
 sea; and when they had got near Tiryns and were at the place which is
 called Hesipeia, 66 they encamped opposite to the Lacedemonians leaving
 no very wide space between the armies. There the Argives were not afraid
@@ -3510,7 +3917,9 @@ and having so resolved they proceeded to do as follows:--whenever the
 Spartan herald proclaimed anything to the Lacedemonians, the Argives
 also did that same thing..
 
-78. So Cleomenes, perceiving that the Argives were doing whatever
+## Chapter 78
+
+So Cleomenes, perceiving that the Argives were doing whatever
 the herald of the Lacedemonians proclaimed, passed the word to the
 Lacedemonians that when the herald should proclaim that they were to
 get breakfast, then they should take up their arms and go to attack the
@@ -3520,7 +3929,9 @@ they attacked them; and many of them they slew, but many more yet took
 refuge in the sacred grove of Argos, and upon these they kept watch,
 sitting round about the place. Then Cleomenes did this which follows:--
 
-79. He had with him deserters, and getting information by inquiring of
+## Chapter 79
+
+He had with him deserters, and getting information by inquiring of
 these, he sent a herald and summoned forth those of the Argives who were
 shut up in the sanctuary, mentioning each by name; and he summoned
 them forth saying that he had received their ransom. Now among the
@@ -3533,7 +3944,9 @@ who were without, at least until one of them climbed up a tree and saw
 from above that which was being done. Accordingly they then no longer
 came forth when they were called.
 
-80. So Cleomenes thereupon ordered all the Helots to pile up brushwood
+## Chapter 80
+
+So Cleomenes thereupon ordered all the Helots to pile up brushwood
 round the sacred grove; and they obeying, he set fire to the grove. And
 when it was now burning, he asked one of the deserters to what god the
 grove was sacred, and the man replied that it was sacred to Argos. When
@@ -3542,7 +3955,9 @@ surely thou hast greatly deceived me, saying that I should conquer
 Argos: I conjecture that the oracle has had its fulfilment for me
 already.".
 
-81. After this Cleomenes sent away the greater part of his army to go
+## Chapter 81
+
+After this Cleomenes sent away the greater part of his army to go
 back to Sparta, but he himself took a thousand of the best men and went
 to the temple of Hera to sacrifice: and when he wished to sacrifice upon
 the altar, the priest forbade him, saying that it was not permitted
@@ -3551,7 +3966,9 @@ however bade the Helots take away the priest from the altar and scourge
 him, and he himself offered the sacrifice. Having so done he returned
 back to Sparta;.
 
-82, and after his return his opponents brought him up before the Ephors,
+## Chapter 82
+
+and after his return his opponents brought him up before the Ephors,
 saying that he had received gifts and therefore had not conquered Argos,
 when he might easily have conquered it. He said to them,--but whether
 he was speaking falsely or whether truly I am not able with certainty to
@@ -3570,7 +3987,9 @@ accomplished for him which the god desired should come to pass. Thus
 speaking he seemed to the Spartans to speak credibly and reasonably, and
 he easily escaped his pursuers. 72
 
-83. Argos however was so bereft of men that their slaves took possession
+## Chapter 83
+
+Argos however was so bereft of men that their slaves took possession
 of all the State, ruling and managing it until the sons of those who had
 perished grew to be men. Then these, endeavouring to gain Argos back
 to themselves, cast them out; and the slaves being driven forth gained
@@ -3581,7 +4000,9 @@ man persuaded the slaves to attack their masters, and in consequence
 of this there was war between them for a long time, until at last with
 difficulty the Argives overcame them.
 
-84. The Argives then say that this was the reason why Cleomenes went mad
+## Chapter 84
+
+The Argives then say that this was the reason why Cleomenes went mad
 and had an evil end: but the Spartans themselves say that Cleomenes was
 not driven mad by any divine power, but that he had become a drinker of
 unmixed wine from having associated with Scythians, and that he went mad
@@ -3600,7 +4021,9 @@ stronger wine, they say "Fill up in Scythian fashion." 73 Thus the
 Spartans report about Cleomenes; but to me it seems that this was a
 retribution which Cleomenes paid for Demaratos.
 
-85. Now when the Eginetans heard that Cleomenes had met his end, they
+## Chapter 85
+
+Now when the Eginetans heard that Cleomenes had met his end, they
 sent messengers to Sparta to denounce Leotychides for the matter of the
 hostages which were being kept at Athens: and the Lacedemonians caused
 a court to assemble and judged that the Eginetans had been dealt with
@@ -3616,7 +4039,9 @@ it." Hearing this the Eginetans abstained from taking him; but they came
 to an agreement that Leotychides should accompany them to Athens and
 restore the men to the Eginetans.
 
-86. When however Leotychides came to Athens and asked for the deposit
+## Chapter 86
+
+When however Leotychides came to Athens and asked for the deposit
 back, the Athenians, not being willing to give up the hostages, produced
 pretexts for refusing, and alleged that two kings had deposited them
 and they did not think it right to give them back to the one without the
@@ -3681,7 +4106,9 @@ has been utterly destroyed and rooted up out of Sparta. Thus it is
 good not even to entertain a thought about a deposit other than that of
 restoring it, when they who made it ask for it again."
 
-87. When Leotychides had thus spoken, since not even so were the
+## Chapter 87
+
+When Leotychides had thus spoken, since not even so were the
 Athenians willing to listen to him, he departed back; and the Eginetans,
 before paying the penalty for their former wrongs wherein they
 did outrage to the Athenians to please the Thebans, 77 acted as
@@ -3693,7 +4120,9 @@ which was sent to it and took it, the vessel being full of men who were
 the first among the Athenians; and having taken it they laid the men in
 bonds..
 
-88. The Athenians after they had suffered this wrong from the Eginetans
+## Chapter 88
+
+The Athenians after they had suffered this wrong from the Eginetans
 no longer delayed to contrive all things possible to their hurt.
 And there was 79 in Egina a man of repute, one Nicodromos the son of
 Cnithos: 80 this man had cause of complaint against the Eginetans for
@@ -3703,7 +4132,9 @@ agreed with the Athenians to deliver up Egina to them, telling them on
 what day he would make his attempt and by what day it would be necessary
 for them to come to his assistance..
 
-89. After this Nicodromos, according as he had agreed with the
+## Chapter 89
+
+After this Nicodromos, according as he had agreed with the
 Athenians, seized that which is called the old city, but the Athenians
 did not come to his support at the proper time; for, as it chanced, they
 had not ships sufficient to fight with the Eginetans; so while they were
@@ -3716,13 +4147,17 @@ ships of which I speak and also their own, the Athenians with seventy
 ships manned in all sailed to Egina, and they were later by one day than
 the time agreed..
 
-90. Nicodromos meanwhile, as the Athenians did not come to his support
+## Chapter 90
+
+Nicodromos meanwhile, as the Athenians did not come to his support
 at the proper time, embarked in a ship and escaped from Egina, and
 with him also went others of the Eginetans; and the Athenians gave them
 Sunion to dwell in, starting from whence these men continued to plunder
 the Eginetans who were in the island..
 
-91. This happened afterwards: but at the time of which we speak the
+## Chapter 91
+
+This happened afterwards: but at the time of which we speak the
 well-to-do class among the Eginetans prevailed over the men of the
 people, who had risen against them in combination with Nicodromos, and
 then having got them into their power they were bringing their prisoners
@@ -3738,7 +4173,9 @@ that they could not drag him from it by pulling him away, they cut off
 his hands and so carried him off, and those hands remained clinging to
 the latch of the door..
 
-92. Thus did the Eginetans to one another: and when the Athenians came,
+## Chapter 92
+
+Thus did the Eginetans to one another: and when the Athenians came,
 they fought against them with seventy ships, and being worsted in
 the sea-fight they called to their assistance the same whom they had
 summoned before, namely the Argives. These would no longer come to their
@@ -3759,11 +4196,15 @@ but were slain by the Athenians in Egina; and the commander himself,
 Eurybates, fighting in single combat 83 killed in this manner three men
 and was himself slain by the fourth, Sophanes namely of Dekeleia.
 
-93. The Eginetans however engaged in contest with the Athenians in
+## Chapter 93
+
+The Eginetans however engaged in contest with the Athenians in
 ships, when these were in disorder, and defeated them; and they took of
 them four ships together with their crews.
 
-94. So the Athenians were at war with the Eginetans; and meanwhile the
+## Chapter 94
+
+So the Athenians were at war with the Eginetans; and meanwhile the
 Persian was carrying forward his design, since he was put in mind ever
 by his servant to remember the Athenians, and also because of the
 sons of Peisistratos were near at hand and brought charges continually
@@ -3777,7 +4218,9 @@ of Artaphrenes, a nephew of the king: and he sent them forth with the
 charge to reduce Athens and Eretria to slavery and to bring the slaves
 back into his presence..
 
-95. When these who had been appointed to command came in their march
+## Chapter 95
+
+When these who had been appointed to command came in their march
 from the king to the Aleïan plain in Kilikia, taking with them a large
 and well-equipped land-army, then while they were encamping there,
 the whole naval armament came up, which had been appointed for several
@@ -3793,7 +4236,9 @@ that in the former year 85 while making the passage by this way they had
 come to great disaster. Moreover also Naxos compelled them, since it had
 not been conquered at the former time. 86.
 
-96. And when they had arrived at Naxos, coming against it from the
+## Chapter 96
+
+And when they had arrived at Naxos, coming against it from the
 Icarian Sea (for it was against Naxos first that the Persians intended
 to make expedition, remembering the former events), the Naxians departed
 forthwith fleeing to the mountains, and did not await their attack; but
@@ -3801,7 +4246,9 @@ the Persians made slaves of those of them whom they caught and set fire
 to both the temples and the town. Having so done they put out to sea to
 attack the other islands.
 
-97. While these were doing thus, the Delians also had left Delos and
+## Chapter 97
+
+While these were doing thus, the Delians also had left Delos and
 fled away to Tenos; and when the armament was sailing in thither, Datis
 sailed on before and did not allow the ships to anchor at the island of
 Delos, but at Rhenaia on the other side of the channel; and he himself,
@@ -3815,7 +4262,9 @@ therefore return to your own possessions and dwell in your island." Thus
 he proclaimed by a herald to the Delians; and after this he piled up and
 burned upon the altar three hundred talents' weight of frankincense.
 
-98. Datis having done these things sailed away with his army to fight
+## Chapter 98
+
+Datis having done these things sailed away with his army to fight
 against Eretria first, taking with him both Ionians and Aiolians; and
 after he had put out to sea from thence, Delos was moved, not having
 been shaken (as the Delians reported to me) either before that time
@@ -3837,7 +4286,9 @@ meaning--Dareios means "compeller," 88 Xerxes "warrior," 89 Artoxerxes
 "great warrior." 90 Thus then might the Hellenes rightly call these
 kings in their own tongue.
 
-99. The Barbarians then, when they had departed from Delos, touched at
+## Chapter 99
+
+The Barbarians then, when they had departed from Delos, touched at
 the islands as they went, and from them received additional forces and
 took sons of the islanders as hostages: and when in sailing round about
 the islands they put in also to Carystos, seeing that the Carystians
@@ -3846,7 +4297,9 @@ against cities that were their neighbours, meaning Eretria and Athens,
 they began to besiege them and to ravage their land; until at last the
 Carystians also came over to the will of the Persians..
 
-100. The Eretrians meanwhile being informed that the armament of the
+## Chapter 100
+
+The Eretrians meanwhile being informed that the armament of the
 Persians was sailing to attack them, requested the Athenians to help
 them; and the Athenians did not refuse their support, but gave as
 helpers those four thousand to whom had been allotted the land of the
@@ -3862,7 +4315,9 @@ Athenians who had come, and entreated them to depart and go to their own
 land, that they might not also perish. So the Athenians did according to
 this counsel given to them by Aischines..
 
-101. And while these passed over to Oropos and saved themselves, the
+## Chapter 101
+
+And while these passed over to Oropos and saved themselves, the
 Persians sailed on and brought their ships to land about Temenos
 and Chioreai and Aigilea in the Eretrian territory; and having taken
 possession of these places, 9101 forthwith they began to disembark their
@@ -3877,14 +4332,18 @@ Persians. These having entered the city plundered and set fire to the
 temples in retribution for the temples which were burned at Sardis, and
 also reduced the people to slavery according to the commands of Dareios.
 
-102. Having got Eretria into their power, they stayed a few days and
+## Chapter 102
+
+Having got Eretria into their power, they stayed a few days and
 then sailed for the land of Attica, pressing on 92 hard and supposing
 that the Athenians would do the same as the Eretrians had done. And
 since Marathon was the most convenient place in Attica for horsemen
 to act and was also very near to Eretria, therefore Hippias the son of
 Peisistratos was guiding them thither..
 
-103. When the Athenians had information of this, they too went to
+## Chapter 103
+
+When the Athenians had information of this, they too went to
 Marathon to the rescue of their land; and they were led by ten generals,
 of whom the tenth was Miltiades, whose father Kimon of Stesagoras had
 been compelled to go into exile from Athens because of Peisistratos the
@@ -3909,7 +4368,9 @@ father's brother Miltiades in the Chersonese, while the younger son
 was being brought up at Athens with Kimon himself, having been named
 Miltiades after Miltiades the settler of the Chersonese..
 
-104. This Miltiades then at the time of which we speak had come from the
+## Chapter 104
+
+This Miltiades then at the time of which we speak had come from the
 Chersonese and was a general of the Athenians, after escaping death in
 two forms; for not only did the Phenicians, who had pursued after him as
 far as Imbros, endeavour earnestly to take him and bring him up to the
@@ -3920,7 +4381,9 @@ brought him up before a court and prosecuted him for his despotism in
 the Chersonese. Having escaped these also, he had then been appointed a
 general of the Athenians, being elected by the people.
 
-105. First of all, while they were still in the city, the generals sent
+## Chapter 105
+
+First of all, while they were still in the city, the generals sent
 off to Sparta a herald, namely Pheidippides 94 an Athenian and for the
 rest a runner of long day-courses and one who practised this as his
 profession. With this man, as Pheidippides himself said and as he made
@@ -3934,7 +4397,9 @@ been now prosperously settled, established under the Acropolis a temple
 of Pan; and in consequence of this message they propitiate him with
 sacrifice offered every year and with a torch-race..
 
-106. However at that time, the time namely when he said that Pan
+## Chapter 106
+
+However at that time, the time namely when he said that Pan
 appeared to him, this Pheidippides having been sent by the generals was
 in Sparta on the next day after that on which he left the city of
 the Athenians; and when he had come to the magistrates he said:
@@ -3949,7 +4414,9 @@ their law; for it was the ninth day of the month, and on the ninth day
 they said they would not go forth, nor until the circle of the moon
 should be full. 95
 
-107. These men were waiting for the full moon: and meanwhile Hippias
+## Chapter 107
+
+These men were waiting for the full moon: and meanwhile Hippias
 the son of Peisistratos was guiding the Barbarians in to Marathon, after
 having seen on the night that was just past a vision in his sleep of
 this kind,--it seemed to Hippias that he lay with his own mother. He
@@ -3970,7 +4437,9 @@ searched, he groaned aloud and said to those who were by him: "This land
 is not ours, nor shall we be able to make it subject to us; but so much
 part in it as belonged to me the tooth possesses."
 
-108. Hippias then conjectured that his vision had been thus fulfilled:
+## Chapter 108
+
+Hippias then conjectured that his vision had been thus fulfilled:
 and meanwhile, after the Athenians had been drawn up in the sacred
 enclosure of Heracles, there joined them the Plataians coming to their
 help in a body: for the Plataians had given themselves to the Athenians,
@@ -4007,7 +4476,9 @@ Plataians then had given themselves to the Athenians in the manner which
 has been said, and at this time they came to Marathon to bring them
 help.
 
-109. Now the opinions of the generals of the Athenians were divided,
+## Chapter 109
+
+Now the opinions of the generals of the Athenians were divided,
 and the one party urged that they should not fight a battle, seeing that
 they were too few to fight with the army of the Medes, while the others,
 and among them Miltiades, advised that they should do so: and when they
@@ -4040,7 +4511,9 @@ among the cities of Hellas; but if thou choose the opinion of those who
 are earnest against fighting, thou shalt have the opposite of those good
 things of which I told thee.".
 
-110. Thus speaking Miltiades gained Callimachos to his side; and the
+## Chapter 110
+
+Thus speaking Miltiades gained Callimachos to his side; and the
 opinion of the polemarch being added, it was thus determined to fight
 a battle. After this, those generals whose opinion was in favour of
 fighting, as the turn of each one of them to command for the day 100
@@ -4048,7 +4521,9 @@ came round, gave over their command to Miltiades; and he, accepting
 it, would not however yet bring about a battle, until his own turn to
 command had come..
 
-111. And when it came round to him, then the Athenians were drawn up for
+## Chapter 111
+
+And when it came round to him, then the Athenians were drawn up for
 battle in the order which here follows:--On the right wing the polemarch
 Callimachos was leader (for the custom of the Athenians then was this,
 that the polemarch should have the right wing); and he leading, next
@@ -4064,7 +4539,9 @@ of the Medes, came to drawn up in the middle with a depth of but few
 ranks, and here their army was weakest, while each wing was strengthened
 with numbers..
 
-112. And when they had been arranged in their places and the sacrifices
+## Chapter 112
+
+And when they had been arranged in their places and the sacrifices
 proved favourable, then the Athenians were let go, and they set forth at
 a run to attack the Barbarians. Now the space between the armies was not
 less than eight furlongs: 105 and the Persians seeing them advancing
@@ -4079,7 +4556,9 @@ enemy at a run, and they were the first also who endured to face the
 Median garments and the men who wore them, whereas up to this time the
 very name of the Medes was to the Hellenes a terror to hear..
 
-113. Now while they fought in Marathon, much time passed by; and in the
+## Chapter 113
+
+Now while they fought in Marathon, much time passed by; and in the
 centre of the army, where the Persians themselves and the Sacans were
 drawn up, the Barbarians were winning,--here, I say, the Barbarians had
 broken the ranks of their opponents and were pursuing them inland, but
@@ -4091,14 +4570,18 @@ the Athenians were victorious. So they followed after the Persians as
 they fled, slaughtering them, until they came to the sea; and then they
 called for fire and began to take hold of the ships..
 
-114. In this part of the work was slain the polemarch Callimachos
+## Chapter 114
+
+In this part of the work was slain the polemarch Callimachos
 after having proved himself a good man, and also one of the generals,
 Stesilaos the son of Thrasylaos, was killed; and besides this Kynegeiros
 the son of Euphorion while taking hold 107 there of the ornament at
 the stern of a ship had his hand cut off with an axe and fell; and many
 others also of the Athenians who were men of note were killed..
 
-115. Seven of the ships the Athenians got possession of in this manner,
+## Chapter 115
+
+Seven of the ships the Athenians got possession of in this manner,
 but with the rest the Barbarians pushed off from land, and after taking
 the captives from Eretria off the island where they had left them,
 they sailed round Sunion, purposing to arrive at the city before the
@@ -4107,7 +4590,9 @@ effect that they formed this design by contrivance of the Alcmaionidai;
 for these, it was said, having concerted matters with the Persians,
 displayed to them a shield when they had now embarked in their ships..
 
-116. These then, I say, were sailing round Sunion; and meanwhile the
+## Chapter 116
+
+These then, I say, were sailing round Sunion; and meanwhile the
 Athenians came to the rescue back to the city as speedily as they could,
 and they arrived there before the Barbarians came; and having arrived
 from the temple of Heracles at Marathon they encamped at another temple
@@ -4116,7 +4601,9 @@ came and lay with their ships in the sea which is off Phaleron, (for
 this was then the seaport of the Athenians), they anchored their ships,
 I say, off this place, and then proceeded to sail back to Asia.
 
-117. In this fight at Marathon there were slain of the Barbarians about
+## Chapter 117
+
+In this fight at Marathon there were slain of the Barbarians about
 six thousand four hundred men, and of the Athenians a hundred and ninety
 and two. Such was the number which fell on both sides; and it happened
 also that a marvel occurred there of this kind:--an Athenian, Epizelos
@@ -4130,7 +4617,9 @@ tall man in full armour stood against him, whose beard overshadowed his
 whole shield; and this apparition passed him by, but killed his comrade
 who stood next to him. Thus, as I was informed, Epizelos told the tale.
 
-118. Datis, however, as he was going with his army to Asia, when he had
+## Chapter 118
+
+Datis, however, as he was going with his army to Asia, when he had
 come to Myconos saw a vision in his sleep; and of what nature the vision
 was it is not reported, but as soon as day dawned he caused a search to
 be made of the ships, and finding in a Phenician ship an image of Apollo
@@ -4144,7 +4633,9 @@ this charge sailed away: the Delians however did not convey the statue
 back, but after an interval of twenty years the Thebans themselves
 brought it to Delion by reason of an oracle..
 
-119. Now as to those Eretrians who had been reduced to slavery, Datis
+## Chapter 119
+
+Now as to those Eretrians who had been reduced to slavery, Datis
 and Artaphrenes, when they reached Asia in their voyage, brought them
 up to Susa; and king Dareios, though he had great anger against the
 Eretrians before they were made captive, because the Eretrians had done
@@ -4165,7 +4656,9 @@ as settlers; and even to my time they continued to occupy this land,
 keeping still their former language. Thus it happened with regard to the
 Eretrians.
 
-120. Of the Lacedemonians there came to Athens two thousand after the
+## Chapter 120
+
+Of the Lacedemonians there came to Athens two thousand after the
 full moon, making great haste to be in time, so that they arrived in
 Attica on the third day after leaving Sparta: and though they had come
 too late for the battle, yet they desired to behold the Medes; and
@@ -4173,7 +4666,9 @@ accordingly they went out to Marathon and looked at the bodies of the
 slain: then afterwards they departed home, commending the Athenians and
 the work which they had done.
 
-121. Now it is a cause of wonder to me, and I do not accept the report,
+## Chapter 121
+
+Now it is a cause of wonder to me, and I do not accept the report,
 that the Alcmaionidai could ever have displayed to the Persians a shield
 by a previous understanding, with the desire that the Athenians
 should be under the Barbarians and under Hippias; seeing that they are
@@ -4184,7 +4679,9 @@ Peisistratos was driven out of Athens, to buy his goods offered for sale
 by the State, and in other ways also he contrived against him everything
 that was most hostile:
 
-122. Of this Callias it is fitting that every one should have
+## Chapter 122
+
+Of this Callias it is fitting that every one should have
 remembrance for many reasons: first because of that which has been
 before said, namely that he was a man of excellence in freeing his
 country; and then also for that which he did at the Olympic games,
@@ -4198,7 +4695,9 @@ magnificent dowry and also indulged their inclinations; for whomsoever
 of all the Athenians each one of them desired to choose as a husband for
 herself, to that man he gave her.] 109.
 
-123, and similarly, 110 the Alcmaionidai were haters of despots equally
+## Chapter 123
+
+and similarly, 110 the Alcmaionidai were haters of despots equally
 or more 111 than he. Therefore this is a cause of wonder to me, and I do
 not admit the accusation that these they were who displayed the shield;
 seeing that they were in exile from the despots during their whole time,
@@ -4212,7 +4711,9 @@ truth the men who persuaded the Pythian prophetess to signify to the
 Lacedemonians that they should set Athens free, as I have set forth
 before..
 
-124. It may be said however that they had some cause of complaint
+## Chapter 124
+
+It may be said however that they had some cause of complaint
 against the people of the Athenians, and therefore endeavoured to betray
 their native city. But on the contrary there were no men in greater
 repute than they, among the Athenians at least, nor who had been more
@@ -4221,7 +4722,9 @@ shield should have been displayed for any such purpose. A shield was
 displayed, however; that cannot be denied, for it was done: but as to
 who it was who displayed it, I am not able to say more than this.
 
-125. Now the family of Alcmaionidai was distinguished in Athens in the
+## Chapter 125
+
+Now the family of Alcmaionidai was distinguished in Athens in the
 earliest times also, and from the time of Alcmaion and of Megacles after
 him they became very greatly distinguished. For first Alcmaion the son
 of Megacles showed himself a helper of the Lydians from Sardis who came
@@ -4247,7 +4750,9 @@ value to that. Thus this house became exceedingly wealthy, and thus the
 Alcmaion of whom I speak became a breeder of chariot-horses and won a
 victory at Olympia..
 
-126. Then in the next generation after this, Cleisthenes the despot of
+## Chapter 126
+
+Then in the next generation after this, Cleisthenes the despot of
 Sikyon exalted the family, so that it became of much more note among
 the Hellenes than it had been formerly. For Cleisthenes the son of
 Arisonymos, the son of Myron, the son of Andreas, had a daughter whose
@@ -4263,7 +4768,9 @@ who had pride either in themselves or in their high descent, 112 came
 as wooers, and for them Cleisthenes had a running-course and a
 wrestling-place made and kept them expressly for their use..
 
-127. From Italy came Smindyrides the son of Hippocrates of Sybaris, who
+## Chapter 127
+
+From Italy came Smindyrides the son of Hippocrates of Sybaris, who
 of all men on earth reached the highest point of luxury (now Sybaris at
 this time was in the height of its prosperity), and Damasos of Siris,
 the son of that Amyris who was called the Wise; these came from Italy:
@@ -4289,7 +4796,9 @@ was flourishing, came Lysanias, he alone from Euboea: from Thessalia
 came Diactorides of Crannon, one of the family of the Scopadai: and from
 the Molossians, Alcon..
 
-128. So many in number did the wooers prove to be: and when these had
+## Chapter 128
+
+So many in number did the wooers prove to be: and when these had
 come by the appointed day, Cleisthenes first inquired of their native
 countries and of the descent of each one, and then keeping them for a
 year he made trial continually both of their manly virtue and of
@@ -4304,7 +4813,9 @@ son of Tisander was rather preferred, both by reason of manly virtues
 and also because he was connected by descent with the family of Kypselos
 at Corinth.
 
-129. Then when the appointed day came for the marriage banquet and for
+## Chapter 129
+
+Then when the appointed day came for the marriage banquet and for
 Cleisthenes himself to declare whom he selected from the whole number,
 Cleisthenes sacrificed a hundred oxen and feasted both the wooers
 themselves and all the people of Sikyon; and when the dinner was over,
@@ -4326,7 +4837,9 @@ gesticulated with his legs, he was no longer able to restrain himself,
 but said: "Thou hast danced away thy marriage however, 115 son of
 Tisander!" and Hippocleides answered and said: "Hippocleides cares not!"
 
-130. and hence comes this saying. Then Cleisthenes caused silence to
+## Chapter 130
+
+and hence comes this saying. Then Cleisthenes caused silence to
 be made, and spoke to the company as follows: "Men who are wooers of my
 daughter, I commend you all, and if it were possible I would gratify
 you all, neither selecting one of you to be preferred, nor rejecting the
@@ -4340,7 +4853,9 @@ betrothal according to the customs of the Athenians." Thereupon Megacles
 said that he accepted the betrothal, and so the marriage was determined
 by Cleisthenes.
 
-131. Thus it happened as regards the judgment of the wooers, and thus
+## Chapter 131
+
+Thus it happened as regards the judgment of the wooers, and thus
 the Alcmaionidai got renown over all Hellas. And these having been
 married, there was born to them that Cleisthenes who established the
 tribes and the democracy for the Athenians, he being called after the
@@ -4352,7 +4867,9 @@ and being with child, saw a vision in her sleep, and it seemed to her
 that she had brought forth a lion: then after a few days she bore to
 Xanthippos Pericles.
 
-132. After the defeat at Marathon, Miltiades, who even before was well
+## Chapter 132
+
+After the defeat at Marathon, Miltiades, who even before was well
 reputed with the Athenians, came then to be in much higher estimation:
 and when he asked the Athenians for seventy ships and an army with
 supplies of money, not declaring to them against what land he was
@@ -4362,7 +4879,9 @@ such a kind that they would easily get from it gold in abundance,--thus
 saying he asked for the ships; and the Athenians, elated by these words,
 delivered them over to him..
 
-133. Then Miltiades, when he had received the army, proceeded to sail
+## Chapter 133
+
+Then Miltiades, when he had received the army, proceeded to sail
 to Paris with the pretence that the Parians had first attacked Athens by
 making expedition with triremes to Marathon in company with the Persian:
 this was the pretext which he put forward, but he had also a grudge
@@ -4379,7 +4898,9 @@ besides and also this,--wherever at any time the wall proved to be open
 to attack, that point was raised when night came on to double its former
 height..
 
-134. So much of the story is reported by all the Hellenes, but as to
+## Chapter 134
+
+So much of the story is reported by all the Hellenes, but as to
 what followed the Parians alone report, and they say that it happened
 thus:--When Miltiades was at a loss, it is said, there came a woman to
 speech with him, who had been taken prisoner, a Parian by race whose
@@ -4398,7 +4919,9 @@ set off to go back the same way as he came, and as he leapt down from
 the wall of rough stones his thigh was dislocated, or, as others say, he
 struck his knee against the wall..
 
-135. Miltiades accordingly, being in a wretched case, set forth to sail
+## Chapter 135
+
+Miltiades accordingly, being in a wretched case, set forth to sail
 homewards, neither bringing wealth to the Athenians nor having added
 to them the possession of Paros, but having besieged the city for
 six-and-twenty days and laid waste the island: and the Parians being
@@ -4414,7 +4937,9 @@ was not the true author of these things, but since it was destined that
 Miltiades should end his life not well, she had appeared to guide him to
 his evil fate..
 
-136. Thus the Pythian prophetess replied to the Parians: and the
+## Chapter 136
+
+Thus the Pythian prophetess replied to the Parians: and the
 Athenians, when Miltiades had returned back from Paros, began to talk of
 him, and among the rest especially Xanthippos the son of Ariphron, who
 brought Miltiades up before the people claiming the penalty of death and
@@ -4430,7 +4955,9 @@ penalty of death, but they imposed a fine of fifty talents for the wrong
 committed: and after this Miltiades died, his thigh having gangrened and
 mortified, and the fifty talents were paid by his son Kimon.
 
-137. Now Miltiades son of Kimon had thus taken possession of the
+## Chapter 137
+
+Now Miltiades son of Kimon had thus taken possession of the
 Lemnos:--After the Pelasgians had been cast out of Attica by the
 Athenians, whether justly or unjustly,--for about this I cannot tell
 except the things reported, which are these:--Hecataois on the one hand,
@@ -4459,7 +4986,9 @@ several older places and especially of Lemnos. The former story is that
 which was reported by Hecataios, while the latter is that which is told
 by the Athenians..
 
-138. These Pelasgians then, dwelling after that in Lemnos, desired to
+## Chapter 138
+
+These Pelasgians then, dwelling after that in Lemnos, desired to
 take vengeance on the Athenians; and having full knowledge also of the
 festivals of the Athenians, they got 122 fifty-oared galleys and laid
 wait for the women of the Athenians when they were keeping festival to
@@ -4484,7 +5013,9 @@ this, which the women did when they killed Thoas and the rest, who were
 their own husbands, it has become a custom in Hellas that all deeds of
 great cruelty should be called "Lemnian deeds.".
 
-139. After the Pelasgians had killed their own sons and wives, the earth
+## Chapter 139
+
+After the Pelasgians had killed their own sons and wives, the earth
 did not bear fruit for them, nor did their women or their cattle bring
 forth young as they did before; and being hard pressed by famine and by
 childlessness, they sent to Delphi to ask for a release from the evils
@@ -4500,7 +5031,9 @@ single day a ship shall accomplish the voyage from your land to ours,
 then we will deliver it up," feeling assured that it was impossible for
 this to happen, since Attica lies far away to the South of Lemnos..
 
-140. Such were the events which happened then: and very many years
+## Chapter 140
+
+Such were the events which happened then: and very many years
 later, after the Chersonese which is by the Hellespont had come to be
 under the Athenians, Miltiades the son of Kimon, when the Etesian Winds
 blew steadily, accomplished the voyage in a ship from Elaius in the
@@ -4825,7 +5358,9 @@ fifty-oared galleys in place."]
 
 ## Book VII. The Seventh Book of the Histories, Called Polymnia
 
-1. Now when the report came to Dareios the son of Hystaspes of the
+## Chapter 1
+
+Now when the report came to Dareios the son of Hystaspes of the
 battle which was fought at Marathon, the king, who even before this had
 been greatly exasperated with the Athenians on account of the attack
 made upon Sardis, then far more than before displayed indignation, and
@@ -4840,7 +5375,9 @@ preparations. In the fourth year however the Egyptians, who had been
 reduced to subjection by Cambyses, revolted from the Persians; and then
 he was even more desirous of marching against both these nations.
 
-2. While Dareios was thus preparing to set out against Egypt and against
+## Chapter 2
+
+While Dareios was thus preparing to set out against Egypt and against
 Athens, there arose a great strife among his sons about the supreme
 power; and they said that he must not make his expeditions until he
 had designated one of them to be king, according to the custom of the
@@ -4855,7 +5392,9 @@ have the rule, and Xerxes arguing that he was the son of Atossa the
 daughter of Cyrus, and that Cyrus was he who had won for the Persians
 their freedom.
 
-3. Now while Dareios did not as yet declare his judgment, it chanced
+## Chapter 3
+
+Now while Dareios did not as yet declare his judgment, it chanced
 that Demaratos also, the son of Ariston, had come up to Susa at this
 very same time, having been deprived of the kingdom in Sparta and having
 laid upon himself a sentence of exile from Lacedemon. This man, hearing
@@ -4875,14 +5414,18 @@ which was just, designated him to be king. It is my opinion however that
 even without this suggestion Xerxes would have become king, for Atossa
 was all-powerful.
 
-4. Then having designated Xerxes to the Persians as their king, Dareios
+## Chapter 4
+
+Then having designated Xerxes to the Persians as their king, Dareios
 wished to go on his expeditions. However in the next year after this and
 after the revolt of Egypt, it came to pass that Dareios himself died,
 having been king in all six-and-thirty years; and thus he did not
 succeed in taking vengeance either upon the revolted Egyptians or upon
 the Athenians.
 
-5. Dareios being dead the kingdom passed to his son Xerxes. Now Xerxes
+## Chapter 5
+
+Dareios being dead the kingdom passed to his son Xerxes. Now Xerxes
 at the first was by no means anxious to make a march against Hellas, but
 against Egypt he continued to gather a force. Mardonios however, the son
 of Gobryas, who was a cousin of Xerxes, being sister's son to Dareios,
@@ -4901,7 +5444,9 @@ that Europe was a very fair land and bore all kinds of trees that are
 cultivated for fruit, and was of excellent fertility, and such that the
 king alone of all mortals was worthy to possess it.
 
-6. These things he was wont to say, since he was one who had a desire
+## Chapter 6
+
+These things he was wont to say, since he was one who had a desire
 for perilous enterprise and wished to be himself the governor of Hellas
 under the king. So in time he prevailed upon Xerxes and persuaded him to
 do this; for other things also assisted him and proved helpful to him
@@ -4930,7 +5475,9 @@ and he set forth the manner of the march. He then thus urged Xerxes with
 oracles, while the sons of Peisistratos and the Aleuadai pressed him
 with their advice.
 
-7. So when Xerxes had been persuaded to make an expedition against
+## Chapter 7
+
+So when Xerxes had been persuaded to make an expedition against
 Hellas, then in the next year after the death of Dareios he made a march
 first against those who had revolted. Having subdued these and having
 reduced all Egypt to slavery much greater than it had suffered in the
@@ -4938,7 +5485,9 @@ reign of Dareios, he entrusted the government of it to Achaimenes his
 own brother, a son of Dareios. Now this Achaimenes being a governor of
 Egypt was slain afterwards by Inaros the son of Psammetichos, a Libyan.
 
-8. Xerxes then after the conquest of Egypt, being about to take in hand
+## Chapter 8
+
+Xerxes then after the conquest of Egypt, being about to take in hand
 the expedition against Athens, summoned a chosen assembly of the best
 men among the Persians, that he might both learn their opinions and
 himself in the presence of all declare that which he intended to do;
@@ -4994,7 +5543,9 @@ Thus must these things be done: but that I may not seem to you to be
 following my own counsel alone, I propose the matter for discussion,
 bidding any one of you who desires it, declare his opinion."
 
-9. Having thus spoken he ceased; and after him Mardonios said: "Master,
+## Chapter 9
+
+Having thus spoken he ceased; and after him Mardonios said: "Master,
 thou dost surpass not only all the Persians who were before thee, but
 also those who shall come after, since thou didst not only attain in
 thy words to that which is best and truest as regards other matters, but
@@ -5036,7 +5587,9 @@ would learn that we are the best of all men in the matters of war.
 However that may be, let not anything be left untried; for nothing comes
 of itself, but from trial all things are wont to come to men."
 
-10. Mardonios having thus smoothed over the resolution expressed by
+## Chapter 10
+
+Mardonios having thus smoothed over the resolution expressed by
 Xerxes had ceased speaking: and when the other Persians were silent and
 did not venture to declare an opinion contrary to that which had been
 proposed, then Artabanos the son of Hystaspes, being father's brother to
@@ -5129,7 +5682,9 @@ to pass even before that upon the way), and that thou hast at length
 been made aware against what kind of men thou art persuading the king to
 march."
 
-11. Artabanos thus spoke; and Xerxes enraged by it made answer as
+## Chapter 11
+
+Artabanos thus spoke; and Xerxes enraged by it made answer as
 follows: "Artabanos, thou art my father's brother, and this shall save
 thee from receiving any recompense such as thy foolish words deserve.
 Yet I attach to thee this dishonour, seeing that thou art a coward and
@@ -5154,7 +5709,9 @@ men,--men whom Pelops the Phrygian, who was the slave of my forefathers,
 so subdued that even to the present day both the men themselves and
 their land are called after the name of him who subdued them."
 
-12. Thus far was it spoken then; but afterwards when darkness came on,
+## Chapter 12
+
+Thus far was it spoken then; but afterwards when darkness came on,
 the opinion of Artabanos tormented Xerxes continually; and making night
 his counsellor he found that it was by no means to his advantage to make
 the march against Hellas. So when he had thus made a new resolve, he
@@ -5167,7 +5724,9 @@ well in changing thy counsel, nor will he who is here present with thee
 excuse thee from it; 1301 but as thou didst take counsel in the day to
 do, by that way go."
 
-13. After he had said this, Xerxes thought that he who had spoken flew
+## Chapter 13
+
+After he had said this, Xerxes thought that he who had spoken flew
 away; and when day had dawned he made no account of this dream, but
 gathered together the Persians whom he had assembled also the former
 time and said to them these words: "Persians, pardon me that I make
@@ -5180,7 +5739,9 @@ now I acknowledge that he is right, and I shall follow his opinion.
 Consider then I have changed my resolve to march against Hellas, and do
 ye remain still."
 
-14. The Persians accordingly when they heard this were rejoiced and made
+## Chapter 14
+
+The Persians accordingly when they heard this were rejoiced and made
 obeisance: but when night had come on, the same dream again came and
 stood by Xerxes as he lay asleep and said: "Son of Dareios, it is
 manifest then that thou hast resigned this expedition before the
@@ -5191,7 +5752,9 @@ shall thence spring up for thee this result, namely that, as thou didst
 in short time become great and mighty, so also thou shalt speedily be
 again brought low."
 
-15. Xerxes then, being very greatly disturbed by fear of the vision,
+## Chapter 15
+
+Xerxes then, being very greatly disturbed by fear of the vision,
 started up from his bed and sent a messenger to summon Artabanos; to
 whom when he came Xerxes spoke thus: "Artabanos, at the first I was
 not discreet, when I spoke to thee foolish words on account of thy good
@@ -5207,7 +5770,9 @@ has laid upon me; and it occurs to my mind that this might happen thus,
 namely if thou shouldst take all my attire and put it on, and then seat
 thyself on my throne, and after that lie down to sleep in my bed."
 
-16. Xerxes spoke to him thus; and Artabanos was not willing to obey the
+## Chapter 16
+
+Xerxes spoke to him thus; and Artabanos was not willing to obey the
 command at first, since he did not think himself worthy to sit upon
 the royal throne; but at last being urged further he did that which was
 commanded, first having spoken these words: (a) "It is equally good in
@@ -5252,7 +5817,9 @@ aside this thy resolution, but I must go to sleep in thy bed, then let
 it appear to me also, when I perform these things: but until then I
 shall hold to the opinion which I now have."
 
-17. Having thus said Artabanos, expecting that he would prove that
+## Chapter 17
+
+Having thus said Artabanos, expecting that he would prove that
 Xerxes was speaking folly, did that which was commanded him; and having
 put on the garments of Xerxes and seated himself in the royal throne,
 he afterwards went to bed: and when he had fallen asleep, the same dream
@@ -5264,7 +5831,9 @@ unpunished for trying to turn away that which is destined to come to
 pass: and as for Xerxes, that which he must suffer if he disobeys, hath
 been shown already to the man himself."
 
-18. Thus it seemed to Artabanos that the dream threatened him, and at
+## Chapter 18
+
+Thus it seemed to Artabanos that the dream threatened him, and at
 the same time was just about to burn out his eyes with hot irons; and
 with a loud cry he started up from his bed, and sitting down beside
 Xerxes he related to him throughout the vision of the dream, and then
@@ -5289,7 +5858,9 @@ day, Xerxes communicated the matter to the Persians, and Artabanos,
 who before was the only man who came forward to dissuade him, now came
 forward to urge on the design.
 
-19. Xerxes being thus desirous to make the expedition, there came to
+## Chapter 19
+
+Xerxes being thus desirous to make the expedition, there came to
 him after this a third vision in his sleep, which the Magians, when they
 heard it, explained to have reference to the dominion of the whole Earth
 and to mean that all men should be subject to him; and the vision was
@@ -5303,7 +5874,9 @@ commands, desiring each one to receive for himself the gifts which
 had been proposed: and thus Xerxes was gathering his army together,
 searching every region of the continent.
 
-20. During four full years from the conquest of Egypt he was preparing
+## Chapter 20
+
+During four full years from the conquest of Egypt he was preparing
 the army and the things that were of service for the army, and in the
 course of the fifth year 20 he began his campaign with a host of great
 multitude. For of all the armies of which we have knowledge this proved
@@ -5318,7 +5891,9 @@ before the Trojan war, who passed over into Europe by the Bosphorus and
 not only subdued all the Thracians, but came down also as far as the
 Ionian Sea 21 and marched southwards to the river Peneios.
 
-21. All these expeditions put together, with others, if there be any,
+## Chapter 21
+
+All these expeditions put together, with others, if there be any,
 added to them, 22 are not equal to this one alone. For what nation
 did Xerxes not lead out of Asia against Hellas? and what water was not
 exhausted, being drunk by his host, except only the great rivers?
@@ -5328,7 +5903,9 @@ vessels to carry horses, while they served in the expedition themselves
 also; 23 others were ordered to furnish ships of war for the bridges,
 and others again ships with provisions.
 
-22. Then in the first place, since the former fleet had suffered
+## Chapter 22
+
+Then in the first place, since the former fleet had suffered
 disaster in sailing round Athos, preparations had been going on for
 about three years past with regard to Athos: for triremes lay at anchor
 at Elaius in the Chersonese, and with this for their starting point men
@@ -5347,7 +5924,9 @@ within the peninsula of Athos, all which at this time the Persian had
 resolved to make into cities of an island and no longer of the mainland;
 these are, Dion, Olophyxos, Acrothoon, Thyssos, Cleonai.
 
-23. These are the cities which occupy Athos: and they dug as follows,
+## Chapter 23
+
+These are the cities which occupy Athos: and they dug as follows,
 the country being divided among the Barbarians by nations for the
 work:--at the city of Sane they drew a straight line across the isthmus,
 and when the channel became deep, those who stood lowest dug, while
@@ -5369,7 +5948,9 @@ there, in which there was made for them a market and a place for buying
 and selling; and great quantities of corn came for them regularly from
 Asia, ready ground.
 
-24. It seems to me, making conjecture of this work, that Xerxes when
+## Chapter 24
+
+It seems to me, making conjecture of this work, that Xerxes when
 he ordered this to be dug was moved by a love of magnificence and by
 a desire to make a display of his power and to leave a memorial behind
 him; for though they might have drawn the ships across the isthmus with
@@ -5378,7 +5959,9 @@ that two triremes might sail through, propelled side by side. To these
 same men to whom the digging had been appointed, it was appointed also
 to make a bridge over the river Strymon, yoking together the banks.
 
-25. These things were being done by Xerxes thus; and meanwhile he caused
+## Chapter 25
+
+These things were being done by Xerxes thus; and meanwhile he caused
 ropes also to be prepared for the bridges, made of papyrus and of white
 flax, 26 appointing this to the Phenicians and Egyptians; and also he
 was making preparations to store provisions for his army on the way,
@@ -5392,7 +5975,9 @@ Leuke Acte in Thrace, while others conveyed stores to Tyrodiza of the
 Perinthians, others to Doriscos, others to Eïon on the Strymon, and
 others to Macedonia, the work being distributed between them.
 
-26. During the time that these were working at the task which had been
+## Chapter 26
+
+During the time that these were working at the task which had been
 proposed to them, the whole land-army had been assembled together and
 was marching with Xerxes to Sardis, setting forth from Critalla in
 Cappadokia; for there it had been ordered that the whole army should
@@ -5408,7 +5993,9 @@ itself of Kelainai and runs into the Maiander: and here also is hanging
 up in the city the skin of Marsyas the Silenos, which is said by the
 Phrygians to have been flayed off and hung up by Apollo.
 
-27. In this city Pythios the son of Atys, a Lydian, was waiting for the
+## Chapter 27
+
+In this city Pythios the son of Atys, a Lydian, was waiting for the
 king and entertained his whole army, as well as Xerxes himself, with
 the most magnificent hospitality: moreover he professed himself ready
 to supply money for the war. So when Pythios offered money, Xerxes asked
@@ -5418,7 +6005,9 @@ he who presented thy father Dareios with the golden plane-tree and the
 golden vine; and even now he is in wealth the first of all men of whom
 we know, excepting thee only."
 
-28. Marvelling at the conclusion of these words Xerxes himself asked of
+## Chapter 28
+
+Marvelling at the conclusion of these words Xerxes himself asked of
 Pythios then, how much money he had; and he said: "O king, I will not
 conceal the truth from thee, nor will I allege as an excuse that I do
 not know my own substance, but I will enumerate it to thee exactly,
@@ -5430,7 +6019,9 @@ thousand talents, and of gold four hundred myriads 29 of daric staters
 myself I have sufficient livelihood from my slaves and from my estates
 of land."
 
-29. Thus he said; and Xerxes was pleased by the things which he had
+## Chapter 29
+
+Thus he said; and Xerxes was pleased by the things which he had
 spoken, and replied: "Lydian host, ever since I went forth from the
 Persian land I have encountered no man up to this time who was desirous
 to entertain my army, or who came into my presence and made offer of his
@@ -5445,7 +6036,9 @@ reckoning, completed thus by me. Keep possession of that which thou hast
 got for thyself, and be sure to act always thus; for if thou doest so,
 thou wilt have no cause to repent either at the time or afterwards."
 
-30. Having thus said and having accomplished his promise, he continued
+## Chapter 30
+
+Having thus said and having accomplished his promise, he continued
 his march onwards; and passing by a city of the Phrygians called Anaua
 and a lake whence salt is obtained, he came to Colossai, a great city
 of Phrygia, where the river Lycos falls into an opening of the earth and
@@ -5456,7 +6049,9 @@ Lydians, the army arrived at the city of Kydrara, where a pillar 3001
 is fixed, set up by Croesus, which declares by an inscription that the
 boundaries are there.
 
-31. From Phrygia then he entered Lydia; and here the road parts into
+## Chapter 31
+
+From Phrygia then he entered Lydia; and here the road parts into
 two, and that which goes to the left leads towards Caria, while that
 which goes to the right leads to Sardis; and travelling by this latter
 road one must needs cross the river Maiander and pass by the city
@@ -5466,7 +6061,9 @@ plane-tree, to which for its beauty he gave an adornment of gold, and
 appointed that some one should have charge of it always in undying
 succession; 31 and on the next day he came to the city of the Lydians.
 
-32. Having come to Sardis he proceeded first to send heralds to Hellas,
+## Chapter 32
+
+Having come to Sardis he proceeded first to send heralds to Hellas,
 to ask for earth and water, and also to give notice beforehand to
 prepare meals for the king; except that he sent neither to Athens nor
 Lacedemon to ask for earth, but to all the other States: and the reason
@@ -5476,7 +6073,9 @@ he thought would certainly give now by reason of their fear: this matter
 it was about which he desired to have certain knowledge, and he sent
 accordingly.
 
-33. After this he made his preparations intending to march to Abydos:
+## Chapter 33
+
+After this he made his preparations intending to march to Abydos:
 and meanwhile they were bridging over the Hellespont from Asia to
 Europe. Now there is in the Chersonese of the Hellespont between the
 city of Sestos and Madytos, a broad foreland 32 running down into
@@ -5487,7 +6086,9 @@ Sestos, nailed him alive to a board with hands and feet extended (he was
 the man who was wont to take women with him to the temple of Protesilaos
 at Elaius and to do things there which are not lawful).
 
-34. To this foreland they on whom this work was laid were making their
+## Chapter 34
+
+To this foreland they on whom this work was laid were making their
 bridges, starting from Abydos, the Phenicians constructing the one with
 ropes of white flax, and the Egyptians the other, which was made with
 papyrus rope. Now from Abydos to the opposite shore is a distance of
@@ -5507,7 +6108,9 @@ he enjoined them to chastise thus, and also he bade them cut off the
 heads of those who were appointed to have charge over the bridging of
 the Hellespont.
 
-36. Thus then the men did, to whom this ungracious office belonged; and
+## Chapter 36
+
+Thus then the men did, to whom this ungracious office belonged; and
 meanwhile other chief-constructors proceeded to make the bridges;
 and thus they made them:--They put together fifty-oared galleys and
 triremes, three hundred and sixty to be under the bridge towards the
@@ -5536,7 +6139,9 @@ earth firmly, they built a barrier along on each side, so that the
 baggage-animals and horses might not be frightened by looking out over
 the sea.
 
-37. When the construction of the bridges had been finished, and the
+## Chapter 37
+
+When the construction of the bridges had been finished, and the
 works about Athos, both the embankments about the mouths of the channel,
 which were made because of the breaking of the sea upon the beach, that
 the mouths of it might not be filled up, and the channel itself, were
@@ -5553,7 +6158,9 @@ foreshower of events for the Hellenes, but the Moon for the Persians.
 Having been thus informed, Xerxes proceeded on the march with very great
 joy.
 
-38. Then as he was leading forth his army on its march, Pythios the
+## Chapter 38
+
+Then as he was leading forth his army on its march, Pythios the
 Lydian, being alarmed by the appearance in the heavens and elated by
 the gifts which he had received, came to Xerxes, and said as follows:
 "Master, I would desire to receive from thee a certain thing at my
@@ -5593,7 +6200,9 @@ the middle; and having cut him in two, to dispose the halves, one on
 the right hand of the road and the other on the left, and that the army
 should pass between them by this way.
 
-40. When these had so done, the army proceeded to pass between; and
+## Chapter 40
+
+When these had so done, the army proceeded to pass between; and
 first the baggage-bearers led the way together with their horses, and
 after these the host composed of all kinds of nations mingled together
 without distinction: and when more than the half had gone by, an
@@ -5612,7 +6221,9 @@ of that chariot. Then behind this came Xerxes himself in a chariot drawn
 by Nesaian horses, and by the side of him rode a charioteer, whose name
 was Patiramphes, son of Otanes a Persian.
 
-41. Thus did Xerxes march forth out of Sardis; and he used to change,
+## Chapter 41
+
+Thus did Xerxes march forth out of Sardis; and he used to change,
 whenever he was so disposed, from the chariot to a carriage. And behind
 him went spearmen, the best and most noble of the Persians, a thousand
 in number, holding their spear-points in the customary way; 42 and after
@@ -5628,7 +6239,9 @@ the ten thousand there was appointed a body of ten thousand Persian
 cavalry; and after the cavalry there was an interval of as much as two
 furlongs. Then the rest of the host came marching without distinction.
 
-42. So the army proceeded on its march from Lydia to the river Caïcos
+## Chapter 42
+
+So the army proceeded on its march from Lydia to the river Caïcos
 and the land of Mysia; and then setting forth from the Caïcos and
 keeping the mountain of Cane on the left hand, it marched through the
 region of Atarneus to the city of Carene. From this it went through the
@@ -5638,7 +6251,9 @@ land of Ilion. And first, when it had stopped for the night close under
 mount Ida, thunder and bolts of lightning fell upon it, and destroyed
 here in this place a very large number of men. 43
 
-43. Then when the army had come to the river Scamander,--which of all
+## Chapter 43
+
+Then when the army had come to the river Scamander,--which of all
 rivers to which they had come, since they set forth from Sardis and
 undertook their march, was the first of which the stream failed and
 was not sufficient for the drinking of the army and of the animals
@@ -5652,7 +6267,9 @@ keeping on his left hand the cities of Rhoition and Ophryneion and
 Dardanos, which last borders upon Abydos, and having on the right hand
 the Gergith Teucrians.
 
-44. When Xerxes had come into the midst of Abydos, 45 he had a desire to
+## Chapter 44
+
+When Xerxes had come into the midst of Abydos, 45 he had a desire to
 see all the army; and there had been made purposely for him beforehand
 upon a hill in this place a raised seat of white stone, 46 which the
 people of Abydos had built at the command of the king given beforehand.
@@ -5662,11 +6279,15 @@ to see a contest take place between the ships; and when it had taken
 place and the Phenicians of Sidon were victorious, he was delighted both
 with the contest and with the whole armament.
 
-45. And seeing all the Hellespont covered over with the ships, and all
+## Chapter 45
+
+And seeing all the Hellespont covered over with the ships, and all
 the shores and the plains of Abydos full of men, then Xerxes pronounced
 himself a happy man, and after that he fell to weeping.
 
-46. Artabanos his uncle therefore perceiving him,--the same who at
+## Chapter 46
+
+Artabanos his uncle therefore perceiving him,--the same who at
 first boldly declared his opinion advising Xerxes not to march against
 Hellas,--this man, I say, having observed that Xerxes wept, asked as
 follows: "O king, how far different from one another are the things
@@ -5686,7 +6307,9 @@ trouble, death has become the most acceptable refuge for man; and God,
 having given him to taste of the sweetness of life, is discovered in
 this matter to be full of jealousy."
 
-47. Xerxes made answer saying: "Artabanos, of human life, which is such
+## Chapter 47
+
+Xerxes made answer saying: "Artabanos, of human life, which is such
 as thou dost define it to be, let us cease to speak, and do not remember
 evils when we have good things in hand: but do thou declare to me
 this:--If the vision of the dream had not appeared with so much
@@ -5699,7 +6322,9 @@ apprehension and cannot contain myself, taking into account many things
 besides, and also seeing that two things, which are the greatest things
 of all, are utterly hostile to thee."
 
-48. To this Xerxes made answer in these words: "Thou strangest of men,
+## Chapter 48
+
+To this Xerxes made answer in these words: "Thou strangest of men,
 47 of what nature are these two things which thou sayest are utterly
 hostile to me? Is it that the land-army is to be found fault with in
 the matter of numbers, and that the army of the Hellenes appears to thee
@@ -5709,7 +6334,9 @@ together will prove true? For if thou thinkest that in these respects
 our power is deficient, one might make gathering at once of another
 force."
 
-49. Then he made answer and said: "O king, neither with this army would
+## Chapter 49
+
+Then he made answer and said: "O king, neither with this army would
 any one who has understanding find fault, nor with the number of the
 ships; and indeed if thou shalt assemble more, the two things of which
 I speak will be made thereby yet more hostile: and these two things
@@ -5731,7 +6358,9 @@ thee famine. Man, however, will be in the best condition, if when he is
 taking counsel he feels fear, reckoning to suffer everything that can
 possibly come, but in doing the deed he is bold."
 
-50. Xerxes made answer in these words: "Artabanos, reasonably dost thou
+## Chapter 50
+
+Xerxes made answer in these words: "Artabanos, reasonably dost thou
 set forth these matters; but do not thou fear everything nor reckon
 equally for everything: for if thou shouldest set thyself with regard to
 all matters which come on at any time, to reckon for everything equally,
@@ -5759,7 +6388,9 @@ great store of food, and secondly we shall possess the corn-crops of all
 the peoples to whose land and nation we come; and we are making a march
 now against men who plough the soil, and not against nomad tribes."
 
-51. After this Artabanos said: "O king, since thou dost urge us not to
+## Chapter 51
+
+After this Artabanos said: "O king, since thou dost urge us not to
 have fear of anything, do thou I pray thee accept a counsel from me;
 for when speaking of many things it is necessary to extend speech to a
 greater length. Cyrus the son of Cambyses subdued all Ionia except the
@@ -5775,7 +6406,9 @@ right, they are able then to cause much damage to thy army. Therefore
 lay to heart also the ancient saying, how well it has been said that at
 the first beginning of things the end does not completely appear."
 
-52. To this Xerxes made answer: "Artabanos, of all the opinions which
+## Chapter 52
+
+To this Xerxes made answer: "Artabanos, of all the opinions which
 thou hast uttered, thou art mistaken most of all in this; seeing that
 thou fearest lest the Ionians should change side, about whom we have a
 most sure proof, of which thou art a witness thyself and also the
@@ -5789,7 +6422,9 @@ imagine that they will make any rebellion. 50 Fear not then this thing
 either, but have a good heart and keep safe my house and my government;
 for to thee of all men I entrust my sceptre of rule."
 
-53. Having thus spoken and having sent Artabanos back to Susa, next
+## Chapter 53
+
+Having thus spoken and having sent Artabanos back to Susa, next
 Xerxes summoned to his presence the men of most repute among the
 Persians, and when they were come before him, he spoke to them as
 follows: "Persians, I assembled you together desiring this of you, that
@@ -5804,7 +6439,9 @@ men which will ever stand against us. Now therefore let us begin the
 crossing, after having made prayer to those gods who have the Persians
 51 for their allotted charge."
 
-54. During this day then they were making preparation to cross over; and
+## Chapter 54
+
+During this day then they were making preparation to cross over; and
 on the next day they waited for the Sun, desiring to see him rise, and
 in the meantime they offered all kinds of incense upon the bridges and
 strewed the way with branches of myrtle. Then, as the Sun was rising,
@@ -5818,7 +6455,9 @@ Sun, or whether he had repented of his scourging of the Hellespont and
 desired to present a gift to the sea as amends for this, I cannot for
 certain say.
 
-55. When Xerxes had done this, they proceeded to cross over, the whole
+## Chapter 55
+
+When Xerxes had done this, they proceeded to cross over, the whole
 army both the footmen and the horsemen going by one bridge, namely that
 which was on the side of the Pontus, while the baggage-animals and the
 attendants went over the other, which was towards the Egean. First the
@@ -5832,7 +6471,9 @@ the rest of the army. In the meantime the ships also put out from shore
 and went over to the opposite side. I have heard however another account
 which says that the king crossed over the very last of all.
 
-56. When Xerxes had crossed over into Europe, he gazed upon the army
+## Chapter 56
+
+When Xerxes had crossed over into Europe, he gazed upon the army
 crossing under the lash; and his army crossed over in seven days and
 seven nights, going on continuously without any pause. Then, it is said,
 after Xerxes had now crossed over the Hellespont, a man of that coast
@@ -5841,7 +6482,9 @@ thyself the name of Xerxes instead of Zeus, art thou proposing to
 lay waste Hellas, taking with thee all the nations of men? for it was
 possible for thee to do so even without the help of these."
 
-57. When all had crossed over, after they had set forth on their way
+## Chapter 57
+
+When all had crossed over, after they had set forth on their way
 a great portent appeared to them, of which Xerxes made no account,
 although it was easy to conjecture its meaning,--a mare gave birth to a
 hare. Now the meaning of this was easy to conjecture in this way, namely
@@ -5854,7 +6497,9 @@ male and those of the female, and those of the male were above. Xerxes
 however made no account of either of these portents, but proceeded on
 his way, and with him the land-army.
 
-58. The fleet meanwhile was sailing out of the Hellespont and coasting
+## Chapter 58
+
+The fleet meanwhile was sailing out of the Hellespont and coasting
 along, going in the opposite direction to the land-army; for the fleet
 was sailing towards the West, making for the promontory of Sarpedon, to
 which it had been ordered beforehand to go, and there wait for the army;
@@ -5868,7 +6513,9 @@ army but failed,--having crossed, I say, this river, from which the gulf
 also has its name, it went on Westwards, passing by Ainos a city of the
 Aiolians, and by the lake Stentoris, until at last it came to Doriscos.
 
-59. Now Doriscos is a sea-beach and plain of great extent in Thrace, and
+## Chapter 59
+
+Now Doriscos is a sea-beach and plain of great extent in Thrace, and
 through it flows the great river Hebros: here a royal fortress had been
 built, the same which is now called Doriscos, and a garrison of Persians
 had been established in it by Dareios, ever since the time when he went
@@ -5884,7 +6531,9 @@ they had brought in their ships, and having drawn them up on land they
 were letting them get dry: and during this time he proceeded to number
 the army at Doriscos.
 
-60. Now of the number which each separate nation supplied I am not able
+## Chapter 60
+
+Now of the number which each separate nation supplied I am not able
 to give certain information, for this is not reported by any persons;
 but of the whole land-army taken together the number proved to be one
 hundred and seventy myriads: 53 and they numbered them throughout in
@@ -5898,7 +6547,9 @@ space which had been built round, until they had in this manner numbered
 them all throughout: and after they had numbered them, they ordered them
 separately by nations.
 
-61. Now those who served were as follows:--The Persians with this
+## Chapter 61
+
+Now those who served were as follows:--The Persians with this
 equipment:--about their heads they had soft 55 felt caps called tiaras,
 and about their body tunics of various colours with sleeves, presenting
 the appearance of iron scales like those of a fish, 56 and about the
@@ -5914,7 +6565,9 @@ his daughter Andromeda, there was born to them a son to whom he gave
 the name Perses, and this son he left behind there, for it chanced that
 Kepheus had no male offspring: after him therefore this race was named.
 
-62. The Medes served in the expedition equipped in precisely the same
+## Chapter 62
+
+The Medes served in the expedition equipped in precisely the same
 manner; for this equipment is in fact Median and not Persian: and the
 Medes acknowledged as their commander Tigranes an Achaimenid. These
 in ancient time used to be generally called Arians; but when Medea the
@@ -5926,7 +6579,9 @@ the son of Otanes was commander. The Hyrcanians were armed like the
 Persians, acknowledging as their leader Megapanos, the same who after
 these events became governor of Babylon.
 
-63. The Assyrians served with helmets about their heads made of bronze
+## Chapter 63
+
+The Assyrians served with helmets about their heads made of bronze
 or plaited in a Barbarian style which it is not easy to describe; and
 they had shields and spears, and daggers like the Egyptian knives, 60
 and moreover they had wooden clubs with knobs of iron, and corslets of
@@ -5935,7 +6590,9 @@ they have been called always 61 Assyrians: [among these were the
 Chaldeans]: 62 and the commander of them was Otaspes the son of
 Artachaies.
 
-64. The Bactrians served wearing about their heads nearly the same
+## Chapter 64
+
+The Bactrians served wearing about their heads nearly the same
 covering as the Medes, and having native bows of reed and short spears.
 The Scaran Scythians had about their heads caps 63 which were carried
 up to a point and set upright and stiff; and they wore trousers, and
@@ -5945,12 +6602,16 @@ Scythians; for the Persians call all the Scythians Sacans: and of the
 Bactrians and Sacans the commander was Hystaspes, the son of Dareios and
 of Atossa the daughter of Cyrus.
 
-65. The Indians wore garments made of tree-wool, and they had bows
+## Chapter 65
+
+The Indians wore garments made of tree-wool, and they had bows
 of reed and arrows of reed with iron points. Thus were the Indians
 equipped; and serving with the rest they had been assigned to
 Pharnazathres the son of Artabates.
 
-66. The Arians 64 were equipped with Median bows, and in other respects
+## Chapter 66
+
+The Arians 64 were equipped with Median bows, and in other respects
 like the Bactrians: and of the Arians Sisamnes the son of Hydarnes was
 in command. The Parthians and Chorasmians and Sogdians and Gandarians
 and Dadicans served with the same equipment as the Bactrians. Of these
@@ -5966,12 +6627,16 @@ the commander was Pherendates the son of Megabazos. The Pactyans
 were wearers of skin coats 67 and had native bows and daggers: these
 acknowledged as their commander Artaÿntes the son of Ithamitres.
 
-68. The Utians and Mycans and Paricanians were equipped like the
+## Chapter 68
+
+The Utians and Mycans and Paricanians were equipped like the
 Pactyans: of these the commanders were, Arsamenes the son of Dareios
 of the Utians and Mycans, and of the Paricanians Siromitres the son of
 Oiobazos.
 
-69. The Arabians wore loose mantles 68 girt up, and they carried
+## Chapter 69
+
+The Arabians wore loose mantles 68 girt up, and they carried
 at their right side bows that bent backward 69 of great length. The
 Ethiopians had skins of leopards and lions tied upon them, and bows made
 of a slip 70 of palm-wood, which were of great length, not less than
@@ -5986,7 +6651,9 @@ Arsames, the son of Dareios and of Artystone, the daughter of Cyrus,
 whom Dareios loved most of all his wives, and had an image made of her
 of beaten gold.
 
-70. Of the Ethiopians above Egypt and of the Arabians the commander, I
+## Chapter 70
+
+Of the Ethiopians above Egypt and of the Arabians the commander, I
 say, was Arsames; but the Ethiopians from the direction of the sunrising
 (for the Ethiopians were in two bodies) had been appointed to serve with
 the Indians, being in no way different from the other Ethiopians, but in
@@ -5999,11 +6666,15 @@ mane, and the mane served instead of a crest, while they had the ears of
 the horse set up straight and stiff: and instead of shields they used to
 make defences to hold before themselves of the skins of cranes.
 
-71. The Libyans went with equipments of leather, and they used javelins
+## Chapter 71
+
+The Libyans went with equipments of leather, and they used javelins
 burnt at the point. These acknowledged as their commander Massages the
 son of Oarizos.
 
-72. The Paphlagonians served with plaited helmets upon their heads,
+## Chapter 72
+
+The Paphlagonians served with plaited helmets upon their heads,
 small shields, and spears of no great size, and also javelins and
 daggers; and about their feet native boots reaching up to the middle of
 the shin. The Ligyans and Matienians and Mariandynoi and Syrians served
@@ -6012,7 +6683,9 @@ by the Persians Cappadokians. Of the Paphlagonians and Matienians the
 commander was Dotos the son of Megasidros, and of the Mariandynoi and
 Lygians and Syrians, Gobryas, who was the son of Dareios and Artystone.
 
-73. The Phrygians had an equipment very like that of the Paphlagonians
+## Chapter 73
+
+The Phrygians had an equipment very like that of the Paphlagonians
 with some slight difference. Now the Phrygians, as the Macedonians say,
 used to be called Brigians during the time that they were natives of
 Europe and dwelt with the Macedonians; but after they had changed into
@@ -6021,7 +6694,9 @@ Phrygians. The Armenians were armed just like the Phrygians, being
 settlers from the Phrygians. Of these two together the commander was
 Artochmes, who was married to a daughter of Dareios.
 
-74. The Lydians had arms very closely resembling those of the Hellenes.
+## Chapter 74
+
+The Lydians had arms very closely resembling those of the Hellenes.
 Now the Lydians were in old time called Medonians, and they were named
 again after Lydos the son of Atys, changing their former name. The
 Mysians had upon their heads native helmets, and they bore small shields
@@ -6030,7 +6705,9 @@ Lydians, and from mount Olympos they are called Olympienoi. Of
 the Lydians and Mysians the commander was Artaphrenes the son of
 Artaphrenes, he who invaded Marathon together with Datis.
 
-75. The Thracians served having fox-skins upon their heads and tunics
+## Chapter 75
+
+The Thracians served having fox-skins upon their heads and tunics
 about their body, with loose mantles of various colours thrown round
 over them; and about their feet and lower part of the leg they wore
 boots of deer-skin; and besides this they had javelins and round
@@ -6041,14 +6718,18 @@ and they say that they were driven out of their abode by the Teucrians
 and Mysians. Of the Thracians who lived in Asia the commander was
 Bassakes the son of Artabanos.
 
-76.... 73 and they had small shields of raw ox-hide, and each man
+## Chapter 76
+
+73 and they had small shields of raw ox-hide, and each man
 carried two hunting-spears of Lykian workmanship. 74 On their heads they
 wore helmets of bronze, and to the helmets the ears and horns of an ox
 were attached, in bronze, and upon them also there were crests; and the
 lower part of their legs was wrapped round with red-coloured strips of
 cloth. Among these men there is an Oracle of Ares.
 
-77. The Meonian Cabelians, who are called Lasonians, had the same
+## Chapter 77
+
+The Meonian Cabelians, who are called Lasonians, had the same
 equipment as the Kilikians, and what this was I shall explain when in
 the course of the catalogue I come to the array of the Kilikians. The
 Milyans had short spears, and their garments were fastened on with
@@ -6056,7 +6737,9 @@ buckles; some of them had Lykian bows, and about their heads they had
 caps made of leather. Of all these Badres the son of Hystanes was in
 command.
 
-78. The Moschoi had wooden caps upon their heads, and shields and small
+## Chapter 78
+
+The Moschoi had wooden caps upon their heads, and shields and small
 spears, on which long points were set. The Tibarenians and Macronians
 and Mossynoicoi served with equipment like that of the Moschoi, and
 these were arrayed together under the following commanders,--the Moschoi
@@ -6065,7 +6748,9 @@ of Parmys, the daughter of Smerdis son of Cyrus; the Macronians and
 Mossynoicoi under Artaÿctes the son of Cherasmis, who was governor of
 Sestos on the Hellespont.
 
-79. The Mares wore on their heads native helmets of plaited work, and
+## Chapter 79
+
+The Mares wore on their heads native helmets of plaited work, and
 had small shields of hide and javelins; and the Colchians wore wooden
 helmets about their heads, and had small shields of raw ox-hide and
 short spears, and also knives. Of the Mares and Colchians the commander
@@ -6073,14 +6758,18 @@ was Pharandates the son of Teaspis. The Alarodians and Saspeirians
 served armed like the Colchians; and of these the commander was
 Masistios the son of Siromitres.
 
-80. The island tribes which came with the army from the Erythraian Sea,
+## Chapter 80
+
+The island tribes which came with the army from the Erythraian Sea,
 belonging to the islands in which the king settles those who are called
 the "Removed," 75 had clothing and arms very like those of the Medes. Of
 these islanders the commander was Mardontes the son of Bagaios, who in
 the year after these events was a commander of the army at Mykale and
 lost his life in the battle.
 
-81. These were the nations which served in the campaign by land and had
+## Chapter 81
+
+These were the nations which served in the campaign by land and had
 been appointed to be among the foot-soldiers. Of this army those who
 have been mentioned were commanders; and they were the men who sit it in
 order by divisions and numbered it and appointed commanders of thousands
@@ -6088,7 +6777,9 @@ and commanders of tens of thousands, but the commanders of hundreds and
 of tens were appointed by the commanders of ten thousands; and there
 were others who were leaders of divisions and nations.
 
-82. These, I say, who have been mentioned were commanders of the army;
+## Chapter 82
+
+These, I say, who have been mentioned were commanders of the army;
 and over these and over the whole army together that went on foot there
 were in command Mardonios the son of Gobryas, Tritantaichmes the son of
 that Artabanos who gave the opinion that they should not make the march
@@ -6097,7 +6788,9 @@ brothers of Dareios and so cousins of Xerxes), 76 Masistes the son of
 Dareios and Atossa, Gergis the son of Ariazos, and Megabyzos the son of
 Zopyros.
 
-83. These were generals of the whole together that went on foot,
+## Chapter 83
+
+These were generals of the whole together that went on foot,
 excepting the ten thousand; and of these ten thousand chosen Persians
 the general was Hydarnes the son of Hydarnes; and these Persians
 were called "Immortals," because, if any one of them made the number
@@ -6111,12 +6804,16 @@ they took with them carriages, and in them concubines and a multitude
 of attendants well furnished; and provisions for them apart from the
 soldiers were borne by camels and beasts of burden.
 
-84. The nations who serve as cavalry are these; not all however supplied
+## Chapter 84
+
+The nations who serve as cavalry are these; not all however supplied
 cavalry, but only as many as here follow:--the Persians equipped in the
 same manner as their foot-soldiers, except that upon their heads some of
 them had beaten-work of metal, either bronze or iron.
 
-85. There are also certain nomads called Sagartians, Persian in race
+## Chapter 85
+
+There are also certain nomads called Sagartians, Persian in race
 and in language and having a dress which is midway between that of the
 Persians and that of the Pactyans. These furnished eight thousand horse,
 and they are not accustomed to have any arms either of bronze or of iron
@@ -6127,7 +6824,9 @@ ropes with nooses at the end of them, and whatsoever the man catches by
 the throw, 77 whether horse or man, he draws to himself, and they being
 entangled in toils are thus destroyed.
 
-86. This is the manner of fighting of these men, and they were arrayed
+## Chapter 86
+
+This is the manner of fighting of these men, and they were arrayed
 next to the Persians. The Medes had the same equipment as their men
 on foot, and the Kissians likewise. The Indians were armed in the same
 manner as those of them who served on foot, and they both rode horses
@@ -6138,14 +6837,18 @@ served on foot, and these also all drove chariots. So too the Caspians
 79 and Paricanians were equipped like those who served on foot, and they
 all rode on camels, which in swiftness were not inferior to horses.
 
-87. These nations alone served 80 as cavalry, and the number of the
+## Chapter 87
+
+These nations alone served 80 as cavalry, and the number of the
 cavalry proved to be eight myriads, 81 apart from the camels and the
 chariots. Now the rest of the cavalry was arrayed in squadrons, but the
 Arabians were placed after them and last of all, for the horses could
 not endure the camels, and therefore they were placed last, in order
 that the horses might not be frightened.
 
-88. The commanders of the cavalry were Harmamithras and Tithaios sons of
+## Chapter 88
+
+The commanders of the cavalry were Harmamithras and Tithaios sons of
 Datis, but the third, Pharnuches, who was in command of the horse with
 them, had been left behind at Sardis sick: for as they were setting
 forth from Sardis, an accident befell him of an unwished-for kind,--as
@@ -6157,7 +6860,9 @@ first did as he commanded, that is to say, the servants led him away
 to the place where he had thrown his master and cut off his legs at the
 knees. Thus was Pharnuches removed from his command.
 
-89. Of the triremes the number proved to be one thousand two hundred and
+## Chapter 89
+
+Of the triremes the number proved to be one thousand two hundred and
 seven, and these were they who furnished them:--the Phenicians, together
 with the Syrians 82 who dwell in Palestine furnished three hundred;
 and they were equipped thus, that is to say, they had about their heads
@@ -6172,7 +6877,9 @@ hollow shields with the rims large, and spears for sea-fighting, and
 large axes: 83 the greater number of them wore corslets, and they had
 large knives.
 
-90. These men were thus equipped; and the Cyprians furnished a hundred
+## Chapter 90
+
+These men were thus equipped; and the Cyprians furnished a hundred
 and fifty ships, being themselves equipped as follows,--their kings had
 their heads wound round with fillets, 84 and the rest had tunics, 85
 but in other respects they were like the Hellenes. Among these there
@@ -6180,7 +6887,9 @@ are various races as follows,--some of them are from Salamis and Athens,
 others from Arcadia, others from Kythnos, others again from Phenicia and
 others from Ethiopia, as the Cyprians themselves report.
 
-91. The Kilikians furnished a hundred ships; and these again had about
+## Chapter 91
+
+The Kilikians furnished a hundred ships; and these again had about
 their heads native helmets, and for shields they carried targets made of
 raw ox-hide: they wore tunics 86 of wool and each man had two javelins
 and a sword, this last being made very like the Egyptian knives. These
@@ -6189,7 +6898,9 @@ Kilix the son of Agenor, a Phenician. The Pamphylians furnished thirty
 ships and were equipped in Hellenic arms. These Pamphylians are of those
 who were dispersed from Troy together with Amphilochos and Calchas.
 
-92. The Lykians furnished fifty ships; and they were wearers of corslets
+## Chapter 92
+
+The Lykians furnished fifty ships; and they were wearers of corslets
 and greaves, and had bows of cornel-wood and arrows of reeds without
 feathers and javelins and a goat-skin hanging over their shoulders, and
 about their heads felt caps wreathed round with feathers; also they had
@@ -6197,20 +6908,26 @@ daggers and falchions. 87 The Lykians were formerly called Termilai,
 being originally of Crete, and they got their later name from Lycos the
 son of Pandion, an Athenian.
 
-93. The Dorians of Asia furnished thirty ships; and these had Hellenic
+## Chapter 93
+
+The Dorians of Asia furnished thirty ships; and these had Hellenic
 arms and were originally from the Peloponnese. The Carians supplied
 seventy ships; and they were equipped in other respects like Hellenes
 but they had also falchions and daggers. What was the former name of
 these has been told in the first part of the history. 88
 
-94. The Ionians furnished a hundred ships, and were equipped
+## Chapter 94
+
+The Ionians furnished a hundred ships, and were equipped
 like Hellenes. Now the Ionians, so long time as they dwelt in the
 Peloponnese, in the land which is now called Achaia, and before the
 time when Danaos and Xuthos came to the Peloponnese, were called, as the
 Hellenes report, Pelasgians of the Coast-land, 89 and then Ionians after
 Ion the son of Xuthos.
 
-95. The islanders furnished seventeen ships, and were armed like
+## Chapter 95
+
+The islanders furnished seventeen ships, and were armed like
 Hellenes, this also being a Pelasgian race, though afterwards it came to
 be called Ionian by the same rule as the Ionians of the twelve cities,
 who came from Athens. The Aiolians supplied sixty ships; and these were
@@ -6222,7 +6939,9 @@ served in the expedition from the Pontus furnished a hundred ships,
 and were equipped like Hellenes: these are colonists of the Ionians and
 Dorians.
 
-96. In all the ships there served as fighting-men Persians, Medes, or
+## Chapter 96
+
+In all the ships there served as fighting-men Persians, Medes, or
 Sacans;: and of the ships, those which sailed best were furnished by the
 Phenicians, and of the Phenicians the best by the men of Sidon. Over all
 these men and also over those of them who were appointed to serve in the
@@ -6236,7 +6955,9 @@ for the generals who had the absolute power and commanded the various
 nations, that is to say those who were Persians, having already been
 mentioned by me.
 
-97. Of the naval force the following were commanders,--Ariabignes the
+## Chapter 97
+
+Of the naval force the following were commanders,--Ariabignes the
 son of Dareios, Prexaspes the son of Aspathines, Megabazos the son of
 Megabates, and Achaimenes the son of Dareios; that is to say, of the
 Ionian and Carian force Ariabignes, who was the son of Dareios and of
@@ -6246,7 +6967,9 @@ the other two were in command: and galleys of thirty oars and of fifty
 oars, and light vessels, 90 and long 91 ships to carry horses had been
 assembled together, as it proved, to the number of three thousand.
 
-98. Of those who sailed in the ships the men of most note after the
+## Chapter 98
+
+Of those who sailed in the ships the men of most note after the
 commanders were these,--of Sidon, Tetramnestos son of Anysos; of
 Tyre, Matten 92 son of Siromos; or Arados, Merbalos son of Agbalos; of
 Kilikia, Syennesis son of Oromedon; of Lykia, Kyberniscos son of Sicas;
@@ -6254,7 +6977,9 @@ of Cyprus, Gorgos son of Chersis and Timonax son of Timagoras; of Caria,
 Histiaios son of Tymnes, Pigres son of Hysseldomos, 93 and Damasithymos
 son of Candaules.
 
-99. Of the rest of the officers I make no mention by the way (since I am
+## Chapter 99
+
+Of the rest of the officers I make no mention by the way (since I am
 not bound to do so), but only of Artemisia, at whom I marvel most that
 she joined the expedition against Hellas, being a woman; for after her
 husband died, she holding the power herself, although she had a son
@@ -6270,7 +6995,9 @@ States of which I said that she was leader I declare the people to be
 all of Dorian race, those of Halicarnassos being Troizenians, and the
 rest Epidaurians. So far then I have spoken of the naval force.
 
-100. Then when Xerxes had numbered the army, and it had been arranged in
+## Chapter 100
+
+Then when Xerxes had numbered the army, and it had been arranged in
 divisions, he had a mind to drive through it himself and inspect it: and
 afterwards he proceeded so to do; and driving through in a chariot
 by each nation, he inquired about them and his scribes wrote down the
@@ -6285,7 +7012,9 @@ turned the prows of the ships towards the shore in an even line 94 and
 having armed all the fighting-men as for war; and he inspected them
 sailing within, between the prows of the ships and the beach.
 
-101. Now when he had sailed through these and had disembarked from his
+## Chapter 101
+
+Now when he had sailed through these and had disembarked from his
 ship, he sent for Demaratos the son of Ariston, who was marching
 with him against Hellas; and having called him he asked as follows:
 "Demaratos, now it is my pleasure to ask thee somewhat which I desire
@@ -6303,7 +7032,9 @@ in speaking to thee, or that which will give pleasure?" and he bade
 him utter the truth, saying that he should suffer nothing unpleasant in
 consequence of this, any more than he suffered before.
 
-102. When Demaratos heard this, he spoke as follows: "O king, since thou
+## Chapter 102
+
+When Demaratos heard this, he spoke as follows: "O king, since thou
 biddest me by all means utter the truth, and so speak as one who shall
 not be afterwards convicted by thee of having spoken falsely, I say
 this:--with Hellas poverty is ever an inbred growth, while valour is one
@@ -6320,7 +7051,9 @@ they are able to do this; for whether it chances that a thousand of them
 have come out into the field, these will fight with thee, or if there be
 less than this, or again if there be more."
 
-103. Xerxes hearing this laughed, and said: "Demaratos, what a speech is
+## Chapter 103
+
+Xerxes hearing this laughed, and said: "Demaratos, what a speech is
 this which thou hast uttered, saying that a thousand men will fight with
 this vast army! Come tell me this:--thou sayest that thou wert thyself
 king of these men; wilt thou therefore consent forthwith to fight with
@@ -6349,7 +7082,9 @@ Persians of my spearmen who will consent to fight with three men of the
 Hellenes at once: but thou hast had no experience of these things and
 therefore thou speakest very much at random."
 
-104. To this Demaratos replied: "O king, from the first I was sure that
+## Chapter 104
+
+To this Demaratos replied: "O king, from the first I was sure that
 if I uttered the truth I should not speak that which was pleasing to
 thee; since however thou didst compel me to speak the very truth, I told
 thee of the matters which concern the Spartans. And yet how I am at this
@@ -6377,14 +7112,18 @@ at random, of other things for the future I prefer to be silent; and
 at this time I spake only because I was compelled. May it come to pass
 however according to thy mind, O king."
 
-105. He thus made answer, and Xerxes turned the matter to laughter
+## Chapter 105
+
+He thus made answer, and Xerxes turned the matter to laughter
 and felt no anger, but dismissed him with kindness. Then after he had
 conversed with him, and had appointed Mascames son of Megadostes to
 be governor at this place Doriscos, removing the governor who had been
 appointed by Dareios, Xerxes marched forth his army through Thrace to
 invade Hellas.
 
-106. And Mascames, whom he left behind here, proved to be a man of such
+## Chapter 106
+
+And Mascames, whom he left behind here, proved to be a man of such
 qualities that to him alone Xerxes used to send gifts, considering him
 the best of all the men whom either he himself or Dareios had appointed
 to be governors,--he used to send him gifts, I say, every year, and so
@@ -6397,7 +7136,9 @@ were ever 98 able to conquer, though many tried. For this reason the
 gifts are sent continually for him from the king who reigns over the
 Persians.
 
-107. Of those however who were conquered by the Hellenes Xerxes did not
+## Chapter 107
+
+Of those however who were conquered by the Hellenes Xerxes did not
 consider any to be a good man except only Boges, who was at Eïon: him
 he never ceased commending, and he honoured very highly his children who
 survived him in the land of Persia. For in truth Boges proved himself
@@ -6413,7 +7154,9 @@ this he scattered all the gold and silver in the city from the wall into
 the river Strymon, and having so done he threw himself into the fire.
 Thus he is justly commended even to this present time by the Persians.
 
-108. Xerxes from Doriscos was proceeding onwards to invade Hellas; and
+## Chapter 108
+
+Xerxes from Doriscos was proceeding onwards to invade Hellas; and
 as he went he compelled those who successively came in his way, to join
 his march: for the whole country as far as Thessaly had been reduced to
 subjection, as has been set forth by me before, and was tributary under
@@ -6426,7 +7169,9 @@ time did not suffice when supplying its water to the army of Xerxes, but
 the stream failed. This country was in old time called Gallaïke, but now
 Briantike; however by strict justice this also belongs to the Kikonians.
 
-109. Having crossed over the bed of the river Lisos after it had been
+## Chapter 109
+
+Having crossed over the bed of the river Lisos after it had been
 dried up, he passed by these Hellenic cities, namely Maroneia, Dicaia
 and Abdera. These I say he passed by, and also the following lakes of
 note lying near them,--the Ismarian lake, lying between Maroneia and
@@ -6439,7 +7184,9 @@ a lake of somewhere about thirty furlongs in circumference, abounding in
 fish and very brackish; this the baggage-animals alone dried up, being
 watered at it: and the name of this city is Pistyros. 102
 
-110. These cities, I say, lying by the sea coast and belonging to
+## Chapter 110
+
+These cities, I say, lying by the sea coast and belonging to
 Hellenes, he passed by, leaving them on the left hand; and the tribes of
 Thracians through whose country he marched were as follows, namely
 the Paitians, Kikonians, Bistonians, Sapaians, Dersaians, Edonians,
@@ -6448,7 +7195,9 @@ him with their ships, and those of them who dwelt inland and have been
 enumerated by me, were compelled to accompany him on land, except the
 Satrians:
 
-111, the Satrians however never yet became obedient to any man, so far
+## Chapter 111
+
+the Satrians however never yet became obedient to any man, so far
 as we know, but they remain up to my time still free, alone of all the
 Thracians; for they dwell in lofty mountains, which are covered with
 forest of all kinds and with snow, and also they are very skilful in
@@ -6458,7 +7207,9 @@ on their most lofty mountains. Of the Satrians those who act as prophets
 the oracles, as at Delphi; and beyond this there is nothing further of a
 remarkable character. 105
 
-112. Xerxes having passed over the land which has been spoken of, next
+## Chapter 112
+
+Xerxes having passed over the land which has been spoken of, next
 after this passed the strongholds of the Pierians, of which the name
 of the one is Phagres and of the other Pergamos. By this way, I say,
 he made his march, going close by the walls of these, and keeping Mount
@@ -6466,7 +7217,9 @@ Pangaion on the right hand, which is both great and lofty and in which
 are mines both of gold and of silver possessed by the Pierians and
 Odomantians, and especially by the Satrians.
 
-113. Thus passing by the Paionians, Doberians and Paioplians, who dwell
+## Chapter 113
+
+Thus passing by the Paionians, Doberians and Paioplians, who dwell
 beyond Pangaion towards the North Wind, he went on Westwards, until at
 last he came to the river Strymon and the city of Eïon, of which,
 so long as he lived, Boges was commander, the same about whom I was
@@ -6475,7 +7228,9 @@ Phyllis, and it extends Westwards to the river Angites, which flows into
 the Strymon, and Southwards it stretches to the Strymon itself; and at
 this river the Magians sacrificed for good omens, slaying white horses.
 
-114. Having done this and many other things in addition to this, as
+## Chapter 114
+
+Having done this and many other things in addition to this, as
 charms for the river, at the Nine Ways 106 in the land of the Edonians,
 they proceeded by the bridges, for they had found the Strymon already
 yoked with bridges; and being informed that this place was called the
@@ -6486,7 +7241,9 @@ she had grown old, made return for her own life to the god who is said
 to be beneath the earth by burying twice seven children of Persians who
 were men of renown.
 
-115. As the army proceeded on its march from the Strymon, it found after
+## Chapter 115
+
+As the army proceeded on its march from the Strymon, it found after
 this a sea-beach stretching towards the setting of the sun, and passed
 by the Hellenic city, Argilos, which was there placed. This region and
 that which lies above it is called Bisaltia. Thence, keeping on the left
@@ -6500,12 +7257,16 @@ foot. This road by which Xerxes the king marched his army, the Thracians
 do not disturb nor sow crops over, but pay very great reverence to it
 down to my own time.
 
-116. Then when he had come to Acanthos, Xerxes proclaimed a
+## Chapter 116
+
+Then when he had come to Acanthos, Xerxes proclaimed a
 guest-friendship with the people of Acanthos and also presented them
 with the Median dress 107 and commended them, perceiving that they were
 zealous to serve him in the war and hearing of that which had been dug.
 
-117. And while Xerxes was in Acanthos, it happened that he who had
+## Chapter 117
+
+And while Xerxes was in Acanthos, it happened that he who had
 been set over the making of the channel, Artachaies by name, died of
 sickness, a man who was highly esteemed by Xerxes and belonged to
 the Achaimenid family; also he was in stature the tallest of all the
@@ -6516,7 +7277,9 @@ him with great honour, and the whole army joined in throwing up a mound
 for him. To this Artachaies the Acanthians by the bidding of an oracle
 do sacrifice as a hero, calling upon his name in worship.
 
-118. King Xerxes, I say, was greatly grieved at the loss of Artachaies:
+## Chapter 118
+
+King Xerxes, I say, was greatly grieved at the loss of Artachaies:
 and meanwhile the Hellenes who were entertaining his army and providing
 Xerxes with dinners had been brought to utter ruin, so that they were
 being driven from house and home; seeing that when the Thasians, for
@@ -6526,7 +7289,9 @@ who had been appointed for this purpose, a man of repute among the
 citizens equal to the best, reported that four hundred talents of silver
 had been spent upon the dinner.
 
-119. Just so or nearly so in the other cities also those who were set
+## Chapter 119
+
+Just so or nearly so in the other cities also those who were set
 over the business reported the reckoning to be: for the dinner was
 given as follows, having been ordered a long time beforehand, and being
 counted by them a matter of great importance:--In the first place,
@@ -6549,7 +7314,9 @@ day tore up the tent and taking with them all the movable furniture
 proceeded on their march, leaving nothing, but carrying all away with
 them.
 
-120. Then was uttered a word well spoken by Megacreon, a man of Abdera,
+## Chapter 120
+
+Then was uttered a word well spoken by Megacreon, a man of Abdera,
 who advised those of Abdera to go in a body, both themselves and their
 wives, to their temples, and to sit down as suppliants of the gods,
 entreating them that for the future also they would ward off from them
@@ -6561,7 +7328,9 @@ the dinner, it would have remained for the men of Abdera either not
 to await the coming of Xerxes, or if they stayed, to be crushed by
 misfortune more than any other men upon the Earth.
 
-121. They then, I say, though hard put to it, yet were performing that
+## Chapter 121
+
+They then, I say, though hard put to it, yet were performing that
 which was appointed to them; and from Acanthos Xerxes, after having
 commanded the generals to wait for the fleet at Therma, let the ships
 take their course apart from himself, (now this Therma is that which is
@@ -6577,7 +7346,9 @@ third of the subdivisions, with which Xerxes himself went, marched in
 the middle between them, and acknowledged as its commanders Smerdomenes
 and Megabyzos.
 
-122. The fleet, when it was let go by Xerxes and had sailed right
+## Chapter 122
+
+The fleet, when it was let go by Xerxes and had sailed right
 through the channel made in Athos (which went across to the gulf on
 which are situated the cities of Assa, Piloros, Singos and Sarte),
 having taken up a contingent from these cities also, sailed thence
@@ -6586,7 +7357,9 @@ headland of Torone, it left on one side the following Hellenic cities,
 from which it took up contingents of ships and men, namely Torone,
 Galepsos, Sermyle, Mekyberna, Olynthos: this region is called Sithonia.
 
-123. And the fleet of Xerxes, cutting across from the headland of
+## Chapter 123
+
+And the fleet of Xerxes, cutting across from the headland of
 Ampelos to that of Canastron, which runs out furthest to sea of all
 Pallene, took up there contingents of ships and men from Potidaia,
 Aphytis, Neapolis, Aige, Therambo, Skione, Mende and Sane, for these are
@@ -6605,7 +7378,9 @@ river Axios. This river is the boundary between the land of Mygdonia
 and Bottiaia, of which district the narrow region which lies on the sea
 coast is occupied by the cities of Ichnai and Pella.
 
-124. Now while his naval force was encamped about the river Axios an the
+## Chapter 124
+
+Now while his naval force was encamped about the river Axios an the
 city of Therma and the cities which lie between these two, waiting for
 the coming of the king, Xerxes and the land-army were proceeding from
 Acanthos, cutting through the middle by the shortest way 109 with a view
@@ -6614,7 +7389,9 @@ to the river Cheidoros, 110 which beginning from the land of the
 Crestonians, runs through the region of Mygdonia and comes out alongside
 of the marsh which is by the river Axios.
 
-125. As he was proceeding by this way, lions attacked the camels which
+## Chapter 125
+
+As he was proceeding by this way, lions attacked the camels which
 carried his provisions; for the lions used to come down regularly by
 night, leaving their own haunts, but they touched nothing else, neither
 beast of burden nor man, but killed the camels only: and I marvel what
@@ -6622,7 +7399,9 @@ was the cause, and what was it that impelled the lions to abstain from
 all else and to attack the camels only, creatures which they had never
 seen before, and of which they had had no experience.
 
-126. Now there are in these parts both many lions and also wild oxen,
+## Chapter 126
+
+Now there are in these parts both many lions and also wild oxen,
 those that have the very large horns which are often brought into
 Hellas: and the limit within which these lions are found is on the one
 side the river Nestos, which flows through Abdera, and on the other the
@@ -6632,7 +7411,9 @@ lion, nor again in the remaining part of the continent to the West of
 the Acheloos, but they are produced in the middle space between these
 rivers.
 
-127. When Xerxes had reached Therma he established the army there; and
+## Chapter 127
+
+When Xerxes had reached Therma he established the army there; and
 his army encamping there occupied of the land along by the sea no less
 than this,--beginning from the city of Therma and from Mygdonia it
 extended as far as the river Lydias and the Haliacmon, which form the
@@ -6642,7 +7423,9 @@ encamped in these regions; and of the rivers which have been enumerated,
 only the river Cheidoros flowing from the Crestonian land was
 insufficient for the drinking of the army and failed in its stream.
 
-128. Then Xerxes seeing from Therma the mountains of Thessaly, Olympos
+## Chapter 128
+
+Then Xerxes seeing from Therma the mountains of Thessaly, Olympos
 and Ossa, that they were of very great height, and being informed that
 in the midst between them there was a narrow channel, through which
 flows the Peneios, and hearing also that by this way there was a good
@@ -6659,7 +7442,9 @@ outlet of the Peneios, he was possessed by great wonder, and summoning
 his guides he asked them whether it was possible to turn the river aside
 and bring it out to the sea by another way.
 
-129. Now it is said that Thessaly was in old time a lake, being enclosed
+## Chapter 129
+
+Now it is said that Thessaly was in old time a lake, being enclosed
 on all sides by very lofty mountains: for the parts of it which lie
 towards the East are shut in by the ranges of Pelion and Ossa, which
 join one another in their lower slopes, the parts towards the North
@@ -6686,7 +7471,9 @@ of this god, would say, if he saw this, that it was made by Poseidon;
 for the parting asunder of the mountains is the work of an earthquake,
 as is evident to me.
 
-130. So the guides, when Xerxes asked whether there was any other
+## Chapter 130
+
+So the guides, when Xerxes asked whether there was any other
 possible outlet to the sea for the Peneios, said with exact knowledge
 of the truth: "O king, for this river there is no other outgoing which
 extends to the sea, but this alone; for all Thessaly is circled about
@@ -6705,14 +7492,18 @@ the king; for Xerxes thought that they offered him friendship on behalf
 of their whole nation. Having said thus and having looked at the place,
 he sailed back to Therma.
 
-131. He then was staying in the region of Pieria many days, for the road
+## Chapter 131
+
+He then was staying in the region of Pieria many days, for the road
 over the mountains of Macedonia was being cut meanwhile by a third part
 of his army, that all the host might pass over by this way into the land
 of the Perraibians: and now the heralds returned who had been sent to
 Hellas to demand the gift of earth, some empty-handed and others bearing
 earth and water.
 
-132. And among those who gave that which was demanded were the
+## Chapter 132
+
+And among those who gave that which was demanded were the
 following, namely the Thessalians, Dolopians, Enianians, 113
 Perraibians, Locrians, Megnesians, Malians, Achaians of Phthiotis, and
 Thebans, with the rest of the Boeotians also excepting the Thespians and
@@ -6722,7 +7513,9 @@ given themselves over to the Persian, not being compelled, these, if
 their own affairs should come to a good conclusion, they would dedicate
 as an offering 114 to the god at Delphi.
 
-133. Thus ran the oath which was taken by the Hellenes: Xerxes however
+## Chapter 133
+
+Thus ran the oath which was taken by the Hellenes: Xerxes however
 had not sent to Athens or to Sparta heralds to demand the gift of earth,
 and for this reason, namely because at the former time when Dareios had
 sent for this very purpose, the one people threw the men who made the
@@ -6733,7 +7526,9 @@ came upon the Athenians for having done this to the heralds, I am not
 able to say, except indeed that their land and city were laid waste; but
 I do not think that this happened for that cause:
 
-134, on the Lacedemonians however the wrath fell of Talthybios, the
+## Chapter 134
+
+on the Lacedemonians however the wrath fell of Talthybios, the
 herald of Agamemnon; for in Sparta there is a temple of Talthybios, and
 there are also descendants of Talthybios called Talthybiads, to whom
 have been given as a right all the missions of heralds which go from
@@ -6748,7 +7543,9 @@ attaining to the first rank, voluntarily submitted to pay the penalty to
 Xerxes for the heralds of Dareios which had perished at Sparta. Thus the
 Spartans sent these to the Medes to be put to death.
 
-135. And not only the courage then shown by these men is worthy of
+## Chapter 135
+
+And not only the courage then shown by these men is worthy of
 admiration, but also the following sayings in addition: for as they were
 on their way to Susa they came to Hydarnes (now Hydarnes was a Persian
 by race and commander of those who dwelt on the sea coasts of Asia), and
@@ -6767,7 +7564,9 @@ trial of freedom, whether it is pleasant to the taste or no; for if thou
 shouldest make trial of it, thou wouldest then counsel us to fight for
 it not with spears only but also with axes."
 
-136. Thus they answered Hydarnes; and then, after they had gone up to
+## Chapter 136
+
+Thus they answered Hydarnes; and then, after they had gone up to
 Susa and had come into the presence of the king, first when the spearmen
 of the guard commanded them and endeavoured to compel them by force to
 do obeisance to the king by falling down before him, they said that they
@@ -6783,7 +7582,9 @@ prevailed among all men by slaying heralds, but he would not do that
 himself which he blamed them for having done, nor would he free the
 Lacedemonians from their guilt by slaying these in return.
 
-137. Thus the wrath of Talthybios ceased for the time being, even though
+## Chapter 137
+
+Thus the wrath of Talthybios ceased for the time being, even though
 the Spartans had done no more than this and although Sperthias and Bulis
 returned back to Sparta; but a long time after this it was roused
 again during the war between the Peloponnesians and Athenians, as the
@@ -6805,7 +7606,9 @@ the Athenians, and with them also Aristeas the son of Adeimantos the
 Corinthian. These things happened many years after the expedition of the
 king; and I return now to the former narrative.
 
-138. Now the march of the king's army was in name against Athens, but in
+## Chapter 138
+
+Now the march of the king's army was in name against Athens, but in
 fact it was going against all Hellas: and the Hellenes being informed of
 this long before were not all equally affected by it; for some of them
 having given earth and water to the Persian had confidence, supposing
@@ -6816,7 +7619,9 @@ invader in fight, and seeing that the greater part of the States were
 not willing to take up the war, but adopted readily the side of the
 Medes.
 
-139. And here I am compelled by necessity to declare an opinion which in
+## Chapter 139
+
+And here I am compelled by necessity to declare an opinion which in
 the eyes of most men would seem to be invidious, but nevertheless I will
 not abstain from saying that which I see evidently to be the truth. If
 the Athenians had been seized with fear of the danger which threatened
@@ -6846,7 +7651,9 @@ the king. Nor did fearful oracles, which came from Delphi and cast them
 into dread, induce them to leave Hellas, but they stayed behind and
 endured to receive the invader of their land.
 
-140. For the Athenians had sent men to Delphi to inquire and were
+## Chapter 140
+
+For the Athenians had sent men to Delphi to inquire and were
 preparing to consult the Oracle; and after these had performed the usual
 rites in the sacred precincts, when they had entered the sanctuary 120
 and were sitting down there, the Pythian prophetess, whose name was
@@ -6866,7 +7673,9 @@ Aristonike, uttered to them this oracle:
    forecasting the dire unavoidable evil. Forth with you, forth from
    the shrine, and steep your soul in the sorrow!" 126
 
-141. Hearing this the men who had been sent by the Athenians to consult
+## Chapter 141
+
+Hearing this the men who had been sent by the Athenians to consult
 the Oracle were very greatly distressed; and as they were despairing by
 reason of the evil which had been prophesied to them, Timon the son of
 Androbulos, a man of the Delphians in reputation equal to the first,
@@ -6893,7 +7702,9 @@ gave them a second oracle as follows:
    sons of women to perish, Or when the grain 129 is scattered or
    when it is gathered together."
 
-142. This seemed to them to be (as in truth it was) a milder utterance
+## Chapter 142
+
+This seemed to them to be (as in truth it was) a milder utterance
 than the former one; therefore they had it written down and departed
 with it to Athens: and when the messengers after their return made
 report to the people, many various opinions were expressed by persons
@@ -6916,7 +7727,9 @@ ships were the bulwark of wood were disturbed; for the interpreters of
 oracles took these to mean that it was fated for them, having got ready
 for a sea-fight, to suffer defeat round about Salamis.
 
-143. Now there was one man of the Athenians who had lately been coming
+## Chapter 143
+
+Now there was one man of the Athenians who had lately been coming
 forward to take a place among the first, whose name was Themistocles,
 called son of Neocles. This man said that the interpreters of oracles
 did not make right conjecture of the whole, and he spoke as follows,
@@ -6934,7 +7747,9 @@ who bade them not make ready for a sea-fight, nor in short raise their
 hands at all in opposition, but leave the land of Attica and settle in
 some other.
 
-144. Another opinion too of Themistocles before this one proved the best
+## Chapter 144
+
+Another opinion too of Themistocles before this one proved the best
 at the right moment, when the Athenians, having got large sums of money
 in the public treasury, which had come in to them from the mines which
 are at Laureion, were intending to share it among themselves, taking
@@ -6952,7 +7767,9 @@ given, to receive the Barbarian invading Hellas with their ships in full
 force, following the commands of the god, in combination with those of
 the Hellenes who were willing to join them.
 
-145. These oracles had been given before to the Athenians: and when
+## Chapter 145
+
+These oracles had been given before to the Athenians: and when
 those Hellenes who had the better mind about Hellas 131 came together to
 one place, and considered their affairs and interchanged assurances with
 one another, then deliberating together they thought it well first of
@@ -6970,7 +7787,9 @@ might join all together and act towards the same end, since dangers were
 threatening all the Hellenes equally. Now the power of Gelon was said to
 be great, far greater than any other Hellenic power.
 
-146. When they had thus resolved, they reconciled their enmities and
+## Chapter 146
+
+When they had thus resolved, they reconciled their enmities and
 then sent first three men as spies to Asia. These having come to Sardis
 and having got knowledge about the king's army, were discovered, and
 after having been examined by the generals of the land-army were being
@@ -6985,7 +7804,9 @@ whole army both foot and horse, and when they should have had their fill
 of looking at these things, to let them go unhurt to whatsoever land
 they desired.
 
-147. Such was the command which he gave, adding at the same time this
+## Chapter 147
+
+Such was the command which he gave, adding at the same time this
 saying, namely that if the spies had been put to death, the Hellenes
 would not have been informed beforehand of his power, how far beyond
 description it was; while on the other hand by putting to death three
@@ -7006,7 +7827,9 @@ not also sailing to the same place as these men, furnished with corn as
 well as with other things necessary? How then do these wrong us, since
 they are conveying provisions for our use?"
 
-148. The spies then, having thus looked at everything and after that
+## Chapter 148
+
+The spies then, having thus looked at everything and after that
 having been dismissed, returned back to Europe: and meanwhile those
 of the Hellenes who had sworn alliance against the Persian, after the
 sending forth of the spies proceeded to send envoys next to Argos. Now
@@ -7036,7 +7859,9 @@ they had half the leadership of the whole confederacy: and yet by
 strict right (they said) the whole leadership fell to their share, but
 nevertheless it was sufficient for them to have half.
 
-149. Thus they report that the Council made answer, although the oracle
+## Chapter 149
+
+Thus they report that the Council made answer, although the oracle
 forbade them to make the alliance with the Hellenes; and they were
 anxious, they say, that a truce from hostilities for thirty years should
 be made, although they feared the oracle, in order, as they allege, that
@@ -7058,7 +7883,9 @@ Lacedemonians; and they gave notice to the envoys to depart out of the
 territory of the Argives before sunset, or, if not, they would be dealt
 with as enemies.
 
-150. The Argives themselves report so much about these matters: but
+## Chapter 150
+
+The Argives themselves report so much about these matters: but
 there is another story reported in Hellas to the effect that Xerxes
 sent a herald to Argos before he set forth to make an expedition against
 Hellas, and this herald, they say, when he had come, spoke as follows:
@@ -7078,7 +7905,9 @@ side, then, since they knew well that the Lacedemonians would not give
 them a share in the command, they asked for this merely in order that
 they might have a pretext for remaining still.
 
-151. Also some of the Hellenes report that the following event, in
+## Chapter 151
+
+Also some of the Hellenes report that the following event, in
 agreement with this account, came to pass many years after these
 things:--there happened, they say, to be in Susa the city of Memnon 137
 envoys of the Athenians come about some other matter, namely Callias the
@@ -7091,7 +7920,9 @@ and king Artoxerxes said that it most certainly remained unbroken, and
 that there was no city which he considered to be more his friend than
 Argos.
 
-152. Now whether Xerxes did indeed send a herald to Argos saying that
+## Chapter 152
+
+Now whether Xerxes did indeed send a herald to Argos saying that
 which has been reported, and whether envoys of the Argives who had gone
 up to Susa inquired of Artoxerxes concerning friendship, I am not able
 to say for certain; nor do I declare any opinion about the matters in
@@ -7110,7 +7941,9 @@ invade Hellas, because their war with the Lacedemonians had had an evil
 issue, being willing to suffer anything whatever rather than the trouble
 which was then upon them.
 
-153. That which concerns the Argives has now been said: and meanwhile
+## Chapter 153
+
+That which concerns the Argives has now been said: and meanwhile
 envoys had come to Sicily from the allies, to confer with Gelon, among
 whom was also Syagros from the Lacedemonians. Now the ancestor of this
 Gelon, he who was at Gela as a settler, 140 was a native of the island
@@ -7133,7 +7966,9 @@ brave spirit and manly vigour, whereas Telines is said by the dwellers
 in Sicily to have been on the contrary a man of effeminate character and
 rather poor spirit.
 
-154. He then had thus obtained the privilege of which I speak: and when
+## Chapter 154
+
+He then had thus obtained the privilege of which I speak: and when
 Cleander the son of Pantares brought his life to an end, having been
 despot of Gela for seven years and being killed at last by Sabyllos a
 man of Gela, then Hippocrates succeeded to the monarchy, who was
@@ -7153,7 +7988,9 @@ settlement on this condition, namely that the Syracusans should deliver
 up Camarina to Hippocrates. Now Camarina used in ancient time to belong
 to the men of Syracuse.
 
-155. Then when it was the fate of Hippocrates also, after having been
+## Chapter 155
+
+Then when it was the fate of Hippocrates also, after having been
 despot for the same number of years as his brother Cleander, to be
 killed at the city of Hybla, whither he had gone on an expedition
 against the Sikelians, then Gelon made a pretence of helping the sons
@@ -7168,7 +8005,9 @@ Casmene to Syracuse, and so got possession of this last city also, for
 the common people of Syracuse, when Gelon came against them, delivered
 up to him their city and themselves.
 
-156. So after he had received Syracuse into his power, he made less
+## Chapter 156
+
+So after he had received Syracuse into his power, he made less
 account of Gela, of which he was ruler also in addition, and he gave
 it in charge to Hieron his brother, while he proceeded to strengthen
 Syracuse. So forthwith that city rose and shot up to prosperity; for in
@@ -7187,7 +8026,9 @@ of Euboia in Sicily, making a distinction between them: and he dealt
 thus with these two cities because he thought that a body of commons was
 a most unpleasant element in the State.
 
-157. In the manner then which has been described Gelon had become a
+## Chapter 157
+
+In the manner then which has been described Gelon had become a
 powerful despot; and at this time when the envoys of the Hellenes had
 arrived at Syracuse, they came to speech with him and said as follows:
 "The Lacedemonians and their allies sent us to get thee to be on our
@@ -7210,7 +8051,9 @@ to thee, but guard thyself against this beforehand; for in coming to
 our assistance thou art helping thyself; and the matter which is wisely
 planned has for the most part a good issue afterwards."
 
-158. The envoys spoke thus; and Gelon was very vehement with them,
+## Chapter 158
+
+The envoys spoke thus; and Gelon was very vehement with them,
 speaking to them as follows: "Hellenes, a selfish speech is this, with
 which ye have ventured to come and invite me to be your ally against the
 Barbarian; whereas ye yourselves, when I in former time requested of you
@@ -7235,7 +8078,9 @@ things I engage to supply on this condition, namely that I shall be
 commander and leader of the Hellenes against the Barbarian; but on any
 other condition I will neither come myself nor will I send others."
 
-159. Hearing this Syagros could not contain himself but spoke these
+## Chapter 159
+
+Hearing this Syagros could not contain himself but spoke these
 words: "Deeply, I trow, would Agamemnon son of Pelops lament, 149 if he
 heard that the Spartans had had the leadership taken away from them by
 Gelon and by the Syracusans. Nay, but make thou no further mention of
@@ -7244,7 +8089,9 @@ but if thou art desirous to come to the assistance of Hellas, know that
 thou wilt be under the command of the Lacedemonians; and if thou dost
 indeed claim not to be under command, come not thou to our help at all."
 
-160. To this Gelon, seeing that the speech of Syagros was adverse, set
+## Chapter 160
+
+To this Gelon, seeing that the speech of Syagros was adverse, set
 forth to them his last proposal thus: "Stranger from Sparta, reproaches
 sinking into the heart of a man are wont to rouse his spirit in anger
 against them; thou however, though thou hast uttered insults against me
@@ -7259,7 +8106,9 @@ sea-forces, I am willing to be leader of those on land; and either ye
 must be contented with these terms or go away without the alliance which
 I have to give."
 
-161. Gelon, I say, made these offers, and the envoy of the Athenians,
+## Chapter 161
+
+Gelon, I say, made these offers, and the envoy of the Athenians,
 answering before that of the Lacedemonians, replied to him as follows:
 "O king of the Syracusans, it was not of a leader that Hellas was in
 want when it sent us to thee, but of an army. Thou however dost not set
@@ -7284,7 +8133,9 @@ also belonged a man whom Homer the Epic poet said was the best of all
 who came to Ilion in drawing up an army and setting it in array. 151
 Thus we are not justly to be reproached if we say these things."
 
-162. To this Gelon made answer thus: "Stranger of Athens, it would seem
+## Chapter 162
+
+To this Gelon made answer thus: "Stranger of Athens, it would seem
 that ye have the commanders, but that ye will not have the men to be
 commanded. Since then ye will not at all give way, but desire to
 have the whole, it were well that ye should depart home as quickly as
@@ -7295,7 +8146,9 @@ his army was the noblest part of the army of the Hellenes: for Hellas
 therefore, deprived of his alliance, it was, he said, as if the spring
 had been taken out of the year. 152
 
-163. The envoys of the Hellenes, having thus had conference with Gelon,
+## Chapter 163
+
+The envoys of the Hellenes, having thus had conference with Gelon,
 sailed away; and Gelon upon this, fearing on the one hand about the
 Hellenes, lest they should not be able to overcome the Barbarian, and
 on the other hand considering it monstrous and not to be endured that
@@ -7310,7 +8163,9 @@ he was to give him the money and also to offer him earth and water
 from those over whom Gelon had rule; but if the Hellenes should be
 victorious, he was bidden to bring it back.
 
-164. Now this Cadmos before these events, having received from his
+## Chapter 164
+
+Now this Cadmos before these events, having received from his
 father in a prosperous state the government 153 of the people of Cos,
 had voluntarily and with no danger threatening, but moved merely by
 uprightness of nature, placed the government in the hands of the people
@@ -7327,7 +8182,9 @@ himself he did not choose to do so; but when the Hellenes had got the
 better in the sea-fight and Xerxes had marched away and departed, he
 also returned to Sicily bringing back with him the whole sum of money.
 
-165. The story which here follows is also reported by those who dwell in
+## Chapter 165
+
+The story which here follows is also reported by those who dwell in
 Sicily, namely that, even though he was to be under the command of the
 Lacedemonians, Gelon would have come to the assistance of the Hellenes,
 but that Terillos, the son of Crinippos and despot of Himera, having
@@ -7344,7 +8201,9 @@ for Anaxilaos was married to the daughter of Terillos, whose name was
 Kydippe. Thus it was, they say, that Gelon was not able to come to the
 assistance of the Hellenes, and sent therefore the money to Delphi.
 
-166. In addition to this they report also that, as it happened, Gelon
+## Chapter 166
+
+In addition to this they report also that, as it happened, Gelon
 and Theron were victorious over Amilcas the Carthaginian on the very
 same day when the Hellenes were victorious at Salamis over the Persian.
 And this Amilcas, who was a Carthaginian on the father's side but on
@@ -7354,7 +8213,9 @@ battle, disappeared, as I am informed; for neither alive nor dead did he
 appear again anywhere upon the earth, though Gelon used all diligence in
 the search for him.
 
-167. Moreover there is also this story reported by the Carthaginians
+## Chapter 167
+
+Moreover there is also this story reported by the Carthaginians
 themselves, who therein relate that which is probable in itself, namely
 that while the Barbarians fought with the Hellenes in Sicily from the
 early morning till late in the afternoon (for to such a length the
@@ -7369,7 +8230,9 @@ by the Phenicians, or in some other way, 159 the Carthaginians both
 offer sacrifices to him now, and also they made memorials of him then in
 all the cities of their colonies, and the greatest in Carthage itself.
 
-168. So far of the affairs of Sicily: and as for the Corcyreans, they
+## Chapter 168
+
+So far of the affairs of Sicily: and as for the Corcyreans, they
 made answer to the envoys as follows, afterwards acting as I shall tell:
 for the same men who had gone to Sicily endeavoured also to obtain the
 help of these, saying the same things which they said to Gelon; and
@@ -7401,7 +8264,9 @@ owing to the Etesian Winds; therefore it was that they had not come to
 Salamis, nor was it by any want of courage on their part that they had
 been left of the sea-fight.
 
-169. These then evaded the request of the Hellenes thus: but the
+## Chapter 169
+
+These then evaded the request of the Hellenes thus: but the
 Cretans, when those of the Hellenes who had been appointed to deal with
 these endeavoured to obtain their help, did thus, that is to say, they
 joined together and sent men to inquire of the god at Delphi whether
@@ -7414,7 +8279,9 @@ nevertheless joined with them in taking vengeance for the woman who by
 a Barbarian was carried off from Sparta." When the Cretans heard this
 answer reported, they abstained from the giving of assistance.
 
-170. For the story goes that Minos, having come to Sicania, which is now
+## Chapter 170
+
+For the story goes that Minos, having come to Sicania, which is now
 called Sicily, in search of Daidalos, died there by a violent death; and
 after a time the Cretans, urged thereto by a god, all except the men of
 Polichne and Praisos, came with a great armament to Sicania and besieged
@@ -7440,7 +8307,9 @@ servant of Anaxilaos, had been left by him in charge of Rhegion; and he
 it was who after being driven out of Rhegion took up his abode at Tegea
 of the Arcadians and dedicated those many statues at Olympia.
 
-171. This of the men of Rhegion and of the Tarentines has been an
+## Chapter 171
+
+This of the men of Rhegion and of the Tarentines has been an
 episode 162 in my narrative: in Crete however, as the men of Praisos
 report, after it had been thus stripped of inhabitants, settlements were
 made by various nations, but especially by Hellenes; and in the next
@@ -7454,7 +8323,9 @@ were left of the former inhabitants. The Pythian prophetess, I say, by
 calling these things to their minds stopped them from giving assistance
 to the Hellenes, though they desired to do so.
 
-172. As for the Thessalians, they at first had taken the side of the
+## Chapter 172
+
+As for the Thessalians, they at first had taken the side of the
 Persians against their will, and they gave proof that they were not
 pleased by that which the Aleuadai were designing; for so soon as they
 heard that the Persian was about to cross over into Europe, they sent
@@ -7471,7 +8342,9 @@ your defence: and not being willing 163 to come to our help, ye cannot
 apply to us any force to compel inability; 164 but we shall endeavour to
 devise some means of safety for ourselves."
 
-173. Thus spoke the Thessalians; and the Hellenes upon this resolved to
+## Chapter 173
+
+Thus spoke the Thessalians; and the Hellenes upon this resolved to
 send to Thessaly by sea an army of men on foot to guard the pass: and
 when the army was assembled it set sail through Euripos, and having
 come to Alos in the Achaian land, it disembarked there and marched into
@@ -7496,13 +8369,17 @@ the Perraibians and by the city of Gonnos, the way by which the army of
 Xerxes did in fact make its entrance. So the Hellenes went down to their
 ships again and made their way back to the Isthmus.
 
-174. Such was the expedition to Thessaly, which took place when the king
+## Chapter 174
+
+Such was the expedition to Thessaly, which took place when the king
 was about to cross over from Asia to Europe and was already at Abydos.
 So the Thessalians, being stripped of allies, upon this took the side of
 the Medes with a good will and no longer half-heartedly, so that in the
 course of events they proved very serviceable to the king.
 
-175. When the Hellenes had returned to the Isthmus, they deliberated,
+## Chapter 175
+
+When the Hellenes had returned to the Isthmus, they deliberated,
 having regard to that which had been said by Alexander, where and in
 what regions they should set the war on foot: and the opinion which
 prevailed was to guard the pass at Thermopylai; for it was seen to be
@@ -7518,7 +8395,9 @@ near to one another, so that each division of their forces could have
 information of what was happening to the other. And the places are so
 situated as I shall describe.
 
-176. As to Artemision first, coming out of the Thracian Sea the space
+## Chapter 176
+
+As to Artemision first, coming out of the Thracian Sea the space
 is contracted from great width to that narrow channel which lies between
 the island of Skiathos and the mainland of Magnesia; and after the
 strait there follows at once in Euboea the sea-beach called Artemision,
@@ -7549,7 +8428,9 @@ up again, and at this spot to repel the Barbarian from Hellas: and very
 near the road there is a village called Alpenoi, from which the Hellenes
 counted on getting supplies.
 
-177. These places then the Hellenes perceived to be such as their
+## Chapter 177
+
+These places then the Hellenes perceived to be such as their
 purpose required; for they considered everything beforehand and
 calculated that the Barbarians would not be able to take advantage
 either of superior numbers or of cavalry, and therefore they resolved
@@ -7558,7 +8439,9 @@ the Persian was in Pieria, they broke up from the Isthmus and set forth
 for the campaign, some going to Thermopylai by land, and others making
 for Artemision by sea.
 
-178. The Hellenes, I say, were coming to the rescue with speed, having
+## Chapter 178
+
+The Hellenes, I say, were coming to the rescue with speed, having
 been appointed to their several places: and meanwhile the men of Delphi
 consulted the Oracle of the god on behalf of themselves and on behalf
 of Hellas, being struck with dread; and a reply was given them that they
@@ -7572,7 +8455,9 @@ established an altar for the Winds in Thuia, where is the sacred
 enclosure of Thuia the daughter of Kephisos, after whom moreover this
 place has its name; and also they approached them with sacrifices.
 
-179. The Delphians then according to the oracle even to this day make
+## Chapter 179
+
+The Delphians then according to the oracle even to this day make
 propitiary offerings to the Winds: and meanwhile the fleet of Xerxes
 setting forth from the city of Therma had passed over with ten of its
 ships, which were those that sailed best, straight towards Skiathos,
@@ -7580,7 +8465,9 @@ where three Hellenic ships, a Troizenian, an Eginetan and an Athenian,
 were keeping watch in advance. When the crews of these caught sight of
 the ships of the Barbarians, they set off to make their escape:
 
-180, and the ship of Troizen, of which Prexinos was in command, was
+## Chapter 180
+
+and the ship of Troizen, of which Prexinos was in command, was
 pursued and captured at once by the Barbarians; who upon that took the
 man who was most distinguished by beauty among the fighting-men on board
 of her, 169 and cut his throat at the prow of the ship, making a good
@@ -7589,7 +8476,9 @@ who was pre-eminent for beauty. The name of this man who was sacrificed
 was Leon, and perhaps he had also his name to thank in some degree for
 what befell him.
 
-181. The ship of Egina however, of which Asonides was master, even
+## Chapter 181
+
+The ship of Egina however, of which Asonides was master, even
 gave them some trouble to capture it, seeing that Pytheas the son of
 Ischenoös served as a fighting-man on board of her, who proved himself a
 most valiant man on this day; for when the ship was being taken, he
@@ -7602,14 +8491,18 @@ when they came back to their own main body, they showed him to all the
 army, making a marvel of him and giving him good treatment; but the rest
 whom they had taken in this ship they treated as slaves.
 
-182. Two of the three ships, I say, were captured thus; but the third,
+## Chapter 182
+
+Two of the three ships, I say, were captured thus; but the third,
 of which Phormos an Athenian was master, ran ashore in its flight at
 the mouth of the river Peneios; and the Barbarians got possession of
 the vessel but not of the crew; for so soon as the Athenians had run the
 ship ashore, they leapt out of her, and passing through Thessaly made
 their way to Athens.
 
-183. Of these things the Hellenes who were stationed at Artemision were
+## Chapter 183
+
+Of these things the Hellenes who were stationed at Artemision were
 informed by fire-signals from Skiathos; and being informed of them
 and being struck with fear, they removed their place of anchorage from
 Atermision to Chalkis, intending to guard the Euripos, but leaving at
@@ -7626,7 +8519,9 @@ Sailing then throughout the day the Barbarians accomplished the voyage
 to Sepias in Magnesia and to the sea-beach which is between the city of
 Casthanaia and the headland of Sepias.
 
-184. So far as this place and so far as Thermopylai the army was exempt
+## Chapter 184
+
+So far as this place and so far as Thermopylai the army was exempt
 from calamity; and the number was then still, as I find by computation,
 this:--Of the ships which came from Asia, which were one thousand two
 hundred and seven, the original number of the crews supplied by the
@@ -7654,7 +8549,9 @@ ten. 181 This is the statement of the Army which was brought up out of
 Asia itself, without counting the attendants which accompanied it or the
 corn-transports and the men who sailed in these.
 
-185. There is still to be reckoned, in addition to all this which has
+## Chapter 185
+
+There is still to be reckoned, in addition to all this which has
 been summed up, the force which was being led from Europe; and of this
 we must give a probable estimate. 182 The Hellenes of Thrace and of the
 islands which lie off the coast of Thrace supplied a hundred and twenty
@@ -7668,7 +8565,9 @@ myriads. 184 These myriads then added to those from Asia make a total
 sum of two hundred and sixty-four myriads of fighting men and in
 addition to these sixteen hundred and ten. 185
 
-186. Such being the number of this body of fighting-men, 186 the
+## Chapter 186
+
+Such being the number of this body of fighting-men, 186 the
 attendants who went with these and the men who were in the small vessels
 187 which carried corn, and again in the other vessels which sailed
 with the army, these I suppose were not less in number but more than
@@ -7679,7 +8578,9 @@ Thus five hundred and twenty-eight myriads three thousand two hundred
 and twenty 188 was the number of men whom Xerxes son of Dareios led as
 far as Sepias and Thermopylai.
 
-187. This is the number of the whole army of Xerxes; but of the women
+## Chapter 187
+
+This is the number of the whole army of Xerxes; but of the women
 who made bread for it, and of the concubines and eunuchs no man can
 state any exact number, nor again of the draught-animals and other
 beasts of burden or of the Indian hounds, which accompanied it, could
@@ -7694,7 +8595,9 @@ women, eunuchs, baggage-animals, or dogs. Of all these men, amounting
 to so many myriads, not one was for beauty and stature more worthy than
 Xerxes himself to possess this power.
 
-188. The fleet, I say, set forth and sailed: and when it had put in to
+## Chapter 188
+
+The fleet, I say, set forth and sailed: and when it had put in to
 land in the region of Magnesia at the beach which is between the city of
 Casthanaia and the headland of Sepias, the first of the ships which came
 lay moored by the land and the others rode at anchor behind them; for,
@@ -7713,7 +8616,9 @@ on the headland of Sepias itself, others at the city of Meliboia, and
 others were thrown up on shore 194 at Casthanaia: and the violence of
 the storm could not be resisted.
 
-189. There is a story reported that the Athenians had called upon Boreas
+## Chapter 189
+
+There is a story reported that the Athenians had called upon Boreas
 to aid them, by suggestion of an oracle, because there had come to them
 another utterance of the god bidding them call upon their brother by
 marriage to be their helper. Now according to the story of the
@@ -7732,7 +8637,9 @@ this time he accomplished those things for them of which I speak; and
 when they had returned home they set up a temple dedicated to Boreas by
 the river Ilissos.
 
-190. In this disaster the number of the ships which were lost was not
+## Chapter 190
+
+In this disaster the number of the ships which were lost was not
 less than four hundred, according to the report of those who state the
 number which is lowest, with men innumerable and an immense quantity
 of valuable things; insomuch that to Ameinocles the son of Cretines,
@@ -7745,7 +8652,9 @@ man however, though he became very wealthy by the things which he found,
 yet in other respects was not fortunate; for he too suffered misfortune,
 being troubled by the slaying of a child. 197
 
-191. Of the corn-transports and other vessels which perished there was
+## Chapter 191
+
+Of the corn-transports and other vessels which perished there was
 no numbering made; and so great was the loss that the commanders of the
 fleet, being struck with fear lest the Thessalians should attack them
 now that they had been brought into an evil plight, threw round their
@@ -7759,7 +8668,9 @@ by the Ionians of the story that she was carried off from the place by
 Peleus, and that the whole headland of Sepias belonged to her and to the
 other Nereïds.
 
-192. The storm then had ceased on the fourth day; and meanwhile the
+## Chapter 192
+
+The storm then had ceased on the fourth day; and meanwhile the
 day-watchers had run down from the heights of Euboea on the day after
 the first storm began, and were keeping the Hellenes informed of all
 that had happened as regards the shipwreck. They then, being informed of
@@ -7767,7 +8678,9 @@ it, prayed first to Poseidon the Saviour and poured libations, and then
 they hastened to go back to Artemision, expecting that there would be
 but a very few ships of the enemy left to come against them.
 
-193. They, I say, came for the second time and lay with their ships
+## Chapter 193
+
+They, I say, came for the second time and lay with their ships
 about Artemision: and from that time even to this they preserve the use
 of the surname "Saviour" for Poseidon. Meanwhile the Barbarians, when
 the wind had ceased and the swell of the sea had calmed down, drew their
@@ -7782,7 +8695,9 @@ from that place they designed, when they had taken in water, to loose
 to have the name Aphetai. Here then the fleet of Xerxes took up its
 moorings.
 
-194. Now it chanced that fifteen of these ships put out to sea a good
+## Chapter 194
+
+Now it chanced that fifteen of these ships put out to sea a good
 deal later than the rest, and they happened to catch sight of the ships
 of the Hellenes at Artemision. These ships the Barbarians supposed to be
 their own, and they sailed thither accordingly and fell among the enemy.
@@ -7799,7 +8714,9 @@ Hellenes, he was destined not to escape the second time; for when the
 Hellenes saw them sailing up, perceiving the mistake which was being
 made they put out against them and captured them without difficulty.
 
-195. Sailing in one of these ships Aridolis was captured, the despot of
+## Chapter 195
+
+Sailing in one of these ships Aridolis was captured, the despot of
 Alabanda in Caria, and in another the Paphian commander Penthylos son of
 Demonoös, who brought twelve ships from Paphos, but had lost eleven
 of them in the storm which had come on by Sepias, and now was captured
@@ -7808,7 +8725,9 @@ the Hellenes sent away in bonds to the Isthmus of the Corinthians, after
 having inquired of them that which they desired to learn of the army of
 Xerxes.
 
-196. The fleet of the Barbarians then, except the fifteen ships of which
+## Chapter 196
+
+The fleet of the Barbarians then, except the fifteen ships of which
 I said that Sandokes was in command, had arrived at Aphetai; and Xerxes
 meanwhile with the land-army, having marched through Thessalia and
 Achaia, had already entered the land of the Malians two days before, 200
@@ -7820,7 +8739,9 @@ Onochonos alone failed to suffice by its stream for the drinking of
 the army; but of the rivers which flow in Achaia even that which is the
 largest of them, namely Epidanos, even this, I say, held out but barely.
 
-197. When Xerxes had reached Alos of Achaia, the guides who gave him
+## Chapter 197
+
+When Xerxes had reached Alos of Achaia, the guides who gave him
 information of the way, wishing to inform him fully of everything,
 reported to him a legend of the place, the things, namely, which have to
 do with the temple of Zeus Laphystios; 201 how Athamas the son of Aiolos
@@ -7848,7 +8769,9 @@ sacred grove, both abstained from entering it himself, and gave the
 command to his whole army to so likewise; and he paid reverence both to
 the house and to the sacred enclosure of the descendants of Athamas.
 
-198. These then are the things which happened in Thessalia and in
+## Chapter 198
+
+These then are the things which happened in Thessalia and in
 Achaia; and from these regions he proceeded to the Malian land, going
 along by a gulf of the sea, in which there is an ebb and flow of the
 tide every day. Round about this gulf there is a level space, which in
@@ -7863,7 +8786,9 @@ might bring assistance to Heracles when he was burning: then again at
 a distance of twenty furlongs from this there is another river called
 Melas.
 
-199. From this river Melas the city of Trachis is distant five furlongs;
+## Chapter 199
+
+From this river Melas the city of Trachis is distant five furlongs;
 and here, in the parts where Trachis is situated, is even the widest
 portion of all this district, as regards the space from the mountains to
 the sea; for the plain has an extent of twenty-two thousand plethra.
@@ -7871,7 +8796,9 @@ the sea; for the plain has an extent of twenty-two thousand plethra.
 cleft to the South of Trachis itself; and through this cleft the river
 Asopos flows, and runs along by the foot of the mountain.
 
-200. There is also another river called Phoinix, to the South of the
+## Chapter 200
+
+There is also another river called Phoinix, to the South of the
 Asopos, of no great size, which flowing from these mountains runs out
 into the Asopos; and at the river Phoinix is the narrowest place, for
 here has been constructed a road with a single wheel-track only.
@@ -7883,7 +8810,9 @@ in which is set up a temple dedicated to Demeter of the Amphictyons, and
 there are seats for the Amphictyonic councillors and a temple dedicated
 to Amphictyon himself.
 
-201. King Xerxes, I say, was encamped within the region of Trachis in
+## Chapter 201
+
+King Xerxes, I say, was encamped within the region of Trachis in
 the land of the Malians, and the Hellenes within the pass. This place is
 called by the Hellenes in general Thermopylai, but by the natives of the
 place and those who dwell in the country round it is called Pylai. Both
@@ -7892,7 +8821,9 @@ lies beyond Trachis 208 in the direction of the North Wind, and the
 others of that which tends towards the South Wind and the mid-day on
 this side of the continent. 209
 
-202. These were the Hellenes who awaited the attack of the Persian in
+## Chapter 202
+
+These were the Hellenes who awaited the attack of the Persian in
 this place:--of the Spartans three hundred hoplites; of the men of
 Tegea and Mantineia a thousand, half from each place, from Orchomenos
 in Arcadia a hundred and twenty, and from the rest of Arcadia a
@@ -7901,7 +8832,9 @@ Phlius two hundred, and of the men of Mykene eighty: these were they who
 came from the Peloponnese; and from the Boeotians seven hundred of the
 Thespians, and of the Thebans four hundred.
 
-203. In addition to these the Locrians of Opus had been summoned to come
+## Chapter 203
+
+In addition to these the Locrians of Opus had been summoned to come
 in their full force, and of the Phokians a thousand: for the Hellenes
 had of themselves sent a summons to them, saying by messengers that they
 had come as forerunners of the others, that the rest of the allies
@@ -7915,7 +8848,9 @@ greatest men; therefore he also who was marching against them, being
 mortal, would be destined to fail of his expectation. They accordingly,
 hearing this, came to the assistance of the others at Trachis.
 
-204. Of these troops, although there were other commanders also
+## Chapter 204
+
+Of these troops, although there were other commanders also
 according to the State to which each belonged, yet he who was most held
 in regard and who was leader of the whole army was the Lacedemonian
 Leonidas son of Anaxandrides, son of Leon, son of Eurycratides, son of
@@ -7926,7 +8861,9 @@ Aristodemos, son of Aristomachos, son of Cleodaios, son of Hyllos,
 son of Heracles; who had obtained the kingdom of Sparta contrary to
 expectation.
 
-205. For as he had two brothers each older than himself, namely
+## Chapter 205
+
+For as he had two brothers each older than himself, namely
 Cleomenes and Dorieos, he had been far removed from the thought of
 becoming king. Since however Cleomenes had died without male child, and
 Dorieos was then no longer alive, but he also had brought his life to an
@@ -7946,7 +8883,9 @@ troops with them or whether they would openly renounce the alliance of
 the Hellenes; and they sent men, having other thoughts in their mind the
 while.
 
-206. These with Leonidas the Spartans had sent out first, in order that
+## Chapter 206
+
+These with Leonidas the Spartans had sent out first, in order that
 seeing them the other allies might join in the campaign, and for fear
 that they also might take the side of the Medes, if they heard that the
 Spartans were putting off their action. Afterwards, however, when they
@@ -7958,7 +8897,9 @@ festival fell at the same time as these events. Accordingly, since
 they did not suppose that the fighting in Thermopylai would so soon be
 decided, they sent only the forerunners of their force.
 
-207. These, I say, had intended to do thus: and meanwhile the Hellenes
+## Chapter 207
+
+These, I say, had intended to do thus: and meanwhile the Hellenes
 at Thermopylai, when the Persian had come near to the pass, were in
 dread, and deliberated about making retreat from their position. To the
 rest of the Peloponnesians then it seemed best that they should go to
@@ -7968,7 +8909,9 @@ for remaining there, and for sending at the same time messengers to the
 several States bidding them to come up to help them, since they were but
 few to repel the army of the Medes.
 
-208. As they were thus deliberating, Xerxes sent a scout on horseback
+## Chapter 208
+
+As they were thus deliberating, Xerxes sent a scout on horseback
 to see how many they were in number and what they were doing; for he had
 heard while he was yet in Thessaly that there had been assembled in
 this place a small force, and that the leaders of it were Lacedemonians
@@ -7986,7 +8929,9 @@ had observed all exactly, he rode back unmolested, for no one attempted
 to pursue him and he found himself treated with much indifference. And
 when he returned he reported to Xerxes all that which he had seen.
 
-209. Hearing this Xerxes was not able to conjecture the truth about the
+## Chapter 209
+
+Hearing this Xerxes was not able to conjecture the truth about the
 matter, namely that they were preparing themselves to die and to deal
 death to the enemy so far as they might; but it seemed to him that they
 were acting in a manner merely ridiculous; and therefore he sent for
@@ -8012,7 +8957,9 @@ what manner being so few they would fight with his host. He said; "O
 king, deal with me as with a liar, if thou find not that these things
 come to pass as I say."
 
-210. Thus saying he did not convince Xerxes, who let four days go by,
+## Chapter 210
+
+Thus saying he did not convince Xerxes, who let four days go by,
 expecting always that they would take to flight; but on the fifth day,
 when they did not depart but remained, being obstinate, as he thought,
 in impudence and folly, he was enraged and sent against them the Medes
@@ -8024,7 +8971,9 @@ and they made it evident to every man, and to the king himself not least
 of all, that human beings are many but men are few. This combat went on
 throughout the day:
 
-211, and when the Medes were being roughly handled, then these retired
+## Chapter 211
+
+and when the Medes were being roughly handled, then these retired
 from the battle, and the Persians, those namely whom the king called
 "Immortals," of whom Hydarnes was commander, took their place and came
 to the attack, supposing that they at least would easily overcome the
@@ -8045,7 +8994,9 @@ the Spartans themselves. So, as the Persians were not able to obtain any
 success by making trial of the entrance and attacking it by divisions
 and every way, they retired back.
 
-212. And during these onsets it is said that the king, looking on, three
+## Chapter 212
+
+And during these onsets it is said that the king, looking on, three
 times leapt up from his seat, struck with fear for his army. Thus they
 contended then: and on the following day the Barbarians strove with no
 better success; for because the men opposed to them were few in number,
@@ -8057,7 +9008,9 @@ the Phokians, for these were posted upon the mountain to guard the path.
 So the Persians, finding nothing different from that which they had seen
 on the former day, retired back from the fight.
 
-213. Then when the king was in a strait as to what he should do in the
+## Chapter 213
+
+Then when the king was in a strait as to what he should do in the
 matter before him, Epialtes the son of Eurydemos, a Malian, came to
 speech with him, supposing that he would win a very great reward
 from the king; and this man told him of the path which leads over the
@@ -8071,7 +9024,9 @@ this Athenades killed Epialtes for another cause, which I shall set
 forth in the following part of the history, 214 but he was honoured for
 it none the less by the Lacedemonians.
 
-214. Thus Epialtes after these events was slain: there is however
+## Chapter 214
+
+Thus Epialtes after these events was slain: there is however
 another tale told, that Onetes the son of Phanagoras, a man of Carystos,
 and Corydallos of Antikyra were those who showed the Persians the way
 round the mountain; but this I can by no means accept: for first we must
@@ -8085,7 +9040,9 @@ had had much intercourse with the country; but Epialtes it was who led
 them round the mountain by the path, and him therefore I write down as
 the guilty man.
 
-215. Xerxes accordingly, being pleased by that which Epialtes engaged
+## Chapter 215
+
+Xerxes accordingly, being pleased by that which Epialtes engaged
 to accomplish, at once with great joy proceeded to send Hydarnes and the
 men of whom Hydarnes was commander; 215 and they set forth from the camp
 about the time when the lamps are lit. This path of which we speak
@@ -8101,7 +9058,9 @@ ends by the town of Alpenos, which is the first town of the Locrians
 towards Malis, and by the stone called Black Buttocks 217 and the seats
 of the Kercopes, where is the very narrowest part.
 
-217. By this path thus situated the Persians after crossing over the
+## Chapter 217
+
+By this path thus situated the Persians after crossing over the
 Asopos proceeded all through the night, having on their right hand the
 mountains of the Oitaians and on the left those of the Trachinians: and
 when dawn appeared, they had reached the summit of the mountain. In
@@ -8111,7 +9070,9 @@ to keep the path: for while the pass below was guarded by those whom I
 have mentioned, the path over the mountain was guarded by the Phokians,
 who had undertaken the business for Leonidas by their own offer.
 
-218. While the Persians were ascending they were concealed from these,
+## Chapter 218
+
+While the Persians were ascending they were concealed from these,
 since all the mountain was covered with oak-trees; and the Phokians
 became aware of them after they had made the ascent as follows:--the day
 was calm, and not a little noise was made by the Persians, as was likely
@@ -8131,7 +9092,9 @@ I say, were in this mind; but the Persians meanwhile with Epialtes and
 Hydarnes made no account of the Phokians, but descended the mountain
 with all speed.
 
-219. To the Hellenes who were in Thermopylai first the soothsayer
+## Chapter 219
+
+To the Hellenes who were in Thermopylai first the soothsayer
 Megistias, after looking into the victims which were sacrificed,
 declared the death which was to come to them at dawn of day; and
 afterwards deserters brought the report 219 of the Persians having gone
@@ -8144,7 +9107,9 @@ assembly, 220 and some went away and dispersed each to their several
 cities, while others of them were ready to remain there together with
 Leonidas.
 
-220. However it is reported also that Leonidas himself sent them away,
+## Chapter 220
+
+However it is reported also that Leonidas himself sent them away,
 having a care that they might not perish, but thinking that it was not
 seemly for himself and for the Spartans who were present to leave the
 post to which they had come at first to keep guard there. I am inclined
@@ -8173,7 +9138,9 @@ lay up for himself glory above all the other Spartans, 224 dismissed the
 allies, rather than that those who departed did so in such disorderly
 fashion, because they were divided in opinion.
 
-221. Of this the following has been to my mind a proof as convincing as
+## Chapter 221
+
+Of this the following has been to my mind a proof as convincing as
 any other, namely that Leonidas is known to have endeavoured to dismiss
 the soothsayer also who accompanied this army, Megistias the Acarnanian,
 who was said to be descended from Melampus, that he might not perish
@@ -8182,7 +9149,9 @@ to come to pass for them. He however when he was bidden to go would
 not himself depart, but sent away his son who was with him in the army,
 besides whom he had no other child.
 
-222. The allies then who were dismissed departed and went away, obeying
+## Chapter 222
+
+The allies then who were dismissed departed and went away, obeying
 the word of Leonidas, and only the Thespians and the Thebans remained
 behind with the Lacedemonians. Of these the Thebans stayed against their
 will and not because they desired it, for Leonidas kept them, counting
@@ -8191,7 +9160,9 @@ they would not depart and leave Leonidas and those with him, but they
 stayed behind and died with them. The commander of these was Demophilos
 the son of Diadromes.
 
-223. Xerxes meanwhile, having made libations at sunrise, stayed for
+## Chapter 223
+
+Xerxes meanwhile, having made libations at sunrise, stayed for
 some time, until about the hour when the market fills, and then made
 an advance upon them; for thus it had been enjoined by Epialtes, seeing
 that the descent of the mountain is shorter and the space to be passed
@@ -8212,7 +9183,9 @@ going round the mountain, they 226 displayed upon the Barbarians all the
 strength which they had, to its greatest extent, disregarding danger and
 acting as if possessed by a spirit of recklessness.
 
-224. Now by this time the spears of the greater number of them were
+## Chapter 224
+
+Now by this time the spears of the greater number of them were
 broken, so it chanced, in this combat, and they were slaying the
 Persians with their swords; and in this fighting fell Leonidas, having
 proved himself a very good man, and others also of the Spartans with
@@ -8225,7 +9198,9 @@ brother of king Dareios and the son of Hystaspes, the son of Arsames;
 and he in giving his daughter in marriage to Dareios gave also with her
 all his substance, because she was his only child.
 
-225. Two brothers of Xerxes, I say, fell here fighting; and meanwhile
+## Chapter 225
+
+Two brothers of Xerxes, I say, fell here fighting; and meanwhile
 over the body of Leonidas there arose a great struggle between the
 Persians and the Lacedemonians, until the Hellenes by valour dragged
 this away from the enemy and turned their opponents to flight four
@@ -8242,7 +9217,9 @@ the Barbarians, some of these having followed directly after them and
 destroyed the fence of the wall, while others had come round and stood
 about them on all sides.
 
-226. Such were the proofs of valour given by the Lacedemonians and
+## Chapter 226
+
+Such were the proofs of valour given by the Lacedemonians and
 Thespians; yet the Spartan Dienekes is said to have proved himself
 the best man of all, the same who, as they report, uttered this saying
 before they engaged battle with the Medes:--being informed by one of
@@ -8254,13 +9231,17 @@ Trachis brought them very good news, for if the Medes obscured the light
 of the sun, the battle against them would be in the shade and not in the
 sun.
 
-227. This and other sayings of this kind they report that Dienekes the
+## Chapter 227
+
+This and other sayings of this kind they report that Dienekes the
 Lacedemonian left as memorials of himself; and after him the bravest
 they say of the Lacedemonians were two brothers Alpheos and Maron, sons
 of Orsiphantos. Of the Thespians the man who gained most honour was
 named Dithyrambos son of Harmatides.
 
-228. The men were buried where they fell; and for these, as well as for
+## Chapter 228
+
+The men were buried where they fell; and for these, as well as for
 those who were slain before being sent away 228 by Leonidas, there is an
 inscription which runs thus:
 
@@ -8285,7 +9266,9 @@ memorial pillars, excepting only in the case of the inscription to
 the soothsayer; but that of the soothsayer Megistias was inscribed by
 Simonides the son of Leoprepes on account of guest-friendship.
 
-229. Two of these three hundred, it is said, namely Eurystos and
+## Chapter 229
+
+Two of these three hundred, it is said, namely Eurystos and
 Aristodemos, who, if they had made agreement with one another, might
 either have come safe home to Sparta together (seeing that they had
 been dismissed from the camp by Leonidas and were lying at Alpenoi with
@@ -8306,26 +9289,34 @@ had lost his life and the other, clinging to an excuse which the first
 also might have used, 232 had not been willing to die, it necessarily
 happened that the Spartans had great indignation against Aristodemos.
 
-230. Some say that Aristodemos came safe to Sparta in this manner, and
+## Chapter 230
+
+Some say that Aristodemos came safe to Sparta in this manner, and
 on a pretext such as I have said; but others, that he had been sent as a
 messenger from the camp, and when he might have come up in time to find
 the battle going on, was not willing to do so, but stayed upon the road
 and so saved his life, while his fellow-messenger reached the battle and
 was slain.
 
-231. When Aristodemos, I say, had returned home to Lacedemon, he
+## Chapter 231
+
+When Aristodemos, I say, had returned home to Lacedemon, he
 had reproach and dishonour; 233 and that which he suffered by way of
 dishonour was this,--no one of the Spartans would either give him light
 for a fire or speak with him, and he had reproach in that he was called
 Aristodemos the coward. 234
 
-232. He however in the battle at Plataia repaired all the guilt that was
+## Chapter 232
+
+He however in the battle at Plataia repaired all the guilt that was
 charged against him: but it is reported that another man also survived
 of these three hundred, whose name was Pantites, having been sent as a
 messenger to Thessaly, and this man, when he returned back to Sparta and
 found himself dishonoured, is said to have strangled himself.
 
-233. The Thebans however, of whom the commander was Leontiades, being
+## Chapter 233
+
+The Thebans however, of whom the commander was Leontiades, being
 with the Hellenes had continued for some time to fight against the
 king's army, constrained by necessity; but when they saw that the
 fortunes of the Persians were prevailing, then and not before, while the
@@ -8345,7 +9336,9 @@ beginning with their leader Leontiades, the same whose son Eurymachos
 was afterwards slain by the Plataians, when he had been made commander
 of four hundred Thebans and had seized the city of the Plataians. 235
 
-234. Thus did the Hellenes at Thermopylai contend in fight; and
+## Chapter 234
+
+Thus did the Hellenes at Thermopylai contend in fight; and
 Xerxes summoned Demaratos and inquired of him, having first said this:
 "Demaratos, thou art a good man; and this I conclude by the truth of thy
 words, for all that thou saidest turned out so as thou didst say. Now,
@@ -8361,7 +9354,9 @@ least labour get the better of these men? Come set forth to us this; for
 thou knowest the courses of their counsels, 236 seeing that thou wert
 once their king."
 
-235. He made answer: "O king, if thou dost in very earnest take counsel
+## Chapter 235
+
+He made answer: "O king, if thou dost in very earnest take counsel
 with me, it is right that I declare to thee the best thing. What if thou
 shouldest send three hundred ships from thy fleet to attack the Laconian
 land? Now there is lying near it an island named Kythera, about which
@@ -8384,7 +9379,9 @@ seeing that all the Peloponnesians have sworn to a league against thee:
 but if thou shalt do the other thing of which I spoke, this isthmus and
 the cities within it will come over to thy side without a battle."
 
-236. After him spoke Achaimenes, brother of Xerxes and also commander
+## Chapter 236
+
+After him spoke Achaimenes, brother of Xerxes and also commander
 of the fleet, who chanced to have been present at this discourse and was
 afraid lest Xerxes should be persuaded to do this: "O king," he said,
 "I see that thou art admitting the speech of a man who envies thy good
@@ -8407,7 +9404,9 @@ for themselves, and we for ourselves likewise: and if the Lacedemonians
 come to stand against the Persians in fight, they will assuredly not
 heal the wound from which they are now suffering." 239
 
-237. To him Xerxes made answer as follows: "Achaimenes, I think that
+## Chapter 237
+
+To him Xerxes made answer as follows: "Achaimenes, I think that
 thou speakest well, and so will I do; but Demaratos speaks that which he
 believes to be best for me, though his opinion is defeated by thine: for
 I will not certainly admit that which thou saidest, namely that he is
@@ -8423,7 +9422,9 @@ counsel. Thus then as regards the evil-speaking against Demaratos, that
 is to say about one who is my guest-friend, I bid every one abstain from
 it in the future."
 
-238. Having thus said Xerxes passed in review the bodies of the dead;
+## Chapter 238
+
+Having thus said Xerxes passed in review the bodies of the dead;
 and as for Leonidas, hearing that he had been the king and commander of
 the Lacedemonians he bade them cut off his head and crucify him. And
 it has been made plain to me by many proofs besides, but by none more
@@ -8434,7 +9435,9 @@ know, the Persians are accustomed most to honour those who are good men
 in war. They then to whom it was appointed to do these things, proceeded
 to do so.
 
-239. I will return now to that point of my narrative where it remained
+## Chapter 239
+
+I will return now to that point of my narrative where it remained
 unfinished. 241 The Lacedemonians had been informed before all others
 that the king was preparing an expedition against Hellas; and thus it
 happened that they sent to the Oracle at Delphi, where that reply was
@@ -9168,7 +10171,9 @@ but perhaps with hardly sufficient reason.]
 
 ## Book VIII. The Eighth Book of the Histories, Called Urania
 
-1. Those of the Hellenes who had been appointed to serve in the fleet
+## Chapter 1
+
+Those of the Hellenes who had been appointed to serve in the fleet
 were these:—the Athenians furnished a hundred and twenty-seven ships,
 and the Plataians moved by valour and zeal for the service, although
 they had had no practice in seamanship, yet joined with the Athenians in
@@ -9180,7 +10185,9 @@ Eretrians seven, the Troizenians five, the Styrians two, the Keïans two
 ships 2 and two fifty-oared galleys, while the Locrians of Opus came
 also to the assistance of the rest with seven fifty-oared galleys.
 
-2. These were those who joined in the expedition to Artemision, and I
+## Chapter 2
+
+These were those who joined in the expedition to Artemision, and I
 have mentioned them according to the number 3 of the ships which they
 severally supplied: so the number of the ships which were assembled
 at Artemision was (apart from the fifty-oared galleys) two hundred and
@@ -9190,7 +10197,9 @@ said that they would not follow the lead of the Athenians, but unless a
 Lacedemonian were leader they would break up the expedition which was to
 be made:
 
-3, for it had come to be said at first, even before they sent to Sicily
+## Chapter 3
+
+for it had come to be said at first, even before they sent to Sicily
 to obtain allies, that the fleet ought to be placed in the charge of the
 Athenians. So as the allies opposed this, the Athenians yielded, having
 it much at heart that Hellas should be saved, and perceiving that if
@@ -9205,7 +10214,9 @@ now contending for his land and no longer for their own, they alleged
 the insolence of Pausanias as a pretext and took away the leadership
 from the Lacedemonians. This however took place afterwards.
 
-4. But at this time these Hellenes also who had come to Artemision, 4
+## Chapter 4
+
+But at this time these Hellenes also who had come to Artemision, 4
 when they saw that a great number of ships had put in to Aphetai and
 that everything was filled with their armament, were struck with fear,
 because the fortunes of the Barbarians had different issue from
@@ -9218,7 +10229,9 @@ went elsewhere and persuaded Themistocles the commander of the Athenians
 by a payment of thirty talents, the condition being that the fleet
 should stay and fight the sea-battle in front of Euboea.
 
-5. Themistocles then caused the Hellenes to stay in the following
+## Chapter 5
+
+Themistocles then caused the Hellenes to stay in the following
 manner:—to Eurybiades he imparted five talents of the sum with the
 pretence that he was giving it from himself; and when Eurybiades had
 been persuaded by him to change his resolution, Adeimantos son of
@@ -9235,7 +10248,9 @@ himself gained money; and it was not known that he had the rest of the
 money, but those who received a share of this money were fully persuaded
 that it had come from the Athenian State for this purpose.
 
-6. Thus they remained in Euboea and fought a sea-battle; and it came to
+## Chapter 6
+
+Thus they remained in Euboea and fought a sea-battle; and it came to
 pass as follows:—when the Barbarians had arrived at Aphetai about the
 beginning of the afternoon, having been informed even before they came
 that a few ships of the Hellenes were stationed about Artemision and now
@@ -9248,7 +10263,9 @@ they were likely (thought the Persians) 6 to get away; whereas it was
 right, according to their calculation, that not even the fire-bearer 7
 should escape and save his life.
 
-7. With a view to this then they contrived as follows:—of the whole
+## Chapter 7
+
+With a view to this then they contrived as follows:—of the whole
 number of their ships they parted off two hundred and sent them round
 to sail by Caphereus and round Geriastos to the Euripos, going outside
 Skiathos so that they might not be sighted by the enemy as they sailed
@@ -9262,7 +10279,9 @@ who were sailing round, to show that they had arrived. These ships, I
 say, they were sending round, and meanwhile they were numbering the rest
 at Aphetai.
 
-8. During this time, while these were numbering their ships, it happened
+## Chapter 8
+
+During this time, while these were numbering their ships, it happened
 thus:—there was in that camp a man of Skione named Skyllias, as a diver
 the best of all the men of that time, who also in the shipwreck which
 took place by Pelion had saved for the Persians many of their goods and
@@ -9280,7 +10299,9 @@ he came to Artemision in a boat. Then when he had come, he forthwith
 informed the commanders about the shipwreck, how it had come to pass,
 and of the ships which had been sent away to go round Euboea.
 
-9. Hearing this the Hellenes considered the matter with one another; and
+## Chapter 9
+
+Hearing this the Hellenes considered the matter with one another; and
 after many things had been spoken, the prevailing opinion was that
 they should remain there that day and encamp on shore, and then, when
 midnight was past, they should set forth and go to meet those ships
@@ -9290,7 +10311,9 @@ afternoon and sailed out themselves to attack the Barbarians, desiring
 to make a trial both of their manner of fighting and of the trick of
 breaking their line. 8
 
-10. And seeing them sailing thus against them with few ships, not only
+## Chapter 10
+
+And seeing them sailing thus against them with few ships, not only
 the others in the army of Xerxes but also their commanders judged them
 to be moved by mere madness, and they themselves also put out their
 ships to sea, supposing that they would easily capture them: and their
@@ -9307,7 +10330,9 @@ vying with one another, each one endeavouring to be the first to take an
 Athenian ship and receive gifts from the king: for in their camps there
 was more report of the Athenians than of any others.
 
-11. The Hellenes meanwhile, when the signal was given, first set
+## Chapter 11
+
+The Hellenes meanwhile, when the signal was given, first set
 themselves with prows facing the Barbarians and drew the sterns of their
 ships together in the middle; and when the signal was given a second
 time, although shut off in a small space and prow against prow, 9 they
@@ -9324,7 +10349,9 @@ sea-fight Antidoros of Lemnos alone of the Hellenes who were with the
 king deserted to the side of the Hellenes, and the Athenians on account
 of this deed gave him a piece of land in Salamis.
 
-12. When the darkness had come on, although the season was the middle of
+## Chapter 12
+
+When the darkness had come on, although the season was the middle of
 summer, yet there came on very abundant rain, which lasted through the
 whole of the night, with crashing thunder 10 from Mount Pelion; and
 the dead bodies and pieces of wreck were cast up at Aphetai and became
@@ -9337,7 +10364,9 @@ there had come upon them a hard sea-fight, and after the sea-fight a
 violent storm of rain and strong streams rushing to the sea and crashing
 thunder.
 
-13. These then had such a night as I have said; and meanwhile those of
+## Chapter 13
+
+These then had such a night as I have said; and meanwhile those of
 them who had been appointed to sail round Euboea experienced the very
 same night, but against them it raged much more fiercely, inasmuch as it
 fell upon them while they were making their course in the open sea. And
@@ -9349,7 +10378,9 @@ was being brought about by God in order that the Persian force might be
 made more equal to that of the Hellenes and might not be by very much
 the larger.
 
-14. These then, I say, were perishing about the Hollows of Euboea, and
+## Chapter 14
+
+These then, I say, were perishing about the Hollows of Euboea, and
 meanwhile the Barbarians at Aphetai, when day had dawned upon them, of
 which they were glad, were keeping their ships quiet, and were satisfied
 in their evil plight to remain still for the present time; but to the
@@ -9362,7 +10393,9 @@ then they sailed and fell upon some Kilikian ships; and having destroyed
 these, they sailed away when the darkness came on, and returned to
 Artemision.
 
-15. On the third day the commanders of the Barbarians, being exceedingly
+## Chapter 15
+
+On the third day the commanders of the Barbarians, being exceedingly
 indignant that so small a number of ships should thus do them damage,
 and fearing what Xerxes might do, did not wait this time for the
 Hellenes to begin the fight, but passed the word of command and put out
@@ -9375,7 +10408,9 @@ exhorted one another not to let the Barbarians go by into Hellas; while
 these cheered one another on to destroy the fleet of the Hellenes and to
 get possession of the straits.
 
-16. Now while the forces of Xerxes were sailing in order towards them,
+## Chapter 16
+
+Now while the forces of Xerxes were sailing in order towards them,
 the Hellenes kept quiet at Artemision; and the Barbarians, having made a
 crescent of their ships that they might enclose them, were endeavouring
 to surround them. Then the Hellenes put out to sea and engaged with
@@ -9388,7 +10423,9 @@ therefore of the Hellenes were destroyed and many men perished, but many
 more ships and men of the Barbarians. Thus contending they parted and
 went each to their own place.
 
-17. In this sea-fight the Egyptians did best of the men who fought
+## Chapter 17
+
+In this sea-fight the Egyptians did best of the men who fought
 for Xerxes; and these, besides other great deeds which they displayed,
 captured five ships of the Hellenes together with their crews: while of
 the Hellenes those who did best on this day were the Athenians, and of
@@ -9396,14 +10433,18 @@ the Athenians Cleinias the son of Alkibiades, who was serving with two
 hundred man and a ship of his own, furnishing the expense at his own
 proper cost.
 
-18. Having parted, both sides gladly hastened to their moorings; and
+## Chapter 18
+
+Having parted, both sides gladly hastened to their moorings; and
 after they had separated and got away out of the sea-fight, although the
 Hellenes had possession of the bodies of the dead and of the wrecks
 of the ships, yet having suffered severely 13 (and especially
 the Athenians, of whose ships half had been disabled), they were
 deliberating now about retreating to the inner parts of Hellas.
 
-19. Themistocles however had conceived that if there should be detached
+## Chapter 19
+
+Themistocles however had conceived that if there should be detached
 from the force of the Barbarians the Ionian and Carian nations, they
 would be able to overcome the rest; and when the people of Euboea were
 driving their flocks down to that sea, 14 he assembled the generals and
@@ -9418,7 +10459,9 @@ time of their departure he would see to it in such wise that they should
 come safe to Hellas. This they were content to do, and forthwith when
 they had kindled a fire they turned their attention to the flocks.
 
-20. For in fact the Euboeans, neglecting the oracle of Bakis as if it
+## Chapter 20
+
+For in fact the Euboeans, neglecting the oracle of Bakis as if it
 had no meaning at all, had neither carried away anything from their land
 nor laid in any store of provisions with a view to war coming upon them,
 and by their conduct moreover they had brought trouble upon themselves.
@@ -9431,7 +10474,9 @@ In the evils which at this time were either upon them or soon to be
 expected they might feel not a little sorry that they had paid no
 attention to these lines.
 
-21. While these were thus engaged, there came to them the scout from
+## Chapter 21
+
+While these were thus engaged, there came to them the scout from
 Trachis: for there was at Artemision a scout named Polyas, by birth
 of Antikyra, to whom it had been appointed, if the fleet should be
 disabled, 16 to signify this to those at Thermopylai, and he had a
@@ -9444,7 +10489,9 @@ and his army; and then when they were informed of it no longer put off
 their retreat, but set forth in the order in which they were severally
 posted, the Corinthians first and the Athenians last.
 
-22. Themistocles however selected those ships of the Athenians which
+## Chapter 22
+
+Themistocles however selected those ships of the Athenians which
 sailed best, and went round to the springs of drinking-water, cutting
 inscriptions on the stones there, which the Ionians read when they
 came to Artemision on the following day. These inscriptions ran thus:
@@ -9464,7 +10511,9 @@ that having been reported and denounced to Xerxes they might cause the
 Ionians to be distrusted by him, and so he might keep them apart from
 the sea-fights.
 
-23. Themistocles then had set these inscriptions: and to the Barbarians
+## Chapter 23
+
+Themistocles then had set these inscriptions: and to the Barbarians
 there came immediately after these things a man of Histaia in a boat
 bringing word of the retreat of the Hellenes from Artemision. They
 however, not believing it, kept the messenger under guard and sent
@@ -9476,7 +10525,9 @@ took possession of the city of Histaia and overran all the villages
 which lie along the coast in the region of Ellopia, which is the land of
 Histaia.
 
-24. While they were there, Xerxes, after he had made his dispositions
+## Chapter 24
+
+While they were there, Xerxes, after he had made his dispositions
 with regard to the bodies of the dead, sent a herald to the fleet: and
 the dispositions which he made beforehand were as follows:—for all those
 of his army who were lying dead at Thermopylai, (and there were as many
@@ -9489,7 +10540,9 @@ grants permission to any one of you who desires it, to leave his post
 and to come and see how he fights against those most senseless men who
 looked to overcome the power of the king."
 
-25. When the herald had proclaimed this, then boats were of all things
+## Chapter 25
+
+When the herald had proclaimed this, then boats were of all things
 most in request, so many were they who desired to see this sight; and
 when they had passed over they went through the dead bodies and looked
 at them: and every one supposed that those who were lying there were all
@@ -9503,7 +10556,9 @@ During this day then they busied themselves with looking, and on the day
 after this they sailed back to the ships at Histaia, while Xerxes and
 his army set forth upon their march.
 
-26. There had come also to them a few deserters from Arcadia, men in
+## Chapter 26
+
+There had come also to them a few deserters from Arcadia, men in
 want of livelihood and desiring to be employed. These the Persians
 brought into the king's presence and inquired about the Hellenes, what
 they were doing; and one man it was who asked them this for all the
@@ -9519,7 +10574,9 @@ these words: "Ah! Mardonios, what kind of men are these against whom
 thou hast brought us to fight, who make their contest not for money but
 for honour!" Thus was it spoken by this man.
 
-27. In the meantime, so soon as the disaster at Thermopylai had come
+## Chapter 27
+
+In the meantime, so soon as the disaster at Thermopylai had come
 about, the Thessalians sent a herald forthwith to the Phokians, against
 whom they had a grudge always, but especially because of the latest
 disaster which they had suffered: for when both the Thessalians
@@ -9542,7 +10599,9 @@ statues which are contending for the tripod in front of the temple 19
 at Delphi, and others similar to these are dedicated as an offering at
 Abai.
 
-28. Thus had the Phokians done to the Thessalian footmen, when they were
+## Chapter 28
+
+Thus had the Phokians done to the Thessalian footmen, when they were
 besieged by them; and they had done irreparable hurt to their cavalry
 also, when this had invaded their land: for in the pass which is
 by Hyampolis they had dug a great trench and laid down in it empty
@@ -9552,7 +10611,9 @@ invade their land. These supposing that they would make short work with
 the Phokians, 20 riding in full course fell upon the wine-jars; and
 there the legs of their horses were utterly crippled.
 
-29. Bearing then a grudge for both of these things, the Thessalians sent
+## Chapter 29
+
+Bearing then a grudge for both of these things, the Thessalians sent
 a herald and addressed them thus: "Phokians, we advise you to be more
 disposed now to change your minds and to admit that ye are not on a
 level with us: for in former times among the Hellenes, so long as it
@@ -9564,7 +10625,9 @@ malice, but let there be paid to us fifty talents of silver in return
 for this, and we will engage to avert the dangers which threaten to come
 upon your land."
 
-30. Thus the Thessalians proposed to them; for the Phokians alone of
+## Chapter 30
+
+Thus the Thessalians proposed to them; for the Phokians alone of
 all the people in those parts were not taking the side of the Medes,
 and this for no other reason, as I conjecture, but only because of their
 enmity with the Thessalians; and if the Thessalians had supported the
@@ -9575,7 +10638,9 @@ the Median side just as much as the Thessalians, if they desired it for
 other reasons; but they would not with their own will be traitors to
 Hellas.
 
-31. When these words were reported, then the Thessalians, moved with
+## Chapter 31
+
+When these words were reported, then the Thessalians, moved with
 anger against the Phokians, became guides to the Barbarian to show him
 the way: and from the land of Trachis they entered Doris; for a narrow
 strip 21 of the Dorian territory extends this way, about thirty furlongs
@@ -9585,7 +10650,9 @@ Dorians in Peloponnese. Now the Barbarians did not lay waste this land
 of Doris when they entered it, for the people of it were taking the side
 of the Medes, and also the Thessalians did not desire it.
 
-32. When however from Doris they entered Phokis, they did not indeed
+## Chapter 32
+
+When however from Doris they entered Phokis, they did not indeed
 capture the Phokians themselves; for some of them had gone up to the
 heights of Parnassos,—and that summit of Parnassos is very convenient to
 receive a large number, which lies by itself near the city of Neon, the
@@ -9597,7 +10664,9 @@ whole land of Phokis, for so the Thessalians led their army, and all
 that they came to as they marched they burned or cut down, and delivered
 to the flames both the cities and the temples:
 
-33, for they laid everything waste, proceeding this way by the river
+## Chapter 33
+
+for they laid everything waste, proceeding this way by the river
 Kephisos, and they destroyed the city of Drymos by fire, and also
 the following, namely Charadra, Erochos, Tethronion, Amphikaia, Neon,
 Pedieis, Triteis, Elateia, Hyampolis, Parapotamioi and Abai, at which
@@ -9608,7 +10677,9 @@ plundered and burnt. Some also of the Phokians they pursued and captured
 upon the mountains, and some women they did to death by repeated
 outrage.
 
-34. Passing by Parapotamioi the Barbarians came to Panopeus, and from
+## Chapter 34
+
+Passing by Parapotamioi the Barbarians came to Panopeus, and from
 this point onwards their army was separated and went different ways. The
 largest and strongest part of the army, proceeding with Xerxes himself
 against Athens, entered the land of the Boeotians, coming into the
@@ -9618,7 +10689,9 @@ Macedonians appointed for each, who had been sent by Alexander; and they
 were keeping them this aim, namely in order to make it plain to Xerxes
 that the Boeotians were disposed to be on the side of the Medes.
 
-35. These, I say, of the Barbarians took their way in this direction;
+## Chapter 35
+
+These, I say, of the Barbarians took their way in this direction;
 but others of them with guides had set forth to go to the temple at
 Delphi, keeping Parnassos on their right hand: and all the parts of
 Phokis over which these marched they ravaged; for they set fire to
@@ -9631,7 +10704,9 @@ the things which he had left in his own house at home, seeing that many
 constantly reported of them, and especially of the votive offerings of
 Croesus the son of Alyattes.
 
-36. Meanwhile the Delphians, having been informed of this, had been
+## Chapter 36
+
+Meanwhile the Delphians, having been informed of this, had been
 brought to extreme fear; and being in great terror they consulted the
 Oracle about the sacred things, whether they should bury them in the
 earth or carry them forth to another land; but the god forbade them to
@@ -9644,7 +10719,9 @@ while others departed for refuge to Amphissa of the Locrians. In short
 the Delphians had all left the town excepting sixty men and the prophet
 of the Oracle. 22
 
-37. When the Barbarians had come near and could see the temple, then the
+## Chapter 37
+
+When the Barbarians had come near and could see the temple, then the
 prophet, whose name was Akeratos, saw before the cell 23 arms lying
 laid out, having been brought forth out of the sanctuary, 24 which were
 sacred and on which it was not permitted to any man to lay hands. He
@@ -9661,7 +10738,9 @@ from Parnassos two crags were broken away and rushed down upon them with
 a great crashing noise falling upon many of them, while from the temple
 of Pronaia there was heard a shout, and a battle-cry was raised.
 
-38. All these things having come together, there fell fear upon the
+## Chapter 38
+
+All these things having come together, there fell fear upon the
 Barbarians; and the Delphians having perceived that they were flying,
 came down after them and slew a great number of them; and those who
 survived fled straight to Boeotia. These who returned of the Barbarians
@@ -9670,7 +10749,9 @@ they saw also other miraculous things; for two men (they said) in
 full armour and of stature more than human followed them slaying and
 pursuing.
 
-39. These two the Delphians say were the native heroes Phylacos and
+## Chapter 39
+
+These two the Delphians say were the native heroes Phylacos and
 Autonoös, whose sacred enclosures are about the temple, that of Phylacos
 being close by the side of the road above the temple of Pronaia and that
 of Autonoös near Castalia under the peak called Hyampeia. Moreover the
@@ -9679,7 +10760,9 @@ lying in the sacred enclosure of Athene Pronaia, into which they fell
 when they rushed through the ranks of the Barbarians. Such departure had
 these men from the temple.
 
-40. Meanwhile the fleet of the Hellenes after leaving Artemision put in
+## Chapter 40
+
+Meanwhile the fleet of the Hellenes after leaving Artemision put in
 to land at Salamis at the request of the Athenians: and for this reason
 the Athenians requested them to put in to Salamis, namely in order that
 they might remove out of Attica to a place of safety their children
@@ -9692,7 +10775,10 @@ that the Peloponnesians were fortifying the Isthmus with a wall, valuing
 above all things the safety of the Peloponnese and keeping this in
 guard; and that they were disposed to let all else go. Being informed of
 this, the Athenians therefore made request of them to put in to Salamis.
-41. The others then put in their ships to land at Salamis, but the
+
+## Chapter 41
+
+The others then put in their ships to land at Salamis, but the
 Athenians went over to their own land; and after their coming they made
 a proclamation that every one of the Athenians should endeavour to save
 his children and household as best he could. So the greater number sent
@@ -9709,7 +10795,9 @@ with greater eagerness than before, seeing that the goddess also had (as
 they supposed) left the Acropolis. Then when all their belongings had
 been removed out of danger, they sailed to the encampment of the fleet.
 
-42. When those who came from Artemision had put their ships in to land
+## Chapter 42
+
+When those who came from Artemision had put their ships in to land
 at Salamis, the remainder of the naval force of the Hellenes, being
 informed of this, came over gradually to join them 26 from Troizen:
 for they had been ordered beforehand to assemble at Pogon, which is the
@@ -9720,7 +10808,9 @@ Artemision, namely Eurybiades the son of Eurycleides, a Spartan but not
 of the royal house; the Athenians however supplied by far the greatest
 number of ships and those which sailed the best.
 
-43. The following were those who joined the muster:—From Peloponnese the
+## Chapter 43
+
+The following were those who joined the muster:—From Peloponnese the
 Lacedemonians furnishing sixteen ships, the Corinthians furnishing the
 same complement as at Artemision, the Sikyonians furnishing fifteen
 ships, the Epidaurians ten, the Troizenians five, the men of Hermion
@@ -9730,7 +10820,9 @@ and Pindos and the land of Dryopis; 28 but the people of Hermion are
 Dryopians, driven out by Heracles and the Malians from the land which is
 now called Doris.
 
-44. These were the Peloponnesians who joined the fleet, and those of
+## Chapter 44
+
+These were the Peloponnesians who joined the fleet, and those of
 the mainland outside the Peloponnese were as follows:—the Athenians,
 furnishing a number larger than all the rest, 29 namely one hundred and
 eighty ships, and serving alone, since the Plataians did not take
@@ -9746,11 +10838,15 @@ power, they had their name changed to Athenians; and after Ion the son
 of Xuthos became commander 30 of the Athenians, they got the name from
 him of Ionians.
 
-45. The Megarians furnished the same complement as at Artermision; the
+## Chapter 45
+
+The Megarians furnished the same complement as at Artermision; the
 Amprakiots came to the assistance of the rest with seven ships, and the
 Leucadians with three, these being by race Dorians from Corinth.
 
-46. Of the islanders the Eginetans furnished thirty; these had also
+## Chapter 46
+
+Of the islanders the Eginetans furnished thirty; these had also
 other ships manned, but with them they were guarding their own land,
 while with the thirty which sailed best they joined in the sea-fight at
 Salamis. Now the Eginetans are Dorians from Epidauros, and their
@@ -9769,7 +10865,9 @@ Dryopians. Also the Seriphians, the Siphnians and the Melians served
 with the rest; for they alone of the islanders had not given earth and
 water to the Barbarian.
 
-47. These all who have been named dwelt inside the land of the
+## Chapter 47
+
+These all who have been named dwelt inside the land of the
 Thesprotians and the river Acheron; for the Thesprotians border upon the
 land of the Amprakiots and Leucadians, and these were they who came from
 the greatest distance to serve: but of those who dwell outside these
@@ -9778,14 +10876,18 @@ of Hellas in her danger; and these sent one ship, of whom the commander
 was Phaÿlos, a man who had three times won victories at the Pythian
 games. Now the men of Croton are by descent Achaians.
 
-48. All the rest who served in the fleet furnished triremes, but the
+## Chapter 48
+
+All the rest who served in the fleet furnished triremes, but the
 Melians, Siphnian and Seriphians fifty-oared galleys: the Melians,
 who are by descent from Lacedemon, furnished two, the Siphnians and
 Seriphians, who are Ionians from Athens, each one. And the whole number
 of the ships, apart from the fifty-oared galleys, was three hundred and
 seventy-eight. 31
 
-49. When the commanders had assembled at Salamis from the States
+## Chapter 49
+
+When the commanders had assembled at Salamis from the States
 which have been mentioned, they began to deliberate, Eurybiades having
 proposed that any one who desired it should declare his opinion as
 to where he thought it most convenient to fight a sea-battle in those
@@ -9798,7 +10900,9 @@ supposing them to be at Salamis they would be blockaded in an island,
 where no help would come to them, but at the Isthmus they would be able
 to land where their own men were.
 
-50. While the commanders from the Peloponnese argued thus, an Athenian
+## Chapter 50
+
+While the commanders from the Peloponnese argued thus, an Athenian
 had come in reporting that the Barbarians were arrived in Attica and
 that all the land was being laid waste with fire. For the army which
 directed its march through Boeotia in company with Xerxes, after it had
@@ -9808,7 +10912,9 @@ to Athens and was laying waste everything in those regions. Now he had
 burnt Thespiai 3101 and Plataia because he was informed by the Thebans
 that these were not taking the side of the Medes.
 
-51. So in three months from the crossing of the Hellespont, whence the
+## Chapter 51
+
+So in three months from the crossing of the Hellespont, whence the
 Barbarians began their march, after having stayed there one month while
 they crossed over into Europe, they had reached Attica, in the year when
 Calliades was archon of the Athenians. And they took the lower city,
@@ -9823,7 +10929,9 @@ prophetess had uttered to them, namely that the "bulwark of wood" should
 be impregnable, and supposed that this was in fact the safe refuge
 according to the oracle, and not the ships.
 
-52. So the Persians taking their post upon the rising ground opposite
+## Chapter 52
+
+So the Persians taking their post upon the rising ground opposite
 the Acropolis, which the Athenians call the Hill of Ares, 32 proceeded
 to besiege them in this fashion, that is they put tow round about their
 arrows and lighted it, and then shot them against the palisade. The
@@ -9836,7 +10944,9 @@ and among the rest they rolled down large stones when the Barbarians
 approached the gates; so that for a long time Xerxes was in a
 difficulty, not being able to capture them.
 
-53. In time however there appeared for the Barbarians a way of approach
+## Chapter 53
+
+In time however there appeared for the Barbarians a way of approach
 after their difficulties, since by the oracle it was destined that all
 of Attica which is on the mainland should come to be under the Persians.
 Thus then it happened that on the front side 33 of the Acropolis behind
@@ -9851,7 +10961,9 @@ who had ascended went first to the gates, and after opening these they
 proceeded to kill the suppliants; and when all had been slain by them,
 they plundered the temple and set fire to the whole of the Acropolis.
 
-54. Then Xerxes, having fully taken possession of Athens, sent to Susa
+## Chapter 54
+
+Then Xerxes, having fully taken possession of Athens, sent to Susa
 a mounted messenger to report to Artabanos the good success which they
 had. And on the next day after sending the herald he called together the
 exiles of the Athenians who were accompanying him, and bade them go
@@ -9861,7 +10973,9 @@ to give this command, or whether perchance he had a scruple in his
 mind because he had set fire to the temple. The Athenian exiles did
 accordingly that which was commanded them:
 
-55, and the reason why I made mention of this I will here declare:—there
+## Chapter 55
+
+and the reason why I made mention of this I will here declare:—there
 is in this Acropolis a temple 35 of Erechtheus, who is said to have been
 born of the Earth, and in this there is an olive-tree and a sea, which
 (according to the story told by the Athenians) Poseidon and Athene,
@@ -9873,7 +10987,9 @@ sacrifice, saw when they had gone up to the temple that a shoot had run
 up from the stock of the tree about a cubit in length. These then made
 report of this.
 
-56. The Hellenes meanwhile at Salamis, when it was announced to them how
+## Chapter 56
+
+The Hellenes meanwhile at Salamis, when it was announced to them how
 it had been as regards the Acropolis of the Athenians, were disturbed so
 greatly that some of the commanders did not even wait for the question
 to be decided which had been proposed, but began to go hastily to their
@@ -9882,7 +10998,9 @@ those of them who remained behind it was finally decided to fight at
 sea in defence of the Isthmus. So night came on, and they having been
 dismissed from the council were going to their ships:
 
-57, and when Themistocles had come to his ship, Mnesiphilos an Athenian
+## Chapter 57
+
+and when Themistocles had come to his ship, Mnesiphilos an Athenian
 asked him what they had resolved; and being informed by him that it had
 been determined to take out the ships to the Isthmus and fight a battle
 by sea in defence of the Peloponnese, he said: "Then, if they set sail
@@ -9894,7 +11012,9 @@ will perish by reason of evil counsels. But if there by any means, go
 thou and try to unsettle that which has been resolved, if perchance thou
 mayest persuade Eurybiades to change his plans, so as to stay here."
 
-58. This advice very much commended itself to Themistocles; and without
+## Chapter 58
+
+This advice very much commended itself to Themistocles; and without
 making any answer he went to the ship of Eurybiades. Having come thither
 he said that he desired to communicate to him a matter which concerned
 the common good; and Eurybiades bade him come into his ship and speak,
@@ -9904,7 +11024,9 @@ making as if they were his own thoughts, and adding to them many others;
 until at last by urgent request he persuaded him to come out of his ship
 and gather the commanders to the council.
 
-59. So when they were gathered together, before Eurybiades proposed
+## Chapter 59
+
+So when they were gathered together, before Eurybiades proposed
 the discussion of the things for which he had assembled the commanders,
 Themistocles spoke with much vehemence 36 being very eager to gain his
 end; and as he was speaking, the Corinthian commander, Adeimantos the
@@ -9912,7 +11034,9 @@ son of Okytos, said: "Themistocles, at the games those who stand forth
 for the contest before the due time are beaten with rods." He justifying
 himself said: "Yes, but those who remain behind are not crowned."
 
-60. At that time he made answer mildly to the Corinthian; and to
+## Chapter 60
+
+At that time he made answer mildly to the Corinthian; and to
 Eurybiades he said not now any of those things which he had said before,
 to the effect that if they should set sail from Salamis they would
 disperse in different directions; for it was not seemly for him to bring
@@ -9949,7 +11073,9 @@ counsel reasonably for themselves, reasonable issues are wont as a rule
 to come, but if they do not take counsel reasonably, then God is not
 wont generally to attach himself to the judgment of men."
 
-61. When Themistocles thus spoke, the Corinthian Adeimantos inveighed
+## Chapter 61
+
+When Themistocles thus spoke, the Corinthian Adeimantos inveighed
 against him for the second time, bidding him to be silent because he
 had no native land, and urging Eurybiades not to put to the vote
 the proposal of one who was a citizen of no city; for he said that
@@ -9962,7 +11088,9 @@ and a land larger than that of the Corinthians, so long as they had two
 hundred ships fully manned; for none of the Hellenes would be able to
 repel the Athenians if they came to fight against them.
 
-62. Signifying this he turned then to Eurybiades and spoke yet more
+## Chapter 62
+
+Signifying this he turned then to Eurybiades and spoke yet more
 urgently: "If thou wilt remain here, and remaining here wilt show
 thyself a good man, well; but if not, thou wilt bring about the
 overthrow of Hellas, for upon the ships depends all our power in the
@@ -9972,14 +11100,18 @@ which is ours already of old and the oracles say that it is destined
 to be colonised by us; and ye, when ye are left alone and deprived of
 allies such as we are, will remember my words."
 
-63. When Themistocles thus spoke, Eurybiades was persuaded to change his
+## Chapter 63
+
+When Themistocles thus spoke, Eurybiades was persuaded to change his
 mind; and, as I think, he changed his mind chiefly from fear lest the
 Athenians should depart and leave them, if he should take the ships to
 the Isthmus; for if the Athenians left them and departed, the rest would
 be no longer able to fight with the enemy. He chose then this counsel,
 to stay in that place and decide matters there by a sea-fight.
 
-64. Thus those at Salamis, after having skirmished with one another in
+## Chapter 64
+
+Thus those at Salamis, after having skirmished with one another in
 speech, were making preparations for a sea-fight there, since Eurybiades
 had so determined: and as day was coming on, at the same time when the
 sun rose there was an earthquake felt both on the land and on the sea:
@@ -9990,7 +11122,9 @@ Telamon to their help from Salamis, where the fleet was, 38 and sent
 a ship to Egina to bring Aiacos himself and the rest of the sons of
 Aiacos.
 
-65. Moreover Dicaios the son of Theokydes, an Athenian, who was an exile
+## Chapter 65
+
+Moreover Dicaios the son of Theokydes, an Athenian, who was an exile
 and had become of great repute among the Medes at this time, declared
 that when the Attic land was being ravaged by the land-army of Xerxes,
 having been deserted by the Athenians, he happened then to be in company
@@ -10023,7 +11157,9 @@ thus they learnt (said he) that the fleet of Xerxes was destined to be
 destroyed. Such was the report made by Dicaios the son of Theodykes,
 appealing to Demaratos and others also as witnesses.
 
-66. Meanwhile those who were appointed to serve in the fleet of Xerxes,
+## Chapter 66
+
+Meanwhile those who were appointed to serve in the fleet of Xerxes,
 having gazed in Trachis upon the disaster of the Lacedemonians and
 having passed over from thence to Histiaia, after staying three days
 sailed through Euripos, and in other three days they had reached
@@ -10039,7 +11175,9 @@ islanders except the five cities of which I mentioned the names before;
 for the more the Persian advanced towards the centre of Hellas, the more
 nations accompanied him.
 
-67. So then, when all these had come to Athens except the Parians (now
+## Chapter 67
+
+So then, when all these had come to Athens except the Parians (now
 the Parians had remained behind at Kythnos waiting to see how the war
 would turn out),—when all the rest, I say, had come to Phaleron, then
 Xerxes himself came down to the ships desiring to visit them and to
@@ -10052,7 +11190,9 @@ rest: and when they were seated in due order, Xerxes sent Mardonios and
 inquired, making trial of each one, whether he should fight a battle by
 sea.
 
-68. So when Mardonios went round asking them, beginning with the king of
+## Chapter 68
+
+So when Mardonios went round asking them, beginning with the king of
 Sidon, the others gave their opinions all to the same effect, advising
 him to fight a battle by sea, but Artemisia spoke these words:—(a) "Tell
 the king I pray thee, Mardonios, that I, who have proved myself not to
@@ -10084,7 +11224,9 @@ but those of bad men good; and thou, who art of all men the best, hast
 bad servants, namely those who are reckoned as allies, Egyptians and
 Cyprians and Kilikians and Pamphylians, in whom there is no profit."
 
-69. When she thus spoke to Mardonios, those who were friendly to
+## Chapter 69
+
+When she thus spoke to Mardonios, those who were friendly to
 Artemisia were grieved at her words, supposing that she would suffer
 some evil from the king because she urged him not to fight at sea; while
 those who had envy and jealousy of her, because she had been honoured
@@ -10097,7 +11239,9 @@ greater number, thinking that when they fought by Euboea they were
 purposely slack, because he was not himself present with them, whereas
 now he had made himself ready to look on while they fought a sea-battle.
 
-70. So when they passed the word to put out to sea, they brought their
+## Chapter 70
+
+So when they passed the word to put out to sea, they brought their
 ships out to Salamis and quietly ranged themselves along the shore in
 their several positions. At that time the daylight was not sufficient
 for them to engage battle, for night had come on; but they made their
@@ -10110,7 +11254,9 @@ leaving their own land unguarded. And indeed the land-army of the
 Barbarians was marching forward during that very night towards the
 Peloponnese.
 
-71. Yet every means had been taken that the Barbarians might not be able
+## Chapter 71
+
+Yet every means had been taken that the Barbarians might not be able
 to enter Peloponnesus by land: for as soon as the Peloponnesians heard
 that Leonidas and his company had perished at Thermopylai, they came
 together quickly from the cities and took post at the Isthmus, and
@@ -10123,7 +11269,9 @@ fast; for stones and bricks and pieces of timber and baskets full of
 sand were carried to it continually, and they who had thus come to help
 paused not at all in their work either by night or by day.
 
-72. Now those of the Hellenes who came in full force to the Isthmus to
+## Chapter 72
+
+Now those of the Hellenes who came in full force to the Isthmus to
 help their country were these,—the Lacedemonians, the Arcadians of every
 division, the Eleians, Corinthians, Sikyonians, Epidaurians, Phliasians,
 Troizenians and Hermionians. These were they who came to the help of
@@ -10131,7 +11279,9 @@ Hellas in her danger and who had apprehension for her, while the rest
 of the Peloponnesians showed no care: and the Olympic and Carneian
 festivals had by this time gone by.
 
-73. Now Peloponnesus is inhabited by seven races; and of these, two are
+## Chapter 73
+
+Now Peloponnesus is inhabited by seven races; and of these, two are
 natives of the soil and are settled now in the place where they dwelt of
 old, namely the Arcadians and the Kynurians; and one race, that of the
 Achaians, though it did not remove from the Peloponnese, yet removed in
@@ -10149,7 +11299,9 @@ remaining cities, except those which I enumerated just now, stood aside
 and did nothing; and if one may be allowed to speak freely, in thus
 standing aside they were in fact taking the side of the Medes.
 
-74. Those at the Isthmus were struggling with the labour which I have
+## Chapter 74
+
+Those at the Isthmus were struggling with the labour which I have
 said, since now they were running a course in which their very being was
 at stake, and they did not look to have any brilliant success with their
 ships: while those who were at Salamis, though informed of this
@@ -10163,7 +11315,9 @@ of that, and not stay and fight for a land which had been captured by
 the enemy, while the Athenians, Eginetans and Megarians urged that they
 should stay there and defend themselves.
 
-75. Then Themistocles, when his opinion was like to be defeated by the
+## Chapter 75
+
+Then Themistocles, when his opinion was like to be defeated by the
 Peloponnesians, secretly went forth from the assembly, and having gone
 out he sent a man to the encampment of the Medes in a boat, charging him
 with that which he must say: this man's name was Sikinnos, and he was
@@ -10182,7 +11336,9 @@ they will not stand against you in fight, but ye shall see them fighting
 a battle by sea with one another, those who are disposed to your side
 against those who are not."
 
-76. He then having signified to them this, departed out of the way; and
+## Chapter 76
+
+He then having signified to them this, departed out of the way; and
 they, thinking that the message deserved credit, landed first a large
 number of Persians in the small island of Psyttaleia, which lies between
 Salamis and the mainland; and then, as midnight came on, they put out
@@ -10200,7 +11356,9 @@ of ships would be cast up on shore, for the island lay in the way of the
 sea-fight which was to be. These things they did in silence, that the
 enemy might not have information of them.
 
-77. They then were making their preparations thus in the night without
+## Chapter 77
+
+They then were making their preparations thus in the night without
 having taken any sleep at all: and with regard to oracles, I am not able
 to make objections against them that they are not true, for I do not
 desire to attempt to overthrow the credit of them when they speak
@@ -10219,12 +11377,16 @@ Looking to such things as this, and when Bakis speaks so clearly, I do
 not venture myself to make any objections about oracles, nor can I admit
 them from others.
 
-78. Now between the commanders that were at Salamis there came to be
+## Chapter 78
+
+Now between the commanders that were at Salamis there came to be
 great contention of speech and they did not yet know that the Barbarians
 were surrounding them with their ships, but they thought that they were
 still in their place as they saw them disposed in the day.
 
-79. Then while the commanders were engaged in strife, there came over
+## Chapter 79
+
+Then while the commanders were engaged in strife, there came over
 from Egina Aristeides the son of Lysimachos, an Athenian who had been
 ostracised by the people, a man whom I hold (according to that which
 I hear of his character) to have been the best and most upright of all
@@ -10243,7 +11405,9 @@ tell thee that now not even if the Corinthians and Eurybiades himself
 desire to sail out, will they be able; for we are encompassed round by
 the enemy. Go thou in then, and signify this to them."
 
-80. He made answer as follows: "Thou advisest very well, 49 and also
+## Chapter 80
+
+He made answer as follows: "Thou advisest very well, 49 and also
 the news which thou hast brought is good, since thou art come having
 witnessed with thine own eyes that which I desired might come to pass:
 for know that this which is being done by the Medes is of my suggestion;
@@ -10259,7 +11423,9 @@ if this is not credible to them, it will be the same thing so far as
 concerns us, for they will no longer be able to take to flight, if we
 are encompassed on all sides, as thou sayest."
 
-81. Aristeides accordingly came forward and told them this, saying that
+## Chapter 81
+
+Aristeides accordingly came forward and told them this, saying that
 he had come from Egina and had with difficulty escaped without being
 perceived by those who were blockading them; for the whole encampment of
 the Hellenes was encompassed by the ships of Xerxes; and he counselled
@@ -10268,7 +11434,9 @@ retired, and among them again there arose dispute, for the greater
 number of the commanders did not believe that which was reported to
 them:
 
-82. and while these were doubting, there came a trireme manned by
+## Chapter 82
+
+and while these were doubting, there came a trireme manned by
 Tenians, deserting from the enemy, of which the commander was Panaitios
 the son of Sosimenes, which brought them the whole truth. For this deed
 the Tenians were inscribed at Delphi on the tripod among those who had
@@ -10278,7 +11446,9 @@ force of the Hellenes was completed to the number of three hundred and
 eighty ships, for before this two ships were yet wanting to make up this
 number.
 
-83. The Hellenes then, since they believed that which was said by the
+## Chapter 83
+
+The Hellenes then, since they believed that which was said by the
 Tenians, were preparing for a sea-fight: and as the dawn appeared, they
 made an assembly of those who fought on board the ships 50 and addressed
 them, Themistocles making a speech which was eloquent beyond the rest;
@@ -10289,7 +11459,9 @@ and constitution of man; and having exhorted them to choose the better,
 ships. These then proceeded to embark, and there came in meanwhile the
 trireme from Egina which had gone away to bring the sons of Aiacos.
 
-84. Then the Hellenes put out all their ships, and while they were
+## Chapter 84
+
+Then the Hellenes put out all their ships, and while they were
 putting out from shore, the Barbarians attacked them forthwith. Now
 the other Hellenes began backing their ships and were about to run them
 aground, but Ameinias of Pallene, an Athenian, put forth with his ship
@@ -10303,7 +11475,9 @@ appeared she encouraged them to the fight so that the whole of the army
 of the Hellenes heard it, first having reproached them in these words:
 "Madmen, 52 how far will ye yet back your ships?"
 
-85. Opposite the Athenians had been ranged the Phenicians, for these
+## Chapter 85
+
+Opposite the Athenians had been ranged the Phenicians, for these
 occupied the wing towards Eleusis and the West, and opposite the
 Lacedemonians were the Ionians, who occupied the wing which extended to
 the East and to Piræus. Of them however a few were purposely slack
@@ -10318,7 +11492,9 @@ the Persians, and Phylacos was recorded as a benefactor of the king
 and received much land as a reward. Now the benefactors of the king are
 called in the Persian tongue orosangai.
 
-86. Thus it was with these; but the greater number of their ships were
+## Chapter 86
+
+Thus it was with these; but the greater number of their ships were
 disabled at Salamis, being destroyed some by the Athenians and others
 by the Eginetans: for since the Hellenes fought in order and ranged in
 their places, while the Barbarians were no longer ranged in order nor
@@ -10328,7 +11504,9 @@ much more than when they fought by Euboea, every one being eager
 and fearing Xerxes, and each man thinking that the king was looking
 especially at him.
 
-87. As regards the rest I cannot speak of them separately, or say
+## Chapter 87
+
+As regards the rest I cannot speak of them separately, or say
 precisely how the Barbarians or the Hellenes individually contended in
 the fight; but with regard to Artemisia that which happened was this,
 whence she gained yet more esteem than before from the king.—When the
@@ -10350,7 +11528,9 @@ charge against a ship manned by Barbarians, turned away and went after
 others, supposing that the ship of Artemisia was either a Hellenic ship
 or was deserting from the Barbarians and fighting for the Hellenes,
 
-88,—first, I say, it was her fortune to have this, namely to escape and
+## Chapter 88
+
+—first, I say, it was her fortune to have this, namely to escape and
 not suffer destruction; and then secondly it happened that though she
 had done mischief, she yet gained great reputation by this thing with
 Xerxes. For it is said that the king looking on at the fight perceived
@@ -10366,7 +11546,9 @@ her accuser. And Xerxes in answer to that which was said to him is
 reported to have uttered these words: "My men have become women, and my
 women men." Thus it is said that Xerxes spoke.
 
-89. And meanwhile in this struggle there was slain the commander
+## Chapter 89
+
+And meanwhile in this struggle there was slain the commander
 Ariabignes, son of Dareios and brother of Xerxes, and there were slain
 too many others of note of the Persians and Medes and also of the
 allies; and of the Hellenes on their part a few; for since they knew
@@ -10379,7 +11561,9 @@ pass with their ships to the front in order that they also might display
 some deed of valour for the king to see, ran into the ships of their own
 side as they fled.
 
-90. It happened also in the course of this confusion that some of the
+## Chapter 90
+
+It happened also in the course of this confusion that some of the
 Phenicians, whose ships had been destroyed, came to the king and accused
 the Ionians, saying that by means of them their ships had been lost, and
 that they had been traitors to the cause. Now it so came about that not
@@ -10404,7 +11588,9 @@ came. Moreover also Ariaramnes, a Persian who was present, shared 54 the
 fate of the Phenicians, being their friend. They 55 then proceeded to
 deal with the Phenicians.
 
-91. In the meantime, as the Barbarians turned to flight and were sailing
+## Chapter 91
+
+In the meantime, as the Barbarians turned to flight and were sailing
 out towards Phaleron, the Eginetans waited for them in the passage and
 displayed memorable actions: for while the Athenians in the confused
 tumult were disabling both those ships which resisted and those which
@@ -10412,7 +11598,9 @@ were fleeing, the Eginetans were destroying those which attempted to
 sail away; and whenever any escaped the Athenians, they went in full
 course and fell among the Eginetans.
 
-92. Then there met one another the ship of Themistocles, which was
+## Chapter 92
+
+Then there met one another the ship of Themistocles, which was
 pursuing a ship of the enemy, and that of Polycritos the son of Crios
 the Eginetan. This last had charged against a ship of Sidon, the same
 that had taken the Eginetan vessel which was keeping watch in advance at
@@ -10429,7 +11617,9 @@ after he had charged against the ship of Sidon. And meanwhile those
 Barbarians whose ships had escaped destruction fled and came to Phaleron
 to be under cover of the land-army.
 
-93. In this sea-fight the Eginetans were of all the Hellenes the best
+## Chapter 93
+
+In this sea-fight the Eginetans were of all the Hellenes the best
 reported of, and next to them the Athenians; and of the individual
 men the Eginetan Polycritos and the Athenians Eumenes of Anagyrus and
 Ameinias of Pallene, the man who had pursued after Artemisia. Now if
@@ -10442,7 +11632,9 @@ against Athens. She then, as has been said before, had made her escape;
 and the others also, whose ships had escaped destruction, were at
 Phaleron.
 
-94. As regards Adeimantos the commander of the Corinthians, the
+## Chapter 94
+
+As regards Adeimantos the commander of the Corinthians, the
 Athenians say that forthwith at the beginning when the ships were
 engaging in the fight, being struck with panic and terror he put up his
 sails and fled away; and the Corinthians, when they saw the admiral's
@@ -10466,14 +11658,18 @@ Corinthians however do not allow this to be so, but hold that they were
 among the first in the sea-fight; and the rest of Hellas also bears
 witness on their side.
 
-95. Aristeides moreover the son of Lysimachos, the Athenian, of whom
+## Chapter 95
+
+Aristeides moreover the son of Lysimachos, the Athenian, of whom
 I made mention also shortly before this as a very good man, he in this
 tumult which had arisen about Salamis did as follows:—taking with him
 a number of the hoplites of Athenian race who had been ranged along the
 shore of the land of Salamis, with them he disembarked on the island of
 Psyttaleia; and these slew all the Persians who were in this islet.
 
-96. When the sea-fight had been broken off, the Hellenes towed in to
+## Chapter 96
+
+When the sea-fight had been broken off, the Hellenes towed in to
 Salamis so many of the wrecks as chanced to be still about there, and
 held themselves ready for another sea-fight, expecting that the king
 would yet make use of the ships which remained unhurt; but many of the
@@ -10489,7 +11685,9 @@ observed by any of the Hellenes:
 
 This was destined to come to pass after the king had marched away.
 
-97. When Xerxes perceived the disaster which had come upon him, he
+## Chapter 97
+
+When Xerxes perceived the disaster which had come upon him, he
 feared lest some one of the Ionians should suggest to the Hellenes,
 or they should themselves form the idea, to sail to the Hellespont and
 break up the bridges; and so he might be cut off in Europe and run the
@@ -10505,7 +11703,9 @@ stay and fight; but Mardonios did not fail to perceive the true meaning
 of all these things, being by experience very well versed in his way of
 thinking.
 
-98. While Xerxes was doing thus, he sent a messenger to the Persians,
+## Chapter 98
+
+While Xerxes was doing thus, he sent a messenger to the Persians,
 to announce the calamity which had come upon them. Now there is
 nothing mortal which accomplishes a journey with more speed than these
 messengers, so skilfully has this been invented by the Persians: for
@@ -10520,7 +11720,9 @@ one to the other, 62 as in the torch-race among the Hellenes, which
 they perform for Hephaistos. This kind of running of their horses the
 Persians call angareion.
 
-99. The first message then which came to Susa, announcing that Xerxes
+## Chapter 99
+
+The first message then which came to Susa, announcing that Xerxes
 had Athens in his possession, so greatly rejoiced the Persians who had
 been left behind, that they strewed all the ways with myrtle boughs and
 offered incense perpetually, and themselves continued in sacrifices and
@@ -10530,7 +11732,9 @@ themselves up to crying and lamentation without stint, laying the blame
 upon Mardonios: and this the Persians did not so much because they were
 grieved about the ships, as because they feared for Xerxes himself.
 
-100. As regards the Persians this went on for all the time which
+## Chapter 100
+
+As regards the Persians this went on for all the time which
 intervened, until the coming of Xerxes himself caused them to cease:
 and Mardonios seeing that Xerxes was greatly troubled by reason of
 the sea-fight, and suspecting that he was meaning to take flight from
@@ -10565,7 +11769,9 @@ thou to thine own abode, taking with thee the main body of the army,
 and it must then be for me to deliver over to thee Hellas reduced to
 subjection, choosing for this purpose thirty myriads 64 from the army."
 
-101. Hearing this Xerxes was rejoiced and delighted so far as he might
+## Chapter 101
+
+Hearing this Xerxes was rejoiced and delighted so far as he might
 be after his misfortunes, 65 and to Mardonios he said that when he had
 taken counsel he would reply and say which of these two things he would
 do. So when he was taking counsel with those of the Persians who
@@ -10585,7 +11791,9 @@ sea-fight which was fought, urging that we should not bring it on, so
 also now advise me which of these things I shall do, that I may succeed
 in determining well."
 
-102. He thus consulted her, and she spoke these words: "O king, it is
+## Chapter 102
+
+He thus consulted her, and she spoke these words: "O king, it is
 hard for me to succeed in saying the best things when one asks me for
 counsel; yet it seems good to me at the present that thou shouldest
 retire back and leave Mardonios here, if he desires it and undertakes
@@ -10605,7 +11813,9 @@ who is but thy slave. Thou however wilt retire having done that for
 which thou didst make thy march, that is to say, having delivered Athens
 to the fire."
 
-103. With this advice Xerxes was greatly delighted, since she succeeded
+## Chapter 103
+
+With this advice Xerxes was greatly delighted, since she succeeded
 in saying that very thing which he himself was meaning to do: for not
 even if all the men and all the women in the world had been counselling
 him to remain, would he have done so, as I think, so much had he been
@@ -10613,7 +11823,9 @@ struck with terror. He commended Artemisia therefore and sent her away
 to conduct his sons to Ephesos, for there were certain bastard sons of
 his which accompanied him.
 
-104. With these sons he sent Hermotimos to have charge of them, who was
+## Chapter 104
+
+With these sons he sent Hermotimos to have charge of them, who was
 by race of Pedasa and was in the estimation of the king second to none
 of the eunuchs. [Now the Pedasians dwell above Halicarnassos, and at
 this Pedasa a thing happens as follows:—whenever to the whole number of
@@ -10621,7 +11833,9 @@ those who dwell about this city some trouble is about to come within
 a certain time, then the priestess of Athene in that place gets a long
 beard; and this has happened to them twice before now.
 
-105. Of these Pedasians was Hermotimos.] 70 And this man of all persons
+## Chapter 105
+
+Of these Pedasians was Hermotimos.] 70 And this man of all persons
 whom we know up to this time obtained the greatest revenge for a wrong
 done to him. For he had been captured by enemies and was being sold, and
 Panionios a man of Chios bought him, one who had set himself to gain his
@@ -10636,7 +11850,9 @@ everything unfortunate, was sent from Sardis to the king with other
 gifts, and as time went on he came to be honoured more than all the
 other eunuchs in the sight of Xerxes.
 
-106. And when the king, being at that time in Sardis, was setting the
+## Chapter 106
+
+And when the king, being at that time in Sardis, was setting the
 Persian army in motion to march against Athens, then Hermotimos, having
 gone down for some business to that part of Mysia which the Chians
 occupy and which is called Atarneus, found there Panionios: and having
@@ -10661,7 +11877,9 @@ sons, who were four in number, and being compelled he did so; and then
 when he had so done, the sons were compelled to do the same thing to
 him. Thus vengeance by the hands of Hermotimos 72 overtook Panionios.
 
-107. When Xerxes had entrusted his sons to Artemisia to carry them back
+## Chapter 107
+
+When Xerxes had entrusted his sons to Artemisia to carry them back
 to Ephesos, he called Mardonios and bade him choose of the army whom he
 would, and make his deeds, if possible, correspond to his words. During
 this day then things went so far; and in the night on the command of
@@ -10674,7 +11892,9 @@ that these were ships and fled for a good distance. In time however,
 perceiving that they were not ships but points of rock, they assembled
 together again and continued on their voyage.
 
-108. When day dawned, the Hellenes, seeing that the land-army was
+## Chapter 108
+
+When day dawned, the Hellenes, seeing that the land-army was
 staying still in its place, supposed that the ships also were about
 Phaleron; and thinking that they would fight another sea-battle, they
 made preparations to repel them. When however they were informed that
@@ -10701,7 +11921,9 @@ flee until in his flight he came to his own land. Then after that they
 might begin the contest for the land which belonged to the Persian. To
 this opinion the commanders of the other Peloponnesians adhered also.
 
-109. When Themistocles perceived that he would not be able to persuade
+## Chapter 109
+
+When Themistocles perceived that he would not be able to persuade
 them, or at least the greater number of them, to sail to the Hellespont,
 he changed his counsel 75 and turning to the Athenians (for these were
 grieved most at the escape of the enemy and were anxious to sail to the
@@ -10728,7 +11950,9 @@ Persian, in order that if after all any evil should come upon him at the
 hands of the Athenians, he might have a place of refuge: and this was in
 fact that which came to pass.
 
-110. Themistocles then speaking thus endeavoured to deceive them, and
+## Chapter 110
+
+Themistocles then speaking thus endeavoured to deceive them, and
 the Athenians followed his advice: for he had had the reputation even in
 former times of being a man of ability 78 and he had now proved himself
 to be in truth both able and of good judgment; therefore they were ready
@@ -10746,7 +11970,9 @@ pursue after thy ships and to destroy the bridges on the Hellespont. Now
 therefore thou mayest make thy way home quite undisturbed." They having
 signified this sailed away again.
 
-111. The Hellenes meanwhile, having resolved not to pursue after the
+## Chapter 111
+
+The Hellenes meanwhile, having resolved not to pursue after the
 ships of the Barbarians further, nor to sail to the Hellespont to break
 up the passage, were investing Andros intending to take it: for
 the Andrians were the first of the islanders who, being asked by
@@ -10763,7 +11989,9 @@ namely, and Helplessness: and the Andrians being possessed of these
 deities would not give money; for never could the power of the Athenians
 get the better of their inability. 80
 
-112. These, I say, having thus made answer and having refused to give
+## Chapter 112
+
+These, I say, having thus made answer and having refused to give
 the money, were being besieged: and Themistocles not ceasing in his
 desire for gain sent threatening messages to the other islands and asked
 them for money by the same envoys, employing those whom he had before
@@ -10782,7 +12010,9 @@ Andros as his starting-point was acquiring sums of money for himself
 from the men of the islands without the knowledge of the other
 commanders.
 
-113. Xerxes meanwhile with his army stayed for a few days after the
+## Chapter 113
+
+Xerxes meanwhile with his army stayed for a few days after the
 sea-fight, and then they all began to march forth towards Boeotia by the
 same way by which they had come: for Mardonios thought both that it was
 well for him to escort the king on his way, and also that it was now
@@ -10802,7 +12032,9 @@ bracelets; and after them came the Medes, who in fact were not inferior
 in number to the Persians, but only in bodily strength. The result was
 that there were thirty myriads in all, including cavalry.
 
-114. During this time, while Mardonios was selecting his army and
+## Chapter 114
+
+During this time, while Mardonios was selecting his army and
 Xerxes was in Thessaly, there had come an oracle from Delphi to the
 Lacedemonians, bidding them ask satisfaction from Xerxes for the murder
 of Leonidas and accept that which should be given by him. The Spartans
@@ -10815,7 +12047,9 @@ then kept silence some time, and after that pointing to Mardonios, who
 happened to be standing by him, he said: "Then Mardonios here shall give
 them satisfaction, such as is fitting for them to have."
 
-115. The herald accordingly accepted the utterance and departed; and
+## Chapter 115
+
+The herald accordingly accepted the utterance and departed; and
 Xerxes leaving Mardonios in Thessaly went on himself in haste to
 the Hellespont and arrived at the passage where the crossing was in
 five-and-thirty days, bringing back next to nothing, as one may say, 84
@@ -10837,7 +12071,9 @@ Thracians, and when Xerxes asked for it again, they said that the mares
 while at pasture had been carried off by the Thracians of the upper
 country, who dwelt about the source of the Strymon.
 
-116. Here also a Thracian, the king of the Bisaltians and of the
+## Chapter 116
+
+Here also a Thracian, the king of the Bisaltians and of the
 Crestonian land, did a deed of surpassing horror; for he had said that
 he would not himself be subject to Xerxes with his own will and had gone
 away up to Mount Rhodope, and also he had forbidden his sons to go on
@@ -10846,7 +12082,9 @@ for his command, or else because a desire came upon them to see the war,
 went on the march with the Persian: and when they returned all unhurt,
 being six in number, their father plucked out their eyes for this cause.
 
-117. They then received this reward: and as to the Persians, when
+## Chapter 117
+
+They then received this reward: and as to the Persians, when
 passing on from Thrace they came to the passage, they crossed over the
 Hellespont in haste to Abydos by means of the ships, for they did not
 find the floating-bridges still stretched across but broken up by a
@@ -10856,7 +12094,9 @@ satisfying their hunger without restraint and also from the changes of
 water there died many of those in the army who had remained safe till
 then. The rest arrived with Xerxes at Sardis.
 
-118. There is also another story reported as follows, namely that when
+## Chapter 118
+
+There is also another story reported as follows, namely that when
 Xerxes on his march away from Athens came to Eïon on the Strymon, from
 that point he did not continue further to make marches by road, but
 delivered his army to Hydarnes to lead back to the Hellespont, while he
@@ -10877,7 +12117,9 @@ they say, first presented the pilot with a wreath of gold, because he
 had saved the life of the king, and then cut off his head, because he
 had caused the death of many of the Persians.
 
-119. This other story, I say, is reported about the return of Xerxes,
+## Chapter 119
+
+This other story, I say, is reported about the return of Xerxes,
 but I for my part can by no means believe it, either in other respects
 or as regards this which is said to have happened to the Persians; for
 if this which I have related had in truth been said by the pilot to
@@ -10890,7 +12132,9 @@ out into the sea a number equal to the number of those. In fact however,
 as I have said before, he made his return to Asia together with the rest
 of the army by road.
 
-120. And this also which follows is a strong witness that it was so; for
+## Chapter 120
+
+And this also which follows is a strong witness that it was so; for
 Xerxes is known to have come to Abdera on his way back, and to have made
 with them a guest-friendship and presented them with a Persian sword of
 gold and a gold-spangled tiara: and as the men of Abdera themselves say
@@ -10900,7 +12144,9 @@ himself to be in security. Now Abdera is situated further towards the
 Hellespont than the river Strymon and Eïon, from which place the story
 says that he embarked in the ship.
 
-121. The Hellenes meanwhile, when it proved that they were not able to
+## Chapter 121
+
+The Hellenes meanwhile, when it proved that they were not able to
 conquer Andros, turned towards Carystos, and having laid waste the land
 of that people they departed and went to Salamis. First then for the
 gods they chose out first-fruits of the spoil, and among them three
@@ -10912,7 +12158,9 @@ was made a statue holding in its hand the beak of a ship and in height
 measuring twelve cubits. This statue stood in the same place with the
 golden statue of Alexander the Macedonian.
 
-122. Then when the Hellenes had sent first-fruits to Delphi, they asked
+## Chapter 122
+
+Then when the Hellenes had sent first-fruits to Delphi, they asked
 the god on behalf of all whether the first-fruits which he had received
 were fully sufficient and acceptable to him. He said that from the
 Hellenes he had received enough, but not from the Eginetans, and from
@@ -10921,7 +12169,9 @@ at Salamis. Hearing this the Eginetans dedicated golden stars, three in
 number, upon a ship's mast of bronze, which are placed in the corner 87
 close to the mixing-bowl of Croesus.
 
-123. After the division of the spoil the Hellenes sailed to the Isthmus,
+## Chapter 123
+
+After the division of the spoil the Hellenes sailed to the Isthmus,
 to give the prize of valour to him who of all the Hellenes had proved
 himself the most worthy during this war: and when they had come thither
 and the commanders distributed 88 their votes at the altar of Poseidon,
@@ -10932,7 +12182,9 @@ number of votes came out in agreement, assigning that to Themistocles.
 They then were left alone in their votes, while Themistocles in regard
 to the second place surpassed the rest by far:
 
-124, and although the Hellenes would not give decision of this by reason
+## Chapter 124
+
+and although the Hellenes would not give decision of this by reason
 of envy, but sailed away each to their own city without deciding, yet
 Themistocles was loudly reported of and was esteemed throughout Hellas
 to be the man who was the ablest 89 by far of the Hellenes: and since he
@@ -10948,7 +12200,9 @@ hundred picked men of the Spartans, the same who are called the
 "horsemen," 90 as far as the boundaries of Tegea: and he is the only man
 of all we know to whom the Spartans ever gave escort on his way.
 
-125. When however he had come to Athens from Lacedemon, Timodemos of
+## Chapter 125
+
+When however he had come to Athens from Lacedemon, Timodemos of
 Aphidnai, one of the opponents of Themistocles, but in other respects
 not among the men of distinction, maddened by envy attacked him,
 bringing forward against him his going to Lacedemon, and saying that it
@@ -10960,7 +12214,9 @@ been thus honoured by the Spartans; but neither wouldest thou, my
 friend, for all that thou art an Athenian." So far then went these
 matters.
 
-126. Artabazos meanwhile the son of Pharnakes, a man who was held in
+## Chapter 126
+
+Artabazos meanwhile the son of Pharnakes, a man who was held in
 esteem among the Persians even before this and came to be so yet more
 after the events about Plataia, was escorting the king as far as the
 passage with six myriads 92 of that army which Mardonios had selected
@@ -10973,7 +12229,9 @@ men of Potidaia, when the king had marched by them and when the fleet of
 the Persians had departed in flight from Salamis, had openly made revolt
 from the Barbarians; and so also had the others done who occupy Pallene.
 
-127. So upon this Artabazos began to besiege Potidaia, and suspecting
+## Chapter 127
+
+So upon this Artabazos began to besiege Potidaia, and suspecting
 that the men of Olynthos also were intending revolt from the king, he
 began to besiege this city too, which was occupied by Bottiaians who had
 been driven away from the Thermaian gulf by the Macedonians. So when he
@@ -10982,7 +12240,9 @@ them 93 there; and the city he delivered to Critobulos of Torone to have
 in charge, and to the natives of Chalkidike; and thus it was that the
 Chalkidians got possession of Olynthos.
 
-128. Having taken this city Artabazos set himself to attack Potidaia
+## Chapter 128
+
+Having taken this city Artabazos set himself to attack Potidaia
 with vigour, and as he was setting himself earnestly to this work,
 Timoxeinos the commander of the troops from Skione concerted with him
 to give up the town by treachery. Now in what manner he did this at the
@@ -11003,7 +12263,9 @@ discovered who was guilty of the treachery, they resolved not openly to
 convict 95 Timoxeinos of treachery, for the sake of the city of Skione,
 lest the men of Skione should be esteemed traitors for all time to come.
 
-129. He then in such a manner as this had been discovered; and when
+## Chapter 129
+
+He then in such a manner as this had been discovered; and when
 three months had gone by while Artabazos was besieging the town, there
 came to be a great ebb of the sea backwards, which lasted for a long
 time; and the Barbarians, seeing that shallow water had been produced,
@@ -11022,7 +12284,9 @@ this was the cause, in my opinion they say well. The survivors of his
 army Artabazos led away to Thessaly to join Mardonios. Thus it fared
 with these who escorted the king on his way.
 
-130. The fleet of Xerxes, so much of it as remained, when it had touched
+## Chapter 130
+
+The fleet of Xerxes, so much of it as remained, when it had touched
 Asia in its flight from Salamis, and had conveyed the king and his army
 over from the Chersonese to Abydos, passed the winter at Kyme: and when
 spring dawned upon it, it assembled early at Samos, where some of the
@@ -11045,7 +12309,9 @@ at Samos were taking counsel to do some damage if they could to their
 enemies, and at the same time they were listening for news how the
 affairs of Mardonios would fall out.
 
-131. The Hellenes on their part were roused both by the coming on of
+## Chapter 131
+
+The Hellenes on their part were roused both by the coming on of
 spring and by the presence of Mardonios in Thessaly. Their land-army had
 not yet begun to assemble, when the fleet arrived at Egina, in
 number one hundred and ten ships, and the commander and admiral was
@@ -11060,7 +12326,9 @@ royal house. 100 These all, except the two 101 enumerated first
 after Leotychides, had been kings of Sparta. And of the Athenians the
 commander was Xanthippos the son of Ariphon.
 
-132. When all the ships had arrived at Egina, there came Ionian envoys
+## Chapter 132
+
+When all the ships had arrived at Egina, there came Ionian envoys
 to the camp of the Hellenes, who also came a short time before this to
 Sparta and asked the Lacedemonians to set Ionia free; and of them
 one was Herodotus the son of Basileides. These had banded themselves
@@ -11079,7 +12347,9 @@ the West than Samos, being smitten with fear, and the Hellenes no
 further down towards the East than Delos, when the Chians made request
 of them. So fear was guard of the space which lay between them.
 
-133. The Hellenes, I say, sailed to Delos; and Mardonios meanwhile had
+## Chapter 133
+
+The Hellenes, I say, sailed to Delos; and Mardonios meanwhile had
 been wintering in Thessaly. From thence he sent round a man, a native of
 Europos, whose name was Mys, to the various Oracles, charging him to
 go everywhere to consult, 102 wherever they 103 were permitted to make
@@ -11088,7 +12358,9 @@ he gave this charge, I am not able to say, for that is not reported; but
 I conceive for my part that he sent to consult about his present affairs
 and not about other things.
 
-134. This Mys is known to have come to Lebadeia and to have persuaded
+## Chapter 134
+
+This Mys is known to have come to Lebadeia and to have persuaded
 by payment of money one of the natives of the place to go down to
 Trophonios, and also he came to the Oracle at Abai of the Phokians;
 and moreover when he came for the first time to Thebes, he not only
@@ -11103,7 +12375,9 @@ other use; and they chose that he should be their ally in war: for this
 reason it is not permitted to any of the Thebans to lie down to sleep in
 that temple.
 
-135. After this a thing which to me is a very great marvel is said by
+## Chapter 135
+
+After this a thing which to me is a very great marvel is said by
 the Thebans to have come to pass:—it seems that this man Mys of Europos,
 as he journeyed round to all the Oracles, came also to the sacred
 enclosure of the Ptoan Apollo. This temple is called "Ptoon," and
@@ -11121,7 +12395,9 @@ which was being spoken by the prophet; and he said that the prophet was
 giving his answer in the Carian tongue: and then when he had written it,
 he went away and departed to Thessaly.
 
-136. Mardonios having read that which the Oracles uttered, whatever that
+## Chapter 136
+
+Mardonios having read that which the Oracles uttered, whatever that
 was, after this sent as an envoy to Athens Alexander the son of Amyntas,
 the Macedonian, both because the Persians were connected with him by
 marriage, (for Gygaia the sister of Alexander and daughter of Amyntas
@@ -11142,7 +12418,9 @@ power would be much greater than that of the Hellenes. Perhaps also the
 Oracles told him this beforehand, counselling him to make the Athenian
 his ally, and so he was sending in obedience to their advice.
 
-137. Now of this Alexander the seventh ancestor 108 was that Perdiccas
+## Chapter 137
+
+Now of this Alexander the seventh ancestor 108 was that Perdiccas
 who first became despot of the Macedonians, and that in the manner which
 here follows:—From Argos there fled to the Illyrians three brothers of
 the descendents of Temenos, Gauanes, Aëropos, and Perdiccas; and passing
@@ -11171,7 +12449,9 @@ his knife round the sunlight on the floor of the house, and having
 traced the line round he thrice drew of the sunlight into his bosom, and
 after that he departed both himself and his fellows.
 
-138. They then were going away, and to the king one of those who sat
+## Chapter 138
+
+They then were going away, and to the king one of those who sat
 by him at table told what manner of thing the boy had done, and how the
 youngest of them had taken that which was given with some design: and
 he hearing this and being moved with anger, sent after them horsemen to
@@ -11188,13 +12468,17 @@ Bermion, which is inaccessible by reason of the cold. Having taken
 possession of that region, they made this their starting-point, and
 proceeded to subdue also the rest of Macedonia.
 
-139. From this Perdiccas the descent of Alexander was as
+## Chapter 139
+
+From this Perdiccas the descent of Alexander was as
 follows:—Alexander was the son of Amyntas, Amyntas was the son of
 Alketes, the father of Alketes was Aëropos, of him Philip, of Philip
 Argaios, and of this last the father was Perdiccas, who first obtained
 the kingdom.
 
-140. Thus then, I say, Alexander the son of Amyntas was descended; and
+## Chapter 140
+
+Thus then, I say, Alexander the son of Amyntas was descended; and
 when he came to Athens sent from Mardonios, he spoke as follows: (a)
 "Athenians, Mardonios speaks these words:—There has come to me a message
 from the king which speaks in this manner:—To the Athenians I remit all
@@ -11233,7 +12517,9 @@ a matter of great consequence to you, that to you alone of the Hellenes
 the great king remits the offences committed and desires to become a
 friend."
 
-141. Thus spoke Alexander; and the Lacedemonians having been informed
+## Chapter 141
+
+Thus spoke Alexander; and the Lacedemonians having been informed
 that Alexander had come to Athens to bring the Athenians to make a
 treaty with the Barbarians, and remembering the oracles, who it was
 destined that they together with the other Dorians should be driven
@@ -11248,7 +12534,9 @@ having heard it they would themselves send envoys with all speed. They
 acted therefore of set purpose, so as to let the Lacedemonians see their
 inclination.
 
-142. So when Alexander had ceased speaking, the envoys from Sparta
+## Chapter 142
+
+So when Alexander had ceased speaking, the envoys from Sparta
 followed him forthwith and said: "As for us, the Lacedemonians sent us
 to ask of you not to make any change in that which concerns Hellas, nor
 to accept proposals from the Barbarian; since this is not just in any
@@ -11273,7 +12561,9 @@ at all."
 
 Thus spoke the envoys:
 
-143, and to Alexander the Athenians made answer thus: "Even of ourselves
+## Chapter 143
+
+and to Alexander the Athenians made answer thus: "Even of ourselves
 we know so much, that the Mede has a power many times as numerous as
 ours; so that there is no need for thee to cast this up against us.
 Nevertheless because we long for liberty we shall defend ourselves as we
@@ -11290,7 +12580,9 @@ in advising them to do that which is not lawful; for we do not desire
 that thou shouldest suffer anything unpleasant at the hands of the
 Athenians, who art their public guest and friend."
 
-144. To Alexander they thus made answer, but to the envoys from Sparta
+## Chapter 144
+
+To Alexander they thus made answer, but to the envoys from Sparta
 as follows: "That the Lacedemonians should be afraid lest we should make
 a treaty with the Barbarian was natural no doubt; 114 but it seems to be
 an unworthy fear for men who know so well the spirit of the Athenians,
@@ -11644,7 +12936,9 @@ will continue to defend ourselves."]
 
 ## Book IX. The Ninth Book of the Histories, Called Calliope
 
-1. Mardonios, when Alexander had returned back and had signified to him
+## Chapter 1
+
+Mardonios, when Alexander had returned back and had signified to him
 that which was said by the Athenians, set forth from Thessaly and began
 to lead his army with all diligence towards Athens: and to whatever land
 he came, he took up with him the people of that land. The leaders
@@ -11653,7 +12947,9 @@ already, but on the contrary they urged on the Persian yet much more;
 and Thorax of Larissa had joined in escorting Xerxes in his flight and
 at this time he openly offered Mardonios passage to invade Hellas..
 
-2. Then when the army in its march came to Boeotia, the Thebans
+## Chapter 2
+
+Then when the army in its march came to Boeotia, the Thebans
 endeavoured to detain Mardonios, and counselled him saying that there
 was no region more convenient for him to have his encampment than that;
 and they urged him not to advance further, but to sit down there and
@@ -11667,7 +12963,9 @@ their cities, and thus sending thou wilt divide Hellas into two parties:
 after that thou wilt with ease subdue by the help of thy party those who
 are not inclined to thy side.".
 
-3. Thus they advised, but he did not follow their counsel; for there had
+## Chapter 3
+
+Thus they advised, but he did not follow their counsel; for there had
 instilled itself into him a great desire to take Athens for the second
 time, partly from obstinacy 3 and partly because he meant to signify to
 the king in Sardis that he was in possession of Athens by beacon-fires
@@ -11678,7 +12976,9 @@ the city finding it deserted. Now the capture of the city by the king
 had taken place ten months before the later expedition of Mardonios
 against it.
 
-4. When Mardonios had come to Athens, he sent to Salamis Morychides
+## Chapter 4
+
+When Mardonios had come to Athens, he sent to Salamis Morychides
 a man of the Hellespont, bearing the same proposals as Alexander the
 Macedonian had brought over to the Athenians. These he sent for the
 second time, being aware beforehand that the dispositions of the
@@ -11686,7 +12986,9 @@ Athenians were not friendly, but hoping that they would give way and
 leave their obstinacy, since the Attic land had been captured by the
 enemy and was in his power..
 
-5. For this reason he sent Morychides to Salamis; and he came before
+## Chapter 5
+
+For this reason he sent Morychides to Salamis; and he came before
 the Council 4 and reported the words of Mardonios. Then one of the
 Councillors, Lykidas, expressed the opinion that it was better to
 receive the proposal which Morychides brought before them and refer
@@ -11701,7 +13003,9 @@ heard of that which was being done, and one woman passing the word to
 another and one taking another with her, they went of their own accord
 to the house of Lykidas and stoned his wife and his children to death.
 
-6. The Athenians had passed over to Salamis as follows:—So long as they
+## Chapter 6
+
+The Athenians had passed over to Salamis as follows:—So long as they
 were looking that an army should come from the Peloponnese to help them,
 they remained in Attica; but as those in Peloponnesus acted very
 slowly and with much delay, while the invader was said to be already
@@ -11714,7 +13018,9 @@ the Persian had promised to give the Athenians if they changed sides;
 bidding the envoys warn them that if they did not help the Athenians,
 the Athenians would find some shelter 6 for themselves..
 
-7. For the Lacedemonians in fact were keeping a feast during this
+## Chapter 7
+
+For the Lacedemonians in fact were keeping a feast during this
 time, and celebrating the Hyakinthia; and they held it of the greatest
 consequence to provide for the things which concerned the god, while at
 the same time their wall which they had been building at the Isthmus
@@ -11744,7 +13050,9 @@ speed send out an army together with us, in order that we may receive
 the Barbarian in the land of Attica; for since we failed of Boeotia, the
 most suitable place to fight in our land is the Thriasian plain.".
 
-8. When the Ephors heard this they deferred their reply to the next day,
+## Chapter 8
+
+When the Ephors heard this they deferred their reply to the next day,
 and then on the next day to the succeeding one; and this they did even
 for ten days, deferring the matter from day to day, while during this
 time the whole body of the Peloponnesians were building the wall over
@@ -11757,7 +13065,9 @@ they had no need of the Athenians any more; whereas when Alexander came
 to Attica the wall had not yet been completed, but they were working at
 it in great dread of the Persians..
 
-9. At last however the answer was given and the going forth of the
+## Chapter 9
+
+At last however the answer was given and the going forth of the
 Spartans took place in the following manner:—on the day before that
 which was appointed for the last hearing of the envoys, Chileos a man of
 Tegea, who of all strangers had most influence in Lacedemon, heard from
@@ -11769,7 +13079,9 @@ door has been opened for the Persian into Peloponnesus. Listen to their
 request, however, before the Athenians resolve upon something else
 tending to the fall of Hellas.".
 
-10. Thus he counselled them, and they forthwith took his words to heart;
+## Chapter 10
+
+Thus he counselled them, and they forthwith took his words to heart;
 and saying nothing to the envoys who had come from the cities, while
 yet it was night they sent out five thousand Spartans, with no less than
 seven of the Helots set to attend upon each man of them, 901 appointing
@@ -11784,7 +13096,9 @@ fighting against the Persian, the sun was darkened in the heaven. And
 Pausanias chose as commander in addition to himself Euryanax the son of
 Dorieos, a man of the same house..
 
-11. So Pausanias with his army had gone forth out of Sparta; and the
+## Chapter 11
+
+So Pausanias with his army had gone forth out of Sparta; and the
 envoys, when day had come, not knowing anything of this going forth,
 came in before the Ephors meaning to depart also, each to his own State:
 and when they had come in before them they said these words: "Ye, O
@@ -11804,7 +13118,9 @@ struck with amazement and set forth as quickly as possible in pursuit;
 and together with them five thousand chosen hoplites of the Lacedemonian
 "dwellers in the country round" 11 did the same thing also.
 
-12. They then, I say, were hastening towards the Isthmus; and the
+## Chapter 12
+
+They then, I say, were hastening towards the Isthmus; and the
 Argives so soon as they heard that Pausanias with his army had gone
 forth from Sparta, sent as a herald to Attica the best whom they could
 find of the long-distance runners, 12 because they had before of their
@@ -11815,7 +13131,9 @@ gone forth from Lacedemon, and that the Argives are not able to stop
 them from going forth: with regard to this therefore may it be thy
 fortune to take measures well." 13.
 
-13. He having spoken thus departed and went back; and Mardonios was
+## Chapter 13
+
+He having spoken thus departed and went back; and Mardonios was
 by no means anxious any more to remain in Attica when he heard this
 message. Before he was informed of this he had been waiting, because he
 desired to know the news from the Athenians as to what they were about
@@ -11832,7 +13150,9 @@ narrow pass, so that a few men could stop them. He intended therefore
 to retreat to Thebes, and engage battle near to a friendly city and to a
 country where horsemen could act freely.
 
-14. Mardonios then was retiring out of the way, and when he was already
+## Chapter 14
+
+Mardonios then was retiring out of the way, and when he was already
 upon a road a message came to him saying that another body of troops
 in advance of the rest 14 had come to Megara, consisting of a thousand
 Lacedemonians. Being thus informed he took counsel with himself,
@@ -11841,7 +13161,9 @@ and proceeded to lead his army towards Megara, and the cavalry going in
 advance of the rest overran the Megaran land: this was the furthest land
 in Europe towards the sun-setting to which this Persian army came..
 
-15. After this a message came to Mardonios that the Hellenes were
+## Chapter 15
+
+After this a message came to Mardonios that the Hellenes were
 assembled at the Isthmus; therefore he marched back by Dekeleia, for the
 chiefs of Boeotia 15 had sent for those of the Asopians who dwelt
 near the line of march, and these were his guides along the road to
@@ -11857,7 +13179,9 @@ from Erythrai along by Hysiai and reached the river Asopos: he was not
 however making the wall to extend so far as this, but with each face
 measuring somewhere about ten furlongs. 16
 
-16. While the Barbarians were engaged upon this work, Attaginos the son
+## Chapter 16
+
+While the Barbarians were engaged upon this work, Attaginos the son
 of Phyrnon, a Theban, having made magnificent preparations invited to
 an entertainment Mardonios himself and fifty of the Persians who were of
 most account; and these being invited came; and the dinner was given at
@@ -11890,7 +13214,9 @@ things I heard from Thersander of Orchomenos, and in addition to them
 this also, namely that he told them to various persons forthwith, before
 the battle took place at Plataia.
 
-17. Mardonios then being encamped in Boeotia, the rest of the Hellenes
+## Chapter 17
+
+Mardonios then being encamped in Boeotia, the rest of the Hellenes
 who lived in these parts and took the side of the Medes were all
 supplying troops and had joined in the invasion of Attica, but the
 Phokians alone had not joined in the invasion,—the Phokians, I say,
@@ -11915,7 +13241,9 @@ ourselves for the slaughter. Let each man of them learn that they
 are Barbarians and that we, against whom they contrived murder, are
 Hellenes.".
 
-18. While he was thus exhorting them, the horsemen having encompassed
+## Chapter 18
+
+While he was thus exhorting them, the horsemen having encompassed
 them round were riding towards them as if to destroy them; and they were
 already aiming their missiles as if about to discharge them, nay some
 perhaps did discharge them: and meanwhile the Phokians stood facing them
@@ -11933,7 +13261,9 @@ Now therefore carry on this way with zeal, for ye will not surpass in
 benefits either myself or the king." Thus far it happened as regards the
 Phokians.
 
-19. When the Lacedemonians came to the Isthmus they encamped upon it,
+## Chapter 19
+
+When the Lacedemonians came to the Isthmus they encamped upon it,
 and hearing this the rest of the Peloponnesians who favoured the better
 cause, and some also because they saw the Spartans going out, did not
 think it right to be behind the Lacedemonians in their going forth.
@@ -11946,7 +13276,9 @@ Erythrai in Boeotia, then they learnt that the Barbarians were encamping
 on the Asopos, and having perceived this they ranged themselves over
 against them on the lower slopes of Kithairon..
 
-20. Then Mardonios, as the Hellenes did not descend into the plain, sent
+## Chapter 20
+
+Then Mardonios, as the Hellenes did not descend into the plain, sent
 towards them all his cavalry, of which the commander was Masistios (by
 the Hellenes called Makistios), a man of reputation among the Persians,
 who had a Nesaian horse with a bridle of gold and in other respects
@@ -11954,7 +13286,9 @@ finely caparisoned. So when the horsemen had ridden up to the Hellenes
 they attacked them by squadrons, and attacking 23 they did them much
 mischief, and moreover in contempt they called them women..
 
-21. Now it happened by chance that the Megarians were posted in the
+## Chapter 21
+
+Now it happened by chance that the Megarians were posted in the
 place which was the most assailable of the whole position and to which
 the cavalry could best approach: so as the cavalry were making
 their attacks, the Megarians being hard pressed sent a herald to the
@@ -11972,7 +13306,9 @@ when the rest were not desirous to go, the Athenians undertook the task,
 and of the Athenians those three hundred picked men of whom Olympidoros
 the son of Lampon was captain.
 
-22. These they were who undertook the task and were posted at Erythrai
+## Chapter 22
+
+These they were who undertook the task and were posted at Erythrai
 in advance of the other Hellenes who ere there present, having chosen
 to go with them the bow-men also. For some time then they fought, and at
 last an end was set to the fighting in the following manner:—while the
@@ -11994,7 +13330,9 @@ missed him, since there was no one to command them; and when they
 perceived what had happened, they passed the word to one another and all
 rode together, that they might if possible recover the body..
 
-23. The Athenians upon that, seeing that the cavalry were riding to
+## Chapter 23
+
+The Athenians upon that, seeing that the cavalry were riding to
 attack them no longer by squadrons but all together, shouted to the rest
 of the army to help them. Then while the whole number of those on foot
 were coming to their help, there arose a sharp fight for the body; and
@@ -12006,14 +13344,18 @@ their number also. Then they drew off about two furlongs away and
 deliberated what they should do; and it seemed good to them, as they had
 no commander, to ride back to Mardonios..
 
-24. When the cavalry arrived at the camp, the whole army and also
+## Chapter 24
+
+When the cavalry arrived at the camp, the whole army and also
 Mardonios made great mourning for Masistios, cutting off their own
 hair and that of their horses and baggage-animals and giving way to
 lamentation without stint; for all Boeotia was filled with the sound of
 it, because one had perished who after Mardonios was of the most account
 with the Persians and with the king..
 
-25. The Barbarians then were paying honours in their own manner to
+## Chapter 25
+
+The Barbarians then were paying honours in their own manner to
 Masistios slain: but the Hellenes, when they had sustained the attack of
 the cavalry and having sustained it had driven them back, were much more
 encouraged; and first they put the dead body in a cart and conveyed it
@@ -12031,7 +13373,9 @@ themselves according to their several nations near the spring Gargaphia
 and the sacred enclosure of Androcrates the hero, over low hills or
 level ground.
 
-26. Then in the arranging of the several posts there arose a contention
+## Chapter 26
+
+Then in the arranging of the several posts there arose a contention
 of much argument 2501 between the Tegeans and the Athenians; for
 they each claimed to occupy the other wing of the army 26 themselves,
 alleging deeds both new and old. The Tegeans on the one hand said as
@@ -12070,7 +13414,9 @@ Therefore it is just that we have the other wing rather than the
 Athenians; for they have not achieved deeds such as ours, either new or
 old.".
 
-27. Thus they spoke, and the Athenians replied as follows: "Though we
+## Chapter 27
+
+Thus they spoke, and the Athenians replied as follows: "Though we
 know that this gathering was assembled for battle with the Barbarian
 and not for speech, yet since the Tegean has proposed to us as a task
 to speak of things both old and new, the deeds of merit namely which by
@@ -12109,7 +13455,9 @@ answer thus; and the whole body of the Lacedemonians shouted aloud that
 the Athenians were more worthy to occupy the wing than the Arcadians.
 Thus the Athenians obtained the wing, and overcame the Tegeans.
 
-28. After this the Hellenes were ranged as follows, both those of them
+## Chapter 28
+
+After this the Hellenes were ranged as follows, both those of them
 who came in continually afterwards 29 and those who had come at the
 first. The right wing was held by ten thousand Lacedemonians; and of
 these the five thousand who were Spartans were attended by thirty-five
@@ -12135,7 +13483,9 @@ six hundred Plataians. Last, or if you will first, were ranged the
 Athenians, occupying the left wing, eight thousand in number, and the
 commander of them was Aristeides the son of Lysimachos..
 
-29. These all, excepting those who were appointed to attend the
+## Chapter 29
+
+These all, excepting those who were appointed to attend the
 Spartans, seven for each man, were hoplites, being in number altogether
 three myriads eight thousand and seven hundred. 31 This was the whole
 number of hoplites who were assembled against the Barbarian; and the
@@ -12145,7 +13495,9 @@ and of these every one was equipped for fighting; and the light-armed
 troops of the rest of the Lacedemonians and of the other Hellenes, being
 about one for each man, amounted to thirty-four thousand five hundred..
 
-30. Of the light-armed fighting men the whole number then was six
+## Chapter 30
+
+Of the light-armed fighting men the whole number then was six
 myriads nine thousand and five hundred; 32 and of the whole Hellenic
 force which assembled at Plataia the number (including both the hoplites
 and the light-armed fighting men) was eleven myriads 33 all but one
@@ -12156,7 +13508,9 @@ one thousand eight hundred, and these too were without heavy arms.
 34 These then having been ranged in order were encamped on the river
 Asopos.
 
-31. Meanwhile the Barbarians with Mardonios, when they had sufficiently
+## Chapter 31
+
+Meanwhile the Barbarians with Mardonios, when they had sufficiently
 mourned for Masistios, being informed that the Hellenes were at Plataia
 came themselves also to that part of the Asopos which flows there; and
 having arrived there, they were ranged against the enemy by Mardonios
@@ -12185,7 +13539,9 @@ from those of the Hellenes who were with him. He ranged the Macedonians
 also and those who dwell about the borders of Thessaly opposite to the
 Athenians..
 
-32. These which have been named were the greatest of the nations who
+## Chapter 32
+
+These which have been named were the greatest of the nations who
 were arrayed in order by Mardonios, those, I mean, which were the most
 renowned and of greatest consideration: but there were in his army
 also men of several other nations mingled together, of the Phrygians,
@@ -12202,7 +13558,9 @@ but by conjecture I judge that these were assembled to the number of
 five myriads. These who were placed in array side by side were on foot;
 and the cavalry was ranged apart from them in a separate body.
 
-33. When all had been drawn up by nations and by divisions, then on
+## Chapter 33
+
+When all had been drawn up by nations and by divisions, then on
 the next day they offered sacrifice on both sides. For the Hellenes
 Tisamenos the son of Antiochos was he who offered sacrifice, for he it
 was who accompanied this army as diviner. This man the Lacedemonians had
@@ -12230,7 +13588,9 @@ that he could not now be satisfied even so, nor with these terms alone;
 but it was necessary that his brother Hegias also should be made a
 Spartan citizen on the same terms as he himself became one..
 
-34. By saying this he followed the example of Melampus in his request,
+## Chapter 34
+
+By saying this he followed the example of Melampus in his request,
 42 if one may compare royal power with mere citizenship; for Melampus
 on his part, when the women in Argos had been seized by madness, and the
 Argives endeavoured to hire him to come from Pylos and to cause their
@@ -12242,7 +13602,10 @@ but he then seeing that they had changed their minds, increased his
 demand, and said that he would not do that which they desired unless
 they gave to his brother Bias also the third share in the royal power.
 43 And the Argives, being driven into straits, consented to this also.
-35. Just so the Spartans also, being very much in need of Tisamenos,
+
+## Chapter 35
+
+Just so the Spartans also, being very much in need of Tisamenos,
 agreed with him on any terms which he desired: and when the Spartans had
 agreed to this demand also, then Tisamenos the Eleian, having become a
 Spartan, had part with them in winning five of the greatest contests
@@ -12255,12 +13618,16 @@ the contest with the Messenians at Ithome; 44 and last of all that which
 took place at Tanagra against the Athenians and Argives. This, I say,
 was accomplished last of the five contests.
 
-36. This Tisamenos was acting now as diviner for the Hellenes in the
+## Chapter 36
+
+This Tisamenos was acting now as diviner for the Hellenes in the
 Plataian land, being brought by the Spartans. Now to the Hellenes the
 sacrifices were of good omen if they defended themselves only, but not
 if they crossed the Asopos and began a battle;.
 
-37, and Mardonios too, who was eager to begin a battle, found the
+## Chapter 37
+
+and Mardonios too, who was eager to begin a battle, found the
 sacrifices not favourable to this design, but they were of good omen
 to him also if he defended himself only; for he too used the Hellenic
 manner of sacrifice, having as diviner Hegesistratos an Eleian and the
@@ -12288,7 +13655,9 @@ However in the end the enmity into which he had fallen with the
 Lacedemonians was not to his advantage; for he was caught by them while
 practising divination in Zakynthos, and was put to death.
 
-38. However the death of Hegesistratos took place later than the
+## Chapter 38
+
+However the death of Hegesistratos took place later than the
 events at Plataia, and he was now at the Asopos, having been hired by
 Mardonions for no mean sum, sacrificing and displaying zeal for his
 cause both on account of his enmity with the Lacedemonians and on
@@ -12301,7 +13670,9 @@ son of Herpys, a Theban, counselled Mardonios to set a guard on the pass
 of Kithairon, saying that the Hellenes were constantly flowing in every
 day and that he would thus cut off large numbers..
 
-39. Eight days had now passed while they had been sitting opposite to
+## Chapter 39
+
+Eight days had now passed while they had been sitting opposite to
 one another, when he gave this counsel to Mardonios; and Mardonios,
 perceiving that the advice was good, sent the cavalry when night came
 on to the pass of Kithairon leading towards Plataia, which the Boeotians
@@ -12314,7 +13685,9 @@ proceeded to slaughter them without sparing either beast or man; and
 when they were satiated with killing they surrounded the rest and drove
 them into the camp to Mardonios.
 
-40. After this deed they spent two days more, neither side wishing to
+## Chapter 40
+
+After this deed they spent two days more, neither side wishing to
 begin a battle; for the Barbarians advanced as far as the Asopos to make
 trial of the Hellenes, but neither side would cross the river. However
 the cavalry of Mardonios made attacks continually and did damage to the
@@ -12323,7 +13696,9 @@ carried on the war with vigour, and always directed them up to the
 moment of fighting; and after this the Persians and Medes took up the
 work and were they who displayed valour in their turn.
 
-41. For ten days then nothing more was done than this; but when the
+## Chapter 41
+
+For ten days then nothing more was done than this; but when the
 eleventh day had come, while they still sat opposite to one another at
 Plataia, the Hellenes having by this time grown much more numerous and
 Mardonios being greatly vexed at the delay of action, then Mardonios the
@@ -12350,7 +13725,9 @@ assembled; and as for the sacrifices of Hegesistratos, they should leave
 them alone and not endeavour to force a good sign, but follow the custom
 of the Persians and engage battle..
 
-42. When he so expressed his judgment, none opposed him, and thus his
+## Chapter 42
+
+When he so expressed his judgment, none opposed him, and thus his
 opinion prevailed; for he and not Artabazos had the command of the
 army given him by the king. He summoned therefore the commanders of
 the divisions and the generals of those Hellenes who were with him, and
@@ -12370,7 +13747,9 @@ Hellenes." Having spoken to them thus, he next commanded to prepare
 everything and to set all in order, since at dawn of the next day a
 battle would be fought.
 
-43. Now this oracle, which Mardonios said referred to the Persians, I
+## Chapter 43
+
+Now this oracle, which Mardonios said referred to the Persians, I
 know for my part was composed with reference with the Illyrians and the
 army of the Enchelians, and not with reference to the Persians at all.
 However, the oracle which was composed by Bakis with reference to this
@@ -12385,7 +13764,9 @@ these sayings, and others like them composed by Musaios, I know had
 reference to the Persians. Now the river Thermodon flows between Tanagra
 and Glisas.
 
-44. After the inquiry about the oracles and the exhortation given by
+## Chapter 44
+
+After the inquiry about the oracles and the exhortation given by
 Mardonios night came on and the guards were set: and when night was far
 advanced, and it seemed that there was quiet everywhere in the camps,
 and that the men were in their deepest sleep, then Alexander the son of
@@ -12397,7 +13778,9 @@ said that a man had come riding on a horse out of the camp of the Medes,
 who discovered nothing further, but only named the generals and said
 that he desired to have speech with them..
 
-45. Having heard this, forthwith they accompanied the men to the
+## Chapter 45
+
+Having heard this, forthwith they accompanied the men to the
 guard-posts, and when they had arrived there, Alexander thus spoke
 to them: "Athenians, I lay up these words of mine as a trust to you,
 charging you to keep them secret and tell them to no one except only to
@@ -12420,7 +13803,9 @@ that the Barbarians may not fall upon you when ye are not as yet
 expecting them: and I am Alexander the Macedonian." Thus having spoken
 he rode away back to the camp and to his own position.
 
-46. Then the generals of the Athenians came to the right wing and told
+## Chapter 46
+
+Then the generals of the Athenians came to the right wing and told
 Pausanias that which they had heard from Alexander. Upon this saying he
 being struck with fear of the Persians spoke as follows: "Since then at
 dawn the battle comes on, it is right that ye, Athenians, should take
@@ -12441,7 +13826,9 @@ you. Since however ye yourselves have made mention of this, know that
 your words have caused us pleasure, and that we are ready to do this
 which ye say.".
 
-47. Both then were content to do this, and as dawn appeared they began
+## Chapter 47
+
+Both then were content to do this, and as dawn appeared they began
 to change their positions with one another: and the Boeotians perceiving
 that which was being done reported it to Mardonios, who, when he heard
 it, forthwith himself also endeavoured to change positions, bringing the
@@ -12450,7 +13837,9 @@ Pausanias learnt that this was being done, he perceived that he was not
 unobserved, and he led the Spartans back again to the right wing; and
 just so also did Mardonios upon his left.
 
-48. When they had been thus brought to their former positions, Mardonios
+## Chapter 48
+
+When they had been thus brought to their former positions, Mardonios
 sent a herald to the Spartans and said as follows: "Lacedemonians, ye
 are said forsooth by those who are here to be very good men, and they
 have admiration for you because ye do not flee in war nor leave
@@ -12474,7 +13863,9 @@ think it sufficient that we alone should fight, then let us fight it
 out to the end, and whichsoever of us shall be the victors, let these be
 counted as victorious with their whole army.".
 
-49. The herald having thus spoken waited for some time, and then, as no
+## Chapter 49
+
+The herald having thus spoken waited for some time, and then, as no
 one made him any answer, he departed and went back; and having returned
 he signified to Mardonios that which had happened to him. Mardonios
 then being greatly rejoiced and elated by his empty 53 victory, sent
@@ -12490,7 +13881,9 @@ near at hand; but when they were kept away from the Asopos, then they
 used to go backwards and forwards to this spring; for they were not
 permitted by the horsemen and archers to fetch water from the river..
 
-50. Such then being the condition of things, the generals of the
+## Chapter 50
+
+Such then being the condition of things, the generals of the
 Hellenes, since the army had been cut off from its water and was being
 harassed by the cavalry, assembled to consult about these and other
 things, coming to Pausanias upon the right wing: for other things too
@@ -12499,7 +13892,9 @@ no longer had provisions, and their attendants who had been sent to
 Peloponnese for the purpose of getting them had been cut off by the
 cavalry and were not able to reach the camp..
 
-51. It was resolved then by the generals in council with one another,
+## Chapter 51
+
+It was resolved then by the generals in council with one another,
 that if the Persians put off the battle for that day, they would go
 to the Island. This is distant ten furlongs 54 from the Asopos and the
 spring Gargaphia, where they were then encamped, and is in front of the
@@ -12521,7 +13916,9 @@ this same night, in order to take up their attendants who had gone to
 get the supplies of provisions; for these were cut off from them in
 Kithairon.
 
-52. Having thus resolved, during the whole of that day they had trouble
+## Chapter 52
+
+Having thus resolved, during the whole of that day they had trouble
 unceasingly, while the cavalry pressed upon them; but when the day drew
 to a close and the attacks of the cavalry had ceased, then as it was
 becoming night and the time had arrived at which it had been agreed
@@ -12534,7 +13931,9 @@ far as the temple of Hera, which temple is in front of the city of the
 Plataians at a distance of twenty furlongs from the spring Gargaphia;
 and when they had there arrived they halted in front of the temple.
 
-53. These then were encamping about the temple of Hera; and Pausanias,
+## Chapter 53
+
+These then were encamping about the temple of Hera; and Pausanias,
 seeing that they were retiring from the camp, gave the word to the
 Lacedemonians also to take up their arms and go after the others who
 were preceding them, supposing that these were going to the place to
@@ -12553,7 +13952,9 @@ this thought they kept the Lacedemonian force from moving, and meanwhile
 they endeavoured to persuade him that it was not right for him to do
 so..
 
-54. They then were exhorting Amompharetos, who had been left behind
+## Chapter 54
+
+They then were exhorting Amompharetos, who had been left behind
 alone of the Lacedemonians and Tegeans; and meanwhile the Athenians
 were keeping themselves quiet in the place where they had been posted,
 knowing the spirit of the Lacedemonians, that they were apt to say
@@ -12561,7 +13962,10 @@ otherwise than they really meant; 60 and when the army began to move,
 they sent a horseman from their own body to see whether the Spartans
 were attempting to set forth, or whether they had in truth no design at
 all to retire; and they bade him ask Pausanias what they ought to do.
-55. So when the herald came to the Lacedemonians, he saw that they were
+
+## Chapter 55
+
+So when the herald came to the Lacedemonians, he saw that they were
 still in their place and that the chiefs of them had come to strife with
 one another: for when Euryanax and Pausanias both exhorted Amompharetos
 not to run the risk of remaining behind with his men, alone of all the
@@ -12577,7 +13981,9 @@ had been charged to ask; and at the same time he requested the Athenians
 to come towards the Lacedemonians and to do in regard to the retreat the
 same as they did..
 
-56. He then went away back to the Athenians; and as the dawn of day
+## Chapter 56
+
+He then went away back to the Athenians; and as the dawn of day
 found them yet disputing with one another, Pausanias, who had remained
 still throughout all this time, gave the signal, and led away all the
 rest over the low hills, supposing that Amonpharetos would not stay
@@ -12588,7 +13994,9 @@ direction opposite to that of the Lacedemonians; for these were clinging
 to the hills and the lower slope of Kithairon from fear of the cavalry,
 while the Athenians were marching below in the direction of the plain..
 
-57. As for Amonpharetos, he did not at first believe that Pausanias
+## Chapter 57
+
+As for Amonpharetos, he did not at first believe that Pausanias
 would ever venture to leave him and his men behind, and he stuck to it
 that they should stay there and not leave their post; but when Pausanias
 and his troops were well in front, then he perceived that they had
@@ -12607,7 +14015,9 @@ seeing the place vacant in which the Hellenes had been posted on the
 former days, they rode their horses on continually further, and as soon
 as they came up with them they began to attack them.
 
-58. Then Mardonios, when he was informed that the Hellenes had departed
+## Chapter 58
+
+Then Mardonios, when he was informed that the Hellenes had departed
 during the night, and when he saw their place deserted, called Thorax of
 Larissa and his brothers Eurypylos and Thrasydeios, and said: "Sons
 of Aleuas, will ye yet say anything, 63 now that ye see these places
@@ -12630,7 +14040,9 @@ speak in another place; now however we must not allow them to act thus,
 but we must pursue them until they are caught and pay the penalty to us
 for all that they did to the Persians in time past.".
 
-59. Thus having spoken he led on the Persians at a run, after they had
+## Chapter 59
+
+Thus having spoken he led on the Persians at a run, after they had
 crossed the Asopos, on the track of the Hellenes, supposing that
 these were running away from him; and he directed his attack upon the
 Lacedemonians and Tegeans only, for the Athenians, whose march was
@@ -12640,7 +14052,9 @@ had started to pursue the Hellenes, forthwith all raised the signals for
 battle and began to pursue, each as fast as they could, not arranged in
 any order or succession of post..
 
-60. These then were coming on with shouting and confused numbers,
+## Chapter 60
+
+These then were coming on with shouting and confused numbers,
 thinking to make short work of 64 the Hellenes; and Pausanias, when the
 cavalry began to attack, sent to the Athenians a horseman and said thus:
 "Athenians, now that the greatest contest is set before us, namely that
@@ -12659,7 +14073,9 @@ by sending to us the archers; and we know that ye have been in the
 course of this present war by far the most zealous of all, so that ye
 will listen to our request in this matter also.".
 
-61. When the Athenians heard this they were desirous to come to their
+## Chapter 61
+
+When the Athenians heard this they were desirous to come to their
 help and to assist them as much as possible; and as they were already
 going, they were attacked by those of the Hellenes on the side of the
 king who had been ranged opposite to them, so that they were no longer
@@ -12678,7 +14094,9 @@ and that the offerings did not prove favourable, fixed his gaze upon
 the temple of Hera of the Plataians and called upon the goddess to help,
 praying that they might by no means be cheated of their hope:.
 
-62, and while he was yet calling upon her thus, the Tegeans started
+## Chapter 62
+
+and while he was yet calling upon her thus, the Tegeans started
 forward before them and advanced against the Barbarians, and forthwith
 after the prayer of Pausanias the offerings proved favourable for the
 Lacedemonians as they sacrificed. So when this at length came to pass,
@@ -12694,7 +14112,9 @@ unversed in war and unequal to their opponents in skill; and they would
 dart out one at a time or in groups of about ten together, some more and
 some less, and fall upon the Spartans and perish..
 
-63. In the place where Mardonios himself was, riding on a white horse
+## Chapter 63
+
+In the place where Mardonios himself was, riding on a white horse
 and having about him the thousand best men of the Persians chosen out
 from the rest, here, I say, they pressed upon their opponents most of
 all: and so long as Mardonios survived, they held out against them, and
@@ -12706,7 +14126,9 @@ dress, without defensive armour, was a very great cause of destruction
 to them, since in truth they were contending light-armed against
 hoplites..
 
-64. Then the satisfaction for the murder of Leonidas was paid by
+## Chapter 64
+
+Then the satisfaction for the murder of Leonidas was paid by
 Mardonios according to the oracle given to the Spartans, 67 and the most
 famous victory of all those about which we have knowledge was gained
 by Pausanias the son of Cleombrotos, the son of Anaxandrides; of his
@@ -12718,7 +14140,9 @@ against the whole army of the Messenians, then at war with the
 Lacedemonians, at Stenycleros, and both he was slain and also the three
 hundred..
 
-65. When the Persians were turned to flight at Plataia by the
+## Chapter 65
+
+When the Persians were turned to flight at Plataia by the
 Lacedemonians, they fled in disorder to their own camp and to the
 palisade which they had made in the Theban territory: 70 and it is a
 marvel to me that, whereas they fought by the side of the sacred grove
@@ -12729,7 +14153,9 @@ the unconsecrated ground fell the greater number of the slain. I suppose
 herself refused to receive them, because they had set fire to the
 temple, that is to say the "palace" 71 at Eleusis.
 
-66. Thus far then had this battle proceeded: but Artabazos the son
+## Chapter 66
+
+Thus far then had this battle proceeded: but Artabazos the son
 of Pharnakes had been displeased at the very first because Mardonios
 remained behind after the king was gone; and afterwards he had been
 bringing forward objections continually and doing nothing, but had urged
@@ -12748,7 +14174,9 @@ flight by the quickest way not to the palisade nor yet to the wall of
 the Thebans, but towards Phokis, desiring as quickly as possible to
 reach the Hellespont..
 
-67. These, I say, were thus directing their march: and in the meantime,
+## Chapter 67
+
+These, I say, were thus directing their march: and in the meantime,
 while the other Hellenes who were on the side of the king were purposely
 slack in the fight, 74 the Boeotians fought with the Athenians for a
 long space; for those of the Thebans who took the side of the Medes had
@@ -12759,7 +14187,9 @@ to Thebes, not to the same place as the Persians: and the main body of
 the other allies fled without having fought constantly with any one or
 displayed any deeds of valour..
 
-68. And this is an additional proof to me that all the fortunes of the
+## Chapter 68
+
+And this is an additional proof to me that all the fortunes of the
 Barbarians depended upon the Persians, namely that at that time these
 men fled before they had even engaged with the enemy, because they saw
 the Persians doing so. Thus all were in flight except only the cavalry,
@@ -12767,7 +14197,9 @@ including also that of the Boeotians; and this rendered service to the
 fugitives by constantly keeping close to the enemy and separating the
 fugitives of their own side from the Hellenes..
 
-69. The victors then were coming after the troops of Xerxes, both
+## Chapter 69
+
+The victors then were coming after the troops of Xerxes, both
 pursuing them and slaughtering them; and during the time when this
 panic arose, the report was brought to the other Hellenes who had posted
 themselves about the temple of Hera and had been absent from the battle,
@@ -12784,7 +14216,9 @@ the cavalry being Asopodoros the son of Timander; and having fallen upon
 them they slew six hundred of them, and the rest they pursued and drove
 to Kithairon.
 
-70. These then perished thus ingloriously; 75 and meanwhile the Persians
+## Chapter 70
+
+These then perished thus ingloriously; 75 and meanwhile the Persians
 and the rest of the throng, having fled for refuge to the palisade,
 succeeded in getting up to the towers before the Lacedemonians came; and
 having got up they strengthened the wall of defence as best they could.
@@ -12813,7 +14247,9 @@ thousand men survived. Of the Lacedemonians from Sparta there were slain
 in the battle ninety-one in all, of the Tegeans sixteen, and of the
 Athenians two-and-fifty.
 
-71. Among the Barbarians those who proved themselves the best men were,
+## Chapter 71
+
+Among the Barbarians those who proved themselves the best men were,
 of those on foot the Persians, and of the cavalry the Sacans, and for
 a single man Mardonios it is said was the best. Of the Hellenes, though
 both the Tegeans and the Athenians proved themselves good men, yet the
@@ -12837,7 +14273,9 @@ specially honoured, except Aristodemos; but Aristodemos, since he
 desired to be slain on account of the before-mentioned charge, was not
 honoured.
 
-72. These obtained the most renown of those who fought at Plataia, for
+## Chapter 72
+
+These obtained the most renown of those who fought at Plataia, for
 as for Callicrates, the most beautiful who came to the camp, not of the
 Lacedemonians alone, but also of all the Hellenes of his time, he
 was not killed in the battle itself; but when Pausanias was offering
@@ -12849,7 +14287,9 @@ Hellas, but it grieved him only that he had not proved his strength of
 hand, and that no deed of valour had been displayed by him worthy of the
 spirit which he had in him to perform great deeds. 83
 
-73. Of the Athenians the man who gained most glory is said to have been
+## Chapter 73
+
+Of the Athenians the man who gained most glory is said to have been
 Sophanes the son of Eutychides of the deme of Dekeleia,—a deme of which
 the inhabitants formerly did a deed that was of service to them for all
 time, as the Athenians themselves report. For when of old the sons of
@@ -12867,7 +14307,9 @@ after these events arose between the Athenians and the Peloponnesians,
 when the Lacedemonians laid waste all the rest of Attica, they abstained
 from injury to Dekeleia..
 
-74. To this deme belonged Sophanes, who showed himself the best of all
+## Chapter 74
+
+To this deme belonged Sophanes, who showed himself the best of all
 the Athenians in this battle; and of him there are two different stories
 told: one that he carried an anchor of iron bound by chains of bronze
 to the belt of his corslet; and this he threw whensoever he came up with
@@ -12880,7 +14322,9 @@ above, is reported as follows, namely that upon his shield, which was
 ever moving about and never remaining still, he bore an anchor as a
 device, and not one of iron bound to his corslet.
 
-75. There was another illustrious deed done too by Sophanes; for when
+## Chapter 75
+
+There was another illustrious deed done too by Sophanes; for when
 the Athenians besieged Egina he challenged to a fight and slew Eurybates
 the Argive, 85 one who had been victor in the five contests 86 at the
 games. To Sophanes himself it happened after these events that when he
@@ -12888,7 +14332,9 @@ was general of the Athenians together with Leagros the son of Glaucon,
 he was slain after proving himself a good man by the Edonians at Daton,
 fighting for the gold mines.
 
-76. When the Barbarians had been laid low by the Hellenes at Plataia,
+## Chapter 76
+
+When the Barbarians had been laid low by the Hellenes at Plataia,
 there approached to these a woman, the concubine of Pharandates the son
 of Teaspis a Persian, coming over of her own free will from the enemy,
 who when she perceived that the Persians had been destroyed and that the
@@ -12912,7 +14358,9 @@ other of the men who dwell in those parts." Having thus spoken, for
 that time her gave her in charge to those Ephors who were present, and
 afterwards he sent her away to Egina, whither she herself desired to go.
 
-77. After the arrival of the woman, forthwith upon this arrived the
+## Chapter 77
+
+After the arrival of the woman, forthwith upon this arrived the
 Mantineians, when all was over; and having learnt that they had come
 too late for the battle, they were greatly grieved, and said that
 they deserved to be punished: and being informed that the Medes with
@@ -12924,7 +14372,9 @@ came the Eleians; and they, like the Mantineians, were greatly grieved
 by it and so departed home; and these also when they had returned sent
 their leaders into exile. So much of the Mantineians and Eleians.
 
-78. At Plataia among the troops of the Eginetans was Lampon the son of
+## Chapter 78
+
+At Plataia among the troops of the Eginetans was Lampon the son of
 Pytheas, one of the leading men of the Eginetans, who was moved to go to
 Pausanias with a most impious proposal, and when he had come with haste,
 he said as follows: "Son of Cleombrotos, a deed has been done by
@@ -12941,7 +14391,9 @@ from all the Spartans and then secondly from the other Hellenes also;
 for if thou impale the body of Mardonios, thou wilt then have taken
 vengeance for Leonidas thy father's brother.".
 
-79. He said this thinking to give pleasure; but the other made him
+## Chapter 79
+
+He said this thinking to give pleasure; but the other made him
 answer in these words: "Stranger of Egina, I admire thy friendly spirit
 and thy forethought for me, but thou hast failed of a good opinion
 nevertheless: for having exalted me on high and my family and my deed,
@@ -12960,7 +14412,9 @@ Thermopylai. As for thee however, come not again to me with such a
 proposal, nor give me such advice; and be thankful moreover that thou
 hast no punishment for it now."
 
-80. He having heard this went his way; and Pausanias made a proclamation
+## Chapter 80
+
+He having heard this went his way; and Pausanias made a proclamation
 that none should lay hands upon the spoil, and he ordered the Helots to
 collect the things together. They accordingly dispersed themselves
 about the camp and found tents furnished with gold and silver, and beds
@@ -12975,7 +14429,9 @@ also they delivered up, as many of them as they could not conceal; so
 that the great wealth of the Eginetans first came from this, that they
 bought the gold from the Helots making pretence that it was brass..
 
-81. Then having brought the things together, and having set apart a
+## Chapter 81
+
+Then having brought the things together, and having set apart a
 tithe for the god of Delphi, with which the offering was dedicated of
 the golden tripod which rests upon the three-headed serpent of bronze
 and stands close by the altar, and also 90 for the god at Olympia, with
@@ -12991,7 +14447,9 @@ gifts were made to these also; Pausanias however had ten of each thing
 set apart and given to him, that is women, horses, talents, camels, and
 so also of the other things.
 
-82. It is said moreover that this was done which here follows, namely
+## Chapter 82
+
+It is said moreover that this was done which here follows, namely
 that Xerxes in his flight from Hellas had left to Mardonios the
 furniture of his own tent, and Pausanias accordingly seeing the
 furniture of Mardonios furnished 91 with gold and silver and hangings of
@@ -13011,7 +14469,9 @@ this, came to us who have such sorry fare as ye see here, in order
 to take it away from us." Thus it is said that Pausanias spoke to the
 commanders of the Hellenes.
 
-83. However, 92 in later time after these events many of the Plataians
+## Chapter 83
+
+However, 92 in later time after these events many of the Plataians
 also found chests of gold and of silver and of other treasures; and
 moreover afterwards this which follows was seen in the case of the dead
 bodies here, after the flesh had been stripped off from the bones; for
@@ -13022,7 +14482,9 @@ had teeth joined together and all of one bone, both the teeth that bite
 and those that grind; and the bones were seen also of a man five cubits
 high..
 
-84. The body of Mardonios however had disappeared 93 on the day after
+## Chapter 84
+
+The body of Mardonios however had disappeared 93 on the day after
 the battle, taken by whom I am not able with certainty to say, but I
 have heard the names of many men of various cities who are said to have
 buried Mardonios, and I know that many received gifts from Artontes the
@@ -13031,7 +14493,9 @@ and buried the body of Mardonios I am not able for certain to discover,
 but Dionysophanes an Ephesian is reported with some show of reason to
 have been he who buried Mardonios..
 
-85. He then was buried in some such manner as this: and the Hellenes
+## Chapter 85
+
+He then was buried in some such manner as this: and the Hellenes
 when they had divided the spoil at Plataia proceeded to bury their dead,
 each nation apart by themselves. The Spartans made for themselves three
 several burial-places, one in which they buried the younger Spartans,
@@ -13051,7 +14515,9 @@ at the request of the Eginetans by Cleades the son of Autodicos, a man
 of Plataia who was their public guest-friend, 95 no less than ten years
 after these events.
 
-86. When the Hellenes had buried their dead at Plataia, forthwith they
+## Chapter 86
+
+When the Hellenes had buried their dead at Plataia, forthwith they
 determined in common council to march upon Thebes and to ask the Thebans
 to surrender those who had taken the side of the Medes, and among the
 first of them Timagenides and Attaginos, who were leaders equal to the
@@ -13062,7 +14528,9 @@ besiege the Thebans, bidding them give the men up: and as the Thebans
 refused to give them up, they began to lay waste their land and also to
 attack their wall..
 
-87. So then, as they did not cease their ravages, on the twentieth day
+## Chapter 87
+
+So then, as they did not cease their ravages, on the twentieth day
 Timagenides spoke as follows to the Thebans: "Thebans, since it has been
 resolved by the Hellenes not to retire from the siege until either they
 have taken Thebes or ye have delivered us up to them, now therefore let
@@ -13076,7 +14544,9 @@ this it was thought that he spoke very well and seasonably, and the
 Thebans forthwith sent a herald to Pausanias offering to deliver up the
 men..
 
-88. After they had made an agreement on these terms, Attaginos escaped
+## Chapter 88
+
+After they had made an agreement on these terms, Attaginos escaped
 out of the city; and when his sons were delivered up to Pausanias, he
 released them from the charge, saying that the sons had no share in
 the guilt of taking the side of the Medes. As to the other men whom the
@@ -13087,7 +14557,9 @@ thing, first dismissed the whole army of allies, and then took the men
 to Corinth and put them to death there. These were the things which
 happened at Plataia and at Thebes.
 
-89. Artabazos meanwhile, the son of Pharnakes, in his flight
+## Chapter 89
+
+Artabazos meanwhile, the son of Pharnakes, in his flight
 from Plataia was by this time getting forward on his way: and the
 Thessalians, when he came to them, offered him hospitality and inquired
 concerning the rest of the army, not knowing anything of that which had
@@ -13111,7 +14583,9 @@ on the way or had been overcome by hunger and fatigue; 100 and from
 Byzantion he passed over in ships. He himself 101 then thus made his
 return back to Asia.
 
-90. Now on the same day on which the defeat took place at Plataia,
+## Chapter 90
+
+Now on the same day on which the defeat took place at Plataia,
 another took place also, as fortune would have it, at Mycale in Ionia.
 For when the Hellenes who had come in the ships with Leotychides the
 Lacedemonian, were lying at Delos, there came to them as envoys
@@ -13132,7 +14606,9 @@ the enemy sailed badly and were no match for them in fight. Moreover if
 the Hellenes suspected that they were endeavouring to bring them on by
 fraud, they were ready to be taken as hostages in their ships..
 
-91. Then as the stranger of Samos was urgent in his prayer, Leotychides
+## Chapter 91
+
+Then as the stranger of Samos was urgent in his prayer, Leotychides
 inquired thus, either desiring to hear for the sake of the omen or
 perhaps by a chance which Providence brought about: "Stranger of Samos,
 what is thy name?" He said "Hegesistratos." 102 The other cut short the
@@ -13142,7 +14618,9 @@ of Samos. Do thou on thy part see that thou give us assurance, thou and
 the men who are with thee, that the Samians will without fail be our
 zealous allies, and after that sail away home.".
 
-92. Thus he spoke and to the words he added the deed; for forthwith the
+## Chapter 92
+
+Thus he spoke and to the words he added the deed; for forthwith the
 Samians gave assurance and made oaths of alliance with the Hellenes, and
 having so done the others sailed away home, but Hegesistratos he bade
 sail with the Hellenes, considering the name to be an augury of good
@@ -13151,7 +14629,9 @@ for success on the next day, their diviner being Deïphonos the son of
 Euenios an Apolloniate, of that Apollonia which lies in the Ionian gulf.
 10201.
 
-93. To this man's father Euenios it happened as follows:—There are at
+## Chapter 93
+
+To this man's father Euenios it happened as follows:—There are at
 this place Apollonia sheep sacred to the Sun, which during the day feed
 by a river 103 running from Mount Lacmon through the land of Apollonia
 to the sea by the haven of Oricos; and by night they are watched by
@@ -13181,7 +14661,9 @@ should choose and deem sufficient; and this being fulfilled, the gods
 would give to Euenios a gift of such a kind that many men would think
 him happy in that he possessed it..
 
-94. These oracles then were uttered to them, and the people of
+## Chapter 94
+
+These oracles then were uttered to them, and the people of
 Apollonia, making a secret of it, proposed to certain men of the
 citizens to manage the affair; and they managed it for them thus:—when
 Euenios was sitting on a seat in public, they came and sat by him, and
@@ -13204,13 +14686,17 @@ deceived; and they bought the property from those who possessed it and
 gave him that which he had chosen. And forthwith after this he had a
 natural gift of divination, 105 so that he became very famous..
 
-95. Of this Euenios, I say, Deïphonos was the son, and he was acting
+## Chapter 95
+
+Of this Euenios, I say, Deïphonos was the son, and he was acting
 as diviner for the army, being brought by the Corinthians. I have heard
 however also that Deïphonos wrongly made use of the name of Euenios, and
 undertook work of this kind about Hellas, not being really the son of
 Euenios.
 
-96. Now when the sacrifices were favourable to the Hellenes, they put
+## Chapter 96
+
+Now when the sacrifices were favourable to the Hellenes, they put
 their ships to sea from Delos to go to Samos; and having arrived off
 Calamisa 106 in Samos, they moored their ships there opposite the temple
 of Hera which is at this place, and made preparations for a sea-fight;
@@ -13229,7 +14715,9 @@ refuge under the protection of this army, and to draw up their ships
 on shore and put an enclosure round as a protection for the ships and a
 refuge for themselves..
 
-97. Having thus determined they began to put out to sea; and they came
+## Chapter 97
+
+Having thus determined they began to put out to sea; and they came
 along by the temple of the "Revered goddesses" 10701 to the Gaison
 and to Scolopoeis in Mycale, where there is a temple of the Eleusinian
 Demeter, which Philistos the son of Pasicles erected when he had
@@ -13240,7 +14728,9 @@ they fixed stakes round the enclosure and made their preparations
 either for being besieged or for gaining a victory, for in making their
 preparations they reckoned for both chances.
 
-98. The Hellenes however, when they were informed that the Barbarians
+## Chapter 98
+
+The Hellenes however, when they were informed that the Barbarians
 had gone away to the mainland, were vexed because they thought that they
 had escaped; and they were in a difficulty what they should do, whether
 they should go back home, or sail down towards the Hellespont. At last
@@ -13263,7 +14753,9 @@ knowledge of the Barbarians and persuade the Ionians, or that they
 should be reported to the Barbarians and make them distrustful of the
 Hellenes. 108
 
-99. After Leotychides had thus suggested, then next the Hellenes
+## Chapter 99
+
+After Leotychides had thus suggested, then next the Hellenes
 proceeded to bring their ships up to land, and they disembarked upon the
 shore. These then were ranging themselves for fight; and the Persians,
 when they saw the Hellenes preparing for battle and also that they
@@ -13283,7 +14775,9 @@ they found the occasion, the Persians sought to secure themselves in
 the manner mentioned; and they themselves then brought together their
 wicker-work shields to serve them as a fence.
 
-100. Then when the Hellenes had made all their preparations, they
+## Chapter 100
+
+Then when the Hellenes had made all their preparations, they
 proceeded to the attack of the Barbarians; and as they went, a rumour
 came suddenly 110 to their whole army, and at the same time a herald's
 staff was found lying upon the beach; and the rumour went through their
@@ -13295,7 +14789,9 @@ take place at Mycale happened to be the same, a rumour came to the
 Hellenes here, so that the army was encouraged much more and was more
 eagerly desirous to face the danger..
 
-101. Moreover this other thing by coincidence happened besides, namely
+## Chapter 101
+
+Moreover this other thing by coincidence happened besides, namely
 that there was a sacred enclosure of the Eleusinian Demeter close by the
 side of both the battle-fields; for not only in the Plataian land did
 the fight take place close by the side of the temple of Demeter, as
@@ -13314,7 +14810,9 @@ than before. The Hellenes then and the Barbarians were going with
 eagerness into the battle, since both the islands and the Hellespont
 were placed before them as prizes of the contest.
 
-102. Now for the Athenians and those who were ranged next to them,
+## Chapter 102
+
+Now for the Athenians and those who were ranged next to them,
 to the number perhaps of half the whole army, the road lay along the
 sea-beach and over level ground, while the Lacedemonians and those
 ranged in order by these were compelled to go by a ravine and along the
@@ -13341,7 +14839,9 @@ two made their escape and two were slain; Artaÿntes and Ithamitres
 commanders of the fleet escaped, while Mardontes and the commander of
 the land-army, Tigranes, were slain..
 
-103. Now while the Persians were still fighting, the Lacedemonians and
+## Chapter 103
+
+Now while the Persians were still fighting, the Lacedemonians and
 those with them arrived, and joined in carrying through the rest of the
 work; and of the Hellenes themselves many fell there and especially many
 of the Sikyonians, together with their commander Perilaos. And those of
@@ -13352,7 +14852,9 @@ endeavouring to give assistance to the Hellenes; and the other Ionians
 seeing that the Samians had set the example, themselves also upon that
 made revolt from the Persians and attacked the Barbarians..
 
-104. The Milesians too had been appointed to watch the passes of the
+## Chapter 104
+
+The Milesians too had been appointed to watch the passes of the
 Persians 112 in order to secure their safety, so that if that should
 after all come upon them which actually came, they might have guides
 and so get safe away to the summits of Mycale,—the Milesians, I say, had
@@ -13364,7 +14866,9 @@ right paths, by paths indeed which led towards the enemy, but also at
 last they themselves became their worst foes and began to slay them.
 Thus then for the second time Ionia revolted from the Persians.
 
-105. In this battle, of the Hellenes the Athenians were the best men,
+## Chapter 105
+
+In this battle, of the Hellenes the Athenians were the best men,
 and of the Athenians Hermolycos the son of Euthoinos, a man who had
 trained for the pancration. This Hermolycos after these events, when
 there was war between the Athenians and the Carystians, was killed in
@@ -13372,7 +14876,9 @@ battle at Kyrnos in the Carystian land near Geraistos, and there was
 buried. After the Athenians the Corinthians, Troizenians and Sikyonians
 were the best.
 
-106. When the Hellenes had slain the greater number of the Barbarians,
+## Chapter 106
+
+When the Hellenes had slain the greater number of the Barbarians,
 some in the battle and others in their flight, they set fire to the
 ships and to the whole of the wall, having first brought out the spoil
 to the sea-shore; and among the rest they found some stores of money. So
@@ -13400,7 +14906,9 @@ supposed they would find them still stretched over the straits.
 
 These then were sailing towards the Hellespont;.
 
-107, and meanwhile those Barbarians who had escaped and had been driven
+## Chapter 107
+
+and meanwhile those Barbarians who had escaped and had been driven
 to the heights of Mycale, being not many in number, were making their
 way to Sardis: and as they went by the way, Masistes the son of Dareios,
 who had been present at the disaster which had befallen them, was saying
@@ -13424,7 +14932,9 @@ Now at Sardis, as it chanced, king Xerxes had been staying ever since
 that time when he came thither in flight from Athens, after suffering
 defeat in the sea-fight..
 
-108. At that time, while he was in Sardis, he had a passionate desire,
+## Chapter 108
+
+At that time, while he was in Sardis, he had a passionate desire,
 as it seems, for the wife of Masistes, who was also there: and as she
 could not be bent to his will by his messages to her, and he did not
 wish to employ force because he had regard for his brother Masistes and
@@ -13440,7 +14950,9 @@ changing his inclination he conceived a desire for the wife of Dareios,
 who was daughter of Masistes, and obtained her: now the name of this
 woman was Artaÿnte..
 
-109. However as time went on, this became known in the following
+## Chapter 109
+
+However as time went on, this became known in the following
 manner:—Amestris the wife of Xerxes had woven a mantle, large and of
 various work and a sight worthy to be seen, and this she gave to Xerxes.
 He then being greatly pleased put it on and went to Artaÿnte; and being
@@ -13461,7 +14973,9 @@ Persian gift. Since however he did not persuade her, he gave her the
 mantle; and she being overjoyed by the gift wore it and prided herself
 upon it..
 
-110. And Amestris was informed that she had it; and having learnt that
+## Chapter 110
+
+And Amestris was informed that she had it; and having learnt that
 which was being done, she was not angry with the woman, but supposing
 that her mother was the cause and that she was bringing this about, she
 planned destruction for the wife of Masistes. She waited then until her
@@ -13476,7 +14990,9 @@ to deliver over to her his brother's wife, especially since she was
 innocent of this matter; for he understood why she was making the
 request..
 
-111. At last however as she continued to entreat urgently and he was
+## Chapter 111
+
+At last however as she continued to entreat urgently and he was
 compelled by the rule, namely that it is impossible among them that he
 who makes request when a royal feast is laid before the king should
 fail to obtain it, at last very much against his will consented; and in
@@ -13506,13 +15022,17 @@ which is offered thee." He then when he heard this went out, having
 first said these words: "Master, thou hast not surely brought ruin upon
 me?" 115.
 
-112. During this interval of time, while Xerxes was conversing with his
+## Chapter 112
+
+During this interval of time, while Xerxes was conversing with his
 brother, Amestris had sent the spearmen of Xerxes to bring the wife of
 Masistes, and she was doing to her shameful outrage; for she cut away
 her breasts and threw them to dogs, and she cut off her nose and ears
 and lips and tongue, and sent her back home thus outraged.
 
-113. Then Masistes, not yet having heard any of these things, but
+## Chapter 113
+
+Then Masistes, not yet having heard any of these things, but
 supposing that some evil had fallen upon him, came running to his house;
 and seeing his wife thus mutilated, forthwith upon this he took counsel
 with his sons and set forth to go to Bactria together with his sons
@@ -13526,7 +15046,9 @@ he was on his way, and slew both him and his sons and his army. So far
 of that which happened about the passion of Xerxes and the death of
 Masistes.
 
-114. Now the Hellenes who had set forth from Mycale to the Hellespont
+## Chapter 114
+
+Now the Hellenes who had set forth from Mycale to the Hellespont
 first moored their ships about Lecton, being stopped from their voyage
 by winds; and thence they came to Abydos and found that the bridges had
 been broken up, which they thought to find still stretched across, and
@@ -13537,7 +15059,9 @@ there and to make an attempt upon the Chersonese. Those then sailed
 away, and the Athenians passed over from Abydos to the Chersonese and
 began to besiege Sestos..
 
-115. To this town of Sestos, since it was the greatest stronghold of
+## Chapter 115
+
+To this town of Sestos, since it was the greatest stronghold of
 those in that region, men had come together from the cities which
 lay round it, when they heard that the Hellenes had arrived at the
 Hellespont, and especially there had come from the city of Cardia
@@ -13546,7 +15070,9 @@ The inhabitants of the city were Aiolians, natives of the country, but
 there were living with them a great number of Persians and also of their
 allies..
 
-116. And of the province Artaÿctes was despot, as governor under Xerxes,
+## Chapter 116
+
+And of the province Artaÿctes was despot, as governor under Xerxes,
 a Persian, but a man of desperate and reckless character, who also had
 practised deception upon the king on his march against Athens, in
 taking away from Elaius the things belonging to Protesilaos the son
@@ -13571,14 +15097,18 @@ And now he was being besieged by the Athenians, when he had not made any
 preparation for a siege nor had been expecting that the Hellenes would
 come; for they fell upon him, as one may say, inevitably. 117.
 
-117. When however autumn came and the siege still went on, the Athenians
+## Chapter 117
+
+When however autumn came and the siege still went on, the Athenians
 began to be vexed at being absent from their own land and at the
 same time not able to conquer the fortress, and they requested their
 commanders to lead them away home; but these said that they would not do
 so, until either they had taken the town or the public authority of the
 Athenians sent for them home: and so they endured their present state.
 
-118. Those however who were within the walls had now come to the
+## Chapter 118
+
+Those however who were within the walls had now come to the
 greatest misery, so that they boiled down the girths of their beds and
 used them for food; and when they no longer had even these, then the
 Persians and with them Artaÿctes and Oiobazos ran away and departed in
@@ -13588,7 +15118,9 @@ Chersonese signified to the Athenians from the towers concerning that
 which had happened, and opened the gates to them. So the greater number
 of them went in pursuit, and the rest occupied the city..
 
-119. Now Oiobazos, as he was escaping 119 into Thrace, was caught by the
+## Chapter 119
+
+Now Oiobazos, as he was escaping 119 into Thrace, was caught by the
 Apsinthian Thracians and sacrificed to their native god Pleistoros with
 their rites, and the rest who were with him they slaughtered in another
 manner: but Artaÿctes with his companions, who started on their flight
@@ -13598,7 +15130,9 @@ killed and others taken alive: and the Hellenes had bound these and were
 bringing them to Sestos, and among them Artaÿctes also in bonds together
 with his son..
 
-120. Then, it is said by the men of the Chersonese, as one of those who
+## Chapter 120
+
+Then, it is said by the men of the Chersonese, as one of those who
 guarded them was frying dried fish, a portent occurred as follows,—the
 dried fish when laid upon the fire began to leap and struggle just as
 if they were fish newly caught: and the others gathered round and were
@@ -13621,12 +15155,16 @@ the hill which is over the town of Madytos, and there they nailed him to
 boards 122 and hung him up; and they stoned his son to death before the
 eyes of Artaÿctes himself..
 
-121. Having so done, they sailed away to Hellas, taking with them,
+## Chapter 121
+
+Having so done, they sailed away to Hellas, taking with them,
 besides other things, the ropes also of the bridges, in order to
 dedicate them as offerings in the temples: and for that year nothing
 happened further than this.
 
-122. Now a forefather of this Artaÿctes who was hung up, was that
+## Chapter 122
+
+Now a forefather of this Artaÿctes who was hung up, was that
 Artembares who set forth to the Persians a proposal which they took up
 and brought before Cyrus, being to this effect: "Seeing that Zeus
 grants to the Persians leadership, and of all men to thee, O Cyrus, by

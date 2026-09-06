@@ -18,42 +18,6 @@ tags:
 
 ---
 
-       *       *       *       *       *
-
-## Caesar's Commentaries
-
-## Thomas De Quincey
-
-THIS IS NO. 702 OF _EVERYMAN'S LIBRARY_. THE PUBLISHERS WILL BE PLEASED
-TO SEND FREELY TO ALL APPLICANTS A LIST OF THE PUBLISHED AND PROJECTED
-VOLUMES ARRANGED UNDER THE FOLLOWING SECTIONS:
-
-       *       *       *       *       *
-
-## Theology & Philosophy
-
-## History--Classical
-
-## For Young People
-
-## Essays--Oratory
-
-## Poetry & Drama
-
-## Reference
-
-       *       *       *       *       *
-
-THE ORDINARY EDITION IS BOUND IN CLOTH WITH GILT DESIGN AND COLOURED
-TOP. THERE IS ALSO A LIBRARY EDITION IN REINFORCED CLOTH
-
-## The Sages of Old Live Again in Us
-
-## Glanvill
-
-"DE BELLO GALLICO" & OTHER COMMENTARIES:
-OF CAIUS JULIUS CAESAR
-
 ## Introduction
 
 ## By Thomas De Quincey
@@ -615,7 +579,9 @@ CAIUS JULIUS CAESAR
 
 ## Book I
 
-I.--All Gaul is divided into three parts, one of which the Belgae
+## Chapter I
+
+All Gaul is divided into three parts, one of which the Belgae
 inhabit, the Aquitani another, those who in their own language are
 called Celts, in ours Gauls, the third. All these differ from each other
 in language, customs and laws. The river Garonne separates the Gauls
@@ -639,7 +605,9 @@ the river Garonne to the Pyrenaean mountains and to that part of the
 ocean which is near Spain: it looks between the setting of the sun and
 the north star.
 
-II.--Among the Helvetii, Orgetorix was by far the most distinguished and
+## Chapter II
+
+Among the Helvetii, Orgetorix was by far the most distinguished and
 wealthy. He, when Marcus Messala and Marcus Piso were consuls, incited
 by lust of sovereignty, formed a conspiracy among the nobility, and
 persuaded the people to go forth from their territories with all their
@@ -658,7 +626,9 @@ regret. They thought, that considering the extent of their population,
 and their renown for warfare and bravery, they had but narrow limits,
 although they extended in length 240, and in breadth 180 [Roman] miles.
 
-III.--Induced by these considerations, and influenced by the authority
+## Chapter III
+
+Induced by these considerations, and influenced by the authority
 of Orgetorix, they determined to provide such things as were necessary
 for their expedition--to buy up as great a number as possible of beasts
 of burden and waggons--to make their sowings as large as possible, so
@@ -685,7 +655,9 @@ oath to one another, and hope that, when they have seized the
 sovereignty, they will, by means of the three most powerful and valiant
 nations, be enabled to obtain possession of the whole of Gaul.
 
-IV.--When this scheme was disclosed to the Helvetii by informers, they,
+## Chapter IV
+
+When this scheme was disclosed to the Helvetii by informers, they,
 according to their custom, compelled Orgetorix to plead his cause in
 chains; it was the law that the penalty of being burned by fire should
 await him if condemned. On the day appointed for the pleading of his
@@ -699,7 +671,9 @@ mustering a large body of men from the country, Orgetorix died; and
 there is not wanting a suspicion, as the Helvetii think, of his having
 committed suicide.
 
-V.--After his death, the Helvetii nevertheless attempt to do that which
+## Chapter V
+
+After his death, the Helvetii nevertheless attempt to do that which
 they had resolved on, namely, to go forth from their territories. When
 they thought that they were at length prepared for this undertaking,
 they set fire to all their towns, in number about twelve--to their
@@ -715,7 +689,9 @@ unite to themselves as confederates the Boii, who had dwelt on the other
 side of the Rhine, and had crossed over into the Norican territory, and
 assaulted Noreia.
 
-VI.--There were in all two routes by which they could go forth from
+## Chapter VI
+
+There were in all two routes by which they could go forth from
 their country--one through the Sequani, narrow and difficult, between
 Mount Jura and the river Rhone (by which scarcely one waggon at a time
 could be led; there was, moreover, a very high mountain overhanging, so
@@ -733,7 +709,9 @@ which they should all meet on the bank of the Rhone. This day was the
 fifth before the kalends of April [_i.e._ the 28th of March], in the
 consulship of Lucius Piso and Aulus Gabinius [B.C. 58].
 
-VII.--When it was reported to Caesar that they were attempting to make
+## Chapter VII
+
+When it was reported to Caesar that they were attempting to make
 their route through our Province, he hastens to set out from the city,
 and, by as great marches as he can, proceeds to Further Gaul, and
 arrives at Geneva. He orders the whole Province [to furnish] as great a
@@ -756,7 +734,9 @@ replied to the ambassadors, that he would take time to deliberate; if
 they wanted anything, they might return on the day before the ides of
 April [on April 12th].
 
-VIII.--Meanwhile, with the legion which he had with him and the soldiers
+## Chapter VIII
+
+Meanwhile, with the legion which he had with him and the soldiers
 who had assembled from the Province, he carries along for nineteen
 [Roman, not quite eighteen English] miles a wall, to the height of
 sixteen feet, and a trench, from the lake of Geneva, which flows into
@@ -776,7 +756,9 @@ river was least, sometimes by day, but more frequently by night), but
 being kept at bay by the strength of our works, and by the concourse of
 the soldiers, and by the missiles, they desisted from this attempt.
 
-IX.--There was left one way, [namely] through the Sequani, by which, on
+## Chapter IX
+
+There was left one way, [namely] through the Sequani, by which, on
 account of its narrowness, they could not pass without the consent of
 the Sequani. As they could not of themselves prevail on them, they send
 ambassadors to Dumnorix the Aeduan, that through his intercession they
@@ -791,7 +773,9 @@ their territories, and arranges that they should give hostages to each
 other--the Sequani not to obstruct the Helvetii in their march--the
 Helvetii, to pass without mischief and outrage.
 
-X.--It-is again told Caesar that the Helvetii intend to march through
+## Chapter X
+
+It-is again told Caesar that the Helvetii intend to march through
 the country of the Sequani and the Aedui into the territories of the
 Santones, which are not far distant from those boundaries of the
 Tolosates, which [viz. Tolosa, Toulouse] is a state in the Province. If
@@ -812,7 +796,9 @@ Province; thence he leads his army into the country of the Allobroges,
 and from the Allobroges to the Segusiani. These people are the first
 beyond the Province on the opposite side of the Rhone.
 
-XI.--The Helvetii had by this time led their forces over through the
+## Chapter XI
+
+The Helvetii had by this time led their forces over through the
 narrow defile and the territories of the Sequani, and had arrived at the
 territories of the Aedui, and were ravaging their lands. The Aedui, as
 they could not defend themselves and their possessions against them,
@@ -830,7 +816,9 @@ induced by these circumstances, decides that he ought not to wait until
 the Helvetii, after destroying all the property of his allies, should
 arrive among the Santones.
 
-XII.--There is a river [called] the Saone, which flows through the
+## Chapter XII
+
+There is a river [called] the Saone, which flows through the
 territories of the Aedui and Sequani into the Rhone with such incredible
 slowness, that it cannot be determined by the eye in which direction it
 flows. This the Helvetii were crossing by rafts and boats joined
@@ -854,7 +842,9 @@ slain Lucius Piso the lieutenant [of Cassius], the grandfather of Lucius
 Calpurnius Piso, his [Caesar's] father-in-law, in the same battle as
 Cassius himself.
 
-XIII.--This battle ended, that he might be able to come up with the
+## Chapter XIII
+
+This battle ended, that he might be able to come up with the
 remaining forces of the Helvetii, he procures a bridge to be made across
 the Saone, and thus leads his army over. The Helvetii, confused by his
 sudden arrival, when they found that he had effected in one day what
@@ -876,7 +866,9 @@ pass that the place, where they were standing, should acquire a name,
 from the disaster of the Roman people and the destruction of their army
 or transmit the remembrance [of such an event to posterity]."
 
-XIV.--To these words Caesar thus replied:--that "on that very account he
+## Chapter XIV
+
+To these words Caesar thus replied:--that "on that very account he
 felt less hesitation, because he kept in remembrance those circumstances
 which the Helvetian ambassadors had mentioned, and that he felt the more
 indignant at them, in proportion as they had happened undeservedly to
@@ -904,7 +896,9 @@ Allobroges, he [Caesar] will make peace with them." Divico replied, that
 accustomed to receive, not to give, hostages; of that fact the Roman
 people were witness." Having given this reply, he withdrew.
 
-XV.--On the following day they move their camp from that place; Caesar
+## Chapter XV
+
+On the following day they move their camp from that place; Caesar
 does the same, and sends forward all his cavalry, to the number of four
 thousand (which he had drawn together from all parts of the Province and
 from the Aedui and their allies), to observe towards what parts the
@@ -919,7 +913,9 @@ the enemy from rapine, forage, and depredation. They marched for about
 fifteen days in such a manner that there was not more than five or six
 miles between the enemy's rear and our van.
 
-XVI.--Meanwhile, Caesar kept daily importuning the Aedui for the corn
+## Chapter XVI
+
+Meanwhile, Caesar kept daily importuning the Aedui for the corn
 which they had promised in the name of their state; for, in consequence
 of the coldness (Gaul being, as before said, situated towards the
 north), not only was the corn in the fields not ripe, but there was not
@@ -941,7 +937,9 @@ as, in a great measure urged by their prayers, he had undertaken the
 war; much more bitterly, therefore, does he complain of his being
 forsaken.
 
-XVII.--Then at length Liscus, moved by Caesar's speech, discloses what
+## Chapter XVII
+
+Then at length Liscus, moved by Caesar's speech, discloses what
 he had hitherto kept secret:--that "there are some whose influence with
 the people is very great, who, though private men, have more power than
 the magistrates themselves: that these by seditious and violent language
@@ -957,7 +955,9 @@ though compelled by necessity, he had disclosed the matter to Caesar, at
 how great a risk he had done it; and for that reason, he had been silent
 as long as he could."
 
-XVIII.--Caesar perceived that, by this speech of Liscus, Dumnorix, the
+## Chapter XVIII
+
+Caesar perceived that, by this speech of Liscus, Dumnorix, the
 brother of Divitiacus, was indicated; but, as he was unwilling that
 these matters should be discussed while so many were present, he
 speedily dismisses the council, but detains Liscus: he inquires from him
@@ -992,7 +992,9 @@ flight had been made by Dumnorix and his cavalry (for Dumnorix was in
 command of the cavalry which the Aedui had sent for aid to Caesar); that
 by their flight the rest of the cavalry was dismayed.
 
-XIX.--After learning these circumstances, since to these suspicions the
+## Chapter XIX
+
+After learning these circumstances, since to these suspicions the
 most unequivocal facts were added, viz., that he had led the Helvetii
 through the territories of the Sequani; that he had provided that
 hostages should be mutually given; that he had done all these things,
@@ -1017,7 +1019,9 @@ presence; he begs and exhorts him, that, without offence to his
 feelings, he may either himself pass judgment on him [Dumnorix] after
 trying the case, or else order the [Aeduan] state to do so.
 
-XX.-Divitiacus, embracing Caesar, begins to implore him, with many
+## Chapter XX
+
+Divitiacus, embracing Caesar, begins to implore him, with many
 tears, that "he would not pass any very severe sentence upon his
 brother; saying, that he knows that those [charges] are true, and that
 nobody suffered more pain on that account than he himself did; for when
@@ -1043,7 +1047,9 @@ pardons the past, for the sake of his brother, Divitiacus. He sets spies
 over Dumnorix that he may be able to know what he does, and with whom he
 communicates.
 
-XXI.--Being on the same day informed by his scouts that the enemy had
+## Chapter XXI
+
+Being on the same day informed by his scouts that the enemy had
 encamped at the foot of a mountain eight miles from his own camp, he
 sent persons to ascertain what the nature of the mountain was, and of
 what kind the ascent on every side. Word was brought back that it was
@@ -1057,7 +1063,9 @@ experienced in military affairs, and had been in the army of Lucius
 Sulla, and afterwards in that of Marcus Crassus, is sent forward with
 the scouts.
 
-XXII.--At day-break, when the summit of the mountain was in the
+## Chapter XXII
+
+At day-break, when the summit of the mountain was in the
 possession of Titus Labienus, and he himself was not further off than a
 mile and half from the enemy's camp, nor, as he afterwards ascertained
 from the captives, had either his arrival or that of Labienus been
@@ -1077,7 +1085,9 @@ fear, had reported to him, as seen, that which he had not seen. On that
 day he follows the enemy at his usual distance, and pitches his camp
 three miles from theirs.
 
-XXIII.--The next day (as there remained in all only two days' space [to
+## Chapter XXIII
+
+The next day (as there remained in all only two days' space [to
 the time] when he must serve out the corn to his army, and as he was not
 more than eighteen miles from Bibracte, by far the largest and best-stored
 town of the Aedui) he thought that he ought to provide for a
@@ -1091,7 +1101,9 @@ battle; or because they flattered themselves that they might be cut off
 from the provisions, altering their plan and changing their route, began
 to pursue and to annoy our men in the rear.
 
-XXIV.--Caesar, when he observes this, draws off his forces to the next
+## Chapter XXIV
+
+Caesar, when he observes this, draws off his forces to the next
 hill, and sent the cavalry to sustain the attack of the enemy. He
 himself, meanwhile, drew up on the middle of the hill a triple line of
 his four veteran legions in such a manner that he placed above him on
@@ -1104,7 +1116,9 @@ all their waggons, collected their baggage into one place: they
 themselves, after having repulsed our cavalry and formed a phalanx,
 advanced up to our front line in very close order.
 
-XXV.--Caesar, having removed out of sight first his own horse, then
+## Chapter XXV
+
+Caesar, having removed out of sight first his own horse, then
 those of all, that he might make the danger of all equal, and do away
 with the hope of flight, after encouraging his men, joined battle. His
 soldiers, hurling their javelins from the higher ground, easily broke
@@ -1128,7 +1142,9 @@ having faced about, advanced to the attack in two divisions; the first
 and second line to withstand those who had been defeated and driven off
 the field; the third to receive those who were just arriving.
 
-XXVI.--Thus was the contest long and vigorously carried on with doubtful
+## Chapter XXVI
+
+Thus was the contest long and vigorously carried on with doubtful
 success. When they could no longer withstand the attacks of our men, the
 one division, as they had begun to do, betook themselves to the
 mountain; the other repaired to their baggage and waggons. For during
@@ -1153,7 +1169,9 @@ them, he would regard them in the same light as the Helvetii. After the
 three days' interval he began to follow them himself with all his
 forces.
 
-XXVII.--The Helvetii, compelled by the want of everything, sent
+## Chapter XXVII
+
+The Helvetii, compelled by the want of everything, sent
 ambassadors to him about a surrender. When these had met him in the way
 and had thrown themselves at his feet, and speaking in suppliant tone
 had with tears sued for peace, and [when] he had ordered them to await
@@ -1169,7 +1187,9 @@ _their_ flight might either be concealed or entirely overlooked, having
 at night-fall departed out of the camp of the Helvetii, hastened to the
 Rhine and the territories of the Germans.
 
-XXVIII.--But when Caesar discovered this, he commanded those through
+## Chapter XXVIII
+
+But when Caesar discovered this, he commanded those through
 whose territories they had gone, to seek them, out and to bring them
 back again, if they meant to be acquitted before him; and considered
 them, when brought back, in the light of enemies; he admitted all the
@@ -1191,7 +1211,9 @@ as these were known to be of distinguished valour to whom they gave
 lands, and whom they afterwards admitted to the same state of rights and
 freedom as themselves.
 
-XXIX.--In the camp of the Helvetii, lists were found, drawn up in Greek
+## Chapter XXIX
+
+In the camp of the Helvetii, lists were found, drawn up in Greek
 characters, and were brought to Caesar, in which an estimate had been
 drawn up, name by name, of the number which had gone forth from their
 country of those who were able to bear arms; and likewise the boys, the
@@ -1209,7 +1231,9 @@ Out of these, such as could bear arms [amounted] to about 92,000. When
 the _census_ of those who returned home was taken, as Caesar had
 commanded, the number was found to be 110,000.
 
-XXX.--When the war with the Helvetii was concluded, ambassadors from
+## Chapter XXX
+
+When the war with the Helvetii was concluded, ambassadors from
 almost all parts of Gaul, the chiefs of states, assembled to
 congratulate Caesar, [saying] that they were well aware, that, although
 he had taken vengeance on the Helvetii in war, for the old wrongs done
@@ -1229,7 +1253,9 @@ with each other, that no one should disclose [their deliberations]
 except those to whom this [office] should be assigned by the general
 assembly.
 
-XXXI.--When that assembly was dismissed, the same chiefs of states, who
+## Chapter XXXI
+
+When that assembly was dismissed, the same chiefs of states, who
 had before been to Caesar, returned, and asked that they might be
 allowed to treat with him privately (in secret) concerning the safety of
 themselves and of all. That request having been obtained, they all threw
@@ -1289,7 +1315,9 @@ the Roman people, intimidate him, so as to prevent a greater number of
 Germans being brought over the Rhine, and could protect all Gaul from
 the outrages of Ariovistus."
 
-XXXII.--When this speech had been delivered by Divitiacus, all who were
+## Chapter XXXII
+
+When this speech had been delivered by Divitiacus, all who were
 present began with loud lamentation to entreat assistance of Caesar.
 Caesar noticed that the Sequani were the only people of all who did none
 of those things which the others did, but, with their heads bowed down,
@@ -1306,7 +1334,9 @@ opportunity of flight given; but all tortures must be endured by the
 Sequani, who had admitted Ariovistus within their territories, and whose
 towns were all in his power."
 
-XXXIII.--Caesar, on being informed of these things, cheered the minds of
+## Chapter XXXIII
+
+Caesar, on being informed of these things, cheered the minds of
 the Gauls with his words, and promised that this affair should be an
 object of his concern, [saying] that he had great hopes that Ariovistus,
 induced both by his kindness and his power, would put an end to his
@@ -1330,7 +1360,9 @@ to provide as speedily as possible. Moreover, Ariovistus, for his part,
 had assumed to himself such pride and arrogance that he was felt to be
 quite insufferable.
 
-XXXIV.--He therefore determined to send ambassadors to Ariovistus to
+## Chapter XXXIV
+
+He therefore determined to send ambassadors to Ariovistus to
 demand of him to name some intermediate spot for a conference between
 the two, [saying] that he wished to treat with him on state-business and
 matters of the highest importance to both of them. To this embassy
@@ -1343,7 +1375,9 @@ to one place; that to him, moreover, it appeared strange what business
 either Caesar or the Roman people at all had in his own Gaul, which he
 had conquered in war.
 
-XXXV.--When these answers were reported to Caesar, he sends ambassadors
+## Chapter XXXV
+
+When these answers were reported to Caesar, he sends ambassadors
 to him a second time with this message "Since, after having been treated
 with so much kindness by himself and the Roman people (as he had in his
 consulship [B.C. 59] been styled 'king and friend' by the senate), he
@@ -1366,7 +1400,9 @@ consistently with the interests of the republic, protect the Aedui and
 the other friends of the Roman people) will not overlook the wrongs of
 the Aedui."
 
-XXXVI.--To this Ariovistus replied, that "the right of war was, that
+## Chapter XXXVI
+
+To this Ariovistus replied, that "the right of war was, that
 they who had conquered should govern those whom they had conquered, in
 what manner they pleased; that in that way the Roman people were wont to
 govern the nations which they had conquered, not according to the
@@ -1389,7 +1425,9 @@ what the invincible Germans, well-trained [as they were] beyond all
 others to arms, who for fourteen years had not been beneath a roof,
 could achieve by their valour."
 
-XXXVII.--At the same time that this message was delivered to Caesar,
+## Chapter XXXVII
+
+At the same time that this message was delivered to Caesar,
 ambassadors came from the Aedui and the Treviri; from the Aedui to
 complain that the Harudes, who had lately been brought over into Gaul,
 were ravaging their territories; that they had not been able to purchase
@@ -1403,7 +1441,9 @@ might be less easily withstood. Having, therefore, as quickly as he
 could, provided a supply of corn, he hastened to Ariovistus by forced
 marches.
 
-XXXVIII.--When he had proceeded three days' journey, word was brought to
+## Chapter XXXVIII
+
+When he had proceeded three days' journey, word was brought to
 him that Ariovistus was hastening with all his forces to seize on
 Vesontio, which is the largest town of the Sequani, and had advanced
 three days' journey from his territories. Caesar thought that he ought
@@ -1420,7 +1460,9 @@ on either side. A wall thrown around it makes a citadel of this
 forced marches by night and day, and, after having seized the town,
 stations a garrison there.
 
-XXXIX.--Whilst he is tarrying a few days at Vesontio, on account of corn
+## Chapter XXXIX
+
+Whilst he is tarrying a few days at Vesontio, on account of corn
 and provisions; from the inquiries of our men and the reports of the
 Gauls and traders (who asserted that the Germans were men of huge
 stature, of incredible valour and practice in arms, that ofttimes they,
@@ -1449,7 +1491,9 @@ gave orders for the camp to be moved and the troops to advance, the
 soldiers would not be obedient to the command, nor advance in
 consequence of their fear.
 
-XL.--When Caesar observed these things, having called a council, and
+## Chapter XL
+
+When Caesar observed these things, having called a council, and
 summoned to it the centurions of all the companies, he severely
 reprimanded them, "particularly for supposing that it belonged to them
 to inquire or conjecture, either in what direction they were marching,
@@ -1505,7 +1549,9 @@ tenth legion, of which he had no misgivings, and it should be his
 praetorian cohort."--This legion Caesar had both greatly favoured, and
 in it, on account of its valour, placed the greatest confidence.
 
-XLI.-Upon the delivery of this speech, the minds of all were changed in
+## Chapter XLI
+
+Upon the delivery of this speech, the minds of all were changed in
 a surprising, manner, and the highest ardour and eagerness for
 prosecuting the war were engendered; and the tenth legion was the first
 to return thanks to him, through their military tribunes, for his having
@@ -1523,7 +1569,9 @@ had said [he would]. On the seventh day, as he did not discontinue his
 march, he was informed by scouts that the forces of Ariovistus were only
 four and twenty miles distant from ours.
 
-XLII.--Upon being apprised of Caesar's arrival, Ariovistus sends
+## Chapter XLII
+
+Upon being apprised of Caesar's arrival, Ariovistus sends
 ambassadors to him, [saying] that what he had before requested as to a
 conference, might now, as far as his permission went, take place, since
 he [Caesar] had approached nearer, and he considered that he might now
@@ -1551,7 +1599,9 @@ for them than he had promised; he had promised to have the tenth legion
 in place of his praetorian cohort; but he now converted them into
 horse."
 
-XLIII.--There was a large plain, and in it a mound of earth of
+## Chapter XLIII
+
+There was a large plain, and in it a mound of earth of
 considerable size. This spot was at nearly an equal distance from both
 camps. Thither, as had been appointed, they came for the conference.
 Caesar stationed the legion, which he had brought [with him] on
@@ -1583,7 +1633,9 @@ the Aedui or their allies, that he should restore the hostages; that, if
 he could not send back to their country any part of the Germans, he
 should at all events suffer none of them any more to cross the Rhine.
 
-XLIV.--Ariovistus replied briefly to the demands of Caesar; but
+## Chapter XLIV
+
+Ariovistus replied briefly to the demands of Caesar; but
 expatiated largely on his own virtues, "that he had crossed the Rhine
 not of his own accord, but on being invited and sent for by the Gauls;
 that he had not left home and kindred without great expectations and
@@ -1629,7 +1681,9 @@ would depart and resign to him the free possession of Gaul, he would
 recompense him with a great reward, and would bring to a close whatever
 wars he wished to be carried on, without any trouble or risk to him."
 
-XLV.--Many things were stated by Caesar to the effect [to show]: "why he
+## Chapter XLV
+
+Many things were stated by Caesar to the effect [to show]: "why he
 could not waive the business, and that neither his nor the Roman
 people's practice would suffer him to abandon most meritorious allies,
 nor did he deem that Gaul belonged to Ariovistus rather than to the
@@ -1641,7 +1695,9 @@ of the Roman people in Gaul most just: if the decree of the senate was
 to be observed, then ought Gaul to be free, which they [the Romans] had
 conquered in war, and had permitted to enjoy its own laws."
 
-XLVI.--While these things are being transacted in the conference, it was
+## Chapter XLVI
+
+While these things are being transacted in the conference, it was
 announced to Caesar that the cavalry of Ariovistus were approaching
 nearer the mound, and were riding up to our men, and casting stones and
 weapons at them. Caesar made an end of his speech and betook himself to
@@ -1656,7 +1712,9 @@ ordered the Romans to quit Gaul, and how his cavalry had made an attack
 upon our men, and how this had broken off the conference, a much greater
 alacrity and eagerness for battle was infused into our army.
 
-XLVII.--Two days after, Ariovistus sends ambassadors to Caesar, to state
+## Chapter XLVII
+
+Two days after, Ariovistus sends ambassadors to Caesar, to state
 "that he wished to treat with him about those things which had been
 begun to be treated of between them, but had not been concluded"; [and
 to beg] that "he would either again appoint a day for a conference; or,
@@ -1680,7 +1738,9 @@ of his army, "Why were they come to him? was it for the purpose of
 acting as spies?" He stopped them when attempting to speak, and cast
 them into chains.
 
-XLVIII.--The same day he moved his camp forward and pitched under a hill
+## Chapter XLVIII
+
+The same day he moved his camp forward and pitched under a hill
 six miles from Caesar's camp. The day following he led his forces past
 Caesar's camp, and encamped two miles beyond him; with this design--that
 he might cut off Caesar from, the corn and provisions which might be
@@ -1700,7 +1760,9 @@ farther: than usual, or to retreat more rapidly, so great, from
 practice, was their swiftness, that, supported by the manes of the
 horses, they could keep pace with their speed.
 
-XLIX.--Perceiving that Ariovistus kept himself in camp, Caesar, that he
+## Chapter XLIX
+
+Perceiving that Ariovistus kept himself in camp, Caesar, that he
 might not any longer be cut off from provisions, chose a convenient
 position for a camp beyond that place in which the Germans had encamped,
 at about 600 paces from them, and having drawn up his army in three
@@ -1714,7 +1776,9 @@ two lines to drive off the enemy: the third to execute the work. The
 camp being fortified, he left there two legions and a portion of the
 auxiliaries; and led back the other four legions into the larger camp.
 
-L.--The next day, according to his custom, Caesar led out his forces
+## Chapter L
+
+The next day, according to his custom, Caesar led out his forces
 from both camps, and having advanced a little from the larger one, drew
 up his line of battle, and gave the enemy an opportunity of fighting.
 When he found that they did not even then come out [from their
@@ -1730,7 +1794,9 @@ battle should be engaged in or not; that they had said, "that it was not
 the will of heaven that the Germans should conquer, if they engaged in
 battle before the new moon."
 
-LI.--The day following, Caesar left what seemed sufficient as a guard
+## Chapter LI
+
+The day following, Caesar left what seemed sufficient as a guard
 for both camps; [and then] drew up all the auxiliaries in sight of the
 enemy, before the lesser camp, because he was not very powerful in the
 number of legionary soldiers, considering the number of the enemy; that
@@ -1744,7 +1810,9 @@ hope might be left in flight. On these they placed their women, who,
 with dishevelled hair and in tears, entreated the soldiers, as they went
 forward to battle, not to deliver them into slavery to the Romans.
 
-LII.--Caesar appointed over each legion a lieutenant and a questor, that
+## Chapter LII
+
+Caesar appointed over each legion a lieutenant and a questor, that
 every one might have them as witnesses of his valour. He himself began
 the battle at the head of the right wing, because he had observed that
 part of the enemy to be the least strong. Accordingly our men, upon the
@@ -1762,7 +1830,9 @@ Crassus, a young man, who commanded the cavalry--as he was more
 disengaged than those who were employed in the fight--sent the third
 line as a relief to our men who were in distress.
 
-LIII.--Thereupon the engagement was renewed, and all the enemy turned
+## Chapter LIII
+
+Thereupon the engagement was renewed, and all the enemy turned
 their backs, nor did they cease to flee until they arrived at the river
 Rhine, about fifty miles from that place. There some few, either relying
 on their strength, endeavoured to swim over, or, finding boats, procured
@@ -1786,7 +1856,9 @@ put to death by fire, or be reserved for another time: that by the
 favour of the lots he was uninjured. M. Mettius, also, was found and
 brought back to him [Caesar].
 
-LIV.--This battle having been reported beyond the Rhine, the Suevi, who
+## Chapter LIV
+
+This battle having been reported beyond the Rhine, the Suevi, who
 had come to the banks of that river, began to return home, when the
 Ubii, who dwelt nearest to the Rhine, pursuing them, while much alarmed,
 slew a great number of them. Caesar having concluded two very important
@@ -1797,7 +1869,9 @@ Hither Gaul to hold the assizes.
 
 ## Book II
 
-I.--While Caesar was in winter quarters in Hither Gaul, as we have shown
+## Chapter I
+
+While Caesar was in winter quarters in Hither Gaul, as we have shown
 above, frequent reports were brought to him, and he was also informed by
 letters from Labienus, that all the Belgae, who we have said are a third
 part of Gaul, were entering into a confederacy against the Roman people,
@@ -1814,7 +1888,9 @@ because the government in Gaul was generally seized upon by the more
 powerful persons and by those who had the means of hiring troops, and
 they could less easily effect this object under our dominion.
 
-II.--Alarmed by these tidings and letters, Caesar levied two new legions
+## Chapter II
+
+Alarmed by these tidings and letters, Caesar levied two new legions
 in Hither Gaul, and, at the beginning of summer, sent Q. Pedius, his
 lieutenant, to conduct them further into Gaul. He himself, as soon as
 there began to be plenty of forage, came to the army. He gives a
@@ -1826,7 +1902,9 @@ Then, indeed, he thought that he ought not to hesitate about proceeding
 towards them, and having provided supplies, moves his camp, and in about
 fifteen days arrives at the territories of the Belgae.
 
-III.--As he arrived there unexpectedly and sooner than any one
+## Chapter III
+
+As he arrived there unexpectedly and sooner than any one
 anticipated, the Remi, who are the nearest of the Belgae to [Celtic]
 Gaul, sent to him Iccius and Antebrogius, [two of] the principal persons
 of the state, as their ambassadors: to tell him that they surrendered
@@ -1842,7 +1920,9 @@ Suessiones, their own brethren and kinsmen, who enjoy the same rights,
 and the same laws, and who have one government and one magistracy [in
 common] with themselves, from uniting with them.
 
-IV.--When Caesar inquired of them what states were in arms, how powerful
+## Chapter IV
+
+When Caesar inquired of them what states were in arms, how powerful
 they were, and what they could do in war, he received the following
 information: that the greater part of the Belgae were sprung from the
 Germans, and that having crossed the Rhine at an early period, they had
@@ -1875,7 +1955,9 @@ Aduatuci, 19,000; that the Condrusi, the Eburones, the Caeraesi, the
 Paemani, who are called by the common name of Germans, [had promised],
 they thought, to the number of 40,000.
 
-V.--Caesar, having encouraged the Remi, and addressed them courteously,
+## Chapter V
+
+Caesar, having encouraged the Remi, and addressed them courteously,
 ordered the whole senate to assemble before him, and the children of
 their chief men to be brought to him as hostages; all which commands
 they punctually performed by the day [appointed]. He, addressing himself
@@ -1899,7 +1981,9 @@ the other side of the river he leaves Q. Titurus Sabinus, his
 lieutenant, with six cohorts. He orders him to fortify a camp with a
 rampart twelve feet in height, and a trench eighteen feet in breadth.
 
-VI.--There was a town of the Remi, by name Bibrax, eight miles distant
+## Chapter VI
+
+There was a town of the Remi, by name Bibrax, eight miles distant
 from this camp. This the Belgae on their march began to attack with
 great vigour. [The assault] was with difficulty sustained for that day.
 The Gauls' mode of besieging is the same as that of the Belgae: when
@@ -1916,7 +2000,9 @@ ambassador [to sue] for a peace, sends messengers to him, [to report]
 "That, unless assistance were sent to him, he could not hold out any
 longer."
 
-VII.--Thither immediately after midnight, Caesar, using as guides the
+## Chapter VII
+
+Thither immediately after midnight, Caesar, using as guides the
 same persons who had come to him as messengers from Iccius, sends some
 Numidian and Cretan archers, and some Balearian slingers as a relief to
 the townspeople, by whose arrival both a desire to resist together with
@@ -1929,7 +2015,9 @@ the camp of Caesar, and encamped within less than two miles [of it]; and
 their camp, as was indicated by the smoke and fires, extended more than
 eight miles in breadth.
 
-VIII.--Caesar at first determined to decline a battle, as well on
+## Chapter VIII
+
+Caesar at first determined to decline a battle, as well on
 account of the great number of the enemy as their distinguished
 reputation for valour: daily, however, in cavalry actions, he strove to
 ascertain by frequent trials what the enemy could effect by their
@@ -1950,7 +2038,9 @@ might be brought as a reserve, he formed the other six legions in order
 of battle before the camp. The enemy, likewise, had drawn up their
 forces which they had brought out of the camp.
 
-IX.--There was a marsh of no great extent between our army and that of
+## Chapter IX
+
+There was a marsh of no great extent between our army and that of
 the enemy. The latter were waiting to see if our men would pass this;
 our men, also, were ready in arms to attack them while disordered, if
 the first attempt to pass should be made by them. In the meantime battle
@@ -1966,7 +2056,9 @@ but, if they could not do that, they should lay waste the lands of the
 Remi, which were of great use to us in carrying on the war, and might
 hinder our men from foraging.
 
-X.--Caesar, being apprised of this by Titurius, leads all his cavalry
+## Chapter X
+
+Caesar, being apprised of this by Titurius, leads all his cavalry
 and light-armed Numidians, slingers and archers, over the bridge, and
 hastens towards them. There was a severe struggle in that place. Our
 men, attacking in the river the disordered enemy, slew a great part of
@@ -1988,7 +2080,9 @@ learnt that Divitiacus and the Aedui were approaching the territories of
 the Bellovaci. And it was impossible to persuade the latter to stay any
 longer, or to deter them from conveying succour to their own people.
 
-XI.--That matter being determined on, marching out of their camp at the
+## Chapter XI
+
+That matter being determined on, marching out of their camp at the
 second watch, with great noise and confusion, in no fixed order, nor
 under any command, since each sought for himself the foremost place in
 the journey, and hastened to reach home, they made their departure
@@ -2010,7 +2104,9 @@ themselves] our men killed as great a number of them as the length of
 the day allowed; and at sunset desisted from the pursuit, and betook
 themselves into the camp, as they had been commanded.
 
-XII.--On the day following, before the enemy could recover from their
+## Chapter XII
+
+On the day following, before the enemy could recover from their
 terror and flight, Caesar led his army into the territories of the
 Suessiones, which are next to the Remi, and having accomplished a long
 march, hastens to the town named Noviodunum. Having attempted to take it
@@ -2028,7 +2124,9 @@ the Romans, send ambassadors to Caesar respecting a surrender, and
 succeed in consequence of the Remi requesting that they [the Suessiones]
 might be spared.
 
-XIII.--Caesar, having received as hostages the first men of the state,
+## Chapter XIII
+
+Caesar, having received as hostages the first men of the state,
 and even the two sons of king Galba himself; and all the arms in the
 town having been delivered up, admitted the Suessiones to a surrender,
 and led his army against the Bellovaci. Who, when they had conveyed
@@ -2042,7 +2140,9 @@ town, and there pitched his camp, the boys and the women from the wall,
 with outstretched hands, after their custom, begged peace from the
 Romans.
 
-XIV.--For these Divitiacus pleads (for after the departure of the
+## Chapter XIV
+
+For these Divitiacus pleads (for after the departure of the
 Belgae, having dismissed the troops of the Aedui, he had returned to
 Caesar). "The Bellovaci had at all times been in the alliance and
 friendship of the Aeduan state; that they had revolted from the Aedui
@@ -2057,7 +2157,9 @@ influence of the Aedui among all the Belgae, by whose succour and
 resources they had been accustomed to support themselves whenever any
 wars occurred."
 
-XV.--Caesar said that on account of his respect for Divitiacus and the
+## Chapter XV
+
+Caesar said that on account of his respect for Divitiacus and the
 Aeduans, he would receive them into his protection, and would spare
 them; but, because the state was of great influence among the Belgae,
 and pre-eminent in the number of its population, he demanded 600
@@ -2075,7 +2177,9 @@ themselves to the Roman people and thrown aside their national courage:
 that they openly declared they would neither send ambassadors, nor
 accept any condition of peace."
 
-XVI.--After he had made three days' march through their territories, he
+## Chapter XVI
+
+After he had made three days' march through their territories, he
 discovered from some prisoners, that the river Sambre was not more than
 ten miles from his camp: that all the Nervii had stationed themselves on
 the other side of that river, and together with the Atrebates and the
@@ -2086,7 +2190,9 @@ also expected by them, and were on their march; that they had put their
 women, and those who through age appeared useless for war, in a place to
 which there was no approach for an army, on account of the marshes.
 
-XVII.--Having learnt these things, he sends forward scouts and
+## Chapter XVII
+
+Having learnt these things, he sends forward scouts and
 centurions to choose a convenient place for the camp. And as a great
 many of the surrounding Belgae and other Gauls, following Caesar,
 marched with him; some of these, as was afterwards learnt from the
@@ -2111,7 +2217,9 @@ Since [therefore] the march of our army would be obstructed by these
 things, the Nervii thought that the advice ought not to be neglected by
 them.
 
-XVIII.--The nature of the ground which our men had chosen for the camp
+## Chapter XVIII
+
+The nature of the ground which our men had chosen for the camp
 was this: A hill, declining evenly from the top, extended to the river
 Sambre, which we have mentioned above: from this river there arose a
 [second] hill of like ascent, on the other side and opposite to the
@@ -2121,7 +2229,9 @@ into the interior. Within those woods the enemy kept themselves in
 concealment; a few troops of horse-soldiers appeared on the open ground,
 along the river. The depth of the river was about three feet.
 
-XIX.--Caesar, having sent his cavalry on before, followed close after
+## Chapter XIX
+
+Caesar, having sent his cavalry on before, followed close after
 them with all his forces; but the plan and order of the march was
 different from that which the Belgae had reported to the Nervii. For as
 he was approaching the enemy Caesar, according to his custom, led on [as
@@ -2146,7 +2256,9 @@ that they seemed to be in the woods, the river, and close upon us almost
 at the same time. And with the same speed they hastened up the hill to
 our camp and to those who were employed in the works.
 
-XX.--Caesar had everything to do at one time: the standard to be
+## Chapter XX
+
+Caesar had everything to do at one time: the standard to be
 displayed, which was the sign when it was necessary to run to arms; the
 signal to be given by the trumpet; the soldiers to be called off from
 the works; those who had proceeded some distance for the purpose of
@@ -2164,7 +2276,9 @@ account of the near approach and the speed of the enemy, did not then
 wait for any command from Caesar, but of themselves executed whatever
 appeared proper.
 
-XXI.--Caesar, having given the necessary orders, hastened to and fro
+## Chapter XXI
+
+Caesar, having given the necessary orders, hastened to and fro
 into whatever quarter fortune carried him to animate the troops, and
 came to the tenth legion. Having encouraged the soldiers with no further
 speech than that "they should keep up the remembrance of their wonted
@@ -2181,7 +2295,9 @@ from the shields. To whatever part any one by chance came from the works
 these he stood, lest in seeking his own company he should lose the time
 for fighting.
 
-XXII.--The army having been marshalled, rather as the nature of the
+## Chapter XXII
+
+The army having been marshalled, rather as the nature of the
 ground and the declivity of the hill and the exigency of the time, than
 as the method and order of military matters required; whilst the legions
 in the different places were withstanding the enemy, some in one
@@ -2192,7 +2308,9 @@ part, nor could all the commands be issued by one person. Therefore, in
 such an unfavourable state of affairs, various events of fortune
 followed.
 
-XXIII.--The soldiers of the ninth and tenth legions, as they had been
+## Chapter XXIII
+
+The soldiers of the ninth and tenth legions, as they had been
 stationed on the left part of the army, casting their weapons, speedily
 drove the Atrebates (for that division had been opposed to them), who
 were breathless with running and fatigue, and worn out with wounds, from
@@ -2213,7 +2331,9 @@ towards that place; and part of them began to surround the legions on
 their unprotected flank, part to make for the highest point of the
 encampment.
 
-XXIV.--At the same time our horsemen, and light-armed infantry, who had
+## Chapter XXIV
+
+At the same time our horsemen, and light-armed infantry, who had
 been with those who, as I have related, were routed by the first assault
 of the enemy, as they were betaking themselves into the camp, met the
 enemy face to face, and again sought flight into another quarter; and
@@ -2233,7 +2353,9 @@ divided and scattered, they, despairing of our affairs, hastened home,
 and related to their state that the Romans were routed and conquered,
 [and] that the enemy were in possession of their camp and baggage-train.
 
-XXV.--Caesar proceeded, after encouraging the tenth legion, to the right
+## Chapter XXV
+
+Caesar proceeded, after encouraging the tenth legion, to the right
 wing; where he perceived that his men were hard pressed, and that in
 consequence of the standards of the twelfth legion being collected
 together in one place, the crowded soldiers were a hindrance to
@@ -2259,7 +2381,9 @@ whilst every one for his own part, in the sight of his general, desired
 to exert his utmost energy, the impetuosity of the enemy was a little
 checked.
 
-XXVI.--Caesar, when he perceived that the seventh legion, which stood
+## Chapter XXVI
+
+Caesar, when he perceived that the seventh legion, which stood
 close by him, was also hard pressed by the enemy, directed the tribunes
 of the soldiers to effect a junction of the legions gradually, and make
 their charge upon the enemy with a double front; which having been done,
@@ -2276,7 +2400,9 @@ the flight of the horse and the sutlers in what position the affair was,
 and in how great danger the camp and the legion and the commander were
 involved, left undone nothing [which tended] to despatch.
 
-XXVI.--By their arrival, so great a change of matters was made, that our
+## Chapter XXVII
+
+By their arrival, so great a change of matters was made, that our
 men, even those who had fallen down exhausted with wounds, leant on
 their shields, and renewed the fight: then the camp-retainers, though
 unarmed, seeing the enemy completely dismayed, attacked [them though]
@@ -2294,7 +2420,9 @@ ascend very high banks, and come up to a very disadvantageous place;
 since their greatness of spirit had rendered these actions easy,
 although in themselves very difficult.
 
-XXVIII.--This battle being ended, and the nation and name of the Nervii
+## Chapter XXVIII
+
+This battle being ended, and the nation and name of the Nervii
 being almost reduced to annihilation, their old men, whom together with
 the boys and women we have stated to have been collected together in the
 fenny places and marshes, on this battle having been reported to them,
@@ -2310,7 +2438,9 @@ towns, and commanded their neighbours that they should restrain
 themselves and their dependants from offering injury or outrage [to
 them].
 
-XXIX.--When the Aduatuci, of whom we have written above, were coming
+## Chapter XXIX
+
+When the Aduatuci, of whom we have written above, were coming
 with all their forces to the assistance of the Nervii, upon this battle
 being reported to them, they returned home after they were on the march;
 deserting all their towns and forts, they conveyed together all their
@@ -2329,7 +2459,9 @@ time they waged war offensively, and at another resisted it when waged
 against them, concluded a peace with the consent of all, and chose this
 place as their settlement.
 
-XXX.--And on the first arrival of our army they made frequent sallies
+## Chapter XXX
+
+And on the first arrival of our army they made frequent sallies
 from the town, and contended with our men in trifling skirmishes:
 afterwards, when hemmed in by a rampart of twelve feet [in height], and
 fifteen miles in circuit, they kept themselves within the town. When,
@@ -2343,7 +2475,9 @@ shortness of stature, in comparison with the great size of their bodies,
 is generally a subject of much contempt to the men of Gaul), "trust to
 place against their walls a tower of such great weight."
 
-XXXI.--But when they saw that it was being moved, and was approaching
+## Chapter XXXI
+
+But when they saw that it was being moved, and was approaching
 their walls, startled by the new and unaccustomed sight, they sent
 ambassadors to Caesar [to treat] about peace; who spoke in the following
 manner: "That they did not believe the Romans waged war without divine
@@ -2360,7 +2494,9 @@ if they should be reduced to that state, to suffer any fate from the
 Roman people, than to be tortured to death by those among whom they had
 been accustomed to rule."
 
-XXXII.--To these things Caesar replied, "That he, in accordance with his
+## Chapter XXXII
+
+To these things Caesar replied, "That he, in accordance with his
 custom, rather than owing to their desert, should spare the state, if
 they should surrender themselves before the battering-ram should touch
 the wall; but that there was no condition of surrender, except upon
@@ -2375,7 +2511,9 @@ rampart, and nevertheless having retained and concealed, as we
 afterwards discovered, about a third part in the town, the gates were
 opened, and they enjoyed peace for that day.
 
-XXXIII.--Towards evening Caesar ordered the gates to be shut, and the
+## Chapter XXXIII
+
+Towards evening Caesar ordered the gates to be shut, and the
 soldiers to go out of the town, lest the townspeople should receive any
 injury from them by night. They [the Aduatuci], by a design before
 entered into, as we afterwards understood, because they believed that,
@@ -2398,13 +2536,17 @@ open the gates, which there was no one then to defend, and sending in
 our soldiers, sold the whole spoil of that town. The number of 53,000
 persons was reported to him by those who had bought them.
 
-XXXIV.--At the same time he was informed by P. Crassus, whom he had sent
+## Chapter XXXIV
+
+At the same time he was informed by P. Crassus, whom he had sent
 with one legion against the Veneti, the Unelli, the Osismii, the
 Curiosolitae, the Sesuvii, the Aulerci, and the Rhedones, which are
 maritime states, and touch upon the [Atlantic] ocean, that all these
 nations were brought under the dominion and power of the Roman people.
 
-XXXV.--These things being achieved, [and] all Gaul being subdued, so
+## Chapter XXXV
+
+These things being achieved, [and] all Gaul being subdued, so
 high an opinion of this war was spread among the barbarians, that
 ambassadors were sent to Caesar by those nations who dwelt beyond the
 Rhine, to promise that they would give hostages and execute his
@@ -2419,7 +2561,9 @@ that time had been conferred on none.
 
 ## Book III
 
-I.--When Caesar was setting out for Italy, he sent Servius Galba with
+## Chapter I
+
+When Caesar was setting out for Italy, he sent Servius Galba with
 the twelfth legion and part of the cavalry against the Nantuates, the
 Veragri, and Seduni, who extend from the territories of the Allobroges,
 and the lake of Geneva, and the river Rhone to the top of the Alps. The
@@ -2439,7 +2583,9 @@ river, he granted one part of it to the Gauls, and assigned the other,
 which had been left by them unoccupied, to the cohorts to winter in. He
 fortified this [latter] part with a rampart and a ditch.
 
-II.--When several days had elapsed in winter quarters, and he had
+## Chapter II
+
+When several days had elapsed in winter quarters, and he had
 ordered corn to be brought in, he was suddenly informed by his scouts
 that all the people had gone off in the night from that part of the town
 which he had given up to the Gauls, and that the mountains which hung
@@ -2459,7 +2605,9 @@ Romans designed to seize upon the summits of the Alps, and unite those
 parts to the neighbouring province [of Gaul], not only to secure the
 passes, but also as a constant possession.
 
-III.--Having received these tidings, Galba, since the works of the
+## Chapter III
+
+Having received these tidings, Galba, since the works of the
 winter quarters and the fortifications were not fully completed, nor was
 sufficient preparation made with regard to corn and other provisions
 (since, as a surrender had been made, and hostages received, he had
@@ -2476,7 +2624,9 @@ come thither." To the greater part, however, it seemed best, reserving
 that measure to the last, to await the issue of the matter, and to
 defend the camp.
 
-IV.--A short time only having elapsed, so that time was scarcely given
+## Chapter IV
+
+A short time only having elapsed, so that time was scarcely given
 for arranging and executing those things which they had determined on,
 the enemy, upon the signal being given, rushed down [upon our men] from
 all parts, and discharged stones and darts upon our rampart. Our men at
@@ -2492,7 +2642,9 @@ to the wearied [Roman] to retire from the fight, but not even to the
 wounded [was liberty granted] to quit the post where he had been
 stationed, and recover.
 
-V.--When they had now been fighting for more than six hours, without
+## Chapter V
+
+When they had now been fighting for more than six hours, without
 cessation, and not only strength, but even weapons were failing our men,
 and the enemy were pressing on more rigorously, and had begun to
 demolish the rampart and to fill up the trench, while our men were
@@ -2508,7 +2660,9 @@ weapons flung [at them], and recruit themselves after their fatigue, and
 afterwards, upon the signal being given, sally forth from the camp, and
 place in their valour all their hope of safety.
 
-VI.--They do what they were ordered; and, making a sudden sally from all
+## Chapter VI
+
+They do what they were ordered; and, making a sudden sally from all
 the gates [of the camp], leave the enemy the means neither of knowing
 what was taking place, nor of collecting themselves. Fortune thus taking
 a turn, [our men] surround on every side, and slay those who had
@@ -2528,7 +2682,9 @@ or hindered his march, he brought the legion safe into the [country of
 the] Nantuates, thence into [that of] the Allobroges, and there
 wintered.
 
-VII.--These things being achieved, while Caesar had every reason to
+## Chapter VII
+
+These things being achieved, while Caesar had every reason to
 suppose that Gaul was reduced to a state of tranquillity, the Belgae
 being overcome, the Germans expelled, the Seduni among the Alps
 defeated, and when he had, therefore, in the beginning of winter, set
@@ -2543,7 +2699,9 @@ provision; in which number T. Terrasidius was sent amongst the Esubii;
 M. Trebius Gallus amongst the Curiosolitae; Q. Velanius, with T. Silius,
 amongst the Veneti.
 
-VIII.--The influence of this state is by far the most considerable of
+## Chapter VIII
+
+The influence of this state is by far the most considerable of
 any of the countries on the whole sea coast, because the Veneti both
 have a very great number of ships, with which they have been accustomed
 to sail to Britain, and [thus] excel the rest in their knowledge and
@@ -2564,7 +2722,9 @@ the sea coast being quickly brought over to their sentiments, they send
 a common embassy to P. Crassus [to say], "If he wished to receive back
 his officers, let him send back to them their hostages."
 
-IX.--Caesar, being informed of these things by Crassus, since he was so
+## Chapter IX
+
+Caesar, being informed of these things by Crassus, since he was so
 far distant himself, orders ships of war to be built in the meantime on
 the river Loire, which flows into the ocean; rowers to be raised from
 the province; sailors and pilots to be provided. These matters being
@@ -2595,7 +2755,9 @@ that war, the Osismii, the Lexovii, the Nannetes, the Ambiliati, the
 Morini, the Diablintes, and the Menapii; and send for auxiliaries from
 Britain, which is situated over against those regions.
 
-X.--There were these difficulties which we have mentioned above, in
+## Chapter X
+
+There were these difficulties which we have mentioned above, in
 carrying on the war, but many things, nevertheless, urged Caesar to that
 war; the open insult offered to the state in the detention of the Roman
 knights, the rebellion raised after surrendering, the revolt after
@@ -2608,7 +2770,9 @@ liberty and hate the condition of slavery, he thought he ought to divide
 and more widely distribute his army, before more states should join the
 confederation.
 
-XI.--He therefore sends T. Labienus, his lieutenant, with the cavalry to
+## Chapter XI
+
+He therefore sends T. Labienus, his lieutenant, with the cavalry to
 the Treviri, who are nearest to the river Rhine. He charges him to visit
 the Remi and the other Belgians, and to keep them in their allegiance
 and repel the Germans (who were said to have been summoned by the Belgae
@@ -2625,7 +2789,9 @@ and the other provinces which remained at peace; and commands him to
 proceed towards the Veneti, as soon as he could. He himself hastens
 thither with the land forces.
 
-XII.--The sites of their towns were generally such that, being placed on
+## Chapter XII
+
+The sites of their towns were generally such that, being placed on
 extreme points [of land] and on promontories, they neither had an
 approach by land when the tide had rushed in from the main ocean, which
 always happens twice in the space of twelve hours; nor by ships,
@@ -2644,7 +2810,9 @@ and the difficulty of sailing was very great in that vast and open sea,
 with its strong tides and its harbours far apart and exceedingly few in
 number.
 
-XIII.--For their ships were built and equipped after this manner. The
+## Chapter XIII
+
+For their ships were built and equipped after this manner. The
 keels were somewhat flatter than those of our ships, whereby they could
 more easily encounter the shallows and the ebbing of the tide: the prows
 were raised very high, and in like manner the sterns were adapted to the
@@ -2671,7 +2839,9 @@ more easily and heave to securely in the shallows, and when left by the
 tide feared nothing from rocks and shelves: the risk of all which things
 was much to be dreaded by our ships.
 
-XIV.--Caesar, after taking many of their towns, perceiving that so much
+## Chapter XIV
+
+Caesar, after taking many of their towns, perceiving that so much
 labour was spent in vain and that the flight of the enemy could not be
 prevented on the capture of their towns, and that injury could not be
 done them, he determined to wait for his fleet. As soon as it came up
@@ -2701,7 +2871,9 @@ valiant than ordinary, could pass unobserved, for all the hills and
 higher grounds, from which there was a near prospect of the sea, were
 occupied by our army.
 
-XV.--The sail-yards [of the enemy], as we have said, being brought down,
+## Chapter XV
+
+The sail-yards [of the enemy], as we have said, being brought down,
 although two and [in some cases] three ships [of theirs] surrounded each
 one [of ours], the soldiers strove with the greatest energy to board the
 ships of the enemy: and, after the barbarians observed this taking
@@ -2715,7 +2887,9 @@ one, so that very few out of all the number, [and those] by the
 intervention of night, arrived at the land, after the battle had lasted
 almost from the fourth hour till sunset.
 
-XVI.--By this battle the war with the Veneti and the whole of the sea
+## Chapter XVI
+
+By this battle the war with the Veneti and the whole of the sea
 coast was finished; for both all the youth, and all, too, of more
 advanced age, in whom there was any discretion or rank, had assembled in
 that battle; and they had collected in that one place whatever naval
@@ -2727,7 +2901,9 @@ severely, in order that for the future the rights of ambassadors might
 be more carefully respected, by barbarians: having, therefore, put to
 death all their senate, he sold the rest for slaves.
 
-XVII.--While these things are going on amongst the Veneti, Q. Titurius
+## Chapter XVII
+
+While these things are going on amongst the Veneti, Q. Titurius
 Sabinus with those troops which he had received from Caesar, arrives in
 the territories of the Unelli. Over these people Viridovix ruled, and
 held the chief command of all those states which had revolted: from
@@ -2750,7 +2926,9 @@ battle with so great a force, especially while he who held the chief
 command was absent, except on advantageous ground or some favourable
 circumstance presented itself.
 
-XVIII.--After having established this suspicion of his cowardice, he
+## Chapter XVIII
+
+After having established this suspicion of his cowardice, he
 selected a certain suitable and crafty Gaul, who was one of those whom
 he had with him as auxiliaries. He induces him by great gifts and
 promises to go over to the enemy; and informs [him] of what he wished to
@@ -2773,7 +2951,9 @@ hasten to [our] camp; which being granted, rejoicing as if victory were
 fully certain, they collected faggots and brushwood, with which to fill
 up the Roman trenches, and hasten to the camp.
 
-XIX.--The situation of the camp was a rising ground, gently sloping from
+## Chapter XIX
+
+The situation of the camp was a rising ground, gently sloping from
 the bottom for about a mile. Thither they proceeded with great speed (in
 order that as little time as possible might be given to the Romans to
 collect and arm themselves), and arrived quite out of breath. Sabinus
@@ -2792,7 +2972,9 @@ immediately surrendered themselves to Titurius: for as the temper of the
 Gauls is impetuous and ready to undertake wars, so their mind is weak,
 and by no means resolute in enduring calamities.
 
-XX.--About the same time, P. Crassus, when he had arrived in Aquitania
+## Chapter XX
+
+About the same time, P. Crassus, when he had arrived in Aquitania
 (which, as has been before said, both from its extent of territory and
 the great number of its people, is to be reckoned a third part of Gaul),
 understanding that he was to wage war in these parts, where a few years
@@ -2811,7 +2993,9 @@ men pursuing, they suddenly display their infantry forces, which they
 had placed in ambuscade in a valley. These attacked our men [while]
 disordered, and renewed the fight.
 
-XXI.--The battle was long and vigorously contested, since the Sotiates,
+## Chapter XXI
+
+The battle was long and vigorously contested, since the Sotiates,
 relying on their former victories, imagined that the safety of the whole
 of Aquitania rested on their valour; [and] our men, on the other hand,
 desired it might be seen what they could accomplish without their
@@ -2828,7 +3012,9 @@ send ambassadors to Crassus, and entreat him to admit them to a
 surrender. Having obtained it, they, being ordered to deliver up their
 arms, comply.
 
-XXII.--And while the attention of our men is engaged in that matter, in
+## Chapter XXII
+
+And while the attention of our men is engaged in that matter, in
 another part Adcantuannus, who held the chief command, with 600 devoted
 followers, whom they call soldurii (the conditions of whose association
 are these,--that they enjoy all the conveniences of life with those to
@@ -2843,7 +3029,9 @@ fierce battle had been fought there, was driven back into the town, yet
 he obtained from Crassus [the indulgence] that he should enjoy the same
 terms of surrender [as the other inhabitants].
 
-XXIII.--Crassus, having received their arms and hostages, marched into
+## Chapter XXIII
+
+Crassus, having received their arms and hostages, marched into
 the territories of the Vocates and the Tarusates. But then, the
 barbarians being alarmed, because they had heard that a town fortified
 by the nature of the place and by art had been taken by us in a few days
@@ -2866,7 +3054,9 @@ daily increased, he thought that he ought not to delay in giving battle.
 This matter being brought to a council, when he discovered that all
 thought the same thing, he appointed the next day for the fight.
 
-XXIV.--Having drawn out all his forces at the break of day, and
+## Chapter XXIV
+
+Having drawn out all his forces at the break of day, and
 marshalled them in a double line, he posted the auxiliaries in the
 centre, and waited to see what measures the enemy would take. They,
 although on account of their great number and their ancient renown in
@@ -2885,7 +3075,9 @@ all were heard [declaring] that no longer ought delay to be made in
 going to the camp, after encouraging his men, he marches to the camp of
 the enemy, to the great gratification of his own troops.
 
-XXV.--There, while some were filling up the ditch, and others, by
+## Chapter XXV
+
+There, while some were filling up the ditch, and others, by
 throwing a large number of darts, were driving the defenders from the
 rampart and fortifications, and the auxiliaries, on whom Crassus did not
 much rely in the battle, by supplying stones and weapons [to the
@@ -2897,7 +3089,9 @@ the camp of the enemy, reported to Crassus that the camp was not
 fortified with equal care on the side of the Decuman gate, and had an
 easy approach.
 
-XXVI.--Crassus, having exhorted the commanders of the horse to animate
+## Chapter XXVI
+
+Crassus, having exhorted the commanders of the horse to animate
 their men by great rewards and promises, points out to them what he
 wished to have done. They, as they had been commanded, having brought
 out the four cohorts, which, as they had been left as a guard for the
@@ -2916,7 +3110,9 @@ the very open plains, and after leaving scarcely a fourth part out of
 the number of 50,000, which it was certain had assembled out of
 Aquitania and from the Cantabri, returned late at night to the camp.
 
-XXVII.--Having heard of this battle, the greatest part of Aquitania
+## Chapter XXVII
+
+Having heard of this battle, the greatest part of Aquitania
 surrendered itself to Crassus, and of its own accord sent hostages, in
 which number were the Tarbelli, the Bigerriones, the Preciani, the
 Vocasates, the Tarusates, the Elurates, the Garites, the Ausci, the
@@ -2924,7 +3120,9 @@ Garumni, the Sibuzates, the Cocosates. A few [and those] most remote
 nations, relying on the time of the year, because winter was at hand,
 neglected to do this.
 
-XXVIII.--About the same time Caesar, although the summer was nearly
+## Chapter XXVIII
+
+About the same time Caesar, although the summer was nearly
 past, yet since, all Gaul being reduced, the Morini and the Menapii
 alone remained in arms, and had never sent ambassadors to him [to make a
 treaty] of peace, speedily led his army thither, thinking that that war
@@ -2941,7 +3139,9 @@ quickly took up arms and drove them back again to their forests; and
 having killed a great many, lost a few of their own men while pursuing
 them too far through those intricate places.
 
-XXIX.--During the remaining days after this, Caesar began to cut down
+## Chapter XXIX
+
+During the remaining days after this, Caesar began to cut down
 the forests; and that no attack might be made on the flank of the
 soldiers, while unarmed and not foreseeing it, he placed together
 (opposite to the enemy) all that timber which was cut down, and piled it
@@ -2958,7 +3158,9 @@ Lexovii, and the other states which had made war upon him last.
 
 ## Book IV
 
-I.-The following winter (this was the year in which Cn. Pompey and M.
+## Chapter I
+
+The following winter (this was the year in which Cn. Pompey and M.
 Crassus were consuls), those Germans [called] the Usipetes, and likewise
 the Tenchtheri, with a great number of men, crossed the Rhine, not far
 from the place at which that river discharges itself into the sea. The
@@ -2985,7 +3187,9 @@ they wear no clothing whatever except skins, by reason of the scantiness
 of which a great portion of their body is bare, and besides they bathe
 in open rivers.
 
-II.--Merchants have access to them rather that they may have persons to
+## Chapter II
+
+Merchants have access to them rather that they may have persons to
 whom they may sell those things which they have taken in war, than
 because they need any commodity to be imported to them. Moreover, even
 as to labouring cattle, in which the Gauls take the greatest pleasure,
@@ -3003,7 +3207,9 @@ housings. They on no account permit wine to be imported to them, because
 they consider that men degenerate in their powers of enduring fatigue,
 and are rendered effeminate by that commodity.
 
-III.--They esteem it their greatest praise as a nation that the lands
+## Chapter III
+
+They esteem it their greatest praise as a nation that the lands
 about their territories lie unoccupied to a very great extent, inasmuch
 as [they think] that by this circumstance is indicated that a great
 number of nations cannot, withstand their power; and thus on one side of
@@ -3019,7 +3225,9 @@ nation from their territories, on account of the extent and population
 of their state, yet they made them tributaries, and rendered them less
 distinguished and powerful [than they had ever been].
 
-IV.--In the same condition were the Usipetes and the Tenchtheri (whom we
+## Chapter IV
+
+In the same condition were the Usipetes and the Tenchtheri (whom we
 have mentioned above), who for many years resisted the power of the
 Suevi, but being at last driven from their possessions, and having
 wandered through many parts of Germany, came to the Rhine, to districts
@@ -3043,7 +3251,9 @@ were apprised of [their intention]; and seizing all their houses,
 maintained themselves upon their provisions during the rest of the
 winter.
 
-V.--Caesar, when informed of these matters, fearing the fickle
+## Chapter V
+
+Caesar, when informed of these matters, fearing the fickle
 disposition of the Gauls, who are easily prompted to take up
 resolutions, and much addicted to change, considered that nothing was to
 be entrusted to them; for it is the custom of that people to compel
@@ -3057,7 +3267,9 @@ necessarily instantly repent, since they yield to mere unauthorised
 reports; and since most people give to their questions answers framed
 agreeably to their wishes.
 
-VI.--Caesar, being aware of their custom, in order that he might not
+## Chapter VI
+
+Caesar, being aware of their custom, in order that he might not
 encounter a more formidable war, sets forward to the army earlier in the
 year than he was accustomed to do. When he had arrived there, he
 discovered that those things, which he had suspected would occur, had
@@ -3072,7 +3284,9 @@ ignorance of the things which he had discovered; and having conciliated
 and confirmed their minds, and ordered some cavalry to be raised,
 resolved to make war against the Germans.
 
-VII.--Having provided corn and selected his cavalry, he began to direct
+## Chapter VII
+
+Having provided corn and selected his cavalry, he began to direct
 his march towards those parts in which he heard the Germans were. When
 he was distant from them only a few days' march, ambassadors come to him
 from their state; whose speech was as follows:--"That the Germans
@@ -3089,7 +3303,9 @@ the Suevi alone, to whom not even the immortal gods can show themselves
 equal; that there was none at all besides on earth whom they could not
 conquer."
 
-VIII.--To these remarks Caesar replied in such terms as he thought
+## Chapter VIII
+
+To these remarks Caesar replied in such terms as he thought
 proper; but the conclusion of his speech was, "That he could make no
 alliance with them, if they continued in Gaul; that it was not probable
 that they who were not able to defend their own territories, should get
@@ -3101,7 +3317,9 @@ him, and were complaining of the aggressions of the Suevi, and
 requesting assistance from him; and that he would obtain this request
 from them."
 
-IX.--The ambassadors said that they would report these things to their
+## Chapter IX
+
+The ambassadors said that they would report these things to their
 countrymen; and, after having deliberated on the matter, would return to
 Caesar after the third day, they begged that he would not in the
 meantime advance his camp nearer to them. Caesar said that he could not
@@ -3111,7 +3329,9 @@ the purpose of plundering and procuring forage. He supposed that they
 were then waiting for these horse, and that the delay was caused on this
 account.
 
-X.--The Meuse rises from mount Le Vosge, which is in the territories of
+## Chapter X
+
+The Meuse rises from mount Le Vosge, which is in the territories of
 the Lingones; and, having received a branch of the Rhine, which is
 called the Waal, forms the island of the Batavi, and not more than
 eighty miles from it it falls into the ocean. But the Rhine takes its
@@ -3124,7 +3344,9 @@ by savage and barbarous nations (of whom there are some who are supposed
 to live on fish and the eggs of sea-fowl), flows into the ocean by
 several mouths.
 
-XI.--When Caesar was not more than twelve miles distant from the enemy,
+## Chapter XI
+
+When Caesar was not more than twelve miles distant from the enemy,
 the ambassadors return to him, as had been arranged; who meeting him on
 the march, earnestly entreated him not to advance any farther. When they
 could not obtain this, they begged him to send on a despatch to those
@@ -3145,7 +3367,9 @@ who had marched in advance with all the cavalry to order them not to
 provoke the enemy to an engagement, and if they themselves were
 assailed, to sustain the attack until he came up with the army.
 
-XII.--But the enemy, as soon as they saw our horse, the number of which
+## Chapter XII
+
+But the enemy, as soon as they saw our horse, the number of which
 was 5000, whereas they themselves had not more than 800 horse, because
 those which had gone over the Meuse for the purpose of foraging had not
 returned, while our men had no apprehensions, because their ambassadors
@@ -3169,7 +3393,9 @@ sides and after receiving many wounds, and his brother, who had then
 retired from the fight, observed it from a distance, he spurred on his
 horse, threw himself upon the enemy, and was killed.
 
-XIII.--After this engagement, Caesar considered that neither ought
+## Chapter XIII
+
+After this engagement, Caesar considered that neither ought
 ambassadors to be received to audience, nor conditions be accepted by
 him from those who, after having sued for peace by way of stratagem and
 treachery, had made war without provocation. And to wait till the
@@ -3192,7 +3418,9 @@ be detained. He then drew all his forces out of the camp, and commanded
 the cavalry, because he thought they were intimidated by the late
 skirmish, to follow in the rear.
 
-XIV.--Having marshalled his army in three lines, and in a short time
+## Chapter XIV
+
+Having marshalled his army in three lines, and in a short time
 performed a march of eight miles, he arrived at the camp of the enemy
 before the Germans could perceive what was going on; who being suddenly
 alarmed by all the circumstances, both by the speediness of our arrival
@@ -3208,7 +3436,9 @@ but the rest of the people, [consisting] of boys and women (for they had
 left their country and crossed the Rhine with all their families), began
 to fly in all directions; in pursuit of whom Caesar sent the cavalry.
 
-XV.--The Germans when, upon hearing a noise behind them, [they looked
+## Chapter XV
+
+The Germans when, upon hearing a noise behind them, [they looked
 and] saw that their families were being slain, throwing away their arms
 and abandoning their standards, fled out of the camp, and when they had
 arrived at the confluence of the Meuse and the Rhine, the survivors
@@ -3222,7 +3452,9 @@ liberty of departing. They however, dreading revenge and torture from
 the Gauls, whose lands they had harassed, said that they desired to
 remain with him. Caesar granted them permission.
 
-XVI.--The German war being finished, Caesar thought it expedient for him
+## Chapter XVI
+
+The German war being finished, Caesar thought it expedient for him
 to cross the Rhine, for many reasons; of which this was the most
 weighty, that, since he saw the Germans were so easily urged to go into
 Gaul, he desired they should have their fears for their own territories
@@ -3251,7 +3483,9 @@ defeat of Ariovistus and this last battle which was fought, that they
 might be safe under the fame and friendship of the Roman people." They
 promised a large number of ships for transporting the army.
 
-XVII.--Caesar, for those reasons which I have mentioned, had resolved to
+## Chapter XVII
+
+Caesar, for those reasons which I have mentioned, had resolved to
 cross the Rhine; but to cross by ships he neither deemed to be
 sufficiently safe, nor considered consistent with his own dignity or
 that of the Roman people. Therefore, although the greatest difficulty in
@@ -3286,7 +3520,9 @@ by the barbarians for the purpose of destroying the work, the violence
 of such things might be diminished by these defences, and might not
 injure the bridge.
 
-XVIII.--Within ten days after the timber began to be collected, the
+## Chapter XVIII
+
+Within ten days after the timber began to be collected, the
 whole work was completed, and the whole army led over. Caesar, leaving a
 strong guard at each end of the bridge, hastens into the territories of
 the Sigambri. In the meantime ambassadors from several nations come to
@@ -3298,7 +3534,9 @@ Usipetes as they had amongst them), and quitted their territories and
 conveyed away all their possessions, and concealed themselves in deserts
 and woods.
 
-XIX.--Caesar, having remained in their territories a few days, and burnt
+## Chapter XIX
+
+Caesar, having remained in their territories a few days, and burnt
 all their villages and houses, and cut down their corn, proceeded into
 the territories of the Ubii; and having promised them his assistance, if
 they were ever harassed by the Suevi, he learned from them these
@@ -3318,7 +3556,9 @@ altogether eighteen days beyond the Rhine, and thinking he had advanced
 far enough to serve both honour and interest, he returned into Gaul, and
 cut down the bridge.
 
-XX.--During the short part of summer which remained, Caesar, although in
+## Chapter XX
+
+During the short part of summer which remained, Caesar, although in
 these countries, as all Gaul lies towards the north, the winters are
 early, nevertheless resolved to proceed into Britain, because he
 discovered that in almost all the wars with the Gauls succours had been
@@ -3336,7 +3576,9 @@ the nations which inhabited it, nor what system of war they followed,
 nor what customs they used, nor what harbours were convenient for a
 great number of large ships.
 
-XXI.--He sends before him Caius Volusenus with a ship of war, to acquire
+## Chapter XXI
+
+He sends before him Caius Volusenus with a ship of war, to acquire
 a knowledge of these particulars before he in person should make a
 descent into the island, as he was convinced that this was a judicious
 measure. He commissioned him to thoroughly examine into all matters, and
@@ -3360,7 +3602,9 @@ far as means could be afforded one who dared not leave his ship and
 trust himself to barbarians, returns to Caesar on the fifth day, and
 reports what he had there observed.
 
-XXII.--While Caesar remains in these parts for the purpose of procuring
+## Chapter XXII
+
+While Caesar remains in these parts for the purpose of procuring
 ships, ambassadors come to him from a great portion of the Morini, to
 plead their excuse respecting their conduct on the late occasion;
 alleging that it was as men uncivilised, and as those who were
@@ -3385,7 +3629,9 @@ come to him. He ordered P. Sulpicius Rufus, his lieutenant, to hold
 possession of the harbour, with such a garrison as he thought
 sufficient.
 
-XXIII.--These matters being arranged, finding the weather favourable for
+## Chapter XXIII
+
+These matters being arranged, finding the weather favourable for
 his voyage, he set sail about the third watch, and ordered the horse to
 march forward to the farther port, and there embark and follow him. As
 this was performed rather tardily by them, he himself reached Britain
@@ -3405,7 +3651,9 @@ tide favourable at the same time, the signal being given and the anchor
 weighed, he advanced about seven miles from that place, and stationed
 his fleet over against an open and level shore.
 
-XXIV.--But the barbarians, upon perceiving the design of the Romans,
+## Chapter XXIV
+
+But the barbarians, upon perceiving the design of the Romans,
 sent forward their cavalry and charioteers, a class of warriors of whom
 it is their practice to make great use in their battles, and following
 with the rest of their forces, endeavoured to prevent our men landing.
@@ -3422,7 +3670,9 @@ Dismayed by these circumstances and altogether untrained in this mode of
 battle, our men did not all exert the same vigour and eagerness which
 they had been wont to exert in engagements on dry ground.
 
-XXV.--When Caesar observed this, he ordered the ships of war, the
+## Chapter XXV
+
+When Caesar observed this, he ordered the ships of war, the
 appearance of which was somewhat strange to the barbarians and the
 motion more ready for service, to be withdrawn a little from the
 transport vessels, and to be propelled by their oars, and be stationed
@@ -3443,7 +3693,9 @@ that so great a disgrace should not be incurred, all leaped from the
 ship. When those in the nearest vessels saw them, they speedily followed
 and approached the enemy.
 
-XXVI.--The battle was maintained vigorously on both sides. Our men,
+## Chapter XXVI
+
+The battle was maintained vigorously on both sides. Our men,
 however, as they could neither keep their ranks, nor get firm footing,
 nor follow their standards, and as one from one ship and another from
 another assembled around whatever standards they met, were thrown into
@@ -3460,7 +3712,9 @@ them to flight, but could not pursue them very far, because the horse
 had not been able to maintain their course at sea and reach the island.
 This alone was wanting to Caesar's accustomed success.
 
-XXVII.--The enemy being thus vanquished in battle, as soon as they
+## Chapter XXVII
+
+The enemy being thus vanquished in battle, as soon as they
 recovered after their flight, instantly sent ambassadors to Caesar to
 negotiate about peace. They promised to give hostages and perform what
 he should command. Together with these ambassadors came Commius the
@@ -3480,7 +3734,9 @@ their people to return to the country parts, and the chiefs assembled
 from all quarters, and proceeded to surrender themselves and their
 states to Caesar.
 
-XXVIII.--A peace being established by these proceedings four days after
+## Chapter XXVIII
+
+A peace being established by these proceedings four days after
 we had come into Britain, the eighteen ships, to which reference has
 been made above, and which conveyed the cavalry, set sail from the upper
 port with a gentle gale; when, however, they were approaching Britain
@@ -3492,7 +3748,9 @@ which, however, after having cast anchor, as they were getting filled
 with water, put out to sea through necessity in a stormy night, and made
 for the continent.
 
-XXIX.--It happened that night to be full moon, which usually occasions
+## Chapter XXIX
+
+It happened that night to be full moon, which usually occasions
 very high tides in that ocean; and that circumstance was unknown to our
 men. Thus, at the same time, the tide began to fill the ships of war
 which Caesar had provided to convey over his army, and which he had
@@ -3507,7 +3765,9 @@ all things which are of service in repairing vessels were wanting, and
 corn for the winter had not been provided in those places, because it
 was understood by all that they would certainly winter in Gaul.
 
-XXX.--On discovering these things the chiefs of Britain, who had come up
+## Chapter XXX
+
+On discovering these things the chiefs of Britain, who had come up
 after the battle was fought to perform those conditions which Caesar had
 imposed, held a conference, when they perceived that cavalry, and ships,
 and corn were wanting to the Romans, and discovered the small number of
@@ -3521,7 +3781,9 @@ into Britain for the purpose of making war. Therefore, again entering
 into a conspiracy, they began to depart from the camp by degrees and
 secretly bring up their people from the country parts.
 
-XXXI.--But Caesar, although he had not as yet discovered their measures,
+## Chapter XXXI
+
+But Caesar, although he had not as yet discovered their measures,
 yet, both from what had occurred to his ships, and from the circumstance
 that they had neglected to give the promised hostages, suspected that
 the thing would come to pass which really did happen. He therefore
@@ -3533,7 +3795,9 @@ him from the continent. And thus, since that business was executed by
 the soldiers with the greatest energy, he effected that, after the loss
 of twelve ships, a voyage could be made well enough in the rest.
 
-XXXII.--While these things are being transacted, one legion had been
+## Chapter XXXII
+
+While these things are being transacted, one legion had been
 sent to forage, according to custom, and no suspicion of war had arisen
 as yet, and some of the people remained in the country parts, others
 went backwards and forwards to the camp, they who were on duty at the
@@ -3554,7 +3818,9 @@ aside their arms, and were engaged in reaping, they killed a small
 number, threw the rest into confusion, and surrounded them with their
 cavalry and chariots.
 
-XXXIII.--Their mode of fighting with their chariots is this: firstly,
+## Chapter XXXIII
+
+Their mode of fighting with their chariots is this: firstly,
 they drive about in all directions and throw their weapons and generally
 break the ranks of the enemy with the very dread of their horses and the
 noise of their wheels; and when they have worked themselves in between
@@ -3570,7 +3836,9 @@ manage and turn them in an instant and run along the pole, and stand on
 the yoke, and thence betake themselves with the greatest celerity to
 their chariots again.
 
-XXXIV.-Under these circumstances, our men being dismayed by the novelty
+## Chapter XXXIV
+
+Under these circumstances, our men being dismayed by the novelty
 of this mode of battle, Caesar most seasonably brought assistance; for
 upon his arrival the enemy paused, and our men recovered from their
 fear; upon which, thinking the time unfavourable for provoking the enemy
@@ -3587,7 +3855,9 @@ only drive the Romans from their camp. Having by these means speedily
 got together a large force of infantry and of cavalry, they came up to
 the camp.
 
-XXXV.--Although Caesar anticipated that the same thing which had
+## Chapter XXXV
+
+Although Caesar anticipated that the same thing which had
 happened on former occasions would then occur--that, if the enemy were
 routed, they would escape from danger by their speed; still, having got
 about thirty horse, which Commius the Atrebatian, of whom mention has
@@ -3598,7 +3868,9 @@ backs; our men pursued them as far as their speed and strength
 permitted, and slew a great number of them; then, having destroyed and
 burnt everything far and wide, they retreated to their camp.
 
-XXXVI.--The same day, ambassadors sent by the enemy came to Caesar to
+## Chapter XXXVI
+
+The same day, ambassadors sent by the enemy came to Caesar to
 negotiate a peace. Caesar doubled the number of hostages which he had
 before demanded; and ordered that they should be brought over to the
 continent, because, since the time of the equinox was near, he did not
@@ -3608,7 +3880,9 @@ little after midnight, and all his fleet arrived safe at the continent,
 except two of the ships of burden which could not make the same port
 which the other ships did, and were carried a little lower down.
 
-XXXVII.--When our soldiers, about 300 in number, had been drawn out of
+## Chapter XXXVII
+
+When our soldiers, about 300 in number, had been drawn out of
 these two ships, and were marching to the camp, the Morini, whom Caesar,
 when setting forth for Britain, had left in a state of peace, excited by
 the hope of spoil, at first surrounded them with a small number of men,
@@ -3622,7 +3896,9 @@ receiving but few wounds themselves, slew several of them. But after our
 cavalry came in sight, the enemy, throwing away their arms, turned their
 backs, and a great number of them were killed.
 
-XXXVIII.--The day following Caesar sent Labienus, his lieutenant, with
+## Chapter XXXVIII
+
+The day following Caesar sent Labienus, his lieutenant, with
 those legions which he had brought back from Britain, against the
 Morini, who had revolted; who, as they had no place to which they might
 retreat, on account of the drying up of their marshes (which they had
@@ -3639,7 +3915,9 @@ upon receiving Caesar's letter.
 
 ## Book V
 
-I.--Lucius Domitius and Appius Claudius being consuls, Caesar when
+## Chapter I
+
+Lucius Domitius and Appius Claudius being consuls, Caesar when
 departing from his winter quarters into Italy, as he had been accustomed
 to do yearly, commands the lieutenants whom he appointed over the
 legions to take care that during the winter as many ships as possible
@@ -3668,7 +3946,9 @@ brought to him on the day which he had ordered, he appoints arbitrators
 between the states, who should estimate the damages and determine the
 reparation.
 
-II.--These things being finished, and the assizes being concluded, he
+## Chapter II
+
+These things being finished, and the assizes being concluded, he
 returns into Hither Gaul, and proceeds thence to the army. When he had
 arrived there, having made a survey of the winter quarter, he finds
 that, by the extraordinary ardour of the soldiers, amidst the utmost
@@ -3685,7 +3965,9 @@ four legions without baggage, and 800 horse, because they neither came
 to the general diets [of Gaul], nor obeyed his commands, and were,
 moreover, said to be tampering with the Germans beyond the Rhine.
 
-III.--This state is by far the most powerful of all Gaul in cavalry, and
+## Chapter III
+
+This state is by far the most powerful of all Gaul in cavalry, and
 has great forces of infantry, and as we have remarked above, borders on
 the Rhine. In that state, two persons, Indutiomarus and Cingetorix, were
 then contending with each other for the supreme power; one of whom, as
@@ -3711,7 +3993,9 @@ his control; and that he, if Caesar would permit, would come to the camp
 to him, and would commit his own fortunes and those of the state to his
 good faith.
 
-IV.--Caesar, though he discerned from what motive these things were
+## Chapter IV
+
+Caesar, though he discerned from what motive these things were
 said, and what circumstance deterred him from his meditated plan, still,
 in order that he might not be compelled to waste the summer among the
 Treviri, while all things were prepared for the war with Britain,
@@ -3729,7 +4013,9 @@ his countrymen; and he, who already before had borne a hostile mind
 towards us, was much more violently inflamed against us through
 resentment at this.
 
-V.--These matters being settled, Caesar went to port Itius with the
+## Chapter V
+
+These matters being settled, Caesar went to port Itius with the
 legions. There he discovers that forty ships which had been built in the
 country of the Meldi, having been driven back by a storm, had been
 unable to maintain their course, and had returned to the same port from
@@ -3741,7 +4027,9 @@ fidelity towards him he had clearly discerned, and take the rest with
 him as hostages; because he feared a commotion in Gaul when he should be
 absent.
 
-VI.--There was together with the others, Dumnorix, the Aeduan, of whom
+## Chapter VI
+
+There was together with the others, Dumnorix, the Aeduan, of whom
 we have made previous mention. Him in particular he had resolved to have
 with him, because he had discovered him to be fond of change, fond of
 power, possessing great resolution, and great influence among the Gauls.
@@ -3764,7 +4052,9 @@ rest, to ask for their oath that they would by common deliberation
 execute what they should perceive to be necessary for Gaul. These things
 were reported to Caesar by several persons.
 
-VII.--Having learned this fact, Caesar, because he had conferred so much
+## Chapter VII
+
+Having learned this fact, Caesar, because he had conferred so much
 honour upon the Aeduan state, determined that Dumnorix should be
 restrained and deterred by whatever means he could; and that, because he
 perceived his insane designs to be proceeding farther and farther, care
@@ -3788,7 +4078,9 @@ support of his people, often exclaiming that "he was free and the
 subject of a free state." They surround and kill the man as they had
 been commanded; but the Aeduan horsemen all return to Caesar.
 
-VIII.--When these things were done [and] Labienus, left on the continent
+## Chapter VIII
+
+When these things were done [and] Labienus, left on the continent
 with three legions and 2000 horse, to defend the harbours and provide
 corn, and discover what was going on in Gaul, and take measures
 according to the occasion and according to the circumstance; he himself,
@@ -3812,7 +4104,9 @@ those private vessels which each had built for his own convenience, had
 appeared at one time, they had quitted the coast and concealed
 themselves among the higher points.
 
-IX.--Caesar, having disembarked his army and chosen a convenient place
+## Chapter IX
+
+Caesar, having disembarked his army and chosen a convenient place
 for the camp, when he discovered from the prisoners in what part the
 forces of the enemy had lodged themselves, having left ten cohorts and
 300 horse at the sea, to be a guard to the ships, hastens to the enemy,
@@ -3835,7 +4129,9 @@ them in their flight any great distance; both because he was ignorant of
 the nature of the ground, and because, as a great part of the day was
 spent, he wished time to be left for the fortification of the camp.
 
-X.--The next day, early in the morning, he sent both foot-soldiers and
+## Chapter X
+
+The next day, early in the morning, he sent both foot-soldiers and
 horse in three divisions on an expedition to pursue those who had fled.
 These having advanced a little way, when already the rear [of the enemy]
 was in sight, some horse came to Caesar from Quintus Atrius, to report
@@ -3845,7 +4141,9 @@ the anchors and cables could resist, nor could the sailors and pilots
 sustain the violence of the storm; and thus great damage was received by
 that collision of the ships.
 
-XI.--These things being known [to him], Caesar orders the legions and
+## Chapter XI
+
+These things being known [to him], Caesar orders the legions and
 cavalry to be recalled and to cease from their march; he himself returns
 to the ships: he sees clearly before him almost the same things which he
 had heard of from the messengers and by letter, so that, about forty
@@ -3869,7 +4167,9 @@ At an earlier period perpetual wars had taken place between him and the
 other states; but, greatly alarmed by our arrival, the Britons had
 placed him over the whole war and the conduct of it.
 
-XII.--The interior portion of Britain is inhabited by those of whom they
+## Chapter XII
+
+The interior portion of Britain is inhabited by those of whom they
 say that it is handed down by tradition that they were born in the
 island itself: the maritime portion by those who had passed over from
 the country of the Belgae for the purpose of plunder and making war;
@@ -3886,7 +4186,9 @@ it lawful to eat the hare, and the cock, and the goose; they, however,
 breed them for amusement and pleasure. The climate is more temperate
 than in Gaul, the colds being less severe.
 
-XIII.--The island is triangular in its form, and one of its sides is
+## Chapter XIII
+
+The island is triangular in its form, and one of its sides is
 opposite to Gaul. One angle of this side, which is in Kent, whither
 almost all ships from Gaul are directed, [looks] to the east; the lower
 looks to the south. This side extends about 500 miles. Another side lies
@@ -3905,7 +4207,9 @@ angle of that side looks principally towards Germany. This side is
 considered to be 800 miles in length. Thus the whole island is [about]
 2000 miles in circumference.
 
-XIV.--The most civilised of all these nations are they who inhabit Kent,
+## Chapter XIV
+
+The most civilised of all these nations are they who inhabit Kent,
 which is entirely a maritime district, nor do they differ much from the
 Gallic customs. Most of the inland inhabitants do not sow corn, but live
 on milk and flesh, and are clad with skins. All the Britons, indeed, dye
@@ -3917,7 +4221,9 @@ brothers, and parents among their children; but if there be any issue by
 these wives, they are reputed to be the children of those by whom
 respectively each was first espoused when a virgin.
 
-XV.--The horse and charioteers of the enemy contended vigorously in a
+## Chapter XV
+
+The horse and charioteers of the enemy contended vigorously in a
 skirmish with our cavalry on the march; yet so that our men were
 conquerors in all parts, and drove them to their woods and hills; but,
 having slain a great many, they pursued too eagerly, and lost some of
@@ -3933,7 +4239,9 @@ courageously, and retreated thence in safety. That day, Q. Laberius
 Durus, a tribune of the soldiers, was slain. The enemy, since more
 cohorts were sent against them, were repulsed.
 
-XVI.--In the whole of this method of fighting since the engagement took
+## Chapter XVI
+
+In the whole of this method of fighting since the engagement took
 place under the eyes of all and before the camp, it was perceived that
 our men, on account of the weight of their arms, inasmuch as they could
 neither pursue [the enemy when] retreating, nor dare quit their
@@ -3949,7 +4257,9 @@ distances, and had detachments placed [in different parts], and then the
 one relieved the other, and the vigorous and fresh succeeded the
 wearied.
 
-XVII.--The following day the enemy halted on the hills, a distance from
+## Chapter XVII
+
+The following day the enemy halted on the hills, a distance from
 our camp, and presented themselves in small parties, and began to
 challenge our horse to battle with less spirit than the day before. But
 at noon, when Caesar had sent three legions, and all the cavalry with C.
@@ -3964,7 +4274,9 @@ or leaping from their chariots. Immediately after this retreat, the
 auxiliaries who had assembled from all sides, departed; nor after that
 time did the enemy ever engage with us in very large numbers.
 
-XVIII.--Caesar, discovering their design, leads his army into the
+## Chapter XVIII
+
+Caesar, discovering their design, leads his army into the
 territories of Cassivellaunus to the river Thames; which river can be
 forded in one place only, and that with difficulty. When he had arrived
 there, he perceives that numerous forces of the enemy were marshalled on
@@ -3978,7 +4290,9 @@ heads only, that the enemy could not sustain the attack of the legions
 and of the horse, and quitted the banks, and committed themselves to
 flight.
 
-XIX.--Cassivellaunus, as we have stated above, all hope [rising out] of
+## Chapter XIX
+
+Cassivellaunus, as we have stated above, all hope [rising out] of
 battle being laid aside, the greater part of his forces being dismissed,
 and about 4000 charioteers only being left, used to observe our marches
 and retire a little from the road, and conceal himself in intricate and
@@ -3995,7 +4309,9 @@ that damage should be done to the enemy in ravaging their lands and
 kindling fires only so far as the legionary soldiers could, by their own
 exertion and marching, accomplish it.
 
-XX.--In the meantime, the Trinobantes, almost the most powerful state of
+## Chapter XX
+
+In the meantime, the Trinobantes, almost the most powerful state of
 those parts, from which the young man Mandubratius embracing the
 protection of Caesar had come to the continent of Gaul to [meet] him
 (whose father, Imanuentius, had possessed the sovereignty in that state,
@@ -4008,7 +4324,9 @@ Caesar demands forty hostages from them, and corn for his army, and
 sends Mandubratius to them. They speedily performed the things demanded,
 and sent hostages to the number appointed, and the corn.
 
-XXI.--The Trinobantes being protected and secured from any violence of
+## Chapter XXI
+
+The Trinobantes being protected and secured from any violence of
 the soldiers, the Cenimagni, the Segontiaci, the Ancalites, the Bibroci,
 and the Cassi, sending embassies, surrender themselves to Caesar. From
 them he learns that the capital town of Cassivellaunus was not far from
@@ -4024,7 +4342,9 @@ soldiers, and hurried away on the other side of the town. A great amount
 of cattle was found there, and many of the enemy were taken and slain in
 their flight.
 
-XXII.--While these things are going forward in those places,
+## Chapter XXII
+
+While these things are going forward in those places,
 Cassivellaunus sends messengers into Kent, which, we have observed
 above, is on the sea, over which districts four several kings reigned,
 Cingetorix, Carvilius, Taximagulus, and Segonax, and commands them to
@@ -4043,7 +4363,9 @@ demands hostages, and prescribes what tribute Britain should pay each
 year to the Roman people; he forbids and commands Cassivellaunus that he
 wage not war against Mandubratius or the Trinobantes.
 
-XXIII.--When he had received the hostages, he leads back the army to the
+## Chapter XXIII
+
+When he had received the hostages, he leads back the army to the
 sea, and finds the ships repaired. After launching these, because he had
 a large number of prisoners, and some of the ships had been lost in the
 storm, he determines to convey back his army at two embarkations. And it
@@ -4060,7 +4382,9 @@ the more closely, and, a very great calm coming on, after he had weighed
 anchor at the beginning of the second watch, he reached land at break of
 day and brought in all the ships in safety.
 
-XXIV.--The ships having been drawn up and a general assembly of the
+## Chapter XXIV
+
+The ships having been drawn up and a general assembly of the
 Gauls held at Samarobriva, because the corn that year had not prospered
 in Gaul by reason of the droughts, he was compelled to station his army
 in its winter-quarters, differently from the former years, and to
@@ -4084,7 +4408,9 @@ peaceful and tranquil neighbourhood) were comprehended within [about]
 legions and knew that the several winter-quarters were fortified,
 determined to stay in Gaul.
 
-XXV.--There was among the Carnutes a man named Tasgetius, born of very
+## Chapter XXV
+
+There was among the Carnutes a man named Tasgetius, born of very
 high rank, whose ancestors had held the sovereignty in his state. To him
 Caesar had restored the position of his ancestors, in consideration of
 his prowess and attachment towards him, because in all his wars he had
@@ -4100,7 +4426,9 @@ apprised by all the lieutenants and questors to whom he had assigned the
 legions, that they had arrived in winter-quarters, and that the place
 for the quarters was fortified.
 
-XXVI.--About fifteen days after they had come into winter-quarters, the
+## Chapter XXVI
+
+About fifteen days after they had come into winter-quarters, the
 beginning of a sudden insurrection and revolt arose from Ambiorix and
 Cativolcus, who, though they had met with Sabinus and Cotta at the
 borders of their kingdom, and had conveyed corn into our winter-quarters,
@@ -4115,7 +4443,9 @@ that some of our men should go forward to a conference, [alleging] that
 they had some things which they desired to say respecting the common
 interest, by which they trusted their disputes could be removed.
 
-XXVII.--C. Arpineius, a Roman knight, the intimate friend of Q.
+## Chapter XXVII
+
+C. Arpineius, a Roman knight, the intimate friend of Q.
 Titurius, and with him Q. Junius, a certain person from Spain, who
 already on previous occasions had been accustomed to go to Ambiorix, at
 Caesar's mission, is sent to them for the purpose of a conference:
@@ -4153,7 +4483,9 @@ consulting for his own state, because it would be relieved from the
 winter-quarters, and also making a requital to Caesar for his
 obligations."
 
-XXVIII.--Arpineius and Junius relate to the lieutenants what they had
+## Chapter XXVIII
+
+Arpineius and Junius relate to the lieutenants what they had
 heard. They, greatly alarmed by the unexpected affair, though those
 things were spoken by an enemy, still thought they were not to be
 disregarded; and they were especially influenced by this consideration,
@@ -4173,7 +4505,9 @@ they put the query, "what could be more undetermined, more undignified,
 than to adopt measures respecting the most important affairs on the
 authority of an enemy?"
 
-XXIX.--In opposition to those things Titurius exclaimed, "That they
+## Chapter XXIX
+
+In opposition to those things Titurius exclaimed, "That they
 would do this too late, when greater forces of the enemy, after a
 junction with the Germans, should have assembled; or when some disaster
 had been received in the neighbouring winter-quarters; that the
@@ -4195,7 +4529,9 @@ issue would the advice of Cotta and of those who differed from him,
 have? from which, if immediate danger was not to be dreaded, yet
 certainly famine, by a protracted siege, was."
 
-XXX.--This discussion having been held on the two sides, when opposition
+## Chapter XXX
+
+This discussion having been held on the two sides, when opposition
 was offered strenuously by Cotta and the principal officers, "Prevail,"
 said Sabinus, "if so you wish it"; and he said it with a louder voice,
 that a great portion of the soldiers might hear him; "nor am I the
@@ -4207,7 +4543,9 @@ with the nearest winter-quarters, may encounter the common condition of
 war with the rest, and not, as if forced away and separated far from the
 rest, perish either by the sword or by famine."
 
-XXXI.--They rise from the council, detain both, and entreat, that "they
+## Chapter XXXI
+
+They rise from the council, detain both, and entreat, that "they
 do not bring the matter into the greatest jeopardy by their dissension
 and obstinacy; the affair was an easy one, if only they all thought and
 approved of the same thing, whether they remain or depart; on the other
@@ -4225,7 +4563,9 @@ of baggage, in such a manner as men who were convinced that the advice
 was given by Ambiorix, not as an enemy, but as most friendly [towards
 them].
 
-XXXII.--But the enemy, after they had made the discovery of their
+## Chapter XXXII
+
+But the enemy, after they had made the discovery of their
 intended departure by the noise during the night and their not retiring
 to rest, having placed an ambuscade in two divisions in the woods, in a
 suitable and concealed place, two miles from the camp, waited for the
@@ -4235,7 +4575,9 @@ themselves on either side of that valley, and began both to harass the
 rear and hinder the van from ascending, and to give battle in a place
 exceedingly disadvantageous to our men.
 
-XXXIII.--Then at length Titurius, as one who had provided nothing
+## Chapter XXXIII
+
+Then at length Titurius, as one who had provided nothing
 beforehand, was confused, ran to and fro, and set about arranging his
 troops; these very things, however, he did timidly and in such a manner
 that all resources seemed to fail him: which generally happens to those
@@ -4258,7 +4600,9 @@ most part quitted their ensigns and hurried to seek and carry off from
 the baggage whatever each thought valuable, and all parts were filled
 with uproar and lamentation.
 
-XXXIV.--But judgment was not wanting to the barbarians; for their
+## Chapter XXXIV
+
+But judgment was not wanting to the barbarians; for their
 leaders ordered [the officers] to proclaim through the ranks "that no
 man should quit his place; that the booty was theirs, and for them was
 reserved whatever the Romans should leave; therefore let them consider
@@ -4274,7 +4618,9 @@ lightness of their appointments and from their daily practice no damage
 could be done them); [but] pursue them when betaking themselves to their
 standards again.
 
-XXXV.--Which command having been most carefully obeyed, when any cohort
+## Chapter XXXV
+
+Which command having been most carefully obeyed, when any cohort
 had quitted the circle and made a charge, the enemy fled very
 precipitately. In the meantime, that part of the Roman army, of
 necessity, was left unprotected, and the weapons received on their open
@@ -4294,7 +4640,9 @@ slain while he assists his son when surrounded by the enemy; L. Cotta,
 the lieutenant, when encouraging all the cohorts and companies, is
 wounded full in the mouth by a sling.
 
-XXXVI.--Much troubled by these events, Q. Titurius, when he had
+## Chapter XXXVI
+
+Much troubled by these events, Q. Titurius, when he had
 perceived Ambiorix in the distance encouraging his men, sends to him his
 interpreter, Cn. Pompey, to beg that he would spare him and his
 soldiers. He, when addressed, replied, "If he wished to confer with him,
@@ -4307,7 +4655,9 @@ that he hoped to be able to succeed respecting his own and the soldiers'
 safety. Cotta says he will not go to an armed enemy, and in that
 perseveres.
 
-XXXVII.--Sabinus orders those tribunes of the soldiers whom he had at
+## Chapter XXXVII
+
+Sabinus orders those tribunes of the soldiers whom he had at
 the time around him, and the centurions of the first ranks, to follow
 him, and when he had approached near to Ambiorix, being ordered to throw
 down his arms, he obeys the order and commands his men to do the same.
@@ -4326,7 +4676,9 @@ to a man destroy themselves in the night. A few escaping from the
 battle, make their way to Labienus at winter-quarters, after wandering
 at random through the woods, and inform him of these events.
 
-XXXVIII.--Elated by this victory, Ambiorix marches immediately with his
+## Chapter XXXVIII
+
+Elated by this victory, Ambiorix marches immediately with his
 cavalry to the Aduatuci, who bordered on his kingdom; he halts neither
 day nor night, and orders the infantry to follow him closely. Having
 related the exploit and roused the Aduatuci, the next day he arrived
@@ -4339,7 +4691,9 @@ legion which was wintering with Cicero to be cut off, when suddenly
 assaulted; he declares himself ready to co-operate in that design." He
 easily gains over the Nervii by this speech.
 
-XXXIX.--Accordingly, messengers having been forthwith despatched to the
+## Chapter XXXIX
+
+Accordingly, messengers having been forthwith despatched to the
 Centrones, the Grudii, the Levaci, the Pleumoxii, and the Geiduni, all
 of whom are under their government, they assemble as large bodies as
 they can, and rush unexpectedly to the winter-quarters of Cicero, the
@@ -4355,7 +4709,9 @@ attack that day with great difficulty, since the enemy placed all their
 hope in despatch, and felt assured that, if they obtained this victory,
 they would be conquerors for ever.
 
-XL.--Letters are immediately sent to Caesar by Cicero, great rewards
+## Chapter XL
+
+Letters are immediately sent to Caesar by Cicero, great rewards
 being offered [to the messengers] if they carried them through. All the
 passes having been beset, those who were sent are intercepted. During
 the night as many as 120 towers are raised with incredible despatch out
@@ -4374,7 +4730,9 @@ in very weak health, did not leave himself the night-time for repose, so
 that he was forced to spare himself by the spontaneous movement and
 entreaties of the soldiers.
 
-XLI.--Then these leaders and chiefs of the Nervii, who had any intimacy
+## Chapter XLI
+
+Then these leaders and chiefs of the Nervii, who had any intimacy
 and grounds of friendship with Cicero, say they desire to confer with
 him. When permission was granted, they recount the same things which
 Ambiorix had related to Titurius, namely, "that all Gaul was in arms,
@@ -4394,7 +4752,9 @@ down their arms, they may employ him as their advocate and send
 ambassadors to Caesar: that he believed, from his [Caesar's] justice,
 they would obtain the things which they might request."
 
-XLII.--Disappointed in this hope, the Nervii surround the winter-quarters
+## Chapter XLII
+
+Disappointed in this hope, the Nervii surround the winter-quarters
 with a rampart eleven feet high, and a ditch thirteen feet in
 depth. These military works they had learnt from our men in the
 intercourse of former years, and, having taken some of our army
@@ -4407,7 +4767,9 @@ ten miles in circumference; and during the rest of the days they began
 to prepare and construct towers of the height of the ramparts, and
 grappling irons, and mantlets, which the same prisoners had taught them.
 
-XLIII.--On the seventh day of the attack, a very high wind having sprung
+## Chapter XLIII
+
+On the seventh day of the attack, a very high wind having sprung
 up, they began to discharge by their slings hot balls made of burnt or
 hardened clay, and heated javelins, upon the huts, which, after the
 Gallic custom, were thatched with straw. These quickly took fire, and by
@@ -4432,7 +4794,9 @@ on the enemy by gestures and by words, to enter if they wished; but none
 of them dared to advance. Then stones having been cast from every
 quarter, the enemy were dislodged, and their tower set on fire.
 
-XLIV.--In that legion there were two very brave men, centurions, who
+## Chapter XLIV
+
+In that legion there were two very brave men, centurions, who
 were now approaching the first ranks, T. Pulfio, and L. Varenus. These
 used to have continual disputes between them which of them should be
 preferred, and every year used to contend for promotion with the utmost
@@ -4463,7 +4827,9 @@ in this rivalry and conflict, that the one competitor was a succour and
 a safeguard to the other, nor could it be determined which of the two
 appeared worthy of being preferred to the other.
 
-XLV.--In proportion as the attack became daily more formidable and
+## Chapter XLV
+
+In proportion as the attack became daily more formidable and
 violent, and particularly because, as a great number of the soldiers
 were exhausted with wounds, the matter had come to a small number of
 defenders, more frequent letters and messengers were sent to Caesar; a
@@ -4477,7 +4843,9 @@ and mixing among the Gauls without any suspicion by being a Gaul, he
 reaches Caesar. From him they received information of the imminent
 danger of Cicero and the legion.
 
-XLVI.--Caesar having received the letter about the eleventh hour of the
+## Chapter XLVI
+
+Caesar having received the letter about the eleventh hour of the
 day, immediately sends a messenger to the Bellovaci, to M. Crassus,
 questor there, whose winter-quarters were twenty-five miles distant from
 him. He orders the legion to set forward in the middle of the night and
@@ -4490,7 +4858,9 @@ commonwealth: he does not consider that the remaining portion of the
 army, because it was somewhat farther distant, should be waited for; but
 assembles about 400 horse from the nearest winter-quarters.
 
-XLVII.--Having been apprised of the arrival of Crassus by the scouts at
+## Chapter XLVII
+
+Having been apprised of the arrival of Crassus by the scouts at
 about the third hour, he advances twenty miles that day. He appoints
 Crassus over Samarobriva and assigns him a legion, because he was
 leaving there the baggage of the army, the hostages of the states, the
@@ -4508,7 +4878,9 @@ had taken place among the Eburones; he informs him that all the infantry
 and cavalry of the Treviri had encamped at a distance of only three
 miles from his own camp.
 
-XLVIII.--Caesar, approving of his motives, although he was disappointed
+## Chapter XLVIII
+
+Caesar, approving of his motives, although he was disappointed
 in his expectation of three legions, and reduced to two, yet placed his
 only hopes of the common safety in despatch. He goes into the
 territories of the Nervii by long marches. There he learns from some
@@ -4529,7 +4901,9 @@ soldiers, and fills all with the greatest joy. Then the smoke of the
 fires was seen in the distance, a circumstance which banished all doubt
 of the arrival of the legions.
 
-XLIX.--The Gauls, having discovered the matter through their scouts,
+## Chapter XLIX
+
+The Gauls, having discovered the matter through their scouts,
 abandon the blockade, and march towards Caesar with all their forces:
 these were about 60,000 armed men. Cicero, an opportunity being now
 afforded, again begs of that Vertico, the Gaul, whom we mentioned above,
@@ -4552,7 +4926,9 @@ greatest contempt with the enemy. In the meanwhile, scouts having been
 sent in all directions, he examines by what most convenient path he
 might cross the valley.
 
-L.--That day, slight skirmishes of cavalry having taken place near the
+## Chapter L
+
+That day, slight skirmishes of cavalry having taken place near the
 river, both armies kept in their own positions: the Gauls, because they
 were awaiting larger forces which had not then arrived; Caesar, [to see]
 if perchance by pretence of fear he could allure the enemy towards his
@@ -4566,7 +4942,9 @@ camp to be fortified with a higher rampart in all directions, the gates
 to be barricaded, and in executing these things as much confusion to be
 shown as possible, and to perform them under the pretence of fear.
 
-LI.--Induced by all these things the enemy lead over their forces and
+## Chapter LI
+
+Induced by all these things the enemy lead over their forces and
 draw up their line in a disadvantageous position; and as our men also
 had been led down from the ramparts, they approach nearer, and throw
 their weapons into the fortification from all sides, and sending heralds
@@ -4581,7 +4959,9 @@ gates, and sending out the cavalry, soon puts the enemy to flight, so
 that no one at all stood his ground with the intention of fighting; and
 he slew a great number of them, and deprived all of their arms.
 
-LII.--Caesar, fearing to pursue them very far, because woods and
+## Chapter LII
+
+Caesar, fearing to pursue them very far, because woods and
 morasses intervened, and also [because] he saw that they suffered no
 small loss in abandoning their position, reaches Cicero the same day
 with all his forces safe. He witnesses with surprise the towers,
@@ -4600,7 +4980,9 @@ borne with a patient mind, because by the favour of the immortal gods
 and their own valour, neither was lasting joy left to the enemy, nor
 very lasting grief to them.
 
-LIII.--In the meanwhile the report respecting the victory of Caesar is
+## Chapter LIII
+
+In the meanwhile the report respecting the victory of Caesar is
 conveyed to Labienus through the country of the Remi with incredible
 speed, so that, though he was about sixty miles distant from the
 winter-quarter of Cicero, and Caesar had arrived there after the ninth
@@ -4628,7 +5010,9 @@ distant; but intelligence respecting the victory of Caesar being carried
 [to them], had retreated in such a manner that their departure appeared
 like a flight.
 
-LIV.--But Caesar, having summoned to him the principal persons of each
+## Chapter LIV
+
+But Caesar, having summoned to him the principal persons of each
 state, in one case by alarming them, since he declared that he knew what
 was going on, and in another case by encouraging them, retained a great
 part of Gaul in its allegiance. The Senones, however, which is a state
@@ -4652,7 +5036,9 @@ other reasons, as particularly because they who ranked above all nations
 for prowess in war, most keenly regretted that they had lost so much of
 that reputation as to submit to commands from the Roman people.
 
-LV.--But the Treviri and Indutiomarus let no part of the entire winter
+## Chapter LV
+
+But the Treviri and Indutiomarus let no part of the entire winter
 pass without sending ambassadors across the Rhine, importuning the
 states, promising money, and asserting that, as a large portion of our
 army had been cut off, a much smaller portion remained. However, none of
@@ -4667,7 +5053,9 @@ acquired for himself in Gaul by these means, that embassies were
 flocking to him in all directions, and seeking, publicly and privately,
 his favour and friendship.
 
-LVI.--When he perceived that they were coming to him voluntarily; that
+## Chapter LVI
+
+When he perceived that they were coming to him voluntarily; that
 on the one side the Senones and the Carnutes were stimulated by their
 consciousness of guilt, on the other side the Nervii and the Aduatuci
 were preparing war against the Romans, and that forces of volunteers
@@ -4686,7 +5074,9 @@ territories of the Remi, devastate their lands, and attack the camp of
 Labienus: before he does that, he informs them of what he desires to be
 done.
 
-LVII.--Labienus, since he was confining himself within a camp strongly
+## Chapter LVII
+
+Labienus, since he was confining himself within a camp strongly
 fortified by the nature of the ground and by art, had no apprehensions
 as to his own and the legion's danger, but was devising that he might
 throw away no opportunity of conducting the war successfully.
@@ -4701,7 +5091,9 @@ of conferring with or of intimidating him. Labienus confined his men
 within the fortifications and promoted the enemy's belief of his fear by
 whatever methods he could.
 
-LVIII.--Since Indutiomarus was daily advancing up to the camp with
+## Chapter LVIII
+
+Since Indutiomarus was daily advancing up to the camp with
 greater defiance, all the cavalry of the neighbouring states which he
 [Labienus] had taken care to have sent for, having been admitted in one
 night, he confined all his men within the camp by guards with such great
@@ -4729,7 +5121,9 @@ government of Gaul.
 
 ## Book VI
 
-I.--Caesar, expecting for many reasons a greater commotion in Gaul,
+## Chapter I
+
+Caesar, expecting for many reasons a greater commotion in Gaul,
 resolves to hold a levy by the means of M. Silanus, C. Antistius
 Reginus, and T. Sextius, his lieutenants: at the same time he requested
 of Cn. Pompey, the proconsul, that since he was remaining near the city
@@ -4749,7 +5143,9 @@ under Q. Titurius had been doubled, taught the Gauls, both by his
 dispatch and by his forces, what the discipline and the power of the
 Roman people could accomplish.
 
-II.--Indutiomarus having been slain, as we have stated, the government
+## Chapter II
+
+Indutiomarus having been slain, as we have stated, the government
 was conferred upon his relatives by the Treviri. They cease not to
 importune the neighbouring Germans and to promise them money: when they
 could not obtain [their object] from those nearest them, they try those
@@ -4765,7 +5161,9 @@ neighbouring states, that the Germans were importuned by the Treviri in
 frequent embassies, thought that he ought to take measures for the war
 earlier [than usual].
 
-III.-Accordingly, while the winter was not yet ended, having
+## Chapter III
+
+Accordingly, while the winter was not yet ended, having
 concentrated the four nearest legions, he marched unexpectedly into the
 territories of the Nervii, and before they could either assemble, or
 retreat, after capturing a large number of cattle and of men, and
@@ -4784,7 +5182,9 @@ Having proclaimed this from the tribunal, he advances the same day
 towards the Senones with his legions and arrives among them by long
 marches.
 
-IV.--Acco, who had been the author of that enterprise, on being informed
+## Chapter IV
+
+Acco, who had been the author of that enterprise, on being informed
 of his arrival, orders the people to assemble in the towns; to them,
 while attempting this and before it could be accomplished, news is
 brought that the Romans are close at hand: through necessity they give
@@ -4800,7 +5200,9 @@ as their mediators the Remi, under whose protection they were: they
 receive the same answers. Caesar concludes the council and imposes a
 levy of cavalry on the states.
 
-V.--This part of Gaul having been tranquillized, he applies himself
+## Chapter V
+
+This part of Gaul having been tranquillized, he applies himself
 entirely both in mind and soul to the war with the Treviri and Ambiorix.
 He orders Cavarinus to march with him with the cavalry of the Senones,
 lest any commotion should arise either out of his hot temper, or out of
@@ -4823,7 +5225,9 @@ lightly-equipped legions. They, having assembled no troops, as they
 relied on the defence of their position, retreat into the woods and
 morasses, and convey thither all their property.
 
-VI.--Caesar, having divided his forces with C. Fabius, his lieutenant,
+## Chapter VI
+
+Caesar, having divided his forces with C. Fabius, his lieutenant,
 and M. Crassus, his questor, and having hastily constructed some
 bridges, enters their country in three divisions, burns their houses and
 villages, and gets possession of a large number of cattle and men.
@@ -4835,7 +5239,9 @@ ambassadors. Having determinately settled these things, he left among
 the Menapii, Commius the Atrebatian with some cavalry as a guard; he
 himself proceeds toward the Treviri.
 
-VII.--While these things are being performed by Caesar, the Treviri,
+## Chapter VII
+
+While these things are being performed by Caesar, the Treviri,
 having drawn together large forces of infantry and of cavalry, were
 preparing to attack Labienus and the legion which was wintering in their
 territories, and were already not further distant from him than a
@@ -4863,7 +5269,9 @@ these means he makes his departure [appear], like a retreat. These
 things, also, since the camps were so near, are reported to the enemy by
 scouts before daylight.
 
-VIII.--Scarcely had the rear advanced beyond the fortifications when the
+## Chapter VIII
+
+Scarcely had the rear advanced beyond the fortifications when the
 Gauls, encouraging one another "not to cast from their hands the
 anticipated booty, that it was a tedious thing, while the Romans were
 panic stricken, to be waiting for the aid of the Germans, and that their
@@ -4895,7 +5303,9 @@ with them. The supreme power and government were delivered to
 Cingetorix, whom we have stated to have remained firm in his allegiance
 from the commencement.
 
-IX.--Caesar, after he came from the territories of the Menapii into
+## Chapter IX
+
+Caesar, after he came from the territories of the Menapii into
 those of the Treviri, resolved for two reasons to cross the Rhine; one
 of which was, because they had sent assistance to the Treviri against
 him; the other, that Ambiorix might not have a retreat among them.
@@ -4915,7 +5325,11 @@ promise to give more hostages, if he desire them." Having investigated
 the case, Caesar finds that the auxiliaries had been sent by the Suevi;
 he accepts the apology of the Ubii, and makes minute inquiries
 concerning the approaches and the routes to the territories of the
-Suevi. X.--In the meanwhile he is informed by the Ubii, a few days
+Suevi.
+
+## Chapter X
+
+In the meanwhile he is informed by the Ubii, a few days
 after, that the Suevi are drawing all their forces into one place, and
 are giving orders to those nations which are under their government to
 send auxiliaries of infantry and of cavalry. Having learned these
@@ -4936,7 +5350,9 @@ barrier, defends from injuries and incursions the Cherusci against the
 Suevi, and the Suevi against the Cherusci: that at the entrance of that
 forest the Suevi had determined to await the coming up of the Romans.
 
-XI.--Since we have come to this place, it does not appear to be foreign
+## Chapter XI
+
+Since we have come to this place, it does not appear to be foreign
 to our subject to lay before the reader an account of the manners of
 Gaul and Germany, and wherein these nations differ from each other. In
 Gaul there are factions not only in all the states, and in all the
@@ -4951,7 +5367,9 @@ oppressed and defrauded, and if he do otherwise, he has no influence
 among his party. This same policy exists throughout the whole of Gaul;
 for all the states are divided into two factions.
 
-XII.--When Caesar arrived in Gaul, the Aedui were the leaders of one
+## Chapter XII
+
+When Caesar arrived in Gaul, the Aedui were the leaders of one
 faction, the Sequani of the other. Since the latter were less powerful
 by themselves, inasmuch as the chief influence was from of old among the
 Aedui, and their dependencies were great, they had united to themselves
@@ -4981,7 +5399,9 @@ acquired influence. Affairs were then in that position, that the Aedui
 were considered by far the leading people, and the Remi held the second
 post of honour.
 
-XIII.--Throughout all Gaul there are two orders of those men who are of
+## Chapter XIII
+
+Throughout all Gaul there are two orders of those men who are of
 any rank and dignity: for the commonality is held almost in the
 condition of slaves, and dares to undertake nothing of itself and is
 admitted to no deliberation. The greater part, when they are pressed
@@ -5017,7 +5437,9 @@ Britain, and to have been brought over from it into Gaul; and now those
 who desire to gain a more accurate knowledge of that system generally
 proceed thither for the purpose of studying it.
 
-XIV.--The Druids do not go to war, nor pay tribute together with the
+## Chapter XIV
+
+The Druids do not go to war, nor pay tribute together with the
 rest; they have an exemption from military service and a dispensation in
 all matters. Induced by such great advantages, many embrace this
 profession of their own accord, and [many] are sent to it by their
@@ -5040,7 +5462,9 @@ things respecting the stars and their motion, respecting the extent of
 the world and of our earth, respecting the nature of things, respecting
 the power and the majesty of the immortal gods.
 
-XV.--The other order is that of the knights. These, when there is
+## Chapter XV
+
+The other order is that of the knights. These, when there is
 occasion and any war occurs (which before Caesar's arrival was for the
 most part wont to happen every year, as either they on their part were
 inflicting injuries or repelling those which others inflicted on them),
@@ -5048,7 +5472,9 @@ are all engaged in war. And those of them most distinguished by birth
 and resources, have the greatest number of vassals and dependants about
 them. They acknowledge this sort of influence and power only.
 
-XVI.--The nation of all the Gauls is extremely devoted to superstitious
+## Chapter XVI
+
+The nation of all the Gauls is extremely devoted to superstitious
 rites; and on that account they who are troubled with unusually severe
 diseases and they who are engaged in battles and dangers, either
 sacrifice men as victims, or vow that they will sacrifice them, and
@@ -5063,7 +5489,9 @@ theft, or in robbery, or any other offence, is more acceptable to the
 immortal gods; but when a supply of that class is wanting, they have
 recourse to the oblation of even the innocent.
 
-XVII.--They worship as their divinity, Mercury in particular, and have
+## Chapter XVII
+
+They worship as their divinity, Mercury in particular, and have
 many images of him, and regard him as the inventor of all arts, they
 consider him, the guide of their journeys and marches, and believe him
 to have very great influence over the acquisition of gain and mercantile
@@ -5082,7 +5510,9 @@ to secrete in his house things captured, or take away those deposited;
 and the most severe punishment, with torture, has been established for
 such a deed.
 
-XVIII.--All the Gauls assert that they are descended from the god Dis,
+## Chapter XVIII
+
+All the Gauls assert that they are descended from the god Dis,
 and say that this tradition has been handed down by the Druids. For that
 reason they compute the divisions of every season, not by the number of
 days, but of nights; they keep birthdays and the beginnings of months
@@ -5093,7 +5523,9 @@ until they are grown up so as to be able to bear the service of war; and
 they regard it as indecorous for a son of boyish age to stand in public
 in the presence of his father.
 
-XIX.--Whatever sums of money the husbands have received in the name of
+## Chapter XIX
+
+Whatever sums of money the husbands have received in the name of
 dowry from their wives, making an estimate of it, they add the same
 amount out of their own estates. An account is kept of all this money
 conjointly, and the profits are laid by: whichever of them shall have
@@ -5112,7 +5544,9 @@ dependants, who were ascertained to have been beloved by them, were,
 after the regular funeral rites were completed, burnt together with
 them.
 
-XX.--Those states which are considered to conduct their commonwealth
+## Chapter XX
+
+Those states which are considered to conduct their commonwealth
 more judiciously, have it ordained by their laws, that, if any person
 shall have heard by rumour and report from his neighbours anything
 concerning the commonwealth, he shall convey it to the magistrate and
@@ -5124,7 +5558,9 @@ require to be kept unknown; and they disclose to the people whatever
 they determine to be expedient. It is not lawful to speak of the
 commonwealth, except in council.
 
-XXI.--The Germans differ much from these usages, for they have neither
+## Chapter XXI
+
+The Germans differ much from these usages, for they have neither
 Druids to preside over sacred offices, nor do they pay great regard to
 sacrifices. They rank in the number of the gods those alone whom they
 behold, and by whose instrumentality they are obviously benefited,
@@ -5140,7 +5576,9 @@ acts; of which matter there is no concealment, because they bathe
 promiscuously in the rivers and [only] use skins or small cloaks of
 deers' hides, a large portion of the body being in consequence naked.
 
-XXII.--They do not pay much attention to agriculture, and a large
+## Chapter XXII
+
+They do not pay much attention to agriculture, and a large
 portion of their food consists in milk, cheese, and flesh; nor has any
 one a fixed quantity of land or his own individual limits; but the
 magistrates and the leading men each year apportion to the tribes and
@@ -5156,7 +5594,9 @@ divisions and discords arise; and that they may keep the common people
 in a contented state of mind, when each sees his own means placed on an
 equality with [those of] the most powerful.
 
-XXIII.--It is the greatest glory to the several states to have as wide
+## Chapter XXIII
+
+It is the greatest glory to the several states to have as wide
 deserts as possible around them, their frontiers having been laid waste.
 They consider this the real evidence of their prowess, that their
 neighbours shall be driven out of their lands and abandon them, and that
@@ -5180,7 +5620,9 @@ injure guests they regard as impious; they defend from wrong those who
 have come to them for any purpose whatever, and esteem them inviolable;
 to them the houses of all are open and maintenance is freely supplied.
 
-XXIV.--And there was formerly a time when the Gauls excelled the Germans
+## Chapter XXIV
+
+And there was formerly a time when the Gauls excelled the Germans
 in prowess, and waged war on them offensively, and, on account of the
 great number of their people and the insufficiency of their land, sent
 colonies over the Rhine. Accordingly, the Volcae Tectosages seized on
@@ -5196,7 +5638,9 @@ Gauls many things tending to luxury as well as civilization. Accustomed
 by degrees to be overmatched and worsted in many engagements, they do
 not even compare themselves to the Germans in prowess.
 
-XXV.--The breadth of this Hercynian forest, which has been referred to
+## Chapter XXV
+
+The breadth of this Hercynian forest, which has been referred to
 above, is to a quick traveller, a journey of nine days. For it cannot be
 otherwise computed, nor are they acquainted with the measures of roads.
 It begins at the frontiers of the Helvetii, Nemetes, and Rauraci, and
@@ -5211,13 +5655,17 @@ produced in it which have not been seen in other parts; of which the
 following are such as differ principally from other animals, and appear
 worthy of being committed to record.
 
-XXVI.--There is an ox of the shape of a stag, between whose ears a horn
+## Chapter XXVI
+
+There is an ox of the shape of a stag, between whose ears a horn
 rises from the middle of the forehead, higher and straighter than those
 horns which are known to us. From the top of this, branches, like palms;
 stretch out a considerable distance. The shape of the female and of the
 male is the same; the appearance and the size of the horns is the same.
 
-XXVII.--There are also [animals] which are called elks. The shape of
+## Chapter XXVII
+
+There are also [animals] which are called elks. The shape of
 these, and the varied colour of their skins, is much like roes, but in
 size they surpass them a little and are destitute of horns, and have
 legs without joints and ligatures; nor do they lie down for the purpose
@@ -5232,7 +5680,9 @@ they have leant upon them, according to their habit, they knock down by
 their weight the unsupported trees, and fall down themselves along with
 them.
 
-XXVIII.-There is a third kind, consisting of those animals which are
+## Chapter XXVIII
+
+There is a third kind, consisting of those animals which are
 called uri. These are a little below the elephant in size, and of the
 appearance, colour, and shape of a bull. Their strength and speed are
 extraordinary; they spare neither man nor wild beast which they have
@@ -5246,7 +5696,9 @@ appearance of their horns differ much from the horns of our oxen. These
 they anxiously seek after, and bind at the tips with silver, and use as
 cups at their most sumptuous entertainments.
 
-XXIX.--Caesar, after he discovered through the Ubian scouts that the
+## Chapter XXIX
+
+Caesar, after he discovered through the Ubian scouts that the
 Suevi had retired into their woods, apprehending a scarcity of corn,
 because, as we have observed above, all the Germans pay very little
 attention to agriculture, resolved not to proceed any farther; but, that
@@ -5267,7 +5719,9 @@ advantage by rapid marches and the advantage of time, he warns him to
 forbid fires being made in the camp, lest any indication of his approach
 be given at a distance: he tells him that he will follow immediately.
 
-XXX.--Basilus does as he was commanded; having performed his march
+## Chapter XXX
+
+Basilus does as he was commanded; having performed his march
 rapidly, and even surpassed the expectations of all, he surprises in the
 fields many not expecting him; through their information he advances
 towards Ambiorix himself, to the place in which he was said to be with a
@@ -5287,7 +5741,9 @@ While they were fighting, one of his followers mounted him on a horse:
 the woods sheltered him as he fled. Thus fortune tended much both
 towards his encountering and his escaping danger.
 
-XXXI.--Whether Ambiorix did not collect his forces from cool
+## Chapter XXXI
+
+Whether Ambiorix did not collect his forces from cool
 deliberation, because he considered he ought not to engage in a battle,
 or [whether] he was debarred by time and prevented by the sudden arrival
 of our horse, when he supposed the rest of the army was closely
@@ -5304,7 +5760,9 @@ Ambiorix with every imprecation, as the person who had been the
 contriver of that measure, destroyed himself with the juice of the yew
 tree, of which there is a great abundance in Gaul and Germany.
 
-XXXII.--The Segui and Condrusi, of the nation and number of the Germans,
+## Chapter XXXII
+
+The Segui and Condrusi, of the nation and number of the Germans,
 and who are between the Eburones and the Treviri, sent ambassadors to
 Caesar to entreat that he would not regard them in the number of his
 enemies, nor consider that the cause of all the Germans on this side the
@@ -5324,7 +5782,9 @@ one of those three which he had lately raised in Italy and brought over.
 Over that legion and camp he places Q. Tullius Cicero and gives him 200
 horse.
 
-XXXIII.--Having divided the army, he orders T. Labienus to proceed with
+## Chapter XXXIII
+
+Having divided the army, he orders T. Labienus to proceed with
 three legions towards the ocean into those parts which border on the
 Menappii; he sends C. Trebonius with a like number of legions to lay
 waste that district which lies contiguous to the Aduatuci; he himself
@@ -5339,7 +5799,9 @@ their measures having been mutually imparted, and the plans of the enemy
 having been discovered, they might be able to commence a different line
 of operations.
 
-XXXIV.--There was, as we have above observed, no regular army, nor a
+## Chapter XXXIV
+
+There was, as we have above observed, no regular army, nor a
 town, nor a garrison which could defend itself by arms; but the people
 were scattered in all directions. Where either a hidden valley, or a
 woody spot, or a difficult morass furnished any hope of protection or of
@@ -5370,7 +5832,9 @@ that a large force being drawn around them, the race and name of that
 state may be annihilated for such a crime. A large number from all
 quarters speedily assembles.
 
-XXXV.--These things were going on in all parts of the territories of the
+## Chapter XXXV
+
+These things were going on in all parts of the territories of the
 Eburones, and the seventh day was drawing near, by which day Caesar had
 purposed to return to the baggage and the legion. Here it might be
 learned how much fortune achieves in war, and how great casualties she
@@ -5399,7 +5863,9 @@ concealment the plunder they had acquired; they themselves hasten to
 Aduatuca, employing as their guide the same man by whose information
 they had become informed of these things.
 
-XXXVI.--Cicero, who during all the foregoing days had kept his soldiers
+## Chapter XXXVI
+
+Cicero, who during all the foregoing days had kept his soldiers
 in camp with the greatest exactness, and agreeably to the injunctions of
 Caesar, had not permitted even any of the camp-followers to go beyond
 the fortification, distrusting on the seventh day that Caesar would keep
@@ -5418,7 +5884,9 @@ camp, of whom those who had recovered in this space of time, being about
 attendants besides, with a great number of beasts of burden, which had
 remained in the camp, permission being granted, follow them.
 
-XXXVII.--At this very time, the German horse by chance come up, and
+## Chapter XXXVII
+
+At this very time, the German horse by chance come up, and
 immediately, with the same speed with which they had advanced, attempt
 to force the camp at the Decuman gate, nor were they seen, in
 consequence of woods lying in the way on that side, before they were
@@ -5442,7 +5910,9 @@ that there is no garrison within, as they had heard from their prisoner.
 They endeavour to force an entrance and encourage one another not to
 cast from their hands so valuable a prize.
 
-XXXVIII.-P. Sextius Baculus, who had led a principal century under
+## Chapter XXXVIII
+
+P. Sextius Baculus, who had led a principal century under
 Caesar (of whom we have made mention in previous engagements), had been
 left an invalid in the garrison, and had now been five days without
 food. He, distrusting his own safety and that of all, goes forth from
@@ -5455,7 +5925,9 @@ saved, drawn away by the hands of the soldiers. This space having
 intervened, the others resume courage, so far as to venture to take
 their place on the fortifications and present the aspect of defenders.
 
-XXXIX.--The foraging having in the meantime been completed, our soldiers
+## Chapter XXXIX
+
+The foraging having in the meantime been completed, our soldiers
 distinctly hear the shout; the horse hasten on before and discover in
 what danger the affair is. But here there is no fortification to receive
 them, in their alarm: those last enlisted and unskilled in military
@@ -5467,7 +5939,9 @@ attack; at first they suppose that the legions, which they had learned
 from their prisoners had removed farther off, had returned; afterwards,
 despising their small number, they make an attack on them at all sides.
 
-XL.-The camp-followers run forward to the nearest rising ground; being
+## Chapter XL
+
+The camp-followers run forward to the nearest rising ground; being
 speedily driven from this they throw themselves among the standards and
 companies: they thus so much the more alarm the soldiers already
 affrighted. Some propose that, forming a wedge, they suddenly break
@@ -5494,7 +5968,9 @@ fighting most valiantly. The enemy having been dislodged by their
 valour, a part of the soldiers arrived safe in camp contrary to their
 expectations; a part perished, surrounded by the barbarians.
 
-XLI.--The Germans, despairing of taking the camp by storm, because they
+## Chapter XLI
+
+The Germans, despairing of taking the camp by storm, because they
 saw that our men had taken up their position on the fortifications,
 retreated beyond the Rhine with that plunder which they had deposited in
 the woods. And so great was the alarm, even after the departure of the
@@ -5506,7 +5982,9 @@ forces having been cut off, the cavalry alone had arrived there by
 flight, and asserted that, if the army were safe, the Germans would not
 have attacked the camp: which fear the arrival of Caesar removed.
 
-XLII.--He, on his return, being well aware of the casualties of war,
+## Chapter XLII
+
+He, on his return, being well aware of the casualties of war,
 complained of one thing [only], namely, that the cohorts had been sent
 away from the outposts and garrison [duty], and pointed out that room
 ought not to have been left for even the most trivial casualty; that
@@ -5517,7 +5995,9 @@ most surprising that the Germans, who had crossed the Rhine with this
 object, that they might plunder the territories of Ambiorix, being led
 to the camp of the Romans, rendered Ambiorix a most acceptable service.
 
-XLIII.--Caesar, having again marched to harass the enemy, after
+## Chapter XLIII
+
+Caesar, having again marched to harass the enemy, after
 collecting a large number [of auxiliaries] from the neighbouring states,
 despatches them in all directions. All the villages and all the
 buildings, which each beheld, were on fire: spoil was being driven off
@@ -5538,7 +6018,9 @@ by the night, made for other districts and quarters, with no greater
 guard than that of four horsemen, to whom alone he ventured to confide
 his life.
 
-XLIV.--Having devastated the country in such a manner, Caesar leads back
+## Chapter XLIV
+
+Having devastated the country in such a manner, Caesar leads back
 his army with the loss of two cohorts to Durocortorum of the Remi, and,
 having summoned a council of Gaul to assemble at that place, he resolved
 to hold an investigation respecting the conspiracy of the Senones and
@@ -5553,7 +6035,9 @@ assizes.
 
 ## Book VII
 
-I.--Gaul being tranquil, Caesar, as he had determined, sets out for
+## Chapter I
+
+Gaul being tranquil, Caesar, as he had determined, sets out for
 Italy to hold the provincial assizes. There he receives intelligence of
 the death of Clodius; and, being informed of the decree of the senate
 [to the effect] that all the youth of Italy should take the military
@@ -5579,7 +6063,9 @@ that it was better to be slain in battle than not to recover their
 ancient glory in war, and that freedom which they had received from
 their forefathers.
 
-II.--Whilst these things are in agitation, the Carnutes declare "that
+## Chapter II
+
+Whilst these things are in agitation, the Carnutes declare "that
 they would decline no danger for the sake of the general safety," and
 promise that they would be the first of all to begin the war; and since
 they cannot at present take precautions, by giving and receiving
@@ -5589,7 +6075,9 @@ military standards being brought together (in which manner their most
 sacred obligations are made binding), that they should not be deserted
 by the rest of the Gauls on commencing the war.
 
-III.--When the appointed day came, the Carnutes, under the command of
+## Chapter III
+
+When the appointed day came, the Carnutes, under the command of
 Cotuatus and Conetodunus, desperate men, meet together at Genabum, and
 slay the Roman citizens who had settled there for the purpose of trading
 (among the rest, Caius Fusius Cita, a distinguished Roman knight, who by
@@ -5603,7 +6091,9 @@ at Genabum at sunrise were heard in the territories of the Arverni
 before the end of the first watch, which is an extent of more than a
 hundred and sixty miles.
 
-IV.--There in like manner, Vercingetorix the son of Celtillus the
+## Chapter IV
+
+There in like manner, Vercingetorix the son of Celtillus the
 Arvernian, a young man of the highest power (whose father had held the
 supremacy of entire Gaul, and had been put to death by his fellow
 citizens, for this reason, because he aimed at sovereign power),
@@ -5633,7 +6123,9 @@ cause, he sends home the offenders with their ears cut off, or one of
 their eyes put out, that they may be an example to the rest, and
 frighten others by the severity of their punishment.
 
-V.--Having quickly collected an army by their punishments, he sends
+## Chapter V
+
+Having quickly collected an army by their punishments, he sends
 Lucterius, one of the Cadurci, a man of the utmost daring, with part of
 his forces, into the territory of the Ruteni; and marches in person into
 the country of the Bituriges. On his arrival, the Bituriges send
@@ -5652,7 +6144,9 @@ alleged to the lieutenants, or influenced by treachery, we think that we
 ought not to state as certain, because we have no proof. On their
 departure, the Bituriges immediately unite themselves to the Arverni.
 
-VI.--These affairs being announced to Caesar in Italy at the time when
+## Chapter VI
+
+These affairs being announced to Caesar in Italy at the time when
 he understood that matters in the city had been reduced to a more
 tranquil state by the energy of Cneius Pompey, he set out for
 Transalpine Gaul. After he had arrived there, he was greatly at a loss
@@ -5662,7 +6156,9 @@ would have to fight in his absence; he foresaw too, that if he himself
 should endeavour to reach the army, he would act injudiciously, in
 trusting his safety even to those who seemed to be tranquillized.
 
-VII.--In the meantime Lucterius the Cadurcan, having been sent into the
+## Chapter VII
+
+In the meantime Lucterius the Cadurcan, having been sent into the
 country of the Ruteni, gains over that state to the Arverni. Having
 advanced into the country of the Nitiobriges, and Gabali, he receives
 hostages from both nations, and, assembling a numerous force, marches to
@@ -5676,7 +6172,9 @@ forces from the province, and the recruits which he had brought from
 Italy, to rendezvous among the Helvii who border on the territories of
 the Arverni.
 
-VIII.--These matters being arranged, and Lucterius now checked and
+## Chapter VIII
+
+These matters being arranged, and Lucterius now checked and
 forced to retreat, because he thought it dangerous to enter the line of
 Roman garrisons, Caesar marches into the country of the Helvii; although
 mount Cevennes, which separates the Arverni from the Helvii, blocked up
@@ -5696,7 +6194,9 @@ transferred into their country. Being prevailed upon by their entreaties
 he moves his camp from the country of the Bituriges in the direction of
 the Arverni.
 
-IX.--Caesar, having delayed two days in that place, because he had
+## Chapter IX
+
+Caesar, having delayed two days in that place, because he had
 anticipated that, in the natural course of events, such would be the
 conduct of Vercingetorix, leaves the army under pretence of raising
 recruits and cavalry: he places Brutus, a young man, in command of these
@@ -5720,7 +6220,9 @@ town of the Boii, whom Caesar had settled there after defeating them in
 the Helvetian war, and had rendered tributary to the Aedui, he
 determined to attack it.
 
-X.--This action caused great perplexity to Caesar in the selection of
+## Chapter X
+
+This action caused great perplexity to Caesar in the selection of
 his plans; [he feared] lest, if he should confine his legions in one
 place for the remaining portion of the winter, all Gaul should revolt
 when the tributaries of the Aedui were subdued, because it would appear
@@ -5736,7 +6238,9 @@ their allegiance, and resist the attack of the enemy with great
 resolution. Having left two legions and the luggage of the entire army
 at Agendicum, he marches to the Boii.
 
-XI.--On the second day, when he came to Vellaunodunum, a town of the
+## Chapter XI
+
+On the second day, when he came to Vellaunodunum, a town of the
 Senones, he determined to attack it, in order that he might not leave an
 enemy in his rear, and might the more easily procure supplies of
 provisions, and drew a line of circumvallation around it in two days: on
@@ -5765,7 +6269,9 @@ escaping. He pillages and burns the town, gives the booty to the
 soldiers, then leads his army over the Loire, and marches into the
 territories of the Bituriges.
 
-XII.--Vercingetorix, when he ascertained the arrival of Caesar, desisted
+## Chapter XII
+
+Vercingetorix, when he ascertained the arrival of Caesar, desisted
 from the siege [of Gergovia], and marched to meet Caesar. The latter had
 commenced to besiege Noviodunum; and when ambassadors came from this
 town to beg that he would pardon them and spare their lives, in order
@@ -5783,7 +6289,9 @@ signal-making of the Gauls that they were forming some new design, they
 drew their swords and seized the gates, and recovered all their men
 safe.
 
-XIII.--Caesar orders the horse to be drawn out of the camp, and
+## Chapter XIII
+
+Caesar orders the horse to be drawn out of the camp, and
 commences a cavalry action. His men being now distressed, Caesar sends
 to their aid about four hundred German horse, which he had determined,
 at the beginning, to keep with himself. The Gauls could not withstand
@@ -5797,7 +6305,9 @@ town in the territories of the Bituriges, and situated in a most fertile
 tract of country; because he confidently expected that on taking that
 town, he would reduce beneath his dominion the state of the Bituriges.
 
-XIV.--Vercingetorix, after sustaining such a series of losses at
+## Chapter XIV
+
+Vercingetorix, after sustaining such a series of losses at
 Vellaunodunum, Genabum, and Noviodunum, summons his men to a council. He
 impresses on them "that the war must be prosecuted on a very different
 system from that which had been previously adopted; but they should by
@@ -5826,7 +6336,9 @@ heavy or galling, that they ought to consider it much more distressing
 that their wives and children should be dragged off to slavery, and
 themselves slain; the evils which must necessarily befall the conquered.
 
-XV.--This opinion having been approved of by unanimous consent, more
+## Chapter XV
+
+This opinion having been approved of by unanimous consent, more
 than twenty towns of the Bituriges are burnt in one day. Conflagrations
 are beheld in every quarter; and although all bore this with great
 regret, yet they laid before themselves this consolation, that, as the
@@ -5844,7 +6356,9 @@ at first dissuades them from it, but afterwards concedes the point,
 owing to their entreaties and the compassion of the soldiers. A proper
 garrison is selected for the town.
 
-XVI.--Vercingetorix follows closely upon Caesar by shorter marches, and
+## Chapter XVI
+
+Vercingetorix follows closely upon Caesar by shorter marches, and
 selects for his camp a place defended by woods and marshes, at the
 distance of fifteen miles from Avaricum. There he received intelligence
 by trusty scouts, every hour in the day, of what was going on at
@@ -5855,7 +6369,9 @@ and inflicted severe loss upon them; although the evil was remedied by
 our men, as far as precautions could be taken, by going forth at
 irregular times, and by different ways.
 
-XVII.--Caesar pitching his camp at that side of the town which was not
+## Chapter XVII
+
+Caesar pitching his camp at that side of the town which was not
 defended by the river and marsh, and had a very narrow approach, as we
 have mentioned, began to raise the vineae and erect two towers; for the
 nature of the place prevented him from drawing a line of
@@ -5881,7 +6397,9 @@ perfidy of the Gauls." They entrusted the same declarations to the
 centurions and military tribunes, that through them they might be
 communicated to Caesar.
 
-XVIII.--When the towers had now approached the walls, Caesar ascertained
+## Chapter XVIII
+
+When the towers had now approached the walls, Caesar ascertained
 from the captives that Vercingetorix, after destroying the forage, had
 pitched his camp nearer Avaricum, and that he himself with the cavalry
 and light-armed infantry, who generally fought among the horse, had gone
@@ -5894,7 +6412,9 @@ woods, and drew up all their forces in a lofty and open space: which
 circumstance being announced, Caesar immediately ordered the baggage to
 be piled, and the arms to be got ready.
 
-XIX.--There was a hill of a gentle ascent from the bottom; a dangerous
+## Chapter XIX
+
+There was a hill of a gentle ascent from the bottom; a dangerous
 and impassable marsh, not more than fifty feet broad, begirt it on
 almost every side. The Gauls, having broken down the bridges, posted
 themselves on this hill, in confidence of their position, and being
@@ -5917,7 +6437,9 @@ consoled his soldiers, he leads them back on the same day to the camp,
 and determined to prepare the other things which were necessary for the
 siege of the town.
 
-XX.--Vercingetorix, when he had returned to his men, was accused of
+## Chapter XX
+
+Vercingetorix, when he had returned to his men, was accused of
 treason, in that he had moved his camp nearer the Romans, in that he had
 gone away with all the cavalry, in that he had left so great forces
 without a commander, in that, on his departure, the Romans had come at
@@ -5962,7 +6484,9 @@ destroyed by famine, without shedding one drop of your blood; and I have
 taken precautions that no state shall admit within its territories this
 army in its ignominious flight from this place."
 
-XXI.--The whole multitude raise a shout and clash their arms, according
+## Chapter XXI
+
+The whole multitude raise a shout and clash their arms, according
 to their custom, as they usually do in the case of him whose speech they
 approve; [they exclaim] that Vercingetorix was a consummate general, and
 that they had no doubt of his honour; that the war could not be
@@ -5972,7 +6496,9 @@ decide that the general safety should not be entrusted to the Bituriges
 alone, because they were aware that the glory of the victory must rest
 with the Bituriges, if they made good the defence of the town.
 
-XXII.--To the extraordinary valour of our soldiers, devices of every
+## Chapter XXII
+
+To the extraordinary valour of our soldiers, devices of every
 sort were opposed by the Gauls; since they are a nation of consummate
 ingenuity, and most skilful in imitating and making those things which
 are imparted by any one; for they turned aside the hooks with nooses,
@@ -5990,7 +6516,9 @@ and countermined our mines, and impeded the working of them by stakes
 bent and sharpened at the ends, and boiling pitch, and stones of very
 great weight, and prevented them from approaching the walls.
 
-XXIII.--But this is usually the form of all the Gallic walls. Straight
+## Chapter XXIII
+
+But this is usually the form of all the Gallic walls. Straight
 beams, connected lengthwise and two feet distant from each other at
 equal intervals, are placed together on the ground; these are mortised
 on the inside, and covered with plenty of earth. But the intervals which
@@ -6008,7 +6536,9 @@ from fire, and the wood from the battering ram, since it [the wood]
 being mortised in the inside with rows of beams, generally forty feet
 each in length, can neither be broken through nor torn asunder.
 
-XXIV.--The siege having been impeded by so many disadvantages, the
+## Chapter XXIV
+
+The siege having been impeded by so many disadvantages, the
 soldiers, although they were retarded during the whole time, by the mud,
 cold, and constant showers, yet by their incessant labour overcame all
 these obstacles, and in twenty-five days raised a mound three hundred
@@ -6029,7 +6559,9 @@ were promptly taken, that some should oppose the sallying party, others
 draw back the towers and make a cut in the rampart; and moreover, that
 the whole army should hasten from the camp to extinguish the flames.
 
-XXV.--When the battle was going on in every direction, the rest of the
+## Chapter XXV
+
+When the battle was going on in every direction, the rest of the
 night being now spent, and fresh hopes of victory always arose before
 the enemy: the more so on this account because they saw the coverings of
 our towers burnt away, and perceived that we, being exposed, could not
@@ -6047,7 +6579,9 @@ succeeded the third: nor was this post left vacant by the besieged,
 until, the fire of the mound having been extinguished, and the enemy
 repulsed in every direction, an end was put to the fighting.
 
-XXVI.--The Gauls having tried every expedient, as nothing had succeeded,
+## Chapter XXVI
+
+The Gauls having tried every expedient, as nothing had succeeded,
 adopted the design of fleeing from the town the next day, by the advice
 and order of Vercingetorix. They hoped that, by attempting it at the
 dead of night, they would effect it without any great loss of men,
@@ -6065,7 +6599,9 @@ give intelligence of their flight to the Romans. The Gauls being
 intimidated by fear of this, lest the passes should be pre-occupied by
 the Roman cavalry, desisted from their design.
 
-XXVII.--The next day Caesar, the tower being advanced, and the works
+## Chapter XXVII
+
+The next day Caesar, the tower being advanced, and the works
 which he had determined to raise being arranged, a violent storm
 arising, thought this no bad time for executing his designs, because he
 observed the guards arranged on the walls a little too negligently, and
@@ -6077,7 +6613,9 @@ reward for those who should first scale the walls, and gave the signal
 to the soldiers. They suddenly flew out from all quarters and quickly
 filled the wall.
 
-XXVIII.--The enemy being alarmed by the suddenness of the attack, were
+## Chapter XXVIII
+
+The enemy being alarmed by the suddenness of the attack, were
 dislodged from the wall and towers, and drew up, in form of a wedge, in
 the market-place and the open streets, with this intention that, if an
 attack should be made on any side, they should fight with their line
@@ -6102,7 +6640,9 @@ should be separated and conducted to their fellow countrymen, to
 whatever part of the camp had been assigned to each state from the
 beginning.
 
-XXIX.--Vercingetorix having convened an assembly on the following day,
+## Chapter XXIX
+
+Vercingetorix having convened an assembly on the following day,
 consoled and encouraged his soldiers in the following words:--"That they
 should not be too much depressed in spirit, nor alarmed at their loss;
 that the Romans did not conquer by valour nor in the field, but by a
@@ -6122,7 +6662,9 @@ for the sake of the general safety, to begin to fortify their camp, in
 order that they might the more easily sustain the sudden attacks of the
 enemy."
 
-XXX.--This speech was not disagreeable to the Gauls, principally,
+## Chapter XXX
+
+This speech was not disagreeable to the Gauls, principally,
 because he himself was not disheartened by receiving so severe a loss,
 and had not concealed himself, nor shunned the eyes of the people: and
 he was believed to possess greater foresight and sounder judgment than
@@ -6137,7 +6679,9 @@ camps, and were so alarmed that although they were men unaccustomed to
 toil, yet they were of opinion that they ought to endure and suffer
 everything which should be imposed upon them.
 
-XXXI.--Nor did Vercingetorix use less efforts than he had promised, to
+## Chapter XXXI
+
+Nor did Vercingetorix use less efforts than he had promised, to
 gain over the other states, and [in consequence] endeavoured to entice
 their leaders by gifts and promises. For this object he selected fitting
 emissaries by whose subtle pleading or private friendship each of the
@@ -6154,7 +6698,9 @@ whose father had received the appellation of friend from our senate,
 came to him with a great number of his own horse and those whom he had
 hired from Aquitania.
 
-XXXII.--Caesar, after delaying several days at Avaricum, and finding
+## Chapter XXXII
+
+Caesar, after delaying several days at Avaricum, and finding
 there the greatest plenty of corn and other provisions, refreshed his
 army after their fatigue and privation. The winter being almost ended,
 when he was invited by the favourable season of the year to prosecute
@@ -6176,7 +6722,9 @@ the result would be that one part of the state would come to a collision
 with the other; that it rested with his activity and influence to
 prevent it."
 
-XXXIII.--Although Caesar considered it ruinous to leave the war and the
+## Chapter XXXIII
+
+Although Caesar considered it ruinous to leave the war and the
 enemy, yet, being well aware what great evils generally arise from
 internal dissensions, lest a state so powerful and so closely connected
 with the Roman people, which he himself had always fostered and honoured
@@ -6198,7 +6746,9 @@ Convictolitanis, who had been elected by the priests, according to the
 usage of the state, in the presence of the magistrates, to hold the
 supreme authority.
 
-XXXIV.--Having pronounced this decree between [the contending parties],
+## Chapter XXXIV
+
+Having pronounced this decree between [the contending parties],
 he exhorted the Aedui to bury in oblivion their disputes and
 dissensions, and, laying aside all these things, devote themselves to
 the war, and expect from him, on the conquest of Gaul, those rewards
@@ -6213,7 +6763,9 @@ kept part to himself. Vercingetorix, on learning this circumstance,
 broke down all the bridges over the river and began to march on the
 other bank of the Allier.
 
-XXXV.--When each army was in sight of the other, and was pitching their
+## Chapter XXXV
+
+When each army was in sight of the other, and was pitching their
 camp almost opposite that of the enemy, scouts being distributed in
 every quarter, lest the Romans should build a bridge and bring over
 their troops; it was to Caesar a matter attended with great
@@ -6234,7 +6786,9 @@ Vercingetorix, on ascertaining this fact, went before him by forced
 marches, in order that he might not be compelled to come to an action
 against his will.
 
-XXXVI.--Caesar, in five days' march, went from that place to Gergovia,
+## Chapter XXXVI
+
+Caesar, in five days' march, went from that place to Gergovia,
 and after engaging in a slight cavalry skirmish that day, on viewing the
 situation of the city, which, being built on a very high mountain, was
 very difficult of access, he despaired of taking it by storm, and
@@ -6260,7 +6814,9 @@ drew from the greater camp to the less a double trench twelve feet
 broad, so that the soldiers could even singly pass secure from any
 sudden attack of the enemy.
 
-XXXVII.--Whilst these affairs were going on at Gergovia,
+## Chapter XXXVII
+
+Whilst these affairs were going on at Gergovia,
 Convictolitanis, the Aeduan, to whom we have observed the magistracy was
 adjudged by Caesar, being bribed by the Arverni, holds a conference with
 certain young men, the chief of whom were Litavicus and his brothers,
@@ -6283,7 +6839,9 @@ Caesar for the war, and should have charge of them on their march, and
 that his brothers should go before him to Caesar. They arrange the other
 measures, and the manner in which they should have them done.
 
-XXXVIII.--Litavicus, having received the command of the army, suddenly
+## Chapter XXXVIII
+
+Litavicus, having received the command of the army, suddenly
 convened the soldiers, when he was about thirty miles distant from
 Gergovia, and, weeping, said, "Soldiers, whither are we going? All our
 knights and all our nobles have perished. Eporedorix and Viridomarus,
@@ -6312,7 +6870,9 @@ falsehood concerning the slaughter of their knights and nobles; he
 earnestly advises them to avenge, in the same manner as he did, the
 wrongs which they had received.
 
-XXXIX.--Eporedorix, the Aeduan, a young man born in the highest rank and
+## Chapter XXXIX
+
+Eporedorix, the Aeduan, a young man born in the highest rank and
 possessing very great influence at home, and, along with Viridomarus, of
 equal age and influence, but of inferior birth, whom Caesar had raised
 from a humble position to the highest rank, on being recommended to him
@@ -6328,7 +6888,9 @@ consequence if so many thousand men should unite themselves to the
 enemy, as their relations could not neglect their safety, nor the state
 regard it as a matter of slight importance.
 
-XL.--Caesar felt great anxiety on this intelligence, because he had
+## Chapter XL
+
+Caesar felt great anxiety on this intelligence, because he had
 always especially indulged the state of the Aedui, and, without any
 hesitation, draws out from the camp four light-armed legions and all the
 cavalry: nor had he time, at such a crisis, to contract the camp,
@@ -6349,7 +6911,9 @@ with his clansmen, who after the custom of the Gauls consider it a crime
 to desert their patrons, even in extreme misfortune, flees forth to
 Gergovia.
 
-XLI.--Caesar, after sending messengers to the state of the Aedui, to
+## Chapter XLI
+
+Caesar, after sending messengers to the state of the Aedui, to
 inform them that they whom he could have put to death by the right of
 war were spared through his kindness, and after giving three hours of
 the night to his army for his repose, directed his march to Gergovia.
@@ -6367,7 +6931,9 @@ similar casualty on the following day. Caesar, after receiving this
 information, reached the camp before sunrise owing to the very great
 zeal of his soldiers.
 
-XLII.--Whilst these things are going on at Gergovia, the Aedui, on
+## Chapter XLII
+
+Whilst these things are going on at Gergovia, the Aedui, on
 receiving the first announcements from Litavicus, leave themselves no
 time to ascertain the truth of these statements. Some are stimulated by
 avarice, others by revenge and credulity, which is an innate propensity
@@ -6384,7 +6950,9 @@ strip them of all their baggage; they besiege day and night those that
 resisted; when many were slain on both sides, they excite a greater
 number to arms.
 
-XLIII.--In the meantime, when intelligence was brought that all their
+## Chapter XLIII
+
+In the meantime, when intelligence was brought that all their
 soldiers were in Caesar's power, they run in a body to Aristius; they
 assure him that nothing had been done by public authority; they order an
 inquiry to be made about the plundered property; they confiscate the
@@ -6403,7 +6971,9 @@ to form plans as to the manner in which he should return from Gergovia
 and again concentrate his forces, lest a departure arising from the fear
 of a revolt should seem like a flight.
 
-XLIV.--Whilst he was considering these things an opportunity of acting
+## Chapter XLIV
+
+Whilst he was considering these things an opportunity of acting
 successfully seemed to offer. For, when he had come into the smaller
 camp for the purpose of securing the works, he noticed that the hill in
 the possession of the enemy was stript of men, although, on the former
@@ -6419,7 +6989,9 @@ they would be almost surrounded, and cut off from all egress and
 foraging; that they were all summoned by Vercingetorix to fortify this
 place.
 
-XLV.--Caesar, on being informed of this circumstance, sends several
+## Chapter XLV
+
+Caesar, on being informed of this circumstance, sends several
 troops of horse to the place immediately after midnight; he orders them
 to range in every quarter with more tumult than usual. At dawn he orders
 a large quantity of baggage to be drawn out of the camp, and the
@@ -6445,7 +7017,9 @@ alone: that success depended on a surprise, and not on a battle. After
 stating these particulars, he gives the signal for action, and detaches
 the Aedui at the same time by another ascent an the right.
 
-XLVI.--The town wall was 1200 paces distant from the plain and foot of
+## Chapter XLVI
+
+The town wall was 1200 paces distant from the plain and foot of
 the ascent, in a straight line, if no gap intervened; whatever circuit
 was added to this ascent, to make the hill easy, increased the length of
 the route. But almost in the middle of the hill, the Gauls had
@@ -6462,7 +7036,9 @@ in his tent, as he had gone to rest at noon, with difficulty escaped
 from the hands of the plunderers, with the upper part of his person
 naked, and his horse wounded.
 
-XLVII.--Caesar, having accomplished the object which he had in view,
+## Chapter XLVII
+
+Caesar, having accomplished the object which he had in view,
 ordered the signal to be sounded for a retreat; and the soldiers of the
 tenth legion, by which he was then accompanied, halted. But the soldiers
 of the other legions, not hearing the sound of the trumpet, because
@@ -6488,7 +7064,9 @@ of his own company, and being raised up by them, scaled the wall. He
 himself, in turn, taking hold of them one by one, drew them up to the
 wall.
 
-XLVIII.--In the meantime those who had gone to the other part of the
+## Chapter XLVIII
+
+In the meantime those who had gone to the other part of the
 town to defend it, as we have mentioned above, at first, aroused by
 hearing the shouts, and, afterwards, by frequent accounts that the town
 was in possession of the Romans, sent forward their cavalry, and
@@ -6503,7 +7081,9 @@ Romans; at the same time, being exhausted by running and the long
 continuation of the fight, they could not easily withstand fresh and
 vigorous troops.
 
-XLIX.--Caesar, when he perceived that his soldiers were fighting on
+## Chapter XLIX
+
+Caesar, when he perceived that his soldiers were fighting on
 unfavourable ground, and that the enemy's forces were increasing, being
 alarmed for the safety of his troops, sent orders to Titus Sextius, one
 of his lieutenants, whom he had left to guard the smaller camp, to lead
@@ -6513,7 +7093,9 @@ driven from the ground, he should deter the enemy from following too
 closely. He himself, advancing with the legion a little from that place
 where he had taken his post, awaited the issue of the battle.
 
-L.--While the fight was going on most vigorously, hand to hand, and the
+## Chapter L
+
+While the fight was going on most vigorously, hand to hand, and the
 enemy depended on their position and numbers, our men on their bravery,
 the Aedui suddenly appeared on our exposed flank, as Caesar had sent
 them by another ascent on the right, for the sake of creating a
@@ -6537,7 +7119,9 @@ me, therefore leave this, while you have the opportunity, and retreat to
 the legion." Thus he fell fighting a few moments after, and saved his
 men by his own death.
 
-LI.--Our soldiers, being hard pressed on every side, were dislodged from
+## Chapter LI
+
+Our soldiers, being hard pressed on every side, were dislodged from
 their position, with the loss of forty-six centurions; but the tenth
 legion, which had been posted in reserve on ground a little more level,
 checked the Gauls in their eager pursuit. It was supported by the
@@ -6548,7 +7132,9 @@ the enemy. Vercingetorix led back his men from the part of the hill
 within the fortifications. On that day little less than seven hundred of
 the soldiers were missing.
 
-LII.--On the next day, Caesar, having called a meeting, censured the
+## Chapter LII
+
+On the next day, Caesar, having called a meeting, censured the
 rashness and avarice of his soldiers, "In that they had judged for
 themselves how far they ought to proceed, or what they ought to do, and
 could not be kept back by the tribunes of the soldiers and the
@@ -6565,7 +7151,9 @@ concerning victory, and the issue of actions: and that he required in
 his soldiers forbearance and self-command, not less than valour and
 magnanimity."
 
-LIII.--Having held this assembly, and having encouraged the soldiers at
+## Chapter LIII
+
+Having held this assembly, and having encouraged the soldiers at
 the conclusion of his speech, "That they should not be dispirited on
 this account, nor attribute to the valour of the enemy what the
 disadvantage of position had caused;" entertaining the same views of his
@@ -6579,7 +7167,9 @@ encourage the minds of his soldiers, he moved his camp in the direction
 of the Aedui. The enemy not even then pursuing us, on the third day he
 repaired the bridge over the river Allier, and led over his whole army.
 
-LIV.--Having then held an interview with Viridomarus and Eporedorix the
+## Chapter LIV
+
+Having then held an interview with Viridomarus and Eporedorix the
 Aeduans, he learns that Litavicus had set out with all the cavalry to
 raise the Aedui; that it was necessary that they too should go before
 him to confirm the state in their allegiance. Although he now saw
@@ -6596,7 +7186,9 @@ insult; and to what condition and to what greatness he had raised them,
 seemed to surpass the dignity and influence of all the previous eras of
 their history. After giving these admonitions he dismissed them.
 
-LV.--Noviodunum was a town of the Aedui, advantageously situated on the
+## Chapter LV
+
+Noviodunum was a town of the Aedui, advantageously situated on the
 banks of the Loire. Caesar had conveyed hither all the hostages of Gaul,
 the corn, public money, a great part of his own baggage and that of his
 army; he had sent hither a great number of horses, which he had
@@ -6625,7 +7217,9 @@ much aided, from the circumstance that the Loire had swollen to such a
 degree from the melting of the snows, that it did not seem capable of
 being forded at all.
 
-LVI.--Caesar on being informed of these movements was of opinion that he
+## Chapter LVI
+
+Caesar on being informed of these movements was of opinion that he
 ought to make haste, even if he should run some risk in completing the
 bridges, in order that he might engage before greater forces of the
 enemy should be collected in that place. For no one even then considered
@@ -6645,7 +7239,9 @@ army across the river in safety; and finding corn and cattle in the
 fields, after refreshing his army with them, he determined to march into
 the country of the Senones.
 
-LVII.--Whilst these things are being done by Caesar, Labienus, leaving
+## Chapter LVII
+
+Whilst these things are being done by Caesar, Labienus, leaving
 at Agendicum the recruits who had lately arrived from Italy, to guard
 the baggage, marches with four legions to Lutetia (which is a town of
 the Parisii, situated on an island of the river Seine), whose arrival
@@ -6657,7 +7253,9 @@ tactics. He, when he observed that there was a large marsh which
 communicated with the Seine, and rendered all that country impassable,
 encamped there, and determined to prevent our troops from passing it.
 
-LVIII.--Labienus at first attempted to raise vineae, fill up the marsh
+## Chapter LVIII
+
+Labienus at first attempted to raise vineae, fill up the marsh
 with hurdles and clay, and secure a road. After he perceived that this
 was too difficult to accomplish, he issued in silence from his camp at
 the third watch, and reached Melodunum by the same route by which he
@@ -6675,7 +7273,9 @@ broken down: they themselves set out from the marsh, and take their
 position on the banks of the Seine, over against Lutetia and opposite
 the camp of Labienus.
 
-LIX.--Caesar was now reported to have departed from Gergovia;
+## Chapter LIX
+
+Caesar was now reported to have departed from Gergovia;
 intelligence was likewise brought to them concerning the revolt of the
 Aedui, and a successful rising in Gaul; and that Caesar, having been
 prevented from prosecuting his journey and crossing the Loire, and
@@ -6694,7 +7294,9 @@ separated and cut off the legions from the garrison and baggage. He saw
 that, in consequence of such great difficulties being thrown in his way,
 he must seek aid from his own energy of disposition.
 
-LX.--Having, therefore, called a council of war a little before evening,
+## Chapter LX
+
+Having, therefore, called a council of war a little before evening,
 he exhorted his soldiers to execute with diligence and energy such
 commands as he should give; he assigns the ships which he had brought
 from Melodunum to Roman knights, one to each, and orders them to fall
@@ -6708,7 +7310,9 @@ make a loud noise in rowing. He himself, a little after, marched out in
 silence, and, at the head of three legions, seeks that place to which he
 had ordered the ships to be brought.
 
-LXI.--When he had arrived there, the enemy's scouts, as they were
+## Chapter LXI
+
+When he had arrived there, the enemy's scouts, as they were
 stationed along every part of the river, not expecting an attack,
 because a great storm had suddenly arisen, were surprised by our
 soldiers: the infantry and cavalry are quickly transported, under the
@@ -6726,7 +7330,9 @@ camp and sending a small body in the direction of Metiosedum, with
 orders to advance as far as the ships would proceed, they led the rest
 of their troops against Labienus.
 
-LXII.--By day-break all our soldiers were brought across and the army of
+## Chapter LXII
+
+By day-break all our soldiers were brought across and the army of
 the enemy was in sight. Labienus, having encouraged his soldiers "to
 retain the memory of their ancient valour, and so many most successful
 actions, and imagine Caesar himself, under whose command they had so
@@ -6751,7 +7357,9 @@ our cavalry. When this battle was finished, Labienus returns to
 Agendicum, where the baggage of the whole army had been left: from it he
 marched with all his forces to Caesar.
 
-LXIII.--The revolt of the Aedui being known, the war grows more
+## Chapter LXIII
+
+The revolt of the Aedui being known, the war grows more
 dangerous. Embassies are sent by them in all directions: as far as they
 can prevail by influence, authority, or money, they strive to excite the
 state [to revolt]. Having got possession of the hostages whom Caesar had
@@ -6774,7 +7382,9 @@ war, they do not dare to pursue their own measures apart from the rest.
 Eporedorix and Viridomarus, youths of the greatest promise, submit
 reluctantly to Vercingetorix.
 
-LXIV.--The latter demands hostages from the remaining states: nay, more,
+## Chapter LXIV
+
+The latter demands hostages from the remaining states: nay, more,
 appointed a day for this proceeding; he orders all the cavalry, fifteen
 thousand in number, to quickly assemble here; he says that he will be
 content with the infantry which he had before, and would not tempt
@@ -6795,7 +7405,9 @@ Allobroges, whose minds, he hopes, had not yet settled down after the
 excitement of the late war. To their nobles he promises money, and to
 their state the dominion of the whole province.
 
-LXV.--The only guards provided against all these contingencies were
+## Chapter LXV
+
+The only guards provided against all these contingencies were
 twenty-two cohorts, which were collected from the entire province by
 Lucius Caesar, the lieutenant, and opposed to the enemy in every
 quarter. The Helvii, voluntarily engaging in battle with their
@@ -6813,7 +7425,9 @@ arrival, as they were mounted on unserviceable horses, he takes horses
 from the military tribunes and the rest, nay, even from the Roman
 knights and veterans, and distributes them among the Germans.
 
-LXVI.--In the meantime, whilst these things are going on, the forces of
+## Chapter LXVI
+
+In the meantime, whilst these things are going on, the forces of
 the enemy from the Arverni, and the cavalry which had been demanded from
 all Gaul, meet together. A great number of these having been collected,
 when Caesar was marching into the country of the Sequani, through the
@@ -6839,7 +7453,9 @@ themselves by a most sacred oath, that he should not be received under a
 roof, nor have access to his children, parents, or wife, who shall not
 twice have ridden through the enemy's army."
 
-LXVII.--This proposal receiving general approbation, and all being
+## Chapter LXVII
+
+This proposal receiving general approbation, and all being
 forced to take the oath, on the next day the cavalry were divided into
 three parts, and two of these divisions made a demonstration on our two
 flanks; while one in front began to obstruct our march. On this
@@ -6863,7 +7479,9 @@ after the revolt of Litavicus, and Eporedorix, under whose command the
 Aedui had engaged in war against the Sequani, before the arrival of
 Caesar.
 
-LXVIII.--All his cavalry being routed, Vercingetorix led back his troops
+## Chapter LXVIII
+
+All his cavalry being routed, Vercingetorix led back his troops
 in the same order as he had arranged them before the camp, and
 immediately began to march to Alesia, which is a town of the Mandubii;
 and ordered the baggage to be speedily brought forth from the camp, and
@@ -6876,7 +7494,9 @@ because the cavalry in which they placed their chief reliance were
 beaten, he encouraged his men to endure the toil, and began to draw a
 line of circumvallation round Alesia.
 
-LXIX.--The town itself was situated on the top of a hill, in a very
+## Chapter LXIX
+
+The town itself was situated on the top of a hill, in a very
 lofty position, so that it did not appear likely to be taken, except by
 a regular siege. Two rivers, on two different sides, washed the foot of
 the hill. Before the town lay a plain of about three miles in length; on
@@ -6890,7 +7510,9 @@ position, and twenty-three redoubts were raised in it, in which
 sentinels were placed by day, lest any sally should be made suddenly;
 and by night the same were occupied by watches and strong guards.
 
-LXX.-The work having been begun, a cavalry action ensues in that plain,
+## Chapter LXX
+
+The work having been begun, a cavalry action ensues in that plain,
 which we have already described as broken by hills, and extending three
 miles in length. The contest is maintained on both sides with the utmost
 vigour; Caesar sends the Germans to aid our troops when distressed, and
@@ -6909,7 +7531,9 @@ some in their alarm rush into the town; Vercingetorix orders the gates
 to be shut, lest the camp should be left undefended. The Germans
 retreat, after slaying many and taking several horses.
 
-LXXI.--Vercingetorix adopts the design of sending away all his cavalry
+## Chapter LXXI
+
+Vercingetorix adopts the design of sending away all his cavalry
 by night, before the fortifications should be completed by the Romans.
 He charges them when departing "that each of them should go to his
 respective state, and press for the war all who were old enough to bear
@@ -6929,7 +7553,9 @@ into the town all the forces which he had posted in front of it. In this
 manner he prepares to await the succours from Gaul, and carry on the
 war.
 
-LXXII.--Caesar, on learning these proceedings from the deserters and
+## Chapter LXXII
+
+Caesar, on learning these proceedings from the deserters and
 captives, adopted the following system of fortification; he dug a trench
 twenty feet deep, with perpendicular sides, in such a manner that the
 base of this trench should extend so far as the edges were apart at the
@@ -6948,7 +7574,9 @@ projecting from the junction of the parapet and battlements, to prevent
 the enemy from scaling it, and surrounded the entire work with turrets,
 which were eighty feet distant from one another.
 
-LXXIII.--It was necessary, at one and the same time, to procure timber
+## Chapter LXXIII
+
+It was necessary, at one and the same time, to procure timber
 [for the rampart], lay in supplies of corn, and raise also extensive
 fortifications, and the available troops were in consequence of this
 reduced in number, since they used to advance to some distance from the
@@ -6979,7 +7607,9 @@ long, with iron hooks attached to them, were entirely sunk in the ground
 before these, and were planted in every place at small intervals; these
 they called spurs.
 
-LXXIV.--After completing these works, having selected as level ground as
+## Chapter LXXIV
+
+After completing these works, having selected as level ground as
 he could, considering the nature of the country, and having enclosed an
 area of fourteen miles, he constructed, against an external enemy,
 fortifications of the same kind in every respect, and separate from
@@ -6989,7 +7619,9 @@ to the departure of the enemy's cavalry; and in order that the Roman
 soldiers might not be compelled to go out of the camp with great risk,
 he orders all to provide forage and corn for thirty days.
 
-LXXV.--Whilst those things are carried on at Alesia, the Gauls, having
+## Chapter LXXV
+
+Whilst those things are carried on at Alesia, the Gauls, having
 convened a council of their chief nobility, determine that all who could
 bear arms should not be called out, which was the opinion of
 Vercingetorix, but that a fixed number should be levied from each state;
@@ -7017,7 +7649,9 @@ not obey the order of any one: however, at the request of Commius, they
 sent two thousand, in consideration of a tie of hospitality which
 subsisted between him and them.
 
-LXXVI.--Caesar had, as we have previously narrated, availed himself of
+## Chapter LXXVI
+
+Caesar had, as we have previously narrated, availed himself of
 the faithful and valuable services of this Commius, in Britain, in
 former years: in consideration of which merits he had exempted from
 taxes his [Commius's] state, and had conferred on Commius himself the
@@ -7039,7 +7673,9 @@ an action carried on both in front and rear, when [on the inside] the
 besieged would sally from the town and attack the enemy, and on the
 outside so great forces of cavalry and infantry would be seen.
 
-LXXVII.--But those who were blockaded at Alesia, the day being past on
+## Chapter LXXVII
+
+But those who were blockaded at Alesia, the day being past on
 which they had expected auxiliaries from their countrymen, and all their
 corn being consumed, ignorant of what was going on among the Aedui,
 convened an assembly and deliberated on the exigency of their situation.
@@ -7090,7 +7726,9 @@ Gaul, which being reduced to the form of a province, stripped of its
 rights and laws, and subjected to Roman despotism, is oppressed by
 perpetual slavery."
 
-LXXVIII.--When different opinions were expressed, they determined that
+## Chapter LXXVIII
+
+When different opinions were expressed, they determined that
 those who, owing to age or ill health, were unserviceable for war,
 should depart from the town, and that themselves should try every
 expedient before they had recourse to the advice of Critognatus:
@@ -7103,7 +7741,9 @@ soldiers by every entreaty to receive them as slaves and relieve them
 with food. But Caesar, placing guards on the rampart, forbade them to be
 admitted.
 
-LXXIX.--In the meantime, Commius and the rest of the leaders, to whom
+## Chapter LXXIX
+
+In the meantime, Commius and the rest of the leaders, to whom
 the supreme command had been intrusted, came with all their forces to
 Alesia, and having occupied the entire hill, encamp not more than a mile
 from our fortifications. The following day, having led forth their
@@ -7116,7 +7756,9 @@ of all are elated with joy. Accordingly, drawing out their troops, they
 encamp before the town, and cover the nearest trench with hurdles and
 fill it up with earth, and make ready for a sally and every casualty.
 
-LXXX.--Caesar, having stationed his army on both sides of the
+## Chapter LXXX
+
+Caesar, having stationed his army on both sides of the
 fortifications, in order that, if occasion should arise, each should
 hold and know his own post, orders the cavalry to issue forth from the
 camp and commence action. There was a commanding view from the entire
@@ -7141,7 +7783,9 @@ and did not give them an opportunity of rallying. But those who had come
 forth from Alesia returned into the town dejected and almost despairing
 of success.
 
-LXXXI.--The Gauls, after the interval of a day, and after making, during
+## Chapter LXXXI
+
+The Gauls, after the interval of a day, and after making, during
 that time, an immense number of hurdles, scaling ladders, and iron
 hooks, silently went forth from the camp at midnight and approached the
 fortifications in the plain. Raising a shout suddenly, that by this
@@ -7160,7 +7804,9 @@ whom the defence of these parts had been allotted, draughted troops from
 the redoubts which were more remote, and sent them to aid our troops, in
 whatever direction they understood that they were hard pressed.
 
-LXXXII.--Whilst the Gauls were at a distance from the fortification,
+## Chapter LXXXII
+
+Whilst the Gauls were at a distance from the fortification,
 they did more execution, owing to the immense number of their weapons:
 after they came nearer, they either unawares empaled themselves on the
 spurs, or were pierced by the mural darts from the ramparts and towers,
@@ -7174,7 +7820,9 @@ executing these movements, they learned the retreat of their countrymen
 before they drew nigh to the fortifications. Thus they returned to the
 town without accomplishing their object.
 
-LXXXIII.--The Gauls, having been twice repulsed with great loss, consult
+## Chapter LXXXIII
+
+The Gauls, having been twice repulsed with great loss, consult
 what they should do: they avail themselves of the information of those
 who were well acquainted with the country; from them they ascertain the
 position and fortification of the upper camp. There was, on the north
@@ -7198,7 +7846,9 @@ we have mentioned before; and, at the same time, the cavalry began to
 approach the fortifications in the plain, and the rest of the forces to
 make a demonstration in front of the camp.
 
-LXXXIV.--Vercingetorix, having beheld his countrymen from the citadel of
+## Chapter LXXXIV
+
+Vercingetorix, having beheld his countrymen from the citadel of
 Alesia, issues forth from the town; he brings forth from the camp long
 hooks, movable pent-houses, mural hooks, and other things, which he had
 prepared for the purpose of making a sally. They engage on all sides at
@@ -7210,7 +7860,9 @@ had a great tendency to intimidate our men, because they perceived that
 their danger rested on the valour of others: for generally all evils
 which are distant most powerfully alarm men's minds.
 
-LXXXV.--Caesar, having selected a commanding situation, sees distinctly
+## Chapter LXXXV
+
+Caesar, having selected a commanding situation, sees distinctly
 whatever is going on in every quarter, and sends assistance to his
 troops when hard pressed. The idea uppermost in the minds of both
 parties is, that the present is the time in which they would have the
@@ -7226,7 +7878,9 @@ fortifications, gives the means of ascent to the Gauls, and covers those
 works which the Romans had concealed in the ground. Our men have no
 longer arms or strength.
 
-LXXXVI.--Caesar, on observing these movements, sends Labienus with six
+## Chapter LXXXVI
+
+Caesar, on observing these movements, sends Labienus with six
 cohorts to relieve his distressed soldiers: he orders him, if he should
 be unable to withstand them, to draw off the cohorts and make a sally;
 but not to do this except through necessity. He himself goes to the
@@ -7239,7 +7893,9 @@ immense number of their missiles they dislodge the defenders from the
 turrets: they fill the ditches with clay and hurdles, then clear the
 way; they tear down the rampart and breast-work with hooks.
 
-LXXXVII.--Caesar sends at first young Brutus, with six cohorts, and
+## Chapter LXXXVII
+
+Caesar sends at first young Brutus, with six cohorts, and
 afterwards Caius Fabius, his lieutenant, with seven others: finally, as
 they fought more obstinately, he leads up fresh men to the assistance of
 his soldiers. After renewing the action, and repulsing the enemy, he
@@ -7250,7 +7906,9 @@ and attack the enemy in the rear. Labienus, when neither the ramparts or
 ditches could check the onset of the enemy, informs Caesar by messengers
 of what he intended to do. Caesar hastens to share in the action.
 
-LXXXVIII.--His arrival being known from the colour of his robe, and the
+## Chapter LXXXVIII
+
+His arrival being known from the colour of his robe, and the
 troops of cavalry, and the cohorts which he had ordered to follow him
 being seen, as these low and sloping grounds were plainly visible from
 the eminences, the enemy join battle. A shout being raised by both
@@ -7285,7 +7943,9 @@ Vercingetorix, and lay down their arms. Reserving the Aedui and Arverni,
 respective states, he distributes one of the remaining captives to each
 soldier, throughout the entire army, as plunder.
 
-XC.--After making these arrangements, he marches into the [country of
+## Chapter XC
+
+After making these arrangements, he marches into the [country of
 the] Aedui, and recovers that state. To this place ambassadors are sent
 by the Arverni, who promise that they will execute his commands. He
 demands a great number of hostages. He sends the legions to winter
@@ -7339,7 +7999,9 @@ every apology, that I may not be compared to Caesar, I incur the charge
 of vanity, by thinking it possible that I can in the judgment of any one
 be put in competition with him. Farewell.
 
-I.--Gaul being entirely reduced, when Caesar having waged war
+## Chapter I
+
+Gaul being entirely reduced, when Caesar having waged war
 incessantly during the former summer, wished to recruit his soldiers
 after so much fatigue, by repose in winter quarters, news was brought
 him that several states were simultaneously renewing their hostile
@@ -7352,7 +8014,9 @@ prosecute them all: nor ought any single state to decline any
 inconveniences that might befall them, provided that by such delay the
 rest should be enabled to assert their liberty.
 
-II.--That this notion might not be confirmed among the Gauls, Caesar
+## Chapter II
+
+That this notion might not be confirmed among the Gauls, Caesar
 left Marcus Antonius, his quaestor, in charge of his quarters, and set
 out himself with a guard of horse, the day before the kalends of
 January, from the town Bibracte, to the thirteenth legion, which he had
@@ -7364,7 +8028,9 @@ possessing an extensive territory and several towns, were not to be
 deterred, by a single legion quartered among them, from making warlike
 preparation, and forming combinations.
 
-III.-By Caesar's sudden arrival, it happened, as it necessarily must, to
+## Chapter III
+
+By Caesar's sudden arrival, it happened, as it necessarily must, to
 an unprovided and dispersed people, that they were surprised by our
 horse, whilst cultivating the fields without any apprehensions, before
 they had time to fly to their towns. For the usual sign of an enemy's
@@ -7384,7 +8050,9 @@ friendship, and that the neighbouring states had given hostages, without
 incurring any punishment, and had been received under his protection,
 they did the same.
 
-IV.-Caesar promises his soldiers, as a reward for their labour and
+## Chapter IV
+
+Caesar promises his soldiers, as a reward for their labour and
 patience, in cheerfully submitting to hardships from the severity of the
 winter, the difficulty of the roads, and the intolerable cold, two
 hundred sestertii each, and to every centurian two thousand, to be given
@@ -7398,7 +8066,9 @@ quarters on the Saone, where he had posted them as mentioned in a former
 Commentary to procure supplies of corn. With these two legions he
 marches in pursuit of the Carnutes.
 
-V.--When the news of the approach of our army reached the enemy, the
+## Chapter V
+
+When the news of the approach of our army reached the enemy, the
 Carnutes, terrified by the sufferings of other states, deserted their
 villages and towns (which were small buildings, raised in a hurry, to
 meet the immediate necessity, in which they lived to shelter themselves
@@ -7417,7 +8087,9 @@ woods, from the violence of the storms, after losing a considerable
 number of their men, disperse, and take refuge among the neighbouring
 states.
 
-VI.--Caesar, being contented, at so severe a season, to disperse the
+## Chapter VI
+
+Caesar, being contented, at so severe a season, to disperse the
 gathering foes, and prevent any new war from breaking out, and being
 convinced, as far as reason could foresee, that no war of consequence
 could be set on foot in the summer campaign, stationed Caius Trebonius,
@@ -7438,7 +8110,9 @@ quarters, and the management of the war admitted, he laid the burden of
 the expedition on the legions by turns, without any intermission to his
 own toils.
 
-VII.--As soon as his troops were collected, he marched against the
+## Chapter VII
+
+As soon as his troops were collected, he marched against the
 Bellovaci: and pitching his camp in their territories, detached troops
 of horse all round the country, to take prisoners, from whom he might
 learn the enemy's plan. The horse, having executed his orders, bring him
@@ -7467,7 +8141,9 @@ ambuscade to prevent the Romans from getting forage (which at that
 season was both scarce and much scattered), corn, and other
 necessaries."
 
-VIII.--When Caesar was convinced of the truth of this account from the
+## Chapter VIII
+
+When Caesar was convinced of the truth of this account from the
 concurring testimony of several persons, and perceived that the plans
 which were proposed were full of prudence, and very unlike the rash
 resolves of a barbarous people, he considered it incumbent on him to use
@@ -7488,7 +8164,9 @@ number than they themselves were willing to encounter. By this
 disposition he formed his army almost into a square, and brought them
 within sight of the enemy sooner than was anticipated.
 
-IX.--When the Gauls, whose bold resolutions had been reported to Caesar,
+## Chapter IX
+
+When the Gauls, whose bold resolutions had been reported to Caesar,
 saw the legions advance with a regular motion, drawn up in battle array;
 either from the danger of an engagement, or our sudden approach, or with
 the design of watching our movements, they drew up their forces before
@@ -7509,7 +8187,9 @@ rampart, would be protected by their galleries from darts falling on
 their heads. At the entrance he erected gates and turrets of a
 considerable height.
 
-X.-Caesar had a double design in this fortification; for he both hoped
+## Chapter X
+
+Caesar had a double design in this fortification; for he both hoped
 that the strength of his works, and his [apparent] fears would raise
 confidence in the barbarians; and when there should be occasion to make
 a distant excursion to get forage or corn, he saw that his camp would be
@@ -7528,7 +8208,9 @@ gone to get aid from the Germans, returned with some cavalry, and though
 the Germans were only 500, yet the barbarians were elated by their
 arrival.
 
-XI.-Caesar, observing that the enemy kept for several days within their
+## Chapter XI
+
+Caesar, observing that the enemy kept for several days within their
 camp, which was well secured by a morass and its natural situation, and
 that it could not be assaulted without a dangerous engagement, nor the
 place enclosed with lines without an addition to his army, wrote to
@@ -7540,7 +8222,9 @@ other states, from whom he had required a vast number, to guard his
 foraging parties, and to support them in case of any sudden attack of
 the enemy.
 
-XII.--As this continued for several days, and their vigilance was
+## Chapter XII
+
+As this continued for several days, and their vigilance was
 relaxed by custom (an effect which is generally produced by time), the
 Bellovaci, having made themselves acquainted with the daily stations of
 our horse, lie in ambush with a select body of foot in a place covered
@@ -7562,7 +8246,9 @@ the prince and general of the Remi; and our men were taught by this
 loss, to examine the country, and post their guards with more caution,
 and to be more moderate in pursuing a retreating enemy.
 
-XIII.--In the meantime daily skirmishes take place continually in view
+## Chapter XIII
+
+In the meantime daily skirmishes take place continually in view
 of both camps; these were fought at the ford and pass of the morass. In
 one of these contests the Germans, whom Caesar had brought over the
 Rhine, to fight intermixed with the horse, having resolutely crossed the
@@ -7576,7 +8262,9 @@ drew their whole army into such confusion, that it was difficult to
 judge whether they were more insolent after a slight advantage, or more
 dejected by a trifling calamity.
 
-XIV.--After spending several days in the same camp, the guards of the
+## Chapter XIV
+
+After spending several days in the same camp, the guards of the
 Bellovaci, learning that Caius Trebonius was advancing nearer with his
 legions, and fearing a siege like that of Alesia, send off by night all
 who were disabled by age or infirmity, or unarmed, and along with them
@@ -7598,7 +8286,9 @@ fortified on either side by a steep ascent. Having there drawn up his
 army in order of battle, he marched to the furthest hill, from which he
 could, with his engines, shower darts upon the thickest of the enemy.
 
-XV.--The Gauls, confiding in the natural strength of their position,
+## Chapter XV
+
+The Gauls, confiding in the natural strength of their position,
 though they would not decline an engagement if the Romans attempted to
 ascend the hill, yet dared not divide their forces into small parties,
 lest they should be thrown into disorder by being dispersed, and
@@ -7619,7 +8309,9 @@ them all on fire at one and the same time. The continued blaze soon
 screened all their forces from the sight of the Romans, which no sooner
 happened than the barbarians fled with the greatest precipitation.
 
-XVI.--Though Caesar could not perceive the retreat of the enemy for the
+## Chapter XVI
+
+Though Caesar could not perceive the retreat of the enemy for the
 intervention of the fire, yet, suspecting that they had adopted that
 method to favour their escape, he made his legions advance, and sent a
 party of horse to pursue them; but, apprehensive of an ambuscade, and
@@ -7634,7 +8326,9 @@ and encamped in a very strong position. From which, laying numerous
 ambuscades, both of horse and foot, they did considerable damage to the
 Roman foragers.
 
-XVII.--After this had happened several times, Caesar discovered, from a
+## Chapter XVII
+
+After this had happened several times, Caesar discovered, from a
 certain prisoner, that Correus, the general of the Bellovaci, had
 selected six thousand of his bravest foot and a thousand horse, with
 which he designed to lie in ambush in a place to which he suspected the
@@ -7645,7 +8339,9 @@ usual, to protect the foragers. With these he intermixed a guard of
 light infantry, and himself advanced with the legions as fast as he
 could.
 
-XVIII.--The Gauls, placed in ambush, had chosen for the seat of action a
+## Chapter XVIII
+
+The Gauls, placed in ambush, had chosen for the seat of action a
 level piece of bound, not more than a mile in extent, enclosed on every
 side by a thick wood or a very deep river, as by a toil, and this they
 surrounded. Our men, apprised of the enemy's design, marched in good
@@ -7658,7 +8354,9 @@ did not crowd together in one place, as commonly happens from surprise
 in engagements between the horse, whose numbers prove injurious to
 themselves.
 
-XIX.--When by the judicious arrangement of our forces only a few of our
+## Chapter XIX
+
+When by the judicious arrangement of our forces only a few of our
 men fought by turns, and did not suffer themselves to be surrounded, the
 rest of the enemy broke out from the woods whilst Correus was engaged.
 The battle was maintained in different parts with great vigour, and
@@ -7687,7 +8385,9 @@ quit the field and take refuge in the woods, or accept our offers of
 quarter, but, fighting courageously and wounding several, provoked our
 men, elated with victory, to discharge their weapons against him.
 
-XX.--After this transaction, Caesar, having come up immediately after
+## Chapter XX
+
+After this transaction, Caesar, having come up immediately after
 the battle, and imagining that the enemy, upon receiving the news of so
 great a defeat, would be so depressed that they would abandon their
 camp, which was not above eight miles distant from the scene of action,
@@ -7701,7 +8401,9 @@ imagined that the Romans were marching against them, and calling a
 council in haste by sound of trumpet, unanimously cry out to send
 ambassadors and hostages to Caesar.
 
-XXI.--This proposal having met with general approbation, Comius the
+## Chapter XXI
+
+This proposal having met with general approbation, Comius the
 Atrebatian fled to those Germans from whom he had borrowed auxiliaries
 for that war. The rest instantly send ambassadors to Caesar; and
 requested that he would be contented with that punishment of his enemy,
@@ -7716,7 +8418,9 @@ Correus, the author of the rebellion, and agitator of the people, was
 slain: for that whilst he lived, the senate had never equal influence in
 the state with the giddy populace.
 
-XXII.--Caesar reminded the ambassadors who made these supplications,
+## Chapter XXII
+
+Caesar reminded the ambassadors who made these supplications,
 that the Bellovaci had at the same season the year before, in
 conjunction with other states of Gaul, undertaken a war, and that they
 had persevered the most obstinately of all in their purpose, and were
@@ -7728,7 +8432,9 @@ a war and carry it on without the consent of the nobles, in opposition
 to the senate, and in despite of every virtuous man; however he was
 satisfied with the punishment which they had drawn upon themselves.
 
-XXIII.--The night following the ambassadors bring back his answer to
+## Chapter XXIII
+
+The night following the ambassadors bring back his answer to
 their countrymen, and prepare the hostages. Ambassadors flock in from
 the other states, which were waiting for the issue of the [war with the]
 Bellovaci: they give hostages, and receive his orders; all except
@@ -7752,7 +8458,9 @@ dreading that a deeper design lay concealed. Upon this transaction, it
 was said that Comius made a resolution never to come within sight of any
 Roman.
 
-XXIV.--When Caesar, having completely conquered the most warlike
+## Chapter XXIV
+
+When Caesar, having completely conquered the most warlike
 nations, perceived that there was now no state which could make
 preparations for war to oppose him, but that some were removing and
 fleeing from their country to avoid present subjection, he resolved to
@@ -7775,7 +8483,9 @@ countrymen, if fortune suffered any to survive, he might be excluded
 from a return to his state for the calamities which he had brought on
 it.
 
-XXV.--After he had sent either his legions or auxiliaries through every
+## Chapter XXV
+
+After he had sent either his legions or auxiliaries through every
 part of Ambiorix's dominions, and wasted the whole country by sword,
 fire, and rapine, and had killed or taken prodigious numbers, he sent
 Labienus with two legions against the Treviri, whose state, from its
@@ -7784,7 +8494,9 @@ from the Germans, in civilization and savage barbarity; and never
 continued in its allegiance, except when awed by the presence of his
 army.
 
-XXVI.--In the meantime Caius Caninius, a lieutenant, having received
+## Chapter XXVI
+
+In the meantime Caius Caninius, a lieutenant, having received
 information by letters and messages from Duracius, who had always
 continued in friendship to the Roman people, though a part of his state
 had revolted, that a great multitude of the enemy were in arms in the
@@ -7799,7 +8511,9 @@ several days in the attempt, and losing a considerable number of men,
 without being able to make a breach in any part of the works, he
 returned again to the siege of Limonum.
 
-XXVII.--At the same time, Caius Fabius, a lieutenant, brings back many
+## Chapter XXVII
+
+At the same time, Caius Fabius, a lieutenant, brings back many
 states to their allegiance, and confirms their submission by taking
 hostages; he was then informed by letters from Caninius, of the
 proceedings among the Pictones. Upon which he set off to bring
@@ -7821,7 +8535,9 @@ attacking them on their march, while fleeing, dismayed, and laden with
 baggage, they slew a great number, and took a rich booty. Having
 executed the affair so successfully, they retired to the camp.
 
-XXVIII.--The night following, Fabius sent his horse before him, with
+## Chapter XXVIII
+
+The night following, Fabius sent his horse before him, with
 orders to engage the enemy, and delay their march till he himself should
 come up. That his orders might be faithfully performed, Quintus Atius
 Varus, general of the horse, a man of uncommon spirit and skill,
@@ -7837,7 +8553,9 @@ valiantly against the foot: and the enemy, imagining that no more forces
 would come against them, as they had experienced the day before, thought
 they had got a favourable opportunity of destroying our whole cavalry.
 
-XXIX.-After the conflict had continued for some time with great
+## Chapter XXIX
+
+After the conflict had continued for some time with great
 violence, Dumnacus drew out his army in such a manner, that the foot
 should by turns assist the horse. Then the legions, marching in close
 order, came suddenly in sight of the enemy. At this sight, the barbarian
@@ -7852,7 +8570,9 @@ the enemy in that battle, and having killed above twelve thousand men in
 arms, or such as threw away their arms through fear, they took their
 whole train of baggage.
 
-XXX.--After this defeat, when it was ascertained that Drapes, a Senonian
+## Chapter XXX
+
+After this defeat, when it was ascertained that Drapes, a Senonian
 (who in the beginning of the revolt of Gaul, had collected from all
 quarters men of desperate fortunes, invited the slaves to liberty,
 called in the exiles of the whole kingdom, given an asylum to robbers,
@@ -7865,7 +8585,9 @@ went in pursuit of them with two legions, lest great disgrace might be
 incurred from the fears or injuries done to the Province by the
 depredations of a band of desperate men.
 
-XXXI.--Caius Fabius set off with the rest of the army to the Carnutes
+## Chapter XXXI
+
+Caius Fabius set off with the rest of the army to the Carnutes
 and those other states, whose forces he was informed had served as
 auxiliaries in that battle, which he fought against Dumnacus. For he had
 no doubt that they would be more submissive after their recent
@@ -7881,7 +8603,9 @@ comply with his command. Dumnacus, expelled from his own territories,
 wandering and skulking about, was forced to seek refuge by himself in
 the most remote parts of Gaul.
 
-XXXII.--But Crapes in conjunction with Literius, knowing that Caninius
+## Chapter XXXII
+
+But Crapes in conjunction with Literius, knowing that Caninius
 was at hand with the legions, and that they themselves could not without
 certain destruction enter the boundaries of the province, whilst an army
 was in pursuit of them, and being no longer at liberty to roam up and
@@ -7893,7 +8617,9 @@ and Drapes' troops he seized Uxellodunum, a town formerly in vassalage
 to him and strongly fortified by its natural situation; and prevailed on
 the inhabitants to join him.
 
-XXXIII.--After Caninius had rapidly marched to this place, and perceived
+## Chapter XXXIII
+
+After Caninius had rapidly marched to this place, and perceived
 that all parts of the town were secured by very craggy rocks, which it
 would be difficult for men in arms to climb even if they met with no
 resistance; and, moreover, observing that the town's people were
@@ -7904,7 +8630,9 @@ parts, and pitched three camps on very high ground, with the intention
 of drawing lines round the town by degrees, as his forces could bear the
 fatigue.
 
-XXXIV.--When the townsmen perceived his design, being terrified by the
+## Chapter XXXIV
+
+When the townsmen perceived his design, being terrified by the
 recollection of the distress at Alesia, they began to dread similar
 consequences from a siege; and above all Luterius, who had experienced
 that fatal event, cautioned them to make provision of corn; they
@@ -7920,7 +8648,9 @@ reason Caninius deferred drawing his works round the whole town, lest he
 should be unable to protect them when completed, or by disposing his
 garrisons in several places, should make them too weak.
 
-XXXV.--Drapes and Luterius, having laid in a large supply of corn,
+## Chapter XXXV
+
+Drapes and Luterius, having laid in a large supply of corn,
 occupy a position at about ten miles distance from the town, intending
 from it to convey the corn into the town by degrees. They chose each his
 respective department. Drapes stayed behind in the camp with part of the
@@ -7937,7 +8667,9 @@ they fell with great fury on the escort, and did not allow a single man
 to be taken alive. Luterius escaped thence with a few followers, but did
 not return to the camp.
 
-XXXVI.--After this success, Caninius learnt from some prisoners, that a
+## Chapter XXXVI
+
+After this success, Caninius learnt from some prisoners, that a
 part of the forces was encamped with Drapes, not more than ten miles
 off; which being confirmed by several, supposing that after the defeat
 of one general, the rest would be terrified, and might be easily
@@ -7960,7 +8692,9 @@ them on every side; and having either killed or made prisoners of them
 all, gained great booty. In that battle, Drapes himself was taken
 prisoner.
 
-XXXVII.--Caninius, having accomplished the business so successfully,
+## Chapter XXXVII
+
+Caninius, having accomplished the business so successfully,
 without having scarcely a man wounded, returned to besiege the town;
 and, having destroyed the enemy without, for fear of whom he had been
 prevented from strengthening his redoubts, and surrounding the enemy
@@ -7968,7 +8702,9 @@ with his lines, he orders the work to be completed on every side. The
 next day, Caius Fabius came to join him with his forces, and took upon
 him the siege of one side.
 
-XXXVIII.--In the meantime, Caesar left Caius Antonius in the country of
+## Chapter XXXVIII
+
+In the meantime, Caesar left Caius Antonius in the country of
 the Bellovaci, with fifteen cohorts, that the Belgae might have no
 opportunity of forming new plans in future. He himself visits the other
 states, demands a great number of hostages, and by his encouraging
@@ -7986,7 +8722,9 @@ alleged that all the dangers and losses incurred in that war, ought to
 be imputed to Guturvatus. Accordingly, he was whipped to death, and his
 head cut off.
 
-XXXIX.--Here Caesar was informed by numerous letters from Caninius of
+## Chapter XXXIX
+
+Here Caesar was informed by numerous letters from Caninius of
 what had happened to Drapes and Luterius, and in what conduct the town's
 people persisted: and though he despised the smallness of their numbers,
 yet he thought their obstinacy deserving a severe punishment, lest Gaul
@@ -8000,7 +8738,9 @@ He therefore left Quintus Calenus, one of his lieutenants behind him,
 with two legions, and instructions to follow him by regular marches. He
 hastened as much as he could with all the cavalry to Caninius.
 
-XL.--Having arrived at Uxellodunum, contrary to the general expectation,
+## Chapter XL
+
+Having arrived at Uxellodunum, contrary to the general expectation,
 and perceiving that the town was surrounded by the works, and that the
 enemy had no possible means of retiring from the assault, and being
 likewise informed by the deserters that the townsmen had abundance of
@@ -8017,7 +8757,9 @@ easiest descents, placed engines, and attempted to hinder the townsmen
 from getting water at the river, which obliged them afterwards to go all
 to one place to procure water.
 
-XLI.--Close under the walls of the town, a copious spring gushed out on
+## Chapter XLI
+
+Close under the walls of the town, a copious spring gushed out on
 that part, which for the space of nearly three hundred feet, was not
 surrounded by the river. Whilst every other person wished that the
 besieged could be debarred from this spring, Caesar alone saw that it
@@ -8038,7 +8780,9 @@ to the fountain, and the townsmen could not go for water without danger,
 not only the cattle designed for food and the working cattle, but a
 great number of men also died of thirst.
 
-XLII.--Alarmed at this calamity, the townsmen fill barrels with tallow,
+## Chapter XLII
+
+Alarmed at this calamity, the townsmen fill barrels with tallow,
 pitch, and dried wood; these they set on fire, and roll down on our
 works. At the same time, they fight most furiously, to deter the Romans,
 by the engagement and danger, from extinguishing the flames. Instantly a
@@ -8053,7 +8797,9 @@ man faced the weapons of the enemy and the flames in as conspicuous a
 manner as he could, that his valour might be the better known and
 attested.
 
-XLIII.--Caesar, observing that several of his men were wounded, ordered
+## Chapter XLIII
+
+Caesar, observing that several of his men were wounded, ordered
 the cohorts to ascend the mountain on all sides, and, under pretence of
 assailing the walls, to raise a shout: at which the besieged being
 frightened, and not knowing what was going on in other places, call off
@@ -8069,7 +8815,9 @@ despair that they imagined that it was not done by the art of man, but
 the will of the gods; forced, therefore, by necessity, they at length
 submitted.
 
-XLIV.--Caesar, being convinced that his lenity was known to all men, and
+## Chapter XLIV
+
+Caesar, being convinced that his lenity was known to all men, and
 being under no fears of being thought to act severely from a natural
 cruelty, and perceiving that there would be no end to his troubles if
 several states should attempt to rebel in like manner and in different
@@ -8088,7 +8836,9 @@ deserved to have in Caesar), was by this Epasnactus, the Arvernian, a
 sincere friend of the Roman people, delivered without any hesitation, a
 prisoner to Caesar.
 
-XLV.--In the meantime, Labienus engages in a successful cavalry action
+## Chapter XLV
+
+In the meantime, Labienus engages in a successful cavalry action
 among the Treviri; and, having killed several of them and of the
 Germans, who never refused their aid to any person against the Romans,
 he got their chiefs alive into his power, and, amongst them, Surus, an
@@ -8118,7 +8868,9 @@ opportunity of learning how every person was disposed towards the
 republic during the general revolt of Gaul, which he had withstood by
 the fidelity and assistance of the Province.
 
-XLVII.--Having finished these affairs, he returned to his legions among
+## Chapter XLVII
+
+Having finished these affairs, he returned to his legions among
 the Belgae and wintered at Nemetocenna: there he got intelligence that
 Comius, the Atrebatian had had an engagement with his cavalry. For when
 Antonius had gone into winter quarters, and the state of the Atrebates
@@ -8130,7 +8882,9 @@ supported himself and his adherents on plunder by means of his cavalry,
 infested the roads, and intercepted several convoys which were bringing
 provisions to the Roman quarters.
 
-XLVIII.--Caius Volusenus Quadratus was appointed commander of the horse
+## Chapter XLVIII
+
+Caius Volusenus Quadratus was appointed commander of the horse
 under Antonius, to winter with him: Antonius sent him in pursuit of the
 enemy's cavalry; now Volusenus added to that valour which was pre-eminent
 in him, a great aversion to Comius, on which account he executed
@@ -8175,7 +8929,9 @@ addition to this commentary.
 
  * * * * *
 
-XLIX.--Caesar, whilst in winter quarters in the country of the Belgae,
+## Chapter XLIX
+
+Caesar, whilst in winter quarters in the country of the Belgae,
 made it his only business to keep the states in amity with him, and to
 give none either hopes of, or pretext for, a revolt. For nothing was
 further from his wishes than to be under the necessity of engaging in
@@ -8187,7 +8943,9 @@ men, imposing no new burdens, and making the terms of their subjection
 lighter, he easily kept Gaul (already exhausted by so many unsuccessful
 battles) in obedience.
 
-L.--When the winter quarters were broken up, he himself, contrary to his
+## Chapter L
+
+When the winter quarters were broken up, he himself, contrary to his
 usual practice, proceeded to Italy, by the longest possible stages, in
 order to visit the free towns and colonies, that he might recommend to
 them the petition of Marcus Antonius, his treasurer, for the priesthood.
@@ -8208,7 +8966,9 @@ injuriously taken from Sergius Galba, though he had been much superior
 in votes and interest, because he was united to Caesar, both by
 friendship, and by serving as lieutenant under him.
 
-LI.--Caesar, on his arrival, was received by the principal towns and
+## Chapter LI
+
+Caesar, on his arrival, was received by the principal towns and
 colonies with incredible respect and affection; for this was the first
 time he came since the war against united Gaul. Nothing was omitted
 which could be thought of for the ornament of the gates, roads, and
@@ -8219,7 +8979,9 @@ entertainments, as if anticipating the joy of a most splendid triumph.
 So great was the magnificence of the richer and zeal of the poorer ranks
 of the people.
 
-LII.--When Caesar had gone through all the states of Cisalpine Gaul, he
+## Chapter LII
+
+When Caesar had gone through all the states of Cisalpine Gaul, he
 returned with the greatest haste to the army at Nemetocenna; and having
 ordered all his legions to march from winter quarters to the territories
 of the Treviri, he went thither and reviewed them. He made Titus
@@ -8243,7 +9005,9 @@ of himself called upon the senate to divide on the question. But the
 consuls and Pompey's friends interposed to prevent it; and regulating
 matters as they desired, they broke up the meeting.
 
-LIII.--This testimony of the unanimous voice of the senate was very
+## Chapter LIII
+
+This testimony of the unanimous voice of the senate was very
 great, and consistent with their former conduct; for the preceding year,
 when Marcellus attacked Caesar's dignity, he proposed to the senate,
 contrary to the law of Pompey and Crassus, to dispose of Caesar's
@@ -8255,7 +9019,9 @@ this, but it taught them, that they ought to strengthen their interest
 by enlarging their connections, so as to force the senate to comply with
 whatever they resolved on.
 
-LIV.--After this a decree was passed by the senate, that one legion
+## Chapter LIV
+
+After this a decree was passed by the senate, that one legion
 should be sent by Pompey, and another by Caesar, to the Parthian war.
 But these two legions were evidently drawn from Caesar alone. For the
 first legion which Pompey sent to Caesar, he gave Caesar, as if it
@@ -8272,7 +9038,9 @@ most secure if the Belgae, a people of the greatest valour, and the
 Aedui, who possessed the most powerful influence, were kept in awe by
 his armies.
 
-LV.--He himself set out for Italy; where he was informed on his arrival,
+## Chapter LV
+
+He himself set out for Italy; where he was informed on his arrival,
 that the two legions sent home by him, and which by the senate's decree,
 should have been sent to the Parthian war, had been delivered over to
 Pompey, by Caius Marcellus the consul, and were retained in Italy.
@@ -8287,7 +9055,9 @@ rather than have recourse to arms.
 
 ## Book I
 
-I.--When Caesar's letter was delivered to the consuls, they were with
+## Chapter I
+
+When Caesar's letter was delivered to the consuls, they were with
 great difficulty, and a hard struggle of the tribunes, prevailed on to
 suffer it to be read in the senate; but the tribunes could not prevail,
 that any question should be put to the senate on the subject of the
@@ -8303,7 +9073,9 @@ the senate would support him; but if they should hesitate and act
 without energy, they would in vain implore his aid, if they should
 require it hereafter."
 
-II.--This speech of Scipio's, as the senate was convened in the city,
+## Chapter II
+
+This speech of Scipio's, as the senate was convened in the city,
 and Pompey was near at hand, seemed to have fallen from the lips of
 Pompey himself. Some delivered their sentiments with more moderation, as
 Marcellus first, who in the beginning of his speech, said, "that the
@@ -8328,7 +9100,9 @@ interposition. Violent opinions were expressed: whoever spoke with the
 greatest acrimony and cruelty, was most highly commended by Caesar's
 enemies.
 
-III.--The senate having broken up in the evening, all who belonged to
+## Chapter III
+
+The senate having broken up in the evening, all who belonged to
 that order were summoned by Pompey. He applauded the forward, and
 secured their votes for the next day; the more moderate he reproved and
 excited against Caesar. Many veterans, from all parts, who had served in
@@ -8346,7 +9120,9 @@ and require only six days' time to finish the business. Opinions were
 expressed by some to the effect that commissioners should be sent to
 Caesar to acquaint him with the senate's pleasure.
 
-IV.--All these proposals were rejected, and opposition made to them all,
+## Chapter IV
+
+All these proposals were rejected, and opposition made to them all,
 in the speeches of the consul, Scipio, and Cato. An old grudge against
 Caesar and chagrin at a defeat actuated Cato. Lentulus was wrought upon
 by the magnitude of his debts, and the hopes of having the government of
@@ -8369,7 +9145,9 @@ the two legions from their expedition through Asia and Syria, to
 [augment] his own power and authority, he was anxious to bring matters
 to a war.
 
-V.--For these reasons everything was done in a hasty and disorderly
+## Chapter V
+
+For these reasons everything was done in a hasty and disorderly
 manner, and neither was time given to Caesar's relations to inform him
 [of the state of affairs] nor liberty to the tribunes of the people to
 deprecate their own danger, nor even to retain the last privilege, which
@@ -8393,7 +9171,9 @@ Ravenna, awaiting an answer to his moderate demands; [to see] if matters
 could be brought to a peaceful termination by any equitable act on the
 part of the enemies.
 
-VI.--During the succeeding days the senate is convened outside the city.
+## Chapter VI
+
+During the succeeding days the senate is convened outside the city.
 Pompey repeated the same things which he had declared through Scipio. He
 applauded the courage and firmness of the senate, acquainted them with
 his force, and told them that he had ten legions ready; that he was
@@ -8420,7 +9200,9 @@ Levies were made throughout Italy, arms demanded, and money exacted from
 the municipal towns, and violently taken from the temples. All
 distinctions between things human and divine are confounded.
 
-VII.--These things being made known to Caesar, he harangued his
+## Chapter VII
+
+These things being made known to Caesar, he harangued his
 soldiers; he reminded them "of the wrongs done to him at all times by
 his enemies, and complained that Pompey had been alienated from him and
 led astray by them through envy and a malicious opposition to his glory,
@@ -8450,7 +9232,9 @@ called it out, his other legions not having yet arrived), all cry out
 that they are ready to defend their general, and the tribunes of the
 commons, from all injuries.
 
-VIII.--Having made himself acquainted with the disposition of his
+## Chapter VIII
+
+Having made himself acquainted with the disposition of his
 soldiers, Caesar set off with that legion to Ariminum, and there met the
 tribunes, who had fled to him for protection; he called his other
 legions from winter quarters, and ordered them to follow him. Thither
@@ -8469,7 +9253,9 @@ Pompey's apology. Roscius, the praetor, conferred with Caesar almost in
 the same words, and on the same subject, and declared that Pompey had
 empowered him to do so.
 
-IX.--Though these things seemed to have no tendency towards redressing
+## Chapter IX
+
+Though these things seemed to have no tendency towards redressing
 his injuries, yet having got proper persons by whom he could communicate
 his wishes to Pompey; he required of them both, that as they had
 conveyed Pompey's demands to him, they should not refuse to convey his
@@ -8499,7 +9285,9 @@ performed, and conditions secured and confirmed by oath, either let
 Pompey come to Caesar, or allow Caesar to go to him; it might be that
 all their disputes would be settled by an interview."
 
-X.--Roscius and Lucius Caesar, having received this message, went to
+## Chapter X
+
+Roscius and Lucius Caesar, having received this message, went to
 Capua, where they met the consuls and Pompey, and declared to them
 Caesar's terms. Having deliberated on the matter, they replied, and sent
 written proposals to him by the same persons, the purport of which was,
@@ -8508,7 +9296,9 @@ army: if he complied with this, that Pompey would go to Spain. In the
 meantime, until security was given that Caesar would perform his
 promises, that the consuls and Pompey would not give over their levies.
 
-XI.--It was not an equitable proposal, to require that Caesar should
+## Chapter XI
+
+It was not an equitable proposal, to require that Caesar should
 quit Ariminum and return to his province; but that he [Pompey] should
 himself retain his province and the legions that belonged to another,
 and desire that Caesar's army should be disbanded, whilst he himself was
@@ -8523,7 +9313,9 @@ to Arretium; he himself stayed at Ariminum with two legions, with the
 intention of raising levies there. He secured Pisaurus, Fanum, and
 Ancona, with a cohort each.
 
-XII.--In the meantime, being informed that Thermus the praetor was in
+## Chapter XII
+
+In the meantime, being informed that Thermus the praetor was in
 possession of Iguvium, with five cohorts, and was fortifying the town,
 but that the affections of all the inhabitants were very well inclined
 towards himself; he detached Curio with three cohorts, which he had at
@@ -8538,7 +9330,9 @@ into which Attius had brought his cohorts, and of which he had taken
 possession, and from which he had sent senators round about the country
 of Picenum, to raise new levies.
 
-XIII.--Upon news of Caesar's approach, the senate of Auximum went in a
+## Chapter XIII
+
+Upon news of Caesar's approach, the senate of Auximum went in a
 body to Attius Varus; and told him that it was not a subject for them to
 determine upon: yet neither they, nor the rest of the freemen would
 suffer Caius Caesar, a general, who had merited so well of the republic,
@@ -8555,7 +9349,9 @@ Caesar applauded the soldiers of Attius, set Pupius at liberty, returned
 thanks to the people of Auximum, and promised to be grateful for their
 conduct.
 
-XIV.--Intelligence of this being brought to Rome, so great a panic
+## Chapter XIV
+
+Intelligence of this being brought to Rome, so great a panic
 spread on a sudden that when Lentulus, the consul, came to open the
 treasury, to deliver money to Pompey by the senate's decree, immediately
 on opening the hallowed door he fled from the city. For it was falsely
@@ -8574,7 +9370,9 @@ to attend him; but afterwards, being warned by his friends that this
 action was censured by the judgment of all, he distributed them among
 the slaves of the districts of Campania, to keep guard there.
 
-XV.--Caesar, having moved forward from Auximum, traversed the whole
+## Chapter XV
+
+Caesar, having moved forward from Auximum, traversed the whole
 country of Picenum. All the governors in these countries most cheerfully
 received him, and aided his army with every necessary. Ambassadors came
 to him even from Cingulum, a town which Labienus had laid out and built
@@ -8597,7 +9395,9 @@ Corfinium, to Domitius Aenobarbus, and informed him that Caesar was
 advancing with two legions. Domitius had collected about twenty cohorts
 from Alba, and the Marsians, Pelignians, and neighbouring states.
 
-XVI.--Caesar, having recovered Asculum and driven out Lentulus, ordered
+## Chapter XVI
+
+Caesar, having recovered Asculum and driven out Lentulus, ordered
 the soldiers that had deserted from him to be sought out and a muster to
 be made; and, having delayed for one day there to provide corn, he
 marched to Corfinium. On his approach, five cohorts, sent by Domitius
@@ -8608,7 +9408,9 @@ bridge and retreated precipitately into the town. Caesar, having marched
 his legions over, halted before the town and encamped close by the
 walls.
 
-XVII.--Domitius, upon observing this, sent messengers well acquainted
+## Chapter XVII
+
+Domitius, upon observing this, sent messengers well acquainted
 with the country, encouraged by a promise of being amply rewarded, with
 despatches to Pompey to Apulia, to beg and entreat him to come to his
 assistance. That Caesar could be easily enclosed by the two armies,
@@ -8621,7 +9423,9 @@ speech to the soldiers he promised them lands out of his own estate; to
 every private soldier four acres, and a corresponding share to the
 centurions and veterans.
 
-XVIII.--In the meantime, word was brought to Caesar that the people of
+## Chapter XVIII
+
+In the meantime, word was brought to Caesar that the people of
 Sulmo, a town about seven miles distant from Corfinium, were ready to
 obey his orders, but were prevented by Quintus Lucretius, a senator, and
 Attius, a Pelignian, who were in possession of the town with a garrison
@@ -8643,7 +9447,9 @@ determined to surround the town with a rampart and turrets during the
 remainder of the time. Nearly at the time when the greatest part of the
 work was completed, all the messengers sent to Pompey returned.
 
-XIX.--Having read Pompey's letter, Domitius, concealing the truth, gave
+## Chapter XIX
+
+Having read Pompey's letter, Domitius, concealing the truth, gave
 out in council that Pompey would speedily come to their assistance; and
 encouraged them not to despond, but to provide everything necessary for
 the defence of the town. He held private conferences with a few of his
@@ -8660,7 +9466,9 @@ consent. Therefore, if any opportunity should offer, he [Domitius]
 should come to him with the whole force." But the blockade and works
 round the town prevented his escape.
 
-XX.--Domitius's design being noised abroad, the soldiers in Confinium
+## Chapter XX
+
+Domitius's design being noised abroad, the soldiers in Confinium
 [**error in original: should be CORFINIUM] early in the evening began to
 mutiny, and held a conference with each other by their tribunes and
 centurions, and the most respectable amongst themselves: "that they were
@@ -8679,7 +9487,9 @@ deputies out of their number to Caesar, to say that they were ready to
 throw open their gates, to do whatever he should order, and to deliver
 up Domitius alive into his hands.
 
-XXI.--Upon intelligence of these matters, though Caesar thought it of
+## Chapter XXI
+
+Upon intelligence of these matters, though Caesar thought it of
 great consequence to become master of the town as soon as possible, and
 to transfer the cohorts to his own camp, lest any change should be
 wrought on their inclinations by bribes, encouragement, or fictitious
@@ -8701,7 +9511,9 @@ objects, what would become of the Corfinians, what of Domitius, what of
 Lentulus, what of the rest; what event would be the consequence of
 another.
 
-XXII.--About the fourth watch, Lentulus Spinther said to our sentinels
+## Chapter XXII
+
+About the fourth watch, Lentulus Spinther said to our sentinels
 and guards from the walls, that he desired to have an interview with
 Caesar, if permission were given him. Having obtained it, he was
 escorted out of town; nor did the soldiers of Domitius leave him till
@@ -8723,7 +9535,9 @@ to hope for theirs; saying that some were so terrified that they were
 induced to make desperate attempts on their own lives. Leave being
 granted him, he departed.
 
-XXIII.--When day appeared Caesar ordered all the senators and their
+## Chapter XXIII
+
+When day appeared Caesar ordered all the senators and their
 children, the tribunes of the soldiers, and the Roman knights, to be
 brought before him. Among the persons of senatorial rank were Lucius
 Domitius, Publius Lentulus Spinther, Lucius Vibullius Rufus, Sextus
@@ -8744,7 +9558,9 @@ decamped and performed the regular march. He stayed only seven days
 before Corfinium, and marched into Apulia through the country of the
 Marrucinians, Frentanians, and Larinates.
 
-XXIV.--Pompey, being informed of what had passed at Corfinium, marches
+## Chapter XXIV
+
+Pompey, being informed of what had passed at Corfinium, marches
 from Luceria to Canusium, and thence to Brundusium. He orders all the
 forces raised everywhere by the new levies to repair to him. He gives
 arms to the slaves that attended the flocks, and appoints horses for
@@ -8764,7 +9580,9 @@ the same advantage could not be gained at a great distance when the
 proposals were conveyed to them by others, as if terms were argued by
 them both in person."
 
-XXV.--Having delivered this message he marched to Brundusium with six
+## Chapter XXV
+
+Having delivered this message he marched to Brundusium with six
 legions, four of them veterans: the rest those which he had raised in
 the late levy and completed on his march, for he had sent all Domitius's
 cohorts immediately from Corfinium to Sicily. He discovered that the
@@ -8791,7 +9609,9 @@ parapet of wicker work; and on every fourth one raised a turret, two
 stories high, to secure them the better from being attacked by the
 shipping and set on fire.
 
-XXVI.--To counteract this, Pompey fitted out large merchant ships, which
+## Chapter XXVI
+
+To counteract this, Pompey fitted out large merchant ships, which
 he found in the harbour of Brundusium: on them he erected turrets three
 stories high, and, having furnished them with several engines and all
 sorts of weapons, drove them amongst Caesar's works, to break through
@@ -8817,7 +9637,9 @@ could be engaged in without them. Caesar therefore thought it time at
 length to give over the attempt which he had often made in vain, and act
 with energy in the war.
 
-XXVII.--When Caesar's works were nearly half finished, and after nine
+## Chapter XXVII
+
+When Caesar's works were nearly half finished, and after nine
 days were spent in them, the ships which had conveyed the first division
 of the army to Dyrrachium being sent back by the consuls, returned to
 Brundusium. Pompey, either frightened at Caesar's works or determined
@@ -8836,7 +9658,9 @@ slingers. These he designed to call off by a certain signal, when all
 the soldiers were embarked, and left row-galleys for them in a secure
 place.
 
-XXVIII.--The people of Brundusium, irritated by the insolence of
+## Chapter XXVIII
+
+The people of Brundusium, irritated by the insolence of
 Pompey's soldiers, and the insults received from Pompey himself, were in
 favour of Caesar's party. Therefore, as soon as they were aware of
 Pompey's departure, whilst his men were running up and down, and busied
@@ -8853,7 +9677,9 @@ circuit, they reached the port, and captured with their long boats and
 small craft two of Pompey's ships, full of soldiers, which had struck
 against Caesar's moles.
 
-XXIX.-Though Caesar highly approved of collecting a fleet, and crossing
+## Chapter XXIX
+
+Though Caesar highly approved of collecting a fleet, and crossing
 the sea, and pursuing Pompey before he could strengthen himself with his
 transmarine auxiliaries, with the hope of bringing the war to a
 conclusion, yet he dreaded the delay and length of time necessary to
@@ -8867,7 +9693,9 @@ which was bound to Pompey by the strongest obligations, should be
 confirmed in his interest; that auxiliaries and cavalry should be
 provided and Gaul and Italy reduced in his absence.
 
-XXX.--Therefore, for the present, he relinquished all intention of
+## Chapter XXX
+
+Therefore, for the present, he relinquished all intention of
 pursuing Pompey, and resolved to march to Spain, and commanded the
 magistrates of the free towns to procure him ships, and to have them
 conveyed to Brundusium. He detached Valerius, his lieutenant, with one
@@ -8891,7 +9719,9 @@ him and other members in the senate, had assured them that every thing
 was ready and provided for the war. After having made these complaints
 in a public assembly, he fled from his province.
 
-XXXI.--Valerius found Sardinia, and Curio, Sicily, deserted by their
+## Chapter XXXI
+
+Valerius found Sardinia, and Curio, Sicily, deserted by their
 governors when they arrived there with their armies. When Tubero arrived
 in Africa, he found Attius Varus in the government of the province, who,
 having lost his cohorts, as already related, at Auximum, had straightway
@@ -8905,7 +9735,9 @@ entering the port or town, and did not suffer his son, though labouring
 under sickness, to set foot on shore; but obliged him to weigh anchor
 and quit the place.
 
-XXXIL.--When these affairs were despatched, Caesar, that there might be
+## Chapter XXXII
+
+When these affairs were despatched, Caesar, that there might be
 an intermission from labour for the rest of the season, drew off his
 soldiers to the nearest municipal towns, and set off in person for Rome.
 Having assembled the senate, he reminded them of the injustice of his
@@ -8939,7 +9771,9 @@ sent them. That these were the sentiments of low, weak minds: that for
 his part, as he had made it his study to surpass others in glory, so he
 was desirous of excelling them in justice and equity."
 
-XXXIII.--The senate approved of sending deputies, but none could be
+## Chapter XXXIII
+
+The senate approved of sending deputies, but none could be
 found fit to execute the commission: for every person, from his own
 private fears, declined the office. For Pompey, on leaving the city, had
 declared in the open senate, that he would hold in the same degree of
@@ -8952,7 +9786,9 @@ days to no purpose, left the city, in order that he might not lose any
 more time, and went to Transalpine Gaul, without effecting what he had
 intended.
 
-XXXIV.--On his arrival there, he was informed that, Vibullius Rufus,
+## Chapter XXXIV
+
+On his arrival there, he was informed that, Vibullius Rufus,
 whom he had taken a few days before at Corfinium, and set at liberty,
 was sent by Pompey into Spain; and that Domitius also was gone to seize
 Massilia with seven row-galleys, which were fitted up by some private
@@ -8968,7 +9804,9 @@ conveyed the corn from the surrounding country, and from all the forts
 into the city; had opened armouries in the city: and were repairing the
 walls, the fleet, and the gates.
 
-XXXV.--Caesar sent for fifteen of the principal persons of Massilia to
+## Chapter XXXV
+
+Caesar sent for fifteen of the principal persons of Massilia to
 attend him. To prevent the war commencing among them, he remonstrates
 [in the following language]; "that they ought to follow the precedent
 set by all Italy, rather than submit to the will of any one man." He
@@ -8985,7 +9823,9 @@ revenue. Wherefore, having received equal favours from both, they ought
 to show equal affection to both, and assist neither against the other,
 nor admit either into their city or harbours."
 
-XXXVI.--Whilst this treaty was going forward, Domitius arrived at
+## Chapter XXXVI
+
+Whilst this treaty was going forward, Domitius arrived at
 Massilia with his fleet, and was received into the city, and made
 governor of it. The chief management of the war was entrusted to him. At
 his command they send the fleet to all parts; they seize all the
@@ -9001,7 +9841,9 @@ rigged in thirty days (from the time the timber was cut down), and being
 brought to Massilia, he put under the command of Decimus Brutus; and
 left Caius Trebonius his lieutenant, to invest the city.
 
-XXXVII.--Whilst he was preparing and getting these things in readiness,
+## Chapter XXXVII
+
+Whilst he was preparing and getting these things in readiness,
 he sent Caius Fabius one of his lieutenants into Spain with three
 legions, which he had disposed in winter quarters in Narbo, and the
 neighbouring country; and ordered him immediately to seize the passes of
@@ -9012,7 +9854,9 @@ close after him. Fabius, according to his orders, by using expedition,
 dislodged the party from the hills, and by hasty marches came up with
 the army of Afranius.
 
-XXXVIII.--On the arrival of Vibullius Rufus, whom, we have already
+## Chapter XXXVIII
+
+On the arrival of Vibullius Rufus, whom, we have already
 mentioned, Pompey had sent into Spain, Afranius, Petreius, and Varro,
 his lieutenants (one of whom had the command of Hither Spain, with three
 legions; the second of the country from the forest of Castulo to the
@@ -9029,7 +9873,9 @@ through the Vettones to Afranius. They resolved by joint consent to
 carry on the war in the vicinity of Ilerda, on account of the advantages
 of its situation.
 
-XXXIX.--Afranius, as above mentioned, had three legions, Petreius two.
+## Chapter XXXIX
+
+Afranius, as above mentioned, had three legions, Petreius two.
 There were besides about eighty cohorts raised in Hither and Further
 Spain (of which, the troops belonging to the former province had
 shields, those of the latter targets), and about five thousand horse
@@ -9046,7 +9892,9 @@ soldiers. By this proceeding he gained two points; he secured the
 interest of the centurions by this pledge in his hands, and by his
 liberality he purchased the affections of his army.
 
-XL.--Fabius sounded the inclinations of the neighbouring states by
+## Chapter XL
+
+Fabius sounded the inclinations of the neighbouring states by
 letters and messengers. He had made two bridges over the river Segre, at
 the distance of four miles from each other. He sent foraging parties
 over these bridges, because he had already consumed all the forage that
@@ -9074,7 +9922,9 @@ the opportunity which fortune had put in their way, to attack our men.
 Their approach put an end to the battle, and each general led back his
 legions to their respective camps.
 
-XLI.--In two days after Caesar came to the camp with nine hundred horse,
+## Chapter XLI
+
+In two days after Caesar came to the camp with nine hundred horse,
 which he had retained for a bodyguard. The bridge which had been broken
 down by the storm was almost repaired, and he ordered it to be finished
 in the night. Being acquainted with the nature of the country, he left
@@ -9096,7 +9946,9 @@ the third line was carrying on the work without being seen; so that the
 whole was completed before Afranius discovered that the camp was being
 fortified.
 
-XLII.--In the evening Caesar drew his legions within this trench, and
+## Chapter XLII
+
+In the evening Caesar drew his legions within this trench, and
 rested them under arms the next night. The day following he kept his
 whole army within it, and as it was necessary to bring materials from a
 considerable distance, he for the present pursued the same plan in his
@@ -9113,7 +9965,9 @@ The third day Caesar fortified his camp with a rampart, and ordered the
 other cohorts which he had left in the upper camp, and his baggage to be
 removed to it.
 
-XLIIL-Between the town of Ilerda and the next hill, on which Afranius
+## Chapter XLIII
+
+Between the town of Ilerda and the next hill, on which Afranius
 and Petreius were encamped, there was a plain about three hundred paces
 broad, and near the middle of it an eminence somewhat raised above the
 level: Caesar hoped that if he could get possession of this and fortify
@@ -9128,7 +9982,9 @@ Afranius's men had reached the eminence first, our men were repulsed,
 and, on a reinforcement being sent, they were obliged to turn their
 backs and retreat to the standards of legions.
 
-XLIV.--The manner of fighting of those soldiers was to run forward with
+## Chapter XLIV
+
+The manner of fighting of those soldiers was to run forward with
 great impetuosity and boldly take a post, and not to keep their ranks
 strictly, but to fight in small scattered parties: if hard pressed they
 thought it no disgrace to retire and give up the post, being accustomed
@@ -9144,7 +10000,9 @@ which they had taken. Accordingly, when the advanced guard gave way, the
 legion which was stationed on that wing did not keep its ground, but
 retreated to the next hill.
 
-XLV.--Almost the whole army being daunted at this, because it had
+## Chapter XLV
+
+Almost the whole army being daunted at this, because it had
 occurred contrary to their expectations and custom, Caesar encouraged
 his men and led the ninth legion to their relief, and checked the
 insolent and eager pursuit of the enemy, and obliged them, in their
@@ -9170,7 +10028,9 @@ through the town, that fresh men might relieve the weary. Caesar was
 obliged to do the same, and relieve the fatigued by sending cohorts to
 that post.
 
-XLVI.--After the battle had in this manner continued incessantly for
+## Chapter XLVI
+
+After the battle had in this manner continued incessantly for
 five hours, and our men had suffered much from superior numbers, having
 spent all their javelins, they drew their swords and charged the enemy
 up the hill, and, having killed a few, obliged the rest to fly. The
@@ -9187,7 +10047,9 @@ hundred were wounded. Of Afranius's party there were killed Titus
 Caecilius, principal centurion, and four other centurions, and above two
 hundred men.
 
-XLVII.--But this opinion is spread abroad concerning this day, that each
+## Chapter XLVII
+
+But this opinion is spread abroad concerning this day, that each
 party thought that they came off conquerors. Afranius's soldiers,
 because, though they were esteemed inferior in the opinion of all, yet
 they had stood our attack and sustained our charge, and, at first, had
@@ -9200,7 +10062,9 @@ the higher ground and driven them into the town. The enemy fortified the
 hill, about which the contest had been, with strong works, and posted a
 garrison on it.
 
-XLVIII.--In two days after this transaction, there happened an
+## Chapter XLVIII
+
+In two days after this transaction, there happened an
 unexpected misfortune. For so great a storm arose, that it was agreed
 that there were never seen higher floods in those countries; it swept
 down the snow from all the mountains, and broke over the banks of the
@@ -9225,14 +10089,18 @@ the targeteers of Hither Spain, who were well acquainted with the
 country, and could readily swim across the river, because it is the
 custom of all those people not to join their armies without bladders.
 
-XLIX.--But Afranius's army had abundance of everything; a great stock of
+## Chapter XLIX
+
+But Afranius's army had abundance of everything; a great stock of
 corn had been provided and laid in long before, a large quantity was
 coming in from the whole province: they had a good store of forage. The
 bridge of Ilerda afforded an opportunity of getting all these without
 any danger, and the places beyond the bridge, to which Caesar had no
 access, were as yet untouched.
 
-L.--Those floods continued several days. Caesar endeavoured to repair
+## Chapter L
+
+Those floods continued several days. Caesar endeavoured to repair
 the bridges, but the height of the water did not allow him: and the
 cohorts disposed along the banks did not suffer them to be completed;
 and it was easy for them to prevent it, both from the nature of the
@@ -9241,7 +10109,9 @@ were thrown from the whole course of the bank on one confined spot; and
 it was no easy matter at one and the same time to execute a work in a
 very rapid flood, and to avoid the darts.
 
-LI.--Intelligence was brought to Afranius that the great convoys, which
+## Chapter LI
+
+Intelligence was brought to Afranius that the great convoys, which
 were on their march to Caesar, had halted at the river. Archers from the
 Rutheni, and horse from the Gauls, with a long train of baggage,
 according to the Gallic custom of travelling, had arrived there; there
@@ -9263,7 +10133,9 @@ gained time, they retired to the higher grounds. There were missing that
 day about two hundred bow-men, a few horse, and an inconsiderable number
 of servants and baggage.
 
-LII.--However, by all these things, the price of provisions was raised,
+## Chapter LII
+
+However, by all these things, the price of provisions was raised,
 which is commonly a disaster attendant, not only on a time of present
 scarcity, but on the apprehension of future want. Provisions had now
 reached fifty denarii each bushel; and the want of corn had diminished
@@ -9277,7 +10149,9 @@ they had but little corn. He sent away the camp followers to the more
 distant states, and endeavoured to remedy the present scarcity by every
 resource in his power.
 
-LIII.--Afranius and Petreius, and their friends, sent fuller and more
+## Chapter LIII
+
+Afranius and Petreius, and their friends, sent fuller and more
 circumstantial accounts of these things to Rome, to their acquaintances.
 Report exaggerated them so that the war appeared to be almost at an end.
 When these letters and despatches were received at Rome, a great
@@ -9287,7 +10161,9 @@ some of them, to be the first to bring him the intelligence; others,
 that they might not be thought to have waited the issue of the war, and
 to have come last of all.
 
-LIV.--When Caesar's affairs were in this unfavourable position, and all
+## Chapter LIV
+
+When Caesar's affairs were in this unfavourable position, and all
 the passes were guarded by the soldiers and horse of Afranius, and the
 bridges could not be prepared, Caesar ordered his soldiers to make ships
 of the kind that his knowledge of Britain a few years before had taught
@@ -9303,7 +10179,9 @@ days. By this means, he brought safe to his camp the convoys, and those
 who had gone out to forage; and began to prepare a conveyance for the
 provisions.
 
-LV.--The same day he made a great part of his horse pass the river, who,
+## Chapter LV
+
+The same day he made a great part of his horse pass the river, who,
 falling on the foragers by surprise as they were dispersed without any
 suspicions, intercepted an incredible number of cattle and people; and
 when some Spanish light-armed cohorts were sent to reinforce the enemy,
@@ -9314,7 +10192,9 @@ which had rashly ventured out of the line before the others, and after
 putting it to the sword, returned safe with considerable booty to the
 camp over the same bridge.
 
-LVI.--Whilst these affairs are going forward at Ilerda, the Massilians,
+## Chapter LVI
+
+Whilst these affairs are going forward at Ilerda, the Massilians,
 adopting the advice of Domitius, prepared seventeen ships of war, of
 which eleven were decked. To these they add several smaller vessels,
 that our fleet might be terrified by numbers: they man them with a great
@@ -9326,7 +10206,9 @@ furnished with every necessary, he advanced with great confidence
 against our ships, commanded by Decimus Brutus. It was stationed at an
 island opposite to Massilia.
 
-LVII.--Brutus was much inferior in number of ships; but Caesar had
+## Chapter LVII
+
+Brutus was much inferior in number of ships; but Caesar had
 appointed to that fleet the bravest men selected from all his legions,
 antesignani and centurions, who had requested to be employed in that
 service. They had provided iron hooks and harpoons, and had furnished
@@ -9340,7 +10222,9 @@ their recent promises: and the wild shepherds, encouraged by the hope of
 liberty, were eager to prove their zeal in the presence of their
 masters.
 
-LVIII.--The Massilians themselves, confiding in the quickness of their
+## Chapter LVIII
+
+The Massilians themselves, confiding in the quickness of their
 ships, and the skill of their pilots, eluded ours, and evaded the shock,
 and as long as they were permitted by clear space, lengthening their
 line they endeavoured to surround us, or to attack single ships with
@@ -9361,7 +10245,9 @@ their ships, took others with the men on board, and drove the rest into
 the harbour. That day the Massilians lost nine ships, including those
 that were taken.
 
-LIX.--When news of this battle was brought to Caesar at Ilerda, the
+## Chapter LIX
+
+When news of this battle was brought to Caesar at Ilerda, the
 bridge being completed at the same time, fortune soon took a turn. The
 enemy, daunted by the courage of our horse, did not scour the country as
 freely or as boldly as before: but sometimes advancing a small distance
@@ -9373,7 +10259,9 @@ expedition, leaving their baggage behind them; at length they resolved
 to leave off foraging for several days, and, contrary to the practice of
 all nations, to go out at night.
 
-LX.--In the meantime the Oscenses and the Calagurritani, who were under
+## Chapter LX
+
+In the meantime the Oscenses and the Calagurritani, who were under
 the government of the Oscenses, send ambassadors to Caesar, and offer to
 submit to his orders. They are followed by the Tarraconenses, Jacetani,
 and Ausetani, and in a few days more by the Illurgavonenses, who dwell
@@ -9389,7 +10277,9 @@ legions which were said to be on their march, with Pompey at their head,
 through Mauritania, having died away, several of the more distant states
 revolt from Afranius, and enter into league with Caesar.
 
-LXI.--Whilst the spirits of the enemy were dismayed at these things,
+## Chapter LXI
+
+Whilst the spirits of the enemy were dismayed at these things,
 Caesar, that he might not be always obliged to send his horse a long
 circuit round by the bridge, having found a convenient place, began to
 sink several drains, thirty feet deep, by which he might draw off a part
@@ -9412,7 +10302,9 @@ part of the river, they ordered a bridge to be made of boats fastened
 together, and transported two legions over the river Segre, and
 fortified their camp with a rampart, twelve feet high.
 
-LXII.--Notice of this being given by the scouts, Caesar continued his
+## Chapter LXII
+
+Notice of this being given by the scouts, Caesar continued his
 work day and night, with very great fatigue to the soldiers, to drain
 the river, and so far effected his purpose, that the horse were both
 able and bold enough, though with some difficulty and danger, to pass
@@ -9422,7 +10314,9 @@ by the depth of the water, but also by the rapidity of the current.
 However, almost at the same instant, news was received of the bridge
 being nearly completed over the Ebro, and a ford was found in the Segre.
 
-LXIII.--Now indeed the enemy began to think that they ought to hasten
+## Chapter LXIII
+
+Now indeed the enemy began to think that they ought to hasten
 their march. Accordingly, leaving two auxiliary cohorts in the garrison
 at Ilerda, they crossed the Segre with their whole force, and formed one
 camp with the two legions which they had led across a few days before.
@@ -9434,7 +10328,9 @@ had broken up their camp about the third watch, they suddenly appeared
 on their rear, and spreading round them in great numbers, began to
 retard and impede their march.
 
-LXIV.--At break of day, it was perceived from the rising grounds which
+## Chapter LXIV
+
+At break of day, it was perceived from the rising grounds which
 joined Caesar's camp, that their rear was vigorously pressed by our
 horse; that the last line sometimes halted and was broken; at other
 times, that they joined battle and that our men were beaten back by a
@@ -9462,7 +10358,9 @@ addition of a circuit of six miles and a considerable delay in fording
 the river, before the ninth hour of the day they came up with those who
 had set out at the third watch.
 
-LXV.--When Afranius, who was in company with Petreius, saw them at a
+## Chapter LXV
+
+When Afranius, who was in company with Petreius, saw them at a
 distance, being affrighted at so unexpected a sight, he halted on a
 rising ground and drew up his army. Caesar refreshed his army on the
 plain that he might not expose them to battle whilst fatigued; and when
@@ -9478,7 +10376,9 @@ by the skirmishes all day, and by the labour of their march, they
 deferred it till the following day: Caesar likewise encamped on the next
 hill.
 
-LXVI.--About midnight a few of their men who had gone some distance from
+## Chapter LXVI
+
+About midnight a few of their men who had gone some distance from
 the camp to fetch water, being taken by our horse, Caesar is informed by
 them that the generals of the enemy were drawing their troops out of the
 camp without noise. Upon this information Caesar ordered the signal to
@@ -9495,7 +10395,9 @@ for the next five miles, that there then succeeded a rough and
 mountainous country. Whichever should first obtain possession of the
 defiles would have no trouble in preventing the other's progress.
 
-LXVII.--There was a debate in the council between Afranius and Petreius,
+## Chapter LXVII
+
+There was a debate in the council between Afranius and Petreius,
 and the time of marching was the subject. The majority were of opinion
 that they should begin their march at night, "for they might reach the
 defiles before they should be discovered." Others, because a shout had
@@ -9513,7 +10415,9 @@ the post which they desired might be secured with safety to the main
 body of the army." This opinion prevailed in the council, and the next
 day, at the dawn, they resolved to set forward.
 
-LXVIII.--Caesar, having taken a view of the country, the moment the sky
+## Chapter LXVIII
+
+Caesar, having taken a view of the country, the moment the sky
 began to grow white, led his forces from the camp and marched at the
 head of his army by a long circuit, keeping to no regular road; for the
 road which led to the Ebro and Octogesa was occupied by the enemy's
@@ -9526,7 +10430,9 @@ a man murmured at the fatigue, because they imagined that there would be
 a period to all their toils if they could cut off the enemy from the
 Ebro and intercept their convoys.
 
-LXIX.--At first, Afranius's soldiers ran in high spirits from their camp
+## Chapter LXIX
+
+At first, Afranius's soldiers ran in high spirits from their camp
 to look at us, and in contumelious language upbraided us, "that we were
 forced, for want of necessary subsistence, to run away, and return to
 Ilerda." For our route was different from what we proposed, and we
@@ -9541,7 +10447,9 @@ march from the camp immediately, and oppose us. The cry to arms was
 raised, and all the army, except a few which were left to guard the
 camp, set out and marched the direct road to the Ebro.
 
-LXX.--The contest depended entirely on despatch, which should first get
+## Chapter LXX
+
+The contest depended entirely on despatch, which should first get
 possession of the defile and the mountain. The difficulty of the roads
 delayed Caesar's army, but his cavalry pursuing Afranius's forces,
 retarded their march. However, the affair was necessarily reduced to
@@ -9564,7 +10472,9 @@ nor were they able to withstand the charge of the cavalry even for a
 moment, but were all surrounded and cut to pieces in the sight of the
 two armies.
 
-LXXI.--There was now an opportunity for managing affairs successfully,
+## Chapter LXXI
+
+There was now an opportunity for managing affairs successfully,
 nor did it escape Caesar, that an army daunted at suffering such a loss
 before their eyes, could not stand, especially as they were surrounded
 by our horse, and the engagement would take place on even and open
@@ -9581,7 +10491,9 @@ would be given him of coming to battle in some other place: for that
 Afranius must certainly come down, and would not be able to remain there
 for want of water."
 
-LXXII.--Caesar had conceived hopes of ending the affair without an
+## Chapter LXXII
+
+Caesar had conceived hopes of ending the affair without an
 engagement, or without striking a blow, because he had cut off the
 enemy's supplies. Why should he hazard the loss of any of his men, even
 in a successful battle? Why should he expose soldiers to be wounded; who
@@ -9599,7 +10511,9 @@ retired to their camp. Caesar, having disposed parties on the mountains,
 and cut off all access to the Ebro, fortified his camp as close to the
 enemy as he could.
 
-LXXIII.--The day following, the generals of his opponents, being alarmed
+## Chapter LXXIII
+
+The day following, the generals of his opponents, being alarmed
 that they had lost all prospect of supplies, and of access to the Ebro,
 consulted as to what other course they should take. There were two
 roads, one to Ilerda, if they chose to return, the other to Tarraco, if
@@ -9613,7 +10527,9 @@ without fear, and without a guard. Petreius and Afranius divided this
 task between themselves, and went in person to some distance from their
 camp for the purpose of seeing it accomplished.
 
-LXXIV.--The soldiers having obtained by their absence a free opportunity
+## Chapter LXXIV
+
+The soldiers having obtained by their absence a free opportunity
 of conversing with each other, came out in great numbers, and inquired
 each for whatever acquaintance or fellow citizen he had in our camp, and
 invited him to him. First they returned them general thanks for sparing
@@ -9644,7 +10560,9 @@ completed so important a matter without blows; and Caesar, in every
 man's judgment, reaped the advantage of his former lenity, and his
 conduct was applauded by all.
 
-LXXV.--When these circumstances were announced to Afranius, he left the
+## Chapter LXXV
+
+When these circumstances were announced to Afranius, he left the
 work which he had begun, and returned to his camp determined, as it
 appeared, whatever should be the event to bear it with an even and
 steady mind. Petreius did not neglect himself; he armed his domestics;
@@ -9659,7 +10577,9 @@ camp, defended themselves against the Spaniards, and the horse, and made
 good their retreat to the camp, where they were protected by the
 cohorts, which were on guard.
 
-LXXVI.--Petreius, after accomplishing this, went round every maniple,
+## Chapter LXXVI
+
+Petreius, after accomplishing this, went round every maniple,
 calling the soldiers by their names and entreating with tears, that they
 would not give up him and their absent general Pompey, as a sacrifice to
 the vengeance of their enemies. Immediately they ran in crowds to the
@@ -9677,14 +10597,18 @@ the cruelty of the punishments, the new obligation of an oath, removed
 all hopes of surrender for the present, changed the soldiers' minds, and
 reduced matters to the former state of war.
 
-LXXVII.--Caesar ordered the enemy's soldiers, who had come into his camp
+## Chapter LXXVII
+
+Caesar ordered the enemy's soldiers, who had come into his camp
 to hold a conference, to be searched for with the strictest diligence,
 and sent back. But of the tribunes and centurions, several voluntarily
 remained with him, and he afterwards treated them with great respect.
 The centurions he promoted to higher ranks, and conferred on the Roman
 knights the honour of tribunes.
 
-LXXVIII.--Afranius's men were distressed in foraging, and procured water
+## Chapter LXXVIII
+
+Afranius's men were distressed in foraging, and procured water
 with difficulty. The legionary soldiers had a tolerable supply of corn,
 because they had been ordered to bring from Ilerda sufficient to last
 twenty-two days; the Spanish and auxiliary forces had none, for they had
@@ -9700,7 +10624,9 @@ from their camp. Caesar having sent forward his cavalry, to annoy and
 retard their rear, followed close after with his legions. Not a moment
 passed in which their rear was not engaged with our horse.
 
-LXXIX.--Their manner of fighting was this: the light cohorts closed
+## Chapter LXXIX
+
+Their manner of fighting was this: the light cohorts closed
 their rear, and frequently made a stand on the level grounds. If they
 had a mountain to ascend, the very nature of the place readily secured
 them from any danger; for the advanced guards, from the rising grounds,
@@ -9719,7 +10645,9 @@ army, and themselves protect them, as they were daunted by former
 battles. And on their march no one could quit the line without being
 taken by Caesar's horse.
 
-LXXX.--Whilst skirmishes were fought in this manner, they advanced but
+## Chapter LXXX
+
+Whilst skirmishes were fought in this manner, they advanced but
 slowly and gradually, and frequently halted to help their rear, as then
 happened. For having advanced four miles, and being very much harassed
 by our horse, they took post on a high mountain, and there entrenched
@@ -9736,7 +10664,9 @@ charged the rear so vigorously, that they almost forced them to fly; and
 several privates and some centurions were killed. The main body of
 Caesar's army was at hand, and universal ruin threatened them.
 
-LXXXI.--Then indeed, not having opportunity either to choose a
+## Chapter LXXXI
+
+Then indeed, not having opportunity either to choose a
 convenient position for their camp, or to march forward, they were
 obliged to halt, and to encamp at a distance from water, and on ground
 naturally unfavourable. But for the reasons already given, Caesar did
@@ -9757,7 +10687,9 @@ their most sudden sally, to which he imagined that they must have
 recourse. Hereupon, urged by want of fodder, that they might be the
 readier for a march, they killed all their baggage cattle.
 
-LXXXII.--In this work, and the deliberations on it, two days were spent.
+## Chapter LXXXII
+
+In this work, and the deliberations on it, two days were spent.
 By the third day a considerable part of Caesar's works was finished. To
 interrupt his progress, they drew out their legions about the eighth
 hour, by a certain signal, and placed them in order of battle before
@@ -9776,7 +10708,9 @@ afford a ready retreat to the conquered party in the flight. For this
 reason Caesar had resolved to make resistance, if they attacked him, but
 not to be the first to provoke the battle.
 
-LXXXIII.--Afranius's five legions were drawn up in two lines, the
+## Chapter LXXXIII
+
+Afranius's five legions were drawn up in two lines, the
 auxiliary cohorts formed the third line, and acted as reserves. Caesar
 had three lines, four cohorts out of each of the five legions formed the
 first line. Three more from each legion followed them, as reserves: and
@@ -9792,7 +10726,9 @@ ford. Caesar, having perceived this, sent some light-armed Germans and a
 party of horse across the river, and disposed several parties along the
 banks to guard them.
 
-LXXXIV.--At length, beset on all sides, their cattle having been four
+## Chapter LXXXIV
+
+At length, beset on all sides, their cattle having been four
 days without fodder, and having no water, wood, or corn, they beg a
 conference; and that, if possible, in a place remote from the soldiers.
 When this was refused by Caesar, but a public interview offered if they
@@ -9810,7 +10746,9 @@ any room left for mercy, that they should not be necessitated to suffer
 the most severe penalties." These sentiments were delivered in the most
 submissive and humble language.
 
-LXXXV.--Caesar replied, "That either to complain or sue for mercy became
+## Chapter LXXXV
+
+Caesar replied, "That either to complain or sue for mercy became
 no man less than him: for that every other person had done their duty:
 himself, in having declined to engage on favourable terms, in an
 advantageous situation and time, that all things tending to a peace
@@ -9856,7 +10794,9 @@ and therefore, as he said before, let them quit the provinces, and
 disband their army. If this was complied with, he would injure no
 person; that these were the last and only conditions of peace."
 
-LXXXVI.--It was very acceptable and agreeable to Afranius's soldiers, as
+## Chapter LXXXVI
+
+It was very acceptable and agreeable to Afranius's soldiers, as
 might be easily known from their signs of joy, that they who expected
 some injury after this defeat, should obtain without solicitation the
 reward of a dismissal. For when a debate was introduced about the place
@@ -9871,7 +10811,9 @@ Caesar gave security that they should receive no damage, and that no
 person should be obliged against his inclination to take the military
 oath under him.
 
-LXXXVII.--Caesar promised to supply them with corn from the present
+## Chapter LXXXVII
+
+Caesar promised to supply them with corn from the present
 time, till they arrived at the river Var. He further adds, that whatever
 any of them lost in the war, which was in the possession of his
 soldiers, should be restored to those that lost them. To his soldiers he
@@ -9891,7 +10833,9 @@ was disbanded.
 
 ## Book II
 
-I.--Whilst these things were going forward in Spain, Caius Trebonius,
+## Chapter I
+
+Whilst these things were going forward in Spain, Caius Trebonius,
 Caesar's lieutenant, who had been left to conduct the assault of
 Massilia, began to raise a mound, vineae, and turrets against the town,
 on two sides: one of which was next the harbour and docks, the other on
@@ -9906,7 +10850,9 @@ from the whole Province, and orders hurdles and materials to be
 furnished. These things being provided, he raised a mound eighty feet in
 height.
 
-II.--But so great a store of everything necessary for a war had been a
+## Chapter II
+
+But so great a store of everything necessary for a war had been a
 long time before laid up in the town, and so great a number of engines,
 that no vineae made of hurdles could withstand their force. For poles
 twelve feet in length, pointed with iron, and these too shot from very
@@ -9923,7 +10869,9 @@ town by the Albici, and fire was thrown on our mound and turrets. These
 our men easily repulsed, and, doing considerable damage to those who
 sallied, beat them back into the town.
 
-III.--In the meantime, Lucius Nasidius, being sent by Cneius Pompey with
+## Chapter III
+
+In the meantime, Lucius Nasidius, being sent by Cneius Pompey with
 a fleet of sixteen sail, a few of which had beaks of brass, to the
 assistance of Lucius Domitius and the Massilians, passed the straits of
 Sicily without the knowledge or expectation of Curio, and, putting with
@@ -9934,7 +10882,9 @@ Massilia, and, having sent in a galley privately, acquaints Domitius and
 the Massilians of his arrival, and earnestly encourages them to hazard
 another battle with Brutus's fleet with the addition of his aid.
 
-IV.--The Massilians, since their former loss, had brought the same
+## Chapter IV
+
+The Massilians, since their former loss, had brought the same
 number of old ships from the docks, and had repaired and fitted them out
 with great industry: they had a large supply of seamen and pilots. They
 had got several fishing-smacks, and covered them over, that the seamen
@@ -9953,7 +10903,9 @@ encouraged each other to engage, and communicated their plan of
 operation. The command of the right division was given to the
 Massilians, that of the left to Nasidius.
 
-V.--Brutus sailed to the same place with an augmented fleet: for to
+## Chapter V
+
+Brutus sailed to the same place with an augmented fleet: for to
 those made by Caesar at Arelas were added six ships taken from the
 Massilians, which he had refitted since the last battle and had
 furnished with every necessary. Accordingly, having encouraged his men
@@ -9974,7 +10926,9 @@ attempt, and, if they proved victorious, they might have hopes of
 preserving the city, either by their internal resources or by foreign
 assistance.
 
-VI-.-When the battle was begun, no effort of valour was wanting to the
+## Chapter VI
+
+When the battle was begun, no effort of valour was wanting to the
 Massilians, but, mindful of the instructions which they had a little
 before received from their friends, they fought with such spirit as if
 they supposed that they would never have another opportunity to attempt
@@ -10002,7 +10956,9 @@ circumstance being observed, the ships of Brutus's fleet, which were
 nearest that station, attack them when in this disorder and sink them
 both.
 
-VII.--But Nasidius's ships were of no use, and soon left the fight; for
+## Chapter VII
+
+But Nasidius's ships were of no use, and soon left the fight; for
 the sight of their country, or the entreaties of their relations, did
 not urge them to run a desperate risk of their lives. Therefore, of the
 number of the ships not one was lost: of the fleet of the Massilians
@@ -10016,7 +10972,9 @@ been taken by an enemy at the same moment. The Massilians, however,
 began to make the necessary preparations for the defence of their city
 with unwearied energy.
 
-VIII.--The legionary soldiers who had the management of the works on the
+## Chapter VIII
+
+The legionary soldiers who had the management of the works on the
 right side observed, from the frequent sallies of the enemy, that it
 might prove a great protection to them to build a turret of brick under
 the wall for a fort and place of refuge, which they at first built low
@@ -10029,7 +10987,9 @@ everything on which the wit of man is employed, it was found that it
 might be of considerable service if it was raised to the usual height of
 turrets, which was effected in the following manner.
 
-IX.-When the turret was raised to the height for flooring, they laid it
+## Chapter IX
+
+When the turret was raised to the height for flooring, they laid it
 on the walls in such a manner that the ends of the joists were covered
 by the outer face of the wall, that nothing should project to which the
 enemy's fire might adhere. They, moreover, built over the joists with
@@ -10065,7 +11025,9 @@ and without a blow or danger, they raised it six stories high, and in
 laying the materials left loop-holes in such places as they thought
 proper for working their engines.
 
-X.--When they were confident that they could protect the works which lay
+## Chapter X
+
+When they were confident that they could protect the works which lay
 around from this turret, they resolved to build a musculus, sixty feet
 long, of timber, two feet square, and to extend it from the brick tower
 to the enemy's tower and wall. This was the form of it: two beams of
@@ -10088,7 +11050,9 @@ the very tower, and suddenly, before the enemy were aware of it, moved
 it forward by naval machinery, by putting rollers under it, close up to
 the enemy's turret, so that it even touched the building.
 
-XI.--The townsmen, affrighted at this unexpected stroke, bring forward
+## Chapter XI
+
+The townsmen, affrighted at this unexpected stroke, bring forward
 with levers the largest stones they can procure; and pitching them from
 the wall, roll them down on the musculus. The strength of the timber
 withstood the shock; and whatever fell on it slid off, on account of the
@@ -10105,7 +11069,9 @@ walls given them. At length several stones being picked away from the
 foundation of that turret next the musculus, part of it fell down
 suddenly, and the rest, as if following it, leaned forward.
 
-XII.--Hereupon, the enemy, distressed at the sudden fall of the turret,
+## Chapter XII
+
+Hereupon, the enemy, distressed at the sudden fall of the turret,
 surprised at the unforeseen calamity, awed by the wrath of the gods, and
 dreading the pillage of their city, rush all together out of the gate
 unarmed, with their temples bound with fillets, and suppliantly stretch
@@ -10124,7 +11090,9 @@ hopes of getting spoil." These and several other arguments to the same
 effect were delivered, as they were a people of great learning, with
 great pathos and lamentations.
 
-XIII.--The lieutenants, moved with compassion, draw off the soldiers
+## Chapter XIII
+
+The lieutenants, moved with compassion, draw off the soldiers
 from the work, desist from the assault, and leave sentinels on the
 works. A sort of a truce having been made through compassion for the
 besieged, the arrival of Caesar is anxiously awaited; not a dart was
@@ -10138,7 +11106,9 @@ And it was with difficulty that they were then restrained from breaking
 into the town, and they were much displeased, because they imagined that
 they were prevented by Trebonius from taking possession of it.
 
-XIV.--But the enemy, destitute of all honour, only waited a time and
+## Chapter XIV
+
+But the enemy, destitute of all honour, only waited a time and
 opportunity for fraud and treachery. And after an interval of some days,
 when our men were careless and negligent, on a sudden, at noon, when
 some were dispersed, and others indulging themselves in rest on the very
@@ -10162,7 +11132,9 @@ the preceding day, they had made every preparation for a defence.
 Accordingly, they slew several, and forced the rest to retreat into the
 town without effecting their design.
 
-XV.--Trebonius began to provide and repair what had been destroyed, with
+## Chapter XV
+
+Trebonius began to provide and repair what had been destroyed, with
 much greater zeal on the part of the soldiers; for when they saw that
 their extraordinary pains and preparations had an unfortunate issue,
 they were fired with indignation that, in consequence of the impious
@@ -10184,7 +11156,9 @@ finished--the loss of their laborious work was soon repaired by the
 dexterity and fortitude of the soldiers. Gates for making sallies were
 left in the wall in such places as they thought proper.
 
-XVI.--But when the enemy perceived that those works, which they had
+## Chapter XVI
+
+But when the enemy perceived that those works, which they had
 hoped could not be replaced without a great length of time, were put
 into so thorough repair by a few days' labour and diligence, that there
 was no room for perfidy or sallies, and that no means were left them by
@@ -10201,7 +11175,9 @@ walls and turrets, they could perceive that they were not equal to our
 men in bravery, they had recourse to the same proposals of surrender as
 before.
 
-XVII.--In Further Spain, Marcus Varro, in the beginning of the
+## Chapter XVII
+
+In Further Spain, Marcus Varro, in the beginning of the
 disturbances, when he heard of the circumstances which took place in
 Italy, being diffident of Pompey's success, used to speak in a very
 friendly manner of Caesar. That though, being pre-engaged to Cneius
@@ -10221,7 +11197,9 @@ of provisions, and Afranius wrote to him a fuller and more exaggerated
 account of these matters, he began to regulate his movements by those of
 fortune.
 
-XVIII.--He made levies throughout the province; and, having completed
+## Chapter XVIII
+
+He made levies throughout the province; and, having completed
 his two legions, he added to them about thirty auxiliary cohorts: he
 collected a large quantity of corn to send partly to the Massilians,
 partly to Afranius and Petreius. He commanded the inhabitants of Gades
@@ -10256,7 +11234,9 @@ and important matters, yet had determined to leave no dregs of war
 behind him in Spain, because he knew that Pompey had many dependants and
 clients in the Hither province.
 
-XIX.--Having therefore sent two legions into Further Spain under the
+## Chapter XIX
+
+Having therefore sent two legions into Further Spain under the
 command of Quintus Cassius, tribune of the people; he himself advances
 with six hundred horse by forced marches, and issues a proclamation,
 appointing a day on which the magistrates and nobility of all the states
@@ -10272,7 +11252,9 @@ by far the strongest state in the whole province, of themselves drove
 out of the town the cohorts, and shut the gates against them, although
 three cohorts had been detached by Varro to garrison the citadel.
 
-XX.--But Varro was in greater haste on this account to reach Gades with
+## Chapter XX
+
+But Varro was in greater haste on this account to reach Gades with
 his legion as soon as possible, lest he should be stopped either on his
 march or on crossing over to the island. The affection of the province
 to Caesar proved so great and so favourable, that he received a letter
@@ -10299,7 +11281,9 @@ Caesar to Corduba, and having laid before him the public accounts,
 handed over to him most faithfully whatever money he had, and told him
 what quantity of corn and shipping he had, and where.
 
-XXI.--Caesar made a public oration at Corduba, in which he returned
+## Chapter XXI
+
+Caesar made a public oration at Corduba, in which he returned
 thanks to all severally: to the Roman citizens, because they had been
 zealous to keep the town in their own power; to the Spaniards, for
 having driven out the garrison; to the Gaditani, for having defeated the
@@ -10324,7 +11308,9 @@ Massilia. There he was informed that a law was passed for creating a
 dictator, and that he had been nominated dictator by Marcus Lepidus the
 praetor.
 
-XXII.--The Massilians, wearied out by misfortunes of every sort, reduced
+## Chapter XXII
+
+The Massilians, wearied out by misfortunes of every sort, reduced
 to the lowest ebb for want of corn, conquered in two engagements at sea,
 defeated in their frequent sallies, and struggling moreover with a fatal
 pestilence, from their long confinement and change of victuals (for they
@@ -10350,7 +11336,9 @@ renown and antiquity than to any claim they could lay to his favour,
 left two legions in garrison there, sent the rest to Italy, and set out
 himself for Rome.
 
-XXIII.--About the same time Caius Curio, having sailed from Sicily to
+## Chapter XXIII
+
+About the same time Caius Curio, having sailed from Sicily to
 Africa, and from the first despising the forces of Publius Attius Varus,
 transported only two of the four legions which he had received from
 Caesar, and five hundred horse, and having spent two days and three
@@ -10369,7 +11357,9 @@ which Curio had brought from Sicily as convoy to the merchantmen, and
 seeing a ship left on the shore, he brought her off by a towing rope,
 and returned with his fleet to Curio.
 
-XXIV.--Curio detached Marcus before with the fleet to Utica, and marched
+## Chapter XXIV
+
+Curio detached Marcus before with the fleet to Utica, and marched
 thither with his army. Having advanced two days, he came to the river
 Bagrada, and there left Caius Caninius Rebilus, the lieutenant, with the
 legions; and went forward himself with the horse to view the Cornelian
@@ -10381,7 +11371,9 @@ But on this road there is a spring, to which the sea comes up, and
 overflows; an extensive morass is thereby formed; and if a person would
 avoid it, he must make a circuit of six miles to reach the town.
 
-XXV.--Having examined this place, Curio got a view of Varus's camp,
+## Chapter XXV
+
+Having examined this place, Curio got a view of Varus's camp,
 joining the wall and town, at the gate called Bellica, well fortified by
 its natural situation, on one side by the town itself, on the other by a
 theatre which is before the town, the approaches to the town being
@@ -10406,7 +11398,9 @@ they all weighed anchor and left Utica, and repaired to the place
 commanded them. This circumstance furnished the army with plenty of
 everything.
 
-XXVI.--After these transactions, Curio returned to his camp at Bagrada;
+## Chapter XXVI
+
+After these transactions, Curio returned to his camp at Bagrada;
 and by a general shout of the whole army was saluted imperator. The next
 day he led his army to Utica, and encamped near the town. Before the
 works of the camp were finished, the horse upon guard brought him word
@@ -10423,7 +11417,9 @@ apprehensions, betake themselves to flight: almost all the enemy's horse
 being safe, because they made a speedy retreat into the town along the
 shore, Caesar's soldiers slay a great number of their infantry.
 
-XXVII.--The next night two Marsian centurions, with twenty-two men
+## Chapter XXVII
+
+The next night two Marsian centurions, with twenty-two men
 belonging to the companies, deserted from Curio's camp to Attius Varus.
 They, whether they uttered the sentiments which they really entertained,
 or wished to gratify Varus (for what we wish we readily give credit to,
@@ -10435,7 +11431,9 @@ their opinion, Varus the next day led his troops out of the camp: Curio
 did so in like manner, and with only one small valley between them, each
 drew up his forces.
 
-XXVIII.--In Varus's army there was one Sextus Quintilius Varus who, as
+## Chapter XXVIII
+
+In Varus's army there was one Sextus Quintilius Varus who, as
 we have mentioned before, was at Corfinium. When Caesar gave him his
 liberty, he went over to Africa; now, Curio had transported to Africa
 those legions which Caesar had received under his command a short time
@@ -10452,7 +11450,9 @@ should follow him and Attius. On the delivery of this speech, no
 intimation of their future conduct is given by Curio's army, and thus
 both generals led back their troops to their camp.
 
-XXIX.--However, a great and general fear spread through Curio's camp,
+## Chapter XXIX
+
+However, a great and general fear spread through Curio's camp,
 for it is soon increased by the various discourses of men. For every one
 formed an opinion of his own; and to what he had heard from others,
 added his own apprehensions. When this had spread from a single author
@@ -10468,7 +11468,9 @@ passed in the tents the night before; and some of their fellow soldiers
 heard them with displeasure. Some additions were also made to them by
 those who wished to be thought more zealous in their duty.]
 
-XXX.--For these reasons, having called a council, Curio began to
+## Chapter XXX
+
+For these reasons, having called a council, Curio began to
 deliberate on the general welfare. There were some opinions, which
 advised by all means an attempt to be made, and an attack on Varus's
 camp; for when such sentiments prevailed among the soldiers, they
@@ -10482,7 +11484,9 @@ thinking; and also, that if any misfortune should befall them, they
 might have a safer and readier retreat to Sicily, from the great number
 of their ships.
 
-XXXI.--Curio, censuring both measures, said, "that the one was as
+## Chapter XXXI
+
+Curio, censuring both measures, said, "that the one was as
 deficient in spirit, as the other exceeded in it: that the latter
 advised a shameful flight, and the former recommended us to engage at a
 great disadvantage. For on what, says he, can we rely that we can storm
@@ -10510,7 +11514,9 @@ as to despond: and I imagine that every expedient ought first to be
 tried; and I am in a great degree confident that I shall form the same
 opinion as yourselves on this matter."
 
-XXXII.--Having broken up the council he called the soldiers together,
+## Chapter XXXII
+
+Having broken up the council he called the soldiers together,
 and reminded them "what advantage Caesar had derived from their zeal at
 Corfinium; how by their good offices and influence he had brought over a
 great part of Italy to his interest. For, says he, all the municipal
@@ -10566,7 +11572,9 @@ repent your bounty, I give it back to you; restore to me my former name
 that you may not appear to have conferred the honour on me as a
 reproach."
 
-XXXIII.--The soldiers, being affected by this oration, frequently
+## Chapter XXXIII
+
+The soldiers, being affected by this oration, frequently
 attempted to interrupt him whilst he was speaking, so that they appeared
 to bear with excessive anguish the suspicion of treachery, and when he
 was leaving the assembly they unanimously besought him to be of good
@@ -10579,7 +11587,9 @@ had been posted the preceding day; nor did Attius Varus hesitate to draw
 out his men, that, if any occasion should offer, either to tamper with
 our men or to engage on equal terms, he might not miss the opportunity.
 
-XXXIV.-There lay between the two armies a valley, as already mentioned,
+## Chapter XXXIV
+
+There lay between the two armies a valley, as already mentioned,
 not very deep, but of a difficult and steep ascent. Each was waiting
 till the enemy's forces should attempt to pass it, that they might
 engage with the advantage of the ground. At the same time, on the left
@@ -10605,7 +11615,9 @@ they all imagined that they were already surrounded by our horse, and,
 therefore, before a dart could be thrown or our men come near them,
 Varus's whole army turned their backs and retreated to their camp.
 
-XXXV.-In this flight one Fabius, a Pelignian and common soldier in
+## Chapter XXXV
+
+In this flight one Fabius, a Pelignian and common soldier in
 Curio's army, pursuing the enemy's rear, with a loud voice shouted to
 Varus by his name, and often called him, so that he seemed to be one of
 his soldiers, who wished to speak to him and give him advice. When
@@ -10630,7 +11642,9 @@ knowing the terror of his army, leaving a trumpeter in his camp and a
 few tents for show, at the third watch led back his army quietly into
 the town.
 
-XXXVI.--The next day Curio resolved to besiege Utica, and to draw lines
+## Chapter XXXVI
+
+The next day Curio resolved to besiege Utica, and to draw lines
 about it. In the town there was a multitude of people, ignorant of war,
 owing to the length of the peace; some of them Uticans, very well
 inclined to Caesar, for his favours to them; the Roman population was
@@ -10643,7 +11657,9 @@ from king Juba, with the intelligence that he was on his march, with
 considerable forces, and encouraged them to protect and defend their
 city, a circumstance which greatly comforted their desponding hearts.
 
-XXXVII.--The same intelligence was brought to Curio; but for some time
+## Chapter XXXVII
+
+The same intelligence was brought to Curio; but for some time
 he could not give credit to it, because he had so great confidence in
 his own good fortune. And at this time Caesar's success in Spain was
 announced in Africa by messages and letters. Being elated by all these
@@ -10661,7 +11677,9 @@ from the number of trees, nor corn, with which the lands abounded.
 Wherefore, with the general consent, Curio determined to wait for the
 rest of his forces, and protract the war.
 
-XXXVIII.--This plan being settled, and his conduct approved of, he is
+## Chapter XXXVIII
+
+This plan being settled, and his conduct approved of, he is
 informed by some deserters from the town that Juba had stayed behind in
 his own kingdom, being called home by a neighbouring war, and a dispute
 with the people of Leptis; and that Sabura, his commander-in-chief, who
@@ -10681,7 +11699,9 @@ dispersed, killed a great number of them; many were frightened and ran
 away. After which the horse returned to Curio, and brought some
 prisoners with them.
 
-XXXIX.--Curio had set out at the fourth watch with all his forces,
+## Chapter XXXIX
+
+Curio had set out at the fourth watch with all his forces,
 except five cohorts which he left to guard the camp. Having advanced six
 miles, he met the horse, heard what had happened, and inquired from the
 captives who commanded the camp at Bagrada. They replied Sabura. Through
@@ -10705,7 +11725,9 @@ flight. But the horse, fatigued by the expedition of the preceding
 night, were not able to keep up with him, but fell behind in different
 places. Even this did not abate Curio's hopes.
 
-XL.--Juba, being informed by Sabura of the battle in the night, sent to
+## Chapter XL
+
+Juba, being informed by Sabura of the battle in the night, sent to
 his relief two thousand Spanish and Gallic horse, which he was
 accustomed to keep near him to guard his person, and that part of his
 infantry on which he had the greatest dependence, and he himself
@@ -10719,7 +11741,9 @@ their present behaviour was calculated to confirm his former hopes,
 imagined that the enemy were running away, and led his army from the
 rising grounds down to the plain.
 
-XLI.--And when he had advanced from this place about sixteen miles, his
+## Chapter XLI
+
+And when he had advanced from this place about sixteen miles, his
 army being exhausted with the fatigue, he halted. Sabura gave his men
 the signal, marshalled his army, and began to go around his ranks and
 encourage them. But he made use of the foot only for show; and sent the
@@ -10746,7 +11770,9 @@ lamented their unhappy deaths, or recommended their parents to the
 survivors, if fortune should save any from the impending danger. All
 were full of fear and grief.
 
-XLII.--When Curio perceived that in the general consternation neither
+## Chapter XLII
+
+When Curio perceived that in the general consternation neither
 his exhortations nor entreaties were attended to, imagining that the
 only hope of escaping in their deplorable situation was to gain the
 nearest hills, he ordered the colours to be borne that way. But a party
@@ -10763,7 +11789,9 @@ few of the horse escaped from that battle, but those who had stayed
 behind to refresh their horses having perceived at a distance the defeat
 of the whole army, retired in safety to their camp.
 
-XLIII.--The soldiers were all killed to a man. Marcus Rufus, the
+## Chapter XLIII
+
+The soldiers were all killed to a man. Marcus Rufus, the
 quaestor, who was left behind in the camp by Curio, having got
 intelligence of these things, encouraged his men not to be disheartened.
 They beg and entreat to be transported to Sicily. He consented, and
@@ -10782,7 +11810,9 @@ a vast number should first get on board, that some of the vessels sank
 with the weight of the multitude, and the fears of the rest delayed them
 from coming to the shore.
 
-XLIV.--From which circumstances it happened that a few foot and aged
+## Chapter XLIV
+
+From which circumstances it happened that a few foot and aged
 men, that could prevail either through interest or pity, or who were
 able to swim to the ships, were taken on board, and landed safe in
 Sicily. The rest of the troops sent their centurions as deputies to
@@ -10798,7 +11828,9 @@ more returned to his own kingdom, with all his forces.
 
 ## Book III
 
-I.--Julius Caesar, holding the election as dictator, was himself
+## Chapter I
+
+Julius Caesar, holding the election as dictator, was himself
 appointed consul with Publius Servilius; for this was the year in which
 it was permitted by the laws that he should be chosen consul. This
 business being ended, as credit was beginning to fail in Italy, and the
@@ -10823,7 +11855,9 @@ admitted to it by his bounty: that he might neither appear ungrateful in
 repaying an obligation, nor arrogant in depriving the people of their
 prerogative of exercising this bounty.
 
-II.--In accomplishing these things, and celebrating the Latin festival,
+## Chapter II
+
+In accomplishing these things, and celebrating the Latin festival,
 and holding all the elections, he spent eleven days; and having resigned
 the dictatorship, set out from the city, and went to Brundisium, where
 he had ordered twelve legions and all his cavalry to meet him. But he
@@ -10837,7 +11871,9 @@ severe autumn in Apulia and the district about Brundisium, after the
 very wholesome countries of Spain and Gaul, had impaired the health of
 the whole army.
 
-III.--Pompey having got a year's respite to provide forces, during which
+## Chapter III
+
+Pompey having got a year's respite to provide forces, during which
 he was not engaged in war, nor employed by an enemy, had collected a
 numerous fleet from Asia, and the Cyclades, from Corcyra, Athens,
 Pontus, Bithynia, Syria, Cilicia, Phoenicia, and Egypt, and had given
@@ -10847,7 +11883,9 @@ dynasts, tetrarchs, and free states of Achaia; and had obliged the
 corporations of those provinces, of which he himself had the government,
 to count down to him a large sum.
 
-IV.--He had made up nine legions of Roman citizens; five from Italy,
+## Chapter IV
+
+He had made up nine legions of Roman citizens; five from Italy,
 which he had brought with him; one veteran legion from Sicily, which
 being composed of two, he called the Gemella; one from Crete and
 Macedonia, of veterans who had been discharged by their former generals,
@@ -10875,7 +11913,9 @@ others procured by power and influence: also, Macedonians, Thessalians,
 and troops from other nations and states, which completed the number
 which we mentioned before.
 
-V.--He had laid in vast quantities of corn from Thessaly, Asia, Egypt,
+## Chapter V
+
+He had laid in vast quantities of corn from Thessaly, Asia, Egypt,
 Crete, Cyrene, and other countries. He had resolved to fix his winter
 quarters at Dyrrachium, Apollonia, and the other sea-ports, to hinder
 Caesar from passing the sea: and for this purpose had stationed his
@@ -10887,7 +11927,9 @@ Scribonius Libo, and Marcus Octavius. But Marcus Bibulus was appointed
 commander-in-chief of the whole maritime department, and regulated every
 matter. The chief direction rested upon him.
 
-VI.--When Caesar came to Brundisium, he made a speech to the soldiers:
+## Chapter VI
+
+When Caesar came to Brundisium, he made a speech to the soldiers:
 "That since they were now almost arrived at the termination of their
 toils and dangers, they should patiently submit to leave their slaves
 and baggage in Italy, and to embark without luggage, that a greater
@@ -10901,7 +11943,9 @@ safe road for his shipping to ride in, and dreading all other ports
 which he imagined were in possession of the enemy, he landed his men at
 a place called Pharsalus, without the loss of a single vessel.
 
-VII.--Lucretius Vespillo and Minutius Rufus were at Oricum, with
+## Chapter VII
+
+Lucretius Vespillo and Minutius Rufus were at Oricum, with
 eighteen Asiatic ships, which were given into their charge by the orders
 of Decimus Laelius: Marcus Bibulus at Corcyra, with a hundred and ten
 ships. But they had not the confidence to dare to move out of the
@@ -10911,7 +11955,9 @@ his seamen dispersed, come up in time: for Caesar was seen at the
 continent before any account whatsoever of his approach had reached
 those regions.
 
-VIII.--Caesar, having landed his soldiers, sent back his ships the same
+## Chapter VIII
+
+Caesar, having landed his soldiers, sent back his ships the same
 night to Brundisium, to transport the rest of his legions and cavalry.
 The charge of this business was committed to lieutenant Fufius Kalenus,
 with orders to be expeditious in transporting the legions. But the ships
@@ -10928,7 +11974,9 @@ disposed his guard with great care, he lay on board himself in the depth
 of winter, declining no fatigue or duty, and not waiting for
 reinforcements, in hopes that he might come within Caesar's reach.
 
-IX.--But after the departure of the Liburnian fleet, Marcus Octavius
+## Chapter IX
+
+But after the departure of the Liburnian fleet, Marcus Octavius
 sailed from Illyricum with what ships he had to Salona; and having
 spirited up the Dalmatians, and other barbarous nations, he drew Issa
 off from its connection with Caesar; but not being able to prevail with
@@ -10958,7 +12006,9 @@ refuge to their ships. This put an end to the blockade. Winter was now
 approaching, and Octavius, despairing of capturing the town, after
 sustaining such considerable losses, withdrew to Pompey, to Dyrrachium.
 
-X.--We have mentioned that Vibullius Rufus, an officer of Pompey's, had
+## Chapter X
+
+We have mentioned that Vibullius Rufus, an officer of Pompey's, had
 fallen twice into Caesar's power; first at Corfinium, and afterwards in
 Spain. Caesar thought him a proper person, on account of his favours
 conferred on him, to send with proposals to Pompey: and he knew that he
@@ -10989,7 +12039,9 @@ both of necessity acquiesce in the decision of the people and senate. To
 give Pompey the fuller assurance of his intentions, he would dismiss all
 his forces on land, even his garrisons.
 
-XI.--Vibullius, having received this commission from Caesar, thought it
+## Chapter XI
+
+Vibullius, having received this commission from Caesar, thought it
 no less necessary to give Pompey notice of Caesar's sudden approach,
 that he might adopt such plans as the circumstance required, than to
 inform him of Caesar's message; and therefore continuing his journey by
@@ -11009,7 +12061,9 @@ citizens made a spontaneous attempt to admit Caesar, despairing of any
 assistance, he threw open the gates, and surrendered himself and the
 town to Caesar, and was preserved safe from injury by him.
 
-XII.--Having taken Oricum, Caesar marched without making any delay to
+## Chapter XII
+
+Having taken Oricum, Caesar marched without making any delay to
 Apollonia. Staberius the governor, hearing of his approach, began to
 bring water into the citadel, and to fortify it, and to demand hostages
 of the town's people. But they refuse to give any, or to shut their
@@ -11021,7 +12075,9 @@ Their example was followed by the inhabitants of Bullis, Amantia, and
 the other neighbouring states, and all Epirus: and they sent ambassadors
 to Caesar, and promised to obey his commands.
 
-XIII.--But Pompey having received information of the transactions at
+## Chapter XIII
+
+But Pompey having received information of the transactions at
 Oricum and Apollonia, began to be alarmed for Dyrrachium, and
 endeavoured to reach it, marching day and night. As soon as it was said
 that Caesar was approaching, such a panic fell upon Pompey's army,
@@ -11044,7 +12100,9 @@ Italy, and to winter in tents. Pompey did the same; and pitching his
 camp on the other side of the river Apsus, collected there all his
 troops and auxiliaries.
 
-XIV.--Kalenus, having put the legions and cavalry on board at
+## Chapter XIV
+
+Kalenus, having put the legions and cavalry on board at
 Brundisium, as Caesar had directed him, as far as the number of his
 ships allowed, weighed anchor: and having sailed a little distance from
 port, received a letter from Caesar, in which he was informed, that all
@@ -11057,7 +12115,9 @@ neither slaves nor free men, nor even children; but put all to the
 sword. Thus the safety of the whole army depended on a very short space
 of time and a great casualty.
 
-XV.--Bibulus, as has been observed before, lay with his fleet near
+## Chapter XV
+
+Bibulus, as has been observed before, lay with his fleet near
 Oricum, and as he debarred Caesar of the liberty of the sea and
 harbours, so he was deprived of all intercourse with the country by
 land; for the whole shore was occupied by parties disposed in different
@@ -11081,7 +12141,9 @@ it from them; for what they proposed seemed to be of importance, and it
 was well known that Caesar desired it above all things, and it was
 imagined that some advantage would be derived from Bibulus's proposals.
 
-XVI.--Caesar having set out with one legion to gain possession of the
+## Chapter XVI
+
+Caesar having set out with one legion to gain possession of the
 more remote states, and to provide corn, of which he had but a small
 quantity, was at this time at Buthrotum, opposite to Corcyra. There
 receiving Acilius and Marcus's letters, informing him of Libo's and
@@ -11102,7 +12164,9 @@ continued till the messengers could return from him; and let no injury
 be done on either side." To this he added a few words of the cause for
 which they fought, and of his own forces and resources.
 
-XVII.--To this, Caesar did not then think proper to make any reply, nor
+## Chapter XVII
+
+To this, Caesar did not then think proper to make any reply, nor
 do we now think it worth recording. But Caesar required "that he should
 be allowed to send commissioners to Pompey, who should suffer no
 personal injury; and that either they should grant it, or should take
@@ -11122,7 +12186,9 @@ conference merely to avoid present danger and distress, but that they
 offered no hopes or terms of peace, he applied his thoughts to the
 prosecution of the war.
 
-XVIII.--Bibulus, being prevented from landing for several days, and
+## Chapter XVIII
+
+Bibulus, being prevented from landing for several days, and
 being seized with a violent distemper from the cold and fatigue, as he
 could neither be cured on board, nor was willing to desert the charge
 which he had taken upon him, was unable to bear up against the violence
@@ -11141,7 +12207,9 @@ war, Caesar was informed of these expressions by some persons who were
 present at the conversation. He attempted, however, by other means to
 bring about a negotiation of peace.
 
-XIX.--Between Pompey's and Caesar's camp there was only the river Apsus,
+## Chapter XIX
+
+Between Pompey's and Caesar's camp there was only the river Apsus,
 and the soldiers frequently conversed with each other; and by a private
 arrangement among themselves, no weapons were thrown during their
 conferences. Caesar sent Publius Vatinius, one of his lieutenants, to
@@ -11170,7 +12238,9 @@ privates; hereupon Labienus exclaimed, "Forbear, then, to speak any more
 about an accommodation, for we can have no peace unless we carry
 Caesar's head back with us."
 
-XX.--At the same time in Rome, Marcus Caelius Rufus, one of the
+## Chapter XX
+
+At the same time in Rome, Marcus Caelius Rufus, one of the
 praetors, having undertaken the cause of the debtors, on entering into
 his office, fixed his tribunal near the bench of Caius Trebonius, the
 city praetor, and promised if any person appealed to him in regard to
@@ -11192,7 +12262,9 @@ engaged in so dishonourable an affair without effecting something, he
 promulgated a law, that all debts should be discharged in six equal
 payments, of six months each, without interest.
 
-XXI.--When Servilius, the consul, and the other magistrates opposed him,
+## Chapter XXI
+
+When Servilius, the consul, and the other magistrates opposed him,
 and he himself effected less than he expected, in order to raise the
 passions of the people, he dropped it, and promulgated two others; one,
 by which he remitted the annual rents of the houses to the tenants, the
@@ -11216,7 +12288,9 @@ Roman citizens residing there had armed themselves, and thought he ought
 to be treated as an enemy to the state, he abandoned his first design,
 and changed his route.
 
-XXII.--Milo in the meantime despatched letters to the free towns,
+## Chapter XXII
+
+Milo in the meantime despatched letters to the free towns,
 purporting that he acted as he did by the orders and commands of Pompey,
 conveyed to him by Bibulus: and he endeavoured to engage in his interest
 all persons whom he imagined were under difficulties by reason of their
@@ -11231,7 +12305,9 @@ and Spanish horse, which he had sent there to strengthen the garrison.
 And thus these mighty beginnings, which had embroiled Italy, and kept
 the magistrates employed, found a speedy and happy issue.
 
-XXIII.--Libo having sailed from Oricum, with a fleet of fifty ships,
+## Chapter XXIII
+
+Libo having sailed from Oricum, with a fleet of fifty ships,
 which he commanded, came to Brundisium, and seized an island, which lies
 opposite to the harbour; judging it better to guard that place, which
 was our only pass to sea, than to keep all the shores and ports blocked
@@ -11244,7 +12320,9 @@ despatched letters to Pompey, that if he pleased he might order the rest
 of the ships to be hauled upon shore and repaired; for that with his own
 fleet he could prevent Caesar from receiving his auxiliaries.
 
-XXIV.--Antonius was at this time at Brundisium, and relying on the
+## Chapter XXIV
+
+Antonius was at this time at Brundisium, and relying on the
 valour of his troops, covered about sixty of the long-boats belonging to
 the men-of-war with penthouses and bulwarks of hurdles, and put on board
 them select soldiers; and disposed them separately along the shore: and
@@ -11263,7 +12341,9 @@ horse which Antonius had disposed along the sea-coast. Libo, vexed at
 the distress and disgrace, departed from Brundisium, and abandoned the
 blockade.
 
-XXV.--Several months had now elapsed, and winter was almost gone, and
+## Chapter XXV
+
+Several months had now elapsed, and winter was almost gone, and
 Caesar's legions and shipping were not coming to him from Brundisium,
 and he imagined that some opportunities had been neglected, for the
 winds had at least been often favourable, and he thought that he must
@@ -11282,7 +12362,9 @@ shore of Apollonia: because there they might run their ships on ground.
 That these parts principally were left unguarded by the enemy's fleet,
 because they dare not venture too far from the harbour.
 
-XXVI.--They [his officers], exerting boldness and courage, aided by the
+## Chapter XXVI
+
+They [his officers], exerting boldness and courage, aided by the
 instructions of Marcus Antonius, and Fufius Kalenus, and animated by the
 soldiers strongly encouraging them, and declining no danger for Caesar's
 safety, having got a southerly wind, weighed anchor, and the next day
@@ -11303,7 +12385,9 @@ danger was to be apprehended from the storm than from the enemy. But as
 soon as they were within the port, the south wind, which had blown for
 two days, by extraordinary good luck veered round to the south-west.
 
-XXVII.--Here one might observe the sudden turns of fortune. We who, a
+## Chapter XXVII
+
+Here one might observe the sudden turns of fortune. We who, a
 moment before, were alarmed for ourselves, were safely lodged in a very
 secure harbour: and they who had threatened ruin to our fleet, were
 forced to be uneasy on their own account: and thus, by a change of
@@ -11314,7 +12398,9 @@ number of seamen and soldiers, some lost their lives by being dashed
 against the rocks, others were taken by our men: but Caesar sent them
 all safe home.
 
-XXVIII.--Two of our ships, that had not kept up with the rest, being
+## Chapter XXVIII
+
+Two of our ships, that had not kept up with the rest, being
 overtaken by the night, and not knowing what port the rest had made to,
 came to an anchor opposite Lissus. Otacilius Crassus, who commanded
 Pompey's fleet, detached after them several barges and small craft, and
@@ -11340,7 +12426,9 @@ some armed men, who had followed them from the garrison, they made a
 brave defence, and having killed some of them, retreated in safety to
 our army.
 
-XXIX.--After this action, the Roman citizens, who resided at Lissus, a
+## Chapter XXIX
+
+After this action, the Roman citizens, who resided at Lissus, a
 town which Caesar had before assigned them, and had carefully fortified,
 received Antony into their town, and gave him every assistance.
 Otacilius, apprehensive for his own safety, escaped out of the town, and
@@ -11355,7 +12443,9 @@ of pursuing him; and he sent messengers to him with great despatch, to
 inform him in what part of the country he had landed his army, and what
 number of troops he had brought over with him.
 
-XXX.--Caesar and Pompey received this intelligence almost at the same
+## Chapter XXX
+
+Caesar and Pompey received this intelligence almost at the same
 time; for they had seen the ships sail past Apollonia and Dyrrachium.
 They directed their march after them by land; but at first they were
 ignorant to what part they had been carried; but when they were informed
@@ -11378,7 +12468,9 @@ two armies, quitted his position, and went with all his forces to
 Asparagium, in the territory of Dyrrachium, and there encamped in a
 convenient situation.
 
-XXXI.--During these times, Scipio, though he had sustained some losses
+## Chapter XXXI
+
+During these times, Scipio, though he had sustained some losses
 near mount Amanus, had assumed to himself the title of imperator, after
 which he demanded large sums of money from the states and princes. He
 had also exacted from the tax-gatherers two years' rents that they owed;
@@ -11395,7 +12487,9 @@ legions to winter quarters to Pergamus, and the most wealthy cities, and
 made them rich presents: and in order to attach them more firmly to his
 interest, permitted them to plunder the cities.
 
-XXXII.--In the meantime, the money which had been demanded from the
+## Chapter XXXII
+
+In the meantime, the money which had been demanded from the
 province at large, was most rigorously exacted. Besides, many new
 imposts of different kinds were devised to gratify his avarice. A tax of
 so much a head was laid on every slave and child. Columns, doors, corn,
@@ -11419,7 +12513,9 @@ and every state. And they said that these were loans, exacted by the
 senate's decree. The taxes of the ensuing year were demanded beforehand
 as a loan from the collectors, as on their first appointment.
 
-XXXIII.--Moreover, Scipio ordered the money formerly lodged in the
+## Chapter XXXIII
+
+Moreover, Scipio ordered the money formerly lodged in the
 temple of Diana at Ephesus, to be taken out with the statues of that
 goddess which remained there. When Scipio came to the temple, letters
 were delivered to him from Pompey, in the presence of several senators,
@@ -11430,7 +12526,9 @@ letter, he dismissed his attendants, and began to prepare for his
 journey to Macedonia; and a few days after set out. This circumstance
 saved the money at Ephesus.
 
-XXXIV.--Caesar, having effected a junction with Antonius's army, and
+## Chapter XXXIV
+
+Caesar, having effected a junction with Antonius's army, and
 having drawn his legion out of Oricum, which he had left there to guard
 the coast, thought he ought to sound the inclination of the provinces,
 and march farther into the country; and when ambassadors came to him
@@ -11447,7 +12545,9 @@ principal man of those regions, on that side which is called the Free,
 having come as ambassador, assured him of the most devoted affection of
 all his subjects.
 
-XXXV.--Of these Calvisius, on his first arrival in Aetolia, being very
+## Chapter XXXV
+
+Of these Calvisius, on his first arrival in Aetolia, being very
 kindly received, dislodged the enemy's garrisons in Calydon and
 Naupactus, and made himself master of the whole country. Cassius went to
 Thessaly with his legion. As there were two factions there, he found the
@@ -11456,7 +12556,9 @@ established power, favoured Pompey's interest. Petreius, a young man of
 a most noble family, warmly supported Caesar with his own and his
 friends' influence.
 
-XXXVI.--At the same time, Domitius arrived in Macedonia: and when
+## Chapter XXXVI
+
+At the same time, Domitius arrived in Macedonia: and when
 numerous embassies had begun to wait on him from many of the states,
 news was brought that Scipio was approaching with his legions, which
 occasioned various opinions and reports; for in strange events, rumour
@@ -11485,7 +12587,9 @@ Scipio's advanced guard, were observed at the same instant. Thus, the
 vigilance of Domitius saved Cassius, and the expedition of Scipio,
 Favonius.
 
-XXXVII--Scipio, having stayed for two days in his camp, along the river
+## Chapter XXXVII
+
+Scipio, having stayed for two days in his camp, along the river
 Haliacmon, which ran between him and Domitius's camp, on the third day,
 at dawn, led his army across a ford, and having made a regular
 encampment the day following, drew up his forces in front of his camp.
@@ -11512,7 +12616,9 @@ their turn, made a general charge on the enemy: and having killed about
 eighty of them, and put the rest to flight, retreated to their camp with
 the loss of only two men.
 
-XXXVIII.--After these transactions, Domitius, hoping to allure Scipio to
+## Chapter XXXVIII
+
+After these transactions, Domitius, hoping to allure Scipio to
 a battle, pretended to be obliged to change his position through want of
 corn, and having given the signal for decamping, advanced about three
 miles, and posted his army and cavalry in a convenient place, concealed
@@ -11528,7 +12634,9 @@ power, intercepted them. Among them was Marcus Opimius, general of the
 horse, but he made his escape: they either killed or took prisoners all
 the rest of these two troops, and brought them to Domitius.
 
-XXXIX.--Caesar, having drawn his garrisons out of the sea-ports, as
+## Chapter XXXIX
+
+Caesar, having drawn his garrisons out of the sea-ports, as
 before mentioned, left three cohorts at Oricum to protect the town, and
 committed to them the charge of his ships of war, which he had
 transported from Italy. Acilius, as lieutenant-general, had the charge
@@ -11539,7 +12647,9 @@ up; and near it he fixed another at anchor, on which he raised a turret,
 and faced it to the entrance of the port, and filled it with soldiers,
 and ordered them to keep guard against any sudden attack.
 
-XL.--Cneius, Pompey's son, who commanded the Egyptian fleet, having got
+## Chapter XL
+
+Cneius, Pompey's son, who commanded the Egyptian fleet, having got
 intelligence of these things, came to Oricum, and weighed up the ship,
 that had been sunk, with a windlass, and by straining at it with several
 ropes, and attacked the other which had been placed by Acilius to watch
@@ -11566,7 +12676,9 @@ Roman citizens who belonged to that district, and of the soldiers which
 Caesar had sent to keep garrison there, and having lost a few men in the
 assault, he returned without effecting his object.
 
-XLI.--As soon as Caesar heard that Pompey was at Asparagium, he set out
+## Chapter XLI
+
+As soon as Caesar heard that Pompey was at Asparagium, he set out
 for that place with his army, and having taken the capital of the
 Parthinians on his march, where there was a garrison of Pompey's, he
 reached Pompey in Macedonia, on the third day, and encamped beside him;
@@ -11589,7 +12701,9 @@ small part of the night, he arrived early in the morning at Dyrrachium,
 when the van of Pompey's army was visible at a distance, and there he
 encamped.
 
-XLII.--Pompey, being cut off from Dyrrachium, as he was unable to effect
+## Chapter XLII
+
+Pompey, being cut off from Dyrrachium, as he was unable to effect
 his purpose, took a new resolution, and entrenched himself strongly on a
 rising ground, which is called Petra, where ships of a small size can
 come in, and be sheltered from some winds. Here he ordered a part of his
@@ -11611,7 +12725,9 @@ foreseen what would happen, and some days before had plundered the
 Parthini, and having ravaged and dug up their houses, carried off all
 the corn, which he collected by means of his horse.
 
-XLIII.--Caesar, on being informed of these transactions, pursued
+## Chapter XLIII
+
+Caesar, on being informed of these transactions, pursued
 measures suggested by the nature of the country. For round Pompey's
 camps there were several high and rough hills. These he first of all
 occupied with guards, and raised strong forts on them. Then drawing a
@@ -11626,7 +12742,9 @@ he saw he depended greatly, among foreign nations, when a report should
 have spread throughout the world that he was blockaded by Caesar, and
 dare not hazard a battle.
 
-XLIV.--Neither was Pompey willing to leave the sea and Dyrrachium,
+## Chapter XLIV
+
+Neither was Pompey willing to leave the sea and Dyrrachium,
 because he had lodged his mat['e]riel there, his weapons, arms, and
 engines; and supplied his army with corn from it by his ships: nor was
 he able to put a stop to Caesar's works without hazarding a battle,
@@ -11652,7 +12770,9 @@ filled with great dread of the arrows; and almost all the soldiers made
 coats or coverings for themselves of hair cloths, tarpaulins, or raw
 hides to defend them against the weapons.
 
-XLV.--In seizing the posts, each exerted his utmost power: Caesar, to
+## Chapter XLV
+
+In seizing the posts, each exerted his utmost power: Caesar, to
 confine Pompey within as narrow a compass as possible; Pompey, to occupy
 as many hills as he could in as large a circuit as possible, and several
 skirmishes were fought in consequence of it. In one of these, when
@@ -11673,7 +12793,9 @@ be accounted a general of no experience, if Caesar's legions effected a
 retreat without considerable loss from that ground into which they had
 rashly advanced."
 
-XLVI.--Caesar, being uneasy about the retreat of his soldiers, ordered
+## Chapter XLVI
+
+Caesar, being uneasy about the retreat of his soldiers, ordered
 hurdles to be carried to the further side of the hill, and to be placed
 opposite to the enemy, and behind them a trench of a moderate breadth to
 be sunk by his soldiers under shelter of the hurdles: and the ground to
@@ -11697,7 +12819,9 @@ injury, having killed several of the enemy, and lost but five of their
 own, very quietly retired, and having seized some other hills somewhat
 on this side of that place, completed their fortifications.
 
-XLVII.--This method of conducting a war was new and unusual, as well on
+## Chapter XLVII
+
+This method of conducting a war was new and unusual, as well on
 account of the number of forts, the extent and greatness of the works,
 and the manner of attack and defence, as on account of other
 circumstances. For all who have attempted to besiege any person, have
@@ -11719,14 +12843,18 @@ nations. They refused neither barley nor pulse when offered them, and
 they held in great esteem cattle, of which they got great quantities
 from Epirus.
 
-XLVIII.--There was a sort of root, called chara, discovered by the
+## Chapter XLVIII
+
+There was a sort of root, called chara, discovered by the
 troops which served under Valerius. This they mixed up with milk, and it
 greatly contributed to relieve their want. They made it into a sort of
 bread. They had great plenty of it: loaves made of this, when Pompey's
 men upbraided ours with want, they frequently threw among them to damp
 their hopes.
 
-XLIX.--The corn was now beginning to ripen, and their hope supported
+## Chapter XLIX
+
+The corn was now beginning to ripen, and their hope supported
 their want, as they were confident of having abundance in a short time.
 And there were frequently heard declarations of the soldiers on guard,
 in discourse with each other, that they would rather live on the bark of
@@ -11749,7 +12877,9 @@ water, and had plenty of all sorts of provisions except corn; and they
 had a prospect of better times approaching, and saw greater hopes laid
 before them by the ripening of the grain.
 
-L.--In this new kind of war, new methods of managing it were invented by
+## Chapter L
+
+In this new kind of war, new methods of managing it were invented by
 both generals. Pompey's men, perceiving by our fires at night, at what
 part of the works our cohorts were on guard, coming silently upon them
 discharged their arrows at random among the whole multitude, and
@@ -11759,7 +12889,9 @@ in another.
 
  * * * * *
 
-LI.--In the meantime, Publius Sylla, whom Caesar at his departure had
+## Chapter LI
+
+In the meantime, Publius Sylla, whom Caesar at his departure had
 left governor of his camp, came up with two legions to assist the
 cohort; upon whose arrival Pompey's forces were easily repulsed. Nor did
 they stand the sight and charge of our men, and the foremost falling,
@@ -11786,7 +12918,9 @@ time, Pompey possessed himself of an eminence, at such a distance from
 our fort, that no weapon discharged from an engine could reach him. Here
 he took up a position, and fortified it, and kept all his forces there.
 
-LII.--At the same time, there were engagements in two other places; for
+## Chapter LII
+
+At the same time, there were engagements in two other places; for
 Pompey had attacked several forts at once, in order to divide our
 forces; that no relief might be sent from the neighbouring posts. In one
 place, Volcatius Tullus sustained the charge of a legion with three
@@ -11794,7 +12928,9 @@ cohorts, and beat them off the field. In another, the Germans, having
 sallied over our fortifications, slew several of the enemy, and
 retreated safe to our camp.
 
-LIII.--Thus six engagements having happened in one day, three at
+## Chapter LIII
+
+Thus six engagements having happened in one day, three at
 Dyrrachium, and three at the fortifications, when a computation was made
 of the number of slain, we found that about two thousand fell on
 Pompey's side, several of them volunteer veterans and centurions. Among
@@ -11814,14 +12950,18 @@ appeared that the fort had been in a great measure saved by his
 exertions; and he afterwards very amply rewarded the cohorts with double
 pay, corn, clothing, and other military honours.
 
-LIV.--Pompey, having made great additions to his works in the night, the
+## Chapter LIV
+
+Pompey, having made great additions to his works in the night, the
 following days built turrets, and having carried his works fifteen feet
 high, faced that part of his camp with mantlets; and after an interval
 of five days, taking advantage of a second cloudy night, he barricaded
 all the gates of his camp to hinder a pursuit, and about midnight
 quietly marched off his army, and retreated to his old fortifications.
 
-LV.--Aetolia, Acarnania, and Amphilochis, being reduced, as we have
+## Chapter LV
+
+Aetolia, Acarnania, and Amphilochis, being reduced, as we have
 related, by Cassius Longinus, and Calvisius Sabinus, Caesar thought he
 ought to attempt the conquest of Achaia, and to advance farther into the
 country. Accordingly, he detached Fufius thither, and ordered Quintus
@@ -11833,7 +12973,9 @@ submission of those states. Some he subdued by force, the rest he
 endeavoured to win over to Caesar's interest, by sending deputies round
 to them. In these things, principally, Fufius was employed.
 
-LVI.--Every day afterwards, Caesar drew up his army on a level ground,
+## Chapter LVI
+
+Every day afterwards, Caesar drew up his army on a level ground,
 and offered Pompey battle, and led his legions almost close to Pompey's
 camp; and his front line was at no greater distance from the rampart
 than that no weapons from their engines could reach it. But Pompey, to
@@ -11842,7 +12984,9 @@ so close to his camp that his rear lines might touch the rampart, and
 that his whole army, when drawn up, might be protected by the darts
 discharged from it.
 
-LVII.--Whilst these things were going forward in Achaia and at
+## Chapter LVII
+
+Whilst these things were going forward in Achaia and at
 Dyrrachium, and when it was certainly known that Scipio was arrived in
 Macedonia, Caesar, never losing sight of his first intention, sends
 Clodius to him, an intimate friend to both, whom Caesar, on the
@@ -11865,7 +13009,9 @@ being reprimanded by Favonius, as we found afterwards when the war was
 ended, and the negotiation having miscarried, Clodius returned to
 Caesar.
 
-LVIII.--Caesar, that he might the more easily keep Pompey's horse
+## Chapter LVIII
+
+Caesar, that he might the more easily keep Pompey's horse
 enclosed within Dyrrachium, and prevent them from foraging, fortified
 the two narrow passes already mentioned with strong works, and erected
 forts at them. Pompey perceiving that he derived no advantage from his
@@ -11881,7 +13027,9 @@ and fodder in these parts were consumed, and the herbs cut away, when
 the leaves too were not to be found on the trees, the horses being
 almost starved, Pompey thought he ought to make some attempt by a sally.
 
-LIX.--In the number of Caesar's cavalry were two Allobrogians, brothers,
+## Chapter LIX
+
+In the number of Caesar's cavalry were two Allobrogians, brothers,
 named Roscillus and Aegus, the sons of Abducillus, who for several years
 possessed the chief power in his own state; men of singular valour,
 whose gallant services Caesar had found very useful in all his wars in
@@ -11899,7 +13047,9 @@ openly complained of their ill usage; and to their other charges added,
 that false musters were given in to Caesar, and the surcharged pay
 applied to their own use.
 
-LX.--Caesar, not thinking it a proper time to call them to account, and
+## Chapter LX
+
+Caesar, not thinking it a proper time to call them to account, and
 willing to pardon many faults, on account of their valour, deferred the
 whole matter, and gave them a private rebuke, for having made a traffic
 of their troops, and advised them to expect everything from his
@@ -11921,7 +13071,9 @@ could, as if they designed to make satisfaction and restitution for what
 they had defrauded: and having purchased a great number of horses, they
 deserted to Pompey along with those whom they had engaged in their plot.
 
-LXI.--As they were persons nobly descended and of liberal education, and
+## Chapter LXI
+
+As they were persons nobly descended and of liberal education, and
 had come with a great retinue, and several cattle, and were reckoned men
 of courage, and had been in great esteem with Caesar, and as it was a
 new and uncommon event, Pompey carried them round all his works, and
@@ -11937,7 +13089,9 @@ attention of the guards, according to the different temper and character
 of the officer who commanded the different posts, gave an exact account
 of all to Pompey.
 
-LXII.--Upon receiving this intelligence, Pompey, who had already formed
+## Chapter LXII
+
+Upon receiving this intelligence, Pompey, who had already formed
 the design of attempting a sally, as before mentioned, ordered the
 soldiers to make ozier coverings for their helmets, and to provide
 fascines. These things being prepared, he embarked on board small boats
@@ -11953,7 +13107,9 @@ posted Lentulus Marcellinus, the quaestor, with the ninth legion, and as
 he was not in a good state of health, Fulvius Costhumus was sent to
 assist him in the command.
 
-LXIII.--At this place, fronting the enemy, there was a ditch fifteen
+## Chapter LXIII
+
+At this place, fronting the enemy, there was a ditch fifteen
 feet wide, and a rampart ten feet high, and the top of the rampart was
 ten feet in breadth. At an interval of six hundred feet from that there
 was another rampart turned the contrary way, with the works lower. For
@@ -11982,7 +13138,9 @@ landing between the two ramparts, where the work was unfinished,
 attacked our men in the rear, and having beat them from both sides of
 the fortification, obliged them to flee.
 
-LXIV.--Marcellinus, being informed of this disorder, detached some
+## Chapter LXIV
+
+Marcellinus, being informed of this disorder, detached some
 cohorts to the relief of our men, who seeing them flee from the camp,
 were neither able to persuade them to rally at their approach, nor
 themselves to sustain the enemy's charge. And in like manner, whatever
@@ -11998,7 +13156,9 @@ happened to Caesar's army, but deliver it safe into his hands." By this
 accident the eagle was preserved, but all the centurions of the first
 cohorts were killed, except the principal.
 
-LXV.--And now the Pompeians, after great havoc of our troops, were
+## Chapter LXV
+
+And now the Pompeians, after great havoc of our troops, were
 approaching Marcellinus's camp, and had struck no small terror into the
 rest of the cohorts, when Marcus Antonius, who commanded the nearest
 fort, being informed of what had happened, was observed descending from
@@ -12013,7 +13173,9 @@ he was at liberty to forage, and had a communication with his shipping,
 he altered his plan for conducting the war, as his design had not
 succeeded, and ordered a strong encampment to be made near Pompey.
 
-LXVI.--When this work was finished, Caesar's scouts observed that some
+## Chapter LXVI
+
+When this work was finished, Caesar's scouts observed that some
 cohorts, which to them appeared like a legion, were retired behind the
 wood, and were on their march to the old camp. The situation of the two
 camps was as follows: a few days before, when Caesar's ninth legion had
@@ -12032,7 +13194,9 @@ he too, changing his design for reasons not necessary to be mentioned,
 abandoned the place. In this condition the camp remained for several
 days, the works being all entire.
 
-LXVII.--Caesar's scouts brought him word that the standard of a legion
+## Chapter LXVII
+
+Caesar's scouts brought him word that the standard of a legion
 was carried to this place. That the same thing was seen he was assured
 by those in the higher forts. This place was half a mile distant from
 Pompey's new camp. Caesar, hoping to surprise this legion, and anxious
@@ -12055,7 +13219,9 @@ first forced the greater camp, and after that the fort which was
 enclosed within it: and as the legion on its repulse had retired to
 this, they slew several defending themselves there.
 
-LXVIII.--But Fortune, who exerts a powerful influence as well in other
+## Chapter LXVIII
+
+But Fortune, who exerts a powerful influence as well in other
 matters, as especially in war, effects great changes from trifling
 causes, as happened at this time. For the cohorts on Caesar's right
 wing, through ignorance of the place, followed the direction of that
@@ -12065,7 +13231,9 @@ they found that it led to the river, and that nobody opposed them, they
 immediately climbed over the rampart, and were followed by all our
 cavalry.
 
-LXIX.--In the meantime Pompey, by the great delay which this occasioned,
+## Chapter LXIX
+
+In the meantime Pompey, by the great delay which this occasioned,
 being informed of what had happened, marched with the fifth legion,
 which he called away from their work to support his party; and at the
 same time his cavalry were advancing up to ours, and an army in order of
@@ -12091,7 +13259,9 @@ left their horses behind, and continued to run in the same manner;
 others through fear even threw away their colours, nor did a single man
 face about.
 
-LXX.--In this calamity, the following favourable circumstance occurred
+## Chapter LXX
+
+In this calamity, the following favourable circumstance occurred
 to prevent the ruin of our whole army, viz., that Pompey suspecting an
 ambuscade (because, as I suppose, the success had far exceeded his
 hopes, as he had seen his men a moment before fleeing from the camp),
@@ -12103,7 +13273,9 @@ the river, interrupted the progress and certainty of Caesar's victory,
 after he had forced Pompey's camp. The same thing, by retarding the
 rapidity of the enemy's pursuit, preserved our army.
 
-LXXI.--In the two actions of this day, Caesar lost nine hundred and
+## Chapter LXXI
+
+In the two actions of this day, Caesar lost nine hundred and
 sixty rank and file, several Roman knights of distinction, Felginas
 Tuticanus Gallus, a senator's son; Caius Felginas from Placentia; Aulus
 Gravius from Puteoli; Marcus Sacrativir from Capua; and thirty-two
@@ -12121,7 +13293,9 @@ them fellow soldiers, and asking them in the most insulting manner
 whether it was usual with veterans to flee, ordered them to be put to
 death in the sight of the whole army.
 
-LXXII.-Pompey's party were so elated with confidence and spirit at this
+## Chapter LXXII
+
+Pompey's party were so elated with confidence and spirit at this
 success, that they thought no more of the method of conducting the war,
 but thought that they were already conquerors. They did not consider
 that the smallness of our numbers, and the disadvantage of the place and
@@ -12141,7 +13315,9 @@ oversight of a tribune; but as if they had proved victorious by their
 valour, and as if no change could ever take place, they published the
 success of the day throughout the world by reports and letters.
 
-LXXIII.--Caesar, disappointed in his first intentions, resolved to
+## Chapter LXXIII
+
+Caesar, disappointed in his first intentions, resolved to
 change the whole plan of his operations. Accordingly, he at once called
 in all out-posts, gave over the siege, and collecting his army into one
 place, addressed his soldiers and encouraged them "not to be troubled at
@@ -12168,7 +13344,9 @@ been incurred; if they did so, their misfortunes would turn to their
 advantage, as it happened at Gergovia, and those who feared to face the
 enemy would be the first to offer themselves to battle.
 
-LXXIV.--Having concluded his speech, he disgraced some standard-bearers,
+## Chapter LXXIV
+
+Having concluded his speech, he disgraced some standard-bearers,
 and reduced them to the ranks; for the whole army was seized with such
 grief at their loss, and with such an ardent desire of repairing their
 disgrace, that not a man required the command of his tribune or
@@ -12182,7 +13360,9 @@ men so lately thrown into consternation, and thought he ought to allow
 them time to recover their dejected spirits; and having abandoned his
 works, he was apprehensive of being distressed for want of corn.
 
-LXXV.--Accordingly, suffering no time to intervene but what was
+## Chapter LXXV
+
+Accordingly, suffering no time to intervene but what was
 necessary for a proper attention to be paid to the sick and wounded, he
 sent on all his baggage privately in the beginning of the night from his
 camp to Apollonia, and ordered them not to halt till they had performed
@@ -12206,7 +13386,9 @@ about four hundred of his advanced light troops, who attacked their
 horse with such success, that having routed them all, and killed
 several, they returned without any loss to the main body.
 
-LXXVI.--Having performed the exact march which he had proposed that day,
+## Chapter LXXVI
+
+Having performed the exact march which he had proposed that day,
 and having led his army over the river Genusus, Caesar posted himself in
 his old camp opposite Asparagium; and kept his soldiers close within the
 entrenchments; and ordered the horse, who had been sent out under
@@ -12224,7 +13406,9 @@ signal for marching, led out his army, and doubling that day's march, he
 advanced eight miles beyond Pompey's camp; who could not pursue him,
 because his troops were dispersed.
 
-LXXVII.--The next day Caesar sent his baggage forward early in the
+## Chapter LXXVII
+
+The next day Caesar sent his baggage forward early in the
 night, and marched off himself immediately after the fourth watch: that
 if he should be under the necessity of risking an engagement, he might
 meet a sudden attack with an army free from incumbrance. He did so for
@@ -12236,7 +13420,9 @@ himself by forced marches, and was anxious to overtake us, who had got
 the start of him, on the fourth day desisted from the pursuit, and
 determined to follow other measures.
 
-LXXVIII.--Caesar was obliged to go to Apollonia, to lodge his wounded,
+## Chapter LXXVIII
+
+Caesar was obliged to go to Apollonia, to lodge his wounded,
 pay his army, confirm his friends, and leave garrisons in the towns. But
 for these matters, he allowed no more time than was necessary for a
 person in haste. And being apprehensive for Domitius, lest he should be
@@ -12261,7 +13447,9 @@ but that if Caesar should be unwilling to quit the sea-coast and
 Corcyra, because he expected legions and cavalry from Italy, he himself
 might fall on Domitius with all his forces.
 
-LXXIX.--For these reasons, each of them studied despatch, that he might
+## Chapter LXXIX
+
+For these reasons, each of them studied despatch, that he might
 succour his friends, and not miss an opportunity of surprising his
 enemies. But Caesar's engagements at Apolloma had carried him aside from
 the direct road. Pompey had taken the short road to Macedonia, through
@@ -12288,7 +13476,9 @@ march distant, having got intelligence from these, by the courtesy of
 the enemy, avoided the danger, and met Caesar coming to join him at
 Aeginium, a town on the confines of and opposite to Thessaly.
 
-LXXX.--The two armies being united, Caesar marched to Gomphi, which is
+## Chapter LXXX
+
+The two armies being united, Caesar marched to Gomphi, which is
 the first town of Thessaly on the road from Epirus. Now, the
 Thessalians, a few months before, had of themselves sent ambassadors to
 Caesar, offering him the free use of everything in their power, and
@@ -12318,7 +13508,9 @@ sunset, and gave it up to his army to plunder, and immediately decamped
 from before it, and marched to Metropolis, with such rapidity as to
 outstrip any messenger or rumour of the taking of Gomphi.
 
-LXXXI.--The inhabitants of Metropolis, at first influenced by the same
+## Chapter LXXXI
+
+The inhabitants of Metropolis, at first influenced by the same
 rumours, followed the same measures, shut the gates and manned their
 walls. But when they were made acquainted with the fate of the city of
 Gomphi by some prisoners, whom Caesar had ordered to be brought up to
@@ -12331,7 +13523,9 @@ convenient for procuring corn, which was now almost ripe on the ground,
 he determined there to wait Pompey's arrival, and to make it the centre
 of all his warlike operations.
 
-LXXXII.--Pompey arrived in Thessaly a few days after, and having
+## Chapter LXXXII
+
+Pompey arrived in Thessaly a few days after, and having
 harangued the combined army, returned thanks to his own men, and
 exhorted Scipio's soldiers, that as the victory was now secured, they
 should endeavour to merit a part of the rewards and booty. And receiving
@@ -12356,7 +13550,9 @@ he might not seem deceived through his authority: whilst others,
 embarked in equal labour and danger, pleaded that no individual ought to
 have a preference before all the rest.
 
-LXXXIII.--Already Domitius, Scipio, and Lentulus Spinthur, in their
+## Chapter LXXXIII
+
+Already Domitius, Scipio, and Lentulus Spinthur, in their
 daily quarrels about Caesar's priesthood, openly abused each other in
 the most scurrilous language. Lentulus urging the respect due to his
 age, Domitius boasting his interest in the city and his dignity, and
@@ -12375,7 +13571,9 @@ money which were to be their rewards, or of vengeance on their enemies;
 and never considered how they were to defeat their enemies, but in what
 manner they should use their victory.
 
-LXXXIV.--Corn being provided, and his soldiers refreshed, and a
+## Chapter LXXXIV
+
+Corn being provided, and his soldiers refreshed, and a
 sufficient time having elapsed since the engagement at Dyrrachium, when
 Caesar thought he had sufficiently sounded the disposition of his
 troops, he thought that he ought to try whether Pompey had any intention
@@ -12396,7 +13594,9 @@ For even on one of those days he was successful in a cavalry action, and
 killed one of the two Allobrogians who had deserted to Pompey, as we
 before observed, and several others.
 
-LXXXV.--Pompey, because he was encamped on a hill, drew up his army at
+## Chapter LXXXV
+
+Pompey, because he was encamped on a hill, drew up his army at
 the very foot of it, ever in expectation, as may be conjectured, that
 Caesar would expose himself to this disadvantageous situation. Caesar,
 seeing no likelihood of being able to bring Pompey to an action, judged
@@ -12417,7 +13617,9 @@ been our constant wish; let us then meet the foe with resolute souls. We
 shall not hereafter easily find such an opportunity." He immediately
 marched out at the head of his troops.
 
-LXXXVI.--Pompey also, as was afterward known, at the unanimous
+## Chapter LXXXVI
+
+Pompey also, as was afterward known, at the unanimous
 solicitation of his friends, had determined to try the fate of a battle.
 For he had even declared in council a few days before that, before the
 battalions came to battle, Caesar's army would be put to the rout. When
@@ -12435,7 +13637,9 @@ ready for battle on the day following, and since the opportunity which
 they had so often wished for was now arrived, not to disappoint the
 opinion generally entertained of their experience and valour.
 
-LXXXVII.--After him Labienus spoke, as well to express his contempt of
+## Chapter LXXXVII
+
+After him Labienus spoke, as well to express his contempt of
 Caesar's forces, as to extol Pompey's scheme with the highest encomiums.
 "Think not, Pompey," says he, "that this is the army which conquered
 Gaul and Germany; I was present at all those battles and do not speak at
@@ -12456,7 +13660,9 @@ joy, and in imagination anticipated victory; because they thought that
 in a matter of such importance, no groundless assertion could be made by
 a general of such experience.
 
-LXXXVIII.--When Caesar had approached near Pompey's camp, he observed
+## Chapter LXXXVIII
+
+When Caesar had approached near Pompey's camp, he observed
 that his army was drawn up in the following manner:--On the left wing
 were the two legions delivered over by Caesar at the beginning of the
 disputes in compliance with the senate's decree, one of which was called
@@ -12474,7 +13680,9 @@ neighbouring forts. His right wing was secured by a river with steep
 banks; for which reason he placed all his cavalry, archers, and
 slingers, on his left wing.
 
-LXXXIX.--Caesar, observing his former custom, had placed the tenth
+## Chapter LXXXIX
+
+Caesar, observing his former custom, had placed the tenth
 legion on the right, the ninth on the left, although it was very much
 weakened by the battles at Dyrrachium. He placed the eighth legion so
 close to the ninth, as to almost make one of the two, and ordered them
@@ -12492,7 +13700,9 @@ on their courage. At the same time he ordered the third line, and the
 entire army not to charge without his command: that he would give the
 signal whenever he wished them to do so.
 
-XC.--When he was exhorting his army to battle, according to the military
+## Chapter XC
+
+When he was exhorting his army to battle, according to the military
 custom, and spoke to them of the favours that they had constantly
 received from him, he took especial care to remind them "that he could
 call his soldiers to witness the earnestness with which he had sought
@@ -12505,7 +13715,9 @@ of her armies." After delivering this speech, he gave by a trumpet the
 signal to his soldiers, who were eagerly demanding it, and were very
 impatient for the onset.
 
-XCI.--There was in Caesar's army a volunteer of the name of Crastinus,
+## Chapter XCI
+
+There was in Caesar's army a volunteer of the name of Crastinus,
 who the year before had been first centurion of the tenth legion, a man
 of pre-eminent bravery. He, when the signal was given, says, "Follow me,
 my old comrades, and display such exertions in behalf of your general as
@@ -12516,7 +13728,9 @@ manner to-day, that you will feel grateful to me living or dead." After
 uttering these words he charged first on the right wing, and about one
 hundred and twenty chosen volunteers of the same century followed.
 
-XCII.--There was so much space left between the two lines, as sufficed
+## Chapter XCII
+
+There was so much space left between the two lines, as sufficed
 for the onset of the hostile armies: but Pompey had ordered his soldiers
 to await Caesar's attack, and not to advance from their position, or
 suffer their line to be put into disorder. And he is said to have done
@@ -12536,7 +13750,9 @@ the trumpets should sound on all sides, and a general shout be raised;
 by which they imagined that the enemy were struck with terror, and their
 own army inspired with courage.
 
-XCIII.--But our men, when the signal was given, rushed forward with
+## Chapter XCIII
+
+But our men, when the signal was given, rushed forward with
 their javelins ready to be launched, but perceiving that Pompey's men
 did not run to meet their charge, having acquired experience by custom,
 and being practised in former battles, they of their own accord
@@ -12561,7 +13777,9 @@ were all cut to pieces. The cohorts, pursuing their success, wheeled
 about upon Pompey's left wing, whilst his infantry still continued to
 make battle, and attacked them in the rear.
 
-XCIV.--At the same time Caesar ordered his third line to advance, which
+## Chapter XCIV
+
+At the same time Caesar ordered his third line to advance, which
 till then had not been engaged, but had kept their post. Thus, new and
 fresh troops having come to the assistance of the fatigued, and others
 having made an attack on their rear, Pompey's men were not able to
@@ -12581,7 +13799,9 @@ diligence, if any danger should threaten it; I will visit the other
 gates, and encourage the guards of the camp." Having thus said, he
 retired into his tent in utter despair, yet anxiously waiting the issue.
 
-XCV.--Caesar having forced the Pompeians to flee into their
+## Chapter XCV
+
+Caesar having forced the Pompeians to flee into their
 entrenchment, and thinking that he ought not to allow them any respite
 to recover from their fright, exhorted his soldiers to take advantage of
 fortune's kindness, and to attack the camp. Though they were fatigued by
@@ -12598,7 +13818,9 @@ darts, but fainting under their wounds, quitted the place, and under the
 conduct of their centurions and tribunes, fled, without stopping, to the
 high mountains which joined the camp.
 
-XCVI.--In Pompey's camp you might see arbours in which tables were laid,
+## Chapter XCVI
+
+In Pompey's camp you might see arbours in which tables were laid,
 a large quantity of plate set out, the floors of the tents covered with
 fresh sods, the tents of Lucius Lentulus and others shaded with ivy, and
 many other things which were proofs of excessive luxury, and a
@@ -12617,7 +13839,9 @@ told, that he had been so deceived in his expectation, that he was
 almost persuaded that he had been betrayed by those from whom he had
 expected victory, as they began the flight.
 
-XCVII.--Caesar having possessed himself of Pompey's camp, urged his
+## Chapter XCVII
+
+Caesar having possessed himself of Pompey's camp, urged his
 soldiers not to be too intent on plunder, and lose the opportunity of
 completing their conquest. Having obtained their consent, he began to
 draw lines round the mountain. The Pompeians distrusting the position,
@@ -12635,7 +13859,9 @@ not get water in the night. As soon as the work was finished, they sent
 ambassadors to treat about a capitulation. A few senators who had
 espoused that party, made their escape by night.
 
-XCVIII.--At break of day, Caesar ordered all those who had taken post on
+## Chapter XCVIII
+
+At break of day, Caesar ordered all those who had taken post on
 the mountain, to come down from the higher grounds into the plain, and
 pile their arms. When they did this without refusal, and with
 outstretched arms, prostrating themselves on the ground, with tears,
@@ -12647,7 +13873,9 @@ diligence, he ordered the legions in his camp to come and meet him, and
 those which were, with him to take their turn of rest, and go back to
 the camp; and the same day went to Larissa.
 
-XCIX.--In that battle, no more than two hundred privates were missing,
+## Chapter XCIX
+
+In that battle, no more than two hundred privates were missing,
 but Caesar lost about thirty centurions, valiant officers. Crastinus,
 also, of whom mention was made before, fighting most courageously, lost
 his life by the wound of a sword in the mouth; nor was that false which
@@ -12661,7 +13889,9 @@ hundred and eighty stands of colours, and nine eagles, were brought to
 Caesar. Lucius Domitius, fleeing from the camp to the mountains, his
 strength being exhausted by fatigue, was killed by the horse.
 
-C.--About this time, Decimus Laelius arrived with his fleet at
+## Chapter C
+
+About this time, Decimus Laelius arrived with his fleet at
 Brundisium and in the same manner as Libo had done before, possessed
 himself of an island opposite the harbour of Brundisium. In like manner,
 Valimus, who was then governor of Brundisium, with a few decked barques,
@@ -12676,7 +13906,9 @@ he had received advice of the battle in Thessaly, he could not be forced
 either by the disgrace of losing his ships, or by the want of
 necessaries, to quit the port and islands.
 
-CI.--Much about the same time, Cassius arrived in Sicily with a fleet of
+## Chapter CI
+
+Much about the same time, Cassius arrived in Sicily with a fleet of
 Syrians, Phoenicians, and Cilicians: and as Caesar's fleet was divided
 into two parts, Publius Sulpicius the praetor commanding one division at
 Vibo near the straits, Pomponius the other at Messana, Cassius got into
@@ -12708,7 +13940,9 @@ credit to it; for they had hitherto believed it a fiction of Caesar's
 lieutenants and friends. Upon which intelligence Cassius departed with
 his fleet from that coast.
 
-CII.--Caesar thought he ought to postpone all business and pursue
+## Chapter CII
+
+Caesar thought he ought to postpone all business and pursue
 Pompey, whithersoever he should retreat; that he might not be able to
 provide fresh forces, and renew the war; he therefore marched on every
 day, as far as his cavalry were able to advance, and ordered one legion
@@ -12737,7 +13971,9 @@ having received a message to leave that neighbourhood, set sail much
 against their will; for the rumour of Caesar's approach had now reached
 those states.
 
-CIII.--Pompey, being informed of these proceedings, laid aside his
+## Chapter CIII
+
+Pompey, being informed of these proceedings, laid aside his
 design of going to Syria, and having taken the public money from the
 farmers of the revenue, and borrowed more from some private friends, and
 having put on board his ships a large quantity of brass for military
@@ -12759,7 +13995,9 @@ Pompey's soldiers, of whom Gabinius had received the command in Syria,
 and had brought them over to Alexandria, and at the conclusion of the
 war had left with Ptolemy the father of the young king.
 
-CIV.--The king's friends, who were regents of the kingdom during the
+## Chapter CIV
+
+The king's friends, who were regents of the kingdom during the
 minority, being informed of these things, either induced by fear, as
 they afterwards declared, lest Pompey should corrupt the king's army,
 and seize on Alexandria and Egypt; or despising his bad fortune, as in
@@ -12774,7 +14012,9 @@ small boat with a few attendants, and was there murdered by Achillas and
 Septimius. In like manner, Lucius Lentulus was seized by the king's
 order, and put to death in prison.
 
-CV.--When Caesar arrived in Asia, he found that Titus Ampius had
+## Chapter CV
+
+When Caesar arrived in Asia, he found that Titus Ampius had
 attempted to remove the money from the temple of Diana at Ephesus; and
 for this purpose had convened all the senators in the province that he
 might have them to attest the sum, but was interrupted by Caesar's
@@ -12794,7 +14034,9 @@ a statue consecrated to Caesar; a palm-tree at that time was shown that
 had sprouted up from the pavement, through the joints of the stones, and
 shot up above the roof.
 
-CVI.--After a few days' delay in Asia, Caesar, having heard that Pompey
+## Chapter CVI
+
+After a few days' delay in Asia, Caesar, having heard that Pompey
 had been seen in Cyprus, and conjecturing that he had directed his
 course into Egypt, on account of his connection with that kingdom, set
 out for Alexandria with two legions (one of which he ordered to follow
@@ -12814,7 +14056,9 @@ this tumult was appeased, frequent disturbances were raised for several
 days successively, by crowds of the populace, and a great many of his
 soldiers were killed in all parts of the city.
 
-CVIL--Having observed this, he ordered other legions to be brought to
+## Chapter CVII
+
+Having observed this, he ordered other legions to be brought to
 him from Asia, which he had made up out of Pompey's soldiers; for he was
 himself detained against his will, by the etesian winds, which are
 totally unfavourable to persons on a voyage from Alexandria. In the
@@ -12827,7 +14071,9 @@ Ptolemy, and his sister Cleopatra, should disband their armies, and
 decide their disputes in his presence by justice, rather than by the
 sword.
 
-CVIII.--A eunuch named Pothinus, the boy's tutor, was regent of the
+## Chapter CVIII
+
+A eunuch named Pothinus, the boy's tutor, was regent of the
 kingdom on account of his youthfulness. He at first began to complain
 amongst his friends, and to express his indignation, that the king
 should be summoned to plead his cause: but afterwards, having prevailed
@@ -12845,7 +14091,9 @@ of the copies of his will was conveyed to Rome by his ambassadors to be
 deposited in the treasury, but the public troubles preventing it, it was
 lodged with Pompey: another was left sealed up, and kept at Alexandria.
 
-CIX.--Whilst these things were debated before Caesar, and he was very
+## Chapter CIX
+
+Whilst these things were debated before Caesar, and he was very
 anxious to settle the royal disputes as a common friend and arbitrator;
 news was brought on a sudden that the king's army and all his cavalry
 were on their march to Alexandria. Caesar's forces were by no means so
@@ -12867,7 +14115,9 @@ influence with his subjects, and to give the war the appearance of the
 scheme of a few desperate men, rather than of having been begun by the
 king's consent.
 
-CX.--The forces under Achillas did not seem despicable, either for
+## Chapter CX
+
+The forces under Achillas did not seem despicable, either for
 number, spirit, or military experience; for he had twenty thousand men
 under arms. They consisted partly of Gabinius's soldiers, who were now
 become habituated to the licentious mode of living at Alexandria, and
@@ -12891,7 +14141,9 @@ Ptolemy the father to his kingdom, had killed Bibulus's two sons; and
 had been engaged in war with the Egyptians; such was their experience in
 military affairs.
 
-CXI.--Full of confidence in his troops, and despising the small number
+## Chapter CXI
+
+Full of confidence in his troops, and despising the small number
 of Caesar's soldiers, Achillas seized Alexandria, except that part of
 the town which Caesar occupied with his troops. At first he attempted to
 force the palace; but Caesar had disposed his cohorts through the
@@ -12914,7 +14166,9 @@ ships, and to others which were in the docks, because he could not guard
 so many places with so small a force; and immediately he conveyed some
 troops to the Pharos by his ships.
 
-CXIL--The Pharos is a tower on an island, of prodigious height, built
+## Chapter CXII
+
+The Pharos is a tower on an island, of prodigious height, built
 with amazing works, and takes its name from the island. This island
 lying over against Alexandria forms a harbour; but on the upper side it
 is connected with the town by a narrow way eight hundred paces in

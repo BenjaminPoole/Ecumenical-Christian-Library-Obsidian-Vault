@@ -18,12 +18,7 @@ tags:
 
 ---
 
-## The History of Rome; Books Nine to Twenty-Six
-
-Literally Translated, with Notes and Illustrations,
-by D. Spillan and Cyrus Edmonds.
-
-## Titus Livius
+*Literally translated, with notes and illustrations, by D. Spillan and Cyrus Edmonds.*
 
 ## Book IX
 
@@ -45,7 +40,9 @@ Eastern countries._
 
        *        *        *        *        *
 
-1. This year is followed by the convention of Caudium, so memorable on
+## Chapter I
+
+This year is followed by the convention of Caudium, so memorable on
 account of the misfortune of the Romans, the consuls being Titus
 Veturius Calvinus and Spurius Postumius. The Samnites had as their
 commander that year Caius Ponius, son to Herennius, born of a father
@@ -86,7 +83,9 @@ gods, be assured that the former wars ye waged in opposition to the
 gods more than to men; in this, which is now impending, ye will act
 under the immediate guidance of the gods themselves."
 
-2. After uttering these predictions, not more cheering than true, he
+## Chapter II
+
+After uttering these predictions, not more cheering than true, he
 led out the troops, and placed his camp about Caudium as much out of
 view as possible. From thence he sent to Calatia, where he heard that
 the Roman consuls were encamped, ten soldiers, in the habit of
@@ -143,7 +142,9 @@ the soldiers, crowding to the general's quarters, demanded from their
 leaders that succour, which it was hardly in the power of the immortal
 gods themselves to afford them.
 
-3. Night came on them while lamenting their situation rather than
+## Chapter III
+
+Night came on them while lamenting their situation rather than
 consulting, whilst they urged expedients, each according to his
 temper; one crying out, "Let us go over those fences of the roads;"
 others, "over the steeps; through the woods; any way, where arms can
@@ -195,7 +196,9 @@ not suffer them to rest, until they have wreaked manifold vengeance on
 your heads." Neither of these plans was approved, and Herennius was
 carried home from the camp.
 
-4. In the Roman camp also, when many fruitless efforts to force a
+## Chapter IV
+
+In the Roman camp also, when many fruitless efforts to force a
 passage had been made, and they were now destitute of every means of
 subsistence, forced by necessity, they send ambassadors, who were
 first to ask peace on equal terms; which, if they did not obtain, they
@@ -253,7 +256,9 @@ great soever, and let us submit to that necessity which even the gods
 themselves do not overcome. Go, consuls, ransom the state for arms,
 which your ancestors ransomed with gold."
 
-5. The consuls having gone to Pontius to confer with him, when he
+## Chapter V
+
+The consuls having gone to Pontius to confer with him, when he
 talked, in the strain of a conqueror, of a treaty, they declared that
 such could not be concluded without an order of the people, nor
 without the ministry of the heralds, and the other customary rites.
@@ -303,7 +308,9 @@ be delivered up and torn to pieces, that every one, forgetting his own
 condition, turned away his eyes from that degradation of so high a
 dignity, as from a spectacle too horrid to behold.
 
-6. First, the consuls, nearly half naked, were sent under the yoke;
+## Chapter VI
+
+First, the consuls, nearly half naked, were sent under the yoke;
 then each officer, according to his rank, was exposed to disgrace, and
 the legions successively. The enemy stood on each side under arms,
 reviling and mocking them; swords were pointed at most of them,
@@ -360,7 +367,9 @@ Romans. Each side would have their own native spirit, wherever they
 should happen to engage, but the Samnites would not, every where, have
 the glens of Caudium."
 
-7. Their disaster was, by this time, well known at Rome also. At
+## Chapter VII
+
+Their disaster was, by this time, well known at Rome also. At
 first, they heard that the troops were shut up; afterwards the news of
 the ignominious peace caused greater affliction than had been felt for
 their danger. On the report of their being surrounded, a levy of men
@@ -399,7 +408,9 @@ Publilius Philo, and Lucius Papirius Cursor a second time; a choice
 universally approved, for there were no commanders at that time of
 higher reputation.
 
-8. They entered into office on the day they were elected, for so it
+## Chapter VIII
+
+They entered into office on the day they were elected, for so it
 had been determined by the fathers. When the customary decrees of the
 senate were passed, they proposed the consideration of the Caudine
 peace; and Publilius, who was in possession of the fasces, said,
@@ -451,7 +462,9 @@ having, by becoming sureties to the peace, preserved the army of the
 Roman people; nor, finally, could they, being sacred and inviolable,
 be surrendered to the enemy or treated with violence."
 
-9. To this Postumius replied, "In the mean time surrender us as
+## Chapter IX
+
+To this Postumius replied, "In the mean time surrender us as
 unsanctified persons, which ye may do, without offence to religion;
 those sacred and inviolable personages, the tribunes, ye will
 afterwards deliver up as soon as they go out of office: but, if ye
@@ -529,7 +542,9 @@ rest concerned, offer our worthless persons, as atonements for the
 breaking our engagements, and, by our sufferings liberate the Roman
 armies."
 
-10. Both these arguments, and, still more, the author of them,
+## Chapter X
+
+Both these arguments, and, still more, the author of them,
 powerfully affected the senators; as they did likewise every one, not
 excepting even the tribunes of the commons who declared, that they
 would be directed by the senate. They then instantly resigned their
@@ -566,7 +581,9 @@ herald had been, by him, violently ill-treated, contrary to the law of
 nations; and that his people would therefore have the more justice on
 their side, in waging war."
 
-11. Pontius then said, "Neither will I accept such a surrender, nor
+## Chapter XI
+
+Pontius then said, "Neither will I accept such a surrender, nor
 will the Samnites deem it valid. Spurius Postumius, if you believe
 that there are gods, why do you not undo all that has been done, or
 fulfil your agreement? The Samnite nation is entitled, either to all
@@ -617,7 +634,9 @@ Accordingly they returned unhurt from Caudium to the Roman camp,
 having acquitted, certainly, their own faith, and perhaps that of the
 public.
 
-12. The Samnites finding that instead of a peace which flattered their
+## Chapter XII
+
+The Samnites finding that instead of a peace which flattered their
 pride, the war was revived, and with the utmost inveteracy, not only
 felt, in their minds, a foreboding of all the consequences which
 ensued, but saw them, in a manner, before their eyes. They now, too
@@ -661,7 +680,9 @@ concluded, therefore, that it would be most advisable to trust to the
 decision of fortune, and to take the issue of a battle with Publilius:
 accordingly they drew out their forces into the field.
 
-13. When Publilius was about to engage, considering it proper to
+## Chapter XIII
+
+When Publilius was about to engage, considering it proper to
 address his soldiers first, he ordered an assembly be summoned. But
 though they ran together to the general's quarters with the greatest
 alacrity, yet so loud were the clamours, demanding the fight, that
@@ -713,7 +734,9 @@ for the besieged, or that they would be able much longer to endure
 want, the Samnites, encamped at Luceria, were obliged to collect their
 forces from every side, and come to an engagement with Papirius.
 
-14. At this juncture, while both parties were preparing for an action,
+## Chapter XIV
+
+At this juncture, while both parties were preparing for an action,
 ambassadors from the Tarentines interposed, requiring both Samnites
 and Romans to desist from war; with menaces, that "if either refused
 to agree to a cessation of hostilities, they would join their arms
@@ -772,7 +795,9 @@ their resentment had been checked, and acknowledged that every thing
 ought to be endured, rather than that the safety of so many Roman
 youths of the first distinction should be brought into danger.
 
-15. The assembly being then dismissed, a consultation was held,
+## Chapter XV
+
+The assembly being then dismissed, a consultation was held,
 whether they should press forward the siege of Luceria, with all their
 forces; or, whether with one of the commanders, and his army, trial
 should be made of the Apulians, a nation in the neighbourhood still
@@ -817,7 +842,9 @@ third time, with Quintus Aulus Ceretanus a second time, being
 re-elected in requital of his services at Luceria; or whether it was
 Lucius Papirius Mugillanus, the surname being mistaken.
 
-16. From henceforth, the accounts are clear, that the other wars were
+## Chapter XVI
+
+From henceforth, the accounts are clear, that the other wars were
 conducted to a conclusion by the consuls. Aulius by one successful
 battle, entirely conquered the Forentans. The city, to which their
 army had retreated after its defeat, surrendered on terms, hostages
@@ -889,7 +916,9 @@ people even marked him out, in their minds, as a match for Alexander
 the Great, in case that, having completed the conquest of Asia, he
 should have turned his arms on Europe.
 
-17. Nothing can be found farther from my intention, since the
+## Chapter XVII
+
+Nothing can be found farther from my intention, since the
 commencement of this history, than to digress, more than necessity
 required, from the course of narration; and, by embellishing my work
 with variety, to seek pleasing resting-places, as it were, for my
@@ -925,7 +954,9 @@ drunkards, if he had seen the forests of Apulia, and the mountains of
 Lucania, with the vestiges of the disasters of his house, and where
 his uncle Alexander, king of Epirus, had been lately cut off.
 
-18. We are now speaking of Alexander not yet intoxicated by
+## Chapter XVIII
+
+We are now speaking of Alexander not yet intoxicated by
 prosperity, the seductions of which no man was less capable of
 withstanding. But, if he is to be judged from the tenor of his conduct
 in the new state of his fortune, and from the new disposition, as I
@@ -994,7 +1025,9 @@ greatness of their exploits; any one of whom might live or die
 according to his destiny, without any material consequence to the
 public.
 
-19. It remains that the forces be compared together, with respect to
+## Chapter XIX
+
+It remains that the forces be compared together, with respect to
 their numbers, the quality of the men, and the supplies of
 auxiliaries. Now, in the general surveys of the age, there were rated
 two hundred and fifty thousand men, so that, on every revolt of the
@@ -1058,7 +1091,9 @@ those of Alexander and the Macedonians, provided that the same love of
 peace and solicitude about domestic harmony, in which we now live,
 continue permanent.
 
-20. Marcus Foslius Flaccinator and Lucius Plautius Venno were the next
+## Chapter XX
+
+Marcus Foslius Flaccinator and Lucius Plautius Venno were the next
 raised to the consulship. In this year ambassadors came from most of
 the states of the Samnites to procure a renewal of the treaty; and,
 after they had moved the compassion of the senate, by prostrating
@@ -1090,7 +1125,9 @@ without magistrates; on which the patrons of the colony itself were
 appointed by the senate to form a body of laws for it. Thus not only
 the arms, but the laws, of Rome became extensively prevalent.
 
-21. The consuls, Caius Junius Bubulcus and Quintus Aemilius Barbula,
+## Chapter XXI
+
+The consuls, Caius Junius Bubulcus and Quintus Aemilius Barbula,
 at the conclusion of the year, delivered over the legions, not to the
 consuls elected by themselves, who were Spurius Nautius and Marcus
 Popillius, but to a dictator, Lucius Aemilius. He, with Lucius
@@ -1117,7 +1154,9 @@ relieving Saticula, sat themselves down before Plistia, which was in
 alliance with the Romans, that they might, if possible, retort equal
 vexation on their enemy.
 
-22. The year coming to a conclusion, the war was thenceforward
+## Chapter XXII
+
+The year coming to a conclusion, the war was thenceforward
 conducted by a dictator, Quintius Fabius. The new consuls, Lucius
 Papirius Cursor and Quintus Publilius Philo, both a fourth time, as
 the former had done, remained at Rome. Fabius came with a
@@ -1184,7 +1223,9 @@ rejoiced at the success, but by no means so much as at finding,
 contrary to their expectation, every thing there safe, except a small
 part only, which was injured or destroyed by the fire.
 
-24. They then marched back to Sora; and the new consuls, Marcus
+## Chapter XXIV
+
+They then marched back to Sora; and the new consuls, Marcus
 Poetelius and Caius Sulpicius, receive the army from the dictator
 Fabius, discharging a great part of the veteran soldiers, having
 brought with them new cohorts to supply their place. Now while, on
@@ -1237,7 +1278,9 @@ beheaded, to the great joy of the commons, whose interest it most
 highly concerned, that the multitudes, sent to various places in
 colonies should be in safety.
 
-25. The consuls, leaving Sora, turned their warlike operations against
+## Chapter XXV
+
+The consuls, leaving Sora, turned their warlike operations against
 the lands and cities of the Ausonians; for all places had been set in
 commotion by the coming of the Samnites, when the battle was fought at
 Lautulae: conspiracies likewise had been formed in several parts of
@@ -1271,7 +1314,9 @@ there was scarcely any clear proof of the charge of its having
 revolted, was utterly destroyed, as if it had supported a contest
 through a deadly war.
 
-26. During this year, Luceria fell into the hands of the Samnites, the
+## Chapter XXVI
+
+During this year, Luceria fell into the hands of the Samnites, the
 Roman garrison being betrayed to the enemy. This matter did not long
 go unpunished with the traitors: the Roman army was not far off, by
 whom the city, which lay in a plain, was taken at the first onset. The
@@ -1352,7 +1397,9 @@ is usually the case; it then began to descend to persons of inferior
 rank; and, at length, was suppressed, by means of those factions and
 cabals against which it had been instituted.
 
-27. The accounts received of these matters, but more especially the
+## Chapter XXVII
+
+The accounts received of these matters, but more especially the
 hope of a revolt in Campania, for which a conspiracy had been formed,
 recalled the Samnites, who were turning towards Apulia, back to
 Caudium; so that from thence, being near, they might, if any commotion
@@ -1404,7 +1451,9 @@ contest, were slain or taken prisoners, except such as made their
 escape to Maleventum, the town which is now called Beneventum. It is
 recorded that thirty thousand of the Samnites were slain or taken.
 
-28. The consuls, after this important victory, led forward the legions
+## Chapter XXVIII
+
+The consuls, after this important victory, led forward the legions
 to lay siege to Bovianum; and there they passed the winter quarters,
 until Caius Poetelius, being nominated dictator, with Marcus Foslius,
 master of the horse, received the command of the army from the new
@@ -1433,7 +1482,9 @@ Interamna and Cassinum. But commissioners were appointed, and
 colonists, to the number of four thousand, were sent by the succeeding
 consuls, Marcus Valerius and Publius Decius.
 
-29. The war with the Samnites being now nearly put an end to, before
+## Chapter XXIX
+
+The war with the Samnites being now nearly put an end to, before
 the Roman senate was freed from all concern on that side, a report
 arose of an Etrurian war; and there was not, in those times, any
 nation, excepting the Gauls, whose arms were more dreaded, by reason
@@ -1471,7 +1522,9 @@ the year; so that the name of the Potitii became extinct, while the
 censor Appius also was, by the unrelenting wrath of the gods, some
 years after, deprived of sight.
 
-30. The consuls of the succeeding year were, Caius Junius Bubulcus a
+## Chapter XXX
+
+The consuls of the succeeding year were, Caius Junius Bubulcus a
 third time, and Quintus Aemilius Barbula a second. In the commencement
 of their office, they complained before the people, that, by the
 improper choice of members of the senate, that body had been
@@ -1518,7 +1571,9 @@ present, and the right of being fed in the temple, was restored to
 those who played at the sacrifices. These incidents occurred while the
 public attention was deeply engaged by two most important wars.
 
-31. The consuls adjusting the provinces between them, the Samnites
+## Chapter XXXI
+
+The consuls adjusting the provinces between them, the Samnites
 fell by lot to Junius, the new war of Etruria to Aemilius. In Samnium
 the Samnites had blockaded and reduced by famine Cluvia, a Roman
 garrison, because they had been unable to take it by storm; and, after
@@ -1583,7 +1638,9 @@ means to escape; twenty thousand men were slain, and the victorious
 Romans hastened in several parties to secure the booty of cattle,
 spontaneously thrown in their way by the enemy.
 
-32. While such was the situation of affairs in Samnium, all the states
+## Chapter XXXII
+
+While such was the situation of affairs in Samnium, all the states
 of Etruria, except the Arretians, had taken arms, and vigorously
 commenced hostilities, by laying siege to Sutrium; which city, being
 in alliance with the Romans, served as a barrier against Etruria.
@@ -1625,7 +1682,9 @@ reserves only being left, who were scarce sufficient to guard the
 camp; and, among the Romans, so numerous were the wounds, that more
 wounded men died after the battle than had fallen in the field.
 
-33. Quintus Fabius, consul for the ensuing year, succeeded to the
+## Chapter XXXIII
+
+Quintus Fabius, consul for the ensuing year, succeeded to the
 command of the army at Sutrium; the colleague given to him was Caius
 Marcius Rutilus. On the one side, Fabius brought with him a
 reinforcement from Rome, and on the other, a new army had been sent
@@ -1657,7 +1716,9 @@ passed by the people, that is held to be the law, and valid:--yet
 neither he, nor any of those who had been created censors subsequent
 to the passing of that law, could be bound by it."
 
-34. While Appius urged such frivolous arguments as these, which
+## Chapter XXXIV
+
+While Appius urged such frivolous arguments as these, which
 carried no conviction whatever, the other said, "Behold, Romans, the
 offspring of that Appius, who being created decemvir for one year,
 created himself for a second; and who, during a third, without being
@@ -1756,7 +1817,9 @@ proceeding of their colleague, three gave their support to Appius, on
 his appealing to them, and he held the censorship alone, to the great
 disgust of all ranks of men.
 
-35. While such was the state of affairs at Rome, the Etrurians had
+## Chapter XXXV
+
+While such was the state of affairs at Rome, the Etrurians had
 laid siege to Sutrium, and the consul Fabius, as he was marching along
 the foot of the mountains, with a design to succour the allies, and
 attempt the enemy's works, if it were by any means practicable, was
@@ -1789,7 +1852,9 @@ Etrurians, and taken thirty-eight military standards, took also
 possession of their camp, together with a vast quantity of spoil. They
 then began to consider of pursuing the enemy.
 
-36. The Ciminian forest was in those days deemed as impassable and
+## Chapter XXXVI
+
+The Ciminian forest was in those days deemed as impassable and
 frightful as the German forests have been in latter times; not even
 any trader having ever attempted to pass it. Hardly any, besides the
 general himself, showed boldness enough to enter it; the others had
@@ -1846,7 +1911,9 @@ attempt to pass the Ciminian forest. These, rejoicing that they had
 arrived too late to prevent the expedition, returned to Rome with the
 news of its success.
 
-37. By this expedition of the consul, the war, instead of being
+## Chapter XXXVII
+
+By this expedition of the consul, the war, instead of being
 brought nearer to a conclusion, was only spread to a wider extent: for
 all the tract adjacent to the foot of Mount Ciminius had felt his
 devastations; and, out of the indignation conceived thereat, had
@@ -1906,7 +1973,9 @@ Cortona, and Arretium, which were then among the principal states of
 Etruria, soliciting a peace and alliance with the Romans, obtained a
 truce for thirty years.
 
-38. During these transactions in Etruria, the other consul, Caius
+## Chapter XXXVIII
+
+During these transactions in Etruria, the other consul, Caius
 Marcius Rutilus, took Allifae by storm from the Samnites; and many of
 their forts, and smaller towns, were either destroyed by his arms, or
 surrendered without being injured. About the same time also, the Roman
@@ -1978,7 +2047,9 @@ voted first in those years in which the said events are found.
 Licinius Macer supposes this Curia ominous, also, on account of a
 third misfortune, that which was experienced at the Cremera.
 
-39. Next day the dictator, taking the auspices anew, obtained the
+## Chapter XXXIX
+
+Next day the dictator, taking the auspices anew, obtained the
 order, and, marching out at the head of the legions, lately raised on
 the alarm occasioned by the army passing the Ciminian forest, came to
 Longula; where having received the old troops of the consul Marcius,
@@ -2017,7 +2088,9 @@ exuberant through a long course of prosperity; all the flower of their
 men were cut off in the field, and in the same assault their camp was
 seized and sacked.
 
-40. Equal danger, and an issue equally glorious, soon after attended
+## Chapter XL
+
+Equal danger, and an issue equally glorious, soon after attended
 the war with the Samnites; who, besides their many preparations for
 the field, made their army to glitter with new decorations of their
 armour. Their troops were in two divisions, one of which had their
@@ -2089,7 +2162,9 @@ lieutenants-general, Publius Decius and Marcius Valerius: whom, at the
 next election, the people, with universal consent, declared the one
 consul, the other praetor.
 
-41. To Fabius, in consideration of his extraordinary merit in the
+## Chapter XLI
+
+To Fabius, in consideration of his extraordinary merit in the
 conquest of Etruria, the consulship was continued. Decius was
 appointed his colleague. Valerius was created praetor a fourth time.
 The consuls divided the provinces between them. Etruria fell to
@@ -2163,7 +2238,9 @@ the first promoters of the war; and on the next and following days,
 the other states of the Umbrians also surrendered. The Ocriculans were
 admitted to a treaty of friendship on giving security.
 
-42. Fabius, successful in a war allotted to another, led back his army
+## Chapter XLII
+
+Fabius, successful in a war allotted to another, led back his army
 into his own province. And as, in the preceding year, the people had,
 in consideration of his services so successfully performed, re-elected
 him to the consulship, so now the senate, from the same motive,
@@ -2206,7 +2283,9 @@ Anagnians, in the circus called the Maritime, the whole nation of the
 Hernicians, excepting the Alatrians, Ferentines, and Verulans,
 declared war against the Roman people.
 
-43. In Samnium also, in consequence of the departure of Fabius, new
+## Chapter XLIII
+
+In Samnium also, in consequence of the departure of Fabius, new
 commotions arose. Calatia and Sora, and the Roman garrisons stationed
 there, were taken, and extreme cruelty was exercised towards the
 captive soldiers: Publius Cornelius was therefore sent thither with an
@@ -2296,7 +2375,9 @@ at the public expense. During the same year the treaty with the
 Carthaginians was renewed a third time, and ample presents made to
 their ambassadors who came on that business.
 
-44. This year had a dictator in office, Publius Cornelius Scipio, with
+## Chapter XLIV
+
+This year had a dictator in office, Publius Cornelius Scipio, with
 Publius Decius Mus, master of the horse. By these the election of
 consuls was held, being the purpose for which they had been created,
 because neither of the consuls could be absent from the armies. The
@@ -2343,7 +2424,9 @@ year, Sora, Arpinum, and Censennia were recovered from the Samnites.
 The great statue of Hercules was erected in the Capitol, and
 dedicated.
 
-45. In the succeeding consulate of Publius Sulpicius Saverrio and
+## Chapter XLV
+
+In the succeeding consulate of Publius Sulpicius Saverrio and
 Publius Sempronius Sophus, the Samnites, desirous either of a
 termination or a suspension of hostilities, sent ambassadors to Rome
 to treat of peace; to whose submissive solicitations this answer was
@@ -2412,7 +2495,9 @@ example of their disasters, sent deputies to Rome to solicit peace and
 friendship; and these states, on their submissive applications, were
 admitted into alliance.
 
-46. In the same year, Cneius Flavius, son of Cneius, grandson of a
+## Chapter XLVI
+
+In the same year, Cneius Flavius, son of Cneius, grandson of a
 freed man, a notary, in low circumstances originally, but artful and
 eloquent, was appointed curule aedile. I find in some annals, that,
 being in attendance on the aediles, and seeing that he was voted
@@ -2483,7 +2568,9 @@ thousand three hundred and twenty-two._
 
        *        *        *        *        *
 
-1. During the consulate of Lucius Genucius and Servius Cornelius, the
+## Chapter I
+
+During the consulate of Lucius Genucius and Servius Cornelius, the
 state enjoyed almost uninterrupted rest from foreign wars. Colonies
 were led out to Sora and Alba. For the latter, situated in the country
 of the Aequans, six thousand colonists were enrolled. Sora had
@@ -2520,7 +2607,9 @@ the eighth day, dedicated, in the character of dictator, the temple of
 Health, which he had vowed when consul, and contracted for when
 censor.
 
-2. During this year a fleet of Grecians, under the command of
+## Chapter II
+
+During this year a fleet of Grecians, under the command of
 Cleonymus, a Lacedaemonian, arrived on the coast of Italy, and took
 Thuriae, a city in the territory of the Sallentines. Against this
 enemy the consul Aemilius was sent, who, in one battle, completely
@@ -2578,7 +2667,9 @@ in the old temple of Juno. In commemoration of this event, there is
 exhibited at Patavium, every year, on its anniversary day, a naval
 combat on the river in the middle of the town.
 
-3. A treaty was this year concluded at Rome with the Vestinians, who
+## Chapter III
+
+A treaty was this year concluded at Rome with the Vestinians, who
 solicited friendship. Various causes of apprehension afterwards sprung
 up. News arrived, that Etruria was in rebellion; the insurrection
 having arisen from the dissensions of the Arretians; for the Cilnian
@@ -2608,7 +2699,9 @@ commander, he fully merited his surname; but besides, mindful of
 Papirius's severity, he never could have been tempted to fight,
 without the dictator's orders.
 
-4. The news of this disaster excited at Rome an alarm greater than
+## Chapter IV
+
+The news of this disaster excited at Rome an alarm greater than
 suited the importance of the affair; for, as if the army had been
 destroyed, a justitium was proclaimed, guards mounted at the gates,
 and watches set in every street: and armour and weapons were heaped on
@@ -2651,7 +2744,9 @@ their force too powerful for his small band to cope with. He therefore
 sent in haste to Valerius for support, and in the mean time, by
 himself, sustained the enemy's onset.
 
-5. On receiving his message, the dictator ordered the standards to
+## Chapter V
+
+On receiving his message, the dictator ordered the standards to
 move, and the troops to follow in arms. But every thing was executed
 more quickly, almost, than ordered. The standards and arms were
 instantly snatched up, and they were with difficulty restrained from
@@ -2706,7 +2801,9 @@ soliciting the office, and even while he was absent; and that the
 election was held by an interrex. In one point all agree, that he held
 the consulship with Quintus Appulcius Pansa.
 
-6. During this consulate of Marcus Valerius and Quintus Appulcius,
+## Chapter VI
+
+During this consulate of Marcus Valerius and Quintus Appulcius,
 affairs abroad wore a very peaceable aspect. Their losses sustained in
 war, together with the truce, kept the Etrurians quiet. The Samnites,
 depressed by the misfortunes of many years, had not yet become
@@ -2748,7 +2845,9 @@ honours; but already in possession of all those advantages, on the
 uncertain prospect of which they had maintained the contest, manifold
 consulships, censorships, and triumphs.
 
-7. The principal struggle, however, in supporting and opposing the
+## Chapter VII
+
+The principal struggle, however, in supporting and opposing the
 bill, they say, was between Appius Claudius and Publius Decius Mus.
 After these had urged nearly the same topics, respecting the
 privileges of patricians and plebeians, which had been formerly
@@ -2796,7 +2895,9 @@ receive; and may demand, rather on behalf of the gods, than for our
 own sakes, that those whom we worship in our private we may also
 worship in a public capacity."
 
-8. "But why do I argue thus, as if the cause of the patricians,
+## Chapter VIII
+
+"But why do I argue thus, as if the cause of the patricians,
 respecting the priesthood, were untouched? and as if we were not
 already in possession of one sacerdotal office, of the highest class?
 We see plebeian decemvirs, for performing sacrifices, interpreters of
@@ -2838,7 +2939,9 @@ care what issue their disputes may have. For my part, be it
 advantageous, happy, and prosperous to you and to the commonwealth, I
 am of opinion that this law should receive your sanction."
 
-9. The people ordered that the tribes should be instantly called; and
+## Chapter IX
+
+The people ordered that the tribes should be instantly called; and
 there was every appearance that the law would be accepted. It was
 deferred, however, for that day, by a protest, from which on the day
 following the tribunes were deterred; and it passed with the
@@ -2889,7 +2992,9 @@ general survey was performed, this year, by Publius Sempronius Sophus
 and Publius Sulpicius Saverrio, censors; and two tribes were added,
 the Aniensian and Terentine. Such were the occurrences at Rome.
 
-10. Meanwhile, after much time had been lost in the tedious siege of
+## Chapter X
+
+Meanwhile, after much time had been lost in the tedious siege of
 Nequinum, two of the townsmen, whose houses were contiguous to the
 wall, having formed a subterraneous passage, came by that private way
 to the Roman advanced guards; and being conducted thence to the
@@ -2933,7 +3038,9 @@ Etrurian war, had caused serious apprehensions at Rome; and, with the
 less hesitation on that account, an alliance was concluded with the
 state of the Picentians.
 
-11. The province of Etruria fell by lot to the consul Titus Manlius;
+## Chapter XI
+
+The province of Etruria fell by lot to the consul Titus Manlius;
 who, when he had but just entered the enemy's country, as he was
 exercising the cavalry, in wheeling about at full speed, was thrown
 from his horse, and almost killed on the spot; three days after the
@@ -2986,7 +3093,9 @@ injustice and outrage of the Samnites; that although fidelity on their
 part to the Romans would now become necessary, a war being undertaken
 against the Samnites, still they were ready to give hostages."
 
-12. The deliberation of the senate was short. They all, to a man,
+## Chapter XII
+
+The deliberation of the senate was short. They all, to a man,
 concurred in opinion, that a compact should be entered into with the
 Lucanians, and satisfaction demanded from the Samnites: accordingly, a
 favourable answer was returned to the Lucanians, and the alliance
@@ -3026,7 +3135,9 @@ This year a colony was carried out to Carseoli, into the territory of
 the Aequicolae. The consul Fulvius triumphed on his defeat of the
 Samnites.
 
-13. When the consular elections were now at hand, a report prevailed,
+## Chapter XIII
+
+When the consular elections were now at hand, a report prevailed,
 that the Etrurians and Samnites were raising vast armies; that the
 leaders of the Etrurians were, in all their assemblies, openly
 censured for not having procured the aid of the Gauls on any terms;
@@ -3077,7 +3188,9 @@ the aediles, for having in possession larger quantities of land than
 the state allowed; and hardly any were acquitted: by which means, a
 very great restraint was laid on exorbitant covetousness.
 
-14. Whilst the new consuls, Quintus Fabius Maximus a fourth, and
+## Chapter XIV
+
+Whilst the new consuls, Quintus Fabius Maximus a fourth, and
 Publius Decius Mus a third time, were settling between themselves that
 one should command against the Samnites, and the other against the
 Etrurians; and what number of forces would be sufficient for this and
@@ -3149,7 +3262,9 @@ considering the completeness of the victory. There were three thousand
 four hundred slain, about eight hundred and thirty made prisoners, and
 twenty-three military standards taken.
 
-15. The Apulians would have joined their forces to the Samnites before
+## Chapter XV
+
+The Apulians would have joined their forces to the Samnites before
 this battle, had not the consul, Publius Decius, encamped in their
 neighbourhood at Maleventum; and, finding means to bring them to an
 engagement, put them to the rout. Here, likewise, there was more of
@@ -3188,7 +3303,9 @@ consuls. The nobility reproached Fabius for declining to act in
 conjunction with Appius Claudius, because he evidently excelled him in
 eloquence and political abilities.
 
-16. When the election was finished, the former consuls, their command
+## Chapter XVI
+
+When the election was finished, the former consuls, their command
 being continued for six months, were ordered to prosecute the war in
 Samnium. Accordingly, during this next year also, in the consulate of
 Lucius Volumnius and Appius Claudius, Publius Decius, who had been
@@ -3224,7 +3341,9 @@ Samnite army had come to them, in readiness for action, furnished with
 arms and pay, and were willing to follow that instant, even should
 they lead to the attack of the city of Rome itself."
 
-17. While they were engaged in these representations, and intriguing
+## Chapter XVII
+
+While they were engaged in these representations, and intriguing
 at Etruria, the operations of the Romans in their own territories
 distressed them severely. For Publius Decius, when he ascertained
 through his scouts the departure of the Samnite army, called a
@@ -3270,7 +3389,9 @@ taken by Decius; Romulea and Ferentinum by Fabius. Some ascribe this
 honour to the new consuls: others not to both, but to one of these,
 Lucius Volumnius: that to him the province of Samnium had fallen.
 
-18. While things went on thus in Samnium, whoever it was that had the
+## Chapter XVIII
+
+While things went on thus in Samnium, whoever it was that had the
 command and auspices, powerful combination, composed of many states,
 was formed in Etruria against the Romans, the chief promoter of which
 was Gellius Egnatius, a Samnite. Almost all the Etrurians had united
@@ -3326,7 +3447,9 @@ pleased that he had taken useless trouble, than that any conjuncture
 should have arisen which had made one consular army insufficient for
 Etruria."
 
-19. As the consuls were parting, the lieutenants-general and tribunes
+## Chapter XIX
+
+As the consuls were parting, the lieutenants-general and tribunes
 of Appius's army gathered round them. Some entreated their own general
 that he would not reject the voluntary offer of his colleague's
 assistance, which ought to have been solicited in the first instance:
@@ -3405,7 +3528,9 @@ was found, and given up to the soldiers. Of the enemy seven thousand
 three hundred were slain; and two thousand one hundred and twenty
 taken.
 
-20. While both the consuls, with the whole force of the Romans,
+## Chapter XX
+
+While both the consuls, with the whole force of the Romans,
 pointed their exertions principally against the war in Etruria, a new
 army which arose in Samnium, with design to ravage the frontiers of
 the Roman empire, passed over through the country of the Vescians,
@@ -3471,7 +3596,9 @@ owners of which did not appear, were given to the soldiers, who were
 obliged to sell them, in order that they might have nothing to think
 of but their duty.
 
-21. The depredations, committed on the lands of Campania, had
+## Chapter XXI
+
+The depredations, committed on the lands of Campania, had
 occasioned a violent alarm at Rome, and it happened, that about the
 same time intelligence was brought from Litruria, that, after the
 departure of Volumnius's army, all that country had risen up in arms,
@@ -3521,7 +3648,9 @@ consuls; Appius Claudius, praetor; all of them absent; and, by a
 decree of the senate, followed by an order of the commons, Lucius
 Volumnius was continued in the command for another year.
 
-23. During that year many prodigies happened. For the purpose of
+## Chapter XXIII
+
+During that year many prodigies happened. For the purpose of
 averting which, the senate decreed a supplication for two days: the
 wine and frankincense for the sacrifices were furnished at the expense
 of the public; and numerous crowds of men and women attended the
@@ -3569,7 +3698,9 @@ of money levied as fines on farmers of the public pastures, whom they
 had convicted of malpractices, games were exhibited, and golden bowls
 were placed in the temple of Ceres.
 
-24. Then came into the consulship Quintus Fabius a fifth time, and
+## Chapter XXIV
+
+Then came into the consulship Quintus Fabius a fifth time, and
 Publius Decius a fourth. They had been colleagues from the censorship,
 and twice in the consulship, and were celebrated not more for their
 glorious achievements, splendid as these were, than for the unanimity
@@ -3635,7 +3766,9 @@ withdrew from the Comitium, and with no less unanimity of the people
 than of the senate, the province of Etruria was decreed to him without
 having recourse to lots.
 
-25. Immediately almost all the younger citizens flocked together to
+## Chapter XXV
+
+Immediately almost all the younger citizens flocked together to
 the consul, and readily gave in their names; so strong was their
 desire of serving under such a commander. Seeing so great a multitude
 collected round him, he said, "My intention is to enlist only four
@@ -3698,7 +3831,9 @@ the senate might learn the real state of the war in Etruria; and with
 what number of troops, and by how many generals, it should be carried
 on.
 
-26. Fabius, as soon as he returned to Rome, qualified his discourses,
+## Chapter XXVI
+
+Fabius, as soon as he returned to Rome, qualified his discourses,
 both in the senate and when brought before the people, in such a
 manner as to appear neither to exaggerate or lessen, any particular
 relating to the war; and to show, that, in agreeing to another general
@@ -3761,7 +3896,9 @@ Faliscian, the other in the Vatican territory. Cneius Fulvius and
 Lucius Postumius Megellus, both propraetors, were ordered to keep the
 troops stationed in those places.
 
-27. The consuls, having crossed the Apennines, came up with the enemy
+## Chapter XXVII
+
+The consuls, having crossed the Apennines, came up with the enemy
 in the territory of Sentinum, their camp was pitched there at the
 distance of about four miles. Several councils were then held by the
 enemy, and their plan of operations was thus settled: that they should
@@ -3804,7 +3941,9 @@ had the Etrurians and Umbrians been present, either in the field or at
 the camp, in whichever place they might have employed their force, the
 Romans must have been defeated.
 
-28. However, although the victory was still undecided, fortune not
+## Chapter XXVIII
+
+However, although the victory was still undecided, fortune not
 having declared in favour of either party, yet the course of the fight
 was by no means similar on both right and left wings. The Romans,
 under Fabius, rather repelled than offered assault, and the contest
@@ -3866,7 +4005,9 @@ himself and the foe, he spurred forward his horse, where he saw the
 line of the Gauls thickest, and, rushing upon the enemy's weapons, met
 his death.
 
-29. Thenceforward the battle seemed to be fought with a degree of
+## Chapter XXIX
+
+Thenceforward the battle seemed to be fought with a degree of
 force scarcely human. The Romans, on the loss of their general, a
 circumstance which, on other occasions, is wont to inspire terror,
 stopped their flight, and were anxious to begin the combat afresh. The
@@ -3937,7 +4078,9 @@ discarding all concern about any other business, solemnized the
 obsequies of his colleague in the most honourable manner, passing on
 him the high encomiums which he had justly merited.
 
-30. During the same period, matters were managed successfully by
+## Chapter XXX
+
+During the same period, matters were managed successfully by
 Cneius Fulvius, propraetor, he having, besides the immense losses
 occasioned to the enemy by the devastation of their lands, fought a
 battle with extraordinary success, in which there were above three
@@ -3970,7 +4113,9 @@ eighty-two _asses_ [Footnote: _5s. 31d._] to each, with
 cloaks and vests; rewards for service, in that age, by no means
 contemptible.
 
-31. Notwithstanding these successes, peace was not yet established,
+## Chapter XXXI
+
+Notwithstanding these successes, peace was not yet established,
 either among the Samnites or Etrurians: for the latter, at the
 instigation of the Perusians, resumed their arms, after his army had
 been withdrawn by the consul; and the Samnites made predatory
@@ -4025,7 +4170,9 @@ patience tired, either in writing, or reading, of wars of such
 continuance; and which yet exhausted not the resolution of the parties
 concerned?
 
-32. Quintus Fabius and Publius Decius were succeeded in the consulship
+## Chapter XXXII
+
+Quintus Fabius and Publius Decius were succeeded in the consulship
 by Lucius Postumius Megellus and Marcus Atilius Regulus. The province
 of Samnium was decreed to both in conjunction; because intelligence
 had been received that the enemy had embodied three armies; with one
@@ -4058,7 +4205,9 @@ rear of the camp: the quaestor's quarters in consequence were taken,
 and the quaestor, Lucius Opimius Pansa, was there slain; on this a
 general alarm was given to take up arms.
 
-33. The consul, being roused by the tumult, ordered two cohorts of the
+## Chapter XXXIII
+
+The consul, being roused by the tumult, ordered two cohorts of the
 allies, a Lucanian and Suessanian, which happened to be nearest, to
 defend the head-quarters, and led the companies of the legions down
 the principal street. These ran into the ranks, scarcely taking time
@@ -4095,7 +4244,9 @@ being able to make head against the two armies, retreated from thence,
 on which the consuls, separating, proceeded by different routes to lay
 waste the enemy's lands and besiege their towns.
 
-34. Postumius attempted to make himself master of Milionia, at first
+## Chapter XXXIV
+
+Postumius attempted to make himself master of Milionia, at first
 by storm and an assault; but these not succeeding, he carried his
 approaches to the walls, and thus gained an entrance into the place.
 The fight was continued in all parts of the city from the fourth hour
@@ -4141,7 +4292,9 @@ off at the first watch, and they believed that the same solitude they
 should find in the other places. The accounts of the prisoners proved
 well-founded, and the consul took possession of the forsaken towns.
 
-35. The war was by no means so easy with the other consul, Marcus
+## Chapter XXXV
+
+The war was by no means so easy with the other consul, Marcus
 Atilius. As he was marching his legions towards Luceria, to which he
 was informed that the Samnites had laid siege, the enemy met him on
 the border of the Lucerian territory. Rage supplied them, on this
@@ -4210,7 +4363,9 @@ open, through which they could even fly thence; in that spot they must
 fall, or else cut down the enemy's ranks, and make their way over
 their bodies."
 
-36. They then threw the baggage in a heap in the centre, and, with
+## Chapter XXXVI
+
+They then threw the baggage in a heap in the centre, and, with
 their arms prepared for battle, formed their line, each falling into
 his post. There was now but a small interval between the two armies,
 and both stood, waiting until the shout and onset should be begun by
@@ -4285,7 +4440,9 @@ was refused him, because he had lost so many thousands of his
 soldiers; and also, because he had sent the prisoners under the yoke
 without imposing any conditions.
 
-37. The other consul, Postumius, because there was no employment for
+## Chapter XXXVII
+
+The other consul, Postumius, because there was no employment for
 his arms in Samnium, having led over his forces into Etruria, first
 laid waste the lands of the Volsinians; and afterwards, on their
 marching out to protect their country, gained a decisive victory over
@@ -4347,7 +4504,9 @@ However, in this year, the state having been twice bound by the same
 vow, it became a matter of religious obligation that the senate should
 order the temple to be erected.
 
-38. In the next year, we find a consul, distinguished by the united
+## Chapter XXXVIII
+
+In the next year, we find a consul, distinguished by the united
 splendour of his own and his father's glory, Lucius Papirius Cursor,
 as also a war of vast importance, and a victory of such consequence,
 as no man, excepting Lucius Papirius, the consul's father, had ever
@@ -4399,7 +4558,9 @@ twenty thousand, not inferior to the linen legion, either in personal
 appearance, or renown in war, or their equipment. This number,
 composing the main strength of the nation, sat down at Aquilonia.
 
-39. On the other side, the consuls set out from the city. First,
+## Chapter XXXIX
+
+On the other side, the consuls set out from the city. First,
 Spurius Carvilius, to whom had been decreed the veteran legions, which
 Marcus Atilius, the consul of the preceding year, had left in the
 territory of Interamna, marched at their head into Samnium; and, while
@@ -4459,7 +4620,9 @@ expressed in the oath sworn in contradiction to those treaties, swore
 with reluctance, abhorred the oath, and feared at once the gods, their
 countrymen, and their enemies."
 
-40. When the consul had recounted these particulars, ascertained from
+## Chapter XL
+
+When the consul had recounted these particulars, ascertained from
 the information of the deserters, to the soldiers already enraged of
 themselves, they then, filled with confidence in both divine and human
 aid, with one universal shout, demanded the battle; were dissatisfied
@@ -4524,7 +4687,9 @@ affirming, that never had the gods interposed in a more striking
 manner in human affairs, ordered the charge to be sounded and the
 shout to be raised.
 
-41. A furious conflict now ensued, but with very unequal spirit [in
+## Chapter XLI
+
+A furious conflict now ensued, but with very unequal spirit [in
 the combatants]. Anger, hope, and ardour for conquest, hurried on the
 Romans to battle, thirsting for their enemy's blood; while the
 Samnites, for the most part reluctantly, as if compelled by necessity
@@ -4595,7 +4760,9 @@ Samnites who were near the gate, took possession of the walls, but
 they ventured not to push forward into the interior of the city in
 consequence of the smallness of their number.
 
-42. Of these transactions the consul was for some time ignorant; and
+## Chapter XLII
+
+Of these transactions the consul was for some time ignorant; and
 was busily employed in calling home his troops, for the sun was now
 hastening to set, and the approach of night rendered every place
 suspicious and dangerous, even to victorious troops. Having rode
@@ -4625,7 +4792,9 @@ would, before he tasted of any generous liquor, make a libation to him
 of a cup of wine and honey. This kind of vow proved acceptable to the
 gods, and they conducted the auspices to a fortunate issue.
 
-43. Matters were conducted with the same success by the other consul
+## Chapter XLIII
+
+Matters were conducted with the same success by the other consul
 at Cominium: leading up his forces to the walls, at the first dawn, he
 invested the city on every side, and posted strong guards opposite to
 the gates to prevent any sally being made. Just as he was giving the
@@ -4678,7 +4847,9 @@ they left behind them a great quantity of arms and eighteen military
 standards: they reached Bovianum with the rest of their party in
 safety, as far as could be expected after so disorderly a rout.
 
-44. The joy of both Roman armies was enhanced by the success achieved
+## Chapter XLIV
+
+The joy of both Roman armies was enhanced by the success achieved
 on the other side. Each consul, with the approbation of his colleague,
 gave to his soldiers the plunder of the town which he had taken; and,
 when the houses were cleared, set them on fire. Thus, on the same day,
@@ -4716,7 +4887,9 @@ accounts of the services which they had performed, led away their
 legions to different quarters; Papirius going to attack Saepioura,
 Carvilius to Volana.
 
-45. The letters of the consuls were heard with extraordinary
+## Chapter XLV
+
+The letters of the consuls were heard with extraordinary
 exultation, both in the senate-house and in the assembly of the
 people; and, in a thanksgiving of four days' continuance, the public
 rejoicings were celebrated with zeal by individuals. These successes
@@ -4773,7 +4946,9 @@ of the prisoners did not amount to three thousand. The spoil, of which
 the quantity was very great, the whole substance of the Samnites being
 collected in a few cities, was given up to the soldiers.
 
-46. The snow had now entirely covered the face of the country, and
+## Chapter XLVI
+
+The snow had now entirely covered the face of the country, and
 they could no longer dispense with the shelter of houses: the consul
 therefore led home his troops from Samnium. While he was on his way to
 Rome, a triumph was decreed him with universal consent; and
@@ -4833,7 +5008,9 @@ double that sum to the centurions and horsemen, who received this
 donative the more gratefully, on account of the parsimony of his
 colleague.
 
-47. The favour of the consul saved from a trial, before the people,
+## Chapter XLVII
+
+The favour of the consul saved from a trial, before the people,
 Postumius; who, on a prosecution being commenced against him by Marcus
 Scantius, plebeian tribune, evaded, as was said, the jurisdiction of
 the people, by procuring the commission of lieutenant-general, so the
@@ -5087,7 +5264,9 @@ crosses the Alps; defeats the Romans at the Ticinus. The Romans again
 defeated at the Trebia. Cneius Cornelius Scipio defeats the
 Carthaginians in Spain, and takes Hanno, their general, prisoner._
 
-1. I may be permitted to premise at this division of my work, what
+## Chapter I
+
+I may be permitted to premise at this division of my work, what
 most historians [Footnote: Thucydides seems to be specially referred
 to.] have professed at the beginning of their whole undertaking; that
 I am about to relate the most memorable of all wars that were ever
@@ -5115,7 +5294,9 @@ up through a premature despair of their affairs; and that Sardinia,
 during the disturbances in Africa, had been treacherously taken by the
 Romans, while, in addition, the payment of a tribute had been imposed.
 
-2. Being disturbed with these anxieties, he so conducted himself for
+## Chapter II
+
+Being disturbed with these anxieties, he so conducted himself for
 five years in the African war, which commenced shortly after the peace
 with Rome, and then through nine years employed in augmenting the
 Carthaginian empire in Spain, that it was obvious that he was
@@ -5158,7 +5339,9 @@ should be the boundary of both empires; and that to the Saguntines,
 who lay between the territories of the two states, their liberty
 should be preserved.
 
-3. There was no doubt that in appointing a successor to Hasdrubal, the
+## Chapter III
+
+There was no doubt that in appointing a successor to Hasdrubal, the
 approbation of the commons would follow the military prerogative, by
 which the young Hannibal had been immediately carried to the
 praetorium, and hailed as general, amid the loud shouts and
@@ -5184,7 +5367,9 @@ laws and the authority of magistrates, to live on an equal footing
 with the rest of the citizens, lest at some time or other this small
 fire should kindle a vast conflagration."
 
-4. A few, and nearly every one of the highest merit, concurred with
+## Chapter IV
+
+A few, and nearly every one of the highest merit, concurred with
 Hanno; but, as usually happens, the more numerous party prevailed over
 the better. Hannibal, having been sent into Spain, from his very first
 arrival drew the eyes of the whole army upon him. The veteran soldiers
@@ -5219,7 +5404,9 @@ and vices, he served for three years under the command of Hasdrubal,
 without neglecting any thing which ought to be done or seen by one who
 was to become a great general.
 
-5. But from the day on which he was declared general, as if Italy had
+## Chapter V
+
+But from the day on which he was declared general, as if Italy had
 been decreed to him as his province, and the war with Rome committed
 to him, thinking there should be no delay, lest, while he
 procrastinated, some unexpected accident might defeat him, as had
@@ -5279,7 +5466,9 @@ also within a few days. And now all the country beyond the Iberus,
 excepting that of the Saguntines, was under the power of the
 Carthaginians.
 
-6. As yet there was no war with the Saguntines, but already, in order
+## Chapter VI
+
+As yet there was no war with the Saguntines, but already, in order
 to a war, the seeds of dissension were sown between them and their
 neighbours, particularly the Turetani, with whom when the same person
 sided who had originated the quarrel, and it was evident, not that a
@@ -5308,7 +5497,9 @@ more quickly despatched as ambassadors to Hannibal at Saguntum, and
 from thence to Carthage, if he did not desist from the war, to demand
 the general himself in atonement for the violation of the treaty.
 
-7. While the Romans thus prepare and deliberate, Saguntum was already
+## Chapter VII
+
+While the Romans thus prepare and deliberate, Saguntum was already
 besieged with the utmost vigour. That city, situated about a mile from
 the sea, was by far the most opulent beyond the Iberus. Its
 inhabitants are said to have been sprung from the island Zacynthus,
@@ -5339,7 +5530,9 @@ while he too incautiously approached the wall, fell severely wounded
 in the thigh by a javelin, such flight and dismay spread around, that
 the works and vineae had nearly been abandoned.
 
-8. For a few days after, while the general's wound was being cured,
+## Chapter VIII
+
+For a few days after, while the general's wound was being cured,
 there was rather a blockade than a siege: during which time, though
 there was a respite from fighting, yet there was no intermission in
 the preparation of works and fortifications. Hostilities, therefore,
@@ -5381,7 +5574,9 @@ bore along a much greater flame, produced by the mere motion, obliged
 the armour to be thrown down, and exposed the soldier to succeeding
 blows.
 
-9. When the contest had for a long time continued doubtful, and the
+## Chapter IX
+
+When the contest had for a long time continued doubtful, and the
 courage of the Saguntines had increased, because they had succeeded in
 their resistance beyond their hopes, while the Carthaginian, because
 he had not conquered, felt as vanquished, the townsmen suddenly set up
@@ -5399,7 +5594,9 @@ faction, to prepare the minds of their partisans, so that the other
 party might not be able in any thing to give an advantage to the
 Romans.
 
-10. That embassy, therefore, excepting that the ambassadors were
+## Chapter X
+
+That embassy, therefore, excepting that the ambassadors were
 admitted and heard, proved likewise vain and fruitless. Hanno alone,
 in opposition to the rest of the senate, pleaded the cause of the
 treaty, amidst deep silence on account of his authority, and not from
@@ -5457,7 +5654,9 @@ lead away his army from Saguntum, and to deliver up Hannibal himself,
 according to the treaty to the Romans; and I propose a third embassy
 to make restitution to the Saguntines."
 
-11. When Hanno had concluded, there was no occasion for any one to
+## Chapter XI
+
+When Hanno had concluded, there was no occasion for any one to
 contend with him in debate, to such a decree were almost all the
 senators devoted to Hannibal; and they accused Hanno of having spoken
 with more malignity than Flaccus Valerius, the Roman ambassador. It
@@ -5516,7 +5715,9 @@ by the severity of the levy, they had occasioned, by detaining the
 commissaries, the fear of a revolt, having been suddenly checked by
 the quickness of Hannibal, laid down the arms they had taken up.
 
-12. Nor was the siege of Saguntum, in the mean time, less vigorously
+## Chapter XII
+
+Nor was the siege of Saguntum, in the mean time, less vigorously
 maintained; Maharbal, the son of Himilco, whom Hannibal had set over
 the army, carrying on operations so actively that neither the townsmen
 nor their enemies perceived that the general was away. He both engaged
@@ -5547,7 +5748,9 @@ whither when there was immediately a general rush of every description
 of people, the rest of the multitude being removed, an audience of the
 senate is given to Alorcus; whose speech was to the following effect:
 
-13. "If your citizen Alcon, as he came to implore a peace from
+## Chapter XIII
+
+"If your citizen Alcon, as he came to implore a peace from
 Hannibal, had in like manner brought back to you the terms of peace
 proposed by Hannibal, this journey of mine would have been
 unnecessary; by which circumstance I should not have had to come to
@@ -5582,7 +5785,9 @@ endure, than suffer, by the rights of war, yourselves to be
 slaughtered, your wives and children to be ravished and dragged into
 captivity before your faces."
 
-14. When an assembly of the people, by the gradual crowding round of
+## Chapter XIV
+
+When an assembly of the people, by the gradual crowding round of
 the multitude, had mingled with the senate to hear these proposals,
 the chief men suddenly withdrawing before an answer was returned, and
 throwing all the gold and silver collected, both from public and
@@ -5601,7 +5806,9 @@ those men could mercy have been shown, who, either shut up with their
 wives and children, burned their houses over their own heads, or
 abroad in arms made no end of fighting, except in death.
 
-15. The town was taken, with immense spoil. Though the greater part of
+## Chapter XV
+
+The town was taken, with immense spoil. Though the greater part of
 the goods had been purposely damaged by their owners, and resentment
 had made scarce any distinction of age in the massacre, and the
 captives were the booty of the soldiers; still it appears that some
@@ -5625,7 +5832,9 @@ Sempronius; who, having repaired to Rome after the battle at Trebia
 for the purpose of creating consuls, returned when the election was
 finished to the army into winter quarters.
 
-16. Nearly about the same time, both the ambassadors who had returned
+## Chapter XVI
+
+Nearly about the same time, both the ambassadors who had returned
 from Carthage brought intelligence to Rome that all appearances were
 hostile, and the destruction of Saguntum was announced. Then such
 grief, and pity for allies so undeservingly destroyed, and shame that
@@ -5648,7 +5857,9 @@ Spain, already aroused, and was about to excite the nations of Gaul,
 ever desirous of war; and that a war against the world was to be
 maintained in Italy and before the walls of Rome.
 
-17. The provinces had already been previously named for the consuls;
+## Chapter XVII
+
+The provinces had already been previously named for the consuls;
 and having been now ordered to cast lots for them, Spain fell to
 Cornelius, and Africa with Sicily to Sempronius. Six legions were
 decreed for that year, and as many of the allies as should seem good
@@ -5681,7 +5892,9 @@ Carthaginian invasion, had, in the same year, two Roman legions, ten
 thousand allied infantry, one thousand allied cavalry, and six hundred
 Roman.
 
-18. These preparations having been thus made, in order that every
+## Chapter XVIII
+
+These preparations having been thus made, in order that every
 thing that was proper might be done before they commenced war, they
 send Quintus Fabius, Marcus Livius, Lucius Aemilius, Caius Licinius,
 and Quintus Baebius, men of advanced years, as ambassadors into
@@ -5726,7 +5939,9 @@ chose;" and when he again, unfolding his robe, said "he gave war,"
 they all answered that "they accepted it, and would maintain it with
 the same spirit with which they accepted it."
 
-19. This direct inquiry and denunciation of war seemed more consistent
+## Chapter XIX
+
+This direct inquiry and denunciation of war seemed more consistent
 with the dignity of the Roman people, both before and now, especially
 when Saguntum was destroyed, than to cavil in words about the
 obligation of treaties. For if it was a subject for a controversy of
@@ -5768,7 +5983,9 @@ afterwards received no kinder words from any of the councils of Spain:
 they therefore pass into Gaul, after having gone about through Spain
 to no purpose.
 
-20. Among the Gauls a new and alarming spectacle was seen, by reason
+## Chapter XX
+
+Among the Gauls a new and alarming spectacle was seen, by reason
 of their coming (such is the custom of the nation) in arms to the
 assembly. When, extolling in their discourse the renown and valour of
 the Roman people, and the wide extent of their empire, they had
@@ -5800,7 +6017,9 @@ found the whole city on tiptoe in expectation of war, the report being
 sufficiently confirmed, that the Carthaginians had already passed the
 Iberus.
 
-21. Hannibal, after the taking of Saguntum, had retired to New
+## Chapter XXI
+
+Hannibal, after the taking of Saguntum, had retired to New
 Carthage into winter quarters; and there, having heard what had been
 done and decreed at Rome and Carthage, and that he was not only the
 leader, but also the cause of the war, after having divided and sold
@@ -5844,7 +6063,9 @@ commissaries into the different states, he orders four thousand chosen
 youth whom they had levied to be conducted to Carthage, both as a
 garrison and as hostages.
 
-22. Thinking also that Spain ought not to be neglected (and the less
+## Chapter XXII
+
+Thinking also that Spain ought not to be neglected (and the less
 because he was aware that it had been traversed by the Roman
 ambassadors, to influence the minds of the chiefs,) he assigns that
 province to his brother Hasdrubal, a man of active spirit, and
@@ -5878,7 +6099,9 @@ what the cause of the prodigy," he heard in reply: "That it was the
 devastation of Italy: that he should continue to advance forward, nor
 inquire further, but suffer the fates to remain in obscurity."
 
-23. Cheered by this vision, he transported his forces in three
+## Chapter XXIII
+
+Cheered by this vision, he transported his forces in three
 divisions across the Iberus, having sent emissaries before him to
 conciliate by gifts the minds of the Gauls, in the quarter through
 which his army was to be led, and to examine the passes of the Alps.
@@ -5899,7 +6122,9 @@ minds of the rest might also be irritated, sent home above seven
 thousand men, whom also he had observed to be annoyed with the
 service, pretending that the Carpetani had also been dismissed by him.
 
-24. Then, lest delay and ease might unsettle their minds, he crosses
+## Chapter XXIV
+
+Then, lest delay and ease might unsettle their minds, he crosses
 the Pyrenees with the rest of his forces, and pitches his camp at the
 town Illiberis. The Gauls, though they had heard that the war was
 directed against Italy, yet because there was a report that the
@@ -5921,7 +6146,9 @@ Carthaginian, being won by his presents, they suffered his army to
 pass through their territories, by the town of Ruscino, without any
 molestation.
 
-25. In the mean time no further intelligence had been brought into
+## Chapter XXV
+
+In the mean time no further intelligence had been brought into
 Italy to Rome by the ambassadors of Marseilles than that Hannibal had
 passed the Iberus; when the Boii asked if he had already passed the
 Alps, revolted after instigating the Insubrians; not so much through
@@ -5969,7 +6196,9 @@ fortification, and the supplies conveyed by the river, and also by the
 aid of the Brixian Gauls, they defended themselves against the daily
 increasing multitude of their enemies.
 
-26. When the account of this sudden disturbance was brought to Rome,
+## Chapter XXVI
+
+When the account of this sudden disturbance was brought to Rome,
 and the senators heard that the Punic had also been increased by a
 Gallic war, they order Caius Atilius, the praetor, to carry assistance
 to Manlius with one Roman legion and five thousand of the allies,
@@ -6008,7 +6237,9 @@ shapeless hulks, in which they could transport themselves and their
 baggage, caring about nothing else, provided they could float and
 contain their burthen.
 
-27. And now, when all things were sufficiently prepared for crossing,
+## Chapter XXVII
+
+And now, when all things were sufficiently prepared for crossing,
 the enemy over against them occupying the whole bank, horse and foot,
 deterred them. In order to dislodge them, Hannibal orders Hanno, the
 son of Bomilcar, at the first watch of the night, to proceed with a
@@ -6040,7 +6271,9 @@ from the stern, except those which they put on board saddled and
 bridled, in order that they might be ready to be used by the rider the
 moment he disembarked on the strand.
 
-28. The Gauls run down to the bank to meet them with various whoopings
+## Chapter XXVIII
+
+The Gauls run down to the bank to meet them with various whoopings
 and songs, according to their custom, shaking their shields above
 their heads, and brandishing their weapons in their right hands,
 although such a multitude of ships in front of them alarmed them,
@@ -6089,7 +6322,9 @@ fell into the river; but, steadied by their own weight, having thrown
 off their riders, and seeking step by step the shallows, they escaped
 to the shore.
 
-29. Whilst the elephants were conveyed over, Hannibal, in the mean
+## Chapter XXIX
+
+Whilst the elephants were conveyed over, Hannibal, in the mean
 time, had sent five hundred Numidian horsemen towards the camp of the
 Romans, to observe where and how numerous their forces were, and what
 they were designing. The three hundred Roman horsemen sent, as was
@@ -6118,7 +6353,9 @@ the remembrance of the former war not being yet obliterated; but much
 more did they dread the immense journey and the Alps, a thing
 formidable by report, particularly to the inexperienced.
 
-30. Hannibal, therefore, when his own resolution was fixed to proceed
+## Chapter XXX
+
+Hannibal, therefore, when his own resolution was fixed to proceed
 in his course and advance on Italy, having summoned an assembly, works
 upon the minds of the soldiers in various ways, by reproof and
 exhortation. He said, that "he wondered what sudden fear had seized
@@ -6159,7 +6396,9 @@ had so often during those times overcome; or look forward, as the end
 of their journey, to the plain which spreads between the Tiber and the
 walls of Rome."
 
-31. He orders them, roused by these exhortations, to refresh
+## Chapter XXXI
+
+He orders them, roused by these exhortations, to refresh
 themselves and prepare for the journey. Next day, proceeding upward
 along the bank of the Rhone, he makes for the inland part of Gaul: not
 because it was the more direct route to the Alps, but believing that
@@ -6198,7 +6437,9 @@ time swollen by showers, it created great disorder among the soldiers
 as they crossed, when, in addition to other difficulties, they were of
 themselves confused by their own hurry and uncertain shouts.
 
-32. Publius Cornelius the consul, about three days after Hannibal
+## Chapter XXXII
+
+Publius Cornelius the consul, about three days after Hannibal
 moved from the bank of the Rhone, had come to the camp of the enemy,
 with his army drawn up in square, intending to make no delay in
 fighting: but when he saw the fortifications deserted, and that he
@@ -6243,7 +6484,9 @@ he himself with a party of light-armed, consisting of all the most
 courageous of his troops, rapidly cleared the defile, and took post on
 those very heights which the enemy had occupied.
 
-33. At dawn of light the next day the camp broke up, and the rest of
+## Chapter XXXIII
+
+At dawn of light the next day the camp broke up, and the rest of
 the army began to move forward. The mountaineers, on a signal being
 given, were now assembling from their forts to their usual station,
 when they suddenly behold part of the enemy overhanging them from
@@ -6284,7 +6527,9 @@ and during these three days, as the soldiers were neither obstructed
 by the mountaineers, who had been daunted by the first engagement, nor
 yet much by the ground, he made considerable way.
 
-34. He then came to another state, abounding, for a mountainous
+## Chapter XXXIV
+
+He then came to another state, abounding, for a mountainous
 country, with inhabitants; where he was nearly overcome, not by open
 war, but by his own arts of treachery and ambuscade. Some old men,
 governors of forts, came as deputies to the Carthaginian, professing,
@@ -6318,7 +6563,9 @@ the rear; the mountaineers, charging obliquely, and on having broken
 through the middle of the army, took possession of the road; and one
 night was spent by Hannibal without his cavalry and baggage.
 
-35. Next day, the barbarians running in to the attack between (the two
+## Chapter XXXV
+
+Next day, the barbarians running in to the attack between (the two
 divisions) less vigorously, the forces were re-united, and the defile
 passed, not without loss, but yet with a greater destruction of beasts
 of burden than of men. From that time the mountaineers fell upon them
@@ -6359,7 +6606,9 @@ and slippery, so that neither those who made the least stumble could
 prevent themselves from falling, nor, when fallen, remain in the same
 place, but rolled, both men and beasts of burden, one upon another.
 
-36. They then came to a rock much more narrow, and formed of such
+## Chapter XXXVI
+
+They then came to a rock much more narrow, and formed of such
 perpendicular ledges, that a light-armed soldier, carefully making the
 attempt, and clinging with his hands to the bushes and roots around,
 could with difficulty lower himself down. The ground, even before very
@@ -6389,7 +6638,9 @@ completely through, by the violence with which they struck in their
 hoofs in their struggling, so that most of them, as if taken in a
 trap, stuck in the hardened and deeply frozen ice.
 
-37. At length, after the men and beasts of burden had been fatigued to
+## Chapter XXXVII
+
+At length, after the men and beasts of burden had been fatigued to
 no purpose, the camp was pitched on the summit, the ground being
 cleared for that purpose with great difficulty, so much snow was there
 to be dug out and carried away. The soldiers being then set to make a
@@ -6411,7 +6662,9 @@ to pasture, and rest given for three days to the men, fatigued with
 forming the passage: they then descended into the plains, the country
 and the dispositions of the inhabitants being now less rugged.
 
-38. In this manner chiefly they came to Italy in the fifth month (as
+## Chapter XXXVIII
+
+In this manner chiefly they came to Italy in the fifth month (as
 some authors relate) after leaving New Carthage, having crossed the
 Alps in fifteen days. What number of forces Hannibal had when he had
 passed into Italy is by no means agreed upon by authors. Those who
@@ -6442,7 +6695,9 @@ being given to these mountains from the passage of the Carthaginians,
 but from the divinity, whom the mountaineers style Penninus,
 worshipped on the highest summit.
 
-39. Very opportunely for the commencement of his operations, a war had
+## Chapter XXXIX
+
+Very opportunely for the commencement of his operations, a war had
 broken out with the Taurini, the nearest nation, against the
 Insubrians; but Hannibal could not put his troops under arms to assist
 either party, as they very chiefly felt the disorders they had before
@@ -6476,7 +6731,9 @@ first to cross the Po, and having pitched his camp at the river
 Ticinus, he delivered the following oration for the sake of
 encouraging his soldiers before he led them out to form for battle:
 
-40. "If, soldiers, I were leading out that army to battle which I had
+## Chapter XL
+
+"If, soldiers, I were leading out that army to battle which I had
 with me in Gaul, I should have thought it superfluous to address you;
 for of what use would it be to exhort either those horsemen who so
 gloriously vanquished the cavalry of the enemy at the river Rhone, or
@@ -6519,7 +6776,9 @@ violate the faith of treaties; and that we, who next to the gods have
 been injured, should finish the contest thus commenced and nearly
 completed."
 
-41. "I do not fear lest any one should think that I say this
+## Chapter XLI
+
+"I do not fear lest any one should think that I say this
 ostentatiously for the sake of encouraging you, while in my own mind I
 am differently affected. I was at liberty to go with my army into
 Spain, my own province, whither I had already set out; where I should
@@ -6575,7 +6834,9 @@ anxiously regard our efforts; and that according as our strength and
 valour shall be, such henceforward will be the fortune of that city
 and of the Roman empire."
 
-42. Thus the consul addressed the Romans. Hannibal, thinking that his
+## Chapter XLII
+
+Thus the consul addressed the Romans. Hannibal, thinking that his
 soldiers ought to be roused by deeds rather than by words, having
 drawn his army around for the spectacle, placed in their midst the
 captive mountaineers in fetters; and after Gallic arms had been thrown
@@ -6592,7 +6853,9 @@ feeling, not only among their companions in the same circumstances,
 but among the spectators in general, that the fortune of those who
 conquered was not praised more than that of those who died bravely.
 
-43. When he had dismissed the soldiers, thus affected after viewing
+## Chapter XLIII
+
+When he had dismissed the soldiers, thus affected after viewing
 several pairs of combatants, having then summoned an assembly, he is
 said to have addressed them in these terms: "If, soldiers, you shall
 by and by, in judging of your own fortune, preserve the same feelings
@@ -6652,7 +6915,9 @@ praises and gifts, I, who was the pupil of you all before I became
 your commander, will march out in battle-array against those who are
 unknown to and ignorant of each other."
 
-44. "On whatever side I turn my eyes I see nothing but what is full of
+## Chapter XLIV
+
+"On whatever side I turn my eyes I see nothing but what is full of
 courage and energy; a veteran infantry; calvary, both those with and
 those without the bridle, composed of the most gallant nations, you
 our most faithful and valiant allies, you Carthaginians, who are about
@@ -6687,7 +6952,9 @@ the minds of you all, I will repeat, you have already conquered: no
 stronger incentive to victory has been given to man by the immortal
 gods."
 
-45. When the minds of the soldiers on both sides had been animated to
+## Chapter XLV
+
+When the minds of the soldiers on both sides had been animated to
 the contest by these exhortations, the Romans throw a bridge over the
 Ticinus, and, for the sake of defending the bridge, erect a fort on
 it. The Carthaginian, while the Romans were engaged in this work,
@@ -6721,7 +6988,9 @@ his own hopes, and thinking that the only delay in obtaining the
 object of their wishes arose from their not yet being engaged, with
 one mind and one voice demanded the battle.
 
-46. By no means so great an alacrity prevailed among the Romans, who,
+## Chapter XLVI
+
+By no means so great an alacrity prevailed among the Romans, who,
 in addition to other causes, were also alarmed by recent prodigies;
 for both a wolf had entered the camp, and having torn those who met
 him, had escaped unhurt; and a swarm of bees had settled on a tree
@@ -6761,7 +7030,9 @@ Ligurian. I indeed should rather wish that the account about the son
 was true, which also most authors have transmitted, and the report of
 which has generally obtained credit.
 
-47. This was the first battle with Hannibal; from which it clearly
+## Chapter XLVII
+
+This was the first battle with Hannibal; from which it clearly
 appeared that the Carthaginian was superior in cavalry; and on that
 account, that open plains, such as lie between the Po and the Alps,
 were not suited to the Romans for carrying on the war. On the
@@ -6797,7 +7068,9 @@ fortified his camp six miles from Placentia, and on the following day,
 having drawn up his line of battle in sight of the enemy, gave them an
 opportunity of fighting.
 
-48. On the following night a slaughter was made in the Roman camp by
+## Chapter XLVIII
+
+On the following night a slaughter was made in the Roman camp by
 the auxiliary Gauls, which appeared greater from the tumult than it
 proved in reality. Two thousand infantry and two hundred horse, having
 killed the guards at the gates, desert to Hannibal; whom the
@@ -6838,7 +7111,9 @@ towards the prisoners of the surrendered garrison, in order that a
 character for clemency might be acquired at the commencement of his
 proceedings.
 
-49. While the war by land was at a stand beside the Trebia, in the
+## Chapter XLIX
+
+While the war by land was at a stand beside the Trebia, in the
 mean time operations went on by land and sea around Sicily and the
 islands adjacent to Italy, both under Sempronius the consul, and
 before his arrival. Twenty quinqueremes, with a thousand armed men,
@@ -6884,7 +7159,9 @@ the conflict, being emboldened both by the recollection of the
 exploits they had performed near that very spot, and by the numbers
 and valour of their soldiers.
 
-50. When they had advanced into the open sea, the Romans wished to
+## Chapter L
+
+When they had advanced into the open sea, the Romans wished to
 come to close fight, and to make a trial of strength hand to hand. The
 Carthaginians, on the contrary, eluded them, and sought to maintain
 the fight by art, not by force, and to make it a battle of ships
@@ -6918,7 +7195,9 @@ along with him, and on their passage they heard that a battle had been
 fought at Lilybaeum, and that the enemy's ships had been scattered and
 taken.
 
-51. The consul having dismissed Hiero with the royal fleet, and left
+## Chapter LI
+
+The consul having dismissed Hiero with the royal fleet, and left
 the praetor to defend the coast of Sicily, passed over himself from
 Lilybaeum to the island Melita, which was held in possession by the
 Carthaginians. On his arrival, Hamilcar, the son of Gisgo, the
@@ -6947,7 +7226,9 @@ settled, sailing close along the coast of Italy with ten ships,
 arrived at Ariminum, whence, setting out with his army for the river
 Trebia, he joined his colleague.
 
-52. Both the consuls and all the strength of Rome being now opposed to
+## Chapter LII
+
+Both the consuls and all the strength of Rome being now opposed to
 Hannibal, made it sufficiently obvious that the Roman empire could
 either be defended by those forces, or that there was no other hope
 left. Yet the one consul being dispirited by the battle of the cavalry
@@ -6988,7 +7269,9 @@ own party. Then pursuing and retreating in doubtful battle, though
 they left it at last equal, yet the fame of the victory was more with
 the Romans than the enemy.
 
-53. But to no one did it appear more important and just than to the
+## Chapter LIII
+
+But to no one did it appear more important and just than to the
 consul himself. He was transported with joy "that he had conquered
 with that part of the forces with which the other consul had been
 defeated; that the spirits of the soldiers were restored and revived;
@@ -7034,7 +7317,9 @@ camps, had brought intelligence that the Romans were prepared for
 battle, the Carthaginian began to look about for a place for an
 ambuscade.
 
-54. Between the armies was a rivulet, bordered on each side with very
+## Chapter LIV
+
+Between the armies was a rivulet, bordered on each side with very
 high banks, and covered around with marshy plants, and with the
 brushwood and brambles with which uncultivated places are generally
 overspread; and when, riding around it, he had, with his own eyes,
@@ -7074,7 +7359,9 @@ all, on landing, were so benumbed, that they were scarcely able to
 hold their arms; and as the day advanced they began to grow faint,
 both from fatigue and hunger.
 
-55. In the mean time the soldiers of Hannibal, fires having been
+## Chapter LV
+
+In the mean time the soldiers of Hannibal, fires having been
 kindled before the tents, and oil sent through the companies to soften
 their limbs, and their food having been taken at leisure, as soon as
 it was announced that the enemy had passed the river, seized their
@@ -7118,7 +7405,9 @@ These the light infantry, posted for the purpose, turned back by
 throwing their spears; and following them up when turned, pierced them
 under the tail, where they received the wounds in the softest skin.
 
-56. Hannibal ordered the elephants, thus thrown into disorder, and
+## Chapter LVI
+
+Hannibal ordered the elephants, thus thrown into disorder, and
 almost driven by their terror against their own party, to be led away
 from the centre of the line to its extremity against the auxiliary
 Gauls on the left wing. In an instant they occasioned unequivocal
@@ -7151,7 +7440,9 @@ silently led by the consul Scipio to Placentia, thence transported
 across the Po to Cremona, lest one colony should be too much burdened
 by the winter quarters of two armies.
 
-57. Such terror on account of this disaster was carried to Rome, that
+## Chapter LVII
+
+Such terror on account of this disaster was carried to Rome, that
 they believed that the enemy was already approaching the city with
 hostile standards, and that they had neither hope nor aid by which
 they might repel his attack from the gates and walls. One consul
@@ -7204,7 +7495,9 @@ every kind of lust, barbarity, and inhuman insolence was exhibited
 towards that unhappy people. Such were the expeditions of Hannibal
 during the winter.
 
-58. For a short time after, while the cold continued intolerable, rest
+## Chapter LVIII
+
+For a short time after, while the cold continued intolerable, rest
 was given to the soldiers; and having set out from his winter quarters
 on the first and uncertain indications of spring, he leads them into
 Etruria, intending to gain that nation to his side, like the Gauls and
@@ -7241,7 +7534,9 @@ for two days in that place. Many men and beasts of burden, and also
 seven elephants, of those which had remained from the battle fought at
 the Trebia, were destroyed.
 
-59. Having descended from the Apennines, he moved his camp back
+## Chapter LIX
+
+Having descended from the Apennines, he moved his camp back
 towards Placentia, and having proceeded as far as ten miles, took up
 his station. On the following day he leads out twelve thousand
 infantry and five thousand cavalry against the enemy. Nor did
@@ -7279,7 +7574,9 @@ sons of senators, are delivered up to Hannibal when coming among the
 Ligurians, in order that he might feel more convinced that the peace
 and alliance with them would be binding.
 
-60. While these things are transacting in Italy, Cneius Cornelius
+## Chapter LX
+
+While these things are transacting in Italy, Cneius Cornelius
 Scipio having been sent into Spain with a fleet and army, when,
 setting out from the mouth of the Rhone, and sailing past the
 Pyrenaean mountains, he had moored his fleet at Emporiae, having there
@@ -7311,7 +7608,9 @@ was serving with Hannibal in Italy, having been left on this side the
 Pyrenees, that the baggage might not be cumbrous to those who conveyed
 it.
 
-61. Before any certain news of this disaster arrived, Hasdrubal,
+## Chapter LXI
+
+Before any certain news of this disaster arrived, Hasdrubal,
 having passed the Iberus with eight thousand foot and a thousand
 horse, intending to meet the Romans on their first approach, after he
 heard of the ruin of their affairs at Scissis, and the loss of the
@@ -7353,7 +7652,9 @@ when Amusitus, their leader, had fled to Hasdrubal, they are
 surrendered, on condition of paying twenty talents of silver. They
 then returned into winter quarters at Tarraco.
 
-62. At Rome during this winter many prodigies either occurred about the
+## Chapter LXII
+
+At Rome during this winter many prodigies either occurred about the
 city, or, as usually happens when the minds of men are once inclined
 to superstition, many were reported and readily believed; among which
 it was said that an infant of good family, only six months old, had
@@ -7389,7 +7690,9 @@ same state for ten years. These things, thus expiated and vowed
 according to the Sibylline books, relieved, in a great degree, the
 public mind from superstitious fears.
 
-63. Flaminius, one of the consuls elect, to whom the legions which
+## Chapter LXIII
+
+Flaminius, one of the consuls elect, to whom the legions which
 were wintering at Placentia had fallen by lot, sent an edict and
 letter to the consul, desiring that those forces should be ready in
 camp at Ariminum on the ides of March. He had a design to enter on the
@@ -7482,7 +7785,9 @@ Varro, and thank him for not having despaired of the commonwealth._
 
        *        *        *        *        *
 
-1. Spring was now at hand, when Hannibal quitted his winter quarters,
+## Chapter I
+
+Spring was now at hand, when Hannibal quitted his winter quarters,
 having both attempted in vain to cross the Apennines, from the
 intolerable cold, and having remained with great danger and alarm. The
 Gauls, whom the hope of plunder and spoil had collected, when, instead
@@ -7555,7 +7860,9 @@ was made through the city, that the Saturnalia should be kept for a
 day and a night; and the people were commanded to account that day as
 a holiday, and observe it for ever.
 
-2. While the consul employs himself at Rome in appeasing the gods and
+## Chapter II
+
+While the consul employs himself at Rome in appeasing the gods and
 holding the levy, Hannibal, setting out from his winter quarters,
 because it was reported that the consul Flaminius had now arrived at
 Arretium, although a longer but more commodious route was pointed out
@@ -7592,7 +7899,9 @@ nocturnal damps, the marshy atmosphere disordering his head, and
 because he had neither opportunity nor leisure for remedies, loses one
 of them.
 
-3. Many men and cattle having been lost thus wretchedly, when at
+## Chapter III
+
+Many men and cattle having been lost thus wretchedly, when at
 length he had emerged from the marshes, he pitched his camp as soon as
 he could on dry ground. And here he received information, through the
 scouts sent in advance, that the Roman army was round the walls of
@@ -7647,7 +7956,9 @@ while the soldiery in general were elated by the confidence of their
 leader, since they regarded merely the hope he entertained, and not
 the reasons of the hope.
 
-4. Hannibal lays waste the country between the city Cortona and the
+## Chapter IV
+
+Hannibal lays waste the country between the city Cortona and the
 lake Trasimenus, with all the devastation of war, the more to
 exasperate the enemy to revenge the injuries inflicted on his allies.
 They had now reached a place formed by nature for an ambuscade, where
@@ -7678,7 +7989,9 @@ himself surrounded before he could well see the enemy; and the attack
 on the front and flank had commenced ere his line could be well
 formed, his arms prepared for action, or his swords unsheathed.
 
-5. The consul, while all were panic-struck, himself sufficiently
+## Chapter V
+
+The consul, while all were panic-struck, himself sufficiently
 undaunted though in so perilous a case, marshals, as well as the time
 and place permitted, the lines which were thrown into confusion by
 each man's turning himself towards the various shouts; and wherever he
@@ -7715,7 +8028,9 @@ earthquake which threw down large portions of many of the cities of
 Italy, turned rivers from their rapid courses, carried the sea up into
 rivers, and levelled mountains with a tremendous crash.
 
-6. The battle was continued near three hours, and in every quarter
+## Chapter VI
+
+The battle was continued near three hours, and in every quarter
 with fierceness; around the consul, however, it was still hotter and
 more determined. Both the strongest of the troops, and himself too,
 promptly brought assistance wherever he perceived his men hard pressed
@@ -7760,7 +8075,9 @@ them depart with single garments, if they would deliver up their arms,
 they surrendered themselves; which promise was kept by Hannibal with
 Punic fidelity, and he threw them all into chains.
 
-7. This is the celebrated battle at the Trasimenus, and recorded among
+## Chapter VII
+
+This is the celebrated battle at the Trasimenus, and recorded among
 the few disasters of the Roman people. Fifteen thousand Romans were
 slain in the battle. Ten thousand, who had been scattered in the
 flight through all Etruria, returned to the city by different roads.
@@ -7809,7 +8126,9 @@ his return. The praetors detained the senators in the house for
 several days from sunrise to sunset, deliberating under whose conduct
 and by what forces, the victorious Carthaginians could be opposed.
 
-8. Before their plans were sufficiently determined another unexpected
+## Chapter VIII
+
+Before their plans were sufficiently determined another unexpected
 defeat is reported: four thousand horse, sent under the conduct of C.
 Centenius, propraetor, by Servilius to his colleague, were cut off by
 Hannibal in Umbria, to which place, on hearing of the battle at
@@ -7837,7 +8156,9 @@ down the bridges of the river, considering that they must now fight at
 home in defence of their city, since they were unable to protect
 Italy.
 
-9. Hannibal, marching directly through Umbria, arrived at Spoletum,
+## Chapter IX
+
+Hannibal, marching directly through Umbria, arrived at Spoletum,
 thence, having completely devastated the adjoining country, and
 commenced an assault upon the city, having been repulsed with great
 loss and conjecturing from the strength of this one colony, which had
@@ -7876,7 +8197,9 @@ of the war would occupy Fabius, the senate orders Marcus Aemilius, the
 praetor, to see that all these things are done in good time, according
 to the directions of the college of pontiffs.
 
-10. These decrees of the senate having been passed, Lucius Cornelius
+## Chapter X
+
+These decrees of the senate having been passed, Lucius Cornelius
 Lentulus, pontifex maximus, the college of praetors consulting with
 him, gives his opinion that, first of all, the people should be
 consulted respecting a sacred spring: that it could not be without the
@@ -7918,7 +8241,9 @@ the prophetic books, that he should vow it who held the highest
 authority in the state. Titus Otacilius, the praetor vowed a temple to
 Mens.
 
-11. Divine things having been thus performed, the dictator then put
+## Chapter XI
+
+Divine things having been thus performed, the dictator then put
 the question of the war and the state; with what, and how many legions
 the fathers were of opinion that the victorious enemy should be
 opposed. It was decreed that he should receive the army from Cneius
@@ -7952,7 +8277,9 @@ age, had taken the oath. Of these troops levied in the city, such as
 were under thirty-five were put on board ships, the rest were left to
 protect the city.
 
-12. The dictator, having received the troops of the consul from
+## Chapter XII
+
+The dictator, having received the troops of the consul from
 Fulvius Flaccus, his lieutenant-general, marching through the Sabine
 territory, arrived at Tibur on the day which he had appointed the
 new-raised troops to assemble. Thence he went to Praeneste, and
@@ -8000,7 +8327,9 @@ which bordered on his virtues; and raised himself by means of
 depressing his superiors, which, though a most iniquitous practice,
 has become more general from the too great successes of many.
 
-13. Hannibal crosses over from the Hirpini into Samnium; lays waste
+## Chapter XIII
+
+Hannibal crosses over from the Hirpini into Samnium; lays waste
 the territory of Beneventum; takes the town of Telesia; and purposely
 irritates the dictator, if perchance he could draw him down to a
 battle on the plain, exasperated by so many indignities and disasters
@@ -8040,7 +8369,9 @@ because they lived under a temperate and mild government: nor were
 they unwilling to submit to those who were superior to them, which is
 the only bond of fidelity.
 
-14. But when the enemy's camp was pitched on the Vulturnus, and the
+## Chapter XIV
+
+But when the enemy's camp was pitched on the Vulturnus, and the
 most delightful country in Italy was being consumed by fire, and the
 farm-houses, on all hands, were smoking from the flames, whilst Fabius
 led his troops along the heights of Mount Massicus, then the strife
@@ -8103,7 +8434,9 @@ question been submitted to the votes of the soldiers, they showed
 evidently that they would have preferred Minucius to Fabius for their
 general.
 
-15. Fabius, keeping his attention fixed no less upon his own troops
+## Chapter XV
+
+Fabius, keeping his attention fixed no less upon his own troops
 than on the enemy, first shows that his resolution was unconquered by
 the former. Though he well knew that his procrastination was
 disapproved, not only in his own camp, but by this time even at Rome,
@@ -8149,7 +8482,9 @@ of the horse, uniting their forces, lead them down into the road
 through which Hannibal was about to march his troops. The enemy was
 two miles from that place.
 
-16. The following day the Carthaginians filled the whole road between
+## Chapter XVI
+
+The following day the Carthaginians filled the whole road between
 the two camps with his troops in marching order; and though the Romans
 had taken their stand immediately under their rampart, having a
 decidedly superior position, yet the Carthaginian came up with his
@@ -8180,7 +8515,9 @@ of driving to the mountains that herd, after having set fire to their
 horns, as soon as ever it was dark; particularly, if he could, over
 the passes beset by the enemy.
 
-17. As soon as it was dark the camp was moved in silence; the oxen
+## Chapter XVII
+
+As soon as it was dark the camp was moved in silence; the oxen
 were driven a little in advance of the standards. When they arrived at
 the foot of the mountains and the narrow passes, the signal is
 immediately given for setting fire to their horns and driving them
@@ -8208,7 +8545,9 @@ Meanwhile Hannibal, having marched his whole army through the pass,
 and having cut off some of the enemy in the very defile, pitches his
 camp in the country of Allifae.
 
-18. Fabius perceived this tumult, but concluding that it was a snare,
+## Chapter XVIII
+
+Fabius perceived this tumult, but concluding that it was a snare,
 and being disinclined for a battle, particularly by night, kept his
 troops within the works. At break of day a battle took place under the
 summit of the mountain, in which the Romans, who were considerably
@@ -8244,7 +8583,9 @@ ceased to be conquered by an enemy so often victorious, and to have
 taken breath after successive disasters. Having thus unavailingly
 admonished the master of the horse, he set out for Rome.
 
-19. In the beginning of the summer in which these events occurred, the
+## Chapter XIX
+
+In the beginning of the summer in which these events occurred, the
 war commenced by land and sea in Spain also. To the number of ships
 which he had received from his brother, equipped and ready for action,
 Hasdrubal added ten. The fleet of forty ships he delivered to Himilco:
@@ -8296,7 +8637,9 @@ some armed and some unarmed, they escaped to their friends, who were
 drawn up in battle-array over the shore. Two Carthaginian ships were
 captured and four sunk on the first encounter.
 
-20. The Romans, though the enemy was master of the shore, and they saw
+## Chapter XX
+
+The Romans, though the enemy was master of the shore, and they saw
 armed troops lining the whole bank, promptly pursuing the discomfited
 fleet of the enemy, towed out into the deep all the ships which had
 not either shattered their prows by the violence with which they
@@ -8330,7 +8673,9 @@ therefore, relying sufficiently on his land forces also, advanced as
 far as the pass of Castulo. Hasdrubal retired into Lusitania, and
 nearer the ocean.
 
-21. After this, it seemed probable that the remainder of the summer
+## Chapter XXI
+
+After this, it seemed probable that the remainder of the summer
 would be peaceful; and so it would have been with regard to the Punic
 enemy: but besides that the tempers of the Spaniards themselves are
 naturally restless, and eager for innovation, Mandonius, together with
@@ -8353,7 +8698,9 @@ after that, encountering Hasdrubal himself in two battles with,
 splendid success, slew fifteen thousand and captured four thousand,
 together with many military standards.
 
-22. This being the state of affairs in Spain, Publius Scipio came into
+## Chapter XXII
+
+This being the state of affairs in Spain, Publius Scipio came into
 his province, having been sent thither by the senate, his command
 being continued to him after his consulate, with thirty long ships,
 eight thousand soldiers, and a large importation of provisions. That
@@ -8430,7 +8777,9 @@ revolt; and hostilities would immediately have commenced, had not the
 winter intervened, which compelled the Romans, and the Carthaginians
 also, to retire to shelter.
 
-23. Such were the transactions in Spain also during the second summer
+## Chapter XXIII
+
+Such were the transactions in Spain also during the second summer
 of the Punic war; while in Italy the prudent delay of Fabius had
 procured the Romans some intermission from disasters; which conduct,
 as it kept Hannibal disturbed with no ordinary degree of anxiety, for
@@ -8467,7 +8816,9 @@ readiness, he himself remained on guard, both as a protection to his
 camp, and for the purpose of looking out, if from any quarter an
 attack should be made upon his foragers.
 
-24. The Roman army was at that time in the territory of Larinum.
+## Chapter XXIV
+
+The Roman army was at that time in the territory of Larinum.
 Minucius, the master of the horse, had the command of it; the
 dictator, as was before mentioned, having gone to the city. But the
 camp, which had been pitched in an elevated and secure situation, was
@@ -8517,7 +8868,9 @@ thousand of the Romans; but that though the loss was so nearly equal,
 intelligence was conveyed to Rome of a signal victory; and a letter
 from the master of the horse still more presumptuous.
 
-25. These things were very frequently discussed, both in the senate
+## Chapter XXV
+
+These things were very frequently discussed, both in the senate
 and assemblies. When the dictator alone, while joy pervaded the city,
 attached no credit to the report or letter; and granting that all were
 true, affirmed that he feared more from success than failure; then
@@ -8576,7 +8929,9 @@ sprung not only from humble but mean parentage. They report that his
 father was a butcher, the retailer of his own meat, and that he
 employed this very son in the servile offices of that trade.
 
-26. This young man, when a fortune left him by his father, acquired in
+## Chapter XXVI
+
+This young man, when a fortune left him by his father, acquired in
 such a traffic, had inspired him with the hope of a higher condition,
 and the gown and forum were the objects of his choice, by declaiming
 vehemently in behalf of men and causes of the lowest kind, in
@@ -8597,7 +8952,9 @@ satisfied that an equal share of military skill was not imparted
 together with the equal share of command, he returned to the army with
 a mind unsubdued alike by his fellow-citizens and by the enemy.
 
-27. But Minucius, who, in consequence of his success and the favour of
+## Chapter XXVII
+
+But Minucius, who, in consequence of his success and the favour of
 the populace, was scarcely endurable before now especially,
 unrestrained by shame or moderation, boasted not more in having
 conquered Hannibal than Quintus Fabius. "That he, who had been sought
@@ -8634,7 +8991,9 @@ equally between them the cavalry, the auxiliaries of the allies and of
 the Latin name. The master of the horse was desirous also that they
 should have separate camps.
 
-28. From this Hannibal derived a twofold joy, for nothing which was
+## Chapter XXVIII
+
+From this Hannibal derived a twofold joy, for nothing which was
 going on among the enemy escaped him, the deserters revealing many
 things, and he himself examining by his own scouts. For he considered
 that he should be able to entrap the unrestrained temerity of Minucius
@@ -8680,7 +9039,9 @@ the troops in ambush created such confusion and alarm, by charging
 them on both flanks and on their rear, that no one had spirit enough
 left to fight, or hope enough to try to escape.
 
-29. Then Fabius, first having heard the shout of the terrified troops,
+## Chapter XXIX
+
+Then Fabius, first having heard the shout of the terrified troops,
 and then having gotten a view of their disordered line, exclaims, "It
 is so; and no sooner than I feared, has adverse fortune overtaken
 temerity. Equalled to Fabius in command, he sees that Hannibal is
@@ -8718,7 +9079,9 @@ those men as patrons, whose arms and right-hands just now protected
 you: and if this day has conferred nothing else upon us, it hath at
 least conferred upon us the glory of possessing grateful hearts."
 
-30. The signal being given, there was a general call to collect the
+## Chapter XXX
+
+The signal being given, there was a general call to collect the
 baggage: then setting out, and proceeding in order of march to the
 dictator's camp, they excited at once the surprise of the dictator
 himself and all around him. When the standards were planted before the
@@ -8753,7 +9116,9 @@ also, that Hannibal said, as he returned from the field that at length
 that cloud, which was used to settle on the tops of the mountains, had
 sent down a shower with a storm.
 
-31. While these events occur in Italy, Cneius Servilius Geminus, the
+## Chapter XXXI
+
+While these events occur in Italy, Cneius Servilius Geminus, the
 consul, having sailed round the coast of Sardinia and Corsica with a
 fleet of one hundred and twenty ships, and received hostages from both
 places, crossed over into Africa, and before he made a descent upon
@@ -8788,7 +9153,9 @@ achievements, his singular renown as a general, and his descendants,
 who exaggerated the inscription of his statue, easily brought it about
 that he should be called dictator, instead of prodictator.
 
-32. The consuls, Atilius and Geminus Servilius, having received, the
+## Chapter XXXII
+
+The consuls, Atilius and Geminus Servilius, having received, the
 former the army of Fabius, the latter that of Minucius, and fortified
 their winter quarters in good time, (it was the close of the autumn,)
 carried on the war with the most perfect unanimity, according to the
@@ -8822,7 +9189,9 @@ by its intrinsic worth." Thanks were given to the ambassadors for
 their munificence and attention, and the goblet of least weight was
 accepted.
 
-33. During the same days a Carthaginian spy, who had escaped for two
+## Chapter XXXIII
+
+During the same days a Carthaginian spy, who had escaped for two
 years, was apprehended at Rome, and his hands having been cut off, was
 let go: and twenty-five slaves were crucified for forming a conspiracy
 in the Campus Martius; his liberty was given to the informer, and
@@ -8858,7 +9227,9 @@ These having been created with some defect, they were ordered to give
 up their appointment on the fourteenth day; and the state came to an
 interregnum.
 
-34. To the consuls the authority was continued for a year longer.
+## Chapter XXXIV
+
+To the consuls the authority was continued for a year longer.
 Caius Claudius Centho, son of Appius, and then Publius Cornelius
 Asina, were appointed interreges by the fathers. During the
 interregnum of the latter the election was held with a violent contest
@@ -8904,7 +9275,9 @@ unbiassed disposal, and that they would confer it on that man who
 would rather conquer in reality than lengthen the term of his
 command."
 
-35. When the people had been inflamed by these harangues, though there
+## Chapter XXXV
+
+When the people had been inflamed by these harangues, though there
 were three patrician candidates for the consulship, Publius Cornelius
 Merenda, Lucius Manlius Vulso, and Marcus Aemilius Lepidus, two of
 plebeian families, who had been ennobled, Caius Atilius Serranus and
@@ -8930,7 +9303,9 @@ Terentius, several brave and able men having been passed over,
 because, at such a juncture, it did not appear advisable that a new
 office should be committed to any one.
 
-36. The forces also were augmented. But how great was the augmentation
+## Chapter XXXVI
+
+The forces also were augmented. But how great was the augmentation
 of infantry and cavalry authors vary so much, that I scarcely dare
 positively assert. Some state, that ten thousand soldiers were levied
 as a reinforcement; others, four fresh legions, that there might be
@@ -8958,7 +9333,9 @@ according to the books. Ambassadors from Paestum brought some golden
 goblets to Rome; they were thanked, as the Neapolitans were, but the
 gold was not accepted.
 
-37. During the same time a fleet from Hiero arrived at Ostia with a
+## Chapter XXXVII
+
+During the same time a fleet from Hiero arrived at Ostia with a
 large cargo of supplies. The Syracusan ambassadors, on being
 introduced into the senate, delivered this message: "That king Hiero
 was so much affected at the slaughter announced to him of Caius
@@ -9004,7 +9381,9 @@ proprietor had in Sicily, twenty-five quinqueremes were added, and
 permission was given him, if he thought it for the interest of the
 state to pass over into Africa.
 
-38. The levy completed, the consuls waited a few days, till the allies
+## Chapter XXXVIII
+
+The levy completed, the consuls waited a few days, till the allies
 of the Latin confederacy arrived. At this time the soldiers were bound
 by an oath, which had never before been the case, dictated by the
 military tribunes, that they would assemble at the command of the
@@ -9040,7 +9419,9 @@ appeared, that he would prefer safe to precipitate counsels; but that
 he might persevere the more constantly in this, Quintus Fabius Maximus
 is reported to have thus addressed him on his departure.
 
-39. "If you either had a colleague like yourself, Lucius Aemilius,
+## Chapter XXXIX
+
+"If you either had a colleague like yourself, Lucius Aemilius,
 which is what I should prefer, or you were like your colleague, an
 address from me would be superfluous. For were you both good consuls,
 you would do every thing for the good of the state from your own sense
@@ -9116,7 +9497,9 @@ neither be wanting when a favourable opportunity presents itself, nor
 give any favourable opportunity to the enemy. All things are clear and
 sure to the deliberate man. Precipitation is improvident and blind."
 
-40. The address of the consul in reply was by no means cheerful,
+## Chapter XL
+
+The address of the consul in reply was by no means cheerful,
 admitting that what he said was true, rather than easy to put in
 practice. He said, "That to him, as dictator, his master of the horse
 was unbearable: what power or influence could a consul have against a
@@ -9146,7 +9529,9 @@ afterwards discovered, there scarcely remained corn enough for ten
 days, and the Spaniards would have passed over to the enemy, through
 want of food, if the completion of that time had been awaited.
 
-41. But fortune afforded materials also to the headstrong and
+## Chapter XLI
+
+But fortune afforded materials also to the headstrong and
 precipitate disposition of the consul, for in checking the plundering
 parties a battle having taken place, of a tumultuary kind, and
 occasioned rather by a disorderly advance of the soldiers, than by a
@@ -9179,7 +9564,9 @@ their places by the appearance of a camp, until he could himself
 escape to a greater distance, in the same manner as he had deceived
 Fabius the year before.
 
-42. When it was day, the outpost withdrawn first occasioned surprise,
+## Chapter XLII
+
+When it was day, the outpost withdrawn first occasioned surprise,
 then, on a nearer approach, the unusual stillness. At length, the
 desertion being manifest, there is a general rush to the pavilions of
 the consuls, of those who announced the flight of the enemy so
@@ -9221,7 +9608,11 @@ consuls, inform them that the whole army of Hannibal was lying in
 ambush on the other side of the adjoining mountains. The seasonable
 arrival of these men restored the consuls to their authority, when the
 ambition of one of them had relaxed his influence with the soldiers,
-by an undignified compliance.43. Hannibal, perceiving that the Romans
+by an undignified compliance.
+
+## Chapter XLIII
+
+Hannibal, perceiving that the Romans
 had been indiscreetly prompted rather than rashly carried to a
 conclusion, returned to his camp without effecting any thing, as his
 stratagem was discovered. He could not remain there many days, in
@@ -9259,7 +9650,9 @@ protection to them when they formed their line; as they, with the wind
 blowing only on their backs, would combat with an enemy blinded with
 the thickly blown dust.
 
-44. When the consuls, employing sufficient diligence in exploring the
+## Chapter XLIV
+
+When the consuls, employing sufficient diligence in exploring the
 road in pursuit of the Carthaginian, had arrived at Cannae, where they
 had the enemy in the sight of them, having divided their forces, they
 fortify two camps with nearly the same interval as before, at
@@ -9287,7 +9680,9 @@ exempt from any blame, though the sharer of all the consequences. That
 he must take care that their hands were equally energetic in the
 battle whose tongues were so forward and impetuous."
 
-45. While time is thus consumed in altercation rather than
+## Chapter XLV
+
+While time is thus consumed in altercation rather than
 deliberating, Hannibal, who had kept his troops drawn up in order of
 battle till late in the day, when he had led the rest of them back
 into the camp, sends Numidians across the river to attack a watering
@@ -9313,7 +9708,9 @@ of the light-armed auxiliaries, formed the van. The consuls commanded
 the wings; Terentius the left, Aemilius the right. To Geminus Sevilius
 was committed the charge of maintaining the battle in the centre.
 
-46. Hannibal, at break of day, having sent before him the Baliares and
+## Chapter XLVI
+
+Hannibal, at break of day, having sent before him the Baliares and
 other light-armed troops, crossed the river, and placed his troops in
 line of battle, as he had conveyed them across the river. The Gallic
 and Spanish cavalry he placed in the left wing, opposite the Roman
@@ -9341,7 +9738,9 @@ chance. The wind, which the inhabitants of the district call the
 Vulturnus, blowing violently in front of the Romans, prevented their
 seeing far by rolling clouds of dust into their faces.
 
-47. The shout being raised, the auxiliaries charged, and the battle
+## Chapter XLVII
+
+The shout being raised, the auxiliaries charged, and the battle
 commenced in the first place with the light-armed troops: then the
 left wing, consisting of the Gallic and Spanish cavalry, engages with
 the Roman right wing, by no means in the manner of a cavalry battle;
@@ -9379,7 +9778,9 @@ because being hemmed in they had to fight against troops who surrounded
 them, but also because, fatigued, they fought with those who were fresh
 and vigorous.
 
-48. Now also in the left wing of the Romans, in which the allied
+## Chapter XLVIII
+
+Now also in the left wing of the Romans, in which the allied
 cavalry were opposed to the Numidians, the battle was joined, which
 was at first languid, commencing with a stratagem on the part of the
 Carthaginians. About five hundred Numidians, who, besides their usual
@@ -9402,7 +9803,9 @@ conflict with their opponents was slight, sends them in pursuit of the
 scattered fugitives, and joining the Africans, now almost weary with
 slaying rather than fighting the Spanish and Gallic infantry.
 
-49. On the other side of the field, Paulus, though severely wounded
+## Chapter XLIX
+
+On the other side of the field, Paulus, though severely wounded
 from a sling in the very commencement of the battle, with a compact
 body of troops, frequently opposed himself to Hannibal, and in several
 quarters restored the battle, the Roman cavalry protecting him; who,
@@ -9457,7 +9860,9 @@ elected into the senate, and who had voluntarily enrolled themselves
 in the legions. Three thousand infantry and three hundred cavalry are
 said to have been captured in that battle.
 
-50. Such is the battle of Cannae, equal in celebrity to the defeat at
+## Chapter L
+
+Such is the battle of Cannae, equal in celebrity to the defeat at
 the Allia: but as it was less important in respect to those things
 which happened after it, because the enemy did not follow up the blow,
 so was it more important and more horrible with respect to the
@@ -9501,7 +9906,9 @@ their tempers, which his own disposition or which accident gave to
 each, rather than in consequence of any deliberate plan of their own,
 or in obedience to the command of any one.
 
-51. When all others, surrounding the victorious Hannibal,
+## Chapter LI
+
+When all others, surrounding the victorious Hannibal,
 congratulated him, and advised that, having completed so great a
 battle, he should himself take the remainder of the day and the
 ensuing night for rest, and grant it to his exhausted troops;
@@ -9537,7 +9944,9 @@ hands were powerless to grasp his weapon, turning from rage to
 madness, he had died in the act of tearing his antagonist with his
 teeth.
 
-52. The spoils having been gathered for a great part of the day,
+## Chapter LII
+
+The spoils having been gathered for a great part of the day,
 Hannibal leads his troops to storm the lesser camp, and, first of all,
 interposing a trench, cuts it off from the river. But as the men were
 fatigued with toil, watching, and wounds, a surrender was made sooner
@@ -9568,7 +9977,9 @@ distinguished for her family and riches; in return for which
 munificence, the senate afterwards, when the war was concluded,
 conferred honours upon her.
 
-53. But, though there were four military tribunes there, Fabius
+## Chapter LIII
+
+But, though there were four military tribunes there, Fabius
 Maximus of the first legion, whose father had been dictator the former
 year; and of the second legion, Lucius Publicius Bibulus and Publius
 Cornelius Scipio; and of the third legion, Appius Claudius Pulcher,
@@ -9605,7 +10016,9 @@ that this sword is drawn against him." Terrified, as though they were
 beholding the victorious Hannibal, they all take the oath, and deliver
 themselves to Scipio to be kept in custody.
 
-54. During the time in which these things were going on at Canusium,
+## Chapter LIV
+
+During the time in which these things were going on at Canusium,
 as many as four thousand foot and horse, who had been dispersed
 through the country in the flight, came to Venusia, to the consul.
 These the Venusini distributed throughout their families, to be kindly
@@ -9644,7 +10057,9 @@ shall I compare with it the defeat in Africa under which this same
 Hannibal afterwards sunk? In no respect are they comparable, except
 that they were endured with less fortitude.
 
-55. Publius Furius Philus and Manius Pomponius, the praetors,
+## Chapter LV
+
+Publius Furius Philus and Manius Pomponius, the praetors,
 assembled the senate in the curia hostilia, that they might deliberate
 about the guarding of the city; for they doubted not but that the
 enemy, now their armies were annihilated, would come to assault Rome,
@@ -9675,7 +10090,9 @@ the walls and the city. That when the tumult had subsided the fathers
 should be called again to the senate-house, and deliberate on the
 defence of the city."
 
-56. When all had signified their approbation of this opinion, and
+## Chapter LVI
+
+When all had signified their approbation of this opinion, and
 after the crowd had been removed by the magistrates from the forum,
 and the senators had proceeded in different directions to allay the
 tumult; then at length a letter is brought from the consul Terentius,
@@ -9704,7 +10121,9 @@ they might immediately attack Lilybaeum and other parts of the Roman
 province; that he therefore needed a fleet, if they wished him to
 protect the king their ally, and Sicily."
 
-57. The letters of the consul and the propraetor having been read,
+## Chapter LVII
+
+The letters of the consul and the propraetor having been read,
 they resolved that Marcus Claudius, who commanded the fleet stationed
 at Ostia, should be sent to the army to Canusium; and a letter be
 written to the consul, to the effect that, having delivered the army
@@ -9750,7 +10169,9 @@ whether he was willing to serve. They preferred this description of
 troops, though they had the power of redeeming the captives at a less
 expense.
 
-58. For Hannibal, after so great a victory at Cannae, being occupied
+## Chapter LVIII
+
+For Hannibal, after so great a victory at Cannae, being occupied
 with the cares of a conqueror, rather than one who had a war to
 prosecute, the captives having been brought forward and separated,
 addressed the allies in terms of kindness, as he had done before at
@@ -9780,7 +10201,9 @@ had arrived at Rome, a lictor was despatched to meet Carthalo, to tell
 him, in the words of the dictator, to depart from the Roman
 territories before night.
 
-59. An audience of the senate was granted by the dictator to the
+## Chapter LIX
+
+An audience of the senate was granted by the dictator to the
 delegates of the prisoners. The chief of them, Marcus Junius, thus
 spoke: "There is not one of us, conscript fathers, who is not aware
 that there never was a nation which held prisoners in greater contempt
@@ -9850,7 +10273,9 @@ the danger which threatens my reputation affects me most, if we should
 go away rejected and condemned by you; for men will never suppose that
 you grudged the price of our redemption."
 
-60. When he had finished his address, the crowd of persons in the
+## Chapter LX
+
+When he had finished his address, the crowd of persons in the
 comitium immediately set up a loud lamentation, and stretched out
 their hands to the senate, imploring them to restore to them their
 children, their brothers, and their kinsmen. Their fears and affection
@@ -9960,7 +10385,9 @@ Hannibal, who sallied from the camp through the midst of the enemy,
 and, with the most distinguished courage, restored themselves to their
 country."
 
-61. After Manlius had thus spoken, notwithstanding the captives were
+## Chapter LXI
+
+After Manlius had thus spoken, notwithstanding the captives were
 related to many even of the senators, besides the practice of the
 state, which had never shown favour to captives, even from the
 remotest times, the sum of money also influenced them: for they were
@@ -10035,7 +10462,9 @@ revived as to the results of the war._
 
        *        *        *        *        *
 
-1. After the battle of Cannae, Hannibal, having captured and plundered
+## Chapter I
+
+After the battle of Cannae, Hannibal, having captured and plundered
 the Roman camp, had immediately removed from Apulia into Samnium;
 invited into the territory of the Hirpini by Statius, who promised
 that he would surrender Compsa. Tiebius, a native of Compsa, was
@@ -10068,7 +10497,9 @@ cavalry, fell when pursuing the retreating enemy too eagerly. The
 sight of the walls, which were not favourable to a besieging force,
 deterred the Carthaginian from storming the city.
 
-2. Thence he turned his course to Capua, which was wantoning under a
+## Chapter II
+
+Thence he turned his course to Capua, which was wantoning under a
 long course of prosperity, and the indulgence of fortune: amid the
 general corruption, however, the most conspicuous feature was the
 extravagance of the commons, who exercised their liberty without
@@ -10106,7 +10537,9 @@ take whatever pledge you please." Having given his honour, he went
 out; and having ordered the house to be closed, placed a guard in the
 lobby that no one might enter or leave it without his leave.
 
-3. Then assembling the people, he thus addressed them: "What you have
+## Chapter III
+
+Then assembling the people, he thus addressed them: "What you have
 so often wished for, Campanians, the power of punishing an
 unprincipled and detestable senate, you now have, not at your own
 imminent peril, by riotously storming the houses of each, which are
@@ -10151,7 +10584,9 @@ the assembly separated, affirming that every evil which was most known
 was easiest to be endured, and ordering the senate to be discharged
 from custody.
 
-4. Pacuvius, having thus rendered the senators more subservient to
+## Chapter IV
+
+Pacuvius, having thus rendered the senators more subservient to
 himself than to the commons by the gift of their lives, ruled without
 the aid of arms, all persons now acquiescing. Henceforward the
 senators, forgetful of their rank and independence, flattered the
@@ -10178,7 +10613,9 @@ the Roman armies, particularly three hundred horsemen, the flower of
 the Campanian nobility, had been selected and sent by the Romans to
 garrison the cities of Sicily.
 
-5. The parents and relations of these men with difficulty obtained
+## Chapter V
+
+The parents and relations of these men with difficulty obtained
 that ambassadors should be sent to the Roman consul. The consul, who
 had not yet set out for Canusium, they found at Venusia with a few
 half-armed troops, an object of entire commiseration to faithful, but
@@ -10234,7 +10671,9 @@ Campania. You have already abundance of money and corn. If your zeal
 corresponds with your means, neither will Hannibal feel that he has
 been victorious, nor the Romans that they have been defeated."
 
-6. After the consul had thus spoken, the ambassadors were dismissed;
+## Chapter VI
+
+After the consul had thus spoken, the ambassadors were dismissed;
 and as they were returning home, one of them, named Vibius Virius,
 observed, "that the time had arrived at which the Campanians might not
 only recover the territory once injuriously taken away by the Romans,
@@ -10262,7 +10701,9 @@ formerly made, and as Coelius and other writers had, not without
 reason, made no mention of it, I have not ventured to vouch for its
 truth.
 
-7. The ambassadors came to Hannibal and concluded a treaty of peace
+## Chapter VII
+
+The ambassadors came to Hannibal and concluded a treaty of peace
 with him on the terms, "That no Carthaginian commander should have any
 authority over a Campanian citizen, nor any Campanian serve in war or
 perform any office against his will: that Capua should have her own
@@ -10317,7 +10758,9 @@ naturally extremely prone to anger, yet, that he might not deny them
 any thing at first, he spent a great part of the day in inspecting the
 city.
 
-8. He lodged at the house of the Ninii Celeres, Stenius and Pacuvius,
+## Chapter VIII
+
+He lodged at the house of the Ninii Celeres, Stenius and Pacuvius,
 men distinguished by their noble descent and their wealth. Thither
 Pacuvius Calavius, of whom mention has already been made, who was the
 head of the party which had drawn over the state to the Carthaginian
@@ -10353,7 +10796,9 @@ with Rome with the blood of Hannibal. I was desirous that you should
 be informed of it first, in case you might prefer to be absent while
 the deed is performing."
 
-9. On hearing and seeing which the old man, as though he were actually
+## Chapter IX
+
+On hearing and seeing which the old man, as though he were actually
 present at the transactions which were being named to him, wild with
 fear, exclaimed, "I implore, I beseech you, my son, by all the ties
 which unite children to parents, that you will not resolve to commit
@@ -10394,7 +10839,9 @@ said, he threw the sword into the highway over the garden wall, and
 that the affair might not be suspected, himself returned to the
 banquet.
 
-10. The next day an audience of a full senate was given to Hannibal,
+## Chapter X
+
+The next day an audience of a full senate was given to Hannibal,
 when the first part of his address was full of graciousness and
 benignity, in which he thanked the Campanians for having preferred his
 friendship to an alliance with the Romans, and held out among his
@@ -10445,7 +10892,9 @@ guest. That there was no place that he should rather dwell in, than in
 the dominions of him whom he esteemed an avenger and the protector of
 his liberty.
 
-11. While these things were carrying on, Quintus Fabius Pictor, the
+## Chapter XI
+
+While these things were carrying on, Quintus Fabius Pictor, the
 ambassador, returned from Delphi to Rome, and read the response of the
 oracle from a written copy. In it both the gods were mentioned, and in
 what manner supplication should be made. It then stated, "If you do
@@ -10489,7 +10938,9 @@ Cannae, of Italy also, had delivered itself over to Hannibal. That in
 return for these so many and so great victories, gratitude ought
 assuredly to be felt and thanks returned to the immortal gods."
 
-12. Then, in proof of this such joyful news, he ordered the golden
+## Chapter XII
+
+Then, in proof of this such joyful news, he ordered the golden
 rings to be poured out in the vestibule of the senate-house, of which
 there was such a heap that some have taken upon themselves to say that
 on being measured they filled three pecks and a half. The statement
@@ -10547,7 +10998,9 @@ answered both these questions in the negative, he continued: "there
 remains then still too large a body of the enemy. But I should be glad
 to know what degree of spirit and hope that body possesses."
 
-13. Mago declaring that he did not know; "Nothing," said he, "is
+## Chapter XIII
+
+Mago declaring that he did not know; "Nothing," said he, "is
 easier to be known. Have the Romans sent any ambassadors to Hannibal
 to treat of peace? Have you, in short, ever heard that any mention has
 been made of peace at Rome?" On his answering these questions also in
@@ -10580,7 +11033,9 @@ talents of silver. Moreover, the dictator was sent forward into Spain
 with Mago to hire twenty thousand foot and four thousand horse, to
 recruit the armies in Italy and Spain.
 
-14. But these resolutions, as generally happens in the season of
+## Chapter XIV
+
+But these resolutions, as generally happens in the season of
 prosperity, were executed in a leisurely and slothful manner. The
 Romans, in addition to their inborn activity of mind, were prevented
 from delaying by the posture of their affairs. For the consul was not
@@ -10631,7 +11086,9 @@ thence crossing the Vulturnus, and passing through the territories of
 Saticula and Trebula, pursuing his course along the mountains above
 Suessula, he arrived at Nola.
 
-15. On the approach of the Roman praetor, the Carthaginians retired
+## Chapter XV
+
+On the approach of the Roman praetor, the Carthaginians retired
 from the territory of Nola and marched down to the sea close upon
 Naples, eager to get possession of a maritime town to which there
 would be a safe course for ships from Africa. But hearing that Naples
@@ -10688,7 +11145,9 @@ of distinguished beauty, ordered the quaestor to give him five hundred
 denarii, and commanded the lictors to allow him to approach him
 whenever he might please.
 
-16. The violent spirit of the youth was so much soothed by the
+## Chapter XVI
+
+The violent spirit of the youth was so much soothed by the
 courteous treatment of Marcellus, that thenceforward no one of the
 allies displayed greater courage or fidelity in aiding the Roman
 cause. Hannibal being now at the gates, for he had moved his camp back
@@ -10752,7 +11211,9 @@ during the war, was gained on that day: for not to be vanquished by
 Hannibal was then a more difficult task to the victorious troops, than
 to conquer him afterwards.
 
-17. When Hannibal, all hope of getting possession of Nola being lost,
+## Chapter XVII
+
+When Hannibal, all hope of getting possession of Nola being lost,
 had retired to Acerrae, Marcellus, having closed the gates and posted
 guards in different quarters to prevent any one from going out,
 immediately instituted a judicial inquiry in the forum, into the
@@ -10797,7 +11258,9 @@ They formed a sufficient number of armed men for the defence of walls
 of so limited extent, and protected on one side by the river. The
 scarcity of corn made them even appear too numerous.
 
-18. Hannibal having now advanced within a short distance of the place,
+## Chapter XVIII
+
+Hannibal having now advanced within a short distance of the place,
 sent forward a body of Getulians under a commander named Isalca, and
 orders them in the first place, if an opportunity of parley should be
 given, to win them over by fair words, to open the gates, and admit a
@@ -10860,7 +11323,9 @@ of the summer campaign, a great number of them slunk away from the
 standards without furloughs, while Capua was the only retreat of the
 deserters.
 
-19. However, when the rigour of winter began to abate, marching his
+## Chapter XIX
+
+However, when the rigour of winter began to abate, marching his
 troops out of their winter quarters he returned to Casilinum; where,
 although there had been an intermission of the assault, the
 continuance of the siege had reduced the inhabitants and the garrison
@@ -10923,7 +11388,9 @@ vowed these in behalf of the soldiers who were in the garrison at
 Casilinum." The same legend was inscribed under three images placed in
 the temple of Fortune.
 
-20. The town of Casilinum was restored to the Campanians, strengthened
+## Chapter XX
+
+The town of Casilinum was restored to the Campanians, strengthened
 by a garrison of seven hundred soldiers from the army of Hannibal,
 lest on the departure of the Carthaginian from it, the Romans should
 assault it. To the Praenestine soldiers the Roman senate voted double
@@ -10961,7 +11428,9 @@ had cooled upon it, and their trepidation had somewhat subsided, the
 principal men carried their point that they should collect all their
 property out of the fields, and fortify the city and the walls.
 
-21. Much about the same time letters were brought from Sicily and
+## Chapter XXI
+
+Much about the same time letters were brought from Sicily and
 Sardinia. That of Titus Otacilius the propraetor was first read in the
 senate. It stated that Lucius Furius the praetor had arrived at
 Lilybaeum from Africa with his fleet. That he himself, having been
@@ -10993,7 +11462,9 @@ Fulvius Flaccus, in the room of Publius Scantinius deceased, and of
 Lucius Aemilius Paulus the consul, and of Quintus Aelius Paetus, who
 had fallen in the battle of Cannae.
 
-22. The fathers having repaired, as far as human counsels could effect
+## Chapter XXII
+
+The fathers having repaired, as far as human counsels could effect
 it, the other losses from a continued series of unfortunate events, at
 length turned their attention on themselves, on the emptiness of the
 senate-house, and the paucity of those who assembled for public
@@ -11038,7 +11509,9 @@ great expedition; and, according to custom, on the following night
 nominated Marcus Fabius Buteo dictator, for six months, without a
 master of the horse, in pursuance of the decree of the senate.
 
-23. He having mounted the rostrum attended by the lictors, declared,
+## Chapter XXIII
+
+He having mounted the rostrum attended by the lictors, declared,
 that he neither approved of there being two dictators at one time,
 which had never been done before, nor of his being appointed dictator
 without a master of the horse; nor of the censorian authority being
@@ -11072,7 +11545,9 @@ returned to the army the ensuing night, without acquainting the
 senate, lest he should be detained in the city on account of the
 elections.
 
-24. The next day, on the proposition of Manius Pomponius the praetor,
+## Chapter XXIV
+
+The next day, on the proposition of Manius Pomponius the praetor,
 the senate decreed that a letter should be written to the dictator, to
 the effect, that if he thought it for the interest of the state, he
 should come, together with the master of the horse and the praetor,
@@ -11126,7 +11601,9 @@ by the falling trees, yet as nothing was scattered by flight, every
 thing else was found strewed along the whole line of the prostrate
 band.
 
-25. The news of this disaster arriving, when the state had been in so
+## Chapter XXV
+
+The news of this disaster arriving, when the state had been in so
 great a panic for many days, that the shops were shut up as if the
 solitude of night reigned through the city; the senate gave it in
 charge to the aediles to go round the city, cause the shops to be
@@ -11162,7 +11639,9 @@ legions fell, might take what number of men he should have occasion
 for. The consul Caius Terentius Varro was continued in his command for
 one year, without lessening the army he had for the defence of Apulia.
 
-26. During these transactions and preparations in Italy, the war in
+## Chapter XXVI
+
+During these transactions and preparations in Italy, the war in
 Spain was prosecuted with no less vigour; but hitherto more favourably
 to the Romans. The two generals had divided their troops, so that
 Cneius acted by land, and Publius by sea. Hasdrubal, general of the
@@ -11206,7 +11685,9 @@ Spanish, nor the Moorish darters so good as the Spanish targetteers,
 who equalled them in swiftness, but were superior to them in strength
 and courage.
 
-27. The enemy seeing they could not, by coming up to Hasdrubal's camp,
+## Chapter XXVII
+
+The enemy seeing they could not, by coming up to Hasdrubal's camp,
 draw him out to a battle, nor assault it without great difficulty,
 stormed Asena, whither Hasdrubal, on entering their territories, had
 laid up his corn and other stores. By this they became masters of all
@@ -11248,7 +11729,9 @@ concern for preserving Spain, they ought to send a general with a
 powerful army to succeed him. To whom, however prosperous all things
 might prove, yet the province would not be a position of ease."
 
-28. Though this letter made at first a great impression on the senate,
+## Chapter XXVIII
+
+Though this letter made at first a great impression on the senate,
 yet, as their interest in Italy was first and most important, they did
 not at all alter their resolution in relation to Hasdrubal and his
 troops. However, they despatched Himilco with a complete army, and an
@@ -11288,7 +11771,9 @@ protection of the Romans; and thus the siege which was now commenced
 was given up by them, and the operations of the war turned against
 Hasdrubal himself.
 
-29. For a few days they remained encamped at a distance of five miles
+## Chapter XXIX
+
+For a few days they remained encamped at a distance of five miles
 from each other, not without skirmishes, but without going out to a
 regular engagement. At length the signal for battle was given out on
 both sides on one and the same day, as though by concert, and they
@@ -11343,7 +11828,9 @@ were made generally known at Rome by letters from the Scipios, the
 greatest joy was felt, not so much for the victory, as for the stop
 which was put to the passage of Hasdrubal into Italy.
 
-30. While these transactions were going on in Spain, Petilia, in
+## Chapter XXX
+
+While these transactions were going on in Spain, Petilia, in
 Bruttium, was taken by Himilco, an officer of Hannibal's, several
 months after the siege of it began. This victory cost the
 Carthaginians much blood and many wounds, nor did any power more
@@ -11399,7 +11886,9 @@ Mucius Scaevola. The people ordered that Marcus Marcellus should be in
 command as proconsul, because he was the only Roman general who had
 been successful in his operations in Italy since the defeat at Cannae.
 
-31. The senate decreed, the first day they deliberated in the Capitol,
+## Chapter XXXI
+
+The senate decreed, the first day they deliberated in the Capitol,
 that double taxes should be imposed for that year, one moiety of which
 should be immediately levied, as a fund from which pay might be given
 forthwith to all the soldiers, except those who had been at Cannae.
@@ -11454,7 +11943,9 @@ that temple: on account of which shower the nine days' sacred rite was
 celebrated, as is usual on such occasions, and the other prodigies
 were carefully expiated.
 
-32. The consuls divided the armies between them. The army which Marcus
+## Chapter XXXII
+
+The consuls divided the armies between them. The army which Marcus
 Junius the dictator had commanded fell to the lot of Fabius. To that
 of Sempronius fell the volunteer slaves, with twenty-five thousand of
 the allies. To Marcus Valerius the praetor were assigned the legions
@@ -11512,7 +12003,9 @@ Titus Otacilius Crassus, after he had dedicated the temple of Mens in
 the Capitol, was invested with command, and sent into Sicily to take
 the conduct of the fleet.
 
-33. On this contest, between the two most powerful people in the
+## Chapter XXXIII
+
+On this contest, between the two most powerful people in the
 world, all kings and nations had fixed their attention. Among them
 Philip, king of the Macedonians, regarded it with greater anxiety, in
 proportion as he was nearer to Italy, and because he was separated
@@ -11552,7 +12045,9 @@ such nations as the king pleased. That the cities on the continent and
 the islands which border on Macedonia, should belong to Philip, and
 his dominions."
 
-34. A treaty was concluded between the Carthaginian general and the
+## Chapter XXXIV
+
+A treaty was concluded between the Carthaginian general and the
 ambassadors, upon nearly these terms; and Gisgo, Bostar, and Mago were
 sent as ambassadors with them to receive the ratification of the king
 in person. They arrived at the same place, near the temple of Juno
@@ -11605,7 +12100,9 @@ upon the Balearian islands, where a good deal of time was lost in
 refitting the ships, which were hauled on shore, so much were they
 damaged, not only in their rigging but also in their hulls.
 
-35. As the war was carried on in Italy with less vigour since the
+## Chapter XXXV
+
+As the war was carried on in Italy with less vigour since the
 battle of Cannae, the strength of one party having been broken, and
 the energy of the other relaxed, the Campanians of themselves made an
 attempt to subjugate Cumae, at first by soliciting them to revolt from
@@ -11672,7 +12169,9 @@ In the tumultuous action of this night more than two thousand men were
 slain, together with the general himself, Marius Alfius, and
 thirty-four military standards were captured.
 
-36. Gracchus, having made himself master of the enemy's camp with the
+## Chapter XXXVI
+
+Gracchus, having made himself master of the enemy's camp with the
 loss of less than a hundred men, hastily returned to Cumae, fearful of
 an attack from Hannibal, who lay encamped above Capua on Tifata; nor
 did his provident anticipation of the future deceive him; for as soon
@@ -11703,7 +12202,9 @@ afterwards with the prodigies which were reported one after another;
 and while expiating these, the aruspices answered that they were not
 easily atoned.
 
-37. While these causes detained Fabius, Sempronius was besieged, and
+## Chapter XXXVII
+
+While these causes detained Fabius, Sempronius was besieged, and
 now works were employed in the attack. Against a very large wooden
 tower which was brought up to the town, the Roman consul raised up
 another considerably higher from the wall itself; for he had made use
@@ -11741,7 +12242,9 @@ above a thousand prisoners sold by auction; and the rest of the booty
 having been given up to the soldiery, the army was marched back to
 Luceria.
 
-38. While these things were taking place in Lucania and Hirpinia, the
+## Chapter XXXVIII
+
+While these things were taking place in Lucania and Hirpinia, the
 five ships, which were conveying to Rome the captured ambassadors of
 the Macedonians and Carthaginians, after passing round the whole coast
 of Italy from the upper to the lower sea, were sailing by Cumae, when,
@@ -11783,7 +12286,9 @@ conveyed to Tarentum, by Lucius Apustius, lieutenant-general, and with
 it Hiero sent two hundred thousand pecks of wheat, and a hundred
 thousand of barley.
 
-39. While the Romans were engaged in these preparations and
+## Chapter XXXIX
+
+While the Romans were engaged in these preparations and
 transactions, the captured ship, which formed one of those which had
 been sent to Rome, made its escape on the voyage and returned to
 Philip; from which source it became known that the ambassadors with
@@ -11810,7 +12315,9 @@ the camp of Hannibal on Tifata, and sat down in the Claudian camp
 above Suessula, whence he sent Marcus Marcellus, the proconsul, with
 those forces which he had under him, to Nola for its protection.
 
-40. In Sardinia also the operations of the war, which had been
+## Chapter XL
+
+In Sardinia also the operations of the war, which had been
 intermitted from the time that Quintus Mucius, the praetor, had been
 seized with a serious illness, began to be conducted by Titus Manlius,
 the praetor. Having hauled the ships of war on shore at Carale, and
@@ -11852,7 +12359,9 @@ rather a carnage than a battle. Two thousand of the enemy, Sardinians
 and Carthaginians together, were slain, about three thousand seven
 hundred captured, with twenty-seven military standards.
 
-41. Above all, the general, Hasdrubal, and two other noble
+## Chapter XLI
+
+Above all, the general, Hasdrubal, and two other noble
 Carthaginians having been made prisoners, rendered the battle glorious
 and memorable; Mago, who was of the Barcine family, and nearly related
 to Hannibal, and Hanno, the author of the revolt of the Sardinians,
@@ -11895,7 +12404,9 @@ with a garrison, into the lands of the Hirpini and Caudine Samnites,
 and so destroyed all before him with fire and sword, that he renewed
 in Samnium the memory of her ancient disasters.
 
-42. Ambassadors were therefore despatched from both nations at the
+## Chapter XLII
+
+Ambassadors were therefore despatched from both nations at the
 same time to Hannibal, who thus addressed the Carthaginian: "Hannibal,
 we carried on hostilities with the Roman people, by ourselves and from
 our own resources, as long as our own arms and our own strength could
@@ -11942,7 +12453,9 @@ sent to us will also dislodge that at Nola, provided you do not think
 those men undeserving that you should protect them as allies, whom you
 have esteemed worthy of your alliance."
 
-43. To this Hannibal replied, "that the Hirpini and Samnites did every
+## Chapter XLIII
+
+To this Hannibal replied, "that the Hirpini and Samnites did every
 thing at once: that they both represented their sufferings, solicited
 succours, and complained that they were undefended and neglected.
 Whereas, they ought first to have represented their sufferings, then
@@ -11998,7 +12511,9 @@ and his garrison, no other person than themselves should dictate the
 conditions on which they should come into the friendship and alliance
 of Hannibal.
 
-44. To this Herennius Bassus replied, that, "a friendship had
+## Chapter XLIV
+
+To this Herennius Bassus replied, that, "a friendship had
 subsisted now for many years between the Romans and the Nolans, which
 neither party up to that day regretted; and even had they been
 disposed to change their friends upon a change of fortune, it was now
@@ -12036,7 +12551,9 @@ to station themselves in reserve, and to carry the wounded out of the
 field but not take part in the battle, unless they should receive a
 signal from him.
 
-45. It was a doubtful battle; the generals exerting themselves to the
+## Chapter XLV
+
+It was a doubtful battle; the generals exerting themselves to the
 utmost in exhorting, and the soldiers in fighting Marcellus urged his
 troops to press vigorously on men who had been vanquished but three
 days before, who had been put to flight at Cumae only a few days ago,
@@ -12076,7 +12593,9 @@ protected neither by river nor sea; after that, when you have enriched
 yourselves with the plunder and spoils of that wealthy town, I will
 either lead or follow you whithersoever you have a mind."
 
-46. Neither praises nor reproaches had any effect in confirming their
+## Chapter XLVI
+
+Neither praises nor reproaches had any effect in confirming their
 courage. Driven from their ground in every quarter, while the Romans
 derived fresh spirits, not only from the exhortations of their
 general, but from the Nolans, who, by their acclamations in token of
@@ -12123,7 +12642,9 @@ about their merit in words, he would not decide the matter with the
 sword, and if vanquished give him _spolia opima_, or if
 victorious take them.
 
-47. Asellus, who was in the camp, having been informed of this, waited
+## Chapter XLVII
+
+Asellus, who was in the camp, having been informed of this, waited
 only to ask the consul leave to depart from the ordinary course and
 fight an enemy who had challenged him. By his permission, he
 immediately put on his arms, and riding out beyond the advanced guards
@@ -12153,7 +12674,9 @@ rode in at one of the gates of the enemy which stood open and made his
 escape unhurt through another, the enemy being thunderstruck at the
 strangeness of the circumstance.
 
-48. The camps were then undisturbed, the consul even moved his camp
+## Chapter XLVIII
+
+The camps were then undisturbed, the consul even moved his camp
 back, that the Campanians might complete their sowing, nor did he do
 any injury to the lands till the blades in the corn-fields were grown
 sufficiently high to be useful for forage. This he conveyed into the
@@ -12199,7 +12722,9 @@ a day on which he would let on contract the furnishing the army in
 Spain with clothes and corn, and with such other things as were
 necessary for the crews.
 
-49. When the day arrived, three companies, of nineteen persons, came
+## Chapter XLIX
+
+When the day arrived, three companies, of nineteen persons, came
 forward to enter into the contract; but they made two requests: one
 was, that they should be exempt from military service while employed
 in that revenue business; the second was, that the state should bear
@@ -12260,7 +12785,9 @@ camp._
 
        *        *        *        *        *
 
-1. On his return from Campania into Bruttium, Hanno, with the
+## Chapter I
+
+On his return from Campania into Bruttium, Hanno, with the
 assistance and under the guidance of the Bruttians, made an attempt
 upon the Greek cities; which were the more disposed to continue in
 alliance with the Romans, because they perceived that the Bruttians,
@@ -12314,7 +12841,9 @@ Carthaginians, the harbour in the power of the Locrians. That their
 alliance should rest on the principle, that the Carthaginian should
 help the Locrian and the Locrian the Carthaginian in peace and war."
 
-2. Thus the Carthaginian troops were led back from the strait, while
+## Chapter II
+
+Thus the Carthaginian troops were led back from the strait, while
 the Bruttians loudly complained that Locri and Rhegium, cities which
 they had fixed in their minds that they should have the plundering of,
 they had left untouched. Having therefore levied and armed fifteen
@@ -12358,7 +12887,9 @@ an event. In the same place Aristomachus took refuge, as though he had
 advised the surrender of the city to the Carthaginians, and not to the
 Bruttians.
 
-3. The wall of the city of Croto in circuit extended through a space
+## Chapter III
+
+The wall of the city of Croto in circuit extended through a space
 of twelve miles, before the arrival of Pyrrhus in Italy. After the
 devastation occasioned by that war, scarcely half the city was
 inhabited. The river which had flowed through the middle of the town,
@@ -12410,7 +12941,9 @@ had an opportunity or advantage; by which the Roman soldiery were
 improved, and became daily more guarded and more secure against
 stratagems.
 
-4. In Sicily, the death of Hiero, and the transfer of the government
+## Chapter IV
+
+In Sicily, the death of Hiero, and the transfer of the government
 to his grandson, Hieronymus, had completely altered all things with
 regard to the Romans. Hieronymus was but a boy, as yet scarcely able
 to bear liberty, still less sovereign power. His guardians and friends
@@ -12447,7 +12980,9 @@ competent to assume the government; and thus, by voluntarily resigning
 the guardianship which he shared with several others, united the
 powers of all in himself.
 
-5. It would scarcely have been easy even for any good and moderate
+## Chapter V
+
+It would scarcely have been easy even for any good and moderate
 king, succeeding one so deeply rooted in their affections as Hiero
 was, to obtain the favour of the Syracusans. But Hieronymus, forsooth,
 as if he was desirous of exciting regret for the loss of his
@@ -12494,7 +13029,9 @@ himself or fled, so great was their confidence in the fortitude and
 fidelity of Theodotus, and so great was his firmness in concealing
 their secret.
 
-6. Thus on the removal of Thraso, who formed the only bond which held
+## Chapter VI
+
+Thus on the removal of Thraso, who formed the only bond which held
 together the alliance with the Romans, immediately affairs clearly
 indicated defection. Ambassadors were sent to Hannibal, who sent back
 in company with a young man of noble birth named Hannibal, Hippocrates
@@ -12530,7 +13067,9 @@ Carthaginians. This levity and inconstancy of purpose in a hot-headed
 youth, did not excite their surprise, nor did they reprove it, anxious
 only to detach him from the Romans.
 
-7. But every thing conspired to hurry him into perdition. For having
+## Chapter VII
+
+But every thing conspired to hurry him into perdition. For having
 sent before him Hippocrates and Epicydes with two thousand armed men,
 to make an attempt upon those cities which were occupied by Roman
 garrisons, he himself also proceeded to Leontium with all the
@@ -12569,7 +13108,9 @@ fallen by lot on the junior century of the Anien tribe, they appointed
 Titus Otacilius and Marcus Aemilius Regillus, consuls, when Quintus
 Fabius, having obtained silence, delivered the following speech:
 
-8. "If we had either peace in Italy, or had war with such an enemy
+## Chapter VIII
+
+"If we had either peace in Italy, or had war with such an enemy
 that the necessity to be careful was less urgent than it is, I should
 consider that man as wanting in respect for your liberty, who would at
 all impede that zealous desire which you bring with you into the
@@ -12644,7 +13185,9 @@ but form useful warnings to guard against similar disasters Crier,
 call back the younger century of the Amen tribe to give their votes
 again"
 
-9. Titus Otacilius, vociferating in the most furious manner, that his
+## Chapter IX
+
+Titus Otacilius, vociferating in the most furious manner, that his
 object was to continue in the consulship, the consul ordered the
 lictors to go to him, and as he had not entered the city, but had
 proceeded directly without halting from his march to the Campus
@@ -12683,7 +13226,9 @@ and that he was himself confessedly such an one, he thought less of
 the personal odium which might arise out of the transaction, than of
 the good of the state.
 
-10. On the day on which the consuls entered on their office, the
+## Chapter X
+
+On the day on which the consuls entered on their office, the
 senate was assembled in the Capitol, and in the first place a decree
 was passed to the effect that the consuls should draw lots, and settle
 between themselves which should hold the election for the creation of
@@ -12725,7 +13270,9 @@ cultivators of the hill. These prodigies were expiated by victims of
 the larger kind, according to the response of the aruspices; and a
 supplication was ordered to all the deities who had shrines at Rome.
 
-11. The ceremonies which were intended to propitiate the gods being
+## Chapter XI
+
+The ceremonies which were intended to propitiate the gods being
 completed, the consuls took the sense of the senate on the state of
 the nation, the conduct of the war, what troops should be employed,
 and where they were severally to act. It was resolved that eighteen
@@ -12759,7 +13306,9 @@ their masters, embarked with cooked provisions for thirty days. Then
 first it happened that the Roman fleet was manned at the expense of
 individuals.
 
-12. These unusually great preparations alarmed the Campanians
+## Chapter XII
+
+These unusually great preparations alarmed the Campanians
 particularly, lest the Romans should commence the year's campaign with
 the siege of Capua. They therefore sent ambassadors to Hannibal, to
 implore him to bring his army to Capua, and tell him that new armies
@@ -12783,7 +13332,9 @@ the command of the sea-coast and the fleet; the rest also proceeded to
 their respective provinces, and those who were continued in command
 remained in the same countries as in the former year.
 
-13. While Hannibal was at the lake Avernus, five noble youths came to
+## Chapter XIII
+
+While Hannibal was at the lake Avernus, five noble youths came to
 him from Tarentum. They had been made prisoners partly at the lake
 Trasimenus, and partly at Cannae, and had been sent home by the
 Carthaginian with the same civility which he had shown towards all the
@@ -12827,7 +13378,9 @@ consul used in every thing he did in order to preoccupy Nola. Having
 twice already made the attempt unsuccessfully, he was slower to place
 confidence in the Nolans.
 
-14. During the same time, the consul, Fabius, came to attempt
+## Chapter XIV
+
+During the same time, the consul, Fabius, came to attempt
 Casilinum, which was occupied by a Carthaginian garrison; and, as if
 by concert, Hanno approached Beneventum on one side from the
 Bruttians, with a large body of foot and horse, while on the other
@@ -12865,7 +13418,9 @@ following day. The soldiers, highly delighted, particularly those
 whose enfranchisement was to be the reward of one day's prowess,
 employed the remaining time in getting ready their arms.
 
-15. The next day, as soon as the trumpets began to sound, they were
+## Chapter XV
+
+The next day, as soon as the trumpets began to sound, they were
 the first to assemble at the general's tent, armed and ready for
 action. When the sun had risen, Gracchus led out his troops to the
 field of battle; nor did the enemy delay to engage him. His troops
@@ -12899,7 +13454,9 @@ soldiers taken out of a workhouse; at last Gracchus exclaimed, that
 his men had no ground to hope for liberty unless the enemy were routed
 and put to flight that day.
 
-16. These words at length kindled their courage so effectually, and
+## Chapter XVI
+
+These words at length kindled their courage so effectually, and
 renewing the shout, as if suddenly changed into other men, they bore
 down upon the enemy with such impetuosity that they could not longer
 be withstood. First, of the Carthaginians who stood before the
@@ -12969,7 +13526,9 @@ representing the festivities of that day to be executed in the temple
 of Liberty, which his father caused to be built on the Aventine out of
 money arising from fines, and which his father also dedicated.
 
-17. While these events occurred at Beneventum, Hannibal having laid
+## Chapter XVII
+
+While these events occurred at Beneventum, Hannibal having laid
 waste the territory of Naples, moved his camp to Nola. The consul, as
 soon as he was aware of his approach, sent for Pemponius the
 propraetor, with the troops he had in the camp above Suessula; and
@@ -12998,7 +13557,9 @@ getting possession of Nola, a thing never attempted without loss,
 during the silence of the night of the third day he set out for
 Tarentum, which he had better hopes of having betrayed to him.
 
-18. Nor were the Roman affairs administered with less spirit at home
+## Chapter XVIII
+
+Nor were the Roman affairs administered with less spirit at home
 than in the field. The censors being freed from the care of letting
 out the erection of public works, from the low state of the treasury,
 turned their attention to the regulation of men's morals, and the
@@ -13053,7 +13614,9 @@ the city into the camp also, insomuch that no horseman or centurion
 would accept of his pay, and those who would accept it were reproached
 with the appellation of mercenary men.
 
-19. Quintus Fabius, the consul, was encamped before Casilinum, which
+## Chapter XIX
+
+Quintus Fabius, the consul, was encamped before Casilinum, which
 was occupied by a garrison of two thousand Campanians and seven
 hundred of the soldiers of Hannibal. The commander was Statius Metius,
 who was sent there by Cneius Magius Atellanus, who was that year
@@ -13097,7 +13660,9 @@ Hannibal's soldiers, were sent to Rome, where they were shut up in a
 prison. The crowd of townsmen was distributed among the neighbouring
 people to be kept in custody.
 
-20. At the same time that the consuls retired from Casilinum, their
+## Chapter XX
+
+At the same time that the consuls retired from Casilinum, their
 object having been accomplished, Gracchus, who was in Lucania, sent,
 under a prefect of the allies, some cohorts which he had levied in
 that country to ravage the lands of the enemy. These, as they were
@@ -13152,7 +13717,9 @@ neighbouring woods of Apulia, from which not much booty of any other
 sort was obtained, but principally droves of horses, four thousand of
 which were distributed among his horsemen to be broken.
 
-21. The Romans, since a war by no means to be despised was springing
+## Chapter XXI
+
+The Romans, since a war by no means to be despised was springing
 up in Sicily, and the death of the tyrant had furnished the Syracusans
 with more enterprising leaders, rather than changed their attachment
 to the Carthaginian cause, or the state of their minds, decreed that
@@ -13200,7 +13767,9 @@ garrison it, and these sent messengers to the Achradina, to give
 information that the granaries and the corn were in the power of the
 senate.
 
-22. At break of day the whole populace, armed and unarmed, assembled
+## Chapter XXII
+
+At break of day the whole populace, armed and unarmed, assembled
 at the senate-house in the Achradina: where from the altar of Concord,
 which stood there, one of the nobles, named Polyaenus, delivered a
 liberal and temperate address. He said, that "men who had experienced
@@ -13262,7 +13831,9 @@ beginning, not yet perfected; and there still remains great danger
 lest the enfranchised state should be destroyed, if you do not provide
 for its tranquillity and harmony."
 
-23. At the conclusion of this speech, he laid the keys of the gates
+## Chapter XXIII
+
+At the conclusion of this speech, he laid the keys of the gates
 and of the royal treasure at their feet; and on that day, retiring
 from the assembly in the highest spirits, they made supplication with
 their wives and children at all the temples of the gods. On the
@@ -13307,7 +13878,9 @@ under the dominion of the Romans with the pretence of a renewed
 alliance, and then that faction and the few promoters of the alliance
 would be supreme."
 
-24. The crowds of persons disposed to hear and credit these
+## Chapter XXIV
+
+The crowds of persons disposed to hear and credit these
 insinuations which flowed into Syracuse from every quarter increased
 daily, and afforded hopes, not only to Epicydes but to Andranodorus
 also, of effecting a revolution. The latter, wearied at length by the
@@ -13352,7 +13925,9 @@ followed the more discreet part of the commons to an assembly. Sopater
 was the person commissioned by the senate and his colleague to explain
 the affair.
 
-25. Treating them as if they stood upon their trial, he began with
+## Chapter XXV
+
+Treating them as if they stood upon their trial, he began with
 their past lives; and insisted that Andranodorus and Themistus were
 the authors of every act of iniquity and impiety which had been
 perpetrated since the death of Hiero. "For what," said he, "did the
@@ -13386,7 +13961,9 @@ should be put to death; and persons despatched for the purpose by the
 praetors, put to death Demarata, the daughter of Hiero, and Harmonia,
 the daughter of Gelon, the wives of Andranodorus and Themistus.
 
-26. There was a daughter of Hiero, named Heraclea, the wife of
+## Chapter XXVI
+
+There was a daughter of Hiero, named Heraclea, the wife of
 Zoippus, who, having been sent by Hieronymus as ambassador to king
 Ptolemy, had become a voluntary exile. As soon as she was apprized
 that they were coming to her also, she fled for refuge into the chapel
@@ -13442,7 +14019,9 @@ indignation, and demanded an election to supply the places of
 Andranodorus and Themistus, for both of them had been praetors; an
 election by no means likely to be agreeable to the praetors.
 
-27. The day was fixed for the election, when, to the surprise of all,
+## Chapter XXVII
+
+The day was fixed for the election, when, to the surprise of all,
 one person from the extremity of the crowd nominated Epicydes, and
 then another from the same quarter nominated Hippocrates. Afterwards
 the voices in favour of these persons increased with the manifest
@@ -13476,7 +14055,9 @@ insinuations appeared to receive great corroboration; and on the first
 impulse, the populace had even run down in a disorderly manner to
 prevent them from disembarking.
 
-28. While affairs were in this unsettled state, it was resolved to
+## Chapter XXVIII
+
+While affairs were in this unsettled state, it was resolved to
 call an assembly; in which, when some leaned to one side and some to
 the other, and an insurrection being on the point of breaking out,
 Apollonides, one of the nobles, delivered a speech fraught with
@@ -13509,7 +14090,9 @@ means of carrying on a war with the Romans, it was resolved that a
 treaty of peace should be formed, and that ambassadors should be sent
 with those from Rome to ratify the same.
 
-29. Not many days intervened before ambassadors came from the
+## Chapter XXIX
+
+Not many days intervened before ambassadors came from the
 Leontines, requesting troops to protect their frontiers; an embassy
 which appeared to afford a very favourable opportunity for
 disencumbering the city of a turbulent and disorderly rabble, and for
@@ -13562,7 +14145,9 @@ the war, provided that when brought again under subjection, they
 should form a part of their dominion, agreeably to the conditions of
 the peace."
 
-30. Marcellus marched with his entire forces against Leontini, having
+## Chapter XXX
+
+Marcellus marched with his entire forces against Leontini, having
 sent for Appius also, in order that he might attack it in another
 quarter; when, such was the ardour of the troops in consequence of the
 indignation they felt at the Roman guards being put to the sword
@@ -13613,7 +14198,9 @@ receive them into their ranks, protect them when received, and not
 betray them to the Syracusans, by whom they themselves would soon be
 delivered up to the Romans to be butchered.
 
-31. But the Cretans with one accord called out to them to be of good
+## Chapter XXXI
+
+But the Cretans with one accord called out to them to be of good
 courage; that they would share every fortune with them. During this
 conversation, the vanguard had halted, and the march was delayed; nor
 had the cause of the delay as yet reached the generals. After the
@@ -13662,7 +14249,9 @@ Myla; and by vouching for what he stated, and relating as matters
 which he had seen, those things of which doubts were entertained, to
 kindle the resentment of the people.
 
-32. This man not only obtained credit with the commons, but being
+## Chapter XXXII
+
+This man not only obtained credit with the commons, but being
 introduced into the senate-house, produced an impression upon the
 senate also. Some men of no small authority openly declared, that it
 was very fortunate that the rapacity and cruelty of the Romans had
@@ -13701,7 +14290,9 @@ mixed rabble created Hippocrates and Epicydes their praetors, and thus
 Syracuse, when for a brief period the light of liberty had shone on
 it, relapsed into her former state of servitude.
 
-33. The Romans, on receiving information of these events, immediately
+## Chapter XXXIII
+
+The Romans, on receiving information of these events, immediately
 moved their camp from Leontini to Syracuse. It happened at this time
 that ambassadors were sent by Appius in a quinquereme, to make their
 way through the harbour. A quadrireme was sent in advance, which was
@@ -13739,7 +14330,9 @@ they should be able in some quarter to effect an entrance into a city
 so desert, and diffused over so large an extent of ground, they
 brought up to the walls every kind of engine for besieging cities.
 
-34. And an attempt made with so much energy would have succeeded, had
+## Chapter XXXIV
+
+And an attempt made with so much energy would have succeeded, had
 it not been for one person then at Syracuse. That person was
 Archimedes, a man of unrivalled skill in observing the heavens and the
 stars, but more deserving of admiration as the inventor and
@@ -13793,7 +14386,9 @@ resolved, since every attempt was frustrated, to abstain from
 assaulting the place, and keeping up a blockade, only to cut off the
 provisions of the enemy by sea and land.
 
-35. Meanwhile, Marcellus, who had set out with about a third part of
+## Chapter XXXV
+
+Meanwhile, Marcellus, who had set out with about a third part of
 the army, to recover the towns which, during the commotion, had gone
 over to the Carthaginians, regained Helorus and Herbessus by voluntary
 surrender. Megara, which he took by storm, he demolished and
@@ -13830,7 +14425,9 @@ with the forces he had with him, he was marching with all possible
 circumspection, and with his troops so arranged, as to be prepared for
 any thing which might occur.
 
-36. It happened that the caution he had observed with intent to guard
+## Chapter XXXVI
+
+It happened that the caution he had observed with intent to guard
 him against the Carthaginians, proved useful against the Sicilians.
 Having caught them in disorder and dispersed, employed in forming
 their camp, and for the most part unarmed, he cut off all their
@@ -13870,7 +14467,9 @@ possession of Murgantia, the Roman garrison having been betrayed by
 the inhabitants themselves. Here a great quantity of corn and
 provisions of every kind had been laid up by the Romans.
 
-37. To this revolt the minds of other states also were stimulated; and
+## Chapter XXXVII
+
+To this revolt the minds of other states also were stimulated; and
 the Roman garrisons were now either driven out of the citadels, or
 treacherously given up and overpowered. Enna, which stood on an
 eminence lofty and of difficult ascent on all sides, was impregnable
@@ -13913,7 +14512,9 @@ whether these denunciations came from a few, or from the whole state."
 An assembly of the people was proclaimed for the next day, with the
 general consent.
 
-38. After this conference, he returned into the citadel, and
+## Chapter XXXVIII
+
+After this conference, he returned into the citadel, and
 assembling his soldiers, thus addressed them: "Soldiers, I suppose you
 have heard in what manner the Roman garrisons have been betrayed and
 cut off by the Sicilians of late. You have escaped the same treachery,
@@ -13950,7 +14551,9 @@ you were about to fight with armed men, men unarmed and off their
 guard, you will slay to satiety. The consul's camp too is near, so
 that nothing can be apprehended from Himilco and the Carthaginians'."
 
-39. Being allowed to retire immediately after this exhortation, they
+## Chapter XXXIX
+
+Being allowed to retire immediately after this exhortation, they
 employed themselves in taking refreshment. The next day they stationed
 themselves some in one place and others in another, to block up the
 streets, and shut up the ways by which the townsmen might escape, the
@@ -14004,7 +14607,9 @@ himself fortified his camp, and built huts for his troops at a
 distance of five miles from Hexapylum, at a place called Leon. These
 were the transactions in Sicily up to the beginning of the winter.
 
-40. The same summer the war with king Philip, as had been before
+## Chapter XL
+
+The same summer the war with king Philip, as had been before
 suspected, broke out. Ambassadors from Oricum came to Marcus Valerius,
 the praetor, who was directing his fleet around Brundusium and the
 neighbouring coasts of Calabria, with intelligence, that Philip had
@@ -14070,7 +14675,9 @@ shore or burnt his ships, made for Macedonia by land, his troops being
 for the most part unarmed and despoiled of their baggage. The Roman
 fleet, with Marcus Valerius, wintered at Oricum.
 
-41. The same year the war was prosecuted in Spain with various
+## Chapter XLI
+
+The same year the war was prosecuted in Spain with various
 success; for before the Romans crossed the Iberus, Mago and Hasdrubal
 had routed an immense army of Spaniards; and the farther Spain would
 have revolted from the Romans, had not Publius Cornelius, hastily
@@ -14110,7 +14717,9 @@ alliance with the Romans, was commenced by the Carthaginians; but
 Scipio coming up, raised the siege without experiencing any
 opposition.
 
-42. The Carthaginians then removed their camp to Munda, whither the
+## Chapter XLII
+
+The Carthaginians then removed their camp to Munda, whither the
 Romans speedily followed them. Here a pitched battle was fought, which
 lasted almost four hours; and while the Romans were carrying all
 before them in the most glorious manner, the signal for retreat was
@@ -14152,7 +14761,9 @@ Turditanians also, who had been the cause of the war between that
 people and the Carthaginians, they reduced under their power, sold
 them as slaves, and razed their city.
 
-43. Such were the achievements in Spain during the consulate of
+## Chapter XLIII
+
+Such were the achievements in Spain during the consulate of
 Quintus Fabius and Marcus Claudius. At Rome, as soon as the new
 plebeian tribunes entered upon their office, Lucius Metellus, a
 plebeian tribune, immediately appointed a day for impleading the
@@ -14180,7 +14791,9 @@ the war, their own provinces as well as those of the praetors, and
 also respecting the armies to be employed, and which each of them was
 to command.
 
-44. The provinces and armies were thus distributed: the prosecution of
+## Chapter XLIV
+
+The provinces and armies were thus distributed: the prosecution of
 the war with Hannibal was given to the consuls, and of the armies, one
 which Sempronius himself had commanded, and another which the consul
 Fabius had commanded, each consisting of two legions. Marcus Aemilius,
@@ -14222,7 +14835,9 @@ nearest to him to take care and he called to him to dismount; then at
 length dismounting, he exclaimed, "I wished to try, my son, whether
 you were duly sensible that you are a consul."
 
-45. To this camp came Dasias Altinius of Arpi privately and by night,
+## Chapter XLV
+
+To this camp came Dasias Altinius of Arpi privately and by night,
 attended by three slaves, with a promise that if he should receive a
 reward for it, he would engage to betray Arpi to them. Fabius having
 laid the matter before a council, some were of opinion that "he ought
@@ -14278,7 +14893,9 @@ the flight of Altinius, and then, touching the quantity of gold and
 silver which was left at his house, and informed himself on all these
 points, he burned them alive.
 
-46. Fabius, setting out from Suessula, first set about the siege of
+## Chapter XLVI
+
+Fabius, setting out from Suessula, first set about the siege of
 Arpi; and having pitched his camp about half a mile from it, he took a
 near view of the site and walls of the city, and resolved to attack
 it, in preference, in that quarter where it was most secured by works,
@@ -14310,7 +14927,9 @@ the consul. This being done according to the plan previously agreed
 upon, the consul ordered the troops to march, and a little before
 daylight entered the city through the broken gate.
 
-47. Then at length the enemy were roused, the shower was now
+## Chapter XLVII
+
+Then at length the enemy were roused, the shower was now
 subsiding, and daylight coming on. Hannibal had a garrison of about
 five thousand armed men in the city, and the inhabitants themselves
 had three thousand men in arms; these the Carthaginians placed in
@@ -14363,7 +14982,9 @@ Fortune, Mater Matuta, and Hope, which latter stood without the gate,
 the fire, spreading to a wide extent, consumed much both sacred and
 profane.
 
-48. The same year, the two Cornelii, Publius and Cneius, as affairs
+## Chapter XLVIII
+
+The same year, the two Cornelii, Publius and Cneius, as affairs
 were now in a prosperous state in Spain, and they had recovered many
 ancient allies, and attached fresh ones to them, extended their views
 even to Africa. Syphax was a king of the Numidians, who had suddenly
@@ -14416,7 +15037,9 @@ united in friendship, which the Carthaginians hearing of, immediately
 sent ambassadors to Gala, who reigned in another part of Numidia, over
 a nation called Massylians.
 
-49. Gala had a son named Masinissa, seventeen years of age, but a
+## Chapter XLIX
+
+Gala had a son named Masinissa, seventeen years of age, but a
 youth of such talents, that even at that time it was evident that he
 would render the kingdom more extensive and powerful than when he
 received it. The ambassadors represented that, "since Syphax had
@@ -14477,7 +15100,9 @@ booty._
 
        *        *        *        *        *
 
-1. Hannibal passed the summer during which these events occurred in
+## Chapter I
+
+Hannibal passed the summer during which these events occurred in
 Africa and Italy, in the Tarentine territory, with the hope of having
 the city of the Tarentines betrayed to him. Meanwhile some
 inconsiderable towns belonging to them, and to the Sallentines,
@@ -14531,7 +15156,9 @@ the aforesaid books and writings before him before the calends of
 April; and that no person should sacrifice in any public or
 consecrated place according to new or foreign rites.
 
-2. Several of the public priests too died this year: Lucius Cornelius
+## Chapter II
+
+Several of the public priests too died this year: Lucius Cornelius
 Lentulus, chief pontiff, Caius Papirius Maso, son of Caius, a pontiff,
 Publius Furius Philo, an augur, and Caius Papirius Maso, son of
 Lucius, a decemvir for the superintendence of sacred rites. In lieu of
@@ -14567,7 +15194,9 @@ before the people, and some of them they convicted and sent into
 exile. The plebeian games were repeated during two days, and a feast
 in honour of Jupiter was celebrated on occasion of the games.
 
-3. Quintus Fulvius Flaccus, for the third time, and Appius Claudius
+## Chapter III
+
+Quintus Fulvius Flaccus, for the third time, and Appius Claudius
 entered upon the office of consuls. The praetors determined their
 provinces by lot. Publius Cornelius Sulla received both the city and
 the foreign jurisdiction, formerly allotted to two persons, Cneius
@@ -14637,7 +15266,9 @@ not see that you are degraded to the common rank, and that an
 insurrection will be the result, unless you speedily dismiss the
 assembly of the commons."
 
-4. The commons being dismissed, the senate was assembled, when the
+## Chapter IV
+
+The commons being dismissed, the senate was assembled, when the
 consuls proposed the consideration of the interruption experienced by
 the assembly of the commons, in consequence of the violence and
 audacity of the farmers of the revenue. They said, that "Marcus Furius
@@ -14679,7 +15310,9 @@ those who did not give bail, and afterwards even such as could; upon
 which the greater part of them went into exile, to avoid the danger to
 which this proceeding exposed them.
 
-5. The knavery of the revenue farmers, and their subsequent audacious
+## Chapter V
+
+The knavery of the revenue farmers, and their subsequent audacious
 conduct to screen themselves from its effects, thus terminated. An
 assembly was then held for the creation of a chief pontiff. The new
 pontiff, Marcus Cornelius Cethegus, presided. The election was
@@ -14715,7 +15348,9 @@ and had been sent out of the way into Sicily, as has been mentioned
 before, on an understanding that they should not be brought home
 before the conclusion of the Carthaginian war.
 
-6. With the permission of Lentulus, these men sent the most
+## Chapter VI
+
+With the permission of Lentulus, these men sent the most
 distinguished of the cavalry and centurions, and a select body of the
 legionary infantry, as ambassadors to Marcellus, to his winter
 quarters. Having obtained leave to speak, one of them thus addressed
@@ -14803,7 +15438,9 @@ what ought to have been done at Cannae may be done as soon as
 possible, for the whole of our subsequent lives has been doomed to
 ignominy."
 
-7. At the conclusion of this speech they prostrated themselves at the
+## Chapter VII
+
+At the conclusion of this speech they prostrated themselves at the
 knees of Marcellus. Marcellus replied, that the question was neither
 within his authority nor his power, that he would, however, write to
 the senate, and be guided in every thing he did by the judgment of the
@@ -14855,7 +15492,9 @@ at Tarracina, brought them back. They were led into the Comitium, and
 after being scourged with rods, with the approbation of the people,
 were thrown down from the rock.
 
-8. The severity of this punishment exasperated the inhabitants of two
+## Chapter VIII
+
+The severity of this punishment exasperated the inhabitants of two
 of the most distinguished Greek states in Italy, not only publicly as
 communities, but privately as individuals, according as each was
 connected, either by relationship or friendship, with those who had
@@ -14897,7 +15536,9 @@ in one and the same place so long, he feigned himself ill. Even to the
 Romans who formed the garrison of Tarentum, his protracted inactivity
 had ceased to be an object of suspicion.
 
-9. But after he determined to proceed to Tarentum, selecting from his
+## Chapter IX
+
+But after he determined to proceed to Tarentum, selecting from his
 infantry and cavalry ten thousand men, whom, from activity of body,
 and lightness of arms, he judged best adapted for the expedition, he
 began his march in the fourth watch of the night; and sending in
@@ -14958,7 +15599,9 @@ hands. The townsmen were spared; but in order to insure this, he
 instructed the Tarentine youths, when they saw any of their friends at
 a distance, to bid them be quiet and silent, and be of good courage.
 
-10. The tumult and clamour was now such as usually takes place in a
+## Chapter X
+
+The tumult and clamour was now such as usually takes place in a
 captured city, but no man knew for certain what was the occasion. The
 Tarentines supposed that the Romans had suddenly risen to plunder the
 city. To the Romans it appeared, that some commotion had been set on
@@ -14993,7 +15636,9 @@ to distinguish the house of an enemy from that of a friend, on a
 signal given, the troops ran in every direction to plunder the
 lodgings of the Romans, and a considerable booty was found.
 
-11. The next day he led his troops to assault the citadel; but seeing
+## Chapter XI
+
+The next day he led his troops to assault the citadel; but seeing
 that it was protected by very high rocks towards the sea, which washed
 the greater part of it, and formed it into a sort of peninsula, and
 towards the city by a wall and ditch, and consequently that it could
@@ -15080,7 +15725,9 @@ former year. The greater number, and those who, from their age, were
 more able to recollect these events, represent it to have occurred in
 the present year.
 
-12. The Latin holidays detained the consuls and praetors at Rome till
+## Chapter XII
+
+The Latin holidays detained the consuls and praetors at Rome till
 the fifth of the calends of May; on which day, having completed the
 solemnities on the mount, they proceeded to their respective
 provinces. Afterwards a new difficulty respecting religious matters
@@ -15138,7 +15785,9 @@ garlands; the matrons made supplications; the people in general
 feasted in the courts of their houses, throwing the doors open; and
 the day was distinguished by every description of ceremony.
 
-13. While Hannibal was in the neighbourhood of Tarentum, and both the
+## Chapter XIII
+
+While Hannibal was in the neighbourhood of Tarentum, and both the
 consuls in Samnium, though they seemed as if they were about to
 besiege Capua, the Campanians were experiencing famine, that calamity
 which is the usual attendant of a protracted siege. It was occasioned
@@ -15191,7 +15840,9 @@ break of day a hot engagement commenced, when the Carthaginians not
 only defended their rampart, but having more even ground, threw down
 the enemy as they attempted to ascend the steep.
 
-14. Persevering courage, however, at length prevailed over every
+## Chapter XIV
+
+Persevering courage, however, at length prevailed over every
 impediment, and they made their way up to the ditch and rampart in
 several parts at the same time, but with many wounds and much loss of
 soldiers. The consul, therefore assembling the military tribunes, said
@@ -15250,7 +15901,9 @@ the camp had reached him, with a small party of foragers, whom he
 happened to have with him, returned to Bruttium, more after the manner
 of a flight than a march.
 
-15. The Campanians, when informed of the disaster which had befallen
+## Chapter XV
+
+The Campanians, when informed of the disaster which had befallen
 themselves and their allies, sent ambassadors to Hannibal to inform
 him, that "the two consuls were at Beneventum, which was a day's march
 from Capua; that the war was all but at their gates and their walls;
@@ -15338,7 +15991,9 @@ Lucania to Beneventum with his cavalry and light-armed troops and to
 appoint some person to take the command of the legions and stationary
 camp, for the defence of Lucania.
 
-16. An unlucky prodigy occurred to Gracchus, while sacrificing,
+## Chapter XVI
+
+An unlucky prodigy occurred to Gracchus, while sacrificing,
 previous to his departure from Lucania. Two snakes gliding from a
 secret place to the entrails, after the sacrifice was completed, ate
 the liver; and after having been observed, suddenly vanished out of
@@ -15422,7 +16077,9 @@ which were taken at the same time, before the tribunal of the general.
 This is the true account; Gracchus fell in Lucania, near the place
 called the Old Plains.
 
-17. There are some who have put forth an account, stating, that when
+## Chapter XVII
+
+There are some who have put forth an account, stating, that when
 in the territory of Beneventum, near the river Calor, having gone out
 from his camp with his lictors and three servants, for the purpose of
 bathing, he was slain while naked and unarmed, and endeavouring to
@@ -15450,7 +16107,9 @@ Carthalo to convey it into the Roman camp to Cneius Cornelius, the
 quaestor, who buried the general in the camp, the Beneventans joining
 the army in the celebration.
 
-18. The consuls having entered the Campanian territory, while
+## Chapter XVIII
+
+The consuls having entered the Campanian territory, while
 devastating the country on all sides, were alarmed, and thrown into
 confusion, by an eruption of the townsmen and Mago with his cavalry.
 They called in their troops to their standards from the several
@@ -15510,7 +16169,9 @@ bloody spear, was conducted amid the loud plaudits and congratulations
 of the soldiery into the presence of the consuls, where he was highly
 commended, and was presented with gifts.
 
-19. Hannibal, having moved his camp from the territory of Beneventum
+## Chapter XIX
+
+Hannibal, having moved his camp from the territory of Beneventum
 to Capua, drew out his troops in order of battle the third day after
 his arrival; not entertaining the least doubt but that, as the
 Campanians had fought successfully a few days ago when he was absent,
@@ -15568,7 +16229,9 @@ beset by the cavalry, that scarcely a thousand men escaped out of so
 large an army; the rest were destroyed on all hands, in one way or
 other.
 
-20. The siege of Capua was now resumed by the consuls with the utmost
+## Chapter XX
+
+The siege of Capua was now resumed by the consuls with the utmost
 energy. Every thing requisite for the business was conveyed thither
 and got in readiness. A store of corn was collected at Casilinum; at
 the mouth of the Vulturnus, where a town now stands, a strong post was
@@ -15596,7 +16259,9 @@ occasions, as well as but a few days ago, experienced what an army was
 good for, when conducted by an unskilful commander, he moved his camp
 into Apulia.
 
-21. The Roman legions, and the praetor, Fulvius, were in the
+## Chapter XXI
+
+The Roman legions, and the praetor, Fulvius, were in the
 neighbourhood of Herdonia, where, receiving intelligence of the
 approach of the enemy, they had nearly torn up the standards and gone
 out to battle without the praetor's orders; nor did any thing tend
@@ -15636,7 +16301,9 @@ and surrounded on the flank and rear, were slaughtered to such a
 degree, that out of eighteen thousand men, not more than two thousand
 escaped. The enemy got possession of the camp.
 
-22. When these disastrous defeats, happening one upon another, were
+## Chapter XXII
+
+When these disastrous defeats, happening one upon another, were
 reported at Rome, great grief and consternation seized the city. But
 still, as the consuls had been hitherto successful when it was most
 important, they were the less affected by these disasters. Caius
@@ -15691,7 +16358,9 @@ approach. The ambassadors, dismissed with these hopes, with difficulty
 effected their return to Capua, which was by this time surrounded by a
 double trench and rampart.
 
-23. At the time when the circumvallation of Capua was carrying on with
+## Chapter XXIII
+
+At the time when the circumvallation of Capua was carrying on with
 the greatest activity, the siege of Syracuse, which had been forwarded
 by intestine treachery, in addition to the efforts and bravery of the
 general and his army, was brought to a conclusion. For in the
@@ -15762,7 +16431,9 @@ to the spot in a slender column. The foremost having mounted the wall,
 without noise or confusion, the others followed in order; the boldness
 of the former inspiring even the irresolute with courage.
 
-24. The thousand armed men had now taken a part of the city, when the
+## Chapter XXIV
+
+The thousand armed men had now taken a part of the city, when the
 rest, applying a greater number of ladders, mounted the wall on a
 signal given from the Hexapylos. To this place the former party had
 arrived in entire solitude; as the greater part of them, having
@@ -15821,7 +16492,9 @@ him some Syracusans, who, as was before observed, were among the Roman
 troops, to induce the enemy, by a persuasive address, to surrender the
 city.
 
-25. The gates and walls of the Achradina were occupied principally by
+## Chapter XXV
+
+The gates and walls of the Achradina were occupied principally by
 deserters, who had no hopes of pardon in case of capitulation. These
 men would neither suffer those who were sent to approach the walls,
 nor to address them. Marcellus, therefore, on the failure of this
@@ -15873,7 +16546,9 @@ critical situation Syracuse was placed, returned, after a few days,
 with a hundred ships; having, as report says, received many presents
 from Epicydes out of the treasure of Hiero.
 
-26. Marcellus, by gaining possession of the Euryalus, and placing a
+## Chapter XXVI
+
+Marcellus, by gaining possession of the Euryalus, and placing a
 garrison in it, was freed from one cause of anxiety; which was, lest
 any hostile force received into that fortress on his rear might annoy
 his troops, shut up and confined as they were within the walls. He
@@ -15928,7 +16603,9 @@ troops into the city, where their debilitated frames were recruited in
 houses and shade. Many however, of the Roman army were cut off by this
 pestilence.
 
-27. The land forces of the Carthaginians being thus destroyed, the
+## Chapter XXVII
+
+The land forces of the Carthaginians being thus destroyed, the
 Sicilians, who had served under Hippocrates retired to two towns of no
 great size, but well secured by natural situation and fortifications;
 one was three miles, the other fifteen, from Syracuse. Here they
@@ -15975,7 +16652,9 @@ of a city, a great part of which was already in the hands of the
 enemy, sailed to Agrigentum, intending to wait the issue of the
 contest, rather than take any new measures when there.
 
-28. Intelligence of these events having been carried into the camp of
+## Chapter XXVIII
+
+Intelligence of these events having been carried into the camp of
 the Sicilians, that Epicydes had departed from Syracuse, that the
 island was deserted by the Carthaginians, and almost again delivered
 up to the Romans; after sounding the inclinations of the besieged in
@@ -16018,7 +16697,9 @@ Romans; and that no so favourable a one would ever occur as that which
 presented itself at the present instant, immediately upon its
 appearing that they were delivered from their insolent tyrants."
 
-29. This speech was received with the most unqualified approbation of
+## Chapter XXIX
+
+This speech was received with the most unqualified approbation of
 all present. It was resolved, however, that praetors should be elected
 before the nomination of deputies; which being done, some of the
 praetors themselves were sent as deputies to Marcellus, the chief of
@@ -16065,7 +16746,9 @@ what had been negotiated with the Romans, it began to appear, as was
 really the case, that their cause and that of the deserters were
 different.
 
-30. The ambassadors returned from Marcellus very opportunely. They
+## Chapter XXX
+
+The ambassadors returned from Marcellus very opportunely. They
 informed them that they had been influenced by groundless suspicions,
 and that the Romans saw no reason why they should inflict punishment
 upon them. Of the three praefects of the Achradina one was a Spaniard,
@@ -16119,7 +16802,9 @@ under his command, had joined them, he sounded a retreat, lest the
 royal treasure, the fame of which was greater than the reality, should
 be plundered.
 
-31. The impetuosity of the soldiers having been checked, time and
+## Chapter XXXI
+
+The impetuosity of the soldiers having been checked, time and
 opportunity to escape were given to the deserters in the Achradina;
 and the Syracusans, at length delivered from their fears, threw open
 the gates of the Achradina, and sent deputies to Marcellus, requesting
@@ -16170,7 +16855,9 @@ corn he sent immediately to Syracuse; and had it not been for the very
 seasonable arrival of this supply, a destructive famine threatened
 alike the victors and the vanquished.
 
-32. Nothing very memorable had been done in Spain for about two years,
+## Chapter XXXII
+
+Nothing very memorable had been done in Spain for about two years,
 the operations of the war consisting more in laying plans than in
 fighting; but during the same summer in which the events above
 recorded took place, the Roman generals, quitting their winter
@@ -16201,7 +16888,9 @@ Anitorgis, within sight of the enemy, the river only separating them.
 Here Cneius Scipio, with the forces above mentioned, halted, but
 Publius Scipio proceeded to the portion of the war assigned to him.
 
-33. Hasdrubal perceiving that there were but few Roman troops in the
+## Chapter XXXIII
+
+Hasdrubal perceiving that there were but few Roman troops in the
 camp, and that their whole dependence was on the Celtiberian
 auxiliaries; and having had experience of the perfidy of the barbarian
 nations in general, and particularly of all those nations among which
@@ -16234,7 +16923,9 @@ using every caution not to encounter the enemy any where on level
 ground. On his departing, the enemy, crossing the river, pursued him
 almost in his footsteps.
 
-34. During the same period an equal terror and a greater danger
+## Chapter XXXIV
+
+During the same period an equal terror and a greater danger
 pressed upon Publius Scipio. Masinissa was a young man at that time an
 ally of the Carthaginians, whom afterwards the friendship of the
 Romans rendered illustrious and powerful. He not only opposed himself
@@ -16283,7 +16974,9 @@ horses in speed. Almost more were slain in the flight than in the
 battle; nor would a man have survived, had not night put a stop to the
 carnage, the day by this time rapidly drawing to a close.
 
-35. After this, the Carthaginian generals, who were not slow in
+## Chapter XXXV
+
+After this, the Carthaginian generals, who were not slow in
 following up their victory, immediately after the battle, scarcely
 giving their soldiers necessary rest, hurry their army to Hasdrubal,
 son of Hamilcar; confidently hoping, that after uniting their forces
@@ -16317,7 +17010,9 @@ they could; but Scipio exhorted them at once to fight so as not to
 expose themselves, and march at the same time, lest the infantry
 should overtake them.
 
-36. But having made but little progress for a long time, in
+## Chapter XXXVI
+
+But having made but little progress for a long time, in
 consequence of his making his troops sometimes advance and at others
 halt, and night now drawing on, Scipio recalled his troops from the
 battle, and collecting them, withdrew to a certain eminence, not very
@@ -16373,7 +17068,9 @@ the more, because he had been longer in command of them, had first
 engaged their affections, and first exhibited a specimen of Roman
 justice and forbearance.
 
-37. When it seemed that the Roman armies were annihilated, and Spain
+## Chapter XXXVII
+
+When it seemed that the Roman armies were annihilated, and Spain
 lost, one man recovered this desperate state of affairs. There was in
 the army one Lucius Marcius, the son of Septimus, a Roman knight, an
 enterprising youth, and possessing a mind and genius far superior to
@@ -16447,7 +17144,9 @@ succeeded he would retrieve their prostrate fortune, or if repulsed,
 still, by making the attack himself, he would rescue himself from
 contempt.
 
-38. Lest, however, the suddenness of the affair, and the fear of
+## Chapter XXXVIII
+
+Lest, however, the suddenness of the affair, and the fear of
 night, should frustrate a measure which was in itself ill adapted to
 his condition, he thought it right that his soldiers should be
 addressed and exhorted; and having called an assembly, he discoursed
@@ -16538,7 +17237,9 @@ their arms in readiness and recruiting their strength, the greater
 part of the night was given to rest, and at the fourth watch they were
 in motion.
 
-39. At a distance of six miles beyond their nearest camp lay other
+## Chapter XXXIX
+
+At a distance of six miles beyond their nearest camp lay other
 forces of the Carthaginians. A deep valley, thickly planted with
 trees, intervened. Near about the middle of this wood a Roman cohort
 and some cavalry were placed in concealment with Punic craft. The
@@ -16600,7 +17301,9 @@ continued for a considerable time in a tranquil state in Spain, as
 both parties, after giving and receiving such important defeats,
 hesitated to run the hazard of a general battle.
 
-40. During these transactions in Spain, Marcellus, after the capture
+## Chapter XL
+
+During these transactions in Spain, Marcellus, after the capture
 of Syracuse, having settled the other affairs in Sicily with so much
 honour and integrity as not only to add to his own renown, but also to
 the majesty of the Roman people, conveyed to Rome the ornaments of the
@@ -16657,7 +17360,9 @@ their crossing the river and offering battle; for, said he, if they
 should wait for Mutines, and the battle should terminate successfully,
 Mutines would certainly have the credit of it.
 
-41. But Marcellus, highly indignant that he who had repulsed Hannibal
+## Chapter XLI
+
+But Marcellus, highly indignant that he who had repulsed Hannibal
 from Nola, when rendered confident by his victory at Cannae, should
 succumb to enemies whom he had vanquished by sea and land, ordered his
 soldiers immediately to take arms and raise the standards. While
@@ -16716,7 +17421,9 @@ with Philip, king of Macedonia, and the Acarnanians._
 
        *        *        *        *        *
 
-1. The consuls, Cneius Fulvius Centumalus and Publius Sulpicius Galba,
+## Chapter I
+
+The consuls, Cneius Fulvius Centumalus and Publius Sulpicius Galba,
 having entered on their office on the ides of March, assembled the
 senate in the Capitol, and took the opinion of the fathers on the
 state of the republic, the manner of conducting the war, and on what
@@ -16756,7 +17463,9 @@ Sicilian, a hundred ships with two legions. Twenty-three legions were
 employed by the Romans in carrying on the war this year by land and
 sea.
 
-2. In the beginning of the year, on a letter from Lucius Marcius being
+## Chapter II
+
+In the beginning of the year, on a letter from Lucius Marcius being
 laid before the senate, they considered his achievements as most
 glorious; but the title of honour which he assumed (for though he was
 neither invested with the command by the order of the people, nor by
@@ -16826,7 +17535,9 @@ be sent away in a manner into banishment, and suffer an ignominious
 service. So unequally," he said, "was liberty shared at Rome by the
 rich and the poor, by the ennobled and the common people."
 
-3. The accused shifted the blame from himself to his soldiers; he
+## Chapter III
+
+The accused shifted the blame from himself to his soldiers; he
 said, "that in consequence of their having in the most turbulent
 manner demanded battle, they were led into the field, not on the day
 they desired, for it was then evening, but on the following; that they
@@ -16872,7 +17583,9 @@ not admit of his leaving Capua. Cneius Fulvius, therefore, before the
 day appointed for the comitia arrived, went into exile to Tarquinii,
 and the commons resolved that it was a legal exile.
 
-4. Meanwhile all the strength of the war was directed against Capua.
+## Chapter IV
+
+Meanwhile all the strength of the war was directed against Capua.
 It was, however, more strictly blockaded than besieged. The slaves and
 populace could neither endure the famine, nor send messengers to
 Hannibal through guards so closely stationed. A Numidian was at length
@@ -16910,7 +17623,9 @@ said that Quintus Navius was the person who advised the mixing of
 infantry with cavalry, and that he received honour from the general on
 that account.
 
-5. While affairs were in this state at Capua, Hannibal was perplexed
+## Chapter V
+
+While affairs were in this state at Capua, Hannibal was perplexed
 between two objects, the gaining possession of the citadel of
 Tarentum, and the retaining of Capua. His concern for Capua, however,
 prevailed, on which he saw that the attention of every body, allies
@@ -16974,7 +17689,9 @@ sides, and almost the whole line was turned against him; but neither
 the number of his enemies nor the force of the weapons could repel the
 onset of this hero.
 
-6. Marcus Atilius, the lieutenant-general, also caused the standard of
+## Chapter VI
+
+Marcus Atilius, the lieutenant-general, also caused the standard of
 the first company of principes of the same legion to be borne against
 a cohort of the Spaniards. Lucius Portius Licinus and Titus Popilius,
 the lieutenant-generals, who had the command of the camp, fought
@@ -17037,7 +17754,9 @@ who complained that Capua was deserted and betrayed by its nobles,
 accepted the office of chief magistrate, being the last Campanian who
 held it.
 
-7. But Hannibal, when he saw that the enemy could not be drawn into
+## Chapter VII
+
+But Hannibal, when he saw that the enemy could not be drawn into
 another engagement, nor a passage be forced through their camp into
 Capua, resolved to remove his camp from that place and leave the
 attempt unaccomplished, fearful lest the new consuls might cut off his
@@ -17072,7 +17791,9 @@ across in one night, after providing a stock of provisions for ten
 days, he led his legions down to the river by night, and passed them
 over before daylight.
 
-8. Fulvius Flaccus, who had discovered from deserters that this would
+## Chapter VIII
+
+Fulvius Flaccus, who had discovered from deserters that this would
 happen, before it took place, having written to Rome to the senate to
 apprize them of it, men's minds were variously affected by it
 according to the disposition of each. As might be expected in so
@@ -17112,7 +17833,9 @@ bring them down to the road from the fields which lay out of the way,
 and that they should draw together into their towns troops for their
 defence, in order that each state might be under its own protection.
 
-9. On the day he crossed the Vulturnus, Hannibal pitched his camp at a
+## Chapter IX
+
+On the day he crossed the Vulturnus, Hannibal pitched his camp at a
 small distance from the river. The next day, passing by Cales, he
 reached the Sidicinian territory, and having spent a day there in
 devastating the country, he led his troops along the Latin way through
@@ -17162,7 +17885,9 @@ the city. The nearer the enemy came, the greater was the number of
 fugitives slain by the Numidians who preceded him, and the greater the
 number of prisoners made of every rank and age.
 
-10. During this confusion, Fulvius Flaccus entered the city with his
+## Chapter X
+
+During this confusion, Fulvius Flaccus entered the city with his
 troops through the Capuan gate, passed through the midst of the city,
 and through Carinae, to Esquiliae; and going out thence, pitched his
 camp between the Esquiline and Colline gates. The plebeian aediles
@@ -17204,7 +17929,9 @@ retired from the walls. During the remainder of the day and the
 following night, several tumults arose without any foundation, and
 were repressed.
 
-11. The next day Hannibal, crossing the Anio, drew out all his forces
+## Chapter XI
+
+The next day Hannibal, crossing the Anio, drew out all his forces
 in order of battle; nor did Flaccus and the consuls decline to fight.
 When the troops on both sides were drawn up to try the issue of a
 battle, in which Rome was to be the prize of the victors, a violent
@@ -17250,7 +17977,9 @@ be confounded in the lapse of so brief a period. That he went that way
 is evident. The only question is, whether he took this route to the
 city, or returned by it from the city into Campania?
 
-12. With regard to Capua, Hannibal did not evince such obstinate
+## Chapter XII
+
+With regard to Capua, Hannibal did not evince such obstinate
 perseverance in raising the siege of it as the Romans did in pressing
 it; for quitting Lucania, he came into the Bruttian territory, and
 marched to the strait and Rhegium with such rapidity, that he was very
@@ -17316,7 +18045,9 @@ were arrested, and, with the late deserters, scourged with rods; and
 after their hands had been cut off, were driven back to Capua. The
 sight of so severe a punishment broke the spirit of the Campanians.
 
-13. The people, rushing in crowds to the senate-house, compelled
+## Chapter XIII
+
+The people, rushing in crowds to the senate-house, compelled
 Lesius to assemble a senate, and openly threatened the nobles, who had
 now for a long time absented themselves from the public deliberations,
 that unless they attended the meeting of the senate, they would go
@@ -17399,7 +18130,9 @@ court-yard of the house. This is the only free and honourable way to
 death. Our very enemies will admire our courage, and Hannibal will
 learn that those whom he deserted and betrayed were brave allies."
 
-14. More of those who heard this speech of Virrius approved of the
+## Chapter XIV
+
+More of those who heard this speech of Virrius approved of the
 proposal contained in it, than had strength of mind to execute what
 they approved. The greater part of the senate being not without hopes
 that the Romans, whose clemency they had frequently had proof of in
@@ -17433,7 +18166,9 @@ to Cales, to be kept in custody, and twenty-eight to Teanum; these
 being the persons by whose advice principally it appeared that the
 revolt from the Romans had taken place.
 
-15. Fulvius and Claudius were far from being agreed as to the
+## Chapter XV
+
+Fulvius and Claudius were far from being agreed as to the
 punishment of the Campanian senators. Claudius was disposed to grant
 their prayer for pardon, but Fulvius was more inclined to severity.
 Appius, therefore, was for referring the entire disposal of the
@@ -17489,7 +18224,9 @@ from this hated existence." So saying, he thrust a sword, which he had
 concealed under his garment, right through his breast, and fell
 lifeless at the general's feet.
 
-16. Because not only what related to the punishment of the Campanians,
+## Chapter XVI
+
+Because not only what related to the punishment of the Campanians,
 but most of the other particulars of this affair, were transacted
 according to the judgment of Flaccus alone, some authors affirm that
 Appius Claudius died about the time of the surrender of Capua, and
@@ -17542,7 +18279,9 @@ admit the ability of the Romans to punish their faithless allies, and
 how little assistance could be derived from Hannibal towards the
 defence of those whom he had taken under his protection.
 
-17. The Roman senate having gone through every thing which required
+## Chapter XVII
+
+The Roman senate having gone through every thing which required
 their attention relative to Capua, decreed to Caius Nero six thousand
 foot and three hundred horse, whichever he should himself choose out
 of those two legions which he had commanded at Capua, with an equal
@@ -17596,7 +18335,9 @@ moved off, prepared to give battle; but they declined fighting. Some
 skirmishes, however, took place between the rear of the Carthaginians
 and the advanced guard of the Romans.
 
-18. During the time in which these events occurred, neither did those
+## Chapter XVIII
+
+During the time in which these events occurred, neither did those
 states of Spain which had revolted after the defeat that was
 sustained, return to the Romans, nor did any others desert them. At
 Rome, the attention of the senate and people, after the recovery of
@@ -17638,7 +18379,9 @@ which he belonged were in mourning, he was going into a province where
 he must carry on his operations between the tombs of his father and
 his uncle.
 
-19. Perceiving the solicitude and anxiety which people felt, after
+## Chapter XIX
+
+Perceiving the solicitude and anxiety which people felt, after
 performing the business with so much ardour, he summoned an assembly,
 in which he discoursed in so noble and high minded a manner, on his
 years, the command intrusted to him, and the war which he had to carry
@@ -17694,7 +18437,9 @@ arising from the great confidence he had in his own talents, that no
 presumptuous expression ever escaped him; and in every thing he said
 there appeared at once the greatest majesty and sincerity.
 
-20. Setting out from Tarraco, he visited the states of his allies and
+## Chapter XX
+
+Setting out from Tarraco, he visited the states of his allies and
 the winter quarters of his army; and bestowed the highest
 commendations upon the soldiers, because, though they had received two
 such disastrous blows in succession, they had retained possession of
@@ -17735,7 +18480,9 @@ received. The scarcity of provisions, however, was not much relieved
 by it; because when the protection by sea was removed corn could not
 be brought in.
 
-21. At the close of the same summer, Marcus Marcellus arriving at the
+## Chapter XXI
+
+At the close of the same summer, Marcus Marcellus arriving at the
 city from his province of Sicily, an audience of the senate was given
 him by Caius Calpurnius, the praetor, in the temple of Bellona. Here,
 after discoursing on the services he had performed, and complaining in
@@ -17799,7 +18546,9 @@ had revolted; out of which he gave Murgantia to those Spaniards who
 were entitled to a city and land, in conformity with the decree of the
 senate.
 
-22. As both the consuls had Apulia for their province, and as there
+## Chapter XXII
+
+As both the consuls had Apulia for their province, and as there
 was now less to be apprehended from Hannibal and the Carthaginians,
 they were directed to draw lots for the provinces of Apulia and
 Macedonia. Macedonia fell to the lot of Sulpicius, who succeeded
@@ -17857,7 +18606,9 @@ should intrust a command by their vote, is rendered scarcely probable
 by the contempt and levity with which the parental authority is
 treated by children in the present age.
 
-23. The assembly for the election of praetors was then held, at which
+## Chapter XXIII
+
+The assembly for the election of praetors was then held, at which
 Publius Manlius Vulso, Lucius Manlius Acidinus, Caius Laetorius, and
 Lucius Cincius Alimentus were elected. It happened that just as the
 elections were concluded, news was brought that Titus Otacilius, whom
@@ -17887,7 +18638,9 @@ after the year was concluded, no person was nominated to succeed him.
 Caius Claudius, flamen of Jupiter, retired from his office, because he
 had distributed the entrails improperly.
 
-24. During the same time Marcus Valerius Laevinus, having first
+## Chapter XXIV
+
+During the same time Marcus Valerius Laevinus, having first
 sounded the intentions of the leading men by means of secret
 conferences, came with some light ships to a council of the Aetolians,
 which had been previously appointed to meet for this very purpose.
@@ -17945,7 +18698,9 @@ sufficiently engaged in war with his neighbours to prevent his
 thinking of Italy, the Carthaginians, and his compact with Hannibal,
 he retired to Corcyra.
 
-25. To Philip intelligence of the defection of the Aetolians was
+## Chapter XXV
+
+To Philip intelligence of the defection of the Aetolians was
 brought while in winter quarters at Pella. As he was about to march an
 army into Greece at the beginning of the spring, he undertook a sudden
 expedition into the territories of Oricum and Apollonia, in order that
@@ -18002,7 +18757,9 @@ to prevent the Acarnanians being overpowered; and when he had received
 information that the Aetolians had returned out of Acarnania, he also
 returned to Pella.
 
-26. Laevinus set sail from Corcyra in the beginning of the spring, and
+## Chapter XXVI
+
+Laevinus set sail from Corcyra in the beginning of the spring, and
 doubling the promontory Leucate, arrived at Naupactus; when he gave
 notice that he should go thence to Anticyra, in order that Scopas and
 the Aetolians might be ready there to join him. Anticyra is situated
@@ -18049,7 +18806,9 @@ who would probably stir up war in a time of profound peace, and
 therefore were the less likely to allow the state to breathe in time
 of war.
 
-27. A fire which broke out in several places at once in the
+## Chapter XXVII
+
+A fire which broke out in several places at once in the
 neighbourhood of the forum, on the night before the festival of
 Minerva, interrupted these discourses. Seven shops, where five were
 afterwards erected, and the banks, which are now called the new banks,
@@ -18110,7 +18869,9 @@ in war. Both the consuls, however, first proposed to the senate the
 consideration of the state of the commonwealth, and the arrangements
 respecting the provinces.
 
-28. On this occasion Laevinus reported the state of Macedonia and
+## Chapter XXVIII
+
+On this occasion Laevinus reported the state of Macedonia and
 Greece, of the Aetolians, Acarnanians, and Locrians, and the services
 he had himself performed there on sea and land. That "Philip, who was
 bringing an army against the Aetolians, had been driven back by him
@@ -18154,7 +18915,9 @@ the city, as not to enlist any one who had served in the armies of
 Marcus Claudius, Marcus Valerius, or Quintus Fulvius, so that the
 Roman legions might not exceed twenty-one that year.
 
-29. After the senate had passed these decrees, the consuls drew lots
+## Chapter XXIX
+
+After the senate had passed these decrees, the consuls drew lots
 for their provinces. Sicily and the fleet fell to the lot of
 Marcellus; Italy, with the war against Hannibal, to Laevinus. This
 result so terrified the Sicilians, who were standing in sight of the
@@ -18193,7 +18956,9 @@ most prosperous, might add to the glory of that man, from whom he
 derived the reputation of having been the first Roman general who
 defeated him.
 
-30. After the provinces had been exchanged, the Sicilians, on being
+## Chapter XXX
+
+After the provinces had been exchanged, the Sicilians, on being
 introduced into the senate, discoursed largely on the constant
 fidelity of king Hiero to the Roman people, converting it into a
 public merit. They said, "that the tyrants, Hieronymus, and, after
@@ -18242,7 +19007,9 @@ having as our accusers those whom we have conquered with our arms. Of
 the two cities which have been captured this year, let Capua arraign
 Fulvius, and Syracuse Marcellus."
 
-31. The deputies having been brought back into the senate-house, the
+## Chapter XXXI
+
+The deputies having been brought back into the senate-house, the
 consul said: "I am not so unmindful of the dignity of the Roman people
 and of the office I fill as consul, conscript fathers, as to make a
 defence against charges brought by Greeks, had the inquiry related
@@ -18291,7 +19058,9 @@ my absence the senate may deliberate more freely." Accordingly, the
 Sicilians having been dismissed, he himself also went away to the
 Capitol to levy soldiers.
 
-32. The other consul then proposed to the fathers the consideration of
+## Chapter XXXII
+
+The other consul then proposed to the fathers the consideration of
 the requests of the Sicilians, when a long debate took place. A great
 part of the senate acquiesced in an opinion which originated with
 Titus Manlius Torquatus, "that the war ought to have been carried on
@@ -18328,7 +19097,9 @@ calamities, and to receive themselves and the city of Syracuse under
 his protection and patronage; after which, the consul addressed them
 kindly and dismissed them.
 
-33. An audience of the senate was then granted to the Campanians.
+## Chapter XXXIII
+
+An audience of the senate was then granted to the Campanians.
 Their speech was more calculated to excite compassion, but their case
 less favourable, for neither could they deny that they deserved the
 punishment they had suffered, nor were there any tyrants to whom they
@@ -18388,7 +19159,9 @@ ask you what it is your pleasure should be done." The commons thus
 ordered: "Whatsoever the senate on oath, or the majority of those
 present, may determine, that we will and order."
 
-34. The senate having taken the matter into their consideration in
+## Chapter XXXIV
+
+The senate having taken the matter into their consideration in
 conformity with this order of the people, first restored to Oppia and
 Cluvia their goods and liberty; directing, that if they wished to
 solicit any other rewards from the senate, they should come to Rome.
@@ -18432,7 +19205,9 @@ consequence of these decrees; and now they no longer complained of the
 severity of Quintus Fulvius towards them, but of the malignity of the
 gods and their own accursed fortune.
 
-35. After the Sicilians and Campanians were dismissed, a levy was
+## Chapter XXXV
+
+After the Sicilians and Campanians were dismissed, a levy was
 made; and after the troops had been enlisted for the army, they then
 began to consider about making up the number of rowers; but as there
 was neither a sufficient supply of men for that purpose, nor any money
@@ -18469,7 +19244,9 @@ there was no money in the treasury? and how, without fleets, could
 Sicily be kept in subjection, or Philip be prevented from entering
 Italy, or the shores of Italy be protected?
 
-36. In this perplexing state of affairs, when all deliberation was at
+## Chapter XXXVI
+
+In this perplexing state of affairs, when all deliberation was at
 a stand, and a kind of torpor had seized on men's minds, Laevinus, the
 consul, observed, that "as the magistrates were more honoured than the
 senators, and the senators than the people, so also ought they to be
@@ -18513,7 +19290,9 @@ of the magistrates, the state neither wanted rowers to make up the
 numbers, nor money to pay them; and after every thing had been got in
 readiness for the war, the consuls set out for their provinces.
 
-37. Nor was there ever any period of the war, when both the
+## Chapter XXXVII
+
+Nor was there ever any period of the war, when both the
 Carthaginians and the Romans, plunged alike in vicissitudes, were in a
 state of more anxious suspense between hope and fear. For on the side
 of the Romans, with respect to their provinces, their failure in Spain
@@ -18543,7 +19322,9 @@ fortune balancing events against each other, all was suspense and
 uncertainty on both sides, their hopes and their fears being as strong
 as though they were now first commencing the war.
 
-38. What grieved Hannibal more than any thing was the fact, that Capua
+## Chapter XXXVIII
+
+What grieved Hannibal more than any thing was the fact, that Capua
 having been more perseveringly besieged by the Romans than defended by
 him, had turned from him the regard of many of the states of Italy,
 and it was not only impossible for him to retain possession of all
@@ -18597,7 +19378,9 @@ of cavalry was considerably more detrimental to Hannibal than that of
 Salapia, for the Carthaginian was never afterwards superior in
 cavalry, in which he had before been most effective.
 
-39. During this time the scarcity of provisions in the citadel of
+## Chapter XXXIX
+
+During this time the scarcity of provisions in the citadel of
 Tarentum was almost intolerable; the Roman garrison there, and Marcus
 Livius, the praefect of the garrison and the citadel, placing all
 their dependence in the supplies sent from Sicily; that these might
@@ -18678,7 +19461,9 @@ being victorious by land, and the Tarentines by sea. Both parties were
 equally disappointed in their hope of receiving provisions after they
 were within sight.
 
-40. While these events were occurring, the consul, Laevinus, after a
+## Chapter XL
+
+While these events were occurring, the consul, Laevinus, after a
 great part of the year had elapsed, having arrived in Sicily, where he
 had been expected by both the old and new allies, considered it his
 first and principal duty to adjust the affairs of Syracuse, which were
@@ -18748,7 +19533,9 @@ in want of a band of men habituated to robbery, for the purpose of
 committing depredations upon the Bruttian territory. Thus, so far as
 related to Sicily, the war was this year terminated.
 
-41. In Spain, in the beginning of spring, Publius Scipio, having
+## Chapter XLI
+
+In Spain, in the beginning of spring, Publius Scipio, having
 launched his ships, and summoned the auxiliary troops of his allies to
 Tarraco by an edict, ordered his fleet and transports to proceed
 thence to the mouth of the Iberus. He also ordered his legions to quit
@@ -18846,7 +19633,9 @@ honour, and courage, to you, that every man of you shall say that his
 commander, Scipio, has either returned to life, or has been born
 again."
 
-42. Having animated his troops with this harangue, and leaving Marcus
+## Chapter XLII
+
+Having animated his troops with this harangue, and leaving Marcus
 Silanus with three thousand infantry and three hundred horse, for the
 protection of that district, he crossed the Iberus with all the rest
 of his troops, consisting of twenty-five thousand infantry and two
@@ -18887,7 +19676,9 @@ object was to make a display of his confidence to the enemy from
 motives of pride, or that he might have free regress when frequently
 advancing to the walls of the city.
 
-43. Having completed the other requisite works, he drew up his ships
+## Chapter XLIII
+
+Having completed the other requisite works, he drew up his ships
 in the harbour, that he might exhibit to the enemy the appearance of a
 blockade by sea also; he then went round the fleet, and having warned
 the commanders of the ships to be particularly careful in keeping the
@@ -18926,7 +19717,9 @@ one accord cried out that it should be done; and he led them to
 Carthage, and ordered that the assault should be made both by sea and
 land.
 
-44. On the other side, Mago, the Carthaginian general, perceiving that
+## Chapter XLIV
+
+On the other side, Mago, the Carthaginian general, perceiving that
 a siege was being prepared for both by sea and land, himself also
 disposed his forces thus: he placed two thousand of the townsmen to
 oppose the enemy, on the side facing the Roman camp; he occupied the
@@ -18966,7 +19759,9 @@ shore, and hastily landing the ladders and the men, each man pressing
 forward to gain the land the shortest way, they hindered one another
 by their very haste and eagerness.
 
-45. In the mean time, the Carthaginians had now filled the walls again
+## Chapter XLV
+
+In the mean time, the Carthaginians had now filled the walls again
 with armed men, who were supplied with a great quantity of missiles
 from the immense stores which they had laid up. But neither men nor
 missiles, nor any thing else, so effectually defended them as the
@@ -19004,7 +19799,9 @@ human feet to afford a passage to the Romans, ordered them to follow
 Neptune as their guide, and passing through the middle of the lake,
 make good their way to the walls.
 
-46. Those who renewed the assault by land experienced great
+## Chapter XLVI
+
+Those who renewed the assault by land experienced great
 difficulty; for they were baffled not only by the height of the walls,
 but also because they exposed the Romans, as they approached them, to
 the missiles of the enemy from different quarters, so that their sides
@@ -19046,7 +19843,9 @@ that, on a signal given, a stop was put to the carnage, and the
 victors turned their attention to the plunder, of which there was an
 immense quantity of every description.
 
-47. Of males of free condition, as many as ten thousand were captured.
+## Chapter XLVII
+
+Of males of free condition, as many as ten thousand were captured.
 Of these he allowed to depart such as were citizens of New Carthage;
 and restored to them their city, and all their property which the war
 had left them. The artisans amounted to two thousand, whom he assigned
@@ -19076,7 +19875,9 @@ sails, spartum, and other naval materials, of use in equipping a
 fleet; so that amid such large military stores which were captured,
 Carthage itself was of the least consideration.
 
-48. Having ordered Caius Laelius with the marines to guard the city,
+## Chapter XLVIII
+
+Having ordered Caius Laelius with the marines to guard the city,
 Scipio led back his legions to the camp the same day in person; and as
 his soldiers were tired, as they had in one day gone through every
 kind of military labour; for they had engaged the enemy in the field,
@@ -19134,7 +19935,9 @@ admiral of the fleet, by the placing him upon an equality with
 himself, and bestowing upon him every kind of commendation, and also
 by presenting him with a golden crown and thirty oxen.
 
-49. He then ordered the Spanish hostages to be summoned. What the
+## Chapter XLIX
+
+He then ordered the Spanish hostages to be summoned. What the
 number of these was I feel reluctant to state, because in some authors
 I find that it was about three hundred, in others seven hundred and
 twenty-five. There is the same difference between authors with regard
@@ -19186,7 +19989,9 @@ becoming matrons." He then delivered them over to a man of tried
 virtue, ordering him to treat them with no less respect and modesty
 than the wives and mothers of guests.
 
-50. The soldiers then brought to him a female captive, a grown-up
+## Chapter L
+
+The soldiers then brought to him a female captive, a grown-up
 virgin, of such exquisite beauty, that whichever way she walked she
 attracted the eyes of every body. Scipio, on making inquiries as to
 her country and parentage, heard, among other particulars, that she
@@ -19237,7 +20042,9 @@ kindness and generosity." Accordingly, making a levy among his
 dependants, he returned to Scipio after a few days, with fourteen
 hundred chosen horsemen.
 
-51. Scipio kept Laelius with him until he had disposed of the
+## Chapter LI
+
+Scipio kept Laelius with him until he had disposed of the
 captives, hostages, and booty, in accordance with his advice; but when
 all these matters were satisfactorily arranged, he gave him a
 quinquereme; and selecting from the captives Mago, and about fifteen

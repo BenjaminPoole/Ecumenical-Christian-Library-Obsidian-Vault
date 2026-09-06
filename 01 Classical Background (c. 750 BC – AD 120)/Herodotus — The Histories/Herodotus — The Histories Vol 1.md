@@ -164,7 +164,9 @@ some by Hellenes and some by Barbarians, may lose their renown; and
 especially that the causes may be remembered for which these waged war
 with one another.
 
-1. Those of the Persians who have knowledge of history declare that
+## Chapter 1
+
+Those of the Persians who have knowledge of history declare that
 the Phenicians first began the quarrel. These, they say, came from that
 which is called the Erythraian Sea to this of ours; and having settled
 in the land where they continue even now to dwell, set themselves
@@ -183,7 +185,9 @@ made a rush upon them; and the greater part of the women escaped by
 flight, but Io and certain others were carried off. So they put them on
 board their ship, and forthwith departed, sailing away to Egypt.
 
-2. In this manner the Persians report that Io came to Egypt, not
+## Chapter 2
+
+In this manner the Persians report that Io came to Egypt, not
 agreeing therein with the Hellenes, 3 and this they say was the first
 beginning of wrongs. Then after this, they say, certain Hellenes (but
 the name of the people they are not able to report) put in to the city
@@ -199,7 +203,9 @@ they answered that, as the Barbarians had given them no satisfaction for
 the rape of Io the Argive, so neither would they give satisfaction to
 the Barbarians for this.
 
-3. In the next generation after this, they say, Alexander the son of
+## Chapter 3
+
+In the next generation after this, they say, Alexander the son of
 Priam, having heard of these things, desired to get a wife for himself
 by violence 4 from Hellas, being fully assured that he would not be
 compelled to give any satisfaction for this wrong, inasmuch as the
@@ -211,7 +217,9 @@ now desiring satisfaction to be given to them by others, though they
 had given none themselves nor had surrendered the person when demand was
 made.
 
-4. Up to this point, they say, nothing more happened than the carrying
+## Chapter 4
+
+Up to this point, they say, nothing more happened than the carrying
 away of women on both sides; but after this the Hellenes were very
 greatly to blame; for they set the first example of war, making an
 expedition into Asia before the Barbarians made any into Europe. Now
@@ -229,7 +237,9 @@ their enemy: for Asia and the Barbarian races which dwell there the
 Persians claim as belonging to them; but Europe and the Hellenic race
 they consider to be parted off from them.
 
-5. The Persians for their part say that things happened thus; and they
+## Chapter 5
+
+The Persians for their part say that things happened thus; and they
 conclude that the beginning of their quarrel with the Hellenes was on
 account of the taking of Ilion: but as regards Io the Phenicians do not
 agree with the Persians in telling the tale thus; for they deny that
@@ -248,7 +258,9 @@ become small, while those that were in my own time great used in former
 times to be small: so then, since I know that human prosperity never
 continues steadfast, I shall make mention of both indifferently.
 
-6. Croesus was Lydian by race, the son of Alyattes and ruler of the
+## Chapter 6
+
+Croesus was Lydian by race, the son of Alyattes and ruler of the
 nations which dwell on this side of the river Halys; which river,
 flowing from the South between the Syrians 5 and the Paphlagonians, runs
 out towards the North Wind into that Sea which is called the Euxine.
@@ -261,7 +273,9 @@ reign of Croesus all the Hellenes were free; for the expedition of the
 Kimmerians, which came upon Ionia before the time of Croesus, was not a
 conquest of the cities but a plundering incursion only. 6
 
-7. Now the supremacy which had belonged to the Heracleidai came to the
+## Chapter 7
+
+Now the supremacy which had belonged to the Heracleidai came to the
 family of Croesus, called Mermnadai, in the following manner:—Candaules,
 whom the Hellenes call Myrsilos, was ruler of Sardis and a descendant of
 Alcaios, son of Heracles: for Agron, the son of Ninos, the son of Belos,
@@ -275,7 +289,9 @@ with it by reason of an oracle; and they reigned for two-and-twenty
 generations of men, five hundred and five years, handing on the power
 from father to son, till the time of Candaules the son of Myrsos.
 
-8. This Candaules then of whom I speak had become passionately in love
+## Chapter 8
+
+This Candaules then of whom I speak had become passionately in love
 with his own wife; and having become so, he deemed that his wife was
 fairer by far than all other women; and thus deeming, to Gyges the son
 of Daskylos (for he of all his spearmen was the most pleasing to him),
@@ -294,7 +310,9 @@ and of these one is this,—that each man should look on his own: but I
 believe indeed that she is of all women the fairest and I entreat thee
 not to ask of me that which it is not lawful for me to do."
 
-9. With such words as these he resisted, fearing lest some evil might
+## Chapter 9
+
+With such words as these he resisted, fearing lest some evil might
 come to him from this; but the king answered him thus: "Be of good
 courage, Gyges, and have no fear, either of me, that I am saying these
 words to try thee, or of my wife, lest any harm may happen to thee from
@@ -308,7 +326,9 @@ leisure. And when she goes from the chair to the bed and thou shalt be
 behind her back, then let it be thy part to take care that she sees thee
 not as thou goest through the door."
 
-10. He then, since he might not avoid it, gave consent: and Candaules,
+## Chapter 10
+
+He then, since he might not avoid it, gave consent: and Candaules,
 when he considered that it was time to rest, led Gyges to the chamber;
 and straightway after this the woman also appeared: and Gyges looked
 upon her after she came in and as she laid down her garments; and when
@@ -320,7 +340,9 @@ she made as though she had not perceived the matter, meaning to avenge
 herself upon Candaules: for among the Lydians as also among most other
 Barbarians it is a shame even for a man to be seen naked.
 
-11. At the time then she kept silence, as I say, and made no outward
+## Chapter 11
+
+At the time then she kept silence, as I say, and made no outward
 sign; but as soon as day had dawned, and she made ready those of the
 servants whom she perceived to be the most attached to herself, and
 after that she sent to summon Gyges. He then, not supposing that
@@ -345,7 +367,9 @@ shall lay hands upon him." And she answering said: "From that same place
 shall the attempt be, where he displayed me naked; and we will lay hands
 upon him as he sleeps."
 
-12. So after they had prepared the plot, when night came on, (for Gyges
+## Chapter 12
+
+So after they had prepared the plot, when night came on, (for Gyges
 was not let go nor was there any way of escape for him, but he must
 either be slain himself or slay Candaules), he followed the woman to the
 bedchamber; and she gave him a dagger and concealed him behind that very
@@ -354,7 +378,9 @@ privily up to him 10 and slew him, and he obtained both his wife and his
 kingdom: of him moreover Archilochos the Parian, who lived about that
 time, made mention in a trimeter iambic verse. 11
 
-13. He obtained the kingdom however and was strengthened in it by means
+## Chapter 13
+
+He obtained the kingdom however and was strengthened in it by means
 of the Oracle at Delphi; for when the Lydians were angry because of the
 fate of Candaules, and had risen in arms, a treaty was made between the
 followers of Gyges and the other Lydians to this effect, that if the
@@ -366,7 +392,9 @@ the Heracleidai should come upon the descendants of Gyges in the fifth
 generation. Of this oracle the Lydians and their kings made no account
 until it was in fact fulfilled.
 
-14. Thus the Mermnadai obtained the government having driven out from it
+## Chapter 14
+
+Thus the Mermnadai obtained the government having driven out from it
 the Heracleidai: and Gyges when he became ruler sent votive offerings to
 Delphi not a few, for of all the silver offerings at Delphi his are more
 in number than those of any other man; and besides the silver he offered
@@ -390,12 +418,16 @@ other great deed did he do in his reign, which lasted eight-and-thirty
 years, therefore we will pass him by with no more mention than has
 already been made,
 
-15, and I will speak now of Ardys the son of Gyges, who became king
+## Chapter 15
+
+and I will speak now of Ardys the son of Gyges, who became king
 after Gyges. He took Priene and made an invasion against Miletos; and
 while he was ruling over Sardis, the Kimmerians driven from their abodes
 by the nomad Scythians came to Asia and took Sardis except the citadel.
 
-16. Now when Ardys had been king for nine-and-forty years, Sadyattes his
+## Chapter 16
+
+Now when Ardys had been king for nine-and-forty years, Sadyattes his
 son succeeded to his kingdom, and reigned twelve years; and after him
 Alyattes. This last made war against Kyaxares the descendant of Deïokes
 and against the Medes, 15 and he drove the Kimmerians forth out of Asia,
@@ -404,7 +436,9 @@ invasion against Clazomenai. From this he ed not as he desired, but
 with great loss: during his reign however he performed other deeds very
 worthy of mention as follows:—
 
-17. He made war with those of Miletos, having received this war as
+## Chapter 17
+
+He made war with those of Miletos, having received this war as
 an inheritance from his father: for he used to invade their land and
 besiege Miletos in the following manner:—whenever there were ripe crops
 upon the land, then he led an army into their confines, making his march
@@ -419,7 +453,9 @@ houses to the end that the Milesians might have places to dwell in while
 they sowed and tilled the land, and by the means of their labour he
 might have somewhat to destroy when he made his invasion.
 
-18. Thus he continued to war with them for eleven years; and in the
+## Chapter 18
+
+Thus he continued to war with them for eleven years; and in the
 course of these years the Milesians suffered two great defeats, once
 when they fought a battle in the district of Limenion in their own land,
 and again in the plain of Maiander. Now for six of the eleven years
@@ -434,7 +470,9 @@ only the men of Chios. These came to their aid to pay back like with
 like, for the Milesians had formerly assisted the Chians throughout
 their war with the people of Erythrai.
 
-19. Then in the twelfth year of the war, when standing corn was being
+## Chapter 19
+
+Then in the twelfth year of the war, when standing corn was being
 burnt by the army of the Lydians, it happened as follows:—as soon as the
 corn was kindled, it was driven by a violent wind and set fire to the
 temple of Athene surnamed of Assessos; and the temple being set on fire
@@ -448,7 +486,9 @@ would give them no answer, until they should have built up again
 the temple of Athene which they had burnt at Assessos in the land of
 Miletos.
 
-20. Thus much I know by the report of the people of Delphi; but the
+## Chapter 20
+
+Thus much I know by the report of the people of Delphi; but the
 Milesians add to this that Periander the son of Kypselos, being a
 special guest-friend of Thrasybulos the then despot of Miletos, heard
 of the oracle which had been given to Alyattes, and sending a messenger
@@ -456,7 +496,9 @@ told Thrasybulos, in order that he might have knowledge of it beforehand
 and take such counsel as the case required. This is the story told by
 the Milesians.
 
-21. And Alyattes, when this answer was reported to him, sent a herald
+## Chapter 21
+
+And Alyattes, when this answer was reported to him, sent a herald
 forthwith to Miletos, desiring to make a truce with Thrasybulos and the
 Milesians for so long a time as he should be building the temple. He
 then was being sent as envoy to Miletos; and Thrasybulos in the meantime
@@ -467,7 +509,9 @@ city, both his own and that which belonged to private persons; and he
 proclaimed to the Milesians that on a signal given by him they should
 all begin to drink and make merry with one another.
 
-22. This Thrasybulos did and thus proclaimed to the end that the herald
+## Chapter 22
+
+This Thrasybulos did and thus proclaimed to the end that the herald
 from Sardis, seeing a vast quantity of provisions carelessly piled up,
 and the people feasting, might report this to Alyattes: and so on fact
 it happened; for when the herald ed to Sardis after seeing this and
@@ -483,7 +527,9 @@ of one, and himself recovered from his sickness. With regard then to
 the war waged by Alyattes with the Milesians and Thrasybulos things went
 thus.
 
-23. As for Periander, the man who gave information about the oracle to
+## Chapter 23
+
+As for Periander, the man who gave information about the oracle to
 Thrasybulos, he was the son of Kypselos, and despot of Corinth. In his
 life, say the Corinthians, (and with them agree the Lesbians), there
 happened to him a very great marvel, namely that Arion of Methymna was
@@ -492,7 +538,9 @@ second to none of those who then lived, and the first, so far as we
 know, who composed a dithyramb, naming it so and teaching it to a chorus
 17 at Corinth.
 
-24. This Arion, they say, who for the most part of his time stayed with
+## Chapter 24
+
+This Arion, they say, who for the most part of his time stayed with
 Periander, conceived a desire to sail to Italy 18 and Sicily; and
 after he had there acquired large sums of money, he wished to again to
 Corinth. He set forth therefore from Taras, 19 and as he had faith
@@ -528,7 +576,9 @@ Corinthians and Lesbians alike, and there is at Tainaron a votive
 offering of Arion of no great size, 21 namely a bronze figure of a man
 upon a dolphin's back.
 
-25. Alyattes the Lydian, when he had thus waged war against the
+## Chapter 25
+
+Alyattes the Lydian, when he had thus waged war against the
 Milesians, afterwards died, having reigned seven-and-fifty years. This
 king, when he recovered from his sickness, dedicated a votive offering
 at Delphi (being the second of his house who had so done), namely a
@@ -537,7 +587,9 @@ which last is a sight worth seeing above all the offerings at Delphi and
 the work of Glaucos the Chian, who of all men first found out the art of
 welding iron.
 
-26. After Alyattes was dead Croesus the son of Alyattes received the
+## Chapter 26
+
+After Alyattes was dead Croesus the son of Alyattes received the
 kingdom in succession, being five-and-thirty years of age. He (as I
 said) fought against the Hellenes and of them he attacked the Ephesians
 first. The Ephesians then, being besieged by him, dedicated their city
@@ -550,7 +602,9 @@ causes of complaint, and making serious charges against those in whose
 cases he could find serious grounds, while against others of them he
 charged merely trifling offences.
 
-27. Then when the Hellenes in Asia had been conquered and forced to pay
+## Chapter 27
+
+Then when the Hellenes in Asia had been conquered and forced to pay
 tribute, he designed next to build for himself ships and to lay hands
 upon those who dwelt in the islands; and when all was prepared for
 his building of ships, they say that Bias of Priene (or, according to
@@ -574,14 +628,18 @@ obeying his suggestion, for he judged him to speak suitably, he stopped
 his building of ships; and upon that he formed a friendship with the
 Ionians dwelling in the islands.
 
-28. As time went on, when nearly all those dwelling on this side the
+## Chapter 28
+
+As time went on, when nearly all those dwelling on this side the
 river Halys had been subdued, (for except the Kilikians and Lykians
 Croesus subdued and kept under his rule all the nations, that is to say
 Lydians, Phrygians, Mysians, Mariandynoi, Chalybians, Paphlagonians,
 Thracians both Thynian and Bithynian, Carians, Ionians, Dorians,
 Aiolians, and Pamphylians), 24
 
-29, when these, I say, had been subdued, and while he was still adding
+## Chapter 29
+
+when these, I say, had been subdued, and while he was still adding
 to his Lydian dominions, there came to Sardis, then at the height of
 its wealth, all the wise men 25 of the Hellas who chanced to be alive at
 that time, brought thither severally by various occasions; and of them
@@ -593,7 +651,9 @@ of themselves the Athenians were not competent to do this, having bound
 themselves by solemn oaths to submit for ten years to the laws which
 Solon should propose for them.
 
-30. So Solon, having left his native country for this reason and for
+## Chapter 30
+
+So Solon, having left his native country for this reason and for
 the sake of seeing various lands, came to Amasis in Egypt, and also to
 Croesus at Sardis. Having there arrived he was entertained as a guest
 by Croesus in the king's palace; and afterwards, on the third or fourth
@@ -618,7 +678,9 @@ neighbouring people, he brought up supports and routed the foe and there
 died by a most fair death; and the Athenians buried him publicly where
 he fell, and honoured him greatly."
 
-31. So when Solon had moved Croesus to inquire further by the story of
+## Chapter 31
+
+So when Solon had moved Croesus to inquire further by the story of
 Tellos, recounting how many points of happiness he had, the king
 asked again whom he had seen proper to be placed next after this man,
 supposing that he himself would certainly obtain at least the second
@@ -648,7 +710,9 @@ last end. 31 And the Argives made statues in the likeness of them and
 dedicated them as offerings at Delphi, thinking that they had proved
 themselves most excellent."
 
-32. Thus Solon assigned the second place in respect of happiness to
+## Chapter 32
+
+Thus Solon assigned the second place in respect of happiness to
 these: and Croesus was moved to anger and said: "Athenian guest, hast
 thou then so cast aside our prosperous state as worth nothing, that thou
 dost prefer to us even men of private station?" And he said: "Croesus,
@@ -698,12 +762,16 @@ we must of every thing examine the end and how it will turn out at the
 last, for to many God shows but a glimpse of happiness and then plucks
 them up by the roots and overturns them."
 
-33. Thus saying he refused to gratify Croesus, who sent him away
+## Chapter 33
+
+Thus saying he refused to gratify Croesus, who sent him away
 from his presence holding him in no esteem, and thinking him utterly
 senseless in that he passed over present good things and bade men look
 to the end of every matter.
 
-34. After Solon had departed, a great retribution from God came upon
+## Chapter 34
+
+After Solon had departed, a great retribution from God came upon
 Croesus, probably because he judged himself to be the happiest of all
 men. First there came and stood by him a dream, which showed to him the
 truth of the evils that were about to come to pass in respect of his
@@ -720,7 +788,9 @@ and lances and all such things which men use for fighting he conveyed
 out of the men's apartments and piled them up in the inner bed-chambers,
 for fear lest something hanging up might fall down upon his son.
 
-35. Then while he was engaged about the marriage of his son, there came
+## Chapter 35
+
+Then while he was engaged about the marriage of his son, there came
 to Sardis a man under a misfortune and with hands not clean, a Phrygian
 by birth and of the royal house. This man came to the house of Croesus,
 and according to the customs which prevail in that land made request
@@ -739,7 +809,9 @@ thou shalt want of nothing so long as thou shalt remain in our land: and
 thou wilt find it most for thy profit to bear this misfortune as lightly
 as may be." So he had his abode with Croesus. 36
 
-36. During this time there was produced in the Mysian Olympos a boar of
+## Chapter 36
+
+During this time there was produced in the Mysian Olympos a boar of
 monstrous size. This, coming down from the mountain aforesaid, ravaged
 the fields of the Mysians, and although the Mysians went out against it
 often, yet they could do it no hurt, but rather received hurt themselves
@@ -757,7 +829,9 @@ whole number of my hunting dogs, and I will give command to those who
 go, to be as zealous as may be in helping you to destroy the wild beast
 out of your land."
 
-37. Thus he made reply, and while the Mysians were being contented with
+## Chapter 37
+
+Thus he made reply, and while the Mysians were being contented with
 this answer, there came in also the son of Croesus, having heard of the
 request made by the Mysians: and when Croesus said that he would not
 send his son with them, the young man spoke as follows: "My father, in
@@ -772,7 +846,9 @@ husband will she think that she is mated? Therefore either let me go to
 the hunt, or persuade me by reason that these things are better for me
 done as now they are."
 
-38. And Croesus made answer thus: "My son, not because I have observed
+## Chapter 38
+
+And Croesus made answer thus: "My son, not because I have observed
 in thee any spirit of cowardice or any other ungracious thing, do I act
 thus; but a vision of a dream came and stood by me in my sleep and told
 me that thou shouldest be short-lived, and that thou shouldest perish
@@ -784,7 +860,9 @@ any means possible for me to do so. For thou art, as it chances, my only
 son: the other I do not reckon as one, seeing that he is deficient in
 hearing."
 
-39. The young man made answer thus: "It may well be forgiven in thee, O
+## Chapter 39
+
+The young man made answer thus: "It may well be forgiven in thee, O
 my father, that thou shouldest have a care of me after having seen such
 a vision; but that which thou dost not understand, and in which the
 meaning of the dream has escaped thee, it is right that I should expound
@@ -796,11 +874,15 @@ resembles that, it would be right for thee doubtless to do as thou art
 doing; but it said 'by a spear-point.' Since therefore our fight will
 not be with men, let me now go."
 
-40. Croesus made answer: "My son, thou dost partly prevail with me by
+## Chapter 40
+
+Croesus made answer: "My son, thou dost partly prevail with me by
 declaring thy judgment about the dream; therefore, having been prevailed
 upon by thee, I change my resolution and allow thee to go to the chase."
 
-41. Having thus said Croesus went to summon Adrastos the Phrygian; and
+## Chapter 41
+
+Having thus said Croesus went to summon Adrastos the Phrygian; and
 when he came, he addressed him thus: "Adrastos, when thou wast struck
 with a grievous misfortune (with which I reproach thee not), I cleansed
 thee, and I have received thee into my house supplying all thy costs.
@@ -812,7 +894,9 @@ where thou mayest become famous by thy deeds, for it belongs to thee
 as an inheritance from thy fathers so to do, and moreover thou hast
 strength for it."
 
-42. Adrastos made answer: "O king, but for this I should not have been
+## Chapter 42
+
+Adrastos made answer: "O king, but for this I should not have been
 going to any such contest of valour; for first it is not fitting that
 one who is suffering such a great misfortune as mine should seek the
 company of his fellows who are in prosperity, and secondly I have no
@@ -822,7 +906,9 @@ am bound to requite thee with kindness), I am ready to do this: expect
 therefore that thy son, whom thou commandest me to protect, will home to
 thee unhurt, so far as his protector may avail to keep him safe."
 
-43. When he had made answer to Croesus in words like these, they
+## Chapter 43
+
+When he had made answer to Croesus in words like these, they
 afterwards set forth provided with chosen young men and with dogs.
 And when they were come to Mount Olympos, they tracked the animal;
 and having found it and taken their stand round in a circle, they
@@ -844,7 +930,9 @@ been fostering ignorantly the slayer of his son, and as the Guardian of
 Friendship because having sent him as a protector he had found him the
 worst of foes.
 
-45. After this the Lydians came bearing the corpse, and behind it
+## Chapter 45
+
+After this the Lydians came bearing the corpse, and behind it
 followed the slayer: and he taking his stand before the corpse delivered
 himself up to Croesus, holding forth his hands and bidding the king slay
 him over the corpse, speaking of his former misfortune and saying that
@@ -863,7 +951,9 @@ man who had cleansed him, when silence came of all men round about the
 tomb, recognising that he was more grievously burdened by misfortune
 than all men of whom he knew, slew himself upon the grave.
 
-46. For two years then Croesus remained quiet in his mourning,
+## Chapter 46
+
+For two years then Croesus remained quiet in his mourning,
 because he was deprived of his son: but after this period of time the
 overthrowing of the rule of Astyages the son of Kyaxares by Cyrus
 the son of Cambyses, and the growing greatness of the Persians caused
@@ -884,7 +974,9 @@ out what knowledge they had, so that if they should be found to have
 knowledge of the truth, he might send and ask them secondly whether he
 should attempt to march against the Persians.
 
-47. And to the Lydians whom he sent to make trial of the Oracles he gave
+## Chapter 47
+
+And to the Lydians whom he sent to make trial of the Oracles he gave
 charge as follows,—that from the day on which they set out from Sardis
 they should reckon up the number of the days following and on the
 hundredth day they should consult the Oracles, asking what Croesus
@@ -902,7 +994,9 @@ spoke thus in hexameter measure:
   Boiling in caldron of bronze, and the flesh of a lamb mingled with it;
   Under it bronze is laid, it hath bronze as a clothing upon it."
 
-48. When the Pythian prophetess had uttered this oracle, the Lydians
+## Chapter 48
+
+When the Pythian prophetess had uttered this oracle, the Lydians
 caused the prophecy to be written down, and went away at once to Sardis.
 And when the rest also who had been sent round were there arrived with
 the answers of the Oracles, then Croesus unfolded the writings one by
@@ -917,13 +1011,17 @@ or to conceive of, and cutting up a tortoise and a lamb he boiled them
 together himself in a caldron of bronze, laying a cover of bronze over
 them.
 
-49. This then was the answer given to Croesus from Delphi; and as
+## Chapter 49
+
+This then was the answer given to Croesus from Delphi; and as
 regards the answer of Amphiaraos, I cannot tell what he replied to the
 Lydians after they had done the things customary in his temple, 43 for
 there is no record of this any more than of the others, except only that
 Croesus thought that he also 44 possessed a true Oracle.
 
-50. After this with great sacrifices he endeavoured to win the favour of
+## Chapter 50
+
+After this with great sacrifices he endeavoured to win the favour of
 the god at Delphi: for of all the animals that are fit for sacrifice he
 offered three thousand of each kind, and he heaped up couches overlaid
 with gold and overlaid with silver, and cups of gold, and robes of
@@ -943,7 +1041,9 @@ it was set, 50 and is placed now in the treasury of the Corinthians,
 weighing six talents and a half, for three talents and a half were
 melted away from it.
 
-51. So Croesus having finished all these things sent them to Delphi, and
+## Chapter 51
+
+So Croesus having finished all these things sent them to Delphi, and
 with them these besides:—two mixing bowls of great size, one of gold and
 the other of silver, of which the golden bowl was placed on the right
 hand as one enters the temple, and the silver on the left, but the
@@ -970,14 +1070,18 @@ cubits high, which the Delphians say is a statue of the baker of
 Croesus. Moreover Croesus dedicated the ornaments from his wife's neck
 and her girdles.
 
-52. These are the things which he sent to Delphi; and to Amphiaraos,
+## Chapter 52
+
+These are the things which he sent to Delphi; and to Amphiaraos,
 having heard of his valour and of his evil fate, he dedicated a shield
 made altogether of gold throughout, and a spear all of solid gold, the
 shaft being of gold also as well as the two points, which offerings
 were both remaining even to my time at Thebes in the temple of Ismenian
 Apollo.
 
-53. To the Lydians who were to carry these gifts to the temples Croesus
+## Chapter 53
+
+To the Lydians who were to carry these gifts to the temples Croesus
 gave charge that they should ask the Oracles this question also,—whether
 Croesus should march against the Persians, and if so, whether he should
 join with himself any army of men as his friends. And when the Lydians
@@ -993,7 +1097,9 @@ march against the Persians he should destroy a great empire: and they
 counselled him to find out the most powerful of the Hellenes and join
 these with himself as friends.
 
-54. So when the answers were brought back and Croesus heard them, he
+## Chapter 54
+
+So when the answers were brought back and Croesus heard them, he
 was delighted with the oracles, and expecting that he would certainly
 destroy the kingdom of Cyrus, he sent again to Pytho, 58 and presented
 to the men of Delphi, having ascertained the number of them, two staters
@@ -1003,7 +1109,9 @@ payments, and the right to front seats at the games, with this privilege
 also for all time, that any one of them who wished should be allowed to
 become a citizen of Delphi.
 
-55. And having made presents to the men of Delphi, Croesus consulted the
+## Chapter 55
+
+And having made presents to the men of Delphi, Croesus consulted the
 Oracle the third time; for from the time when he learnt the truth of
 the Oracle, he made abundant use of it. 59 And consulting the Oracle
 he inquired whether his monarchy would endure for a long time. And the
@@ -1013,7 +1121,9 @@ Pythian prophetess answered him thus:
   Then by the pebbly Hermos, O Lydian delicate-footed,
   Flee and stay not, and be not ashamed to be callèd a coward."
 
-56. By these lines when they came to him Croesus was pleased more than
+## Chapter 56
+
+By these lines when they came to him Croesus was pleased more than
 by all the rest, for he supposed that a mule would never be ruler of the
 Medes instead of a man, and accordingly that he himself and his heirs
 would never cease from their rule. Then after this he gave thought to
@@ -1031,7 +1141,9 @@ the sons of Cadmos, it dwelt in Pindos and was called Makednian; and
 thence it moved afterwards to Dryopis, and from Dryopis it came finally
 to Peloponnesus, and began to be called Dorian.
 
-57. What language however the Pelasgians used to speak I am not able
+## Chapter 57
+
+What language however the Pelasgians used to speak I am not able
 with certainty to say. But if one must pronounce judging by those that
 still remain of the Pelasgians who dwelt in the city of Creston 60 above
 the Tyrsenians, and who were once neighbours of the race now called
@@ -1050,7 +1162,9 @@ language one as the other: and by this it is proved that they still keep
 unchanged the form of language which they brought with them when they
 migrated to these places.
 
-58. As for the Hellenic race, it has used ever the same language, as I
+## Chapter 58
+
+As for the Hellenic race, it has used ever the same language, as I
 clearly perceive, since it first took its rise; but since the time when
 it parted off feeble at first from the Pelasgian race, setting forth
 from a small beginning it has increased to that great number of races
@@ -1059,7 +1173,9 @@ added to it besides. Moreover it is true, as I think, 6201 of the
 Pelasgian race also, 63 that so far as it remained Barbarian it never
 made any great increase.
 
-59. Of these races then Croesus was informed that the Athenian was held
+## Chapter 59
+
+Of these races then Croesus was informed that the Athenian was held
 subject and torn with faction by Peisistratos 64 the son of Hippocrates,
 who then was despot of the Athenians. For to Hippocrates, when as a
 private citizen he went to view the Olympic games, a great marvel had
@@ -1093,7 +1209,9 @@ the Athenians, not having disturbed the existing magistrates nor changed
 the ancient laws; but he administered the State under that constitution
 of things which was already established, ordering it fairly and well.
 
-60. However, no long time after this the followers of Megacles and those
+## Chapter 60
+
+However, no long time after this the followers of Megacles and those
 of Lycurgos joined together and drove him forth. Thus Peisistratos had
 obtained possession of Athens for the first time, and thus he lost
 the power before he had it firmly rooted. But those who had driven
@@ -1121,7 +1239,9 @@ that Athene was bringing Peisistratos back, while at the same time the
 men of the city, persuaded that the woman was the very goddess herself,
 were paying worship to the human creature and receiving Peisistratos.
 
-61. So having received back the despotism in the manner which has been
+## Chapter 61
+
+So having received back the despotism in the manner which has been
 said, Peisistratos according to the agreement made with Megacles married
 the daughter of Megacles; but as he had already sons who were young men,
 and as the descendants of Alcmaion were said to be under a curse, 73
@@ -1144,7 +1264,9 @@ Argives came as mercenaries from the Peloponnesus, and a man of Naxos
 had come to them of his own motion, whose name was Lygdamis, and showed
 very great zeal in providing both money and men.
 
-62. So starting from Eretria after the lapse of ten years 74 they ed
+## Chapter 62
+
+So starting from Eretria after the lapse of ten years 74 they ed
 back; and in Attica the first place of which they took possession was
 Marathon. While they were encamping here, their partisans from the city
 came to them, and also others flowed in from the various demes, to whom
@@ -1164,7 +1286,9 @@ an oracle in hexameter verse, saying thus:
  "But now the cast hath been made and the net hath been widely extended,
   And in the night the tunnies will dart through the moon-lighted waters."
 
-63. This oracle he uttered to him being divinely inspired, and
+## Chapter 63
+
+This oracle he uttered to him being divinely inspired, and
 Peisistratos, having understood the oracle and having said that he
 accepted the prophecy which was uttered, led his army against the enemy.
 Now the Athenians from the city were just at that time occupied with the
@@ -1177,7 +1301,9 @@ horseback and sent them before him; and overtaking the fugitives they
 said that which was commanded them by Peisistratos, bidding them be of
 good cheer and that each man should depart to his own home.
 
-64. Thus then the Athenians did, and so Peisistratos for the third time
+## Chapter 64
+
+Thus then the Athenians did, and so Peisistratos for the third time
 obtained possession of Athens, and he firmly rooted his despotism by
 many foreign mercenaries and by much revenue of money, coming partly
 from the land itself and partly from about the river Strymon, and also
@@ -1192,7 +1318,9 @@ another part of Delos. So Peisistratos was despot of the Athenians; but
 of the Athenians some had fallen in the battle, and others of them with
 the sons of Alcmaion were exiles from their native land.
 
-65. Such was the condition of things which Croesus heard was prevailing
+## Chapter 65
+
+Such was the condition of things which Croesus heard was prevailing
 among the Athenians during this time; but as to the Lacedemonians he
 heard that they had escaped from great evils and had now got the better
 of the Tegeans in the war. For when Leon and Hegesicles were kings of
@@ -1211,7 +1339,9 @@ Pythian prophetess said as follows:
   Whether to call thee a god, I doubt, in my voices prophetic,
   God or a man, but rather a god I think, O Lycurgos."
 
-66. Some say in addition to this that the Pythian prophetess also set
+## Chapter 66
+
+Some say in addition to this that the Pythian prophetess also set
 forth to him the order of things which is now established for the
 Spartans; but the Lacedemonians themselves say that Lycurgos having
 become guardian of Leobotes his brother's son, who was king of the
@@ -1245,7 +1375,9 @@ and divided" 79 the plain of the Tegeans. And these fetters with which
 they had been bound were preserved even to my own time at Tegea, hanging
 about the temple of Athene Alea. 80
 
-67. In the former war then I say they struggled against the Tegeans
+## Chapter 67
+
+In the former war then I say they struggled against the Tegeans
 continually with ill success; but in the time of Croesus and in the
 reign of Anaxandrides and Ariston at Lacedemon the Spartans had at
 length become victors in the war; and they became so in the following
@@ -1274,7 +1406,9 @@ during that year in which they pass out from the "Horsemen," to allow
 themselves to be sent without ceasing to various places by the Spartan
 State.
 
-68. Lichas then, being one of these, discovered it in Tegea by means
+## Chapter 68
+
+Lichas then, being one of these, discovered it in Tegea by means
 both of fortune and ability. For as there were at that time dealings
 under truce with the men of Tegea, he had come to a forge there and was
 looking at iron being wrought; and he was in wonder as he saw that which
@@ -1306,7 +1440,9 @@ them away to Sparta. From that time, whenever they made trial of one
 another, the Lacedemonians had much the advantage in the war; and by now
 they had subdued to themselves the greater part of Peloponnesus besides.
 
-69. Croesus accordingly being informed of all these things was sending
+## Chapter 69
+
+Croesus accordingly being informed of all these things was sending
 messengers to Sparta with gifts in their hands to ask for an alliance,
 having commanded them what they ought to say: and they when they came
 said: "Croesus king of the Lydians and also of other nations sent us
@@ -1324,7 +1460,9 @@ Sardis and were buying gold there with purpose of using it for the image
 of Apollo which is now set up on Mount Thornax in the Lacedemonian land;
 and Croesus, when they desired to buy it, gave it them as a gift.
 
-70. For this reason therefore the Lacedemonians accepted the alliance,
+## Chapter 70
+
+For this reason therefore the Lacedemonians accepted the alliance,
 and also because he chose them as his friends, preferring them to all
 the other Hellenes. And not only were they ready themselves when he made
 his offer, but they caused a mixing-bowl to be made of bronze, covered
@@ -1342,7 +1480,9 @@ votive offering in the temple of Hera; and probably those who had sold
 it would say when they ed to Sparta that it had been taken from them by
 the Samians.
 
-71. Thus then it happened about the mixing-bowl: but meanwhile Croesus,
+## Chapter 71
+
+Thus then it happened about the mixing-bowl: but meanwhile Croesus,
 mistaking the meaning of the oracle, was making a march into Cappadokia,
 expecting to overthrow Cyrus and the power of the Persians: and while
 Croesus was preparing to march against the Persians, one of the
@@ -1364,7 +1504,9 @@ Persians to march against the Lydians." Thus he spoke not persuading
 Croesus: for it is true indeed that the Persians before they subdued the
 Lydians had no luxury nor any good thing.
 
-72. Now the Cappadokians are called by the Hellenes Syrians; 85 and
+## Chapter 72
+
+Now the Cappadokians are called by the Hellenes Syrians; 85 and
 these Syrians, before the Persians had rule, were subjects of the Medes,
 but at this time they were subjects of Cyrus. For the boundary between
 the Median empire and the Lydian was the river Halys; and this flows
@@ -1378,7 +1520,9 @@ that is opposite Cyprus to the Euxine. And this tract is the neck of the
 whole peninsula, the distance of the journey being such that five days
 are spent on the way by a man without encumbrance. 86
 
-73. Now for the following reasons Croesus was marching into
+## Chapter 73
+
+Now for the following reasons Croesus was marching into
 Cappadokia:—first because he desired to acquire the land in addition to
 his own possessions, and then especially because he had confidence in
 the oracle and wished to take vengeance on Cyrus for Astyages. For
@@ -1406,7 +1550,9 @@ of Sadyattes at Sardis. This then was done; and Kyaxares with the guests
 who ate at his table tasted of that meat, and the Scythians having so
 done became suppliants for the protection of Alyattes.
 
-74. After this, seeing that Alyattes would not give up the Scythians
+## Chapter 74
+
+After this, seeing that Alyattes would not give up the Scythians
 when Kyaxares demanded them, there had arisen war between the Lydians
 and the Medes lasting five years; in which years the Medes often
 discomfited the Lydians and the Lydians often discomfited the Medes (and
@@ -1428,7 +1574,9 @@ together. Now these nations observe the same ceremonies in taking oaths
 as the Hellenes, and in addition to them they make incision into the
 skin of their arms, and then lick up the blood each of the other.
 
-75. This Astyages then, being his mother's father, Cyrus had conquered
+## Chapter 75
+
+This Astyages then, being his mother's father, Cyrus had conquered
 and made prisoner for a reason which I shall declare in the history
 which comes after. 90 This then was the complaint which Croesus had
 against Cyrus when he sent to the Oracles to ask if he should march
@@ -1452,7 +1600,9 @@ by both branches: and some say even that the ancient course of the river
 was altogether dried up. But this tale I do not admit as true, for how
 then did they pass over the river as they went back?
 
-76. And Croesus, when he had passed over with his army, came to that
+## Chapter 76
+
+And Croesus, when he had passed over with his army, came to that
 place in Cappadokia which is called Pteria (now Pteria is the strongest
 place in this country, and is situated somewhere about in a line with
 the city of Sinope 91 on the Euxine). Here he encamped and ravaged the
@@ -1470,7 +1620,9 @@ and after hard fighting, when many had fallen on both sides, at length,
 night having come on, they parted from one the other with no victory on
 either side.
 
-77. Thus the two armies contended with one another: and Croesus being
+## Chapter 77
+
+Thus the two armies contended with one another: and Croesus being
 ill satisfied with his own army in respect of number (for the army
 which he had when he fought was far smaller than that of Cyrus), being
 dissatisfied with it I say on this account, as Cyrus did not attempt to
@@ -1492,7 +1644,9 @@ consisted of mercenary troops, 94 he let go and disbanded altogether,
 never expecting that Cyrus, after having contended against him with such
 even fortune, would after all march upon Sardis.
 
-78. When Croesus had these plans in his mind, the suburb of the city
+## Chapter 78
+
+When Croesus had these plans in his mind, the suburb of the city
 became of a sudden all full of serpents; and when these had appeared,
 the horses leaving off to feed in their pastures came constantly thither
 and devoured them. When Croesus saw this he deemed it to be a portent,
@@ -1510,7 +1664,9 @@ answer to Croesus after he was already taken prisoner, not knowing as
 yet anything of the things which had happened to Sardis and to Croesus
 himself.
 
-79. Cyrus, however, so soon as Croesus marched away after the battle
+## Chapter 79
+
+Cyrus, however, so soon as Croesus marched away after the battle
 which had been fought in Pteria, having learnt that Croesus meant after
 he had marched away to disband his army, took counsel with himself and
 concluded that it was good for him to march as quickly as possible
@@ -1524,7 +1680,9 @@ Lydians into battle. Now there was at this time no nation in Asia more
 courageous or more stout in battle than the Lydian; and they fought on
 horseback carrying long spears, the men being excellent in horsemanship.
 
-80. So when the armies had met in that plain which is in front of the
+## Chapter 80
+
+So when the armies had met in that plain which is in front of the
 city of Sardis,—a plain wide and open, through which flow rivers (and
 especially the river Hyllos) all rushing down to join the largest called
 Hermos, which flows from the mountain sacred to the Mother surnamed
@@ -1555,14 +1713,18 @@ the Persians on foot. At length, however, when many had fallen on either
 side, the Lydians turned to flight; and having been driven within the
 wall of their fortress they were besieged by the Persians.
 
-81. By these then a siege had been established: but Croesus, supposing
+## Chapter 81
+
+By these then a siege had been established: but Croesus, supposing
 that the siege would last a long time, proceeded to send from the
 fortress other messengers to his allies. For the former messengers were
 sent round to give notice that they should assemble at Sardis by the
 fifth month, but these he was sending out to ask them to come to his
 assistance as quickly as possible, because Croesus was being besieged.
 
-82. So then in sending to his other allies he sent also to Lacedemon.
+## Chapter 82
+
+So then in sending to his other allies he sent also to Lacedemon.
 But these too, the Spartans I mean, had themselves at this very time
 (for so it had fallen out) a quarrel in hand with the Argives about
 the district called Thyrea. For this Thyrea, being part of the Argive
@@ -1605,7 +1767,9 @@ the one man who was left alive of the three hundred, namely Othryades,
 being ashamed to to Sparta when all his comrades had been slain, slew
 himself there in Thyrea.
 
-83. Such was the condition of things at Sparta when the herald from
+## Chapter 83
+
+Such was the condition of things at Sparta when the herald from
 Sardis arrived asking them to come to the assistance of Croesus, who was
 being besieged. And they notwithstanding their own difficulties, as
 soon as they heard the news from the herald, were eager to go to his
@@ -1615,7 +1779,9 @@ of the Lydians had been taken and that Croesus had been made prisoner.
 Then (and not before) they ceased from their efforts, being grieved at
 the event as at a great calamity.
 
-84. Now the taking of Sardis came about as follows:—When the fourteenth
+## Chapter 84
+
+Now the taking of Sardis came about as follows:—When the fourteenth
 day came after Croesus began to be besieged, Cyrus made proclamation
 to his army, sending horsemen round to the several parts of it, that he
 would give gifts to the man who should first scale the wall. After this
@@ -1639,7 +1805,9 @@ mind. Then he himself 98 ascended first, and after him came up others
 of the Persians, and many having thus made approach, Sardis was finally
 taken and the whole city was given up to plunder.
 
-85. Meanwhile to Croesus himself it happened thus:—He had a son, of whom
+## Chapter 85
+
+Meanwhile to Croesus himself it happened thus:—He had a son, of whom
 I made mention before, who was of good disposition enough but deprived
 of speech. Now in his former time of prosperity Croesus had done
 everything that was possible for him, and besides other things which he
@@ -1661,7 +1829,9 @@ said: "Man, slay not Croesus." This son, I say, uttered voice then first
 of all, but after this he continued to use speech for the whole time of
 his life.
 
-86. The Persians then had obtained possession of Sardis and had taken
+## Chapter 86
+
+The Persians then had obtained possession of Sardis and had taken
 Croesus himself prisoner, after he had reigned fourteen years and had
 been besieged fourteen days, having fulfilled the oracle in that he had
 brought to an end his own great empire. So the Persians having taken him
@@ -1702,7 +1872,9 @@ possible the fire that was burning, and to bring down Croesus and those
 who were with him from the pyre; and they using endeavours were not able
 now to get the mastery of the flames.
 
-87. Then it is related by the Lydians that Croesus, having learned how
+## Chapter 87
+
+Then it is related by the Lydians that Croesus, having learned how
 Cyrus had changed his mind, and seeing that every one was trying to put
 out the fire but that they were no longer able to check it, cried aloud
 entreating Apollo that if any gift had ever been given by him which had
@@ -1722,7 +1894,9 @@ the sons bury their fathers, but in war the fathers bury their sons.
 But it was pleasing, I suppose, to the divine powers that these things
 should come to pass thus."
 
-88. So he spoke, and Cyrus loosed his bonds and caused him to sit near
+## Chapter 88
+
+So he spoke, and Cyrus loosed his bonds and caused him to sit near
 himself and paid to him much regard, and he marvelled both himself and
 all who were about him at the sight of Croesus. And Croesus wrapt in
 thought was silent; but after a time, turning round and seeing the
@@ -1737,7 +1911,9 @@ nor my wealth which they are carrying away; for I have no longer any
 property in these things: but it is thy wealth that they are carrying
 and driving away."
 
-89. And Cyrus was concerned by that which Croesus had said, and he
+## Chapter 89
+
+And Cyrus was concerned by that which Croesus had said, and he
 caused all the rest to withdraw and asked Croesus what he discerned for
 his advantage as regards that which was being done; and he said: "Since
 the gods gave me to thee as a slave, I think it right if I discern
@@ -1755,7 +1931,9 @@ away the things by force, and they on the other will willingly let the
 things go, 101 acknowledging within themselves that thou art doing that
 which is just."
 
-90. Hearing this, Cyrus was above measure pleased, because he thought
+## Chapter 90
+
+Hearing this, Cyrus was above measure pleased, because he thought
 that Croesus advised well; and he commended him much and enjoined the
 spearmen of his guard to perform that which Croesus had advised: and
 after that he spoke to Croesus thus: "Croesus, since thou art prepared,
@@ -1782,7 +1960,9 @@ same time displaying the fetters. This they were to ask, and moreover
 also whether it was thought right by the gods of the Hellenes to
 practice ingratitude.
 
-91. When the Lydians came and repeated that which they were enjoined to
+## Chapter 91
+
+When the Lydians came and repeated that which they were enjoined to
 say, it is related that the Pythian prophetess spoke as follows: "The
 fated destiny it is impossible even for a god to escape. And Croesus
 paid the debt due for the sin of his fifth ancestor, who being one of
@@ -1816,7 +1996,9 @@ acknowledged that the fault was his own and not that of the god. With
 regard then to the empire of Croesus and the first conquest of Ionia, it
 happened thus.
 
-92. Now there are in Hellas many other votive offerings made by Croesus
+## Chapter 92
+
+Now there are in Hellas many other votive offerings made by Croesus
 and not only those which have been mentioned: for first at Thebes of the
 Boeotians there is a tripod of gold, which he dedicated to the Ismenian
 Apollo; then at Ephesos there are the golden cows and the greater number
@@ -1839,7 +2021,9 @@ before that time he had vowed to dedicate, he then offered in the manner
 mentioned to those shrines which have been named. About his votive
 offerings let it suffice to have said so much.
 
-93. Of marvels to be recorded the land of Lydia has no great store as
+## Chapter 93
+
+Of marvels to be recorded the land of Lydia has no great store as
 compared with other lands, 104 excepting the gold-dust which is carried
 down from Tmolos; but one work it has to show which is larger far than
 any other except only those in Egypt and Babylon: for there is there the
@@ -1860,7 +2044,9 @@ great lake, which the Lydians say has a never-failing supply of water,
 and it is called the lake of Gyges. 107 Such is the nature of this
 monument.
 
-94. Now the Lydians have very nearly the same customs as the Hellenes,
+## Chapter 94
+
+Now the Lydians have very nearly the same customs as the Hellenes,
 with the exception that they prostitute their female children; and they
 were the first of men, so far as we know, who struck and used coin of
 gold or silver; and also they were the first retail-traders. And the
@@ -1896,7 +2082,9 @@ home, not Lydians but Tyrsenians, taking the name from him.
 
 The Lydians then had been made subject to the Persians as I say:
 
-95, and after this our history proceeds to inquire about Cyrus, who he
+## Chapter 95
+
+and after this our history proceeds to inquire about Cyrus, who he
 was that destroyed the empire of Croesus, and about the Persians, in
 what manner they obtained the lead of Asia. Following then the report
 of some of the Persians,—those I mean who do not desire to glorify the
@@ -1912,7 +2100,9 @@ set free; and after them the other nations also did the same as the
 Medes: and when all on the continent were thus independent, they ed
 again to despotic rule as follows:—
 
-96. There appeared among the Medes a man of great ability whose name
+## Chapter 96
+
+There appeared among the Medes a man of great ability whose name
 was Deïokes, and this man was the son of Phraortes. This Deïokes, having
 formed a desire for despotic power, did thus:—whereas the Medes dwelt
 in separate villages, he, being even before that time of great repute in
@@ -1929,7 +2119,9 @@ unjust judgments, themselves also when they heard it came gladly to
 Deïokes to have their causes determined, and at last they trusted the
 business to no one else.
 
-97. Then, as more and more continually kept coming to him, because men
+## Chapter 97
+
+Then, as more and more continually kept coming to him, because men
 learnt that his decisions proved to be according to the truth, Deïokes
 perceiving that everything was referred to himself would no longer
 sit in the place where he used formerly to sit in public to determine
@@ -1946,7 +2138,9 @@ governed and we ourselves shall turn to labour, and shall not be ruined
 by lawlessness." By some such words as these they persuaded themselves
 to have a king.
 
-98. And when they straightway proposed the question whom they should set
+## Chapter 98
+
+And when they straightway proposed the question whom they should set
 up to be king, Deïokes was much put forward and commended by every one,
 until at last they agreed that he should be their king. And he bade them
 build for him a palace worthy of the royal dignity and strengthen him
@@ -1970,7 +2164,9 @@ are the battlements of all the circles coloured with various tints, and
 the two last have their battlements one of them overlaid with silver and
 the other with gold.
 
-99. These walls then Deïokes built for himself and round his own palace,
+## Chapter 99
+
+These walls then Deïokes built for himself and round his own palace,
 and the people he commanded to dwell round about the wall. And after
 all was built, Deïokes established the rule, which he was the first to
 establish, ordaining that none should enter into the presence of the
@@ -1983,7 +2179,9 @@ nor behind him in manly virtue, might not be grieved by seeing him
 and make plots against him, but that being unseen by them he might be
 thought to be of different mould.
 
-100. Having set these things in order and strengthened himself in his
+## Chapter 100
+
+Having set these things in order and strengthened himself in his
 despotism, he was severe in preserving justice; and the people used
 to write down their causes and send them in to his presence, and he
 determined the questions which were brought in to him and sent them out
@@ -1993,12 +2191,16 @@ an unruly manner, he sent for him and punished him according as each act
 of wrong deserved, and he had watchers and listeners about all the land
 over which he ruled.
 
-101. Deïokes then united the Median race alone, and was ruler of this:
+## Chapter 101
+
+Deïokes then united the Median race alone, and was ruler of this:
 and of the Medes there are the tribes which here follow, namely, Busai,
 Paretakenians, Struchates, Arizantians, Budians, Magians: the tribes of
 the Medes are so many in number.
 
-102. Now the son of Deïokes was Phraortes, who when Deïokes was dead,
+## Chapter 102
+
+Now the son of Deïokes was Phraortes, who when Deïokes was dead,
 having been king for three-and-fifty years, received the power in
 succession; and having received it he was not satisfied to be ruler of
 the Medes alone, but marched upon the Persians; and attacking them first
@@ -2012,7 +2214,9 @@ though at home they were prosperous enough. 114 Phraortes marched, I
 say, against these, and was both himself slain, after he had reigned
 two-and-twenty years, and the greater part of his army was destroyed.
 
-103. When Phraortes had brought his life to an end, Kyaxares the son of
+## Chapter 103
+
+When Phraortes had brought his life to an end, Kyaxares the son of
 Phraortes, the son of Deïokes, received the power. This king is said
 to have been yet much more warlike than his forefathers; and he first
 banded the men of Asia into separate divisions, that is to say, he first
@@ -2029,7 +2233,9 @@ leader of them was Madyas the son of Protohyas, king of the Scythians.
 These had invaded Asia after driving the Kimmerians out of Europe, and
 in pursuit of them as they fled they had come to the land of Media.
 
-104. Now from the Maiotian lake to the river Phasis and to the land of
+## Chapter 104
+
+Now from the Maiotian lake to the river Phasis and to the land of
 the Colchians is a journey of thirty days for one without encumbrance;
 117 and from Colchis it is not far to pass over to Media, for there
 is only one nation between them, the Saspeirians, and passing by this
@@ -2040,7 +2246,9 @@ Then the Medes fought with the Scythians, and having been worsted in the
 battle they lost their power, and the Scythians obtained rule over all
 Asia.
 
-105. Thence they went on to invade Egypt; and when they were in Syria
+## Chapter 105
+
+Thence they went on to invade Egypt; and when they were in Syria
 which is called Palestine, Psammetichos king of Egypt met them; and by
 gifts and entreaties he turned them from their purpose, so that they
 should not advance any further: and as they retreated, when they came
@@ -2058,7 +2266,9 @@ that they were diseased, and that for this reason travellers who visit
 Scythia now, see among them the affection of those who by the Scythians
 are called Enareës.
 
-106. For eight-and-twenty years then the Scythians were rulers of Asia,
+## Chapter 106
+
+For eight-and-twenty years then the Scythians were rulers of Asia,
 and by their unruliness and reckless behaviour everything was ruined;
 for on the one hand they exacted that in tribute from each people which
 they laid upon them, 120 and apart from the tribute they rode about and
@@ -2070,7 +2280,9 @@ Nineveh,—the manner how it was taken I shall set forth in another
 history, 121—and made the Assyrians subject to them excepting only the
 land of Babylon.
 
-107. After this Kyaxares died, having reigned forty years including
+## Chapter 107
+
+After this Kyaxares died, having reigned forty years including
 those years during which the Scythians had rule, and Astyages son of
 Kyaxares received from him the kingdom. To him was born a daughter whom
 he named Mandane; and in his sleep it seemed to him that there passed
@@ -2084,7 +2296,9 @@ Persian named Cambyses, whom he found to be of a good descent and of a
 quiet disposition, counting him to be in station much below a Mede of
 middle rank.
 
-108. And when Mandane was married to Cambyses, in the first year
+## Chapter 108
+
+And when Mandane was married to Cambyses, in the first year
 Astyages saw another vision. It seemed to him that from the womb of this
 daughter a vine grew, and this vine overspread the whole of Asia. Having
 seen this vision and delivered it to the interpreters of dreams, he sent
@@ -2107,7 +2321,9 @@ that comes after, that I may not commit any error towards thee. If it
 is indeed thy pleasure that this should so be done, my service at least
 must be fitly rendered."
 
-109. Thus he made answer, and when the child had been delivered to him
+## Chapter 109
+
+Thus he made answer, and when the child had been delivered to him
 adorned as for death, Harpagos went weeping to his wife all the words
 which had been spoken by Astyages. And she said to him: "Now, therefore,
 what is it in thy mind to do?" and he made answer: "Not according as
@@ -2120,7 +2336,9 @@ through me, does not the greatest of dangers then await me? To secure
 me, this child must die; but one of the servants of Astyages must be the
 slayer of it, and not one of mine."
 
-110. Thus he spoke, and straightway sent a messenger to that one of the
+## Chapter 110
+
+Thus he spoke, and straightway sent a messenger to that one of the
 herdsmen of Astyages who he knew fed his herds on the pastures which
 were most suitable for his purpose, and on the mountains most haunted by
 wild beasts. The name of this man was Mitradates, and he was married to
@@ -2140,7 +2358,9 @@ preserve it from death, he will slay thee by the most evil kind of
 destruction: 124 and I have been appointed to see that the child is laid
 forth."
 
-111. Having heard this and having taken up the child, the herdsman went
+## Chapter 111
+
+Having heard this and having taken up the child, the herdsman went
 back by the way he came, and arrived at his dwelling. And his wife also,
 as it seems, having been every day on the point of bearing a child, by
 a providential chance brought her child to birth just at that time, when
@@ -2170,7 +2390,9 @@ of the city and placed in my hands the babe, namely that it was in truth
 the son of Mandane the daughter of Astyages, and of Cambyses the son of
 Cyrus, and that Astyages bade slay it. And now here it is."
 
-112. And as he said this the herdsman uncovered it and showed it to
+## Chapter 112
+
+And as he said this the herdsman uncovered it and showed it to
 her. And she, seeing that the child was large and of fair form, wept and
 clung to the knees of her husband, beseeching him by no means to lay it
 forth. But he said that he could not do otherwise than so, for watchers
@@ -2186,7 +2408,9 @@ a wrong to those whom we serve, nor shall we have taken ill counsel
 for ourselves; for the dead child will obtain a royal burial and the
 surviving one will not lose his life."
 
-113. To the herdsman it seemed that, the case standing thus, his wife
+## Chapter 113
+
+To the herdsman it seemed that, the case standing thus, his wife
 spoke well, and forthwith he did so. The child which he was bearing
 to put to death, this he delivered to his wife, and his own, which was
 dead, he took and placed in the chest in which he had been bearing the
@@ -2201,7 +2425,9 @@ herdsman's child. This then had had burial, but him who was afterwards
 called Cyrus the wife of the herdsman had received, and was bringing him
 up, giving him no doubt some other name, not Cyrus.
 
-114. And when the boy was ten years old, it happened with regard to him
+## Chapter 114
+
+And when the boy was ten years old, it happened with regard to him
 as follows, and this made him known. He was playing in the village in
 which were stalls for oxen, he was playing there, I say, with other boys
 of his age in the road. And the boys in their play chose as their king
@@ -2223,7 +2449,9 @@ the boy with him, and he declared that he had suffered things that were
 unfitting and said: "O king, by thy slave, the son of a herdsman, we
 have been thus outraged," showing him the shoulders of his son.
 
-115. And Astyages having heard and seen this, wishing to punish the boy
+## Chapter 115
+
+And Astyages having heard and seen this, wishing to punish the boy
 to avenge the honour of Artembares, sent for both the herdsman and his
 son. And when both were present, Astyages looked at Cyrus and said:
 "Didst thou dare, being the son of so mean a father as this, to treat
@@ -2236,7 +2464,9 @@ and paid no regard, until at last he received the punishment due. If
 therefore for this I am worthy to suffer any evil, here I stand before
 thee."
 
-116. While the boy thus spoke, there came upon Astyages a sense of
+## Chapter 116
+
+While the boy thus spoke, there came upon Astyages a sense of
 recognition of him and the lineaments of his face seemed to him to
 resemble his own, and his answer appeared to be somewhat over free for
 his station, while the time of the laying forth seemed to agree with the
@@ -2258,7 +2488,9 @@ as it really was; and beginning from the beginning he went through the
 whole, telling the truth about it, and finally ended with entreaties,
 asking that he would grant him pardon.
 
-117. So when the herdsman had made known the truth, Astyages now cared
+## Chapter 117
+
+So when the herdsman had made known the truth, Astyages now cared
 less about him, but with Harpagos he was very greatly displeased and
 bade his spearmen summon him. And when Harpagos came, Astyages asked
 him thus: "By what death, Harpagos, didst thou destroy the child whom I
@@ -2279,7 +2511,9 @@ most trusted of my eunuchs and through them I saw and buried the child.
 Thus, O king, it happened about this matter, and the child had this
 death which I say."
 
-118. So Harpagos declared the truth, and Astyages concealed the anger
+## Chapter 118
+
+So Harpagos declared the truth, and Astyages concealed the anger
 which he kept against him for that which had come to pass, and first he
 related the matter over again to Harpagos according as he had been told
 it by the herdsman, and afterwards, when it had been thus repeated by
@@ -2292,7 +2526,9 @@ with the boy who is newly come, and then, seeing that I intend to make a
 sacrifice of thanksgiving for the preservation of the boy to those gods
 to whom that honour belongs, be here thyself to dine with me."
 
-119. When Harpagos heard this, he did reverence and thought it a great
+## Chapter 119
+
+When Harpagos heard this, he did reverence and thought it a great
 matter that his offence had turned out for his profit and moreover that
 he had been invited to dinner with happy augury; 127 and so he went to
 his house. And having entered it straightway, he sent forth his son, for
@@ -2322,7 +2558,9 @@ taking up the parts of the flesh which still remained he went to his
 house; and after that, I suppose, he would gather all the parts together
 and bury them.
 
-120. On Harpagos Astyages laid this penalty; and about Cyrus he took
+## Chapter 120
+
+On Harpagos Astyages laid this penalty; and about Cyrus he took
 thought, and summoned the same men of the Magians who had given judgment
 about his dream in the manner which has been said: and when they came,
 Astyages asked how they had given judgment about his vision; and they
@@ -2358,7 +2596,9 @@ both we ourselves are of good cheer and we exhort thee to be so
 likewise: and as for this boy, send him away from before thine eyes to
 the Persians and to his parents."
 
-121. When he heard this Astyages rejoiced, and calling Cyrus spoke to
+## Chapter 121
+
+When he heard this Astyages rejoiced, and calling Cyrus spoke to
 him thus: "My son, I did thee wrong by reason of a vision of a dream
 which has not come to pass, but thou art yet alive by thine own destiny;
 now therefore go in peace to the land of the Persians, and I will send
@@ -2366,7 +2606,9 @@ with thee men to conduct thee: and when thou art come thither, thou
 shalt find a father and a mother not after the fashion of Mitradates the
 herdsman and his wife."
 
-122. Thus having spoken Astyages sent Cyrus away; and when he had ed and
+## Chapter 122
+
+Thus having spoken Astyages sent Cyrus away; and when he had ed and
 come to the house of Cambyses, his parents received him; and after that,
 when they learnt who he was, they welcomed him not a little, for they
 had supposed without doubt that their son had perished straightway after
@@ -2383,7 +2625,9 @@ be thought by the Persians to have been preserved in a more supernatural
 manner, they set on foot a report that Cyrus when he was exposed had
 been reared by a bitch: 132 and from that source has come this report.
 
-123. Then as Cyrus grew to be a man, being of all those of his age the
+## Chapter 123
+
+Then as Cyrus grew to be a man, being of all those of his age the
 most courageous and the best beloved, Harpagos sought to become his
 friend and sent him gifts, because he desired to take vengeance on
 Astyages. For he saw not how from himself, who was in a private station,
@@ -2406,7 +2650,9 @@ him by word of mouth to give the hare to Cyrus, and to tell him at the
 same time to open it with his own hands and let no one else be present
 when he did so.
 
-124. This then was accomplished, and Cyrus having received from him the
+## Chapter 124
+
+This then was accomplished, and Cyrus having received from him the
 hare, cut it open; and having found within it the paper he took and read
 it over. And the writing said this: "Son of Cambyses, over thee the gods
 keep guard, for otherwise thou wouldst never have come to so much good
@@ -2425,7 +2671,9 @@ Astyages, revolting from him and coming over to thy party. Consider then
 that here at least all is ready, and therefore do this and do it with
 speed."
 
-125. Cyrus having heard this began to consider in what manner he might
+## Chapter 125
+
+Cyrus having heard this began to consider in what manner he might
 most skilfully persuade the Persians to revolt, and on consideration he
 found that this was the most convenient way, and so in fact he did:—He
 wrote first on a paper that which he desired to write, and he made an
@@ -2443,7 +2691,9 @@ Derusiaians and the Germanians, these are all tillers of the soil; and
 the rest are nomad tribes, namely the Daoi, Mardians, Dropicans and
 Sagartians.)
 
-126. Now there was a certain region of the Persian land which was
+## Chapter 126
+
+Now there was a certain region of the Persian land which was
 overgrown with thorns, extending some eighteen or twenty furlongs in
 each direction; and when all had come with that which they had been
 before commanded to bring, Cyrus bade them clear this region for
@@ -2469,7 +2719,9 @@ and I think that ye are not worse men than the Medes, either in other
 matters or in those which have to do with war. Consider then that this
 is so, and make revolt from Astyages forthwith."
 
-127. So the Persians having obtained a leader willingly attempted to set
+## Chapter 127
+
+So the Persians having obtained a leader willingly attempted to set
 themselves free, since they had already for a long time been indignant
 to be ruled by the Medes: but when Astyages heard that Cyrus was acting
 thus, he sent a messenger and summoned him; and Cyrus bade the messenger
@@ -2482,7 +2734,9 @@ the battle, namely those who had not been made partakers in the design,
 while others went over to the Persians; but the greater number were
 wilfully slack and fled.
 
-128. So when the Median army had been shamefully dispersed, so soon as
+## Chapter 128
+
+So when the Median army had been shamefully dispersed, so soon as
 Astyages heard of it he said, threatening Cyrus: "But not even so shall
 Cyrus at least escape punishment." Thus having spoken he first impaled
 the Magian interpreters of dreams who had persuaded him to let Cyrus go,
@@ -2491,7 +2745,9 @@ left behind in the city. These he led out and having engaged battle with
 the Persians he was worsted, and Astyages himself was taken alive, and
 he lost also those of the Medes whom he had led forth.
 
-129. Then when Astyages was a prisoner, Harpagos came and stood near him
+## Chapter 129
+
+Then when Astyages was a prisoner, Harpagos came and stood near him
 and rejoiced over him and insulted him; and besides other things which
 he said to grieve him, he asked him especially how it pleased him to
 be a slave instead of a king, making reference to that dinner at which
@@ -2510,7 +2766,9 @@ Persians; whereas now the Medes, who were guiltless of this, had become
 slaves instead of masters, and the Persians who formerly were slaves of
 the Medes had now become their masters.
 
-130. Astyages then, having been king for five-and-thirty years, was thus
+## Chapter 130
+
+Astyages then, having been king for five-and-thirty years, was thus
 caused to cease from being king; and the Medes stooped under the yoke of
 the Persians because of his cruelty, after they had ruled Asia above the
 river Halys for one hundred and twenty-eight years, except during that
@@ -2525,7 +2783,9 @@ king; and after this he subdued Croesus, who was the first to begin the
 quarrel, as I have before said; and having subdued him he then became
 ruler of all Asia.
 
-131. These are the customs, so far as I know, which the Persians
+## Chapter 131
+
+These are the customs, so far as I know, which the Persians
 practise:—Images and temples and altars they do not account it lawful
 to erect, nay they even charge with folly those who do these things; and
 this, as it seems to me, because they do not account the gods to be in
@@ -2539,7 +2799,9 @@ having learnt it both from the Assyrians and the Arabians; and the
 Assyrians call Aphrodite Mylitta, the Arabians Alitta, 13601 and the
 Persians Mitra.
 
-132. Now this is the manner of sacrifice for the gods aforesaid which
+## Chapter 132
+
+Now this is the manner of sacrifice for the gods aforesaid which
 is established among the Persians:—they make no altars neither do they
 kindle fire; and when they mean to sacrifice they use no libation nor
 music of the pipe nor chaplets 137 nor meal for sprinkling; 138 but when
@@ -2558,7 +2820,9 @@ incantation is), seeing that without a Magian it is not lawful for
 them to make sacrifices. Then after waiting a short time the sacrificer
 carries away the flesh and uses it for whatever purpose he pleases.
 
-133. And of all days their wont is to honour most that on which they
+## Chapter 133
+
+And of all days their wont is to honour most that on which they
 were born, each one: on this they think it right to set out a feast more
 liberal than on other days; and in this feast the wealthier of them set
 upon the table an ox or a horse or a camel or an ass, roasted whole in
@@ -2580,7 +2844,9 @@ please them, they let it go: and that on which they have had the first
 deliberation when they are sober, they consider again when they are
 drinking.
 
-134. When they meet one another in the roads, by this you may discern
+## Chapter 134
+
+When they meet one another in the roads, by this you may discern
 whether those who meet are of equal rank,—for instead of greeting by
 words they kiss one another on the mouth; but if one of them is a little
 inferior to the other, they kiss one another on the cheeks, and if one
@@ -2601,7 +2867,9 @@ those again over the nations that were next to them: for the race went
 forward thus ever from government by themselves to government through
 others.
 
-135. The Persians more than any other men admit foreign usages; for they
+## Chapter 135
+
+The Persians more than any other men admit foreign usages; for they
 both wear the Median dress judging it to be more comely than their own,
 and also for fighting the Egyptian corslet: moreover they adopt all
 kinds of luxuries when they hear of them, and in particular they have
@@ -2609,7 +2877,9 @@ learnt from the Hellenes to have commerce with boys. They marry each
 one several lawful wives, and they get also a much larger number of
 concubines.
 
-136. It is established as a sign of manly excellence next after
+## Chapter 136
+
+It is established as a sign of manly excellence next after
 excellence in fight, to be able to show many sons; and to those who have
 most the king sends gifts every year: for they consider number to be a
 source of strength. And they educate their children, beginning at five
@@ -2620,7 +2890,9 @@ women; and it is so done for this reason, that if the child should die
 while he is being bred up, he may not be the cause of any grief to his
 father.
 
-137. I commend this custom of theirs, and also the one which is next
+## Chapter 137
+
+I commend this custom of theirs, and also the one which is next
 to be mentioned, namely that neither the king himself shall put any to
 death for one cause alone, nor any of the other Persians for one cause
 alone shall do hurt that is irremediable to any of his own servants; but
@@ -2633,7 +2905,9 @@ either to changelings or to children of adulterous birth; for, say they,
 it is not reasonable to suppose that the true parent would be killed by
 his own son.
 
-138. Whatever things it is not lawful for them to do, these it is not
+## Chapter 138
+
+Whatever things it is not lawful for them to do, these it is not
 lawful for them even to speak of: and the most disgraceful thing in
 their estimation is to tell an lie, and next to this to owe money, this
 last for many other reasons, but especially because it is necessary,
@@ -2648,7 +2922,9 @@ neither make water nor spit, neither do they wash their hands in it,
 nor allow any other to do these things, but they reverence rivers very
 greatly.
 
-139. This moreover also has chanced to them, which the Persians have
+## Chapter 139
+
+This moreover also has chanced to them, which the Persians have
 themselves failed to notice but I have not failed to do so:—their
 names, which are formed to correspond with their bodily shapes or their
 magnificence of station, end all with the same letter, that letter which
@@ -2656,7 +2932,9 @@ the Dorians call san and the Ionians sigma; with this you will find, if
 you examine the matter, that all the Persian names end, not some with
 this and others with other letters, but all alike.
 
-140. So much I am able to say for certain from my own knowledge about
+## Chapter 140
+
+So much I am able to say for certain from my own knowledge about
 them: but what follows is reported about their dead as a secret mystery
 and not with clearness, namely that the body of a Persian man is not
 buried until it has been torn by a bird or a dog. (The Magians I know
@@ -2671,7 +2949,9 @@ killing both ants and serpents and all other creeping and flying things.
 About this custom then be it as it was from the first established; and I
 now to the former narrative. 145
 
-141. The Ionians and Aiolians, as soon as the Lydians had been subdued
+## Chapter 141
+
+The Ionians and Aiolians, as soon as the Lydians had been subdued
 by the Persians, sent messengers to Cyrus at Sardis, desiring to be his
 subjects on the same terms as they had been subjects of Croesus. And
 when he heard that which they proposed to him, he spoke to them a fable,
@@ -2692,7 +2972,9 @@ with these alone Cyrus had sworn an agreement on the same terms as the
 Lydians had granted. The rest of the Ionians resolved by common consent
 to send messengers to Sparta, to ask the Spartans to help the Ionians.
 
-142. These Ionians to whom belongs the Panionion had the fortune to
+## Chapter 142
+
+These Ionians to whom belongs the Panionion had the fortune to
 build their cities in the most favourable position for climate and
 seasons of any men whom we know: for neither the regions above Ionia nor
 those below, neither those towards the East nor those towards the West,
@@ -2711,7 +2993,9 @@ mainland, namely Erythrai: now the men of Chios and of Erythrai use the
 same form of language, but the Samians have one for themselves alone.
 Thus there result four separate forms of language.
 
-143. Of these Ionians then those of Miletos were sheltered from danger,
+## Chapter 143
+
+Of these Ionians then those of Miletos were sheltered from danger,
 since they had sworn an agreement; and those of them who lived in
 islands had no cause for fear, for the Phenicians were not yet subjects
 of the Persians and the Persians themselves were not sea-men. Now these
@@ -2727,7 +3011,9 @@ the name of Panionion, and they made resolution not to grant a share in
 it to any other Ionians (nor indeed did any ask to share it except those
 of Smyrna);
 
-144, just as the Dorians of that district which is now called the Five
+## Chapter 144
+
+just as the Dorians of that district which is now called the Five
 Cities 149 but was formerly called the Six Cities, 150 take care not
 to admit any of the neighbouring Dorians to the temple of Triopion, and
 even exclude from sharing in it those of their own body who commit any
@@ -2741,7 +3027,9 @@ to his own house and hung it up there upon a nail. On this ground
 the other five cities, Lindos, Ialysos and Cameiros, Cos and Cnidos,
 excluded the sixth city Halicarnassos from sharing in the temple.
 
-145. Upon these they laid this penalty: but as for the Ionians, I think
+## Chapter 145
+
+Upon these they laid this penalty: but as for the Ionians, I think
 that the reason why they made of themselves twelve cities and would
 not receive any more into their body, was because when they dwelt in
 Peloponnesus there were of them twelve divisions, just as now there are
@@ -2756,7 +3044,9 @@ which the last alone has an inland position. 151 These form now twelve
 divisions of the Achaians, and in former times they were divisions of
 the Ionians.
 
-146. For this reason then the Ionians also made for themselves twelve
+## Chapter 146
+
+For this reason then the Ionians also made for themselves twelve
 cities; for at any rate to say that these are any more Ionians than
 the other Ionians, or have at all a nobler descent, is mere folly,
 considering that a large part of them are Abantians from Euboea, who
@@ -2775,7 +3065,9 @@ own husband by name, for this reason, because the Ionians had slain
 their fathers and husbands and children and then having done this had
 them to wife. This happened at Miletos.
 
-147. Moreover some of them set Lykian kings over them, descendants of
+## Chapter 147
+
+Moreover some of them set Lykian kings over them, descendants of
 Glaucos and Hippolochos, while others were ruled by Cauconians of Pylos,
 descendants of Codros the son of Melanthos, and others again by princes
 of the two races combined. Since however these hold on to the name more
@@ -2785,7 +3077,9 @@ from Athens and who keep the feast of Apaturia; and this all keep except
 the men of Ephesos and Colophon: for these alone of all the Ionians do
 not keep the Apaturia, and that on the ground of some murder committed.
 
-148. Now the Panionion is a sacred place on the north side of Mycale,
+## Chapter 148
+
+Now the Panionion is a sacred place on the north side of Mycale,
 set apart by common agreement of the Ionians for Poseidon of Helike 152;
 and this Mycale is a promontory of the mainland running out Westwards
 towards Samos, where the Ionians gathering together from their cities
@@ -2796,7 +3090,9 @@ like the names of the Persians.) 153
 
 These then are the Ionian cities:
 
-149, and those of Aiolia are as follows:—Kyme, which is called
+## Chapter 149
+
+and those of Aiolia are as follows:—Kyme, which is called
 Phriconis, Larisai, Neon-teichos, Temnos, Killa, Notion, Aigiroëssa,
 Pitane, Aigaiai, Myrina, Gryneia; these are the ancient cities of the
 Aiolians, eleven in number, since one, Smyrna, was severed from them by
@@ -2805,7 +3101,9 @@ formerly to be twelve in number. And these Aiolians had the fortune to
 settle in a land which is more fertile than that of the Ionians but in
 respect of climate less favoured. 154
 
-150. Now the Aiolians lost Smyrna in the following manner:—certain men
+## Chapter 150
+
+Now the Aiolians lost Smyrna in the following manner:—certain men
 of Colophon, who had been worsted in party strife and had been driven
 from their native city, were received there for refuge: and after this
 the Colophonian exiles watched for a time when the men of Smyrna were
@@ -2817,7 +3115,9 @@ on this condition the Aiolians should abandon Smyrna. When the men of
 Smyrna had done this, the remaining eleven cities divided them amongst
 themselves and made them their own citizens.
 
-151. These then are the Aiolian cities upon the mainland, with the
+## Chapter 151
+
+These then are the Aiolian cities upon the mainland, with the
 exception of those situated on Mount Ida, for these are separate from
 the rest. And of those which are in the islands, there are five in
 Lesbos, for the sixth which was situated in Lesbos, namely Arisba, was
@@ -2828,7 +3128,9 @@ like those Ionians who dwelt in the islands, had no cause for fear; but
 the remaining cities came to a common agreement to follow the Ionians
 whithersoever they should lead.
 
-152. Now when the messengers from the Ionians and Aiolians came to
+## Chapter 152
+
+Now when the messengers from the Ionians and Aiolians came to
 Sparta (for this business was carried out with speed), they chose before
 all others to speak for them the Phocaian, whose name was Pythermos. He
 then put upon him a purple cloak, in order that as many as possible
@@ -2844,7 +3146,9 @@ them, whose name was Lacrines, to report to Cyrus the saying of the
 Lacedemonians, bidding him do hurt to no city of the Hellas, since they
 would not permit it.
 
-153. When the herald had spoken thus, Cyrus is said to have asked those
+## Chapter 153
+
+When the herald had spoken thus, Cyrus is said to have asked those
 of the Hellenes whom he had with him, what men the Lacedemonians were
 and how many in number, that they made this proclamation to him; and
 hearing their answer he said to the Spartan herald: "Never yet did I
@@ -2864,14 +3168,18 @@ Bactrian nation and the Sacans and the Egyptians; and against these he
 meant to make expeditions himself, while sending some other commander
 about the Ionians.
 
-154. But when Cyrus had marched away from Sardis, Pactyas caused the
+## Chapter 154
+
+But when Cyrus had marched away from Sardis, Pactyas caused the
 Lydians to revolt from Tabalos and from Cyrus. This man went down to the
 sea, and having in his possession all the gold that there had been in
 Sardis, he hired for himself mercenaries and persuaded the men of the
 sea-coast to join his expedition. So he marched on Sardis and besieged
 Tabalos, having shut himself up in the citadel.
 
-155. Hearing this on his way, Cyrus said to Croesus as follows:
+## Chapter 155
+
+Hearing this on his way, Cyrus said to Croesus as follows:
 "Croesus, what end shall I find of these things which are coming to
 pass? The Lydians will not cease as it seems, from giving trouble to
 me and from having it themselves. I doubt me if it were not best 157 to
@@ -2897,7 +3205,9 @@ train their sons to play the lyre and the harp and to be retail-dealers;
 and soon thou shalt see, O king, that they have become women instead of
 men, so that there will be no fear that they will revolt from thee."
 
-156. Croesus, I say, suggested to him this, perceiving that this was
+## Chapter 156
+
+Croesus, I say, suggested to him this, perceiving that this was
 better for the Lydians than to be reduced to slavery and sold; for he
 knew that if he did not offer a sufficient reason, he would not persuade
 Cyrus to change his mind, and he feared lest at some future time, if
@@ -2910,7 +3220,9 @@ sell into slavery all the rest who had joined with the Lydians in the
 expedition to Sardis, and finally by all means to bring Pactyas himself
 alive to Cyrus.
 
-157. Having given this charge upon the road, he continued his march to
+## Chapter 157
+
+Having given this charge upon the road, he continued his march to
 the native land of the Persians; but Pactyas hearing that an army was
 approaching to fight against him was struck with fear and fled away
 forthwith to Kyme. Then Mazares the Mede marched upon Sardis with a
@@ -2924,7 +3236,9 @@ they should follow. For there was there an Oracle established of old
 time, which all the Ionians and Aiolians were wont to consult; and this
 place is in the territory of Miletos above the port of Panormos.
 
-158. So the men of Kyme sent messengers to the Branchidai 159 to inquire
+## Chapter 158
+
+So the men of Kyme sent messengers to the Branchidai 159 to inquire
 of the god, and they asked what course they should take about Pactyas so
 as to do that which was pleasing to the gods. When they thus inquired,
 the answer was given them that they should deliver up Pactyas to the
@@ -2936,7 +3250,9 @@ answer and thinking that those sent to inquire were not speaking the
 truth; until at last other messengers were sent to the Oracle to ask a
 second time about Pactyas, and of them Aristodicos was one.
 
-159. When these came to Branchidai, Aristodicos stood forth from the
+## Chapter 159
+
+When these came to Branchidai, Aristodicos stood forth from the
 rest and consulted the Oracle, asking as follows: Lord, 160 there came
 to us a suppliant for protection Pactyas the Lydian, flying from a
 violent death at the hands of the Persians, and they demand him from us,
@@ -2959,7 +3275,9 @@ again thus: "Yea, I bid you do so, that ye may perish the more quickly
 for your impiety; so that ye may not at any future time come to the
 Oracle to ask about delivering up of suppliants."
 
-160. When the men of Kyme heard this saying reported, not wishing either
+## Chapter 160
+
+When the men of Kyme heard this saying reported, not wishing either
 to be destroyed by giving him up or to be besieged by keeping him with
 them, they sent him away to Mytilene. Those of Mytilene however, when
 Mazares sent messages to them, were preparing to deliver up Pactyas
@@ -2977,14 +3295,18 @@ sacrifice to any god, or baked cakes for offering of the corn which grew
 there, but all the produce of this land was excluded from every kind of
 sacred service.
 
-161. The men of Chios had then delivered up Pactyas; and after this
+## Chapter 161
+
+The men of Chios had then delivered up Pactyas; and after this
 Mazares made expedition against those who had joined in besieging
 Tabalos: and first he reduced to slavery those of Priene, then he
 overran the whole plain of the Maiander making spoil of it for his army,
 and Magnesia in the same manner: and straightway after this he fell sick
 and died.
 
-162. After he was dead, Harpagos came down to take his place in command,
+## Chapter 162
+
+After he was dead, Harpagos came down to take his place in command,
 being also a Mede by race (this was the man whom the king of the Medes
 Astyages feasted with the unlawful banquet, and who helped to give the
 kingdom to Cyrus). This man, being appointed commander then by Cyrus,
@@ -2993,7 +3315,9 @@ against them: for when he had enclosed any people within their walls,
 then he threw up mounds against the walls and took their city by storm;
 and the first city of Ionia upon which he made an attempt was Phocaia.
 
-163. Now these Phocaians were the first of the Hellenes who made long
+## Chapter 163
+
+Now these Phocaians were the first of the Hellenes who made long
 voyages, and these are they who discovered the Adriatic and Tyrsenia and
 Iberia and Tartessos: and they made voyages not in round ships, but in
 vessels of fifty oars. These came to Tartessos and became friends with
@@ -3008,7 +3332,9 @@ did this without sparing, for the circuit of the wall is many furlongs
 163 in extent, and it is built all of large stones closely fitted
 together.
 
-164. The wall of the Phocaians was made in this manner: and Harpagos
+## Chapter 164
+
+The wall of the Phocaians was made in this manner: and Harpagos
 having marched his army against them began to besiege them, at the same
 time holding forth to them proposals and saying that it was enough to
 satisfy him if the Phocaians were willing to throw down one battlement
@@ -3028,7 +3354,9 @@ put into the ships, and having embarked themselves they sailed towards
 Chios; and the Persians obtained possession of Phocaia, the city being
 deserted of the inhabitants.
 
-165. But as for the Phocaians, since the men of Chios would not sell
+## Chapter 165
+
+But as for the Phocaians, since the men of Chios would not sell
 them at their request the islands called Oinussai, from the fear lest
 these islands might be made a seat of trade and their island might be
 shut out, therefore they set out for Kyrnos: 165 for in Kyrnos
@@ -3046,7 +3374,9 @@ their native land, and they proved false to their oath and sailed back
 to Phocaia. But those of them who kept the oath still, weighed anchor
 from the islands of Oinussai and sailed.
 
-166. When these came to Kyrnos, for five years they dwelt together with
+## Chapter 166
+
+When these came to Kyrnos, for five years they dwelt together with
 those who had come thither before, and they founded temples there.
 Then, since they plundered the property of all their neighbours,
 the Tyrsenians and Carthaginians 167 made expedition against them by
@@ -3060,7 +3390,9 @@ and took up their children and their women and their other possessions
 as much as their ships proved capable of carrying, and then they left
 Kyrnos behind them and sailed to Rhegion.
 
-167. But as for the crews of the ships that were destroyed, the
+## Chapter 167
+
+But as for the crews of the ships that were destroyed, the
 Carthaginians and Tyrsenians obtained much the greater number of them,
 168 and these they brought to land and killed by stoning. After this the
 men of Agylla found that everything which passed by the spot where the
@@ -3078,7 +3410,9 @@ a man of Poseidonia that the Pythian prophetess by her answer meant
 them to found a temple to Kyrnos, who was a hero, and not to found a
 settlement in the island of Kyrnos. 169
 
-168. About Phocaia in Ionia it happened thus, and nearly the same thing
+## Chapter 168
+
+About Phocaia in Ionia it happened thus, and nearly the same thing
 also was done by the men of Teos: for as soon as Harpagos took their
 wall with a mound, they embarked in their ships and sailed straightway
 for Thrace; and there they founded the city of Abdera, which before
@@ -3086,7 +3420,9 @@ them Timesios of Clazomenai founded and had no profit therefrom, but
 was driven out by the Thracians; and now he is honoured as a hero by the
 Teïans in Abdera.
 
-169. These alone of all the Ionians left their native cities because
+## Chapter 169
+
+These alone of all the Ionians left their native cities because
 they would not endure subjection: but the other Ionians except the
 Milesians did indeed contend in arms with Harpagos like those who left
 their homes, and proved themselves brave men, fighting each for his own
@@ -3098,7 +3434,9 @@ reduced to subjection. And when Harpagos had conquered the Ionians on
 the mainland, then the Ionians who dwelt in the islands, being struck
 with fear by these things, gave themselves over to Cyrus.
 
-170. When the Ionians had been thus evilly entreated but were continuing
+## Chapter 170
+
+When the Ionians had been thus evilly entreated but were continuing
 still to hold their gatherings as before at the Panionion, Bias a man
 of Priene set forth to the Ionians, as I am informed, a most profitable
 counsel, by following which they might have been the most prosperous
@@ -3118,7 +3456,9 @@ just as if they were demes.
 
 These men 171 set forth to them counsels of the kind which I have said:
 
-171. but Harpagos, after subduing Ionia, proceeded to march against the
+## Chapter 171
+
+but Harpagos, after subduing Ionia, proceeded to march against the
 Carians and Caunians and Lykians, taking also Ionians and Aiolians to
 help him. Of these the Carians came to the mainland from the islands;
 for being of old time subjects of Minos and being called Leleges, they
@@ -3146,7 +3486,9 @@ brothers of Car; these share in it, but those who being of another race
 have come to speak the same language as the Carians, these have no share
 in it.
 
-172. It seems to me however that the Caunians are dwellers there from
+## Chapter 172
+
+It seems to me however that the Caunians are dwellers there from
 the beginning, though they say themselves that they came from Crete: but
 they have been assimilated to the Carian race in language, or else the
 Carians to the Caunian race, I cannot with certainty determine which.
@@ -3161,7 +3503,9 @@ made pursuit as far as the borders of the Calyndians, beating the air
 with their spears; and they said that they were casting the foreign gods
 out of the land. Such are the customs which these have.
 
-173. The Lykians however have sprung originally from Crete (for in old
+## Chapter 173
+
+The Lykians however have sprung originally from Crete (for in old
 time the whole of Crete was possessed by Barbarians): and when the sons
 of Europa, Sarpedon and Minos, came to be at variance in Crete about the
 kingdom, Minos having got the better in the strife of parties drove
@@ -3185,7 +3529,9 @@ but if a man who is a citizen, though he were the first man among them,
 have a slave for wife or concubine, the children are without civil
 rights.
 
-174. Now the Carians were reduced to subjection by Harpagos without any
+## Chapter 174
+
+Now the Carians were reduced to subjection by Harpagos without any
 brilliant deed displayed either by the Carians themselves or by those
 of the Hellenes who dwell in this land. Of these last there are besides
 others the men of Cnidos, settlers from Lacedemon, whose land runs out
@@ -3214,7 +3560,9 @@ When the Pythian prophetess had given this oracle, the men of Cnidos
 not only ceased from their digging but delivered themselves to Harpagos
 without resistance, when he came against them with his army.
 
-175. There were also the Pedasians, who dwelt in the inland country
+## Chapter 175
+
+There were also the Pedasians, who dwelt in the inland country
 above Halicarnassos; and among these, whenever anything hurtful is about
 to happen either to themselves or to their neighbours, the priestess
 of Athene has a great beard: this befell them three times. These of
@@ -3222,7 +3570,9 @@ all about Caria were the only men who held out for any time against
 Harpagos, and they gave him trouble more than any other people, having
 fortified a mountain called Lide.
 
-176. After a time the Pedasians were conquered; and the Lykians, when
+## Chapter 176
+
+After a time the Pedasians were conquered; and the Lykians, when
 Harpagos marched his army into the plain of Xanthos, came out against
 him 175 and fought, few against many, and displayed proofs of valour;
 but being defeated and confined within their city, they gathered
@@ -3237,14 +3587,18 @@ at that time to be away from their native place, and so they escaped
 destruction. Thus Harpagos obtained possession of Caunos, for the men of
 Caunos imitated in most respects the behaviour of the Lykians.
 
-177. So Harpagos was conquering the coast regions of Asia; and Cyrus
+## Chapter 177
+
+So Harpagos was conquering the coast regions of Asia; and Cyrus
 himself meanwhile was doing the same in the upper parts of it, subduing
 every nation and passing over none. Now most of these actions I shall
 pass over in silence, but the undertakings which gave him trouble more
 than the rest and which are the most worthy of note, of these I shall
 make mention.
 
-178. Cyrus, so soon as he had made subject to himself all other parts
+## Chapter 178
+
+Cyrus, so soon as he had made subject to himself all other parts
 of the mainland, proceeded to attack the Assyrians. Now Assyria
 has doubtless many other great cities, but the most famous and the
 strongest, and the place where the seat of their monarchy had been
@@ -3259,7 +3613,9 @@ broad and full of water; then a wall fifty royal cubits in thickness
 and two hundred cubits in height: now the royal cubit is larger by three
 fingers than the common cubit. 178
 
-179. I must also tell in addition to this for what purpose the earth was
+## Chapter 179
+
+I must also tell in addition to this for what purpose the earth was
 used, which was taken out of the trench, and in what manner the wall was
 made. As they dug the trench they made the earth which was carried out
 of the excavation into bricks, and having moulded enough bricks they
@@ -3277,7 +3633,9 @@ also Is, and it sends its stream into the river Euphrates. This river Is
 throws up together with its water lumps of asphalt in great abundance,
 and thence was brought the asphalt for the wall of Babylon.
 
-180. Babylon then was walled in this manner; and there are two divisions
+## Chapter 180
+
+Babylon then was walled in this manner; and there are two divisions
 of the city; for a river whose name is Euphrates parts it in the middle.
 This flows from the land of the Armenians and is large and deep and
 swift, and it flows out into the Erythraian sea. The wall then on each
@@ -3290,7 +3648,9 @@ road there were set gates in the rampart which ran along the river, in
 many in number as the ways, 180 and these also were of bronze and led
 like the ways 181 to the river itself.
 
-181. This wall then which I have mentioned is as it were a cuirass 182
+## Chapter 181
+
+This wall then which I have mentioned is as it were a cuirass 182
 for the town, and another wall runs round within it, not much weaker for
 defence than the first but enclosing a smaller space. 183 And in each
 division of the city was a building in the midst, in the one the king's
@@ -3311,7 +3671,9 @@ one woman of the natives of the place, whomsoever the god shall choose
 from all the woman, as say the Chaldeans who are the priests of this
 god.
 
-182. These same men say also, but I do not believe them, that the god
+## Chapter 182
+
+These same men say also, but I do not believe them, that the god
 himself comes often to the cell and rests upon the couch, as happens
 likewise in the Egyptian Thebes according to the report of the
 Egyptians, for there also a woman sleeps in the temple of the Theban
@@ -3321,7 +3683,9 @@ Lykia, whenever there is one, for there is not always an Oracle there,
 but whenever there is one, then she is shut up during the nights in the
 temple within the cell.
 
-183. There is moreover in the temple at Babylon another cell below,
+## Chapter 183
+
+There is moreover in the temple at Babylon another cell below,
 wherein is a great image of Zeus sitting, made of gold, and by it is
 placed a large table of gold, and his footstool and seat are of gold
 also; and, as the Chaldeans reported, the weight of the gold of which
@@ -3340,7 +3704,9 @@ Dareios, who also killed the priest when he forbade him to meddle with
 the statue. This temple, then, is thus adorned with magnificence, and
 there are also many private votive-offerings.
 
-184. Of this Babylon, besides many other rulers, of whom I shall make
+## Chapter 184
+
+Of this Babylon, besides many other rulers, of whom I shall make
 mention in the Assyrian history, and who added improvement to the walls
 and temples, there were also two who were women. Of these, the one who
 ruled first, named Semiramis, who lived five generations before the
@@ -3348,7 +3714,9 @@ other, produced banks of earth in the plain which are a sight worth
 seeing; and before this the river used to flood like a sea over the
 whole plain.
 
-185. The queen who lived after her time, named Nitocris, was wiser than
+## Chapter 185
+
+The queen who lived after her time, named Nitocris, was wiser than
 she who had reigned before; and in the first place she left behind her
 monuments which I shall tell of; then secondly, seeing that the monarchy
 of the Medes was great and not apt to remain still, but that besides
@@ -3379,7 +3747,9 @@ pool. These works she carried out in that part where the entrance to the
 country was, and the shortest way to it from Media, so that the Medes
 might not have dealings with her kingdom and learn of her affairs.
 
-186. These defences she cast round her city from the depth; and she made
+## Chapter 186
+
+These defences she cast round her city from the depth; and she made
 the following addition which was dependent upon them:—The city was in
 two divisions, and the river occupied the space between; and in the
 time of the former rulers, when any one wished to pass over from the
@@ -3407,7 +3777,9 @@ Euphrates back into its ancient channel from the lake, and so the
 place dug out being made into a swamp was thought to have served a good
 purpose, and there had been a bridge set up for the men of the city.
 
-187. This same queen also contrived a snare of the following kind:—Over
+## Chapter 187
+
+This same queen also contrived a snare of the following kind:—Over
 that gate of the city through which the greatest number of people passed
 she set up for herself a tomb above the very gate itself. And on the
 tomb she engraved writing which said thus: "If any of the kings of
@@ -3424,7 +3796,9 @@ tomb and found not indeed money but the corpse, with writing which said
 thus: "If thou hadst not been insatiable of wealth and basely covetous,
 thou wouldest not have opened the resting-places of the dead."
 
-188. This queen then is reported to have been such as I have described:
+## Chapter 188
+
+This queen then is reported to have been such as I have described:
 and it was the son of this woman, bearing the same name as his father,
 Labynetos, and being ruler over the Assyrians, against whom Cyrus was
 marching. Now the great king makes his marches not only well furnished
@@ -3435,7 +3809,9 @@ the Choaspes boiled, a very great number of waggons, four-wheeled
 and drawn by mules, carry a supply in silver vessels, and go with him
 wherever he may march at any time.
 
-189. Now when Cyrus on his way towards Babylon arrived at the river
+## Chapter 189
+
+Now when Cyrus on his way towards Babylon arrived at the river
 Gyndes,—of which river the springs are in the mountains of the
 Matienians, and it flows through the Dardanians and runs into another
 river, the Tigris, which flowing by the city of Opis runs out into the
@@ -3454,7 +3830,9 @@ he commanded them to dig: so, as a great multitude was working, the work
 was completed indeed, but they spent the whole summer season at this
 spot working.
 
-190. When Cyrus had taken vengeance on the river Gyndes by dividing it
+## Chapter 190
+
+When Cyrus had taken vengeance on the river Gyndes by dividing it
 into three hundred and sixty channels, and when the next spring was just
 beginning, then at length he continued his advance upon Babylon: and
 the men of Babylon had marched forth out of their city and were awaiting
@@ -3467,7 +3845,9 @@ many years. So while these made no account of the siege, Cyrus was
 in straits what to do, for much time went by and his affairs made no
 progress onwards.
 
-191. Therefore, whether it was some other man who suggested it to him
+## Chapter 191
+
+Therefore, whether it was some other man who suggested it to him
 when he was in a strait what to do, or whether he of himself perceived
 what he ought to do, he did as follows:—The main body of his army 195 he
 posted at the place where the river runs into the city, and then again
@@ -3499,7 +3879,9 @@ rejoicing during this time until they learnt the truth only too well.
 
 Babylon then had thus been taken for the first time:
 
-192, and as to the resources of the Babylonians how great they are, I
+## Chapter 192
+
+and as to the resources of the Babylonians how great they are, I
 shall show by many other proofs and among them also by this:—For the
 support of the great king and his army, apart from the regular tribute
 the whole land of which he is ruler has been distributed into portions.
@@ -3519,7 +3901,9 @@ twenty mares: of Indian hounds moreover such a vast number were
 kept that four large villages in the plain, being free from other
 contributions, had been appointed to provide food for the hounds.
 
-193. Such was the wealth which belonged to the ruler of Babylon. Now
+## Chapter 193
+
+Such was the wealth which belonged to the ruler of Babylon. Now
 the land of the Assyrians has but little rain; and this little gives
 nourishment to the root of the corn, but the crop is ripened and the ear
 comes on by the help of watering from the river, not as in Egypt by the
@@ -3548,7 +3932,9 @@ gall-fly may enter into the date and ripen it and that the fruit of
 the palm may not fall off: for the male-palm produces gall-flies in its
 fruit just as the wild-fig does.
 
-194. But the greatest marvel of all the things in the land after the
+## Chapter 194
+
+But the greatest marvel of all the things in the land after the
 city itself, to my mind is this which I am about to tell: Their boats,
 those I mean which go down the river to Babylon, are round and all of
 leather: for they make ribs for them of willow which they cut in the
@@ -3572,7 +3958,9 @@ current; and for this reason they make their boats not of timber but
 of hides. Then when they have come back to the land of the Armenians,
 driving their asses with them, they make other boats in the same manner.
 
-195. Such are their boats; and the following is the manner of dress
+## Chapter 195
+
+Such are their boats; and the following is the manner of dress
 which they use, namely a linen tunic reaching to the feet, and over this
 they put on another of wool, and then a white mantle thrown round, while
 they have shoes of a native fashion rather like the Boeotian slippers.
@@ -3582,7 +3970,9 @@ man has a seal and a staff carved by hand, and on each staff is carved
 either an apple or a rose or a lily or an eagle or some other device,
 for it is not their custom to have a staff without a device upon it.
 
-196. Such is the equipment of their bodies: and the customs which are
+## Chapter 196
+
+Such is the equipment of their bodies: and the customs which are
 established among them are as follows, the wisest in our opinion being
 this, which I am informed that the Enetoi in Illyria also have. In every
 village once in each year it was done as follows:—When the maidens
@@ -3616,7 +4006,9 @@ take them to another city: 205 for since the time when being conquered
 they were oppressed and ruined, each one of the common people when he is
 in want of livelihood prostitutes his female children.
 
-197. Next in wisdom to that, is this other custom which was established
+## Chapter 197
+
+Next in wisdom to that, is this other custom which was established
 206 among them:—they bear out the sick into the market-place; for of
 physicians they make no use. So people come up to the sick man and give
 advice about his disease, if any one himself has ever suffered anything
@@ -3626,14 +4018,18 @@ themselves got rid of a like disease or seen some other get rid of it:
 and to pass by the sick man in silence is not permitted to them, nor
 until one has asked what disease he has.
 
-198. They bury their dead in honey, and their modes of lamentation
+## Chapter 198
+
+They bury their dead in honey, and their modes of lamentation
 are similar to those used in Egypt. And whenever a Babylonian man has
 intercourse with his wife, he sits by incense offered, and his wife does
 the same on the other side, and when it is morning they wash themselves,
 both of them, for they will touch no vessel until they have washed
 themselves: and the Arabians do likewise in this matter.
 
-199. Now the most shameful of the customs of the Babylonians is as
+## Chapter 199
+
+Now the most shameful of the customs of the Babylonians is as
 follows: every woman of the country must sit down in the precincts 207
 of Aphrodite once in her life and have commerce with a man who is a
 stranger: and many women who do not deign to mingle with the rest,
@@ -3661,20 +4057,26 @@ able to fulfil the law; for some of them remain even as much as three or
 four years: and in some parts of Cyprus too there is a custom similar to
 this.
 
-200. These customs then are established among the Babylonians: and there
+## Chapter 200
+
+These customs then are established among the Babylonians: and there
 are of them three tribes 212 which eat nothing but fish only: and when
 they have caught them and dried them in the sun they do thus,—they
 throw them into brine, and then pound them with pestles and strain them
 through muslin; and they have them for food either kneaded into a soft
 cake, or baked like bread, according to their liking.
 
-201. When this nation also had been subdued by Cyrus, he had a desire to
+## Chapter 201
+
+When this nation also had been subdued by Cyrus, he had a desire to
 bring the Massagetai into subjection to himself. This nation is reputed
 to be both great and warlike, and to dwell towards the East and the
 sunrising, beyond the river Araxes and over against 213 the Issedonians:
 and some also say that this nation is of Scythian race.
 
-202. Now the Araxes is said by some to be larger and by others to be
+## Chapter 202
+
+Now the Araxes is said by some to be larger and by others to be
 smaller than the Ister: and they say that there are many islands in it
 about equal in size to Lesbos, and in them people dwelling who feed in
 the summer upon roots of all kinds which they dig up and certain fruits
@@ -3696,7 +4098,9 @@ feed on fish eaten raw, and who are wont to use as clothing the skins of
 seals: but the one remaining branch of the Araxes flows with unimpeded
 course into the Caspian Sea.
 
-203. Now the Caspian Sea is apart by itself, not having connection with
+## Chapter 203
+
+Now the Caspian Sea is apart by itself, not having connection with
 the other Sea: for all that Sea which the Hellenes navigate, and the Sea
 beyond the Pillars, which is called Atlantis, and the Erythraian Sea are
 in fact all one, but the Caspian is separate and lies apart by itself.
@@ -3712,7 +4116,9 @@ garments, and the figures do not wash out, but grow old with the woollen
 stuff as if they had been woven into it at the first: and men say that
 the sexual intercourse of these people is open like that of cattle.
 
-204. On the West then of this Sea which is called Caspian the Caucasus
+## Chapter 204
+
+On the West then of this Sea which is called Caspian the Caucasus
 is the boundary, while towards the East and the rising sun a plain
 succeeds which is of limitless extent to the view. Of this great plain
 then the Massagetai occupy a large part, against whom Cyrus had become
@@ -3723,7 +4129,9 @@ and next the success which he had met with 215 in his wars, for
 whithersoever Cyrus directed his march, it was impossible for that
 nation to escape.
 
-205. Now the ruler of the Massagetai was a woman, who was queen after
+## Chapter 205
+
+Now the ruler of the Massagetai was a woman, who was queen after
 the death of her husband, and her name was Tomyris. To her Cyrus sent
 and wooed her, pretending that he desired to have her for his wife:
 but Tomyris understanding that he was wooing not herself but rather
@@ -3733,7 +4141,9 @@ proceeded to make an expedition openly against the Massagetai, forming
 bridges of boats over the river for his army to cross, and building
 towers upon the vessels which gave them passage across the river.
 
-206. While he was busied about this labour, Tomyris sent a herald and
+## Chapter 206
+
+While he was busied about this labour, Tomyris sent a herald and
 said thus: "O king of the Medes, cease to press forward the work which
 thou art now pressing forward; for thou canst not tell whether these
 things will be in the end for thy advantage or no; cease to do so, I
@@ -3751,7 +4161,9 @@ matter before them for discussion, asking their advice as to which
 of the two things he should do: and their opinions all agreed in one,
 bidding him receive Tomyris and her army into his country.
 
-207. But Croesus the Lydian, being present and finding fault with this
+## Chapter 207
+
+But Croesus the Lydian, being present and finding fault with this
 opinion, declared an opinion opposite to that which had been set forth,
 saying as follows: "O king, I told thee in former time also, that since
 Zeus had given me over to thee, I would avert according to my power
@@ -3790,7 +4202,9 @@ am not mistaken in my judgment, they when they see a quantity of good
 things will fall to the feast, and after that it remains for us to
 display great deeds."
 
-208. These were the conflicting opinions; and Cyrus, letting go the
+## Chapter 208
+
+These were the conflicting opinions; and Cyrus, letting go the
 former opinion and choosing that of Croesus, gave notice to Tomyris to
 retire, as he was intending to cross over to her. She then proceeded to
 retire, as she had at first engaged to do, but Cyrus delivered Croesus
@@ -3800,7 +4214,9 @@ well, if the crossing over to go against the Massagetai should not be
 prosperous. Having thus charged him and sent these away to the land of
 the Persians, he crossed over the river both himself and his army.
 
-209. And when he had passed over the Araxes, night having come on he saw
+## Chapter 209
+
+And when he had passed over the Araxes, night having come on he saw
 a vision in his sleep in the land of the Massagetai, as follows:—in his
 sleep it seemed to Cyrus that he saw the eldest of the sons of Hystaspes
 having upon his shoulders wings, and that with the one of these he
@@ -3822,7 +4238,9 @@ me. Do thou therefore go by the quickest way back to Persia and take
 care that, when I thither after having subdued these regions, thou set
 thy son before me to be examined."
 
-210. Cyrus said thus supposing that Dareios was plotting against him;
+## Chapter 210
+
+Cyrus said thus supposing that Dareios was plotting against him;
 but in fact the divine powers were showing him beforehand that he was
 destined to find his end there and that his kingdom was coming about
 to Dareios. To this then Hystaspes replied as follows: "O king, heaven
@@ -3833,7 +4251,9 @@ slaves, and to rule all nations instead of being ruled by others. And if
 any vision announces to thee that my son is planning rebellion against
 thee, I deliver him over to thee to do with him whatsoever thou wilt."
 
-211. Hystaspes then, having made answer with these words and having
+## Chapter 211
+
+Hystaspes then, having made answer with these words and having
 crossed over the Araxes, was going his way to the Persian land to keep
 watch over his son Dareios for Cyrus; and Cyrus meanwhile went forward
 and made a march of one day from the Araxes according to the suggestion
@@ -3849,7 +4269,9 @@ them, and took alive many more even than they slew, and among these the
 son of the queen Tomyris, who was leading the army of the Massagetai;
 and his name was Spargapises.
 
-212. She then, when she heard that which had come to pass concerning the
+## Chapter 212
+
+She then, when she heard that which had come to pass concerning the
 army and also the things concerning her son, sent a herald to Cyrus and
 said as follows: "Cyrus, insatiable of blood, be not elated with pride
 by this which has come to pass, namely because with that fruit of the
@@ -3863,14 +4285,18 @@ the Massagetai: but if thou shalt not do so, I swear to thee by the Sun,
 who is lord of the Massagetai, that surely I will give thee thy fill of
 blood, insatiable as thou art."
 
-213. When these words were reported to him Cyrus made no account of
+## Chapter 213
+
+When these words were reported to him Cyrus made no account of
 them; and the son of the queen Tomyris, Spargapises, when the wine left
 him and he learnt in what evil case he was, entreated Cyrus that he
 might be loosed from his chains and gained his request, and then so
 soon as he was loosed and had got power over his hands he put himself to
 death.
 
-214. He then ended his life in this manner; but Tomyris, as Cyrus did
+## Chapter 214
+
+He then ended his life in this manner; but Tomyris, as Cyrus did
 not listen to her, gathered together all her power and joined battle
 with Cyrus. This battle of all the battles fought by Barbarians I
 judge to have been the fiercest, and I am informed that it happened
@@ -3891,7 +4317,9 @@ according to my threat will give thee thy fill of blood." Now as regards
 the end of the life of Cyrus there are many tales told, but this which I
 have related is to my mind the most worthy of belief.
 
-215. As to the Massagetai, they wear a dress which is similar to that of
+## Chapter 215
+
+As to the Massagetai, they wear a dress which is similar to that of
 the Scythians, and they have a manner of life which is also like theirs;
 and there are of them horsemen and also men who do not ride on horses
 (for they have both fashions), and moreover there are both archers
@@ -3905,7 +4333,9 @@ bits and cheek-pieces they employ gold. Iron however and silver they use
 not at all, for they have them not in their land, but gold and bronze in
 abundance.
 
-216. These are the customs which they have:—Each marries a wife, but
+## Chapter 216
+
+These are the customs which they have:—Each marries a wife, but
 they have their wives in common; for that which the Hellenes say that
 the Scythians do, is not in fact done by the Scythians but by the
 Massagetai, that is to say, whatever woman a man of the Massagetai may
@@ -4590,7 +5020,9 @@ to the swift."]
 
 ## Book II. The Second Book of the Histories, Called Euterpe
 
-1. When Cyrus had brought his life to an end, Cambyses received the
+## Chapter 1
+
+When Cyrus had brought his life to an end, Cambyses received the
 royal power in succession, being the son of Cyrus and of Cassandane the
 daughter of Pharnaspes, for whose death, which came about before his
 own, Cyrus had made great mourning himself and also had proclaimed to
@@ -4601,7 +5033,9 @@ proceeded to march an army against Egypt, taking with him as helpers not
 only the other nations of which he was the ruler, but also those of the
 Hellenes over whom he had power besides.
 
-2. Now the Egyptians, before the time when Psammetichos 1 became king
+## Chapter 2
+
+Now the Egyptians, before the time when Psammetichos 1 became king
 over them, were wont to suppose that they had come into being first of
 all men; but since the time when Psammetichos having become king desired
 to know what men had come into being first, they suppose that the
@@ -4632,7 +5066,9 @@ bread. In this manner and guided by an indication such as this, the
 Egyptians were brought to allow that the Phrygians were a more ancient
 people than themselves.
 
-3. That so it came to pass I heard from the priests of that Hephaistos
+## Chapter 3
+
+That so it came to pass I heard from the priests of that Hephaistos
 who dwells at Memphis; 2 but the Hellenes relate, besides many other
 idle tales, that Psammetichos cut out the tongues of certain women, and
 then caused the children to live with these women.
@@ -4649,7 +5085,9 @@ I shall name them only, 4 because I consider that all men are equally
 ignorant of these matters: 5 and whatever things of them I may record, I
 shall record only because I am compelled by the course of the story.
 
-4. But as to those matters which concern men, the priests agreed with
+## Chapter 4
+
+But as to those matters which concern men, the priests agreed with
 one another in saying that the Egyptians were the first of all men on
 earth to find out the course of the year, having divided the seasons
 into twelve parts to make up the whole; and this they said they found
@@ -4670,7 +5108,9 @@ except the district of Thebes 8 was a swamp, and none of the regions
 were then above water which now lie below the lake of Moiris, to which
 lake it is a voyage of seven days up the river from the sea:
 
-5, and I thought that they said well about the land; for it is manifest
+## Chapter 5
+
+and I thought that they said well about the land; for it is manifest
 in truth even to a person who has not heard it beforehand but has only
 seen, at least if he have understanding, that the Egypt to which the
 Hellenes come in ships is a land which has been won by the Egyptians as
@@ -4683,7 +5123,9 @@ distant a day's run from the land, if you let down a sounding-line you
 will bring up mud and will find yourself in eleven fathoms. This then so
 far shows that there is a silting forward of the land.
 
-6. Then secondly, as to Egypt itself, the extent of it along the sea is
+## Chapter 6
+
+Then secondly, as to Egypt itself, the extent of it along the sea is
 sixty schoines, according to our definition of Egypt as extending from
 the Gulf of Plinthine to the Serbonian lake, along which stretches Mount
 Casion; from this lake then 9 the sixty schoines are reckoned: for those
@@ -4695,7 +5137,9 @@ is an Egyptian measure, is equal to sixty furlongs. So there would be
 an extent of three thousand six hundred furlongs for the coast-land of
 Egypt. 10
 
-7. From thence and as far as Heliopolis inland Egypt is broad, and the
+## Chapter 7
+
+From thence and as far as Heliopolis inland Egypt is broad, and the
 land is all flat and without springs of water 11 and formed of mud: and
 the road as one goes inland from the sea to Heliopolis is about the
 same in length as that which leads from the altar of the twelve gods at
@@ -4705,7 +5149,9 @@ in length, not more indeed than fifteen furlongs; for the road from
 Athens to Pisa wants fifteen furlongs of being fifteen hundred, while
 the road to Heliopolis from the sea reaches that number completely.
 
-8. From Heliopolis however, as you go up, Egypt is narrow; for on the
+## Chapter 8
+
+From Heliopolis however, as you go up, Egypt is narrow; for on the
 one side a mountain-range belonging to Arabia stretches along by the
 side of it, going in a direction from North towards the midday and the
 South Wind, tending upwards without a break to that which is called the
@@ -4726,7 +5172,9 @@ plain-land, but where it is narrowest it did not seem to me to exceed
 two hundred furlongs from the Arabian mountains to those which are
 called the Libyan. After this again Egypt is broad.
 
-9. Such is the nature of this land: and from Heliopolis to Thebes is
+## Chapter 9
+
+Such is the nature of this land: and from Heliopolis to Thebes is
 a voyage up the river of nine days, and the distance of the journey in
 furlongs is four thousand eight hundred and sixty, the number of the
 schoines being eighty-one. If these measures of Egypt in furlongs be put
@@ -4737,7 +5185,9 @@ sea to Thebes, namely six thousand one hundred and twenty furlongs: and
 again the distance from Thebes to the city called Elephantine is one
 thousand eight hundred furlongs.
 
-10. Of this land then, concerning which I have spoken, it seemed to
+## Chapter 10
+
+Of this land then, concerning which I have spoken, it seemed to
 myself also, according as the priests said, that the greater part had
 been won as an addition by the Egyptians; for it was evident to me that
 the space between the aforesaid mountain-ranges, which lie above the
@@ -4752,7 +5202,9 @@ feats; of which I can mention the names of several, and especially the
 Acheloös, which flowing through Acarnania and so issuing out into the
 sea has already made half of the Echinades from islands into mainland.
 
-11. Now there is in the land of Arabia, not far from Egypt, a gulf of
+## Chapter 11
+
+Now there is in the land of Arabia, not far from Egypt, a gulf of
 the sea running in from that which is called the Erythraian Sea, very
 long and narrow, as I am about to tell. With respect to the length of
 the voyage along it, one who set out from the innermost point to sail
@@ -4772,7 +5224,9 @@ filled up even within ten thousand years. How, then, in 18 all the time
 that has elapsed before I came into being should not a gulf be filled up
 even of much greater size than this by a river so great and so active?
 
-12. As regards Egypt then, I both believe those who say that things
+## Chapter 12
+
+As regards Egypt then, I both believe those who say that things
 are so, and for myself also I am strongly of opinion that they are so;
 because I have observed that Egypt runs out into the sea further than
 the adjoining land, and that shells are found upon the mountains of it,
@@ -4787,7 +5241,9 @@ it is in truth mud and silt brought down from Ethiopia by the river: but
 the soil of Libya, we know, is reddish in colour and rather sandy, while
 that of Arabia and Syria is somewhat clayey and rocky. 1901
 
-13. The priests also gave me a strong proof concerning this land as
+## Chapter 13
+
+The priests also gave me a strong proof concerning this land as
 follows, namely that in the reign of king Moiris, whenever the river
 reached a height of at least eight cubits 20 it watered Egypt below
 Memphis; and not yet nine hundred years had gone by since the death of
@@ -4807,7 +5263,9 @@ allow drought to prevail for a long time, the Hellenes will be destroyed
 by hunger; for they have in fact no other supply of water to save them
 except from Zeus alone.
 
-14. This has been rightly said by the Egyptians with reference to
+## Chapter 14
+
+This has been rightly said by the Egyptians with reference to
 the Hellenes: but now let me tell how matters are with the Egyptians
 themselves in their turn. If, in accordance with what I before said,
 their land below Memphis (for this is that which is increasing) shall
@@ -4825,7 +5283,9 @@ seed into the ground by means of the swine, after that he waits for the
 harvest; and when he has threshed the corn by means of the swine, then
 he gathers it in.
 
-15. If we desire to follow the opinions of the Ionians as regards Egypt,
+## Chapter 15
+
+If we desire to follow the opinions of the Ionians as regards Egypt,
 who say that the Delta alone is Egypt, reckoning its sea-coast to be
 from the watch-tower called of Perseus to the fish-curing houses of
 Pelusion, a distance of forty schoines, and counting it to extend inland
@@ -4847,7 +5307,9 @@ abodes and many came down gradually to the lower parts. At least it is
 certain that in old times Thebes had the name of Egypt, and of this 23
 the circumference measures six thousand one hundred and twenty furlongs.
 
-16. If then we judge aright of these matters, the opinion of the Ionians
+## Chapter 16
+
+If then we judge aright of these matters, the opinion of the Ionians
 about Egypt is not sound: but if the judgment of the Ionians is right, I
 declare that neither the Hellenes nor the Ionians themselves know how
 to reckon since they say that the whole earth is made up of three
@@ -4858,7 +5320,9 @@ divides Asia from Libya, 24 but the Nile is cleft at the point of this
 Delta so as to flow round it, and the result is that this land would
 come between Asia and Libya. 25
 
-17. We dismiss then the opinion of the Ionians, and express a judgment
+## Chapter 17
+
+We dismiss then the opinion of the Ionians, and express a judgment
 of our own in this matter also, that Egypt is all that land which is
 inhabited by Egyptians, just as Kilikia is that which is inhabited by
 Kilikians and Assyria that which is inhabited by Assyrians, and we
@@ -4883,7 +5347,9 @@ the sea, and these are called, one the Saïtic, the other the Mendesian
 mouth. The Bolbitinitic and Bucolic mouths, on the other hand, are not
 natural but made by digging.
 
-18. Moreover also the answer given by the Oracle of Ammon bears witness
+## Chapter 18
+
+Moreover also the answer given by the Oracle of Ammon bears witness
 in support of my opinion that Egypt is of the extent which I declare it
 to be in my account; and of this answer I heard after I had formed my
 own opinion about Egypt. For those of the city of Marea and of Apis,
@@ -4899,7 +5365,9 @@ was Egypt which the Nile came over and watered, and that those were
 Egyptians who dwelling below the city of Elephantine drank of that
 river. Thus it was answered to them by the Oracle about this:
 
-19, and the Nile, when it is in flood, goes over not only the Delta
+## Chapter 19
+
+and the Nile, when it is in flood, goes over not only the Delta
 but also of the land which is called Libyan and of that which is called
 Arabian sometimes as much as two days' journey on each side, and at
 times even more than this or at times less.
@@ -4918,7 +5386,9 @@ I made inquiry, desiring to know both this which I say and also why,
 unlike all other rivers, it does not give rise to any breezes blowing
 from it.
 
-20. However some of the Hellenes who desired to gain distinction for
+## Chapter 20
+
+However some of the Hellenes who desired to gain distinction for
 cleverness have given an account of this water in three different ways:
 two of these I do not think it worth while even to speak of except only
 to indicate their nature; of which the one says that the Etesian Winds
@@ -4932,12 +5402,16 @@ a feebler flow of stream: but there are many of these rivers in Syria
 and many also in Libya, and they are affected in no such manner as the
 Nile.
 
-21. The second way shows more ignorance than that which has been
+## Chapter 21
+
+The second way shows more ignorance than that which has been
 mentioned, and it is more marvellous to tell; 28 for it says that the
 river produces these effects because it flows from the Ocean, and that
 the Ocean flows round the whole earth.
 
-22. The third of the ways is much the most specious, but nevertheless it
+## Chapter 22
+
+The third of the ways is much the most specious, but nevertheless it
 is the most mistaken of all: for indeed this way has no more truth in
 it than the rest, alleging as it does that the Nile flows from melting
 snow; whereas it flows out of Libya through the midst of the Ethiopians,
@@ -4958,13 +5432,17 @@ wintering: if then it snowed ever so little in that land through which
 the Nile flows and in which it has its rise, none of these things would
 take place, as necessity compels us to admit.
 
-23. As for him who talked about the Ocean, he carried his tale into the
+## Chapter 23
+
+As for him who talked about the Ocean, he carried his tale into the
 region of the unknown, and so he need not be refuted; 30 since I for my
 part know of no river Ocean existing, but I think that Homer or one of
 the poets who were before him invented the name and introduced it into
 his verse.
 
-24. If however after I have found fault with the opinions proposed, I
+## Chapter 24
+
+If however after I have found fault with the opinions proposed, I
 am bound to declare an opinion of my own about the matters which are in
 doubt, I will tell what to my mind is the reason why the Nile increases
 in the summer. In the winter season the Sun, being driven away from
@@ -4974,7 +5452,9 @@ way, all has now been said; for whatever region this god approaches most
 and stands directly above, this it may reasonably be supposed is most in
 want of water, and its native streams of rivers are dried up most.
 
-25. However, to set it forth at greater length, thus it is:—the Sun
+## Chapter 25
+
+However, to set it forth at greater length, thus it is:—the Sun
 passing in his course by the upper parts of Libya, does thus, that is to
 say, since at all times the air in those parts is clear and the country
 is warm, because there are no cold winds, 32 in passing through it the
@@ -4999,7 +5479,9 @@ summer; 33 for then it is drawn equally with all the other waters, but
 in winter it bears the burden alone. Thus I suppose the Sun to be the
 cause of these things.
 
-26. He is also the cause in my opinion that the air in these parts is
+## Chapter 26
+
+He is also the cause in my opinion that the air in these parts is
 dry, since he makes it so by scorching up his path through the heaven:
 34 thus summer prevails always in the upper parts of Libya. If however
 the station of the seasons had been changed, and where now in the heaven
@@ -5011,11 +5493,15 @@ parts of Europe, just as now he comes to the upper parts of Libya, and
 passing in his course throughout the whole of Europe I suppose that he
 would do to the Ister that which he now works upon the Nile.
 
-27. As to the breeze, why none blows from the river, my opinion is that
+## Chapter 27
+
+As to the breeze, why none blows from the river, my opinion is that
 from very hot places it is not natural that anything should blow, and
 that a breeze is wont to blow from something cold.
 
-28. Let these matters then be as they are and as they were at the first:
+## Chapter 28
+
+Let these matters then be as they are and as they were at the first:
 but as to the sources of the Nile, not one either of the Egyptians or of
 the Libyans or of the Hellenes, who came to speech with me, professed to
 know anything, except the scribe of the sacred treasury of Athene at the
@@ -5037,7 +5523,9 @@ there and a backward flow, and that since the water dashed against the
 mountains, therefore the sounding-line could not come to any bottom when
 it was let down.
 
-29. From no other person was I able to learn anything about this matter;
+## Chapter 29
+
+From no other person was I able to learn anything about this matter;
 but for the rest I learnt so much as here follows by the most diligent
 inquiry; 36 for I went myself as an eye-witness as far as the city of
 Elephantine and from that point onwards I gathered knowledge by report.
@@ -5067,7 +5555,9 @@ honour; and they have an Oracle of Zeus established, and make warlike
 marches whensoever this god commands them by prophesyings and to
 whatsoever place he commands.
 
-30. Sailing from this city you will come to the "Deserters" in another
+## Chapter 30
+
+Sailing from this city you will come to the "Deserters" in another
 period of time equal to that in which you came from Elephantine to the
 mother-city of the Ethiopians. Now the name of these "Deserters" is
 Asmach, and this word signifies, when translated into the tongue of the
@@ -5096,14 +5586,18 @@ land. So since these men settled in the land of the Ethiopians, the
 Ethiopians have come to be of milder manners, from having learnt the
 customs of the Egyptians.
 
-31. The Nile then, besides that part of its course which is in Egypt,
+## Chapter 31
+
+The Nile then, besides that part of its course which is in Egypt,
 is known as far as a four months' journey by river and land: for that is
 the number of months which are found by reckoning to be spent in going
 from Elephantine to these "Deserters": and the river runs from the West
 and the setting of the sun. But what comes after that no one can clearly
 say; for this land is desert by reason of the burning heat.
 
-32. Thus much however I heard from men of Kyrene, who told me that they
+## Chapter 32
+
+Thus much however I heard from men of Kyrene, who told me that they
 had been to the Oracle of Ammon, and had come to speech with Etearchos
 king of the Ammonians: and it happened that after speaking of other
 matters they fell to discourse about the Nile and how no one knew the
@@ -5143,7 +5637,9 @@ size like those who carried them off and in colour of skin black; and
 by the city ran a great river, which ran from the West towards the
 sunrising, and in it were seen crocodiles.
 
-33. Of the account given by Etearchos the Ammonian let so much suffice
+## Chapter 33
+
+Of the account given by Etearchos the Ammonian let so much suffice
 as is here said, except that, as the men of Kyrene told me, he alleged
 that the Nasamonians returned safe home, and that the people to whom
 they had come were all wizards. Now this river which ran by the city,
@@ -5159,7 +5655,9 @@ their dwelling in Europe); and the Ister ends, having its course through
 the whole of Europe, by flowing into the Euxine Sea at the place where
 the Milesians have their settlement of Istria.
 
-34. Now the Ister, since it flows through land which is inhabited, is
+## Chapter 34
+
+Now the Ister, since it flows through land which is inhabited, is
 known by the reports of many; but of the sources of the Nile no one
 can give an account, for the part of Libya through which it flows is
 uninhabited and desert. About its course however so much as it was
@@ -5173,7 +5671,9 @@ through the whole of Libya and is of equal measure with the Ister.
 
 Of the Nile then let so much suffice as has been said.
 
-35. Of Egypt however I shall make my report at length, because it has
+## Chapter 35
+
+Of Egypt however I shall make my report at length, because it has
 wonders more in number than any other land, and works too it has to show
 as much as any land, which are beyond expression great: for this reason
 then more shall be said concerning it.
@@ -5195,7 +5695,9 @@ their parents the sons are in no way compelled, if they do not desire
 to do so, but the daughters are forced to do so, be they never so
 unwilling.
 
-36. The priests of the gods in other lands wear long hair, but in Egypt
+## Chapter 36
+
+The priests of the gods in other lands wear long hair, but in Egypt
 they shave their heads: among other men the custom is that in mourning
 those whom the matter concerns most nearly have their hair cut short,
 but the Egyptians, when deaths occur, let their hair grow long, both
@@ -5217,7 +5719,9 @@ that they do it themselves rightwise and the Hellenes leftwise: and they
 use two kinds of characters for writing, of which the one kind is called
 sacred and the other common. 40
 
-37. They are religious excessively beyond all other men, and with regard
+## Chapter 37
+
+They are religious excessively beyond all other men, and with regard
 to this they have customs as follows:—they drink from cups of bronze and
 rinse them out every day, and not some only do this but all: they wear
 garments of linen always newly washed, and this they make a special
@@ -5241,7 +5745,9 @@ kind of pulse: and there is not one priest only for each of the gods but
 many, and of them one is chief-priest, and whenever a priest dies his
 son is appointed to his place.
 
-38. The males of the ox kind they consider to belong to Epaphos, and
+## Chapter 38
+
+The males of the ox kind they consider to belong to Epaphos, and
 on account of him they test them in the following manner:—If the priest
 sees one single black hair upon the beast he counts it not clean for
 sacrifice; and one of the priests who is appointed for the purpose makes
@@ -5256,7 +5762,9 @@ sealing-earth over it he sets upon it the seal of his signet-ring, and
 after that they take the animal away. But for one who sacrifices a beast
 not sealed the penalty appointed is death.
 
-39. In this way then the beast is tested; and their appointed manner of
+## Chapter 39
+
+In this way then the beast is tested; and their appointed manner of
 sacrifice is as follows:—they lead the sealed beast to the altar where
 they happen to be sacrificing and then kindle a fire: after that, having
 poured libations of wine over the altar so that it runs down upon the
@@ -5274,7 +5782,9 @@ over them of the wine, all the Egyptians have the same customs equally
 for all their sacrifices; and by reason of this custom none of the
 Egyptians eat of the head either of this or of any other kind of animal:
 
-40, but the manner of disembowelling the victims and of burning them is
+## Chapter 40
+
+but the manner of disembowelling the victims and of burning them is
 appointed among them differently for different sacrifices; I shall
 speak however of the sacrifices to that goddess whom they regard as the
 greatest of all, and to whom they celebrate the greatest feast.—When
@@ -5290,7 +5800,9 @@ being burnt, they all beat themselves for mourning, and when they have
 finished beating themselves they set forth as a feast that which they
 left unburnt of the sacrifice.
 
-41. The clean males then of the ox kind, both full-grown animals and
+## Chapter 41
+
+The clean males then of the ox kind, both full-grown animals and
 calves, are sacrificed by all the Egyptians; the females however they
 may not sacrifice, but these are sacred to Isis; for the figure of Isis
 is in the form of a woman with cow's horns, just as the Hellenes present
@@ -5317,7 +5829,9 @@ oxen they bury also their other cattle when they die; for about them
 also they have the same law laid down, and these also they abstain from
 killing.
 
-42. Now all who have a temple set up to the Theban Zeus or who are of
+## Chapter 42
+
+Now all who have a temple set up to the Theban Zeus or who are of
 the district of Thebes, these, I say, all sacrifice goats and abstain
 from sheep: for not all the Egyptians equally reverence the same gods,
 except only Isis and Osiris (who they say is Dionysos), these they all
@@ -5342,7 +5856,9 @@ skin the image of Zeus, and then they bring up to it another image
 of Heracles. This done, all who are in the temple beat themselves in
 lamentation for the ram, and then they bury it in a sacred tomb.
 
-43. About Heracles I heard the account given that he was of the number
+## Chapter 43
+
+About Heracles I heard the account given that he was of the number
 of the twelve gods; but of the other Heracles whom the Hellenes know I
 was not able to hear in any part of Egypt: and moreover to prove that
 the Egyptians did not take the name of Heracles from the Hellenes, but
@@ -5364,7 +5880,9 @@ thousand years to the beginning of the reign of Amasis from the time
 when the twelve gods, of whom they count that Heracles is one, were
 begotten of the eight gods.
 
-44. I moreover, desiring to know something certain of these matters so
+## Chapter 44
+
+I moreover, desiring to know something certain of these matters so
 far as might be, made a voyage also to Tyre of Phenicia, hearing that
 in that place there was a holy temple of Heracles; and I saw that it
 was richly furnished with many votive offerings besides, and especially
@@ -5386,7 +5904,9 @@ two temples of Heracles set up, and who sacrifice to the one as an
 immortal god and with the title Olympian, and make offerings of the dead
 49 to the other as a hero.
 
-45. Moreover, besides many other stories which the Hellenes tell without
+## Chapter 45
+
+Moreover, besides many other stories which the Hellenes tell without
 due consideration, this tale is especially foolish which they tell about
 Heracles, namely that when he came to Egypt, the Egyptians put on him
 wreaths and led him forth in procession to sacrifice him to Zeus; and he
@@ -5402,7 +5922,9 @@ moreover a man (as they assert), should slay many myriads? Having said
 so much of these matters, we pray that we may have grace from both the
 gods and the heroes for our speech.
 
-46. Now the reason why those of the Egyptians whom I have mentioned do
+## Chapter 46
+
+Now the reason why those of the Egyptians whom I have mentioned do
 not sacrifice goats, female or male, is this:—the Mendesians count Pan
 to be one of the eight gods (now these eight gods they say came into
 being before the twelve gods), and the painters and image-makers
@@ -5419,7 +5941,9 @@ that district this marvel, that is to say a he-goat had intercourse with
 a woman publicly, and this was so done that all men might have evidence
 of it.
 
-47. The pig is accounted by the Egyptians an abominable animal; and
+## Chapter 47
+
+The pig is accounted by the Egyptians an abominable animal; and
 first, if any of them in passing by touch a pig, he goes into the river
 and dips himself forthwith in the water together with his garments; and
 then too swineherds, though they be native Egyptians, unlike all others
@@ -5442,7 +5966,9 @@ this they will not taste of it: the poor however among them by reason of
 the scantiness of their means shape pigs of dough and having baked them
 they offer these as a sacrifice.
 
-48. Then for Dionysos on the eve of the festival each one kills a pig by
+## Chapter 48
+
+Then for Dionysos on the eve of the festival each one kills a pig by
 cutting its throat before his own doors, and after that he gives the pig
 to the swineherd who sold it to him, to carry away again; and the rest
 of the feast of Dionysos is celebrated by the Egyptians in the same
@@ -5455,7 +5981,9 @@ follow singing the praises of Dionysos. As to the reason why the figure
 has this member larger than is natural and moves it, though it moves no
 other part of the body, about this there is a sacred story told.
 
-49. Now I think that Melampus the son of Amytheon was not without
+## Chapter 49
+
+Now I think that Melampus the son of Amytheon was not without
 knowledge of these rites of sacrifice, but was acquainted with them: for
 Melampus is he who first set forth to the Hellenes the name of Dionysos
 and the manner of sacrifice and the procession of the phallos. Strictly
@@ -5476,7 +6004,9 @@ probable that Melampus learnt the matters concerning Dionysos from
 Cadmos the Tyrian and from those who came with him from Phenicia to the
 land which we now call Boeotia.
 
-50. Moreover the naming 51 of almost all the gods has come to Hellas
+## Chapter 50
+
+Moreover the naming 51 of almost all the gods has come to Hellas
 from Egypt: for that it has come from the Barbarians I find by inquiry
 is true, and I am of opinion that most probably it has come from Egypt,
 because, except in the case of Poseidon and the Dioscuroi (in accordance
@@ -5491,7 +6021,9 @@ had the name of Poseidon from the first and have paid honour to this
 god always. Nor, it may be added, have the Egyptians any custom of
 worshipping heroes.
 
-51. These observances then, and others besides these which I shall
+## Chapter 51
+
+These observances then, and others besides these which I shall
 mention, the Hellenes have adopted from the Egyptians; but to make, as
 they do, the images of Hermes with the phallos they have learnt not from
 the Egyptians but from the Pelasgians, the custom having been received
@@ -5509,7 +6041,9 @@ of Hermes with the phallos, having learnt from the Pelasgians; and
 the Pelasgians told a sacred story about it, which is set forth in the
 mysteries in Samothrake.
 
-52. Now the Pelasgians formerly were wont to make all their sacrifices
+## Chapter 52
+
+Now the Pelasgians formerly were wont to make all their sacrifices
 calling upon the gods in prayer, as I know from that which I heard at
 Dodona, but they gave no title or name to any of them, for they had
 not yet heard any, but they called them gods ({theous}) from some such
@@ -5525,7 +6059,9 @@ names which had come from the Barbarians, the Oracle in reply bade them
 make use of the names. From this time they sacrificed using the names of
 the gods, and from the Pelasgians the Hellenes afterwards received them:
 
-53, but whence the several gods had their birth, or whether they all
+## Chapter 53
+
+but whence the several gods had their birth, or whether they all
 were from the beginning, and of what form they are, they did not learn
 till yesterday, as it were, or the day before: for Hesiod and Homer I
 suppose were four hundred years before my time and not more, and these
@@ -5536,7 +6072,9 @@ really in my opinion after them. Of these things the first are said by
 the priestesses of Dodona, and the latter things, those namely which
 have regard to Hesiod and Homer, by myself.
 
-54. As regards the Oracles both that among the Hellenes and that in
+## Chapter 54
+
+As regards the Oracles both that among the Hellenes and that in
 Libya, the Egyptians tell the following tale. The priests of the Theban
 Zeus told me that two women in the service of the temple had been
 carried away from Thebes by Phenicians, and that they had heard that one
@@ -5548,7 +6086,9 @@ in reply that a great search had been made by the priests after these
 women, and that they had not been able to find them, but they had heard
 afterwards this tale about them which they were telling.
 
-55. This I heard from the priests at Thebes, and what follows is said by
+## Chapter 55
+
+This I heard from the priests at Thebes, and what follows is said by
 the prophetesses 52 of Dodona. They say that two black doves flew from
 Thebes to Egypt, and came one of them to Libya and the other to their
 land. And this latter settled upon an oak-tree 53 and spoke with human
@@ -5562,7 +6102,9 @@ after her Timarete, and the youngest Nicandra; and the other people of
 Dodona who were engaged about the temple gave accounts agreeing with
 theirs.
 
-56. I however have an opinion about the matter as follows:—If the
+## Chapter 56
+
+I however have an opinion about the matter as follows:—If the
 Phenicians did in truth carry away the consecrated women and sold one of
 them into Libya and the other into Hellas, I suppose that in the country
 now called Hellas, which was formerly called Pelasgia, this woman was
@@ -5575,7 +6117,9 @@ established an Oracle, and she reported, I suppose, that her sister had
 been sold in Libya by the same Phenicians by whom she herself had been
 sold.
 
-57. Moreover, I think that the women were called doves by the people of
+## Chapter 57
+
+Moreover, I think that the women were called doves by the people of
 Dodona for the reason that they were Barbarians and because it seemed to
 them that they uttered voice like birds; but after a time (they say) the
 dove spoke with human voice, that is when the woman began to speak so
@@ -5587,13 +6131,17 @@ ways of delivering oracles too at Thebes in Egypt and at Dodona closely
 resemble one another, as it happens, and also the method of divination
 by victims has come from Egypt.
 
-58. Moreover, it is true also that the Egyptians were the first of men
+## Chapter 58
+
+Moreover, it is true also that the Egyptians were the first of men
 who made solemn assemblies 55 and processions and approaches to the
 temples, 56 and from them the Hellenes have learnt them, and my evidence
 for this is that the Egyptian celebrations of these have been held from
 a very ancient time, whereas the Hellenic were introduced 57 but lately.
 
-59. The Egyptians hold their solemn assemblies not once in the year but
+## Chapter 59
+
+The Egyptians hold their solemn assemblies not once in the year but
 often, especially and with the greatest zeal and devotion 58 at the
 city of Bubastis for Artemis, and next at Busiris for Isis; for in this
 last-named city there is a very great temple of Isis, and this city
@@ -5603,7 +6151,9 @@ of Saïs for Athene, fourthly at Heliopolis for the Sun (Helios), fifthly
 at the city of Buto in honour of Leto, and sixthly at the city of
 Papremis for Ares.
 
-60. Now, when they are coming to the city of Bubastis they do as
+## Chapter 60
+
+Now, when they are coming to the city of Bubastis they do as
 follows:—they sail men and women together, and a great multitude of each
 sex in every boat; and some of the women have rattles and rattle with
 them, while some of the men play the flute during the whole time of the
@@ -5618,7 +6168,9 @@ that festival than during the whole of the rest of the year. To this
 place (so say the natives) they come together year by year 59 even to
 the number of seventy myriads 5901 of men and women, besides children.
 
-61. Thus it is done here; and how they celebrate the festival in honour
+## Chapter 61
+
+Thus it is done here; and how they celebrate the festival in honour
 of Isis at the city of Busiris has been told by me before: 60 for, as I
 said, they beat themselves in mourning after the sacrifice, all of them
 both men and women, very many myriads of people; but for whom they beat
@@ -5628,7 +6180,9 @@ Egyptians themselves, inasmuch as they cut their foreheads also with
 knives; and by this it is manifested that they are strangers and not
 Egyptians.
 
-62. At the times when they gather together at the city of Saïs for their
+## Chapter 62
+
+At the times when they gather together at the city of Saïs for their
 sacrifices, on a certain night 61 they all kindle lamps many in number
 in the open air round about the houses; now the lamps are saucers full
 of salt and oil mixed, and the wick floats by itself on the surface, and
@@ -5640,7 +6194,9 @@ Saïs alone are they lighted, but over all Egypt: and as to the reason
 why light and honour are allotted to this night, 62 about this there is
 a sacred story told.
 
-63. To Heliopolis and Buto they go year by year and do sacrifice only:
+## Chapter 63
+
+To Heliopolis and Buto they go year by year and do sacrifice only:
 but at Papremis they do sacrifice and worship as elsewhere, and besides
 that, when the sun begins to go down, while some few of the priests are
 occupied with the image of the god, the greater number of them stand in
@@ -5667,7 +6223,9 @@ and handled roughly the attendants of the temple, and entered to visit
 his mother. Hence, they say, this exchange of blows has become the
 custom in honour of Ares upon his festival.
 
-64. The Egyptians were the first who made it a point of religion not to
+## Chapter 64
+
+The Egyptians were the first who made it a point of religion not to
 lie with women in temples, nor to enter into temples after going away
 from women without first bathing: for almost all other men except the
 Egyptians and the Hellenes lie with women in temples and enter into a
@@ -5677,7 +6235,9 @@ they say that they see beasts and the various kinds of birds coupling
 together both in the temples and in the sacred enclosures of the gods;
 if then this were not pleasing to the god, the beasts would not do so.
 
-65. Thus do these defend that which they do, which by me is disallowed:
+## Chapter 65
+
+Thus do these defend that which they do, which by me is disallowed:
 but the Egyptians are excessively careful in their observances, both
 in other matters which concern the sacred rites and also in those which
 follow:—Egypt, though it borders upon Libya, 6301 does not very much
@@ -5702,7 +6262,9 @@ do it with his own will, is death, and if against his will, such penalty
 as the priests may appoint: but whosoever shall kill an ibis or a hawk,
 whether it be with his will or against his will, must die.
 
-66. Of the animals that live with men there are great numbers, and would
+## Chapter 66
+
+Of the animals that live with men there are great numbers, and would
 be many more but for the accidents which befall the cats. For when the
 females have produced young they are no longer in the habit of going
 to the males, and these seeking to be united with them are not able. To
@@ -5719,7 +6281,9 @@ And in whatever houses a cat has died by a natural death, all those who
 dwell in this house shave their eyebrows only, but those in whose houses
 a dog has died shave their whole body and also their head.
 
-67. The cats when they are dead are carried away to sacred buildings in
+## Chapter 67
+
+The cats when they are dead are carried away to sacred buildings in
 the city of Bubastis, where after being embalmed they are buried; but
 the dogs they bury each people in their own city in sacred tombs;
 and the ichneumons are buried just in the same way as the dogs. The
@@ -5728,7 +6292,9 @@ and the ibises to Hermopolis; 65 the bears (which are not commonly seen)
 and the wolves, not much larger in size than foxes, they bury on the
 spot where they are found lying.
 
-68. Of the crocodile the nature is as follows:—during the four most
+## Chapter 68
+
+Of the crocodile the nature is as follows:—during the four most
 wintry months this creature eats nothing: she has four feet and is an
 animal belonging to the land and the water both; for she produces and
 hatches eggs on the land, and the most part of the day she remains upon
@@ -5754,7 +6320,9 @@ West Wind), the trochilus upon that enters into his mouth and swallows
 down the leeches, and he being benefited is pleased and does no harm to
 the trochilus.
 
-69. Now for some of the Egyptians the crocodiles are sacred animals, and
+## Chapter 69
+
+Now for some of the Egyptians the crocodiles are sacred animals, and
 for others not so, but they treat them on the contrary as enemies: those
 however who dwell about Thebes and about the lake of Moiris hold them
 to be most sacred, and each of these two peoples keeps one crocodile
@@ -5769,7 +6337,9 @@ but champsai, and the Ionians gave them the name of crocodile, comparing
 their form to that of the crocodiles (lizards) which appear in their
 country in the stone walls.
 
-70. There are many ways in use of catching them and of various kinds: I
+## Chapter 70
+
+There are many ways in use of catching them and of various kinds: I
 shall describe that which to me seems the most worthy of being told. A
 man puts the back of a pig upon a hook as bait, and lets it go into the
 middle of the river, while he himself upon the bank of the river has
@@ -5780,7 +6350,9 @@ first of all the hunter forthwith plasters up his eyes with mud, and
 having so done he very easily gets the mastery of him, but if he does
 not do so he has much trouble.
 
-71. The river-horse is sacred in the district of Papremis, but for the
+## Chapter 71
+
+The river-horse is sacred in the district of Papremis, but for the
 other Egyptians he is not sacred; and this is the appearance which he
 presents: he is four-footed, cloven-hoofed like an ox, 66 flat-nosed,
 with a mane like a horse and showing teeth like tusks, with a tail and
@@ -5788,12 +6360,16 @@ voice like a horse, and in size as large as the largest ox; and his hide
 is so exceedingly thick that when it has been dried shafts of javelins
 are made of it.
 
-72. There are moreover otters in the river, which they consider to be
+## Chapter 72
+
+There are moreover otters in the river, which they consider to be
 sacred; and of fish also they esteem that which is called the lepidotos
 to be sacred, and also the eel; and these they say are sacred to the
 Nile: and of birds the fox-goose.
 
-73. There is also another sacred bird called the phoenix which I did
+## Chapter 73
+
+There is also another sacred bird called the phoenix which I did
 not myself see except in painting, for in truth he comes to them very
 rarely, at intervals, as the people of Heliopolis say, of five hundred
 years; and these say that he comes regularly when his father dies; and
@@ -5812,12 +6388,16 @@ laid in it, it proves (they say) to be of the same weight as it was;
 and after he has plastered it up, he conveys the whole to Egypt to the
 temple of the Sun. Thus they say that this bird does.
 
-74. There are also about Thebes sacred serpents, not at all harmful to
+## Chapter 74
+
+There are also about Thebes sacred serpents, not at all harmful to
 men, which are small in size and have two horns growing from the top of
 the head: these they bury when they die in the temple of Zeus, for to
 this god they say that they are sacred.
 
-75. There is a region moreover in Arabia, situated nearly over against
+## Chapter 75
+
+There is a region moreover in Arabia, situated nearly over against
 the city of Buto, to which place I came to inquire about the winged
 serpents: and when I came thither I saw bones of serpents and spines in
 quantity so great that it is impossible to make report of the number,
@@ -5833,7 +6413,9 @@ account of this deed it is (say the Arabians) that the ibis has come to
 be greatly honoured by the Egyptians, and the Egyptians also agree that
 it is for this reason that they honour these birds.
 
-76. The outward form of the ibis is this:—it is a deep black all over,
+## Chapter 76
+
+The outward form of the ibis is this:—it is a deep black all over,
 and has legs like those of a crane and a very curved beak, and in size
 it is about equal to a rail: this is the appearance of the black kind
 which fight with the serpents, but of those which most crowd round men's
@@ -5846,7 +6428,9 @@ its form is like that of the watersnake; and it has wings not feathered
 but most nearly resembling the wings of the bat. Let so much suffice as
 has been said now concerning sacred animals.
 
-77. Of the Egyptians themselves, those who dwell in the part of Egypt
+## Chapter 77
+
+Of the Egyptians themselves, those who dwell in the part of Egypt
 which is sown for crops 67 practise memory more than any other men and
 are the most learned in history by far of all those of whom I have had
 experience: and their manner of life is as follows:—For three successive
@@ -5866,7 +6450,9 @@ curing them; and everything else which they have belonging to the
 class of birds or fishes, except such as have been set apart by them as
 sacred, they eat roasted or boiled.
 
-78. In the entertainments of the rich among them, when they have
+## Chapter 78
+
+In the entertainments of the rich among them, when they have
 finished eating, a man bears round a wooden figure of a dead body in a
 coffin, made as like the reality as may be both by painting and carving,
 and measuring about a cubit or two cubits each way; 68 and this he shows
@@ -5874,7 +6460,9 @@ to each of those who are drinking together, saying: "When thou lookest
 upon this, drink and be merry, for thou shalt be such as this when thou
 art dead." Thus they do at their carousals.
 
-79. The customs which they practise are derived from their fathers and
+## Chapter 79
+
+The customs which they practise are derived from their fathers and
 they do not acquire others in addition; but besides other customary
 things among them which are worthy of mention, they have one song, 6801
 that of Linos, the same who is sung of both in Phenicia and in Cyprus
@@ -5889,7 +6477,9 @@ me that he was the only son of him who first became king of Egypt, and
 that he died before his time and was honoured with these lamentations by
 the Egyptians, and that this was their first and only song.
 
-80. In another respect the Egyptians are in agreement with some of the
+## Chapter 80
+
+In another respect the Egyptians are in agreement with some of the
 Hellenes, namely with the Lacedemonians, but not with the rest, that is
 to say, the younger of them when they meet the elder give way and move
 out of the path, and when their elders approach they rise out of their
@@ -5897,7 +6487,9 @@ seat. In this which follows however they are not in agreement with any
 of the Hellenes,—instead of addressing one another in the roads they do
 reverence, lowering their hand down to their knee.
 
-81. They wear tunics of linen about their legs with fringes, which they
+## Chapter 81
+
+They wear tunics of linen about their legs with fringes, which they
 call calasiris; above these they have garments of white wool thrown
 over: woollen garments however are not taken into the temples, nor are
 they buried with them, for this is not permitted by religion. In these
@@ -5907,7 +6499,9 @@ Pythagoreans, for one who takes part in these mysteries is also
 forbidden by religious rule to be buried in woollen garments; and about
 this there is a sacred story told.
 
-82. Besides these things the Egyptians have found out also to what god
+## Chapter 82
+
+Besides these things the Egyptians have found out also to what god
 each month and each day belongs, and what fortunes a man will meet with
 who is born on any particular day, and how he will die, and what kind
 of a man he will be: and these inventions were taken up by those of the
@@ -5917,7 +6511,9 @@ has happened, they observe and write down the event which comes of it,
 and if ever afterwards anything resembling this happens, they believe
 that the event which comes of it will be similar.
 
-83. Their divination is ordered thus:—the art is assigned not to any
+## Chapter 83
+
+Their divination is ordered thus:—the art is assigned not to any
 man, but to certain of the gods, for there are in their land Oracles of
 Heracles, of Apollo, of Athene, of Artemis, of Ares, and of Zeus, and
 moreover that which they hold most in honour of all, namely the Oracle
@@ -5925,13 +6521,17 @@ of Leto which is in the city of Buto. The manner of divination however
 is not yet established among them according to the same fashion
 everywhere, but is different in different places.
 
-84. The art of medicine among them is distributed thus:—each physician
+## Chapter 84
+
+The art of medicine among them is distributed thus:—each physician
 is a physician of one disease and of no more; and the whole country is
 full of physicians, for some profess themselves to be physicians of the
 eyes, others of the head, others of the teeth, others of the affections
 of the stomach, and others of the more obscure ailments.
 
-85. Their fashions of mourning and of burial are these:—Whenever any
+## Chapter 85
+
+Their fashions of mourning and of burial are these:—Whenever any
 household has lost a man who is of any regard amongst them, the whole
 number of women of that house forthwith plaster over their heads or even
 their faces with mud. Then leaving the corpse within the house they go
@@ -5942,7 +6542,9 @@ side the men beat themselves, they too having their garments bound up by
 a girdle; and when they have done this, they then convey the body to the
 embalming.
 
-86. In this occupation certain persons employ themselves regularly and
+## Chapter 86
+
+In this occupation certain persons employ themselves regularly and
 inherit this as a craft. These, whenever a corpse is conveyed to them,
 show to those who brought it wooden models of corpses made like reality
 by painting, and the best of the ways of embalming they say is that of
@@ -5971,7 +6573,9 @@ made they enclose the corpse, and having shut it up within, they store
 it then in a sepulchral chamber, setting it to stand upright against the
 wall.
 
-87. Thus they deal with the corpses which are prepared in the most
+## Chapter 87
+
+Thus they deal with the corpses which are prepared in the most
 costly way; but for those who desire the middle way and wish to avoid
 great cost they prepare the corpse as follows:—having filled their
 syringes with the oil which is got from cedar-wood, with this they
@@ -5986,13 +6590,17 @@ dissolves the flesh, so that there is left of the corpse only the skin
 and the bones. When they have done this they give back the corpse at
 once in that condition without working upon it any more.
 
-88. The third kind of embalming, by which are prepared the bodies of
+## Chapter 88
+
+The third kind of embalming, by which are prepared the bodies of
 those who have less means, is as follows:—they cleanse out the belly
 with a purge and then keep the body for embalming during the seventy
 days, and at once after that they give it back to the bringers to carry
 away.
 
-89. The wives of men of rank when they die are not given at once to be
+## Chapter 89
+
+The wives of men of rank when they die are not given at once to be
 embalmed, nor such women as are very beautiful or of greater regard
 than others, but on the third or fourth day after their death (and
 not before) they are delivered to the embalmers. They do so about this
@@ -6000,7 +6608,9 @@ matter in order that the embalmers may not abuse their women, for they
 say that one of them was taken once doing so to the corpse of a woman
 lately dead, and his fellow-craftsman gave information.
 
-90. Whenever any one, either of the Egyptians themselves or of
+## Chapter 90
+
+Whenever any one, either of the Egyptians themselves or of
 strangers, is found to have been carried off by a crocodile or brought
 to his death by the river itself, the people of any city by which he may
 have been cast up on land must embalm him and lay him out in the fairest
@@ -6009,7 +6619,9 @@ relations or friends besides touch him, but the priests of the Nile
 themselves handle the corpse and bury it as that of one who was
 something more than man.
 
-91. Hellenic usages they will by no means follow, and to speak generally
+## Chapter 91
+
+Hellenic usages they will by no means follow, and to speak generally
 they follow those of no other men whatever. This rule is observed by
 most of the Egyptians; but there is a large city named Chemmis in the
 Theban district near Neapolis, and in this city there is a temple of
@@ -6035,7 +6647,9 @@ all his kinsfolk, and they said that he had well learnt the name of
 Chemmis before he came to Egypt, since he had heard it from his mother,
 and that they celebrated an athletic contest for him by his own command.
 
-92. All these are customs practised by the Egyptians who dwell above the
+## Chapter 92
+
+All these are customs practised by the Egyptians who dwell above the
 fens: and those who are settled in the fen-land have the same customs
 for the most part as the other Egyptians, both in other matters and also
 in that they live each with one wife only, as do the Hellenes; but for
@@ -6060,7 +6674,9 @@ red-hot, and then eat it. Some too of these people live on fish alone,
 which they dry in the sun after having caught them and taken out the
 entrails, and then when they are dry, they use them for food.
 
-93. Fish which swim in shoals are not much produced in the rivers, but
+## Chapter 93
+
+Fish which swim in shoals are not much produced in the rivers, but
 are bred in the lakes, and they do as follows:—When there comes upon
 them the desire to breed, they swim out in shoals towards the sea; and
 the males lead the way shedding forth their milt as they go, while the
@@ -6089,7 +6705,9 @@ mud and then retire with the last of the retreating waters; and when
 the time comes round again, and the water once more comes over the land,
 from these eggs forthwith are produced the fishes of which I speak.
 
-94. Thus it is as regards the fish. And for anointing those of the
+## Chapter 94
+
+Thus it is as regards the fish. And for anointing those of the
 Egyptians who dwell in the fens use oil from the castor-berry, 80 which
 oil the Egyptians call kiki, and thus they do:—they sow along the banks
 of the rivers and pools these plants, which in a wild form grow of
@@ -6100,7 +6718,9 @@ others again roast them first and then boil them down and collect that
 which runs away from them. The oil is fat and not less suitable for
 burning than olive-oil, but it gives forth a disagreeable smell.
 
-95. Against the gnats, which are very abundant, they have contrived as
+## Chapter 95
+
+Against the gnats, which are very abundant, they have contrived as
 follows:—those who dwell above the fen-land are helped by the towers, to
 which they ascend when they go to rest; for the gnats by reason of the
 winds are not able to fly up high: but those who dwell in the fen-land
@@ -6112,7 +6732,9 @@ under it and goes to sleep: and the gnats, if he sleeps rolled up in a
 garment or a linen sheet, bite through these, but through the net they
 do not even attempt to bite.
 
-96. Their boats with which they carry cargoes are made of the thorny
+## Chapter 96
+
+Their boats with which they carry cargoes are made of the thorny
 acacia, of which the form is very like that of the Kyrenian lotos, and
 that which exudes from it is gum. From this tree they cut pieces of wood
 about two cubits in length and arrange them like bricks, fastening
@@ -6134,7 +6756,9 @@ behind and sunk deep in the water keeps its course straight. These boats
 they have in great numbers and some of them carry many thousands of
 talents' burden.
 
-97. When the Nile comes over the land, the cities alone are seen rising
+## Chapter 97
+
+When the Nile comes over the land, the cities alone are seen rising
 above the water, resembling more nearly than anything else the islands
 in the Egean sea; for the rest of Egypt becomes a sea and the cities
 alone rise above water. Accordingly, whenever this happens, they pass
@@ -6146,7 +6770,9 @@ of Kercasoros; while if you sail over the plain to Naucratis from the
 sea and from Canobos, you will go by Anthylla and the city called after
 Archander.
 
-98. Of these Anthylla is a city of note and is especially assigned to
+## Chapter 98
+
+Of these Anthylla is a city of note and is especially assigned to
 the wife of him who reigns over Egypt, to supply her with sandals, (this
 is the case since the time when Egypt came to be under the Persians):
 the other city seems to me to have its name from Archander the
@@ -6154,7 +6780,9 @@ son-in-law of Danaos, who was the son of Phthios, the son of Achaios;
 for it is called the City of Archander. There might indeed be another
 Archander, but in any case the name is not Egyptian.
 
-99. Hitherto my own observation and judgment and inquiry are the
+## Chapter 99
+
+Hitherto my own observation and judgment and inquiry are the
 vouchers for that which I have said; but from this point onwards I am
 about to tell the history of Egypt according to that which I heard, to
 which will be added also something of that which I have myself seen.
@@ -6178,7 +6806,9 @@ communicating with the river, for the side towards the East is barred by
 the Nile itself. Then secondly he established in the city the temple of
 Hephaistos a great work and most worthy of mention.
 
-100. After this man the priests enumerated to me from a papyrus roll
+## Chapter 100
+
+After this man the priests enumerated to me from a papyrus roll
 the names of other kings, three hundred and thirty in number; and in all
 these generations of men eighteen were Ethiopians, one was a woman, a
 native Egyptian, and the rest were men and of Egyptian race: and the
@@ -6196,7 +6826,9 @@ conduit of large size. Of her they told no more than this, except that,
 when this had been accomplished, she threw herself into a room full of
 embers, in order that she might escape vengeance.
 
-101. As for the other kings, they could tell me of no great works which
+## Chapter 101
+
+As for the other kings, they could tell me of no great works which
 had been produced by them, and they said that they had no renown 85
 except only the last of them, Moris: he (they said) produced as a
 memorial of himself the gateway of the temple of Hephaistos which is
@@ -6206,7 +6838,9 @@ pyramids of the size which I shall mention at the same time when I speak
 of the lake itself. He, they said, produced these works, but of the rest
 none produced any.
 
-102. Therefore passing these by I shall make mention of the king who
+## Chapter 102
+
+Therefore passing these by I shall make mention of the king who
 came after these, whose name was Sesostris. He (the priests said) first
 of all set out with ships of war from the Arabian gulf and subdued those
 who dwelt by the shores of the Erythraian Sea, until as he sailed he
@@ -6223,7 +6857,9 @@ for the nations which had shown themselves courageous, and in addition
 he drew upon them the hidden parts of a woman, desiring to signify by
 this that the people were cowards and effeminate.
 
-103. Thus doing he traversed the continent, until at last he passed over
+## Chapter 103
+
+Thus doing he traversed the continent, until at last he passed over
 to Europe from Asia and subdued the Scythians and also the Thracians.
 These, I am of opinion, were the furthest 87 people to which the
 Egyptian army came, for in their country the pillars are found to have
@@ -6234,7 +6870,9 @@ Sesostris himself divided off a certain portion of his army and left the
 men there as settlers in the land, or whether some of his soldiers were
 wearied by his distant marches and remained by the river Phasis.
 
-104. For the people of Colchis are evidently Egyptian, and this I
+## Chapter 104
+
+For the people of Colchis are evidently Egyptian, and this I
 perceived for myself before I heard it from others. So when I had
 come to consider the matter I asked them both; and the Colchians had
 remembrance of the Egyptians more than the Egyptians of the Colchians;
@@ -6258,14 +6896,18 @@ of the Phenicians who have intercourse with Hellas cease to follow the
 example of the Egyptians in this matter, and do not circumcise their
 children.
 
-105. Now let me tell another thing about the Colchians to show how they
+## Chapter 105
+
+Now let me tell another thing about the Colchians to show how they
 resemble the Egyptians:—they alone work flax in the same fashion as the
 Egyptians, 90 and the two nations are like one another in their whole
 manner of living and also in their language: now the linen of Colchis
 is called by the Hellenes Sardonic, whereas that from Egypt is called
 Egyptian.
 
-106. The pillars which Sesostris of Egypt set up in the various
+## Chapter 106
+
+The pillars which Sesostris of Egypt set up in the various
 countries are for the most part no longer to be seen extant; but in
 Syria Palestine I myself saw them existing with the inscription upon
 them which I have mentioned and the emblem. Moreover in Ionia there are
@@ -6282,7 +6924,9 @@ declare in these places, though in other places he has declared this.
 Some of those who have seen these carvings conjecture that the figure is
 that of Memnon, but herein they are very far from the truth.
 
-107. As this Egyptian Sesostris was returning and bringing back many
+## Chapter 107
+
+As this Egyptian Sesostris was returning and bringing back many
 men of the nations whose lands he had subdued, when he came (said the
 priests) to Daphnai in the district of Pelusion on his journey home, his
 brother to whom Sesostris had entrusted the charge of Egypt invited him
@@ -6295,7 +6939,9 @@ the burning mass, and that they passing over their bodies should thus
 escape. This, they said, Sesostris did, and two of his sons were burnt
 to death in this manner, but the rest got away safe with their father.
 
-108. Then Sesostris, having returned to Egypt and having taken vengeance
+## Chapter 108
+
+Then Sesostris, having returned to Egypt and having taken vengeance
 on his brother, employed the multitude which he had brought in of those
 whose lands he had subdued, as follows:—these were they who drew the
 stones which in the reign of this king were brought to the temple of
@@ -6311,7 +6957,9 @@ cities not on the river but in the middle of the country, being in want
 of water when the river went down from them, found their drink brackish
 because they had it from wells.
 
-109. For this reason Egypt was cut up; and they said that this king
+## Chapter 109
+
+For this reason Egypt was cut up; and they said that this king
 distributed the land to all the Egyptians, giving an equal square
 portion to each man, and from this he made his revenue, having appointed
 them to pay a certain rent every year: and if the river should take away
@@ -6324,7 +6972,9 @@ and afterwards came into Hellas also. For as touching the sun-dial 91
 and the gnomon 92 and the twelve divisions of the day, they were learnt
 by the Hellenes from the Babylonians.
 
-110. He moreover alone of all the Egyptian kings had rule over Ethiopia;
+## Chapter 110
+
+He moreover alone of all the Egyptian kings had rule over Ethiopia;
 and he left as memorials of himself in front of the temple of Hephaistos
 two stone statues of thirty cubits each, representing himself and his
 wife, and others of twenty cubits each representing his four sons: and
@@ -6338,7 +6988,9 @@ up a statue in front of those which Sesostris had dedicated, if he did
 not surpass him in his deeds. Which speech, they say, Dareios took in
 good part.
 
-111. Now after Sesostris had brought his life to an end, his son Pheros,
+## Chapter 111
+
+Now after Sesostris had brought his life to an end, his son Pheros,
 they told me, received in succession the kingdom, and he made no warlike
 expedition, and moreover it chanced to him to become blind by reason of
 the following accident:—when the river had come down in flood rising to
@@ -6366,7 +7018,9 @@ which are worth seeing, namely two obelisks of stone, each of a single
 block, measuring in length a hundred cubits each one and in breadth
 eight cubits.
 
-112. After him, they said, there succeeded to the throne a man of
+## Chapter 112
+
+After him, they said, there succeeded to the throne a man of
 Memphis, whose name in the tongue of the Hellenes was Proteus; for whom
 there is now a sacred enclosure at Memphis, very fair and well ordered,
 lying on that side of the temple of Hephaistos which faces the North
@@ -6379,7 +7033,9 @@ Proteus, but also especially because it is called by the name of the
 "foreign Aphrodite," for the other temples of Aphrodite which there are
 have none of them the addition of the word "foreign" to the name.
 
-113. And the priests told me, when I inquired, that the things
+## Chapter 113
+
+And the priests told me, when I inquired, that the things
 concerning Helen happened thus:—Alexander having carried off Helen was
 sailing away from Sparta to his own land, and when he had come to the
 Egean Sea contrary winds drove him from his course to the Sea of Egypt;
@@ -6397,7 +7053,9 @@ the whole tale how things were about Helen and about the wrong done to
 Menelaos; and this accusation they made not only to the priests but also
 to the warden of this river-mouth, whose name was Thonis.
 
-114. Thonis then having heard their tale sent forthwith a message to
+## Chapter 114
+
+Thonis then having heard their tale sent forthwith a message to
 Proteus at Memphis, which said as follows: "There hath come a stranger,
 a Teucrian by race, who hath done in Hellas an unholy deed; for he hath
 deceived the wife of his own host, and is come hither bringing with him
@@ -6409,7 +7067,9 @@ with him?" In reply to this Proteus sent back a messenger who said thus:
 host, and bring him away into my presence, that I may know what he will
 find to say."
 
-115. Hearing this, Thonis seized Alexander and detained his ships, and
+## Chapter 115
+
+Hearing this, Thonis seized Alexander and detained his ships, and
 after that he brought the man himself up to Memphis and with him Helen
 and the wealth he had, and also in addition to them the suppliants. So
 when all had been conveyed up thither, Proteus began to ask Alexander
@@ -6438,7 +7098,9 @@ proclaim that ye depart from your anchoring within three days and go
 from my land to some other; and if not, that ye will be dealt with as
 enemies."
 
-116. This the priests said was the manner of Helen's coming to Proteus;
+## Chapter 116
+
+This the priests said was the manner of Helen's coming to Proteus;
 and I suppose that Homer also had heard this story, but since it was
 not so suitable to the composition of his poem as the other which he
 followed, he dismissed it finally, 96 making it clear at the same time
@@ -6471,14 +7133,18 @@ In these lines he makes it clear that he knew of the wandering of
 Alexander to Egypt, for Syria borders upon Egypt and the Phenicians, of
 whom is Sidon, dwell in Syria.
 
-117. By these lines and by this passage 101 it is also most clearly
+## Chapter 117
+
+By these lines and by this passage 101 it is also most clearly
 shown that the "Cyprian Epic" was not written by Homer but by some other
 man: for in this it is said that on the third day after leaving
 Sparta Alexander came to Ilion bringing with him Helen, having had a
 "gently-blowing wind and a smooth sea," whereas in the Iliad it says
 that he wandered from his course when he brought her.
 
-118. Let us now leave Homer and the "Cyprian" Epic; but this I will say,
+## Chapter 118
+
+Let us now leave Homer and the "Cyprian" Epic; but this I will say,
 namely that I asked the priests whether it is but an idle tale which
 the Hellenes tell of that which they say happened about Ilion; and they
 answered me thus, saying that they had their knowledge by inquiries from
@@ -6499,7 +7165,9 @@ took it; and when they had taken the wall and did not find Helen, but
 heard the same tale as before, then they believed the former tale and
 sent Menelaos himself to Proteus.
 
-119. And Menelaos having come to Egypt and having sailed up to Memphis,
+## Chapter 119
+
+And Menelaos having come to Egypt and having sailed up to Memphis,
 told the truth of these matters, and not only found great entertainment,
 but also received Helen unhurt, and all his own wealth besides. Then
 however, after he had been thus dealt with, Menelaos showed himself
@@ -6513,7 +7181,9 @@ Egyptians were not able to tell. Of these things they said that they
 found out part by inquiries, and the rest, namely that which happened in
 their own land, they related from sure and certain knowledge.
 
-120. Thus the priests of the Egyptians told me; and I myself also agree
+## Chapter 120
+
+Thus the priests of the Egyptians told me; and I myself also agree
 with the story which was told of Helen, adding this consideration,
 namely that if Helen had been in Ilion she would have been given up to
 the Hellenes, whether Alexander consented or no; for Priam assuredly was
@@ -6541,7 +7211,9 @@ and so make it evident to men that for great wrongs great also are the
 chastisements which come from the gods. And thus have I delivered my
 opinion concerning these matters.
 
-121. After Proteus, they told me, Rhampsinitos received in succession
+## Chapter 121
+
+After Proteus, they told me, Rhampsinitos received in succession
 the kingdom, who left as a memorial of himself that gateway to the
 temple of Hephaistos which is turned towards the West, and in front of
 the gateway he set up two statues, in height five-and-twenty cubits, of
@@ -6657,7 +7329,9 @@ daughter of his to wife, counting him to be the most knowing of all men;
 for as the Egyptians were distinguished from all other men, so was he
 from the other Egyptians.
 
-122. After these things they said this king went down alive to that
+## Chapter 122
+
+After these things they said this king went down alive to that
 place which by the Hellenes is called Hades, and there played at dice
 with Demeter, and in some throws he overcame her and in others he was
 overcome by her; and he came back again having as a gift from her a
@@ -6674,7 +7348,9 @@ by two wolves to the temple of Demeter, which is distant from the city
 twenty furlongs, and then afterwards the wolves lead him back again from
 the temple to the same spot.
 
-123. Now as to the tales told by the Egyptians, any man may accept them
+## Chapter 123
+
+Now as to the tales told by the Egyptians, any man may accept them
 to whom such things appear credible; as for me, it is to be understood
 throughout the whole of the history 103 that I write by hearsay that
 which is reported by the people in each place. The Egyptians say that
@@ -6689,7 +7365,9 @@ certain Hellenes adopted, some earlier and some later, as if it were
 of their own invention, and of these men I know the names but I abstain
 from recording them.
 
-124. Down to the time when Rhampsinitos was king, they told me there
+## Chapter 124
+
+Down to the time when Rhampsinitos was king, they told me there
 was in Egypt nothing but orderly rule, and Egypt prospered greatly; but
 after him Cheops became king over them and brought them 104 to every
 kind of evil: for he shut up all the temples, and having first kept them
@@ -6714,7 +7392,9 @@ feet, and the height of it is the same. It is built of stone smoothed
 and fitted together in the most perfect manner, not one of the stones
 being less than thirty feet in length.
 
-125. This pyramid was made after the manner of steps, which some call
+## Chapter 125
+
+This pyramid was made after the manner of steps, which some call
 "rows" 106 and others "bases": 107 and when they had first made it thus,
 they raised the remaining stones with machines made of short pieces of
 timber, raising them first from the ground to the first stage of the
@@ -6739,7 +7419,9 @@ were occupied for no small time besides, as I suppose, in the cutting
 and bringing of the stones and in working at the excavation under the
 ground?
 
-126. Cheops moreover came, they said, to such a pitch of wickedness,
+## Chapter 126
+
+Cheops moreover came, they said, to such a pitch of wickedness,
 that being in want of money he caused his own daughter to sit in the
 stews, and ordered her to obtain from those who came a certain amount of
 money (how much it was they did not tell me); but she not only obtained
@@ -6750,7 +7432,9 @@ these stones, they told me, the pyramid was built which stands in front
 of the great pyramid in the middle of the three, 108 each side being one
 hundred and fifty feet in length.
 
-127. This Cheops, the Egyptians said, reigned fifty years; and after
+## Chapter 127
+
+This Cheops, the Egyptians said, reigned fifty years; and after
 he was dead his brother Chephren succeeded to the kingdom. This king
 followed the same manner as the other, both in all the rest and also in
 that he made a pyramid, not indeed attaining to the measurements of that
@@ -6765,14 +7449,18 @@ size, 110 building it close to the great pyramid. These stand both upon
 the same hill, which is about a hundred feet high. And Chephren they
 said reigned fifty and six years.
 
-128. Here then they reckon one hundred and six years, during which they
+## Chapter 128
+
+Here then they reckon one hundred and six years, during which they
 say that there was nothing but evil for the Egyptians, and the temples
 were kept closed and not opened during all that time. These kings the
 Egyptians by reason of their hatred of them are not very willing to
 name; nay, they even call the pyramids after the name of Philitis 111
 the shepherd, who at that time pastured flocks in those regions.
 
-129. After him, they said, Mykerinos became king over Egypt, who was the
+## Chapter 129
+
+After him, they said, Mykerinos became king over Egypt, who was the
 son of Cheops; and to him his father's deeds were displeasing, and he
 both opened the temples and gave liberty to the people, who were ground
 down to the last extremity of evil, to return to their own business and
@@ -6790,7 +7478,9 @@ daughter in a manner more remarkable than others, he made a cow of
 wood, which he covered over with gold, and then within it he buried this
 daughter who, as I said, had died.
 
-130. This cow was not covered up in the ground, but it might be seen
+## Chapter 130
+
+This cow was not covered up in the ground, but it might be seen
 even down to my own time in the city of Saïs, placed within the royal
 palace in a chamber which was greatly adorned; and they offer incense of
 all kinds before it every day, and each night a lamp burns beside it all
@@ -6800,7 +7490,9 @@ in fact colossal wooden statues, in number about twenty, made with naked
 bodies; but who they are I am not able to say, except only that which is
 reported.
 
-131. Some however tell about this cow and the colossal statues the
+## Chapter 131
+
+Some however tell about this cow and the colossal statues the
 following tale, namely that Mykerinos was enamoured of his own daughter
 and afterwards ravished her; and upon this they say that the girl
 strangled herself for grief, and he buried her in this cow; and her
@@ -6812,7 +7504,9 @@ for as to this, even we ourselves saw that their hands had dropped off
 from lapse of time, and they were to be seen still lying at their feet
 even down to my time.
 
-132. The cow is covered up with a crimson robe, except only the head and
+## Chapter 132
+
+The cow is covered up with a crimson robe, except only the head and
 the neck, which are seen, overlaid with gold very thickly; and between
 the horns there is the disc of the sun figured in gold. The cow is not
 standing up but kneeling, and in size it is equal to a large living cow.
@@ -6823,7 +7517,9 @@ the cow to the light of day, for they say that she asked of her father
 Mykerinos, when she was dying, that she might look upon the sun once in
 the year.
 
-133. After the misfortune of his daughter it happened, they said,
+## Chapter 133
+
+After the misfortune of his daughter it happened, they said,
 secondly to this king as follows:—An oracle came to him from the city
 of Buto, saying that he was destined to live but six years more, in the
 seventh year to end his life: and he being indignant at it sent to the
@@ -6846,7 +7542,9 @@ This he devised (having a mind to prove that the Oracle spoke falsely)
 in order that he might have twelve years of life instead of six, the
 nights being turned into days.
 
-134. This king also left behind him a pyramid, much smaller than that of
+## Chapter 134
+
+This king also left behind him a pyramid, much smaller than that of
 his father, of a square shape and measuring on each side three hundred
 feet lacking twenty, built moreover of Ethiopian stone up to half the
 height. This pyramid some of the Hellenes say was built by the courtesan
@@ -6866,7 +7564,9 @@ take up 114 the blood-money for the death of Esop, no one else appeared,
 but at length the grandson of Iadmon, called Iadmon also, took it up;
 and thus it is shown that Esop too was the slave of Iadmon.
 
-135. As for Rhodopis, she came to Egypt brought by Xanthes the Samian,
+## Chapter 135
+
+As for Rhodopis, she came to Egypt brought by Xanthes the Samian,
 and having come thither to exercise her calling she was redeemed
 from slavery for a great sum by a man of Mytilene, Charaxos son of
 Scamandronymos and brother of Sappho the lyric poet. Thus was Rhodopis
@@ -6893,7 +7593,9 @@ though she was less talked of than the other. As for Charaxos, when
 after redeeming Rhodopis he returned back to Mytilene, Sappho in an ode
 violently abused him. 118 Of Rhodopis then I shall say no more.
 
-136. After Mykerinos the priests said Asychis became king of Egypt,
+## Chapter 136
+
+After Mykerinos the priests said Asychis became king of Egypt,
 and he made for Hephaistos the temple gateway 119 which is towards the
 sunrising, by far the most beautiful and the largest of the gateways;
 for while they all have figures carved upon them and innumerable
@@ -6919,7 +7621,9 @@ bricks, and in such manner they finished me."
 
 Such were the deeds which this king performed;
 
-137, and after him reigned a blind man of the city of Anysis, whose
+## Chapter 137
+
+and after him reigned a blind man of the city of Anysis, whose
 name was Anysis. In his reign the Ethiopians and Sabacos the king of the
 Ethiopians marched upon Egypt with a great host of men; so this blind
 man departed, flying to the fen-country, and the Ethiopian was king
@@ -6938,7 +7642,9 @@ for though there are other temples which are larger and built with more
 cost, none more than this is a pleasure to the eyes. Now Bubastis in the
 Hellenic tongue is Artemis,
 
-138, and her temple is ordered thus:—Except the entrance it is
+## Chapter 138
+
+and her temple is ordered thus:—Except the entrance it is
 completely surrounded by water; for channels come in from the Nile, not
 joining one another, but each extending as far as the entrance of the
 temple, one flowing round on the one side and the other on the other
@@ -6958,7 +7664,9 @@ of about four hundred feet; and on this side and on that grow trees of
 height reaching to heaven: and the road leads to the temple of Hermes.
 This temple then is thus ordered.
 
-139. The final deliverance from the Ethiopian came about (they said)
+## Chapter 139
+
+The final deliverance from the Ethiopian came about (they said)
 as follows:—he fled away because he had seen in his sleep a vision, in
 which it seemed to him that a man came and stood by him and counselled
 him to gather together all the priests of Egypt and cut them asunder in
@@ -6974,7 +7682,9 @@ fifty years: since then this time was now expiring, and the vision of
 the dream also disturbed him, Sabacos departed out of Egypt of his own
 free will.
 
-140. Then when the Ethiopian had gone away out of Egypt, the blind man
+## Chapter 140
+
+Then when the Ethiopian had gone away out of Egypt, the blind man
 came back from the fen-country and began to rule again, having lived
 there during fifty years upon an island which he had made by heaping up
 ashes and earth: for whenever any of the Egyptians visited him bringing
@@ -6985,7 +7695,9 @@ is, for more than seven hundred years 124 the kings who arose before
 Amyrtaios were not able to find it. Now the name of this island is Elbo,
 and its size is ten furlongs each way.
 
-141. After him there came to the throne the priest of Hephaistos, whose
+## Chapter 141
+
+After him there came to the throne the priest of Hephaistos, whose
 name was Sethos. This man, they said, neglected and held in no regard
 the warrior class of the Egyptians, considering that he would have no
 need of them; and besides other slights which he put upon them, he also
@@ -7012,7 +7724,9 @@ stands in the temple of Hephaistos in stone, holding upon his hand a
 mouse, and by letters inscribed he says these words: "Let him who looks
 upon me learn to fear the gods."
 
-142. So far in the story the Egyptians and the priests were they who
+## Chapter 142
+
+So far in the story the Egyptians and the priests were they who
 made the report, declaring that from the first king down to this
 priest of Hephaistos who reigned last, there had been three hundred and
 forty-one generations of men, and that in them there had been the same
@@ -7032,7 +7746,9 @@ in Egypt had been changed from its usual state, neither that which comes
 from the earth nor that which comes to them from the river nor that
 which concerns diseases or deaths.
 
-143. And formerly when Hecataios the historian was in Thebes, and had
+## Chapter 143
+
+And formerly when Hecataios the historian was in Thebes, and had
 traced his descent and connected his family with a god in the sixteenth
 generation before, the priests of Zeus did for him much the same as they
 did for me (though I had not traced my descent). They led me into the
@@ -7053,7 +7769,9 @@ one being surnamed piromis; and neither with a god nor a hero did
 they connect their descent. Now piromis means in the tongue of Hellas
 "honourable and good man."
 
-144. From their declaration then it followed, that they of whom the
+## Chapter 144
+
+From their declaration then it followed, that they of whom the
 images were had been of form like this, and far removed from being gods:
 but in the time before these men they said that gods were the rulers in
 Egypt, not mingling 128 with men, and that of these always one had power
@@ -7061,7 +7779,9 @@ at a time; and the last of them who was king over Egypt was Oros the son
 of Osiris, whom the Hellenes call Apollo: he was king over Egypt last,
 having deposed Typhon. Now Osiris in the tongue of Hellas is Dionysos.
 
-145. Among the Hellenes Heracles and Dionysos and Pan are accounted the
+## Chapter 145
+
+Among the Hellenes Heracles and Dionysos and Pan are accounted the
 latest-born of the gods; but with the Egyptians Pan is a very ancient
 god, and he is one of those which are called the eight gods, while
 Heracles is of the second rank, who are called the twelve gods, and
@@ -7080,7 +7800,9 @@ and that Pan who was born of Penelope, for of her and of Hermes Pan is
 said by the Hellenes to have been born, came into being later than the
 wars of Troy, about eight hundred years before my time.
 
-146. Of these two accounts every man may adopt that one which he shall
+## Chapter 146
+
+Of these two accounts every man may adopt that one which he shall
 find the more credible when he hears it. I however, for my part, have
 already declared my opinion about them. 129 For if these also, like
 Heracles the son of Amphitryon, had appeared before all men's eyes and
@@ -7097,7 +7819,9 @@ their birth occurred at the time when they first learnt their names.
 
 Thus far then the history is told by the Egyptians themselves;
 
-147, but I will now recount that which other nations also tell, and the
+## Chapter 147
+
+but I will now recount that which other nations also tell, and the
 Egyptians in agreement with the others, of that which happened in this
 land: and there will be added to this also something of that which I
 have myself seen.
@@ -7115,7 +7839,9 @@ should pour a libation with a bronze cup in the temple of Hephaistos,
 should be king of all Egypt (for they used to assemble together in all
 the temples).
 
-148. Moreover they resolved to join all together and leave a memorial of
+## Chapter 148
+
+Moreover they resolved to join all together and leave a memorial of
 themselves; and having so resolved they caused to be made a labyrinth,
 situated a little above the lake of Moiris and nearly opposite to that
 which is called the City of Crocodiles. This I saw myself, and I found
@@ -7150,7 +7876,9 @@ fitted together most perfectly; and at the end of the labyrinth, by
 the corner of it, there is a pyramid of forty fathoms, upon which large
 figures are carved, and to this there is a way made under ground.
 
-149. Such is this labyrinth; but a cause for marvel even greater than
+## Chapter 149
+
+Such is this labyrinth; but a cause for marvel even greater than
 this is afforded by the lake, which is called the lake of Moiris, along
 the side of which this labyrinth is built. The measure of its circuit is
 three thousand six hundred furlongs 131 (being sixty schoines), and this
@@ -7172,7 +7900,9 @@ again; and whenever it flows out, then for the six months it brings
 into the royal treasury a talent of silver a day from the fish which are
 caught, and twenty pounds 132 when the water comes in.
 
-150. The natives of the place moreover said that this lake had an
+## Chapter 150
+
+The natives of the place moreover said that this lake had an
 outlet under ground to the Syrtis which is in Libya, turning towards the
 interior of the continent upon the Western side and running along by
 the mountain which is above Memphis. Now since I did not see anywhere
@@ -7195,7 +7925,9 @@ to the Nile the earth which was dug out; and the river, when it received
 it, would naturally bear it away and disperse it. Thus is this lake said
 to have been dug out.
 
-151. Now the twelve kings continued to rule justly, but in course of
+## Chapter 151
+
+Now the twelve kings continued to rule justly, but in course of
 time it happened thus:—After sacrifice in the temple of Hephaistos
 they were about to make libation on the last day of the feast, and the
 chief-priest, in bringing out for them the golden cups with which they
@@ -7216,7 +7948,9 @@ of almost all his power and to drive him away into the fen-country, and
 that from the fen-country he should not hold any dealings with the rest
 of Egypt.
 
-152. This Psammetichos had formerly been a fugitive from the Ethiopian
+## Chapter 152
+
+This Psammetichos had formerly been a fugitive from the Ethiopian
 Sabacos who had killed his father Necos, from him, I say, he had
 then been a fugitive in Syria; and when the Ethiopian had departed in
 consequence of the vision of the dream, the Egyptians who were of the
@@ -7241,7 +7975,9 @@ persuaded them to take his part. Then when he had persuaded them, with
 the help of those Egyptians who favoured his cause and of these foreign
 mercenaries he overthrew the kings.
 
-153. Having thus got power over all Egypt, Psammetichos made for
+## Chapter 153
+
+Having thus got power over all Egypt, Psammetichos made for
 Hephaistos that gateway of the temple at Memphis which is turned towards
 the South Wind; and he built a court for Apis, in which Apis is kept
 when he appears, opposite to the gateway of the temple, surrounded all
@@ -7249,7 +7985,9 @@ with pillars and covered with figures; and instead of columns there
 stand to support the roof of the court colossal statues twelve cubits
 high. Now Apis is in the tongue of the Hellenes Epaphos.
 
-154. To the Ionians and to the Carians who had helped him Psammetichos
+## Chapter 154
+
+To the Ionians and to the Carians who had helped him Psammetichos
 granted portions of land to dwell in, opposite to one another with
 the river Nile between, and these were called "Encampments": 133 these
 portions of land he gave them, and he paid them besides all that he had
@@ -7270,7 +8008,9 @@ were drawn up and the ruins of their houses.
 
 Thus then Psammetichos obtained Egypt:
 
-155, and of the Oracle which is in Egypt I have made mention often
+## Chapter 155
+
+and of the Oracle which is in Egypt I have made mention often
 before this, and now I will give an account of it, seeing that it is
 worthy to be described. This Oracle which is in Egypt is sacred to Leto,
 and it is established in a great city near that mouth of the Nile which
@@ -7286,7 +8026,9 @@ walls are in these two directions equal, each being forty cubits; and
 for the covering in of the roof there lies another stone upon the top,
 the cornice measuring four cubits. 135
 
-156. This house then of all the things that were to be seen by me in
+## Chapter 156
+
+This house then of all the things that were to be seen by me in
 that temple is the most marvellous, and among those which come next is
 the island called Chemmis. This is situated in a deep and broad lake
 by the side of the temple at Buto, and it is said by the Egyptians
@@ -7313,13 +8055,17 @@ say, it became a floating island.
 
 Such is the story which they tell;
 
-157, but as for Psammetichos, he was king over Egypt for four-and-fifty
+## Chapter 157
+
+but as for Psammetichos, he was king over Egypt for four-and-fifty
 years, of which for thirty years save one he was sitting before Azotos,
 a great city of Syria, besieging it, until at last he took it: and this
 Azotos of all cities about which we have knowledge held out for the
 longest time under a siege.
 
-158. The son of Psammetichos was Necos, and he became king of Egypt.
+## Chapter 158
+
+The son of Psammetichos was Necos, and he became king of Egypt.
 This man was the first who attempted the channel leading to the
 Erythraian Sea, which Dareios the Persian afterwards completed: the
 length of this is a voyage of four days, and in breadth it was so dug
@@ -7343,7 +8089,9 @@ because the utterance of an Oracle impeded him, which was to the effect
 that he was working for the Barbarian: and the Egyptians call all men
 Barbarians who do not agree with them in speech.
 
-159. Thus having ceased from the work of the channel, Necos betook
+## Chapter 159
+
+Thus having ceased from the work of the channel, Necos betook
 himself to waging wars, and triremes were built by him, some for the
 Northern Sea and others in the Arabian gulf for the Erythraian Sea; and
 of these the sheds are still to be seen. These ships he used when he
@@ -7354,7 +8102,9 @@ conquests he dedicated to Apollo, sending it to Branchidai of the
 Milesians. After this, having reigned in all sixteen years, he brought
 his life to an end, and handed on the kingdom to Psammis his son.
 
-160. While this Psammis was king of Egypt, there came to him men sent by
+## Chapter 160
+
+While this Psammis was king of Egypt, there came to him men sent by
 the Eleians, who boasted that they ordered the contest at Olympia in the
 most just and honourable manner possible and thought that not even the
 Egyptians, the wisest of men, could find out anything besides, to be
@@ -7378,7 +8128,9 @@ advised them to order the contest so as to be for strangers alone to
 contend in, and that no Eleian should be permitted to contend. Such was
 the suggestion made by the Egyptians to the Eleians.
 
-161. When Psammis had been king of Egypt for only six years and had made
+## Chapter 161
+
+When Psammis had been king of Egypt for only six years and had made
 an expedition to Ethiopia and immediately afterwards had ended his life,
 Apries the son of Psammis received the kingdom in succession. This man
 came to be the most prosperous of all the kings up to that time except
@@ -7396,7 +8148,9 @@ rule over the other Egyptians. Being indignant at this, both these men
 who had returned from the expedition and also the friends of those who
 had perished made revolt openly.
 
-162. Hearing this Apries sent to them Amasis, to cause them to cease
+## Chapter 162
+
+Hearing this Apries sent to them Amasis, to cause them to cease
 by persuasion; and when he had come and was seeking to restrain the
 Egyptians, as he was speaking and telling them not to do so, one of the
 Egyptians stood up behind him and put a helmet 139 upon his head, saying
@@ -7423,7 +8177,9 @@ Egyptians who still remained on his side, when they saw the man of most
 repute among them thus suffering shameful outrage, waited no longer but
 joined the others in revolt, and delivered themselves over to Amasis.
 
-163. Then Apries having heard this also, armed his foreign mercenaries
+## Chapter 163
+
+Then Apries having heard this also, armed his foreign mercenaries
 and marched against the Egyptians: now he had about him Carian and
 Ionian mercenaries to the number of thirty thousand; and his royal
 palace was in the city of Saïs, of great size and worthy to be seen.
@@ -7432,7 +8188,9 @@ those with him were going against the mercenaries; and both sides came
 to the city of Momemphis and were about to make trial of one another in
 fight.
 
-164. Now of the Egyptians there are seven classes, and of these one
+## Chapter 164
+
+Now of the Egyptians there are seven classes, and of these one
 class is called that of the priests, and another that of the
 warriors, while the others are the cowherds, swineherds, shopkeepers,
 interpreters, and boatmen. This is the number of the classes of the
@@ -7441,13 +8199,17 @@ which they follow. Of them the warriors are called Calasirians and
 Hermotybians, and they are of the following districts, 142—for all Egypt
 is divided into districts.
 
-165. The districts of the Hermotybians are those of Busiris, Saïs,
+## Chapter 165
+
+The districts of the Hermotybians are those of Busiris, Saïs,
 Chemmis, Papremis, the island called Prosopitis, and the half of
 Natho,—of these districts are the Hermotybians, who reached when most
 numerous the number of sixteen myriads. 14201 Of these not one has
 learnt anything of handicraft, but they are given up to war entirely.
 
-166. Again the districts of the Calasirians are those of Thebes,
+## Chapter 166
+
+Again the districts of the Calasirians are those of Thebes,
 Bubastis, Aphthis, Tanis, Mendes, Sebennytos, Athribis, Pharbaithos,
 Thmuïs Onuphis, Anytis, Myecphoris,—this last is on an island opposite
 to the city of Bubastis. These are the districts of the Calasirians;
@@ -7456,7 +8218,9 @@ myriads 14202 of men; nor is it lawful for these, any more than for the
 others, to practise any craft; but they practise that which has to do
 with war only, handing down the tradition from father to son.
 
-167. Now whether the Hellenes have learnt this also from the Egyptians,
+## Chapter 167
+
+Now whether the Hellenes have learnt this also from the Egyptians,
 I am not able to say for certain, since I see that the Thracians also
 and Scythians and Persians and Lydians and almost all the Barbarians
 esteem those of their citizens who learn the arts, and the descendants
@@ -7466,7 +8230,9 @@ those who are devoted to war: however that may be, the Hellenes have all
 learnt this, and especially the Lacedemonians; but the Corinthians least
 of all cast slight upon those who practise handicrafts.
 
-168. The following privilege was specially granted to this class and to
+## Chapter 168
+
+The following privilege was specially granted to this class and to
 none others of the Egyptians except the priests, that is to say, each
 man had twelve yokes 143 of land specially granted to him free from
 imposts: now the yoke of land measures a hundred Egyptian cubits every
@@ -7480,7 +8246,9 @@ yokes of land an allowance given them for each day of five pounds weight
 145 of wine. This was the allowance given to those who were serving as
 the king's bodyguard for the time being.
 
-169. So when Apries leading his foreign mercenaries, and Amasis at
+## Chapter 169
+
+So when Apries leading his foreign mercenaries, and Amasis at
 the head of the whole body of the Egyptians, in their approach to one
 another had come to the city of Momemphis, they engaged battle: and
 although the foreign troops fought well, yet being much inferior in
@@ -7504,7 +8272,9 @@ a colonnade of stone of great size, with pillars carved to imitate
 date-palms, and otherwise sumptuously adorned; and within the colonnade
 are double-doors, and inside the doors a sepulchral chamber.
 
-170. Also at Saïs there is the burial-place of him whom I account it not
+## Chapter 170
+
+Also at Saïs there is the burial-place of him whom I account it not
 pious to name in connexion with such a matter, which is in the temple of
 Athene behind the house of the goddess, 146 stretching along the whole
 wall of it; and in the sacred enclosure stand great obelisks of stone,
@@ -7512,7 +8282,9 @@ and near them is a lake adorned with an edging of stone and fairly made
 in a circle, being in size, as it seemed to me, equal to that which is
 called the "Round Pool" 147 in Delos.
 
-171. On this lake they perform by night the show of his sufferings, and
+## Chapter 171
+
+On this lake they perform by night the show of his sufferings, and
 this the Egyptians call Mysteries. Of these things I know more fully in
 detail how they take place, but I shall leave this unspoken; and of the
 mystic rites of Demeter, which the Hellenes call thesmophoria, of these
@@ -7524,7 +8296,9 @@ by the Dorians, the rite was lost, and only those who were left behind
 of the Peloponnesians and not driven out, that is to say the Arcadians,
 preserved it.
 
-172. Apries having thus been overthrown, Amasis became king, being of
+## Chapter 172
+
+Apries having thus been overthrown, Amasis became king, being of
 the district of Saïs, and the name of the city whence he was is Siuph.
 Now at the first the Egyptians despised Amasis and held him in no
 great regard, because he had been a man of the people and was of no
@@ -7544,7 +8318,9 @@ had he himself now fared, as the foot-basin; for though formerly he
 was a man of the people, yet now he was their king, and he bade them
 accordingly honour him and have regard for him.
 
-173. In such manner he won the Egyptians to himself, so that they
+## Chapter 173
+
+In such manner he won the Egyptians to himself, so that they
 consented to be his subjects; and his ordering of affairs was thus:—In
 the early morning, and until the time of the filling of the market he
 did with a good will the business which was brought before him;
@@ -7567,7 +8343,9 @@ with stupor before he was aware; and knowing this well, I distribute a
 portion of the time to each of the two ways of living." Thus he replied
 to his friends.
 
-174. It is said however that Amasis, even when he was in a private
+## Chapter 174
+
+It is said however that Amasis, even when he was in a private
 station, was a lover of drinking and of jesting, and not at all
 seriously disposed; and whenever his means of livelihood failed him
 through his drinking and luxurious living, he would go about and steal;
@@ -7583,7 +8361,9 @@ and to possess lying Oracles; but as many as had convicted him of being
 a thief, to these he paid very great regard, considering them to be
 truly gods, and to present Oracles which did not lie.
 
-175. First in Saïs he built and completed for Athene a temple-gateway
+## Chapter 175
+
+First in Saïs he built and completed for Athene a temple-gateway
 which is a great marvel, and he far surpassed herein all who had done
 the like before, both in regard to height and greatness, so large
 are the stones and of such quality. Then secondly he dedicated great
@@ -7608,7 +8388,9 @@ further onwards. Some say on the other hand that a man was killed by it,
 of those who were heaving it with levers, and that it was not drawn in
 for that reason.
 
-176. Amasis also dedicated in all the other temples which were of
+## Chapter 176
+
+Amasis also dedicated in all the other temples which were of
 repute, works which are worth seeing for their size, and among them also
 at Memphis the colossal statue which lies on its back in front of the
 temple of Hephaistos, whose length is five-and-seventy feet; and on the
@@ -7619,7 +8401,9 @@ Saïs, lying in the same manner as that at Memphis. Moreover Amasis was
 he who built and finished for Isis her temple at Memphis, which is of
 great size and very worthy to be seen.
 
-177. In the reign of Amasis it is said that Egypt became more prosperous
+## Chapter 177
+
+In the reign of Amasis it is said that Egypt became more prosperous
 than at any other time before, both in regard to that which comes to the
 land from the river and in regard to that which comes from the land
 to its inhabitants, and that at this time the inhabited towns in it
@@ -7632,7 +8416,9 @@ received from Egypt this law and had it enacted for the Athenians, and
 they have continued to observe it, since it is a law with which none can
 find fault.
 
-178. Moreover Amasis became a lover of the Hellenes; and besides other
+## Chapter 178
+
+Moreover Amasis became a lover of the Hellenes; and besides other
 proofs of friendship which he gave to several among them, he also
 granted the city of Naucratis for those of them who came to Egypt to
 dwell in; and to those who did not desire to stay, but who made voyages
@@ -7648,7 +8434,9 @@ without any right. 152 Besides this the Eginetans established on their
 own account a sacred enclosure dedicated to Zeus, the Samians one to
 Hera, and the Milesians one to Apollo.
 
-179. Now in old times Naucratis alone was an open trading-place, and
+## Chapter 179
+
+Now in old times Naucratis alone was an open trading-place, and
 no other place in Egypt: and if any one came to any other of the Nile
 mouths, he was compelled to swear that he came not thither of his own
 will, and when he had thus sworn his innocence he had to sail with his
@@ -7656,7 +8444,9 @@ ship to the Canobic mouth, or if it were not possible to sail by reason
 of contrary winds, then he had to carry his cargo round the head of the
 Delta in boats to Naucratis: thus highly was Naucratis privileged.
 
-180. Moreover when the Amphictyons had let out the contract for building
+## Chapter 180
+
+Moreover when the Amphictyons had let out the contract for building
 the temple which now exists at Delphi, agreeing to pay a sum of three
 hundred talents, (for the temple which formerly stood there had been
 burnt down of itself), it fell to the share of the people of Delphi to
@@ -7666,7 +8456,9 @@ did this they got from Egypt as much as from any place, for Amasis gave
 them a thousand talents' weight of alum, while the Hellenes who dwelt in
 Egypt gave them twenty pounds of silver. 153
 
-181. Also with the people of Kyrene Amasis made an agreement for
+## Chapter 181
+
+Also with the people of Kyrene Amasis made an agreement for
 friendship and alliance; and he resolved too to marry a wife from
 thence, whether because he desired to have a wife of Hellenic race,
 or apart from that, on account of friendship for the people of Kyrene:
@@ -7690,7 +8482,9 @@ standing with its face turned away from the city of the Kyrenians. This
 Ladike Cambyses, having conquered Egypt and heard from her who she was,
 sent back unharmed to Kyrene.
 
-182. Amasis also dedicated offerings in Hellas, first at Kyrene an image
+## Chapter 182
+
+Amasis also dedicated offerings in Hellas, first at Kyrene an image
 of Athene covered over with gold and a figure of himself made like by
 painting; then in the temple of Athene at Lindson two images of stone
 and a corslet of linen worthy to be seen; and also at Samos two wooden
@@ -8223,7 +9017,9 @@ case. Some propose to read {eikosi mneas khrusou}.]
 
 ## Book III. The Third Book of the Histories, Called Thaleia
 
-1. Against this Amasis then Cambyses the son of Cyrus was making his
+## Chapter 1
+
+Against this Amasis then Cambyses the son of Cyrus was making his
 march, taking with him not only other nations of which he was ruler,
 but also Hellenes, both Ionians and Aiolians: 1 and the cause of the
 expedition was as follows:—Cambyses sent an envoy to Egypt and asked
@@ -8253,7 +9049,9 @@ murdered him, who was his lord and master." These words uttered and this
 occasion having arisen, led Cambyses the son of Cyrus against Egypt,
 moved to very great anger.
 
-2. Such is the report made by the Persians; but as for the Egyptians
+## Chapter 2
+
+Such is the report made by the Persians; but as for the Egyptians
 they claim Cambyses as one of themselves, saying that he was born of
 this very daughter of Apries; for they say that Cyrus was he who sent to
 Amasis for his daughter, and not Cambyses. In saying this however they
@@ -8266,7 +9064,9 @@ Pharnaspes, a man of the Achaimenid family, and not the son of the
 Egyptian woman: but they pervert the truth of history, claiming to be
 kindred with the house of Cyrus. Thus it is with these matters;
 
-3, and the following story is also told, which for my part I do not
+## Chapter 3
+
+and the following story is also told, which for my part I do not
 believe, namely that one of the Persian women came in to the wives of
 Cyrus, and when she saw standing by the side of Cassandane children
 comely of form and tall, she was loud in her praises of them, expressing
@@ -8282,7 +9082,9 @@ women were astonished by it: and he, they say, kept it ever in mind, and
 so at last when he had become a man and had obtained the royal power, he
 made the expedition against Egypt.
 
-4. Another thing also contributed to this expedition, which was as
+## Chapter 4
+
+Another thing also contributed to this expedition, which was as
 follows:—There was among the foreign mercenaries 3 of Amasis a man who
 was by race of Halicarnassos, and his name was Phanes, one who was both
 capable in judgment and valiant in that which pertained to war. This
@@ -8302,7 +9104,9 @@ instructed him also as to the march, advising him to send to the king
 of the Arabians and ask that he would give him safety of passage through
 this region.
 
-5. Now by this way only is there a known entrance to Egypt: for from
+## Chapter 5
+
+Now by this way only is there a known entrance to Egypt: for from
 Phenicia to the borders of the city of Cadytis belongs to the Syrians 4
 who are called of Palestine, and from Cadytis, which is a city I suppose
 not much less than Sardis, from this city the trading stations on the
@@ -8316,13 +9120,17 @@ Mount Casion and the Serbonian lake on the other, which is of no small
 extent but as much as a three days' journey, is grievously destitute of
 water.
 
-6. And one thing I shall tell of, which few of those who go in ships to
+## Chapter 6
+
+And one thing I shall tell of, which few of those who go in ships to
 Egypt have observed, and it is this:—into Egypt from all parts of Hellas
 and also from Phenicia are brought twice every year earthenware jars
 full of wine, and yet it may almost be said that you cannot see there
 one single empty 5 wine-jar.
 
-7. In what manner, then, it will be asked, are they used up? This also I
+## Chapter 7
+
+In what manner, then, it will be asked, are they used up? This also I
 will tell. The head-man 6 of each place must collect all the earthenware
 jars from his own town and convey them to Memphis, and those at Memphis
 must fill them with water and convey them to these same waterless
@@ -8336,7 +9144,9 @@ with what he was told by his Halicarnassian guest, sent envoys to the
 Arabian king and from him asked and obtained the safe passage, having
 given him pledges of friendship and received them from him in return.
 
-8. Now the Arabians have respect for pledges of friendship as much as
+## Chapter 8
+
+Now the Arabians have respect for pledges of friendship as much as
 those men in all the world who regard them most; and they give them in
 the following manner:—A man different from those who desire to give the
 pledges to one another, standing in the midst between the two, cuts
@@ -8354,7 +9164,9 @@ hair is done after the same fashion as that of Dionysos himself; and
 they cut their hair in a circle round, shaving away the hair of the
 temples. Now they call Dionysos Orotalt 8 and Urania they call Alilat.
 
-9. So then when the Arabian king had given the pledge of friendship to
+## Chapter 9
+
+So then when the Arabian king had given the pledge of friendship to
 the men who had come to him from Cambyses, he contrived as follows:—he
 took skins of camels and filled them with water and loaded them upon the
 backs of all the living camels that he had; and having so done he drove
@@ -8372,7 +9184,9 @@ twelve days from the river to this waterless region; and moreover the
 story says that he conducted the water by three 10 conduit-pipes to
 three different parts of it.
 
-10. Meanwhile Psammenitos the son of Amasis was encamped at the Pelusian
+## Chapter 10
+
+Meanwhile Psammenitos the son of Amasis was encamped at the Pelusian
 mouth of the Nile waiting for the coming of Cambyses: for Cambyses did
 not find Amasis yet living when he marched upon Egypt, but Amasis had
 died after having reigned forty and four years during which no great
@@ -8385,7 +9199,9 @@ fallen nor afterwards down to my time, as the Thebans themselves say;
 for in the upper parts of Egypt no rain falls at all: but at the time of
 which I speak rain fell at Thebes in a drizzling shower. 12
 
-11. Now when the Persians had marched quite through the waterless region
+## Chapter 11
+
+Now when the Persians had marched quite through the waterless region
 and were encamped near the Egyptians with design to engage battle, then
 the foreign mercenaries of the Egyptian king, who were Hellenes and
 Carians, having a quarrel with Phanes because he had brought
@@ -8401,7 +9217,9 @@ battle. Then after a battle had been fought with great stubbornness, and
 very many had fallen of both the armies, the Egyptians at length turned
 to flight.
 
-12. I was witness moreover of a great marvel, being informed of it by
+## Chapter 12
+
+I was witness moreover of a great marvel, being informed of it by
 the natives of the place; for of the bones scattered about of those
 who fell in this fight, each side separately, since the bones of the
 Persians were lying apart on one side according as they were divided
@@ -8421,7 +9239,9 @@ that is felt caps. So far of this: and I saw also a similar thing to
 this at Papremis, in the case of those who were slain together with
 Achaimenes the son of Dareios, by Inaros the Libyan.
 
-13. The Egyptians when they turned to flight from the battle fled in
+## Chapter 13
+
+The Egyptians when they turned to flight from the battle fled in
 disorder: and they being shut up in Memphis, Cambyses sent a ship of
 Mytilene up the river bearing a Persian herald, to summon the Egyptians
 to make terms of surrender; but they, when they saw the ship had
@@ -8440,7 +9260,9 @@ small in amount (for the Kyrenians sent in fact five hundred pounds'
 weight 15 of silver), he took the silver by handfuls and scattered it
 with his own hand among his soldiers.
 
-14. On the tenth day after that on which he received the surrender
+## Chapter 14
+
+On the tenth day after that on which he received the surrender
 of the fortress of Memphis, Cambyses set the king of the Egyptians
 Psammenitos, who had been king for six months, to sit in the suburb of
 the city, to do him dishonour,—him I say with other Egyptians he set
@@ -8490,7 +9312,9 @@ son of Psammenitos from among those who were being put to death, and
 also he bade them raise Psammenitos himself from his place in the suburb
 of the city and bring him into his own presence.
 
-15. As for the son, those who went for him found that he was no longer
+## Chapter 15
+
+As for the son, those who went for him found that he was no longer
 alive, but had been cut down first of all, but Psammenitos himself they
 raised from his place and brought him into the presence of Cambyses,
 with whom he continued to live for the rest of his time without
@@ -8509,7 +9333,9 @@ due reward: for he was found to be inciting the Egyptians to revolt; and
 when this became known to Cambyses, Psammenitos drank bull's blood and
 died forthwith. Thus he came to his end.
 
-16. From Memphis Cambyses came to the city of Saïs with the purpose of
+## Chapter 16
+
+From Memphis Cambyses came to the city of Saïs with the purpose of
 doing that which in fact he did: for when he had entered into the palace
 of Amasis, he forthwith gave command to bring the corpse of Amasis forth
 out of his burial-place; and when this had been accomplished, he gave
@@ -8543,7 +9369,9 @@ regard to his burial and with regard to the man mentioned, were not
 in my opinion really given at all, but I think that the Egyptians make
 pretence of it from pride and with no good ground.
 
-17. After this Cambyses planned three several expeditions, one against
+## Chapter 17
+
+After this Cambyses planned three several expeditions, one against
 the Carthaginians, another against the Ammonians, and a third against
 the "Long-lived" Ethiopians, who dwell in that part of Libya which is by
 the Southern Sea: and in forming these designs he resolved to send
@@ -8553,7 +9381,9 @@ first, both to see whether the table of the Sun existed really, which is
 said to exist among these Ethiopians, and in addition to this to spy out
 all else, but pretending to be bearers of gifts for their king.
 
-18. Now the table of the Sun is said to be as follows:—there is a meadow
+## Chapter 18
+
+Now the table of the Sun is said to be as follows:—there is a meadow
 in the suburb of their city full of flesh-meat boiled of all four-footed
 creatures; and in this, it is said, those of the citizens who are in
 authority at the time place the flesh by night, managing the matter
@@ -8561,7 +9391,9 @@ carefully, and by day any man who wishes comes there and feasts himself;
 and the natives (it is reported) say that the earth of herself produces
 these things continually.
 
-19. Of such nature is the so-called table of the Sun said to be. So when
+## Chapter 19
+
+Of such nature is the so-called table of the Sun said to be. So when
 Cambyses had resolved to send the spies, forthwith he sent for those men
 of the Ichthyophagoi who understood the Ethiopian tongue, to come from
 the city of Elephantine: and while they were going to fetch these
@@ -8577,7 +9409,9 @@ and because the whole naval force was dependent upon the Phenicians. Now
 the men of Cyprus also had delivered themselves over to the Persians,
 and were joining in the expedition against Egypt.
 
-20. Then as soon as the Ichthyophagoi came to Cambyses from Elephantine,
+## Chapter 20
+
+Then as soon as the Ichthyophagoi came to Cambyses from Elephantine,
 he sent them to the Ethiopians, enjoining them what they should say and
 giving them gifts to bear with them, that is to say a purple garment,
 and a collar of twisted gold with bracelets, and an alabaster box of
@@ -8589,7 +9423,9 @@ regard to their regal power,—whomsoever of the men of their nation
 they judge to be the tallest and to have strength in proportion to his
 stature, this man they appoint to reign over them.
 
-21. So when the Ichthyophagoi had come to this people they presented
+## Chapter 21
+
+So when the Ichthyophagoi had come to this people they presented
 their gifts to the king who ruled over them, and at the same time they
 said as follows: "The king of the Persians Cambyses, desiring to become
 a friend and guest to thee, sent us with command to come to speech with
@@ -8610,7 +9446,9 @@ he should feel gratitude to the gods that they do not put it into the
 mind of the sons of the Ethiopians to acquire another land in addition
 to their own."
 
-22. Having thus said and having unbent the bow, he delivered it to those
+## Chapter 22
+
+Having thus said and having unbent the bow, he delivered it to those
 who had come. Then he took the garment of purple and asked what it was
 and how it had been made: and when the Ichthyophagoi had told him the
 truth about the purple-fish and the dyeing of the tissue, he said that
@@ -8634,7 +9472,9 @@ even so many years as this, if they did not renew their vigour with the
 drink, indicating to the Ichthyophagoi the wine; for in regard to this,
 he said, his people were much behind the Persians.
 
-23. Then when the Ichthyophagoi asked the king in return about the
+## Chapter 23
+
+Then when the Ichthyophagoi asked the king in return about the
 length of days and the manner of life of his people, he answered that
 the greater number of them reached the age of a hundred and twenty
 years, and some surpassed even this; and their food was boiled flesh
@@ -8653,7 +9493,9 @@ gold. Now among these Ethiopians bronze is the rarest and most precious
 of all things. Then when they had seen the prison-house they saw also
 the so-called table of the Sun:
 
-24, and after this they saw last of all their receptacles of dead
+## Chapter 24
+
+and after this they saw last of all their receptacles of dead
 bodies, which are said to be made of crystal in the following
 manner:—when they have dried the corpse, whether it be after the
 Egyptian fashion or in some other way, they cover it over completely
@@ -8668,7 +9510,9 @@ related to the man keep the block in their house, giving to the dead man
 the first share of everything and offering to him sacrifices: and after
 this period they carry it out and set it up round about the city.
 
-25. After they had seen all, the spies departed to go back; and when
+## Chapter 25
+
+After they had seen all, the spies departed to go back; and when
 they reported these things, forthwith Cambyses was enraged and proceeded
 to march his army against the Ethiopians, not having ordered any
 provision of food nor considered with himself that he was intending to
@@ -8697,7 +9541,9 @@ at Thebes having suffered loss of a great number of his army. Then from
 Thebes he came down to Memphis and allowed the Hellenes to sail away
 home.
 
-26. Thus fared the expedition against the Ethiopians: and those of the
+## Chapter 26
+
+Thus fared the expedition against the Ethiopians: and those of the
 Persians who had been sent to march against the Ammonians set forth
 from Thebes and went on their way with guides; and it is known that they
 arrived at the city of Oasis, which is inhabited by Samians said to
@@ -8716,7 +9562,9 @@ desert sand it buried them under it, and so they disappeared and were
 seen no more. Thus the Ammonians say that it came to pass with regard to
 this army.
 
-27. When Cambyses arrived at Memphis, Apis appeared to the Egyptians,
+## Chapter 27
+
+When Cambyses arrived at Memphis, Apis appeared to the Egyptians,
 whom the Hellenes call Epaphos: and when he had appeared, forthwith the
 Egyptians began to wear their fairest garments and to have festivities.
 Cambyses accordingly seeing the Egyptians doing thus, and supposing that
@@ -8730,7 +9578,9 @@ intervals of long time, and that whenever he appeared, then all the
 Egyptians rejoiced and kept festival. Hearing this Cambyses said that
 they were lying, and as liars he condemned them to death.
 
-28. Having put these to death, next he called the priests into his
+## Chapter 28
+
+Having put these to death, next he called the priests into his
 presence; and when the priests answered him after the same manner, he
 said that it should not be without his knowledge if a tame god had come
 to the Egyptians; and having so said he bade the priests bring Apis away
@@ -8743,7 +9593,9 @@ called Apis is black and has the following signs, namely a white square
 the tail the hairs are double, and on 24 the tongue there is a mark like
 a beetle.
 
-29. When the priests had brought Apis, Cambyses being somewhat affected
+## Chapter 29
+
+When the priests had brought Apis, Cambyses being somewhat affected
 with madness drew his dagger, and aiming at the belly of Apis, struck
 his thigh: then he laughed and said to the priests: "O ye wretched
 creatures, are gods born such as this, with blood and flesh, and
@@ -8756,7 +9608,9 @@ should find keeping the festival. Thus the festival of the Egyptians had
 been brought to an end, and the priests were being chastised, and Apis
 wounded by the stroke in his thigh lay dying in the temple.
 
-30. Him, when he had brought his life to an end by reason of the wound,
+## Chapter 30
+
+Him, when he had brought his life to an end by reason of the wound,
 the priests buried without the knowledge of Cambyses: but Cambyses, as
 the Egyptians say, immediately after this evil deed became absolutely
 mad, not having been really in his right senses even before that time:
@@ -8776,7 +9630,9 @@ with command to slay him. He accordingly went up to Susa and slew
 Smerdis; and some say that he took him out of the chase and so slew him,
 others that he brought him to the Erythraian Sea and drowned him.
 
-31. This they say was the first beginning of the evil deeds of Cambyses;
+## Chapter 31
+
+This they say was the first beginning of the evil deeds of Cambyses;
 and next after this he put to death his sister, who had accompanied
 him to Egypt, to whom also he was married, she being his sister by both
 parents. Now he took her to wife in the following manner (for
@@ -8801,7 +9657,9 @@ his sisters. So Cambyses at that time took to wife her with whom he was
 in love, but after no long time he took another sister. Of these it was
 the younger whom he put to death, she having accompanied him to Egypt.
 
-32. About her death, as about the death of Smerdis, two different
+## Chapter 32
+
+About her death, as about the death of Smerdis, two different
 stories are told. The Hellenes say that Cambyses had matched a lion's
 cub in fight with a dog's whelp, and this wife of his was also a
 spectator of it; and when the whelp was being overcome, another whelp,
@@ -8821,7 +9679,9 @@ leaves, and he said "when covered with leaves": she then spoke thus:
 thou didst strip bare the house of Cyrus." And he moved to anger leapt
 upon her, being with child, and she miscarried and died.
 
-33. These were the acts of madness done by Cambyses towards those of his
+## Chapter 33
+
+These were the acts of madness done by Cambyses towards those of his
 own family, whether the madness was produced really on account of Apis
 or from some other cause, as many ills are wont to seize upon men; for
 it is said moreover that Cambyses had from his birth a certain grievous
@@ -8829,7 +9689,9 @@ malady, that which is called by some the "sacred" disease: 26 and it
 was certainly nothing strange that when the body was suffering from a
 grievous malady, the mind should not be sound either.
 
-34. The following also are acts of madness which he did to the other
+## Chapter 34
+
+The following also are acts of madness which he did to the other
 Persians:—To Prexaspes, the man whom he honoured most and who used to
 bear his messages 2601 (his son also was cup-bearer to Cambyses, and
 this too was no small honour),—to him it is said that he spoke as
@@ -8852,7 +9714,9 @@ appear to be equal to thy father, for not yet hast thou a son such as
 he left behind him in you." Hearing this Cambyses was pleased, and
 commended the judgment of Croesus.
 
-35. So calling to mind this, he said in anger to Prexaspes: "Learn then
+## Chapter 35
+
+So calling to mind this, he said in anger to Prexaspes: "Learn then
 now for thyself whether the Persians speak truly, or whether when they
 say this they are themselves out of their senses: for if I, shooting at
 thy son there standing before the entrance of the chamber, hit him in
@@ -8873,7 +9737,9 @@ that time: and at another time he condemned twelve of the Persians, men
 equal to the best, on a charge of no moment, and buried them alive with
 the head downwards.
 
-36. When he was doing these things, Croesus the Lydian judged it right
+## Chapter 36
+
+When he was doing these things, Croesus the Lydian judged it right
 to admonish him in the following words: "O king, do not thou indulge the
 heat of thy youth and passion in all things, but retain and hold thyself
 back: it is a good thing to be prudent, and forethought is wise. Thou
@@ -8904,7 +9770,9 @@ said that he rejoiced with Croesus that he was still alive, but that
 they who had preserved him should not get off free, but he would put
 them to death: and thus he did.
 
-37. Many such acts of madness did he both to Persians and allies,
+## Chapter 37
+
+Many such acts of madness did he both to Persians and allies,
 remaining at Memphis and opening ancient tombs and examining the dead
 bodies. Likewise also he entered into the temple of Hephaistos and very
 much derided the image of the god: for the image of Hephaistos very
@@ -8917,7 +9785,9 @@ he even set on fire, after much mockery of them. Now these also are like
 the images of Hephaistos, and it is said that they are the children of
 that god.
 
-38. It is clear to me therefore by every kind of proof that Cambyses
+## Chapter 38
+
+It is clear to me therefore by every kind of proof that Cambyses
 was mad exceedingly; for otherwise he would not have attempted to deride
 religious rites and customary observances. For if one should propose
 to all men a choice, bidding them select the best customs from all the
@@ -8939,7 +9809,9 @@ keep silence from such words. Thus then these things are established by
 usage, and I think that Pindar spoke rightly in his verse, when he said
 that "of all things law is king." 28
 
-39. Now while Cambyses was marching upon Egypt, the Lacedemonians also
+## Chapter 39
+
+Now while Cambyses was marching upon Egypt, the Lacedemonians also
 had made an expedition against Samos and against Polycrates the son
 of Aiakes, who had risen against the government and obtained rule over
 Samos. At first he had divided the State into three parts and had given
@@ -8962,7 +9834,9 @@ they were coming to help the Milesians with their forces, and conquered
 them: these men dug the whole trench round the wall of the city of Samos
 working in chains.
 
-40. Now Amasis, as may be supposed, did not fail to perceive that
+## Chapter 40
+
+Now Amasis, as may be supposed, did not fail to perceive that
 Polycrates was very greatly fortunate, and 31 it was to him an object
 of concern; and as much more good fortune yet continued to come to
 Polycrates, he wrote upon a paper these words and sent them to Samos:
@@ -8983,7 +9857,9 @@ that it shall never again come to the sight of men; and if in future
 from that time forward good fortune does not befall thee in alternation
 with calamities, 34 apply remedies in the manner by me suggested."
 
-41. Polycrates, having read this and having perceived by reflection that
+## Chapter 41
+
+Polycrates, having read this and having perceived by reflection that
 Amasis suggested to him good counsel, sought to find which one of his
 treasures he would be most afflicted in his soul to lose; and seeking
 he found this which I shall say:—he had a signet which he used to wear,
@@ -8996,7 +9872,9 @@ island, he took off the signet-ring, and in the sight of all who were
 with him in the ship he threw it into the sea. Thus having done he
 sailed home; and when he came to his house he mourned for his loss.
 
-42. But on the fifth or sixth day after these things it happened to
+## Chapter 42
+
+But on the fifth or sixth day after these things it happened to
 him as follows:—a fisherman having caught a large and beautiful fish,
 thought it right that this should be given as a gift to Polycrates. He
 bore it therefore to the door of the palace and said that he desired to
@@ -9017,7 +9895,9 @@ the matter was of God, wrote upon paper all that he had done and all
 that had happened to him, and having written he despatched it to Egypt.
 36
 
-43. Then Amasis, when he had read the paper which had come from
+## Chapter 43
+
+Then Amasis, when he had read the paper which had come from
 Polycrates, perceived that it was impossible for man to rescue man from
 the event which was to come to pass, and that Polycrates was destined
 not to have a good end, being prosperous in all things, seeing that he
@@ -9026,7 +9906,9 @@ him in Samos and said that he broke off the guest-friendship; and this
 he did lest when a fearful and great mishap befell Polycrates, he might
 himself be grieved in his soul as for a man who was his guest.
 
-44. It was this Polycrates then, prosperous in all things, against whom
+## Chapter 44
+
+It was this Polycrates then, prosperous in all things, against whom
 the Lacedemonians were making an expedition, being invited by those
 Samians who afterwards settled at Kydonia in Crete, to come to their
 assistance. Now Polycrates had sent an envoy to Cambyses the son of
@@ -9038,7 +9920,9 @@ and Polycrates selected of the citizens those whom he most suspected
 of desiring to rise against him and sent them away in forty triremes,
 charging Cambyses not to send them back.
 
-45. Now some say that those of the Samians who were sent away by
+## Chapter 45
+
+Now some say that those of the Samians who were sent away by
 Polycrates never reached Egypt, but when they arrived on their voyage at
 Carpathos, 37 they considered with themselves, and resolved not to sail
 on any further: others say that they reached Egypt and being kept under
@@ -9058,7 +9942,9 @@ wives of his subjects and confined them in the ship-sheds, keeping them
 ready so that, if it should prove that his subjects deserted to the side
 of the returning exiles, he might burn them with the sheds.
 
-46. When those of the Samians who had been driven out by Polycrates
+## Chapter 46
+
+When those of the Samians who had been driven out by Polycrates
 reached Sparta, they were introduced before the magistrates and spoke
 at length, being urgent in their request. The magistrates however at the
 first introduction replied that they had forgotten the things which had
@@ -9068,7 +9954,9 @@ bringing with them a bag they said nothing else but this, namely that
 the bag was in want of meal; to which the others replied that they had
 overdone it with the bag. 38 However, they resolved to help them.
 
-47. Then the Lacedemonians prepared a force and made expedition to
+## Chapter 47
+
+Then the Lacedemonians prepared a force and made expedition to
 Samos, in repayment of former services, as the Samians say, because the
 Samians had first helped them with ships against the Messenians; but the
 Lacedemonians say that they made the expedition not so much from desire
@@ -9083,7 +9971,9 @@ itself fine it has in it three hundred and sixty fibres, all plain to
 view. Such another as this moreover is that which Amasis dedicated as an
 offering to Athene at Lindos.
 
-48. The Corinthians also took part with zeal in this expedition against
+## Chapter 48
+
+The Corinthians also took part with zeal in this expedition against
 Samos, that it might be carried out; for there had been an offence
 perpetrated against them also by the Samians a generation before 40 the
 time of this expedition and about the same time as the robbery of the
@@ -9104,14 +9994,18 @@ this went on so long that at last the Corinthians who had charge of the
 boys departed and went away; and as for the boys, the Samians carried
 them back to Corcyra.
 
-49. Now, if after the death of Periander the Corinthians had been on
+## Chapter 49
+
+Now, if after the death of Periander the Corinthians had been on
 friendly terms with the Corcyreans, they would not have joined in the
 expedition against Samos for the cause which has been mentioned; but as
 it is, they have been ever at variance with one another since they first
 colonised the island. 41 This then was the cause why the Corinthians had
 a grudge against the Samians.
 
-50. Now Periander had chosen out the sons of the chief men of Corcyra
+## Chapter 50
+
+Now Periander had chosen out the sons of the chief men of Corcyra
 and was sending them to Sardis to be made eunuchs, in order that he
 might have revenge; since the Corcyreans had first begun the offence and
 had done to him a deed of reckless wrong. For after Periander had killed
@@ -9130,7 +10024,9 @@ his father would have conversed with him, nor give any reply when he
 asked questions, regarding him as the murderer of his mother. At length
 Periander being enraged with his son drove him forth out of his house.
 
-51. And having driven him forth, he asked of the elder son what his
+## Chapter 51
+
+And having driven him forth, he asked of the elder son what his
 mother's father had said to them in his conversation. He then related
 how Procles had received them in a kindly manner, but of the saying
 which he had uttered when he parted from them he had no remembrance,
@@ -9147,7 +10043,9 @@ driven away again he would go to another house, where persons lived who
 were his friends, and they perhaps received him because he was the son
 of Periander, notwithstanding that they feared.
 
-52. At last Periander made a proclamation that whosoever should either
+## Chapter 52
+
+At last Periander made a proclamation that whosoever should either
 receive him into their houses or converse with him should be bound
 to pay a fine 43 to Apollo, stating the amount that it should be.
 Accordingly, by reason of this proclamation no one was willing either to
@@ -9179,7 +10077,9 @@ against his father-in-law Procles, esteeming him most to blame for the
 condition in which he was; and he took Epidauros and took also Procles
 himself and made him a prisoner.
 
-53. When however, as time went on, Periander had passed his prime and
+## Chapter 53
+
+When however, as time went on, Periander had passed his prime and
 perceived within himself that he was no longer able to overlook and
 manage the government of the State, he sent to Corcyra and summoned
 Lycophron to come back and take the supreme power; for in the elder of
@@ -9210,7 +10110,9 @@ learnt all that had taken place, put the young man to death, in order
 that Periander might not come to their land. For this cause it was that
 Periander took vengeance on those of Corcyra.
 
-54. The Lacedemonians then had come with a great armament and were
+## Chapter 54
+
+The Lacedemonians then had come with a great armament and were
 besieging Samos; and having made an attack upon the wall, they occupied
 the tower which stands by the sea in the suburb of the city, but
 afterwards when Polycrates came up to the rescue with a large body they
@@ -9220,7 +10122,9 @@ mercenaries and many of the Samians themselves, and these stood their
 ground against the Lacedemonians for a short while and then began to fly
 backwards; and the Lacedemonians followed and were slaying them.
 
-55. Now if the Lacedemonians there present had all been equal on that
+## Chapter 55
+
+Now if the Lacedemonians there present had all been equal on that
 day to Archias and Lycopas, Samos would have been captured; for Archias
 and Lycopas alone rushed within the wall together with the flying
 Samians, and being shut off from retreat were slain within the city of
@@ -9232,7 +10136,9 @@ had been called Samios because his father Archias had died by a glorious
 death in Samos; and he said that he honoured Samians because his
 grandfather had been granted a public funeral by the Samians.
 
-56. The Lacedemonians then, when they had been besieging Samos for
+## Chapter 56
+
+The Lacedemonians then, when they had been besieging Samos for
 forty days and their affairs made no progress, set forth to return to
 Peloponnesus. But according to the less credible account which has been
 put abroad of these matters Polycrates struck in lead a quantity of a
@@ -9241,7 +10147,9 @@ Lacedemonians, and they received them and upon that set forth to depart.
 This was the first expedition which the Lacedemonians (being Dorians)
 4601 made into Asia.
 
-57. Those of the Samians who had made the expedition against Polycrates
+## Chapter 57
+
+Those of the Samians who had made the expedition against Polycrates
 themselves also sailed away, when the Lacedemonians were about to desert
 them, and came to Siphnos: for they were in want of money, and the
 people of Siphnos were then at their greatest height of prosperity and
@@ -9263,7 +10171,9 @@ Pythian prophetess gave them this reply:
 Now just at that time the market-place and city hall of the Siphnians
 had been decorated with Parian marble.
 
-58. This oracle they were not able to understand either then at first or
+## Chapter 58
+
+This oracle they were not able to understand either then at first or
 when the Samians had arrived: for as soon as the Samians were putting in
 50 to Siphnos they sent one of their ships to bear envoys to the city:
 now in old times all ships were painted with red, and this was that
@@ -9277,7 +10187,9 @@ were defeated, and many of them were cut off by the Samians and shut out
 of the city; and the Samians after this imposed upon them a payment of a
 hundred talents.
 
-59. Then from the men of Hermion they received by payment of money the
+## Chapter 59
+
+Then from the men of Hermion they received by payment of money the
 island of Hydrea, which is near the coast of Peloponnese, and they gave
 it in charge to the Troizenians, but they themselves settled at Kydonia
 which is in Crete, not sailing thither for that purpose but in order
@@ -9293,7 +10205,9 @@ made expedition against Egina, when Amphicrates was king in Samos, and
 had done much hurt to the Eginetans and suffered much hurt also from
 them. Such was the cause of this event:
 
-60, and about the Samians I have spoken at greater length, because they
+## Chapter 60
+
+and about the Samians I have spoken at greater length, because they
 have three works which are greater than any others that have been made
 by Hellenes: first a passage beginning from below and open at both ends,
 dug through a mountain not less than a hundred and fifty fathoms 52 in
@@ -9310,7 +10224,9 @@ temple larger than all the other temples of which we know. Of this the
 first designer was Rhoicos the son of Philes, a native of Samos. For
 this reason I have spoken at greater length of the Samians.
 
-61. Now while Cambyses the son of Cyrus was spending a long time in
+## Chapter 61
+
+Now while Cambyses the son of Cyrus was spending a long time in
 Egypt and had gone out of his right mind, there rose up against him two
 brothers, Magians, of whom the one had been left behind by Cambyses
 as caretaker of his household. This man, I say, rose up against him
@@ -9329,7 +10245,9 @@ the various provinces, and among others one to the army in Egypt, to
 proclaim to them that they must obey Smerdis the son of Cyrus for the
 future instead of Cambyses.
 
-62. So then the other heralds made this proclamation, and also the
+## Chapter 62
+
+So then the other heralds made this proclamation, and also the
 one who was appointed to go to Egypt, finding Cambyses and his army at
 Agbatana in Syria, stood in the midst and began to proclaim that which
 had been commanded to him by the Magian. Hearing this from the herald,
@@ -9349,7 +10267,9 @@ therefore I think it well that some should pursue after the herald and
 examine him, asking from whom he has come to proclaim to us that we are
 to obey Smerdis as king."
 
-63. When Prexaspes had thus spoken, Cambyses was pleased with the
+## Chapter 63
+
+When Prexaspes had thus spoken, Cambyses was pleased with the
 advice, and accordingly the herald was pursued forthwith and returned.
 Then when he had come back, Prexaspes asked him as follows: "Man, thou
 sayest that thou art come as a messenger from Smerdis the son of Cyrus:
@@ -9369,7 +10289,9 @@ of this which has come to pass: the Magians have risen against thee,
 Patizeithes namely, whom thou didst leave as caretaker of thy household,
 and his brother Smerdis."
 
-64. Then Cambyses, when he heard the name of Smerdis, perceived at once
+## Chapter 64
+
+Then Cambyses, when he heard the name of Smerdis, perceived at once
 the true meaning of this report and of the dream, for he thought in his
 sleep that some one had reported to him that Smerdis was sitting
 upon the royal throne and had touched the heaven with his head: and
@@ -9392,7 +10314,9 @@ the wound, he came to his right mind, and understanding the meaning of
 the oracle he said: "Here it is fated that Cambyses the son of Cyrus
 shall end his life."
 
-65. So much only he said at that time; but about twenty days afterwards
+## Chapter 65
+
+So much only he said at that time; but about twenty days afterwards
 he sent for the most honourable of the Persians who were with him, and
 said to them as follows: "Persians, it has become necessary for me to
 make known to you the thing which I was wont to keep concealed beyond
@@ -9435,7 +10359,9 @@ that which has come upon me." Then as soon as he had finished speaking
 these things, Cambyses began to bewail and make lamentation for all his
 fortunes.
 
-66. And the Persians, when they saw that the king had begun to bewail
+## Chapter 66
+
+And the Persians, when they saw that the king had begun to bewail
 himself, both rent the garments which they wore and made lamentation
 without stint. After this, when the bone had become diseased and the
 thigh had mortified, Cambyses the son of Cyrus was carried off by the
@@ -9451,7 +10377,9 @@ very strongly denied that he had slain Smerdis, since it was not safe,
 now that Cambyses was dead, for him to say that he had destroyed with
 his own hand the son of Cyrus.
 
-67. Thus when Cambyses had brought his life to an end, the Magian became
+## Chapter 67
+
+Thus when Cambyses had brought his life to an end, the Magian became
 king without disturbance, usurping the place of his namesake Smerdis the
 son of Cyrus; and he reigned during the seven months which were wanting
 yet to Cambyses for the completion of the eight years: and during them
@@ -9461,7 +10389,9 @@ his loss: for the Magian sent messengers abroad to every nation over
 which he ruled, and proclaimed freedom from military service and from
 tribute for three years.
 
-68. This proclamation, I say, he made at once when he established
+## Chapter 68
+
+This proclamation, I say, he made at once when he established
 himself upon the throne: but in the eighth month it was discovered
 who he was in the following manner:—There was one Otanes the son of
 Pharnaspes, in birth and in wealth not inferior to any of the Persians.
@@ -9483,7 +10413,9 @@ Smerdis the son of Cyrus, then do thou ask of Atossa who this man is,
 with whom both she and thou live as wives; for assuredly it must be that
 she knows her own brother."
 
-69. To this the daughter sent back word: "I am not able either to come
+## Chapter 69
+
+To this the daughter sent back word: "I am not able either to come
 to speech with Atossa or to see any other of the women who live here
 with me; for as soon as this man, whosoever he may be, succeeded to
 the kingdom, he separated us and placed us in different apartments by
@@ -9512,7 +10444,9 @@ Magian was in deep sleep, she felt his ears; and perceiving not with
 difficulty but easily that her husband had no ears, so soon as it became
 day she sent and informed her father of that which had taken place.
 
-70. Then Otanes took to him Aspathines and Gobryas, 59 who were leading
+## Chapter 70
+
+Then Otanes took to him Aspathines and Gobryas, 59 who were leading
 men among the Persians and also his own most trusted friends, and
 related to them the whole matter: and they, as it then appeared, had
 suspicions also themselves that it was so; and when Otanes reported this
@@ -9525,7 +10459,9 @@ Susa, having come from the land of Persia, for of this his father was
 governor. Accordingly when he came, the six men of the Persians resolved
 to associate Dareios also with themselves.
 
-71. These then having come together, being seven in number, gave pledges
+## Chapter 71
+
+These then having come together, being seven in number, gave pledges
 of faith to one another and deliberated together; and when it came to
 Dareios to declare his opinion, he spoke to them as follows: "I thought
 that I alone knew this, namely that it was the Magian who was reigning
@@ -9548,7 +10484,9 @@ it to me, either let us do the deed to-day, or be ye assured that if
 this present day shall pass by, none other shall prevent me 61 as your
 accuser, but I will myself tell these things to the Magian."
 
-72. To this Otanes, when he saw Dareios in violent haste, replied:
+## Chapter 72
+
+To this Otanes, when he saw Dareios in violent haste, replied:
 "Since thou dost compel us to hasten the matter and dost not permit us
 to delay, come expound to us thyself in what manner we shall pass into
 the palace and lay hands upon them: for that there are guards set in
@@ -9578,7 +10516,9 @@ be the better afterwards; but whosoever shall endeavour to oppose our
 passage, let him then and there be marked as our enemy, 63 and after
 that let us push in and set about our work."
 
-73. Then said Gobryas: "Friends, at what time will there be a fairer
+## Chapter 73
+
+Then said Gobryas: "Friends, at what time will there be a fairer
 opportunity for us either to recover our rule, or, if we are not able to
 get it again, to die? seeing that we being Persians on the one hand lie
 under the rule of a Mede, a Magian, and that too a man whose ears
@@ -9591,7 +10531,9 @@ I give my vote that we follow the opinion of Dareios, and that we do not
 depart from this assembly to go anywhither else but straight to attack
 the Magian." Thus spoke Gobryas, and they all approved of this proposal.
 
-74. Now while these were thus taking counsel together, it was coming to
+## Chapter 74
+
+Now while these were thus taking counsel together, it was coming to
 pass by coincidence as follows:—The Magians taking counsel together had
 resolved to join Prexaspes with themselves as a friend, both because
 he had suffered grievous wrong from Cambyses, who had killed his son by
@@ -9612,7 +10554,9 @@ son of Cyrus and no other. This they so enjoined because they supposed
 had frequently declared the opinion that Smerdis the son of Cyrus was
 still alive, and had denied that he had slain him.
 
-75. When Prexaspes said that he was ready to do this also, the Magians
+## Chapter 75
+
+When Prexaspes said that he was ready to do this also, the Magians
 having called together the Persians caused him to go up upon a tower and
 bade him address them. Then he chose to forget those things which they
 asked of him, and beginning with Achaimenes he traced the descent of
@@ -9629,7 +10573,9 @@ vengeance upon the Magians, and upon that he let himself fall down from
 the tower head foremost. Thus Prexaspes ended his life, having been
 throughout his time a man of repute.
 
-76. Now the seven of the Persians, when they had resolved forthwith to
+## Chapter 76
+
+Now the seven of the Persians, when they had resolved forthwith to
 lay hands upon the Magians and not to delay, made prayer to the gods
 and went, knowing nothing of that which had been done with regard
 to Prexaspes: and as they were going and were in the middle of their
@@ -9644,7 +10590,9 @@ their feathers and tearing them. Seeing this the seven all approved
 the opinion of Dareios and thereupon they went to the king's palace,
 encouraged by the sight of the birds.
 
-77. When they appeared at the gates, it happened nearly as Dareios
+## Chapter 77
+
+When they appeared at the gates, it happened nearly as Dareios
 supposed, for the guards, having respect for men who were chief among
 the Persians, and not suspecting that anything would be done by them of
 the kind proposed, allowed them to pass in under the guiding of heaven,
@@ -9657,7 +10605,9 @@ go forward. Then they gave the word to one another and drawing their
 daggers stabbed these men there upon the spot, who tried to stop them,
 and themselves went running on towards the chamber of the men. 6601
 
-78. Now the Magians happened both of them to be there within, consulting
+## Chapter 78
+
+Now the Magians happened both of them to be there within, consulting
 about that which had been done by Prexaspes. So when they saw that the
 eunuchs had been attacked and were crying aloud, they ran back 67
 both of them, and perceiving that which was being done they turned to
@@ -9680,7 +10630,9 @@ I am afraid lest I may strike thee": and Gobryas answered: "Thrust
 with thy sword even though it stab through us both." So Dareios was
 persuaded, and he thrust with his danger and happened to hit the Magian.
 
-79. So when they had slain the Magians and cut off their heads, they
+## Chapter 79
+
+So when they had slain the Magians and cut off their heads, they
 left behind those of their number who were wounded, both because they
 were unable to go, and also in order that they might take charge of the
 fortress, and the five others taking with them the heads of the Magians
@@ -9698,7 +10650,9 @@ by the Persians the festival of the slaughter of the Magians, 6701 on
 which no Magian is permitted to appear abroad, but the Magians keep
 themselves within their houses throughout that day.
 
-80. When the tumult had subsided and more than five days had elapsed, 68
+## Chapter 80
+
+When the tumult had subsided and more than five days had elapsed, 68
 those who had risen against the Magians began to take counsel about the
 general state, and there were spoken speeches which some of the Hellenes
 do not believe were really uttered, but spoken they were nevertheless.
@@ -9736,7 +10690,9 @@ the public assembly. I therefore give as my opinion that we let monarchy
 go and increase the power of the multitude; for in the many is contained
 everything."
 
-81. This was the opinion expressed by Otanes; but Megabyzos urged that
+## Chapter 81
+
+This was the opinion expressed by Otanes; but Megabyzos urged that
 they should entrust matters to the rule of a few, saying these words:
 "That which Otanes said in opposition to a tyranny, let it be counted as
 said for me also, but in that which he said urging that we should make
@@ -9753,7 +10709,9 @@ let us choose a company of the best men, and to them attach the chief
 power; for in the number of these we shall ourselves also be, and it is
 likely that the resolutions taken by the best men will be the best."
 
-82. This was the opinion expressed by Megabyzos; and thirdly Dareios
+## Chapter 82
+
+This was the opinion expressed by Megabyzos; and thirdly Dareios
 proceeded to declare his opinion, saying: "To me it seems that in
 those things which Megabyzos said with regard to the multitude he spoke
 rightly, but in those which he said with regard to the rule of a few,
@@ -9788,7 +10746,9 @@ that form of rule, and in other respects also that we should not annul
 the customs of our fathers which are ordered well; for that is not the
 better way."
 
-83. These three opinions then had been proposed, and the other four
+## Chapter 83
+
+These three opinions then had been proposed, and the other four
 men of the seven gave their assent to the last. So when Otanes, who was
 desirous to give equality to the Persians, found his opinion defeated,
 he spoke to those assembled thus: "Partisans, it is clear that some
@@ -9804,7 +10764,9 @@ from the assembly; and at the present time this house remains free alone
 of all the Persian houses, and submits to rule only so far as it wills
 to do so itself, not transgressing the laws of the Persians.
 
-84. The rest however of the seven continued to deliberate how they
+## Chapter 84
+
+The rest however of the seven continued to deliberate how they
 should establish a king in the most just manner; and it was resolved by
 them that to Otanes and his descendants in succession, if the kingdom
 should come to any other of the seven, there should be given as special
@@ -9822,7 +10784,9 @@ this, namely that the man whose horse should first neigh at sunrise
 in the suburb of the city when they were mounted upon their horses, he
 should have the kingdom.
 
-85. Now Dareios had a clever horse-keeper, whose name was Oibares. To
+## Chapter 85
+
+Now Dareios had a clever horse-keeper, whose name was Oibares. To
 this man, when they had left their assembly, Dareios spoke these words:
 "Oibares, we have resolved to do about the kingdom thus, namely that the
 man whose horse first neighs at sunrise, when we are mounted upon our
@@ -9840,7 +10804,9 @@ tied her up: then he brought to her the horse of Dareios, and having for
 some time led him round her, making him go so close by so as to touch
 the mare, at last he let the horse mount.
 
-86. Now at dawn of day the six came to the place as they had agreed,
+## Chapter 86
+
+Now at dawn of day the six came to the place as they had agreed,
 riding upon their horses; and as they rode through by the suburb of the
 city, when they came near the place where the mare had been tied up on
 the former night, the horse of Dareios ran up to the place and neighed;
@@ -9850,7 +10816,9 @@ consummated his claim, for they seemed to have come to pass by some
 design, and the others leapt down from their horses and did obeisance to
 Dareios.
 
-87. Some say that the contrivance of Oibares was this, but others say
+## Chapter 87
+
+Some say that the contrivance of Oibares was this, but others say
 as follows (for the story is told by the Persians in both ways), namely
 that he touched with his hands the parts of this mare and kept his hand
 hidden in his trousers; and when at sunrise they were about to let
@@ -9858,7 +10826,9 @@ the horses go, this Oibares pulled out his hand and applied it to the
 nostrils of the horse of Dareios; and the horse, perceiving the smell,
 snorted and neighed.
 
-88. So Dareios the son of Hystaspes had been declared king; and in Asia
+## Chapter 88
+
+So Dareios the son of Hystaspes had been declared king; and in Asia
 all except the Arabians were his subjects, having been subdued by
 Cyrus and again afterwards by Cambyses. The Arabians however were never
 obedient to the Persians under conditions of subjection, but had become
@@ -9877,7 +10847,9 @@ horseback, and he wrote upon it writing to this effect: "Dareios son of
 Hystaspes by the excellence of his horse," mentioning the name of it,
 "and of his horse-keeper Oibares obtained the kingdom of the Persians."
 
-89. Having so done in Persia, he established twenty provinces, which the
+## Chapter 89
+
+Having so done in Persia, he established twenty provinces, which the
 Persians themselves call satrapies; and having established the provinces
 and set over them rulers, he appointed tribute to come to him from them
 according to races, joining also to the chief races those who dwelt on
@@ -9895,7 +10867,9 @@ one because he dealt with all his affairs like a shopkeeper, the second
 because he was harsh and had little regard for any one, and the other
 because he was gentle and contrived for them all things good.
 
-90. From the Ionians and the Magnesians who dwell in Asia and the
+## Chapter 90
+
+From the Ionians and the Magnesians who dwell in Asia and the
 Aiolians, Carians, Lykians, Milyans and Pamphylians (for one single
 sum was appointed by him as tribute for all these) there came in four
 hundred talents of silver. This was appointed by him to be the first
@@ -9911,7 +10885,9 @@ these one hundred and forty talents were spent upon the horsemen which
 served as a guard to the Kilikian land, and the remaining three hundred
 and sixty came in year by year to Dareios: this is the fourth division.
 
-91. From that division which begins with the city of Posideion, founded
+## Chapter 91
+
+From that division which begins with the city of Posideion, founded
 by Amphilochos the son of Amphiaraos on the borders of the Kilikians and
 the Syrians, and extends as far as Egypt, not including the territory
 of the Arabians (for this was free from payment), the amount was
@@ -9932,7 +10908,9 @@ and seventy talents: this is the seventh division. From Susa and the
 rest of the land of the Kissians there came in three hundred: this is
 the eighth division.
 
-92. From Babylon and from the rest of Assyria there came in to him a
+## Chapter 92
+
+From Babylon and from the rest of Assyria there came in to him a
 thousand talents of silver and five hundred boys for eunuchs: this is
 the ninth division. From Agbatana and from the rest of Media and the
 Paricanians and Orthocorybantians, four hundred and fifty talents: this
@@ -9942,7 +10920,9 @@ is the eleventh division. From the Bactrians as far as the Aigloi
 the tribute was three hundred and sixty talents: this is the twelfth
 division.
 
-93. From Pactyïke and the Armenians and the people bordering upon them
+## Chapter 93
+
+From Pactyïke and the Armenians and the people bordering upon them
 as far as the Euxine, four hundred talents: this is the thirteenth
 division. From the Sagartians and Sarangians and Thamanaians and Utians
 and Mycans and those who dwell in the islands of the Erythraian Sea,
@@ -9953,7 +10933,9 @@ hundred and fifty talents: this is the fifteenth division. The Parthians
 and Chorasmians and Sogdians and Areians three hundred talents: this is
 the sixteenth division.
 
-94. The Paricanians and Ethiopians in Asia brought in four hundred
+## Chapter 94
+
+The Paricanians and Ethiopians in Asia brought in four hundred
 talents: this is the seventeenth division. To the Matienians and
 Saspeirians and Alarodians was appointed a tribute of two hundred
 talents: this is the eighteenth division. To the Moschoi and Tibarenians
@@ -9963,7 +10945,9 @@ far greater than that of any other race of men of whom we know; and
 they brought in a tribute larger than all the rest, that is to say three
 hundred and sixty talents of gold-dust: this is the twentieth division.
 
-95. Now if we compare Babylonian with Euboïc talents, the silver is
+## Chapter 95
+
+Now if we compare Babylonian with Euboïc talents, the silver is
 found to amount to nine thousand eight hundred and eighty 82 talents;
 and if we reckon the gold at thirteen times the value of silver, weight
 for weight, the gold-dust is found to amount to four thousand six
@@ -9972,7 +10956,9 @@ the total which was collected as yearly tribute for Dareios amounts to
 fourteen thousand five hundred and sixty Euboïc talents: the sums which
 are less than these 83 I pass over and do not mention.
 
-96. This was the tribute which came in to Dareios from Asia and from
+## Chapter 96
+
+This was the tribute which came in to Dareios from Asia and from
 a small part of Libya: but as time went on, other tribute came in also
 from the islands and from those who dwell in Europe as far as Thessaly.
 This tribute the king stores up in his treasury in the following
@@ -9981,7 +10967,9 @@ he has filled the jars he takes off the earthenware jar from the
 metal; and when he wants money he cuts off so much as he needs on each
 occasion.
 
-97. These were the provinces and the assessments of tribute: and
+## Chapter 97
+
+These were the provinces and the assessments of tribute: and
 the Persian land alone has not been mentioned by me as paying a
 contribution, for the Persians have their land to dwell in free from
 payment. The following moreover had no tribute fixed for them to pay,
@@ -10004,7 +10992,9 @@ say, a hundred boys and a hundred maidens. Finally, the Arabians brought
 a thousand talents of frankincense every year. Such were the gifts which
 these brought to the king apart from the tribute.
 
-98. Now this great quantity of gold, out of which the Indians bring in
+## Chapter 98
+
+Now this great quantity of gold, out of which the Indians bring in
 to the king the gold-dust which has been mentioned, is obtained by them
 in a manner which I shall tell:—That part of the Indian land which is
 towards the rising sun is sand; for of all the peoples in Asia of which
@@ -10019,7 +11009,9 @@ joint of cane. These Indians of which I speak wear clothing made of
 rushes: they gather and cut the rushes from the river and then weave
 them together into a kind of mat and put it on like a corslet.
 
-99. Others of the Indians, dwelling to the East of these, are pastoral
+## Chapter 99
+
+Others of the Indians, dwelling to the East of these, are pastoral
 and eat raw flesh: these are called Padaians, and they practise the
 following customs:—whenever any of their tribe falls ill, whether it be
 a woman or a man, if a man then the men who are his nearest associates
@@ -10033,7 +11025,9 @@ man has come to old age they slay him and feast upon him; but very few
 of them come to be reckoned as old, for they kill every one who falls
 into sickness, before he reaches old age.
 
-100. Other Indians have on the contrary a manner of life as
+## Chapter 100
+
+Other Indians have on the contrary a manner of life as
 follows:—they neither kill any living thing nor do they sow any crops
 nor is it their custom to possess houses; but they feed on herbs, and
 they have a grain of the size of millet, in a sheath, which grows of
@@ -10042,7 +11036,9 @@ make it their food: and whenever any of them falls into sickness, he
 goes to the desert country and lies there, and none of them pay any
 attention either to one who is dead or to one who is sick.
 
-101. The sexual intercourse of all these Indians of whom I have spoken
+## Chapter 101
+
+The sexual intercourse of all these Indians of whom I have spoken
 is open like that of cattle, and they have all one colour of skin,
 resembling that of the Ethiopians: moreover the seed which they emit is
 not white like that of other races, but black like their skin; and the
@@ -10050,7 +11046,9 @@ Ethiopians also are similar in this respect. These tribes of Indians
 dwell further off than the Persian power extends, and towards the South
 Wind, and they never became subjects of Dareios.
 
-102. Others however of the Indians are on the borders of the city of
+## Chapter 102
+
+Others however of the Indians are on the borders of the city of
 Caspatyros and the country of Pactyïke, dwelling towards the North 91 of
 the other Indians; and they have a manner of living nearly the same as
 that of the Bactrians: these are the most warlike of the Indians, and
@@ -10070,13 +11068,17 @@ taken to be yoked from young ones, the more lately born the better. For
 their female camels are not inferior to horses in speed, and moreover
 they are much more capable of bearing weights.
 
-103. As to the form of the camel, I do not here describe it, since the
+## Chapter 103
+
+As to the form of the camel, I do not here describe it, since the
 Hellenes for whom I write are already acquainted with it, but I shall
 tell that which is not commonly known about it, which is this:—the camel
 has in the hind legs four thighs and four knees, 94 and its organs of
 generation are between the hind legs, turned towards the tail.
 
-104. The Indians, I say, ride out to get the gold in the manner and with
+## Chapter 104
+
+The Indians, I say, ride out to get the gold in the manner and with
 the kind of yoking which I have described, making calculations so that
 they may be engaged in carrying it off at the time when the greatest
 heat prevails; for the heat causes the ants to disappear underground.
@@ -10090,7 +11092,9 @@ morning sun with other men, and after this, as it goes further away, it
 produces still greater coolness, until at last at sunset it makes the
 air very cool indeed.
 
-105. When the Indians have come to the place with bags, they fill them
+## Chapter 105
+
+When the Indians have come to the place with bags, they fill them
 with the sand and ride away back as quickly as they can, for forthwith
 the ants, perceiving, as the Persians allege, by the smell, begin to
 pursue them: and this animal, they say, is superior to every other
@@ -10104,7 +11108,9 @@ in their course. 97 Thus it is that the Indians get most part of the
 gold, as the Persians say; there is however other gold also in their
 land obtained by digging, but in smaller quantities.
 
-106. It seems indeed that the extremities of the inhabited world had
+## Chapter 106
+
+It seems indeed that the extremities of the inhabited world had
 allotted to them by nature the fairest things, just as it was the lot
 of Hellas to have its seasons far more fairly tempered than other lands:
 for first, India is the most distant of inhabited lands towards the
@@ -10117,7 +11123,9 @@ explained just now: and there also the trees which grow wild produce
 wool which surpasses in beauty and excellence that from sheep, and the
 Indians wear clothing obtained from these trees.
 
-107. Then again Arabia is the furthest of inhabited lands in the
+## Chapter 107
+
+Then again Arabia is the furthest of inhabited lands in the
 direction of the midday, and in it alone of all lands grow frankincense
 and myrrh and cassia and cinnamon and gum-mastich. All these except
 myrrh are got with difficulty by the Arabians. Frankincense they collect
@@ -10129,7 +11137,9 @@ numbers about each tree, of the same kind as those which attempt to
 invade Egypt: 9701 and they cannot be driven away from the trees by any
 other thing but only the smoke of storax.
 
-108. The Arabians say also that all the world would have been by this
+## Chapter 108
+
+The Arabians say also that all the world would have been by this
 time filled with these serpents, if that did not happen with regard to
 them which I knew happened with regard to vipers: and it seems that the
 Divine Providence, as indeed was to be expected, seeing that it is wise,
@@ -10151,7 +11161,9 @@ womb, and as he grows larger he proceeds much further in his scratching:
 at last the time of birth approaches and there is now nothing at all
 left of it in a sound condition.
 
-109. Just so also, if vipers and the winged serpents of the Arabians
+## Chapter 109
+
+Just so also, if vipers and the winged serpents of the Arabians
 were produced in the ordinary course of their nature, man would not be
 able to live upon the earth; but as it is, when they couple with one
 another and the male is in the act of generation, as he lets go from
@@ -10167,7 +11179,9 @@ Now vipers are distributed over all the earth; but the others, which are
 winged, are found in great numbers together in Arabia and in no other
 land: therefore it is that they appear to be numerous.
 
-110. This frankincense then is obtained thus by the Arabians; and cassia
+## Chapter 110
+
+This frankincense then is obtained thus by the Arabians; and cassia
 is obtained as follows:—they bind up in cows'-hide and other kinds of
 skins all their body and their face except only the eyes, and then go to
 get the cassia. This grows in a pool not very deep, and round the pool
@@ -10175,7 +11189,9 @@ and in it lodge, it seems, winged beasts nearly resembling bats, and
 they squeak horribly and are courageous in fight. These they must keep
 off from their eyes, and so cut the cassia.
 
-111. Cinnamon they collect in a yet more marvellous manner than this:
+## Chapter 111
+
+Cinnamon they collect in a yet more marvellous manner than this:
 for where it grows and what land produces it they are not able to tell,
 except only that some say (and it is a probable account) that it grows
 in those regions where Dionysos was brought up; and they say that large
@@ -10193,14 +11209,18 @@ earth; and the men come up to them and collect the cinnamon. Thus
 cinnamon is collected and comes from this nation to the other countries
 of the world.
 
-112. Gum-mastich however, which the Arabians call ladanon, comes in a
+## Chapter 112
+
+Gum-mastich however, which the Arabians call ladanon, comes in a
 still more extraordinary manner; for though it is the most sweet-scented
 of all things, it comes in the most evil-scented thing, since it is
 found in the beards of he-goats, produced there like resin from wood:
 this is of use for the making of many perfumes, and the Arabians use it
 more than anything else as incense.
 
-113. Let what we have said suffice with regard to spices; and from the
+## Chapter 113
+
+Let what we have said suffice with regard to spices; and from the
 land of Arabia there blows a scent of them most marvellously sweet. They
 have also two kinds of sheep which are worthy of admiration and are not
 found in any other land: the one kind has the tail long, not less than
@@ -10212,13 +11232,17 @@ tails, fastening the tail of each animal to a separate little car.
 The other kind of sheep has the tail broad, even as much as a cubit in
 breadth.
 
-114. As one passes beyond the place of the midday, the Ethiopian land is
+## Chapter 114
+
+As one passes beyond the place of the midday, the Ethiopian land is
 that which extends furthest of all inhabited lands towards the sunset.
 This produces both gold in abundance and huge elephants and trees of all
 kinds growing wild and ebony, and men who are of all men the tallest,
 the most beautiful and the most long-lived.
 
-115. These are the extremities in Asia and in Libya; but as to the
+## Chapter 115
+
+These are the extremities in Asia and in Libya; but as to the
 extremities of Europe towards the West, I am not able to speak with
 certainty: for neither do I accept the tale that there is a river called
 in Barbarian tongue Eridanos, flowing into the sea which lies towards
@@ -10231,7 +11255,9 @@ eye-witness, though I took pains to discover this, that there is a
 sea on the other side of Europe. However that may be, tin and amber
 certainly come to us from the extremity of Europe.
 
-116. Then again towards the North of Europe, there is evidently a
+## Chapter 116
+
+Then again towards the North of Europe, there is evidently a
 quantity of gold by far larger than in any other land: as to how it is
 got, here again I am not able to say for certain, but it is said to be
 carried off from the griffins by Arimaspians, a one-eyed race of men.
@@ -10241,7 +11267,9 @@ seem that the extremities which bound the rest of the world on every
 side and enclose it in the midst, possess the things which by us are
 thought to be the most beautiful and the most rare.
 
-117. Now there is a plain in Asia bounded by mountains on all sides, and
+## Chapter 117
+
+Now there is a plain in Asia bounded by mountains on all sides, and
 through the mountains there are five clefts. This plain belonged once
 to the Chorasmians, and it lies on the borders of the Chorasmians
 themselves, the Hyrcanians, Parthians, Sarangians, and Thamanaians; but
@@ -10269,7 +11297,9 @@ others, that is to say those most needing it of the rest who remain:
 and, as I have heard, he exacts large sums of money for opening them,
 besides the regular tribute.
 
-118. Thus it is with these matters: but of the seven men who had risen
+## Chapter 118
+
+Thus it is with these matters: but of the seven men who had risen
 against the Magian, it happened to one, namely Intaphrenes, to be put to
 death immediately after their insurrection for an outrage which I shall
 relate. He desired to enter into the king's palace and confer with the
@@ -10285,7 +11315,9 @@ sword 105 and cut off their ears and their noses, and stringing these
 upon his horse's bridle he tied them round their necks and so let them
 go.
 
-119. Upon this they showed themselves to the king and told the cause for
+## Chapter 119
+
+Upon this they showed themselves to the king and told the cause for
 which they had suffered this; and Dareios, fearing that the six might
 have done this by common design, sent for each one separately and made
 trial of his inclinations, as to whether he approved of that which had
@@ -10316,7 +11348,9 @@ sons because he was pleased with her: but all the others he slew. One
 therefore of the seven had perished immediately in the manner which has
 been related.
 
-120. Now about the time of the sickness of Cambyses it had come to pass
+## Chapter 120
+
+Now about the time of the sickness of Cambyses it had come to pass
 as follows:—There was one Oroites, a Persian, who had been appointed by
 Cyrus to be governor of the province of Sardis. 106 This man had set his
 desire upon an unholy thing; for though from Polycrates the Samian he
@@ -10336,7 +11370,9 @@ reproach, he formed the desire, not so much to take vengeance on him who
 said this, as to bring Polycrates to destruction at all costs, since by
 reason of him he was ill spoken of:
 
-121, the lesser number however of those who tell the tale say that
+## Chapter 121
+
+the lesser number however of those who tell the tale say that
 Oroites sent a herald to Samos to ask for something or other, but what
 it was is not mentioned; and Polycrates happened to be lying down in the
 men's chamber 109 of his palace, and Anacreon also of Teos was present
@@ -10347,7 +11383,9 @@ presence and spoke with him, and Polycrates, who chanced to be turned
 away 110 towards the wall, neither turned round at all nor made any
 answer.
 
-122. The cause then of the death of Polycrates is reported in these two
+## Chapter 122
+
+The cause then of the death of Polycrates is reported in these two
 different ways, and we may believe whichever of them we please. Oroites
 however, having his residence at that Magnesia which is situated upon
 the river Maiander, sent Myrsos the son of Gyges, a Lydian, to Samos
@@ -10371,7 +11409,9 @@ thou dost not believe that which I say about the money, send some one,
 whosoever happens to be most trusted by thee, and to him I will show
 it."
 
-123. Polycrates having heard this rejoiced, and was disposed to agree;
+## Chapter 123
+
+Polycrates having heard this rejoiced, and was disposed to agree;
 and as he had a great desire, it seems, for wealth, he first sent
 Maiandrios the son of Maiandrios, a native of Samos who was his
 secretary, to see it: this man was the same who not long after these
@@ -10384,7 +11424,9 @@ each, and laid gold above upon the stones; then he tied up the chests
 and kept them in readiness. So Maiandrios came and looked at them and
 brought back word to Polycrates:
 
-124, and he upon that prepared to set out thither, although the diviners
+## Chapter 124
+
+and he upon that prepared to set out thither, although the diviners
 and also his friends strongly dissuaded him from it, and in spite
 moreover of a vision which his daughter had seen in sleep of this
 kind,—it seemed to her that her father was raised up on high and was
@@ -10397,7 +11439,9 @@ unmarried for long; but she prayed that this might come to pass, for she
 desired rather, she said, to be unmarried for long than to be an orphan,
 having lost her father.
 
-125. Polycrates however neglected every counsel and set sail to go to
+## Chapter 125
+
+Polycrates however neglected every counsel and set sail to go to
 Oroites, taking with him, besides many others of his friends, Demokedes
 also the son of Calliphon, a man of Croton, who was a physician and
 practised his art better than any other man of his time. Then when he
@@ -10414,7 +11458,9 @@ accomplished wholly the vision of his daughter, for he was bathed by
 Zeus whenever it rained, 11001 and anointed by the Sun, giving forth
 moisture himself from his body.
 
-126. To this end came the great prosperity of Polycrates, as Amasis
+## Chapter 126
+
+To this end came the great prosperity of Polycrates, as Amasis
 the king of Egypt had foretold to him: 111 but not long afterwards
 retribution overtook Oroites in his turn for the murder of Polycrates.
 For after the death of Cambyses and the reign of the Magians Oroites
@@ -10429,7 +11475,9 @@ the message which he brought he slew him as he was returning, having set
 men to lie in wait for him by the way; and having slain him he made away
 with the bodies both of the man and of his horse.
 
-127. Dareios accordingly, when he had come to the throne, was desirous
+## Chapter 127
+
+Dareios accordingly, when he had come to the throne, was desirous
 of taking vengeance upon Oroites for all his wrongdoings and especially
 for the murder of Mitrobates and his son. However he did not think
 it good to act openly and to send an army against him, since his own
@@ -10449,7 +11497,9 @@ sent by me, displaying insolence not to be endured. Before therefore he
 shall accomplish any other evil against the Persians, we must check his
 course by death."
 
-128. Thus Dareios asked, and thirty men undertook the matter, each
+## Chapter 128
+
+Thus Dareios asked, and thirty men undertook the matter, each
 one separately desiring to do it himself; and Dareios stopped their
 contention and bade them cast lots: so when they cast lots, Bagaios
 the son of Artontes obtained the lot from among them all. Bagaios
@@ -10472,7 +11522,9 @@ who are in Sardis to slay Oroites." So the spearmen of the guard, when
 they heard this, drew their swords and slew him forthwith. Thus did
 retribution for the murder of Polycrates the Samian overtake Oroites.
 
-129. When the wealth of Oroites had come or had been carried 114 up to
+## Chapter 129
+
+When the wealth of Oroites had come or had been carried 114 up to
 Susa, it happened not long after, that king Dareios while engaged in
 hunting wild beasts twisted his foot in leaping off his horse, and
 it was twisted, as it seems, rather violently, for the ball of his
@@ -10488,7 +11540,9 @@ bade them bring him forthwith into his presence. So having found him
 somewhere unnoticed among the slaves of Oroites, they brought him forth
 into the midst dragging fetters after him and clothed in rags.
 
-130. When he had been placed in the midst of them, Dareios asked him
+## Chapter 130
+
+When he had been placed in the midst of them, Dareios asked him
 whether he understood the art; but he would not admit it, fearing lest,
 if he declared himself to be what he was, he might lose for ever
 the hope of returning to Hellas: and it was clear to Dareios that he
@@ -10511,7 +11565,9 @@ gift that his servant, whose name was Skiton, following and gathering
 up the coins 117 which fell from the cups, collected for himself a very
 large sum of gold.
 
-131. This Demokedes came from Croton, and became the associate of
+## Chapter 131
+
+This Demokedes came from Croton, and became the associate of
 Polycrates in the following manner:—at Croton he lived in strife with
 his father, who was of a harsh temper, and when he could no longer
 endure him, he departed and came to Egina. Being established there he
@@ -10527,7 +11583,9 @@ Croton began to be spoken of as the first in Hellas, while the Kyrenians
 were reputed to have the second place. About this same time also the
 Argives had the reputation of being the first musicians in Hellas. 119
 
-132. Then Demokedes having healed king Dareios had a very great house
+## Chapter 132
+
+Then Demokedes having healed king Dareios had a very great house
 in Susa, and had been made a table-companion of the king; and except the
 one thing of returning to the land of the Hellenes, he had everything.
 And first as regards the Egyptian physicians who tried to heal the king
@@ -10537,7 +11595,9 @@ king and rescued them from death: then secondly, he rescued an Eleian
 prophet, who had accompanied Polycrates and had remained unnoticed among
 the slaves. In short Demokedes was very great in the favour of the king.
 
-133. Not long time after this another thing came to pass which was
+## Chapter 133
+
+Not long time after this another thing came to pass which was
 this:—Atossa the daughter of Cyrus and wife of Dareios had a tumour upon
 her breast, which afterwards burst and then was spreading further:
 and so long as it was not large, she concealed it and said nothing to
@@ -10547,7 +11607,9 @@ would make her well, and caused her to swear that she would surely do
 for him in return that which he should ask of her; and he would ask, he
 said, none of such things as are shameful.
 
-134. So when after this by his treatment he had made her well, then
+## Chapter 134
+
+So when after this by his treatment he had made her well, then
 Atossa instructed by Demokedes uttered to Dareios in his bedchamber some
 such words as these: "O king, though thou hast such great power, thou
 dost sit still, and dost not win in addition any nation or power for
@@ -10578,7 +11640,9 @@ whom thou speakest, to make investigation, that when these have learnt
 and seen, they may report each several thing to us; and then I shall go
 to attack them with full knowledge of all."
 
-135. Thus he said, and he proceeded to do the deed as he spoke the word:
+## Chapter 135
+
+Thus he said, and he proceeded to do the deed as he spoke the word:
 for as soon as day dawned, he summoned fifteen Persians, men of
 repute, and bade them pass through the coasts of Hellas in company with
 Demokedes, and take care not to let Demokedes escape from them, but
@@ -10598,7 +11662,9 @@ merchant ship which Dareios promised him for the presents to his
 brothers. Dareios then, having thus given command to him also, sent them
 away to the sea.
 
-136. So these, when they had gone down to Phenicia and in Phenicia to
+## Chapter 136
+
+So these, when they had gone down to Phenicia and in Phenicia to
 the city of Sidon, forthwith manned two triremes, and besides them they
 also filled a large ship of burden with all manner of goods. Then when
 they had made all things ready they set sail for Hellas, and touching
@@ -10613,7 +11679,9 @@ and when he had now reached his own native place, Aristophilides set the
 Persians free and gave back to them those parts of their ships which he
 had taken away.
 
-137. The Persians then sailing thence and pursuing Demokedes reached
+## Chapter 137
+
+The Persians then sailing thence and pursuing Demokedes reached
 Croton, and finding him in the market-place they laid hands upon him;
 and some of the men of Croton fearing the Persian power were willing to
 let him go, but others took hold of him and struck with their staves at
@@ -10636,7 +11704,9 @@ suppose that Demokedes was urgent for this marriage, spending much
 money to further it, in order that Dareios might see that he was held in
 honour also in his own country.
 
-138. The Persians however, after they had put out from Croton, were cast
+## Chapter 138
+
+The Persians however, after they had put out from Croton, were cast
 away with their ships in Iapygia; and as they were remaining there as
 slaves, Gillos a Tarentine exile rescued them and brought them back to
 king Dareios. In return for this Dareios offered to give him whatsoever
@@ -10655,7 +11725,9 @@ Thus then it happened with regard to these things; and these were the
 first Persians who came from Asia to Hellas, and for the reason which
 has been mentioned these were sent as spies.
 
-139. After this king Dareios took Samos before all other cities, whether
+## Chapter 139
+
+After this king Dareios took Samos before all other cities, whether
 of Hellenes or Barbarians, and for a cause which was as follows:—When
 Cambyses the son of Cyrus was marching upon Egypt, many Hellenes arrived
 in Egypt, some, as might be expected, joining in the campaign to make
@@ -10671,7 +11743,9 @@ divine inspiration said: "I will not sell this for any sum, but I will
 give it thee for nothing, if, as it appears, it must be thine at all
 costs." To this Dareios agreed and received from him the garment.
 
-140. Now Syloson supposed without any doubt that he had altogether lost
+## Chapter 140
+
+Now Syloson supposed without any doubt that he had altogether lost
 this by easy simplicity; but when in course of time Cambyses was dead,
 and the seven Persians had risen up against the Magian, and of the seven
 Dareios had obtained the kingdom, Syloson heard that the kingdom had
@@ -10700,12 +11774,16 @@ nor silver, but recover and give to me my fatherland Samos, which now
 that my brother Polycrates has been slain by Oroites is possessed by our
 slave. This give to me without bloodshed or selling into slavery."
 
-141. Dareios having heard this prepared to send an expedition with
+## Chapter 141
+
+Dareios having heard this prepared to send an expedition with
 Otanes as commander of it, who had been one of the seven, charging him
 to accomplish for Syloson all that which he had requested. Otanes then
 went down to the sea-coast and was preparing the expedition.
 
-142. Now Maiandrios the son of Maiandrios was holding the rule over
+## Chapter 142
+
+Now Maiandrios the son of Maiandrios was holding the rule over
 Samos, having received the government as a trust from Polycrates; and
 he, though desiring to show himself the most righteous of men, did not
 succeed in so doing: for when the death of Polycrates was reported to
@@ -10732,7 +11810,9 @@ our ruler, seeing that thou art of mean birth and a pestilent fellow
 besides. Rather take care that thou give an account of the money which
 thou hadst to deal with."
 
-143. Thus said one who was a man of repute among the citizens, whose
+## Chapter 143
+
+Thus said one who was a man of repute among the citizens, whose
 name was Telesarchos; and Maiandrios perceiving that if he resigned the
 power, some other would be set up as despot instead of himself, did not
 keep the purpose at all 127 of resigning it; but having retired to the
@@ -10745,14 +11825,18 @@ that he might himself more easily get possession of the power over
 Samos: and all this happened because, as it appears, they did not choose
 to be free.
 
-144. So when the Persians arrived at Samos bringing Syloson home from
+## Chapter 144
+
+So when the Persians arrived at Samos bringing Syloson home from
 exile, no one raised a hand against them, and moreover the party of
 Maiandrios and Maiandrios himself said that they were ready to retire
 out of the island under a truce. Otanes therefore having agreed on these
 terms and having made a treaty, the most honourable of the Persians had
 seats placed for them in front of the fortress and were sitting there.
 
-145. Now the despot Maiandrios had a brother who was somewhat mad, and
+## Chapter 145
+
+Now the despot Maiandrios had a brother who was somewhat mad, and
 his name was Charilaos. This man for some offence which he had been
 committed had been confined in an underground dungeon, 128 and at this
 time of which I speak, having heard what was being done and having put
@@ -10770,7 +11854,9 @@ to be overcome? Nay, but if in truth thou art afraid of them, give me
 thy mercenaries and I will take vengeance on them for their coming here;
 and thyself I am willing to let go out of the island."
 
-146. Thus spoke Charilaos, and Maiandrios accepted that which he said,
+## Chapter 146
+
+Thus spoke Charilaos, and Maiandrios accepted that which he said,
 not, as I think, because he had reached such a height of folly as to
 suppose that his own power would overcome that of the king, but rather
 because he grudged Syloson that he should receive from him the State
@@ -10790,7 +11876,9 @@ carried for them 130 and were of most account. While these were thus
 engaged, the rest of the Persian force came to the rescue, and the
 mercenaries were hard pressed and forced to retire to the fortress.
 
-147. Then Otanes the Persian commander, seeing that the Persians had
+## Chapter 147
+
+Then Otanes the Persian commander, seeing that the Persians had
 suffered greatly, purposely forgot the commands which Dareios gave him
 when he sent him forth, not to kill any one of the Samians nor to sell
 any into slavery, but to restore the island to Syloson free from all
@@ -10800,7 +11888,9 @@ or boy, without distinction. So while some of the army were besieging
 the fortress, others were slaying every one who came in their way, in
 sanctuary or out of sanctuary equally.
 
-148. Meanwhile Maiandrios had escaped from Samos and was sailing to
+## Chapter 148
+
+Meanwhile Maiandrios had escaped from Samos and was sailing to
 Lacedemon; and having come thither and caused to be brought up to the
 city the things which he had taken with him when he departed, he did
 as follows:—first, he would set out his cups of silver and of gold,
@@ -10818,13 +11908,17 @@ should depart from Peloponnesus, lest he might persuade either himself
 or some other man of the Spartans to act basely. They accordingly
 accepted his counsel, and expelled Maiandrios by proclamation.
 
-149. As to Samos, the Persians, after sweeping the population off it,
+## Chapter 149
+
+As to Samos, the Persians, after sweeping the population off it,
 131 delivered it to Syloson stripped of men. Afterwards however the
 commander Otanes even joined in settling people there, moved by a vision
 of a dream and by a disease which seized him, so that he was diseased in
 the genital organs.
 
-150. After a naval force had thus gone against Samos, the Babylonians
+## Chapter 150
+
+After a naval force had thus gone against Samos, the Babylonians
 made revolt, being for this exceedingly well prepared; for during all
 the time of the reign of the Magian and of the insurrection of the
 seven, during all this time and the attendant confusion they were
@@ -10837,7 +11931,9 @@ together and killed by suffocation. Each man set apart the one who has
 been mentioned to serve as a maker of bread, and they suffocated the
 rest in order that they might not consume their provisions.
 
-151. Dareios being informed of this and having gathered together all his
+## Chapter 151
+
+Dareios being informed of this and having gathered together all his
 power, made expedition against them, and when he had marched his army
 up to Babylon he began to besiege them; but they cared nothing about the
 siege, for the Babylonians used to go up to the battlements of the wall
@@ -10847,7 +11943,9 @@ sitting here, and not depart? For then only shall ye capture us, when
 mules shall bring forth young." This was said by one of the Babylonians,
 not supposing that a mule would ever bring forth young.
 
-152. So when a year and seven months had now passed by, Dareios began
+## Chapter 152
+
+So when a year and seven months had now passed by, Dareios began
 to be vexed and his whole army with him, not being able to conquer the
 Babylonians. And yet Dareios had used against them every kind of device
 and every possible means, but not even so could he conquer them, though
@@ -10855,7 +11953,9 @@ besides other devices he had attempted it by that also with which Cyrus
 conquered them; but the Babylonians were terribly on their guard and he
 was not able to conquer them.
 
-153. Then in the twentieth month there happened to Zopyros the son of
+## Chapter 153
+
+Then in the twentieth month there happened to Zopyros the son of
 that Megabyzos who had been of the seven men who slew the Magian, to
 this Zopyros, I say, son of Megabyzos there happened a prodigy,—one of
 the mules which served as bearers of provisions for him produced young:
@@ -10869,7 +11969,9 @@ this ominous saying, it seemed to Zopyros that Babylon could be taken:
 for he thought that both the man had spoken and his mule had produced
 young by divine dispensation.
 
-154. Since then it seemed to him that it was now fated that Babylon
+## Chapter 154
+
+Since then it seemed to him that it was now fated that Babylon
 should be captured, he went to Dareios and inquired of him whether he
 thought it a matter of very great moment to conquer Babylon; and hearing
 in answer that he thought it of great consequence, he considered again
@@ -10882,7 +11984,9 @@ maltreated his own body in a manner which could not be cured; for he cut
 off his nose and his ears, and shaved his hair round in an unseemly way,
 and scourged himself, and so went into the presence of Dareios.
 
-155. And Dareios was exceedingly troubled when he saw the man of most
+## Chapter 155
+
+And Dareios was exceedingly troubled when he saw the man of most
 repute with him thus maltreated; and leaping up from his seat he cried
 aloud and asked him who was the person who had maltreated him, and for
 what deed. He replied: "That man does not exist, excepting thee, who has
@@ -10919,7 +12023,9 @@ Babylonians will entrust to me, besides their other things, also the
 keys which draw the bolts of the gates. Then after that it shall be the
 care of myself and the Persians to do that which ought to be done."
 
-156. Having thus enjoined he proceeded to go to the gate of the
+## Chapter 156
+
+Having thus enjoined he proceeded to go to the gate of the
 city, turning to look behind him as he went, as if he were in truth a
 deserter; and those who were set in that part of the wall, seeing him
 from the towers ran down, and slightly opening one wing of the gate
@@ -10936,7 +12042,9 @@ his army, and to the Persians, 134 for he shall surely not escape with
 impunity for having thus maltreated me; and I know all the courses of
 his counsels."
 
-157. Thus he spoke, and the Babylonians, when they saw the man of most
+## Chapter 157
+
+Thus he spoke, and the Babylonians, when they saw the man of most
 reputation among the Persians deprived of nose and ears and smeared over
 with blood from scourging, supposing assuredly that he was speaking the
 truth and had come to be their helper, were ready to put in his power
@@ -10957,7 +12065,9 @@ appointed, and surrounded the four thousand and slew them. When this
 also had been done, Zopyros was everything among the Babylonians, and he
 was appointed both commander of their army and guardian of their walls.
 
-158. But when Dareios made an attack according to the agreement on every
+## Chapter 158
+
+But when Dareios made an attack according to the agreement on every
 side of the wall, then Zopyros discovered all his craft: for while
 the Babylonians, having gone up on the wall, were defending themselves
 against the attacks of the army of Dareios, Zopyros opened the gates
@@ -10967,7 +12077,9 @@ to the temple of Zeus Belos, but those who did not see remained each in
 his own appointed place, until at last they also learnt that they had
 been betrayed.
 
-159. Thus was Babylon conquered for the second time: and Dareios when he
+## Chapter 159
+
+Thus was Babylon conquered for the second time: and Dareios when he
 had overcome the Babylonians, first took away the wall from round their
 city and pulled down all the gates; for when Cyrus took Babylon before
 him, he did neither of these things: and secondly Dareios impaled the
@@ -10981,7 +12093,9 @@ bring women to Babylon, fixing a certain number for each nation, so that
 the sum total of fifty thousand women was brought together, and from
 these women the present Babylonians are descended.
 
-160. As for Zopyros, in the judgment of Dareios no one of the Persians
+## Chapter 160
+
+As for Zopyros, in the judgment of Dareios no one of the Persians
 surpassed him in good service, either of those who came after or of
 those who had gone before, excepting Cyrus alone; for to Cyrus no man of
 the Persians ever yet ventured to compare himself: and Dareios is said
@@ -11404,7 +12518,9 @@ been interpolated here.]
 
 ## Book IV. The Fourth Book of the Histories, Called Melpomene
 
-1. After Babylon had been taken, the march of Dareios himself 1 against
+## Chapter 1
+
+After Babylon had been taken, the march of Dareios himself 1 against
 the Scythians took place: for now that Asia was flourishing in respect
 of population, and large sums were being gathered in as revenue, Dareios
 formed the desire to take vengeance upon the Scythians, because they
@@ -11421,7 +12537,9 @@ they found an army of no mean size opposing them. For the wives of the
 Scythians, because their husbands were absent from them for a long time,
 had associated with the slaves.
 
-2. Now the Scythians put out the eyes of all their slaves because of the
+## Chapter 2
+
+Now the Scythians put out the eyes of all their slaves because of the
 milk which they drink; and they do as follows:—they take blow-pipes of
 bone just like flutes, and these they insert into the vagina of the mare
 and blow with their mouths, and others milk while they blow: and they
@@ -11434,7 +12552,9 @@ valuable part, whereas they esteem that which settles down to be less
 good than the other. For this reason 7 the Scythians put out the eyes of
 all whom they catch; for they are not tillers of the soil but nomads.
 
-3. From these their slaves then, I say, and from their wives had been
+## Chapter 3
+
+From these their slaves then, I say, and from their wives had been
 born and bred up a generation of young men, who having learnt the manner
 of their birth set themselves to oppose the Scythians as they were
 returning from the Medes. And first they cut off their land by digging
@@ -11454,14 +12574,18 @@ they shall see that we have whips instead of arms, they will perceive
 that they are our slaves, and having acknowledged this they will not
 await our onset."
 
-4. When they heard this, the Scythians proceeded to do that which he
+## Chapter 4
+
+When they heard this, the Scythians proceeded to do that which he
 said, and the others being panic-stricken by that which was done forgot
 their fighting and fled. Thus the Scythians had ruled over Asia; and
 in such manner, when they were driven out again by the Medes, they had
 returned to their own land. For this Dareios wished to take vengeance
 upon them, and was gathering together an army to go against them.
 
-5. Now the Scythians say that their nation is the youngest of all
+## Chapter 5
+
+Now the Scythians say that their nation is the youngest of all
 nations, and that this came to pass as follows:—The first man who ever
 existed in this region, which then was desert, was one named Targitaos:
 and of this Targitaos they say, though I do not believe it for my part,
@@ -11479,14 +12603,18 @@ to it, the flame was quenched, and he carried them to his own house.
 The elder brothers then, acknowledging the significance of this thing,
 delivered the whole of the kingly power to the youngest.
 
-6. From Lixopaïs, they say, are descended those Scythians who are called
+## Chapter 6
+
+From Lixopaïs, they say, are descended those Scythians who are called
 the race of the Auchatai; from the middle brother Arpoxaïs those who are
 called Catiaroi and Traspians, and from the youngest of them the "Royal"
 tribe, 11 who are called Paralatai: and the whole together are called,
 they say, Scolotoi, after the name of their king; 12 but the Hellenes
 gave them the name of Scythians.
 
-7. Thus the Scythians say they were produced; and from the time of their
+## Chapter 7
+
+Thus the Scythians say they were produced; and from the time of their
 origin, that is to say from the first king Targitaos, to the passing
 over of Dareios against them, they say that there is a period of a
 thousand years and no more. Now this sacred gold is guarded by the
@@ -11503,7 +12631,9 @@ see nor pass through any further by reason of feathers which are poured
 down; for both the earth and the air are full of feathers, and this is
 that which shuts off the view.
 
-8. Thus say the Scythians about themselves and about the region
+## Chapter 8
+
+Thus say the Scythians about themselves and about the region
 above them; but the Hellenes who dwell about the Pontus say as
 follows:—Heracles driving the cattle of Geryones came to this land, then
 desert, which the Scythians now inhabit; and Geryones, says the tale,
@@ -11517,7 +12647,9 @@ he drew over him his lion's skin and went to sleep. Meanwhile the mares
 harnessed in his chariot disappeared by a miraculous chance, as they
 were feeding.
 
-9. Then when Heracles woke he sought for them; and having gone over the
+## Chapter 9
+
+Then when Heracles woke he sought for them; and having gone over the
 whole land, at last he came to the region which is called Hylaia; and
 there he found in a cave a kind of twofold creature formed by the union
 of a maiden and a serpent, whose upper parts from the buttocks upwards
@@ -11542,7 +12674,9 @@ send him forth out of the land: and if thou shalt do thus, thou wilt
 both have delight thyself and perform that which has been enjoined to
 thee."
 
-10. Upon this he drew one of his bows (for up to that time Heracles,
+## Chapter 10
+
+Upon this he drew one of his bows (for up to that time Heracles,
 they say, was wont to carry two) and showed her the girdle, and then he
 delivered to her both the bow and the girdle, which had at the end of
 its clasp a golden cup; and having given them he departed. She then,
@@ -11560,7 +12694,9 @@ day wear cups attached to their girdles: and this alone his mother
 contrived for Skythes. 13 Such is the story told by the Hellenes who
 dwell about the Pontus.
 
-11. There is however also another story, which is as follows, and to
+## Chapter 11
+
+There is however also another story, which is as follows, and to
 this I am most inclined myself. It is to the effect that the nomad
 Scythians dwelling in Asia, being hard pressed in war by the Massagetai,
 left their abode and crossing the river Araxes came towards the
@@ -11588,7 +12724,9 @@ to be seen), and having buried them, then they made their way out
 from the land, and the Scythians when they came upon it found the land
 deserted of its inhabitants.
 
-12. And there are at the present time in the land of Scythia Kimmerian
+## Chapter 12
+
+And there are at the present time in the land of Scythia Kimmerian
 walls, and a Kimmerian ferry; and there is also a region which is called
 Kimmeria, and the so-called Kimmerian Bosphorus. It is known moreover
 that the Kimmerians, in their flight to Asia from the Scythians, also
@@ -11600,7 +12738,9 @@ pursued them keeping Caucasus on their right hand, until at last they
 invaded Media, directing their course inland. This then which has been
 told is another story, and it is common both to Hellenes and Barbarians.
 
-13. Aristeas however the son of Caÿstrobios, a man of Proconnesos,
+## Chapter 13
+
+Aristeas however the son of Caÿstrobios, a man of Proconnesos,
 said in the verses which he composed, that he came to the land of the
 Issedonians being possessed by Phoebus, and that beyond the Issedonians
 dwelt Arimaspians, a one-eyed race, and beyond these the gold-guarding
@@ -11613,7 +12753,9 @@ Southern Sea, being pressed by the Scythians left their land. Thus
 neither does he agree in regard to this land with the report of the
 Scythians.
 
-14. As to Aristeas who composed 15 this, I have said already whence
+## Chapter 14
+
+As to Aristeas who composed 15 this, I have said already whence
 he was; and I will tell also the tale which I heard about him in
 Proconnesos and Kyzicos. They say that Aristeas, who was in birth
 inferior to none of the citizens, entered into a fuller's shop in
@@ -11630,7 +12772,9 @@ or alive. In the seventh year after this he appeared at Proconnesos
 and composed those verses which are now called by the Hellenes the
 Arimaspeia, and having composed them he disappeared the second time.
 
-15. So much is told by these cities; and what follows I know happened
+## Chapter 15
+
+So much is told by these cities; and what follows I know happened
 to the people of Metapontion in Italy 16 two hundred 17 and forty
 years after the second disappearance of Aristeas, as I found by putting
 together the evidence at Proconnesos and Metapontion. The people of
@@ -11649,7 +12793,9 @@ close by the side of the altar dedicated to Apollo, 19 and round it
 stand laurel trees; and the altar is set up in the market-place. Let
 this suffice which has been said about Aristeas.
 
-16. Now of the land about which this account has been begun, no one
+## Chapter 16
+
+Now of the land about which this account has been begun, no one
 knows precisely what lies beyond it: 20 for I am not able to hear of any
 one who alleges that he knows as an eye-witness; and even Aristeas,
 the man of whom I was making mention just now, even he, I say, did not
@@ -11659,7 +12805,9 @@ and reported that it was the Issedonians who said these things. So far
 however as we were able to arrive at certainty by hearsay, carrying
 inquiries as far as possible, all this shall be told.
 
-17. Beginning with the trading station of the Borysthenites,—for of the
+## Chapter 17
+
+Beginning with the trading station of the Borysthenites,—for of the
 parts along the sea this is the central point of all Scythia,—beginning
 with this, the first regions are occupied by the Callipidai, who are
 Hellenic Scythians; and above these is another race, who are called
@@ -11669,7 +12817,9 @@ food, and also onions, leeks, lentils and millet. Above the Alazonians
 dwell Scythians who till the ground, and these sow their corn not for
 food but to sell.
 
-18.Beyond them dwell the Neuroi; and beyond the Neuroi towards the North
+## Chapter 18
+
+Beyond them dwell the Neuroi; and beyond the Neuroi towards the North
 Wind is a region without inhabitants, as far as we know. These races
 are along the river Hypanis to the West of the Borysthenes; but after
 crossing the Borysthenes, first from the sea-coast is Hylaia, and beyond
@@ -11685,14 +12835,18 @@ Androphagoi, 26 a race apart by themselves and having no connection with
 the Scythians. Beyond them begins a region which is really desert and
 has no race of men in it, as far as we know.
 
-19. The region which lies to the East of these agricultural Scythians,
+## Chapter 19
+
+The region which lies to the East of these agricultural Scythians,
 after one has crossed the river Panticapes, is occupied by nomad
 Scythians, who neither sow anything nor plough the earth; and this whole
 region is bare of trees except Hylaia. These nomads occupy a country
 which extends to the river Gerros, a distance of fourteen 27 days'
 journey Eastwards.
 
-20. Then on the other side of the Gerros we have those parts which are
+## Chapter 20
+
+Then on the other side of the Gerros we have those parts which are
 called the "Royal" lands and those Scythians who are the bravest and
 most numerous and who esteem the other Scythians their slaves. These
 reach Southwards to the Tauric land, and Eastwards to the trench which
@@ -11703,7 +12857,9 @@ Scythians towards the North Wind dwell the Melanchlainoi, 29 of a
 different race and not Scythian. The region beyond the Melanchlainoi is
 marshy and not inhabited by any, so far as we know.
 
-21. After one has crossed the river Tanaïs the country is no longer
+## Chapter 21
+
+After one has crossed the river Tanaïs the country is no longer
 Scythia, but the first of the divisions belongs to the Sauromatai,
 who beginning at the corner of the Maiotian lake occupy land extending
 towards the North Wind fifteen days' journey, and wholly bare of trees
@@ -11711,7 +12867,9 @@ both cultivated and wild. Above these, holding the next division of
 land, dwell the Budinoi, who occupy a land wholly overgrown with forest
 consisting of all kinds of trees.
 
-22. Then beyond the Budinoi towards the North, first there is desert for
+## Chapter 22
+
+Then beyond the Budinoi towards the North, first there is desert for
 seven days' journey; and after the desert turning aside somewhat more
 towards the East Wind we come to land occupied by the Thyssagetai, a
 numerous people and of separate race from the others. These live by
@@ -11726,7 +12884,9 @@ mounts upon his horse and pursues it, and the dog seizes hold of it.
 Above these in a direction towards the East dwell other Scythians, who
 have revolted from the Royal Scythians and so have come to this region.
 
-23. As far as the country of these Scythians the whole land which has
+## Chapter 23
+
+As far as the country of these Scythians the whole land which has
 been described is level plain and has a deep soil; but after this point
 it is stony and rugged. Then when one has passed through a great extent
 of this rugged country, there dwell in the skirts of lofty mountains
@@ -11748,7 +12908,9 @@ are they also who decide the disputes rising among their neighbours; and
 besides this, whatever fugitive takes refuge with them is injured by no
 one: and they are called Argippaians. 30
 
-24. Now as far as these bald-headed men there is abundantly clear
+## Chapter 24
+
+Now as far as these bald-headed men there is abundantly clear
 information about the land and about the nations on this side of them;
 for not only do certain of the Scythians go to them, from whom it is not
 difficult to get information, but also some of the Hellenes who are at
@@ -11757,7 +12919,9 @@ the Pontic coast: and those of the Scythians who go to them transact
 their business through seven interpreters and in seven different
 languages.
 
-25. So far as these, I say, the land is known; but concerning the region
+## Chapter 25
+
+So far as these, I say, the land is known; but concerning the region
 to the North of the bald-headed men no one can speak with certainty,
 for lofty and impassable mountains divide it off, and no one passes over
 them. However these bald-headed men say (though I do not believe it)
@@ -11770,7 +12934,9 @@ bald-headed men and the Issedonians towards the North Wind is unknown,
 except so far as we know it from the accounts given by these nations
 which have just been mentioned.
 
-26. The Issedonians are said to have these customs:—when a man's father
+## Chapter 26
+
+The Issedonians are said to have these customs:—when a man's father
 is dead, all the relations bring cattle to the house, and then having
 slain them and cut up the flesh, they cut up also the dead body of the
 father of their entertainer, and mixing all the flesh together they set
@@ -11782,14 +12948,18 @@ memorial for the dead. 32 In other respects however this race also is
 said to live righteously, and their women have equal rights with the
 men.
 
-27. These then also are known; but as to the region beyond them, it
+## Chapter 27
+
+These then also are known; but as to the region beyond them, it
 is the Issedonians who report that there are there one-eyed men and
 gold-guarding griffins; and the Scythians report this having received it
 from them, and from the Scythians we, that is the rest of mankind, have
 got our belief; and we call them in Scythian language Arimaspians, for
 the Scythians call the number one arima and the eye spu.
 
-28. This whole land which has been described is so exceedingly severe in
+## Chapter 28
+
+This whole land which has been described is so exceedingly severe in
 climate, that for eight months of the year there is frost so hard as to
 be intolerable; and during these if you pour out water you will not be
 able to make mud, but only if you kindle a fire can you make it; and
@@ -11809,7 +12979,9 @@ mules nor asses can endure it at all, whereas in other countries horses
 if they stand in frost lose their limbs by mortification, while asses
 and mules endure it.
 
-29. I think also that it is for this reason that the hornless breed
+## Chapter 29
+
+I think also that it is for this reason that the hornless breed
 of oxen in that country have no horns growing; and there is a verse of
 Homer in the Odyssey 34 supporting my opinion, which runs this:—
 
@@ -11819,7 +12991,9 @@ for it is rightly said that in hot regions the horns come quickly,
 whereas in extreme cold the animals either have no horns growing at all,
 or hardly any. 35
 
-30. In that land then this takes place on account of the cold; but
+## Chapter 30
+
+In that land then this takes place on account of the cold; but
 (since my history proceeded from the first seeking occasions for
 digression) 36 I feel wonder that in the whole land of Elis mules cannot
 be bred, though that region is not cold, nor is there any other evident
@@ -11829,7 +13003,9 @@ the mares to conceive, they drive them out into the neighbouring
 lands and there in the land of their neighbours they admit to them the
 he-asses until the mares are pregnant, and then they drive them back.
 
-31. As to the feathers of which the Scythians say that the air is full,
+## Chapter 31
+
+As to the feathers of which the Scythians say that the air is full,
 and that by reason of them they are not able either to see or to pass
 through the further parts of the continent, the opinion which I have is
 this:—in the parts beyond this land it snows continually, though less
@@ -11842,7 +13018,9 @@ Scythians and those who dwell near them mean symbolically the snow. This
 then which has been said goes to the furthest extent of the accounts
 given.
 
-32. About a Hyperborean people the Scythians report nothing, nor do any
+## Chapter 32
+
+About a Hyperborean people the Scythians report nothing, nor do any
 of those who dwell in this region, unless it be the Issedonians: but
 in my opinion neither do these report anything; for if they did the
 Scythians also would report it, as they do about the one-eyed people.
@@ -11850,7 +13028,9 @@ Hesiod however has spoken of Hyperboreans, and so also has Homer in the
 poem of the "Epigonoi," at least if Homer was really the composer of
 that Epic.
 
-33. But much more about them is reported by the people of Delos than by
+## Chapter 33
+
+But much more about them is reported by the people of Delos than by
 any others. For these say that sacred offerings bound up in wheat straw
 are carried from the land of the Hyperboreans and come to the Scythians,
 and then from the Scythians the neighbouring nations in succession
@@ -11877,7 +13057,9 @@ these offerings, namely that the women of Thrace and Paionia, when they
 sacrifice to Artemis "the Queen," do not make their offerings without
 wheat straw.
 
-34. These I know do as I have said; and for those maidens from the
+## Chapter 34
+
+These I know do as I have said; and for those maidens from the
 Hyperboreans, who died in Delos, both the girls and the boys of the
 Delians cut off their hair: the former before marriage cut off a lock
 and having wound it round a spindle lay it upon the tomb (now the tomb
@@ -11886,7 +13068,9 @@ grows an olive-tree), and all the boys of the Delians wind some of their
 hair about a green shoot of some tree, and they also place it upon the
 tomb.
 
-35. The maidens, I say, have this honour paid them by the dwellers in
+## Chapter 35
+
+The maidens, I say, have this honour paid them by the dwellers in
 Delos: and the same people say that Arge and Opis also, being maidens,
 came to Delos, passing from the Hyperboreans by the same nations which
 have been mentioned, even before Hyperoche and Laodike. These last, they
@@ -11904,7 +13088,9 @@ are used to cast upon the grave of Opis and Arge. Now their grave is
 behind the temple of Artemis, turned towards the East, close to the
 banqueting hall of the Keïeans.
 
-36. Let this suffice which has been said of the Hyperboreans; for the
+## Chapter 36
+
+Let this suffice which has been said of the Hyperboreans; for the
 tale of Abaris, who is reported to have been a Hyperborean, I do not
 tell, namely 3701 how he carried the arrow about all over the earth,
 eating no food. If however there are any Hyperboreans, it follows that
@@ -11915,13 +13101,17 @@ the Earth, which is circular exactly as if drawn with compasses, and
 they make Asia equal in size to Europe. In a few words I shall declare
 the size of each division and of what nature it is as regards outline.
 
-37. The Persians inhabit Asia 38 extending to the Southern Sea, which is
+## Chapter 37
+
+The Persians inhabit Asia 38 extending to the Southern Sea, which is
 called the Erythraian; and above these towards the North Wind dwell the
 Medes, and above the Medes the Saspeirians, and above the Saspeirians
 the Colchians, extending to the Northern Sea, into which the river
 Phasis runs. These four nations inhabit from sea to sea.
 
-38. From them Westwards two peninsulas 39 stretch out from Asia into the
+## Chapter 38
+
+From them Westwards two peninsulas 39 stretch out from Asia into the
 sea, and these I will describe. The first peninsula on the one of its
 sides, that is the Northern, stretches along beginning from the Phasis
 and extending to the sea, going along the Pontus and the Hellespont as
@@ -11930,7 +13120,9 @@ peninsula stretches from the Myriandrian gulf, which lies near Phenicia,
 in the direction of the sea as far as the headland Triopion; and in this
 peninsula dwell thirty races of men.
 
-39. This then is one of the peninsulas, and the other beginning from the
+## Chapter 39
+
+This then is one of the peninsulas, and the other beginning from the
 land of the Persians stretches along to the Erythraian Sea, including
 Persia and next after it Assyria, and Arabia after Assyria: and this
 ends, or rather is commonly supposed to end, 40 at the Arabian gulf,
@@ -11940,7 +13132,9 @@ and the space abundant, but after Phenicia this peninsula goes by the
 shore of our Sea along Palestine, Syria, and Egypt, where it ends; and
 in it there are three nations only.
 
-40. These are the parts of Asia which tend towards the West from the
+## Chapter 40
+
+These are the parts of Asia which tend towards the West from the
 Persian land; but as to those which lie beyond the Persians and Medes
 and Saspeirians and Colchians towards the East and the sunrising, on one
 side the Erythraian Sea runs along by them, and on the North both the
@@ -11949,14 +13143,18 @@ and Asia is inhabited as far as the Indian land; but from this onwards
 towards the East it becomes desert, nor can any one say what manner of
 land it is.
 
-41. Such and so large is Asia: and Libya is included in the second
+## Chapter 41
+
+Such and so large is Asia: and Libya is included in the second
 peninsula; for after Egypt Libya succeeds at once. Now about Egypt
 this peninsula is narrow, for from our Sea to the Erythraian Sea is a
 distance there of ten myriads of fathoms, 41 which would amount to
 a thousand furlongs; but after this narrow part, the portion of the
 peninsula which is called Libya is, as it chances, extremely broad.
 
-42. I wonder then at those who have parted off and divided the world
+## Chapter 42
+
+I wonder then at those who have parted off and divided the world
 into Libya, Asia, and Europe, since the difference between these is not
 small; for in length Europe extends along by both, while in breadth
 it is clear to me that it is beyond comparison larger; 42 for Libya
@@ -11976,7 +13174,9 @@ in Egypt. And they reported a thing which I cannot believe, but another
 man may, namely that in sailing round Libya they had the sun on their
 right hand.
 
-43. Thus was this country first known to be what it is, and after this
+## Chapter 43
+
+Thus was this country first known to be what it is, and after this
 it is the Carthaginians who make report of it; for as to Sataspes the
 son of Teaspis the Achaimenid, he did not sail round Libya, though he
 was sent for this very purpose, but was struck with fear by the length
@@ -12010,7 +13210,9 @@ carrying with him large sums of money; and of this a man of Samos took
 possession, whose name I know, but I purposely pass it over without
 mention.
 
-44. Of Asia the greater part was explored by Dareios, who desiring to
+## Chapter 44
+
+Of Asia the greater part was explored by Dareios, who desiring to
 know of the river Indus, which is a second river producing crocodiles of
 all the rivers in the world,—to know, I say, of this river where it runs
 out into the sea, sent with ships, besides others whom he trusted to
@@ -12024,7 +13226,9 @@ coast, Dareios both subdued the Indians and made use of this sea. Thus
 Asia also, excepting the parts of it which are towards the rising sun,
 has been found to be similar 44 to Libya.
 
-45. As to Europe, however, it is clearly not known by any, either as
+## Chapter 45
+
+As to Europe, however, it is clearly not known by any, either as
 regards the parts which are towards the rising sun or those towards the
 North, whether it be surrounded by sea: but in length it is known
 to stretch along by both the other divisions. And I am not able to
@@ -12049,7 +13253,9 @@ to Crete, and from Crete to Lykia. Let this suffice now which has been
 said about these matters; for we will adopt those which are commonly
 accepted of the accounts.
 
-46. Now the region of the Euxine upon which Dareios was preparing to
+## Chapter 46
+
+Now the region of the Euxine upon which Dareios was preparing to
 march has, apart from the Scythian race, the most ignorant nations
 within it of all lands: for we can neither put forward any nation of
 those who dwell within the region of Pontus as eminent in ability, nor
@@ -12065,7 +13271,9 @@ carry their houses with them and are mounted archers, living not by the
 plough but by cattle, and whose dwellings are upon cars, these assuredly
 are invincible and impossible to approach.
 
-47. This they have found out, seeing that their land is suitable to it
+## Chapter 47
+
+This they have found out, seeing that their land is suitable to it
 and at the same time the rivers are their allies: for first this land
 is plain land and is grassy and well watered, and then there are rivers
 flowing through it not much less in number than the channels in Egypt.
@@ -12074,7 +13282,9 @@ sea, I will name: there is Ister with five mouths, and after this Tyras,
 Hypanis, Borysthenes, Panticapes, Kypakyris, Gerros and Tanaïs. These
 flow as I shall now describe.
 
-48. The Ister, which is the greatest of all the rivers which we know,
+## Chapter 48
+
+The Ister, which is the greatest of all the rivers which we know,
 flows always with equal volume in summer and winter alike. It is the
 first towards the West of all the Scythian rivers, and it has become the
 greatest of all rivers because other rivers flow into it. And these
@@ -12086,7 +13296,9 @@ lying towards the East, and there it joins waters with the Ister, the
 second Tiarantos is more to the West and smaller, and the Araros and
 Naparis and Ordessos flow into the Ister going between these two.
 
-49. These are the native Scythian rivers which join to swell its stream,
+## Chapter 49
+
+These are the native Scythian rivers which join to swell its stream,
 while from the Agathyrsians flows the Maris and joins the Ister, and
 from the summits of Haimos flow three other great rivers towards the
 North Wind and fall into it, namely Atlas and Auras and Tibisis. Through
@@ -12104,7 +13316,9 @@ dwell furthest towards the sun-setting of all the peoples of Europe;
 and thus flowing through all Europe it falls into the sea by the side of
 Scythia.
 
-50. So then it is because these which have been named and many others
+## Chapter 50
+
+So then it is because these which have been named and many others
 join their waters together, that Ister becomes the greatest of rivers;
 since if we compare the single streams, the Nile is superior in volume
 of water; for into this no river or spring flows, to contribute to its
@@ -12123,13 +13337,17 @@ draws in winter; and by the setting of these things against one another
 there is produced a balance; so that the river is seen to be of equal
 volume always.
 
-51. One, I say, of the rivers which the Scythians have is the Ister; and
+## Chapter 51
+
+One, I say, of the rivers which the Scythians have is the Ister; and
 after it the Tyras, which starts from the North and begins its course
 from a large lake which is the boundary between the land of the
 Scythians and that of the Neuroi. At its mouth are settled those
 Hellenes who are called Tyritai.
 
-52. The third river is the Hypanis, which starts from Scythia and flows
+## Chapter 52
+
+The third river is the Hypanis, which starts from Scythia and flows
 from a great lake round which feed white wild horses; and this lake is
 rightly called "Mother of Hypanis." From this then the river Hypanis
 takes its rise and for a distance of five days' sail it flows shallow
@@ -12145,7 +13363,9 @@ flows is in Scythian Exampaios, and in the Hellenic tongue Hierai Hodoi.
 in the land of the Alazonians, but after this each turns off and widens
 the space between them as they flow.
 
-53. Fourth is the river Borysthenes, which is both the largest of these
+## Chapter 53
+
+Fourth is the river Borysthenes, which is both the largest of these
 after the Ister, and also in our opinion the most serviceable not only
 of the Scythian rivers but also of all the rivers of the world besides,
 excepting only the Nile of Egypt, for to this it is not possible to
@@ -12172,36 +13392,48 @@ were a beak of land, 54 is called the point of Hippoles, and in it is
 placed a temple of the Mother, 55 and opposite the temple upon the river
 Hypanis are settled the Borysthenites.
 
-54. This is that which has to do with these rivers; and after these
+## Chapter 54
+
+This is that which has to do with these rivers; and after these
 there is a fifth river besides, called Panticapes. This also flows 56
 both from the North and from a lake, and in the space between this river
 and the Borysthenes dwell the agricultural Scythians: it runs out into
 the region of Hylaia, and having passed by this it mingles with the
 Borysthenes.
 
-55. Sixth comes the river Hypakyris, which starts from a lake, and
+## Chapter 55
+
+Sixth comes the river Hypakyris, which starts from a lake, and
 flowing through the midst of the nomad Scythians runs out into the sea
 by the city of Carkinitis, skirting on its right bank the region of
 Hylaia and the so-called racecourse of Achilles.
 
-56. Seventh is the Gerros, which parts off from the Borysthenes near
+## Chapter 56
+
+Seventh is the Gerros, which parts off from the Borysthenes near
 about that part of the country where the Borysthenes ceases to be
 known,—it parts off, I say, in this region and has the same name which
 this region itself has, namely Gerros; and as it flows to the sea it
 borders the country of the nomad and that of the Royal Scythians, and
 runs out into the Hypakyris.
 
-57. The eighth is the river Tanaïs, which starts in its flow at first
+## Chapter 57
+
+The eighth is the river Tanaïs, which starts in its flow at first
 from a large lake, and runs out into a still larger lake called Maiotis,
 which is the boundary between the Royal Scythians and the Sauromatai.
 Into this Tanaïs falls another river, whose name is Hyrgis.
 
-58. So many are the rivers of note with which the Scythians are
+## Chapter 58
+
+So many are the rivers of note with which the Scythians are
 provided: and for cattle the grass which comes up in the land of Scythia
 is the most productive of bile of any grass which we know; and that this
 is so you may judge when you open the bodies of the cattle.
 
-59. Thus abundant supply have they of that which is most important;
+## Chapter 59
+
+Thus abundant supply have they of that which is most important;
 and as for the rest their customs are as follows. The gods whom they
 propitiate by worship are these only:—Hestia most of all, then Zeus and
 the Earth, supposing that Earth is the wife of Zeus, and after these
@@ -12214,7 +13446,9 @@ is called Argimpasa, 59 and Poseidon Thagimasidas. 60 It is not their
 custom however to make images, altars or temples to any except Ares, but
 to him it is their custom to make them.
 
-60. They have all the same manner of sacrifice established for all their
+## Chapter 60
+
+They have all the same manner of sacrifice established for all their
 religious rites equally, and it is thus performed:—the victim stands
 with its fore-feet tied, and the sacrificing priest stands behind the
 victim, and by pulling the end of the cord he throws the beast down; and
@@ -12225,7 +13459,9 @@ either lighting a fire or making any first offering from the victim or
 pouring any libation over it: and when he has strangled it and flayed
 off the skin, he proceeds to boil it.
 
-61. Now as the land of Scythia is exceedingly ill wooded, this
+## Chapter 61
+
+Now as the land of Scythia is exceedingly ill wooded, this
 contrivance has been invented for the boiling of the flesh:—having
 flayed the victims, they strip the flesh off the bones and then put it
 into caldrons, if they happen to have any, of native make, which
@@ -12241,7 +13477,9 @@ takes a first offering of the flesh and of the vital organs and casts
 it in front of him. And they sacrifice various kinds of cattle, but
 especially horses.
 
-62. To the others of the gods they sacrifice thus and these kinds
+## Chapter 62
+
+To the others of the gods they sacrifice thus and these kinds
 of beasts, but to Ares as follows:—In each district of the several
 governments 61 they have a temple of Ares set up in this way:—bundles
 of brushwood are heaped up for about three furlongs 62 in length and
@@ -12266,11 +13504,15 @@ when they have finished offering the other victims, they go away; and
 the arm lies wheresoever it has chanced to fall, and the corpse apart
 from it.
 
-63. Such are the sacrifices which are established among them; but of
+## Chapter 63
+
+Such are the sacrifices which are established among them; but of
 swine these make no use, nor indeed are they wont to keep them at all in
 their land.
 
-64. That which relates to war is thus ordered with them:—When a Scythian
+## Chapter 64
+
+That which relates to war is thus ordered with them:—When a Scythian
 has slain his first man, he drinks some of his blood: and of all those
 whom he slays in the battle he bears the heads to the king; for if he
 has brought a head he shares in the spoil which they have taken, but
@@ -12290,7 +13532,9 @@ more brilliantly white than any other skin. Many also take the skins
 off the whole bodies of men and stretch them on pieces of wood and carry
 them about on their horses.
 
-65. Such are their established customs about these things; and to the
+## Chapter 65
+
+Such are their established customs about these things; and to the
 skulls themselves, not of all but of their greatest enemies, they do
 thus:—the man saws off all below the eyebrows and clears out the inside;
 and if he is a poor man he only stretches ox-hide round it and then
@@ -12303,14 +13547,18 @@ before them, and adds the comment that they being of his own family had
 made war against him, and that he had got the better of them; and this
 they hold to be a proof of manly virtue.
 
-66. Once every year each ruler of a district mixes in his own district
+## Chapter 66
+
+Once every year each ruler of a district mixes in his own district
 a bowl of wine, from which those of the Scythians drink by whom enemies
 have been slain; but those by whom this has not been done do not taste
 of the wine, but sit apart dishonoured; and this is the greatest of
 all disgraces among them: but those of them who have slain a very great
 number of men, drink with two cups together at the same time.
 
-67. Diviners there are many among the Scythians, and they divine with a
+## Chapter 67
+
+Diviners there are many among the Scythians, and they divine with a
 number of willow rods in the following manner:—they bring large bundles
 of rods, and having laid them on the ground they unroll them, and
 setting each rod by itself apart they prophesy; and while speaking thus,
@@ -12322,7 +13570,9 @@ the bark of the linden-tree. Having divided the linden-bark into three
 strips, the man twists them together in his fingers and untwists them
 again, and as he does this he utters the oracle.
 
-68. When the king of the Scythians is sick, he sends for three of the
+## Chapter 68
+
+When the king of the Scythians is sick, he sends for three of the
 diviners, namely those who are most in repute, who divine in the manner
 which has been said: and these say for the most part something like
 this, namely that so and so has sworn falsely by the hearth of the king,
@@ -12343,7 +13593,9 @@ him, other diviners come in, and again others after them. If then the
 greater number acquit the man, the sentence is that the first diviners
 shall themselves be put to death.
 
-69. They put them to death accordingly in the following manner:—first
+## Chapter 69
+
+They put them to death accordingly in the following manner:—first
 they fill a waggon with brushwood and yoke oxen to it; then having bound
 the feet of the diviners and tied their hands behind them and stopped
 their mouths with gags, they fasten them down in the middle of the
@@ -12355,7 +13607,9 @@ described for other causes also, calling them false prophets. Now when
 the king puts any to death, he does not leave alive their sons either,
 but he puts to death all the males, not doing any hurt to the females.
 
-70. In the following manner the Scythians make oaths to whomsoever they
+## Chapter 70
+
+In the following manner the Scythians make oaths to whomsoever they
 make them:—they pour wine into a great earthenware cup and mingle with
 it blood of those who are taking the oath to one another, either making
 a prick with an awl or cutting with a dagger a little way into their
@@ -12364,7 +13618,9 @@ and a javelin; and having done this, they invoke many curses on the
 breaker of the oath, and afterwards they drink it off, both they who are
 making the oath and the most honourable of their company.
 
-71. The burial-place of the kings is in the land of the Gerrians, the
+## Chapter 71
+
+The burial-place of the kings is in the land of the Gerrians, the
 place up to which the Borysthenes is navigable. In this place, when
 their king has died, they make a large square excavation in the earth;
 and when they have made this ready, they take up the corpse (the body
@@ -12392,7 +13648,9 @@ silver they do not use at all, nor yet bronze. 70 Having thus done they
 all join together to pile up a great mound, vying with one another and
 zealously endeavouring to make it as large as possible.
 
-72. Afterwards, when the year comes round again, they do as
+## Chapter 72
+
+Afterwards, when the year comes round again, they do as
 follows:—they take the most capable of the remaining servants,—and these
 are native Scythians, for those serve him whom the king himself commands
 to do so, and his servants are not bought for money,—of these attendants
@@ -12414,7 +13672,9 @@ stake projects below, which they fasten into a socket made in the other
 stake that runs through the horse. Having set horsemen such as I have
 described in a circle round the tomb, they then ride away.
 
-73. Thus they bury their kings; but as for the other Scythians, when
+## Chapter 73
+
+Thus they bury their kings; but as for the other Scythians, when
 they die their nearest relations carry them round laid in waggons to
 their friends in succession; and of them each one when he receives the
 body entertains those who accompany it, and before the corpse they serve
@@ -12427,7 +13687,9 @@ about them they stretch woollen felt coverings, and when they have
 closed them as much as possible they throw stones heated red-hot into a
 basin placed in the middle of the stakes and the felt coverings.
 
-74. Now they have hemp growing in their land, which is very like flax
+## Chapter 74
+
+Now they have hemp growing in their land, which is very like flax
 except in thickness and in height, for in these respects the hemp is
 much superior. This grows both of itself and with cultivation; and of
 it the Thracians even make garments, which are very like those made of
@@ -12436,7 +13698,9 @@ not be able to decide whether the garments were of flax or of hemp; and
 he who had not before seen stuff woven of hemp would suppose that the
 garment was made of flax.
 
-75. The Scythians then take the seed of this hemp and creep under the
+## Chapter 75
+
+The Scythians then take the seed of this hemp and creep under the
 felt coverings, and then they throw the seed upon the stones which have
 been heated red-hot: and it burns like incense and produces a vapour so
 thick that no vapour-bath in Hellas would surpass it: and the Scythians
@@ -12449,7 +13713,9 @@ their body and also their face; and not only does a sweet smell attach
 to them by reason of this, but also when they take off the plaster on
 the next day, their skin is clean and shining.
 
-76. This nation also 73 is very averse to adopting strange customs,
+## Chapter 76
+
+This nation also 73 is very averse to adopting strange customs,
 rejecting even those of other tribes among themselves, 74 but especially
 those of the Hellenes, as the history of Anacharsis and also afterwards
 of Skyles proved. 75 For as to Anacharsis first, when he was returning
@@ -12478,7 +13744,9 @@ this house, let him know that he died by the hand of his brother,
 for Idanthyrsos was the son of Saulios, and Saulios was he who killed
 Anacharsis.
 
-77. However I have heard also another story, told by the Peloponnesians,
+## Chapter 77
+
+However I have heard also another story, told by the Peloponnesians,
 that Anacharsis was sent out by the king of the Scythians, and so made
 himself a disciple of Hellas; and that when he returned back he said
 to him that had sent him forth, that the Hellenes were all busied about
@@ -12487,7 +13755,9 @@ how to exchange speech sensibly. This story however has been invented 78
 without any ground by the Hellenes themselves; and however that may be,
 the man was slain in the way that was related above.
 
-78. This man then fared thus badly by reason of foreign customs and
+## Chapter 78
+
+This man then fared thus badly by reason of foreign customs and
 communication with Hellenes; and very many years afterwards Skyles the
 son of Ariapeithes suffered nearly the same fate as he. For Ariapeithes
 the king of the Scythians with other sons had Skyles born to him: and
@@ -12516,7 +13786,9 @@ that, he would put on the Scythian dress and depart. This he did many
 times, and he both built for himself a house in Borysthenes and also
 took to it a woman of the place as his wife.
 
-79. Since however it was fated that evil should happen to him, it
+## Chapter 79
+
+Since however it was fated that evil should happen to him, it
 happened by an occasion of this kind:—he formed a desire to be initiated
 in the rites of Bacchus-Dionysos, and as he was just about to receive 79
 the initiation, there happened a very great portent. He had in the city
@@ -12540,7 +13812,9 @@ Scythians saw him joining in the rite of Bacchus, they were exceedingly
 grieved at it, and they went out and declared to the whole band that
 which they had seen.
 
-80. After this when Skyles was riding out again to his own abode, the
+## Chapter 80
+
+After this when Skyles was riding out again to his own abode, the
 Scythians took his brother Octamasades for their leader, who was a son
 of the daughter of Teres, and made insurrection against Skyles. He then
 when he perceived that which was being done to his hurt and for what
@@ -12562,7 +13836,9 @@ carefully guard their own customary observances, and such are the
 penalties which they inflict upon those who acquire foreign customs
 besides their own.
 
-81. How many the Scythians are I was not able to ascertain precisely,
+## Chapter 81
+
+How many the Scythians are I was not able to ascertain precisely,
 but I heard various reports of the number: for reports say both that
 they are very many in number and also that they are few, at least as
 regards the true Scythians. 81 Thus far however they gave me evidence of
@@ -12584,7 +13860,9 @@ brought, and he resolved to make of them a memorial and to leave it
 behind him: from these then, they said, he made this bronze bowl and
 dedicated it in this place Exampaios.
 
-82. This is what I heard about the number of the Scythians. Now this
+## Chapter 82
+
+This is what I heard about the number of the Scythians. Now this
 land has no marvellous things except that it has rivers which are by far
 larger and more numerous than those of any other land. One thing however
 shall be mentioned which it has to show, and which is worthy of wonder
@@ -12594,7 +13872,9 @@ river Tyras, which in shape is like the mark of a man's foot but in size
 is two cubits long. This then is such as I have said; and I will go back
 now to the history which I was about to tell at first.
 
-83. While Dareios was preparing to go against the Scythians and was
+## Chapter 83
+
+While Dareios was preparing to go against the Scythians and was
 sending messengers to appoint to some the furnishing of a land-army, to
 others that of ships, and to others the bridging over of the Thracian
 Bosphorus, Artabanos, the son of Hystaspes and brother of Dareios, urged
@@ -12604,7 +13884,9 @@ persuade him, though he gave him good counsel, he ceased to urge; and
 Dareios, when all his preparations had been made, began to march his
 army forth from Susa.
 
-84. Then one of the Persians, Oiobazos, made request to Dareios that as
+## Chapter 84
+
+Then one of the Persians, Oiobazos, made request to Dareios that as
 he had three sons and all were serving in the expedition, one might be
 left behind for him: and Dareios said that as he was a friend and made a
 reasonable request, he would leave behind all the sons. So Oiobazos was
@@ -12612,7 +13894,9 @@ greatly rejoiced, supposing that his sons had been freed from service,
 but Dareios commanded those who had the charge of such things to put to
 death all the sons of Oiobazos.
 
-85. These then were left, having been slain upon the spot where they
+## Chapter 85
+
+These then were left, having been slain upon the spot where they
 were: and Dareios meanwhile set forth from Susa and arrived at the
 place on the Bosphorus where the bridge of ships had been made, in the
 territory of Chalcedon; and there he embarked in a ship and sailed
@@ -12631,7 +13915,9 @@ outlet into the Hellespont, which is but seven furlongs broad at the
 narrowest place, though it is four hundred furlongs in length: and the
 Hellespont runs out into that expanse of sea which is called the Egean.
 
-86. These measurements I have made as follows:—a ship completes on an
+## Chapter 86
+
+These measurements I have made as follows:—a ship completes on an
 average in a long day a distance of seventy thousand fathoms, and in
 a night sixty thousand. Now we know that to the river Phasis from the
 mouth of the Sea (for it is here that the Pontus is longest) is a voyage
@@ -12647,7 +13933,9 @@ lake which has its outlet into it, which lake is not much less in size
 than the Pontus itself, and it is called Maiotis and "Mother of the
 Pontus."
 
-87. Dareios then having gazed upon the Pontus sailed back to the bridge,
+## Chapter 87
+
+Dareios then having gazed upon the Pontus sailed back to the bridge,
 of which Mandrocles a Samian had been chief constructor; and having
 gazed upon the Bosphorus also, he set up two pillars 8601 by it of white
 stone with characters cut upon them, on the one Assyrian and on the
@@ -12663,7 +13951,9 @@ Assyrian characters. Now the place on the Bosphorus where Dareios made
 his bridge is, as I conclude, 8701 midway between Byzantion and the
 temple at the mouth of the Pontus.
 
-88. After this Dareios being pleased with the floating bridge rewarded
+## Chapter 88
+
+After this Dareios being pleased with the floating bridge rewarded
 the chief constructor of it, Mandrocles the Samian, with gifts tenfold;
 88 and as an offering from these Mandrocles had a painting made of
 figures to present the whole scene of the bridge over the Bosphorus and
@@ -12676,7 +13966,9 @@ temple of Hera, with the following inscription:
   A crown on himself he set, and he brought to the Samians glory,
     And for Dareios performed everything after his mind."
 
-89. This memorial was made of him who constructed the bridge: and
+## Chapter 89
+
+This memorial was made of him who constructed the bridge: and
 Dareios, after he had rewarded Mandrocles with gifts, passed over into
 Europe, having first commanded the Ionians to sail into the Pontus as
 far as the river Ister, and when they arrived at the Ister, there to
@@ -12690,7 +13982,9 @@ having crossed the Bosphorus on the floating bridge, was advancing
 through Thrace, and when he came to the sources of the river Tearos he
 encamped for three days.
 
-90. Now the Tearos is said by those who dwell near it to be the best of
+## Chapter 90
+
+Now the Tearos is said by those who dwell near it to be the best of
 all rivers, both in other respects which tend to healing and especially
 for curing diseases of the skin 89 both in men and in horses: and its
 springs are thirty-eight in number, flowing all from the same rock, of
@@ -12701,7 +13995,9 @@ runs into the river Contadesdos and the Contadesdos into the Agrianes
 and the Agrianes into the Hebros, which flows into the sea by the city
 of Ainos.
 
-91. Dareios then, having come to this river and having encamped there,
+## Chapter 91
+
+Dareios then, having come to this river and having encamped there,
 was pleased with the river and set up a pillar there also, with an
 inscription as follows: "The head-springs of the river Tearos give the
 best and fairest water of all rivers; and to them came leading an army
@@ -12709,14 +14005,18 @@ against the Scythians the best and fairest of all men, Dareios the son
 of Hystaspes, of the Persians and of all the Continent king." These were
 the words which were there written.
 
-92. Dareios then set out from thence and came to another river whose
+## Chapter 92
+
+Dareios then set out from thence and came to another river whose
 name is Artescos, which flows through the land of the Odrysians. Having
 come to this river he did as follows:—he appointed a place for his
 army and bade every man as he passed out by it place one stone in this
 appointed place: and when the army had performed this, then he marched
 away his army leaving behind great mounds of these stones.
 
-93. But before he came to the Ister he conquered first the Getai, who
+## Chapter 93
+
+But before he came to the Ister he conquered first the Getai, who
 believe in immortality: for the Thracians who occupy Salmydessos and
 are settled above the cities of Apollonian and Mesambria, called the
 Kyrmianai 90 and the Nipsaioi, delivered themselves over to Dareios
@@ -12724,7 +14024,9 @@ without fighting; but the Getai, who are the bravest and the most
 upright in their dealings of all the Thracians, having betaken
 themselves to obstinacy were forthwith subdued.
 
-94. And their belief in immortality is of this kind, that is to say,
+## Chapter 94
+
+And their belief in immortality is of this kind, that is to say,
 they hold that they do not die, but that he who is killed goes to
 Salmoxis, 91 a divinity, 92 whom some of them call Gebeleizis; and at
 intervals of four years 93 they send one of themselves, whomsoever
@@ -12743,7 +14045,9 @@ arrows up towards the sky when thunder and lightning come, and use
 threats to the god, not believing that there exists any other god except
 their own.
 
-95. This Salmoxis I hear from the Hellenes who dwell about the
+## Chapter 95
+
+This Salmoxis I hear from the Hellenes who dwell about the
 Hellespont and the Pontus, was a man, and he became a slave in Samos,
 and was in fact a slave of Pythagoras the son of Mnesarchos. Then having
 become free he gained great wealth, and afterwards returned to his
@@ -12765,13 +14069,17 @@ for his loss and mourned for him as dead. Then in the fourth year he
 appeared to the Thracians, and in this way the things which Salmoxis
 said became credible to them.
 
-96. Thus they say that he did; but as to this matter and the chamber
+## Chapter 96
+
+Thus they say that he did; but as to this matter and the chamber
 under ground, I neither disbelieve it nor do I very strongly believe,
 but I think that this Salmoxis lived many years before Pythagoras.
 However, whether there ever lived a man Salmoxis, or whether he is
 simply a native deity of the Getai, let us bid farewell to him now.
 
-97. These, I say, having such manners as I have said, were subdued by
+## Chapter 97
+
+These, I say, having such manners as I have said, were subdued by
 the Persians and accompanied the rest of the army: and when Dareios and
 with him the land-army arrived at the Ister, then after all had passed
 over, Dareios commanded the Ionians to break up the floating bridge and
@@ -12797,7 +14105,9 @@ these words: "Friend from Lesbos, when I have returned safe to my house,
 be sure that thou appear before me, in order that I may requite thee
 with good deeds for good counsel."
 
-98. Having thus said and having tied sixty knots in a thong, he called
+## Chapter 98
+
+Having thus said and having tied sixty knots in a thong, he called
 the despots of the Ionians to speak with him and said as follows:
 "Men of Ionia, know that I have given up the opinion which I formerly
 declared with regard to the bridge; and do ye keep this thong and do
@@ -12810,7 +14120,9 @@ all diligence to keep it safe and to guard it. And thus acting, ye will
 do for me a very acceptable service." Thus said Dareios and hastened on
 his march forwards.
 
-99. Now in front of Scythia in the direction towards the sea 97 lies
+## Chapter 99
+
+Now in front of Scythia in the direction towards the sea 97 lies
 Thrace; and where a bay is formed in this land, there begins Scythia,
 into which the Ister flows out, the mouth of the river being turned
 towards the South-East Wind. Beginning at the Ister then I am about to
@@ -12838,7 +14150,9 @@ harbour of Brentesion and running to Taras. And in mentioning these two
 similar cases I am suggesting many other things also to which the Tauric
 land has resemblance.
 
-100. After the Tauric land immediately come Scythians again, occupying
+## Chapter 100
+
+After the Tauric land immediately come Scythians again, occupying
 the parts above the Tauroi and the coasts of the Eastern sea, that is to
 say the parts to the West of the Kimmerian Bosphorus and of the Maiotian
 lake, as far as the river Tanaïs, which runs into the corner of this
@@ -12847,7 +14161,9 @@ know) 100 by the Agathyrsians first, beginning from the Ister, and
 then by the Neuroi, afterwards by the Androphagoi, and lastly by the
 Melanchlainoi.
 
-101. Scythia then being looked upon as a four-sided figure with two of
+## Chapter 101
+
+Scythia then being looked upon as a four-sided figure with two of
 its sides bordered by the sea, has its border lines equal to one another
 in each direction, that which tends inland and that which runs along
 by the sea: for from Ister to the Borysthenes is ten days' journey,
@@ -12859,7 +14175,9 @@ lines of Scythia 102 would be four thousand furlongs in length, and the
 perpendiculars which tend inland would be the same number of furlongs.
 Such is the size of this land.
 
-102. The Scythians meanwhile having considered with themselves that they
+## Chapter 102
+
+The Scythians meanwhile having considered with themselves that they
 were not able to repel the army of Dareios alone by a pitched battle,
 proceeded to send messengers to those who dwelt near them: and already
 the kings of these nations had come together and were taking counsel
@@ -12867,7 +14185,9 @@ with one another, since so great an army was marching towards them. Now
 those who had come together were the kings of the Tauroi, Agathyrsians,
 Neuroi, Androphagoi, Melanchlainoi, Gelonians, Budinoi and Sauromatai.
 
-103. Of these the Tauroi have the following customs:—they sacrifice to
+## Chapter 103
+
+Of these the Tauroi have the following customs:—they sacrifice to
 the "Maiden" both ship-wrecked persons and also those Hellenes whom they
 can capture by putting out to sea against them; 103 and their manner
 of sacrifice is this:—when they have made the first offering from the
@@ -12884,13 +14204,17 @@ raised to a great height, generally above the chimney; and they say that
 these are suspended above as guards to preserve the whole house. This
 people has its living by plunder and war.
 
-104. The Agathyrsians are the most luxurious of men and wear gold
+## Chapter 104
+
+The Agathyrsians are the most luxurious of men and wear gold
 ornaments for the most part: also they have promiscuous intercourse with
 their women, in order that they may be brethren to one another and being
 all nearly related may not feel envy or malice one against another. In
 their other customs they have come to resemble the Thracians.
 
-105. The Neuroi practise the Scythian customs: and one generation before
+## Chapter 105
+
+The Neuroi practise the Scythian customs: and one generation before
 the expedition of Dareios it so befell them that they were forced
 to quit their land altogether by reason of serpents: for their land
 produced serpents in vast numbers, and they fell upon them in still
@@ -12903,16 +14227,22 @@ days and then returns again to his original form. For my part I do not
 believe them when they say this, but they say it nevertheless, and swear
 it moreover.
 
-106. The Androphagoi have the most savage manners of all human beings,
+## Chapter 106
+
+The Androphagoi have the most savage manners of all human beings,
 and they neither acknowledge any rule of right nor observe any customary
 law. They are nomads and wear clothing like that of the Scythians, but
 have a language of their own; and alone of all these nations they are
 man-eaters.
 
-107. The Melanchlainoi wear all of them black clothing, whence also they
+## Chapter 107
+
+The Melanchlainoi wear all of them black clothing, whence also they
 have their name; and they practise the customs of the Scythians.
 
-108. The Budinoi are a very great and numerous race, and are all very
+## Chapter 108
+
+The Budinoi are a very great and numerous race, and are all very
 blue-eyed and fair of skin: and in their land is built a city of wood,
 the name of which is Gelonos, and each side of the wall is thirty
 furlongs in length and lofty at the same time, all being of wood; and
@@ -12926,7 +14256,9 @@ the Scythian language and partly the Hellenic. The Budinoi however
 do not use the same language as the Gelonians, nor is their manner of
 living the same:
 
-109, for the Budinoi are natives of the soil and a nomad people, and
+## Chapter 109
+
+for the Budinoi are natives of the soil and a nomad people, and
 alone of the nations in these parts feed on fir-cones; 107 but the
 Gelonians are tillers of the ground and feed on corn and have gardens,
 and resemble them not at all either in appearance or in complexion of
@@ -12939,7 +14271,9 @@ square-shaped faces. The fur of these is sewn as a fringe round their
 coats of skin, and the testicles are made use of by them for curing
 diseases of the womb.
 
-110. About the Sauromatai the following tale is told:—When the Hellenes
+## Chapter 110
+
+About the Sauromatai the following tale is told:—When the Hellenes
 had fought with the Amazons,—now the Amazons are called by the Scythians
 Oiorpata, 108 which name means in the Hellenic tongue "slayers of men,"
 for "man" they call oior, and pata means "to slay,"—then, as the
@@ -12955,7 +14289,9 @@ their ships and made their way into the country, and having met first
 with a troop of horses feeding they seized them, and mounted upon these
 they plundered the property of the Scythians.
 
-111. The Scythians meanwhile were not able to understand the matter,
+## Chapter 111
+
+The Scythians meanwhile were not able to understand the matter,
 for they did not know either their speech or their dress or the race to
 which they belonged, but were in wonder as to whence they had come and
 thought that they were men, of an age corresponding to their appearance:
@@ -12971,14 +14307,18 @@ before them, and when the women stopped, they were to approach near and
 encamp. This plan was adopted by the Scythians because they desired to
 have children born from them.
 
-112. The young men accordingly were sent out and did that which had been
+## Chapter 112
+
+The young men accordingly were sent out and did that which had been
 commanded them: and when the Amazons perceived that they had not come
 to do them any harm, they let them alone; and the two camps approached
 nearer to one another every day: and the young men, like the Amazons,
 had nothing except their arms and their horses, and got their living, as
 the Amazons did, by hunting and by taking booty.
 
-113. Now the Amazons at midday used to scatter abroad either one by one
+## Chapter 113
+
+Now the Amazons at midday used to scatter abroad either one by one
 or by two together, dispersing to a distance from one another to ease
 themselves; and the Scythians also having perceived this did the same
 thing: and one of the Scythians came near to one of those Amazons who
@@ -12993,7 +14333,9 @@ place and also brought another, and he found the Amazon awaiting him
 with another in her company. Then hearing this the rest of the young men
 also in their turn tamed for themselves the remainder of the Amazons;
 
-114, and after this they joined their camps and lived together, each man
+## Chapter 114
+
+and after this they joined their camps and lived together, each man
 having for his wife her with whom he had had dealings at first; and the
 men were not able to learn the speech of the women, but the women came
 to comprehend that of the men. So when they understood one another,
@@ -13011,7 +14353,9 @@ but if ye desire to keep us for your wives and to be thought honest men,
 go to your parents and obtain from them your share of the goods, and
 then let us go and dwell by ourselves."
 
-115. The young men agreed and did this; and when they had obtained the
+## Chapter 115
+
+The young men agreed and did this; and when they had obtained the
 share of the goods which belonged to them and had returned back to the
 Amazons, the women spoke to them as follows: "We are possessed by fear
 and trembling to think that we must dwell in this place, having not
@@ -13020,7 +14364,9 @@ land. Since then ye think it right to have us as your wives, do this
 together with us,—come and let us remove from this land and pass over
 the river Tanaïs and there dwell."
 
-116. The young men agreed to this also, and they crossed over the Tanaïs
+## Chapter 116
+
+The young men agreed to this also, and they crossed over the Tanaïs
 and made their way towards the rising sun for three days' journey from
 Tanaïs, and also towards the North Wind for three days' journey from
 the Maiotian lake: and having arrived at the place where they are now
@@ -13030,14 +14376,18 @@ regularly on horseback to the chase both in company with the men and
 apart from them, and going regularly to war, and wearing the same dress
 as the men.
 
-117. And the Sauromatai make use of the Scythian tongue, speaking it
+## Chapter 117
+
+And the Sauromatai make use of the Scythian tongue, speaking it
 barbarously however from the first, since the Amazons did not learn it
 thoroughly well. As regards marriages their rule is this, that no maiden
 is married until she has slain a man of their enemies; and some of them
 even grow old and die before they are married, because they are not able
 to fulfil the requirement of the law.
 
-118. To the kings of these nations then, which have been mentioned
+## Chapter 118
+
+To the kings of these nations then, which have been mentioned
 in order, the messengers of the Scythians came, finding them gathered
 together, and spoke declaring to them how the Persian king, after having
 subdued all things to himself in the other continent, had laid a bridge
@@ -13063,7 +14413,9 @@ compelled all who came in his way to submit to him, and he holds under
 him now not only the other Thracians but also the Getai, who are our
 nearest neighbours."
 
-119. When the Scythians proposed this, the kings who had come from the
+## Chapter 119
+
+When the Scythians proposed this, the kings who had come from the
 various nations took counsel together, and their opinions were divided.
 The kings of the Gelonians, of the Budinoi and of the Sauromatai agreed
 together and accepted the proposal that they should help the Scythians,
@@ -13083,7 +14435,9 @@ also shall refuse to submit 111: but until we shall see this, we shall
 remain by ourselves, for we are of opinion that the Persians have come
 not against us, but against those who were the authors of the wrong."
 
-120. When the Scythians heard this answer reported, they planned not to
+## Chapter 120
+
+When the Scythians heard this answer reported, they planned not to
 fight a pitched battle openly, since these did not join them as allies,
 but to retire before the Persians and to drive away their cattle from
 before them, choking up with earth the wells and the springs of water by
@@ -13107,7 +14461,9 @@ with the Persians, they were to involve them in it nevertheless against
 their will; and after that they were to return to their own land and
 attack the enemy, if it should seem good to them in council so to do.
 
-121. Having formed this plan the Scythians went to meet the army of
+## Chapter 121
+
+Having formed this plan the Scythians went to meet the army of
 Dareios, sending off the best of their horsemen before them as scouts;
 but all 112 the waggons in which their children and their women lived
 they sent on, and with them all their cattle (leaving only so much as
@@ -13115,7 +14471,9 @@ was sufficient to supply them with food), and charged them that they
 should proceed continually towards the North Wind. These, I say, were
 being carried on before:
 
-122, but when the scouts who went in front of the Scythians discovered
+## Chapter 122
+
+but when the scouts who went in front of the Scythians discovered
 the Persians distant about three days' march from Ister, then the
 Scythians having discovered them continued to pitch their camp one day's
 march in front, destroying utterly that which grew from the ground: and
@@ -13128,7 +14486,9 @@ crossed over the river Tanaïs, the Persians crossed over after them and
 continued still to pursue, until they had passed quite through the land
 of the Sauromatai and had come to that of the Budinoi.
 
-123. Now so long as the Persians were passing through Scythia and the
+## Chapter 123
+
+Now so long as the Persians were passing through Scythia and the
 land of the Sauromatai, they had nothing to destroy, seeing that the
 land was bare, 113 but when they invaded the land of the Budinoi,
 then they fell in with the wooden wall, which had been deserted by the
@@ -13142,7 +14502,9 @@ from them through the land of the Maiotians and run into that which is
 called the Maiotian lake, their names being as follows,—Lycos, Oaros,
 Tanaïs, Syrgis. 114
 
-124. When therefore Dareios came to the desert region, he ceased from
+## Chapter 124
+
+When therefore Dareios came to the desert region, he ceased from
 his course and halted his army upon the river Oaros. Having so done he
 began to build eight large fortifications at equal distances from one
 another, that is to say about sixty furlongs, of which the ruins
@@ -13154,7 +14516,9 @@ those fortifications half finished, and turning back himself began to
 go towards the West, supposing that these were the whole body of the
 Scythians and that they were flying towards the West.
 
-125. And marching his army as quickly as possible, when he came to
+## Chapter 125
+
+And marching his army as quickly as possible, when he came to
 Scythia he met with the two divisions of the Scythians together, and
 having fallen in with these he continued to pursue them, while they
 retired out of his way one day's journey in advance: and as Dareios did
@@ -13181,7 +14545,9 @@ when the Agathyrsians had warned them off, did not attempt any more to
 come to these, but led the Persians from the country of the Neuroi back
 to their own land.
 
-126. Now as this went on for a long time and did not cease, Dareios sent
+## Chapter 126
+
+Now as this went on for a long time and did not cease, Dareios sent
 a horseman to Idanthyrsos king of the Scythians and said as follows:
 "Thou most wondrous man, why dost thou fly for ever, when thou mightest
 do of these two things one?—if thou thinkest thyself able to make
@@ -13190,7 +14556,9 @@ abroad, and fight; but if thou dost acknowledge thyself too weak, cease
 then in that case also from thy course, and come to speech with thy
 master, bringing to him gifts of earth and water."
 
-127. To this the king of the Scythians Idanthyrsos made answer thus: "My
+## Chapter 127
+
+To this the king of the Scythians Idanthyrsos made answer thus: "My
 case, O Persian, stands thus:—Never yet did I fly because I was afraid,
 either before this time from any other man, or now from thee; nor have
 I done anything different now from that which I was wont to do also in
@@ -13211,7 +14579,9 @@ shouldest receive; and in return for thy saying that thou art my master,
 for that I say, woe betide thee." 116 This is the proverbial "saying of
 the Scythians." 117
 
-128. The herald then had departed to report this to Dareios; and the
+## Chapter 128
+
+The herald then had departed to report this to Dareios; and the
 kings of the Scythians, having heard mention of subjection to a master,
 were filled with wrath. They sent accordingly the division which was
 appointed to be joined with the Sauromatai, that division of which
@@ -13227,7 +14597,9 @@ their assistance; and meanwhile the Scythians when they had driven in
 the cavalry turned back, fearing the men on foot. Also by night the
 Scythians used to make similar attacks:
 
-129, and the thing which, strange to say, most helped the Persians and
+## Chapter 129
+
+and the thing which, strange to say, most helped the Persians and
 hindered the Scythians in their attacks upon the camp of Dareios, I will
 mention, namely the voice of the asses and the appearance of the mules;
 for Scythia produces neither ass nor mule, as I have declared before,
@@ -13239,7 +14611,9 @@ the voice of the asses they turned back in confusion and were possessed
 with wonder, pricking up their ears, because they had never heard such a
 voice nor seen the form of the creature before.
 
-130. So far then the Persians had the advantage for a small part of the
+## Chapter 130
+
+So far then the Persians had the advantage for a small part of the
 war. 118 But the Scythians, whenever they saw that the Persians were
 disquieted, then in order that they might remain a longer time in
 Scythia and in remaining might suffer by being in want of everything,
@@ -13248,7 +14622,9 @@ they themselves rode out of the way to another place, and the Persians
 would come upon the cattle and take them, and having taken them they
 were elated at what they had done.
 
-131. As this happened often, at length Dareios began to be in straits;
+## Chapter 131
+
+As this happened often, at length Dareios began to be in straits;
 and the kings of the Scythians perceiving this sent a herald bearing
 as gifts to Dareios a bird and a mouse and a frog and five arrows. The
 Persians accordingly asked the bearer of the gifts as to the meaning
@@ -13257,7 +14633,9 @@ commanded to him but to give them and get away as speedily as possible;
 and he bade the Persians find out for themselves, if they had wisdom,
 that which the gifts were meant to express.
 
-132. Having heard this the Persians took counsel with one another; and
+## Chapter 132
+
+Having heard this the Persians took counsel with one another; and
 the opinion of Dareios was that the Scythians were giving to him both
 themselves and also earth and water, making his conjecture by this,
 namely that a mouse is produced in the earth and feeds on the same
@@ -13271,7 +14649,9 @@ heaven, O Persians, or become mice and sink down under the earth, or
 become frogs and leap into the lakes, ye shall not return back home, but
 shall be smitten by these arrows."
 
-133. The Persians then, I say, were making conjecture of the gifts:
+## Chapter 133
+
+The Persians then, I say, were making conjecture of the gifts:
 and meanwhile the single division of the Scythians, that which had been
 appointed at first to keep guard along the Maiotian lake and then to go
 to the Ister and come to speech with the Ionians, when they arrived
@@ -13284,7 +14664,9 @@ blame from his part and without blame also from ours: stay the appointed
 days and then after that get you away." They then, when the Ionians had
 engaged themselves to do this, hastened back again by the quickest way:
 
-134, and meanwhile, after the coming of the gifts to Dareios, the
+## Chapter 134
+
+and meanwhile, after the coming of the gifts to Dareios, the
 Scythians who were left had arrayed themselves against the Persians with
 both foot and horse, meaning to engage battle. Now when the Scythians
 had been placed in battle-array, a hare darted through them into the
@@ -13307,7 +14689,9 @@ and tie up all the asses and get us away, before either the Scythians
 make for the Ister to destroy the bridge or something be resolved by the
 Ionians which may be our ruin."
 
-135. Thus Gobryas advised; and after this, when night came on, Dareios
+## Chapter 135
+
+Thus Gobryas advised; and after this, when night came on, Dareios
 acted on this opinion. Those of his men who were weakened by fatigue and
 whose loss was of least account, these he left behind in the camp, and
 the asses also tied up: and for the following reasons he left behind the
@@ -13322,7 +14706,9 @@ about them the usual throng, 120 very much more for that reason caused
 their voice to be heard; 121 so the Scythians, hearing the asses,
 supposed surely that the Persians were remaining in their former place.
 
-136. But when it was day, those who were left behind perceived that
+## Chapter 136
+
+But when it was day, those who were left behind perceived that
 they had been betrayed by Dareios, and they held out their hands in
 submission to the Scythians, telling them what their case was; and the
 Scythians, when they heard this, joined together as quickly as possible,
@@ -13343,7 +14729,9 @@ gods and to the Scythians: and him who was formerly your master we
 will so convince, that he shall never again march with an army upon any
 nation."
 
-137. Upon this the Ionians took counsel together; and Miltiades the
+## Chapter 137
+
+Upon this the Ionians took counsel together; and Miltiades the
 Athenian on the one hand, who was commander and despot of the men of
 the Chersonese in Hellespont, was of opinion that they should follow the
 advice of the Scythians and set Ionia free: but Histiaios the Milesian
@@ -13356,7 +14744,9 @@ each of the cities would choose to have popular rather than despotic
 rule. When Histiaios declared his opinion thus, forthwith all turned to
 this opinion, whereas at the first they were adopting that of Miltiades.
 
-138. Now these were they who gave the vote between the two opinions, and
+## Chapter 138
+
+Now these were they who gave the vote between the two opinions, and
 were men of consequence in the eyes of the king, 124—first the despots
 of the Hellespontians, Daphnis of Abydos, Hippoclos of Lampsacos,
 Herophantos of Parion, Metrodoros of Proconnesos, Aristagoras of
@@ -13366,7 +14756,9 @@ and Histiaios of Miletos, whose opinion had been proposed in opposition
 to that of Miltiades; and of the Aiolians the only man of consequence
 there present was Aristagoras of Kyme.
 
-139. When these adopted the opinion of Histiaios, they resolved to add
+## Chapter 139
+
+When these adopted the opinion of Histiaios, they resolved to add
 to it deeds and words as follows, namely to break up that part of the
 bridge which was on the side towards the Scythians, to break it up, I
 say, for a distance equal to the range of an arrow, both in order that
@@ -13386,7 +14778,9 @@ for those of whom ye speak, and when ye have found them, that ye should
 take vengeance on them on behalf of us as well as of yourselves in such
 manner as they deserve."
 
-140. The Scythians then, believing for the second time that the Ionians
+## Chapter 140
+
+The Scythians then, believing for the second time that the Ionians
 were speaking the truth, turned back to make search for the Persians,
 but they missed altogether their line of march through the land. Of this
 the Scythians themselves were the cause, since they had destroyed the
@@ -13404,14 +14798,18 @@ found the passage of the river, though with difficulty: 125 and as they
 arrived by night and found the bridge broken up, they were brought to
 the extreme of fear, lest the Ionians should have deserted them.
 
-141. Now there was with Dareios an Egyptian who had a voice louder than
+## Chapter 141
+
+Now there was with Dareios an Egyptian who had a voice louder than
 that of any other man on earth, and this man Dareios ordered to take his
 stand upon the bank of the Ister and to call Histiaios of Miletos. He
 accordingly proceeded to do so; and Histiaios, hearing the first hail,
 produced all the ships to carry the army over and also put together the
 bridge.
 
-142. Thus the Persians escaped, and the Scythians in their search missed
+## Chapter 142
+
+Thus the Persians escaped, and the Scythians in their search missed
 the Persians the second time also: and their judgment of the Ionians is
 that on the one hand, if they be regarded as free men, they are the most
 worthless and cowardly of all men, but on the other hand, if regarded
@@ -13419,7 +14817,9 @@ as slaves, they are the most attached to their master and the least
 disposed to run away of all slaves. This is the reproach which is cast
 against the Ionians by the Scythians.
 
-143. Dareios then marching through Thrace arrived at Sestos in the
+## Chapter 143
+
+Dareios then marching through Thrace arrived at Sestos in the
 Chersonese; and from that place, he passed over himself in his ships to
 Asia, but to command his army in Europe he left Megabazos a Persian, to
 whom Dareios once gave honour by uttering in the land of Persia 126 this
@@ -13431,7 +14831,9 @@ that in number, rather than to have Hellas subject to him. In Persia, I
 say, he honoured him by saying these words, and at this time he left him
 in command with eight myriads 127 of his army.
 
-144. This Megabazos uttered one saying whereby he left of himself an
+## Chapter 144
+
+This Megabazos uttered one saying whereby he left of himself an
 imperishable memory with the peoples of Hellespont: for being once at
 Byzantion he heard that the men of Calchedon had settled in that region
 seventeen years before the Byzantians, and having heard it he said that
@@ -13441,7 +14843,9 @@ that which was better, if they had not been blind. This Megabazos it was
 who was left in command at that time in the land of the Hellespontians,
 and he proceeded to subdue all who did not take the side of the Medes.
 
-145. He then was doing thus; and at this very same time a great
+## Chapter 145
+
+He then was doing thus; and at this very same time a great
 expedition was being made also against Libya, on an occasion which
 I shall relate when I have first related this which follows.—The
 children's children of those who voyaged in the Argo, having been driven
@@ -13467,7 +14871,9 @@ gave them a share of land and distributed them in the tribes; and they
 forthwith made marriages, and gave in marriage to others the women whom
 they brought with them from Lemnos.
 
-146. However, when no very long time had passed, the Minyai forthwith
+## Chapter 146
+
+However, when no very long time had passed, the Minyai forthwith
 broke out into insolence, asking for a share of the royal power and also
 doing other impious things: therefore the Lacedemonians resolved to put
 them to death; and having seized them they cast them into a prison.
@@ -13483,7 +14889,9 @@ husbands: thus the Minyai having put on the women's clothes went forth
 out of prison as women, and having escaped in this manner they went
 again to Taÿgetos and sat down there.
 
-147. Now at this very same time Theras the son of Autesion, the son of
+## Chapter 147
+
+Now at this very same time Theras the son of Autesion, the son of
 Tisamenos, the son of Thersander, the son of Polyneikes, was preparing
 to set forth from Lacedemon to found a settlement. This Theras, who was
 of the race of Cadmos, was mother's brother to the sons of Aristodemos,
@@ -13502,7 +14910,9 @@ he left in this island, besides other Phenicians, Membliaros also, of
 his own kinsmen. These occupied the island called Callista for eight
 generations of men, before Theras came from Lacedemon.
 
-148. To these then, I say, Theras was preparing to set forth, taking
+## Chapter 148
+
+To these then, I say, Theras was preparing to set forth, taking
 with him people from the tribes, and intending to settle together with
 those who have been mentioned, not with any design to drive them out,
 but on the contrary claiming them very strongly as kinfolk. And when
@@ -13520,7 +14930,9 @@ towns,—Lepreon, Makistos, Phrixai, Pyrgos, Epion, Nudion; of these the
 Eleians sacked the greater number within my own lifetime. The island
 meanwhile got its name of Thera after Theras 130 who led the settlement.
 
-149. And since his son said that he would not sail with him, therefore
+## Chapter 149
+
+And since his son said that he would not sail with him, therefore
 he said that he would leave him behind as a sheep among wolves; and in
 accordance with that saying this young man got the name of Oiolycos, 131
 and it chanced that this name prevailed over his former name: then from
@@ -13531,7 +14943,9 @@ oracle a temple to the Avenging Deities 133 of Laïos and OEdipus, and
 after this the same thing was continued 134 in Thera by the descendants
 of these men.
 
-150. Up to this point of the story the Lacedemonians agree in their
+## Chapter 150
+
+Up to this point of the story the Lacedemonians agree in their
 report with the men of Thera; but in what is to come it is those of
 Thera alone who report that it happened as follows. Grinnos 135 the son
 of Aisanios, a descendant of the Theras who has been mentioned, and
@@ -13548,7 +14962,9 @@ but afterwards when he had come away they were in difficulty about the
 saying of the Oracle, neither having any knowledge of Libya, in what
 part of the earth it was, nor venturing to send a colony to the unknown.
 
-151. Then after this for seven years there was no rain in Thera, and
+## Chapter 151
+
+Then after this for seven years there was no rain in Thera, and
 in these years all the trees in their island were withered up excepting
 one: and when the Theraians consulted the Oracle, the Pythian prophetess
 alleged this matter of colonising Libya to be the cause. As then they
@@ -13565,7 +14981,9 @@ behind with him provisions for a certain number of months, and sailed
 themselves as quickly as possible to make report about the island to the
 men of Thera.
 
-152. Since however these stayed away longer than the time appointed,
+## Chapter 152
+
+Since however these stayed away longer than the time appointed,
 Corobios found himself destitute; and after this a ship of Samos, of
 which the master was Colaios, while sailing to Egypt was carried out of
 its course and came to this island of Platea; and the Samians hearing
@@ -13587,7 +15005,9 @@ cubits in height, resting upon their knees. By reason first of this
 deed great friendship was formed by those of Kyrene and Thera with the
 Samians.
 
-153. The Theraians meanwhile, when they arrived at Thera after having
+## Chapter 153
+
+The Theraians meanwhile, when they arrived at Thera after having
 left Corobios in the island, reported that they had colonised an island
 on the coast of Libya: and the men of Thera resolved to send one of
 every two brothers selected by lot and men besides taken from all the
@@ -13595,7 +15015,9 @@ regions of the island, which are seven in number; and further that
 Battos should be both their leader and their king. Thus then they sent
 forth two fifty-oared galleys to Platea.
 
-154. This is the report of the Theraians; and for the remainder of the
+## Chapter 154
+
+This is the report of the Theraians; and for the remainder of the
 account from this point onwards the Theraians are in agreement with the
 men of Kyrene: from this point onwards, I say, since in what concerns
 Battos the Kyrenians tell by no means the same tale as those of Thera;
@@ -13620,7 +15042,9 @@ himself from blame as regards the oath which Etearchos had made him
 swear, he tied her on each side with ropes and let her down into the
 sea, and then drew her up and came to Thera.
 
-155. After that, Polymnestos, a man of repute among the Theraians,
+## Chapter 155
+
+After that, Polymnestos, a man of repute among the Theraians,
 received Phronime from him and kept her as his concubine; and in course
 of time there was born to him from her a son with an impediment in his
 voice and lisping, to whom, as both Theraians and Kyrenians say, was
@@ -13646,7 +15070,9 @@ persuade her to give him any other reply; and as she was prophesying to
 him again the same things as before, Battos departed while she was yet
 speaking, 140 and went away to Thera.
 
-156. After this there came evil fortune both to himself and to the other
+## Chapter 156
+
+After this there came evil fortune both to himself and to the other
 men of Thera; 141 and the Theraians, not understanding that which
 befell them, sent to Delphi to inquire about the evils which they were
 suffering: and the Pythian prophetess gave them reply that if they
@@ -13661,7 +15087,9 @@ lying near the coast of Libya, called, as was said before, Platea.
 This island is said to be of the same size as the now existing city of
 Kyrene.
 
-157. In this they continued to dwell two years; but as they had no
+## Chapter 157
+
+In this they continued to dwell two years; but as they had no
 prosperity, they left one of their number behind and all the rest sailed
 away to Delphi, and having come to the Oracle they consulted it, saying
 that they were dwelling in Libya and that, though they were dwelling
@@ -13678,7 +15106,9 @@ taken up him whom they had left, they made a settlement in Libya itself
 at a spot opposite the island, called Aziris, which is enclosed by most
 fair woods on both sides and a river flows by it on one side.
 
-158. In this spot they dwelt for six years; and in the seventh year the
+## Chapter 158
+
+In this spot they dwelt for six years; and in the seventh year the
 Libyans persuaded them to leave it, making request and saying that they
 would conduct them to a better region. So the Libyans led them from that
 place making them start towards evening; and in order that the Hellenes
@@ -13688,7 +15118,9 @@ and this region is called Irasa. Then having conducted them to the
 so-called spring of Apollo, they said, "Hellenes, here is a fit place
 for you to dwell, for here the heaven is pierced with holes."
 
-159. Now during the lifetime of the first settler Battos, who reigned
+## Chapter 159
+
+Now during the lifetime of the first settler Battos, who reigned
 forty years, and of his son Arkesilaos, who reigned sixteen years, the
 Kyrenians continued to dwell there with the same number as 142 when they
 first set forth to the colony; but in the time of the third king, called
@@ -13714,7 +15146,9 @@ slaughtered that but few of them returned back to Egypt. In consequence
 of this and because they laid the blame of it upon Apries, the Egyptians
 revolted from him.
 
-160. This Battos had a son called Arkesilaos, who first when he became
+## Chapter 160
+
+This Battos had a son called Arkesilaos, who first when he became
 king made a quarrel with his own brothers, until they finally departed
 to another region of Libya, and making the venture for themselves
 founded that city which was then and is now called Barca; and at the
@@ -13730,7 +15164,9 @@ there. After this disaster Arkesilaos, being sick and having swallowed a
 potion, was strangled by his brother Haliarchos, 145 and Haliarchos was
 killed treacherously by the wife of Arkesilaos, whose name was Eryxo.
 
-161. Then Battos the son of Arkesilaos succeeded to the kingdom, who
+## Chapter 161
+
+Then Battos the son of Arkesilaos succeeded to the kingdom, who
 was lame and not sound in his feet: and the Kyrenians with a view to the
 misfortune which had befallen them sent men to Delphi to ask what form
 of rule they should adopt, in order to live in the best way possible;
@@ -13747,7 +15183,9 @@ domains of land and priesthoods, but all the other powers which the
 kings used to possess before, he assigned as of public right to the
 people.
 
-162. During the reign of this Battos things continued to be thus, but in
+## Chapter 162
+
+During the reign of this Battos things continued to be thus, but in
 the reign of his son Arkesilaos there arose much disturbance about
 the offices of the State: for Arkesilaos son of Battos the Lame and
 of Pheretime said that he would not suffer it to be according as the
@@ -13767,7 +15205,9 @@ with wool also upon it: and when Pheretime uttered again the same saying
 about this present, Euelthon said that such things as this were given as
 gifts to women and not an army.
 
-163. Arkesilaos meanwhile, being in Samos, was gathering every one
+## Chapter 163
+
+Arkesilaos meanwhile, being in Samos, was gathering every one
 together by a promise of dividing land; and while a great host was being
 collected, Arkesilaos set out to Delphi to inquire of the Oracle about
 returning from exile: and the Pythian prophetess gave him this answer:
@@ -13780,7 +15220,9 @@ however thou heat the furnace fiercely, enter not thou into the place
 flowed round by water; for if thou dost thou shalt die, both thou and
 the bull which is fairer than all the rest."
 
-164. Thus the Pythian prophetess gave answer to Arkesilaos; and he,
+## Chapter 164
+
+Thus the Pythian prophetess gave answer to Arkesilaos; and he,
 having taken to him those in Samos, made his return to Kyrene; and when
 he had got possession of the power, he did not remember the saying of
 the Oracle but endeavoured to exact penalties from those of the opposite
@@ -13803,7 +15245,9 @@ besides him his father-in-law Alazeir. Arkesilaos accordingly, having
 missed the meaning of the oracle, whether with his will or against his
 will, fulfilled his own destiny.
 
-165. His mother Pheretime meanwhile, so long as Arkesilaos having worked
+## Chapter 165
+
+His mother Pheretime meanwhile, so long as Arkesilaos having worked
 evil for himself dwelt at Barca, herself held the royal power of her son
 at Kyrene, both exercising his other rights and also sitting in council:
 but when she heard that her son had been slain in Barca, she departed
@@ -13813,7 +15257,10 @@ given over Kyrene to Cambyses and had laid a tribute upon himself.
 Pheretime then having come to Egypt sat down as a suppliant of Aryandes,
 bidding him help her, and alleging as a reason that it was on account
 of his inclination to the side of the Medes that her son had been slain.
-166. Now this Aryandes had been appointed ruler of the province of Egypt
+
+## Chapter 166
+
+Now this Aryandes had been appointed ruler of the province of Egypt
 by Cambyses; and after the time of these events he lost his life because
 he would measure himself with Dareios. For having heard and seen that
 Dareios desired to leave behind him as a memorial of himself a thing
@@ -13825,7 +15272,9 @@ purest silver is that which is called Aryandic. Dareios then having
 learnt that he was doing this put him to death, bringing against him
 another charge of attempting rebellion.
 
-167. Now at the time of which I speak this Aryandes had compassion on
+## Chapter 167
+
+Now at the time of which I speak this Aryandes had compassion on
 Pheretime and gave her all the troops that were in Egypt, both the
 land and the sea forces, appointing Amasis a Maraphian to command the
 land-army and Badres, of the race of the Pasargadai, to command the
@@ -13839,7 +15288,9 @@ purpose of subduing Libya: for of the Libyans there are many nations of
 nations of various kinds, and but few of them are subject to the king,
 while the greater number paid no regard to Dareios.
 
-168. Now the Libyans have their dwelling as follows:—Beginning from
+## Chapter 168
+
+Now the Libyans have their dwelling as follows:—Beginning from
 Egypt, first of the Libyans are settled the Adyrmachidai, who practise
 for the most part the same customs as the Egyptians, but wear clothing
 similar to that of the other Libyans. Their women wear a bronze ring
@@ -13851,7 +15302,9 @@ be married, and whosoever of them proves to be pleasing to the king is
 deflowered by him. These Adyrmachidai extend along the coast from Egypt
 as far as the port which is called Plynos.
 
-169. Next after these come the Giligamai, 151 occupying the country
+## Chapter 169
+
+Next after these come the Giligamai, 151 occupying the country
 towards the West as far as the island of Aphrodisias. In the space
 within this limit lies off the coast the island of Platea, where the
 Kyrenians made their settlement; and on the coast of the mainland there
@@ -13860,19 +15313,25 @@ this point begins the silphion 152 and it extends along the coast from
 the island of Platea as far as the entrance of the Syrtis. This nation
 practises customs nearly resembling those of the rest.
 
-170. Next to the Giligamai on the West are the Asbystai: 153 these dwell
+## Chapter 170
+
+Next to the Giligamai on the West are the Asbystai: 153 these dwell
 above 154 Kyrene, and the Asbystai do not reach down the sea, for the
 region along the sea is occupied by Kyrenians. These most of all the
 Libyans are drivers of four-horse chariots, and in the greater number of
 their customs they endeavour to imitate the Kyrenians.
 
-171. Next after the Asbystai on the West come the Auchisai: these dwell
+## Chapter 171
+
+Next after the Asbystai on the West come the Auchisai: these dwell
 above Barca and reach down to the sea by Euesperides: and in the middle
 of the country of the Auchisai dwell the Bacales, 155 a small tribe,
 who reach down to the sea by the city of Taucheira in the territory of
 Barca: these practise the same customs as those above Kyrene.
 
-172. Next after these Auschisai towards the West come the Nasamonians,
+## Chapter 172
+
+Next after these Auschisai towards the West come the Nasamonians,
 a numerous race, who in the summer leave their flocks behind by the sea
 and go up to the region of Augila to gather the fruit of the date-palms,
 which grow in great numbers and very large and are all fruit-bearing:
@@ -13896,7 +15355,9 @@ to say, one gives the other to drink from his hand, and drinks himself
 from the hand of the other; and if they have no liquid, they take of the
 dust from the ground and lick it.
 
-173. Adjoining the Nasamonians is the country of the Psylloi. These have
+## Chapter 173
+
+Adjoining the Nasamonians is the country of the Psylloi. These have
 perished utterly in the following manner:—The South Wind blowing upon
 them dried up all their cisterns of water, and their land was waterless,
 lying all within the Syrtis. They then having taken a resolve by common
@@ -13906,12 +15367,16 @@ the South Wind blew and buried them in the sand. These then having
 utterly perished, the Nasamonians from that time forward possess their
 land.
 
-174. Above these towards the South Wind in the region of wild beasts
+## Chapter 174
+
+Above these towards the South Wind in the region of wild beasts
 dwell the Garamantians, 157 who fly from every man and avoid the company
 of all; and they neither possess any weapon of war, nor know how to
 defend themselves against enemies.
 
-175. These dwell above the Nasamonians; and next to the Nasamonians
+## Chapter 175
+
+These dwell above the Nasamonians; and next to the Nasamonians
 along the sea coast towards the West come the Macai, who shave their
 hair so as to leave tufts, letting the middle of their hair grow long,
 but round this on all sides shaving it close to the skin; and for
@@ -13922,26 +15387,34 @@ with wood, while the rest of Libya which has been spoken of before is
 bare of trees; and the distance from the sea to this hill is two hundred
 furlongs.
 
-176. Next to these Macai are the Gindanes, whose women wear each of
+## Chapter 176
+
+Next to these Macai are the Gindanes, whose women wear each of
 them a number of anklets made of the skins of animals, for the following
 reason, as it is said:—for every man who has commerce with her she binds
 on an anklet, and the woman who has most is esteemed the best, since she
 has been loved by the greatest number of men.
 
-177. In a peninsula which stands out into the sea from the land of these
+## Chapter 177
+
+In a peninsula which stands out into the sea from the land of these
 Gindanes dwell the Lotophagoi, who live by eating the fruit of the
 lotos only. Now the fruit of the lotos is in size like that of the
 mastich-tree, and in flavour 158 it resembles that of the date-palm. Of
 this fruit the Lotophagoi even make for themselves wine.
 
-178. Next after the Lotophagoi along the sea-coast are the Machlyans,
+## Chapter 178
+
+Next after the Lotophagoi along the sea-coast are the Machlyans,
 who also make use of the lotos, but less than those above mentioned.
 These extend to a great river named the river Triton, and this runs out
 into a great lake called Tritonis, in which there is an island named
 Phla. About this island they say there was an oracle given to the
 Lacedemonians that they should make a settlement in it.
 
-179. The following moreover is also told, namely that Jason, when
+## Chapter 179
+
+The following moreover is also told, namely that Jason, when
 the Argo had been completed by him under Mount Pelion, put into it
 a hecatomb and with it also 159 a tripod of bronze, and sailed round
 Pelopponese, desiring to come to Delphi; and when in sailing he got near
@@ -13959,7 +15432,9 @@ the Argo should carry away this tripod, then it was determined by fate
 that a hundred cities of Hellenes should be established about the lake
 Tritonis. Having heard this the native Libyans concealed the tripod.
 
-180. Next to these Machlyans are the Auseans. These and the Machlyans
+## Chapter 180
+
+Next to these Machlyans are the Auseans. These and the Machlyans
 dwell round the lake Tritonis, and the river Triton is the boundary
 between them: and while the Machlyans grow their hair long at the back
 of the head, the Auseans do so in front. At a yearly festival of Athene
@@ -13985,7 +15460,9 @@ any woman has grown big, he is brought before a meeting of the men held
 within three months of that time, 161 and whomsoever of the men the
 child resembles, his son he is accounted to be.
 
-181. Thus then have been mentioned those nomad Libyans who live along
+## Chapter 181
+
+Thus then have been mentioned those nomad Libyans who live along
 the sea-coast: and above these inland is the region of Libya which has
 wild beasts; and above the wild-beast region there stretches a raised
 belt of sand, extending from Thebes of the Egyptians to the Pillars of
@@ -14006,13 +15483,17 @@ midnight, when it boils and throws up bubbles; and when midnight passes,
 it becomes cooler gradually till dawn of day. This spring is called the
 fountain of the Sun.
 
-182. After the Ammonians, as you go on along the belt of sand, at an
+## Chapter 182
+
+After the Ammonians, as you go on along the belt of sand, at an
 interval again of ten days' journey there is a hill of salt like that
 of the Ammonians, and a spring of water, with men dwelling about it; and
 the name of this place is Augila. To this the Nasamonians come year by
 year to gather the fruit of the date-palms.
 
-183. From Augila at a distance again of ten days' journey there
+## Chapter 183
+
+From Augila at a distance again of ten days' journey there
 is another hill of salt and spring of water and a great number of
 fruit-bearing date-palms, as there are also in the other places: and
 men dwell here who are called the Garmantians, a very great nation, who
@@ -14032,7 +15513,9 @@ Cave-dwellers feed upon serpents and lizards and such creeping things,
 and they use a language which resembles no other, for in it they squeak
 just like bats.
 
-184. From the Garmantians at a distance again of ten days' journey there
+## Chapter 184
+
+From the Garmantians at a distance again of ten days' journey there
 is another hill of salt and spring of water, and men dwell round
 it called Atarantians, who alone of all men about whom we know are
 nameless; for while all taken together have the name Atarantians,
@@ -14049,7 +15532,9 @@ say is the pillar of the heaven. After this mountain these men got their
 name, for they are called Atlantians; and it is said that they neither
 eat anything that has life nor have any dreams.
 
-185. As far as these Atlantians I am able to mention in order the names
+## Chapter 185
+
+As far as these Atlantians I am able to mention in order the names
 of those who are settled in the belt of sand; but for the parts beyond
 these I can do so no more. However, the belt extends as far as the
 Pillars of Heracles and also in the parts outside them: and there is
@@ -14063,7 +15548,9 @@ the direction of the South Wind and towards the interior of Libya, the
 country is uninhabited, without water and without wild beasts, rainless
 and treeless, and there is no trace of moisture in it.
 
-186. I have said that from Egypt as far as the lake Tritonis Libyans
+## Chapter 186
+
+I have said that from Egypt as far as the lake Tritonis Libyans
 dwell who are nomads, eating flesh and drinking milk; and these do not
 taste at all of the flesh of cows, for the same reason as the Egyptians
 also abstain from it, nor do they keep swine. Moreover the women of
@@ -14072,7 +15559,9 @@ Egyptian Isis, and they even keep fasts and celebrate festivals for her;
 and the women of Barca, in addition from cows' flesh, do not taste of
 swine either.
 
-187. Thus it is with these matters: but in the region to the West of
+## Chapter 187
+
+Thus it is with these matters: but in the region to the West of
 lake Tritonis the Libyans cease to be nomads, and they do not practise
 the same customs, nor do to their children anything like that which
 the nomads are wont to do; for the nomad Libyans, whether all of them
@@ -14089,14 +15578,18 @@ convulsion comes on, they have found out a remedy for this; for they
 pour upon them the water of a he-goat and so save them. I report that
 which is reported by the Libyans themselves.
 
-188. The following is the manner of sacrifice which the nomads
+## Chapter 188
+
+The following is the manner of sacrifice which the nomads
 have:—they cut off a part of the animal's ear as a first offering and
 throw it over the house, 169 and having done this they twist its neck.
 They sacrifice only to the Sun and the Moon; that is to say, to these
 all the Libyans sacrifice, but those who dwell round the lake Tritonis
 sacrifice most of all to Athene, and next to Triton and Poseidon.
 
-189. It would appear also that the Hellenes made the dress and the aigis
+## Chapter 189
+
+It would appear also that the Hellenes made the dress and the aigis
 of the images of Athene after the model of the Libyan women; for except
 that the dress of the Libyan women is of leather, and the tassels which
 hang from their aigis are not formed of serpents but of leather thongs,
@@ -14110,7 +15603,9 @@ aloud during the performance of sacred rites, for the Libyan women do
 this very well. 170 The Hellenes learnt from the Libyans also the yoking
 together of four horses.
 
-190. The nomads bury those who die just in the same manner as the
+## Chapter 190
+
+The nomads bury those who die just in the same manner as the
 Hellenes, except only the Nasamonians: these bury bodies in a sitting
 posture, taking care at the moment when the man expires to place
 him sitting and not to let him die lying down on his back. They have
@@ -14118,7 +15613,9 @@ dwellings composed of the stems of asphodel entwined with rushes, and
 so made that they can be carried about. Such are the customs followed by
 these tribes.
 
-191. On the West of the river Triton next after the Auseans come Libyans
+## Chapter 191
+
+On the West of the river Triton next after the Auseans come Libyans
 who are tillers of the soil, and whose custom it is to possess fixed
 habitations; and they are called Maxyans. They grow their hair long on
 the right side of their heads and cut it short upon the left, and smear
@@ -14138,7 +15635,9 @@ and the headless men with their eyes set in their breasts (at least
 so say the Libyans about them), and the wild men and wild women, and a
 great multitude of other beasts which are not fabulous like these. 171
 
-192. In the land of the nomads however there exist none of these, but
+## Chapter 192
+
+In the land of the nomads however there exist none of these, but
 other animals as follows:—white-rump antelopes, gazelles, buffaloes,
 asses, not the horned kind but others which go without water (for in
 fact these never drink), oryes, 172 whose horns are made into the sides
@@ -14156,16 +15655,22 @@ the silphion, which are very like those of Tartessos. Such are the wild
 animals which the land of the Libyans possesses, so far as we were able
 to discover by inquiries extended as much as possible.
 
-193. Next to the Maxyan Libyans are the Zauekes, 175 whose women drive
+## Chapter 193
+
+Next to the Maxyan Libyans are the Zauekes, 175 whose women drive
 their chariots for them to war.
 
-194. Next to these are the Gyzantes, 176 among whom honey is made in
+## Chapter 194
+
+Next to these are the Gyzantes, 176 among whom honey is made in
 great quantity by bees, but in much greater quantity still it is said
 to be made by men, who work at it as a trade. However that may be, these
 all smear themselves over with red ochre and eat monkeys, which are
 produced in very great numbers upon their mountains.
 
-195. Opposite these, as the Carthaginians say, there lies an island
+## Chapter 195
+
+Opposite these, as the Carthaginians say, there lies an island
 called Kyrauis, two hundred furlongs in length but narrow, to which one
 may walk over from the mainland; and it is full of olives and vines.
 In it they say there is a pool, from which the native girls with birds'
@@ -14184,7 +15689,9 @@ ground and reappears in the sea, which is distant about four furlongs
 from the pool. Thus then the report about the island lying near the
 coast of Libya is also probably enough true.
 
-196. The Carthaginians say also this, namely that there is a place in
+## Chapter 196
+
+The Carthaginians say also this, namely that there is a place in
 Libya and men dwelling there, outside the Pillars of Heracles, to whom
 when they have come and have taken the merchandise forth from their
 ships, they set it in order along the beach and embark again in their
@@ -14201,7 +15708,9 @@ Carthaginians lay hands on the gold until it is made equal to the value
 of their merchandise, nor do the others lay hands on the merchandise
 until the Carthaginians have taken the gold.
 
-197. These are the Libyan tribes whom we are able to name; and of these
+## Chapter 197
+
+These are the Libyan tribes whom we are able to name; and of these
 the greater number neither now pay any regard to the king of the Medes
 nor did they then. Thus much also I have to say about this land, namely
 that it is occupied by four races and no more, so far as we know; and
@@ -14210,7 +15719,9 @@ the Libyans and the Ethiopians are natives, the one race dwelling in
 the Northern parts of Libya and the other in the Southern, while the
 Phenicians and the Hellenes are strangers.
 
-198. I think moreover that (besides other things) in goodness of soil
+## Chapter 198
+
+I think moreover that (besides other things) in goodness of soil
 Libya does not very greatly excel 178 as compared with Asia or Europe,
 except only the region of Kinyps, for the same name is given to the land
 as to the river. This region is equal to the best of lands in bringing
@@ -14223,7 +15734,9 @@ good land also which the Euesperites occupy, for when it bears best it
 produces a hundred-fold, but the land in the region of Kinyps produces
 sometimes as much as three-hundred-fold.
 
-199. Moreover the land of Kyrene, which is the highest land of the part
+## Chapter 199
+
+Moreover the land of Kyrene, which is the highest land of the part
 of Libya which is occupied by nomads, has within its confines three
 seasons of harvest, at which we may marvel: for the parts by the
 sea-coasts first have their fruits ripe for reaping and for gathering
@@ -14236,7 +15749,9 @@ eaten and drunk up, the last is just coming in. Thus the harvest for the
 Kyrenians lasts eight months. Let so much as has been said suffice for
 these things.
 
-200. Now when the Persian helpers of Pheretime, 181 having been sent
+## Chapter 200
+
+Now when the Persian helpers of Pheretime, 181 having been sent
 from Egypt by Aryandes, had arrived at Barca, they laid siege to the
 city, proposing to the inhabitants that they should give up those who
 were guilty of the murder of Arkesilaos: but as all their people had
@@ -14252,7 +15767,9 @@ the men of Barca would make a countermine there and slay the Persians
 who were digging mines. This then was discovered as I have said, and the
 attacks were repulsed by the men of Barca.
 
-201. Then as they were suffering hardship for a long time and many were
+## Chapter 201
+
+Then as they were suffering hardship for a long time and many were
 falling on both sides, and especially on that of the Persians, Amasis
 the commander of the land-army contrived as follows:—perceiving that the
 Barcaians were not to be conquered by force but might be conquered by
@@ -14276,7 +15793,9 @@ firm continually for so long time as the earth should remain as it then
 was, but after that they had broken it down, the oath no longer remained
 firm.
 
-202. Now the most guilty of the Barcaians, when they were delivered to
+## Chapter 202
+
+Now the most guilty of the Barcaians, when they were delivered to
 her by the Persians, Pheretime impaled in a ring round about the wall;
 and she cut off the breasts of their wives and set the wall round with
 these also in order: but the rest of the men of Barca she bade the
@@ -14284,7 +15803,9 @@ Persians carry off as spoil, except so many of them as were of the
 house of Battos and not sharers in the guilt of the murder; and to these
 Pheretime gave the city in charge.
 
-203. So the Persians having made slaves of the rest of the Barcaians
+## Chapter 203
+
+So the Persians having made slaves of the rest of the Barcaians
 departed to go back: and when they appeared at the gates of the city of
 Kyrene, the Kyrenians let them go through their town in order to avoid
 neglect of some oracle. Then as the army was going through, Badres the
@@ -14305,7 +15826,9 @@ killed for the sake of their clothes and equipment those of them who
 at any time were left or straggled behind, until at last they came to
 Egypt.
 
-204. This army of the Persians reached Euesperides, and this was their
+## Chapter 204
+
+This army of the Persians reached Euesperides, and this was their
 furthest point in Libya: and those of the Barcaians whom they had
 reduced to slavery they removed again from Egypt and brought them to
 the king, and king Dareios gave them a village in the land of Bactria in
@@ -14313,7 +15836,9 @@ which to make a settlement. To this village they gave the name of Barca,
 and it still continued to be inhabited by them even down to my own time,
 in the land of Bactria.
 
-205. Pheretime however did not bring her life happily to an end any more
+## Chapter 205
+
+Pheretime however did not bring her life happily to an end any more
 than they: for as soon as she had returned from Libya to Egypt after
 having avenged herself on the Barcaians, she died an evil death, having
 become suddenly full of worms while yet alive: for, as it seems, too
