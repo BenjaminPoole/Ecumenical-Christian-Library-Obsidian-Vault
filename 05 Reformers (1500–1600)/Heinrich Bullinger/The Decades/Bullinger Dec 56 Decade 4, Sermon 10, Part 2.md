@@ -5,119 +5,341 @@ translator: "'H. I.' (1577), ed. Thomas Harding"
 work: "The Decades"
 chapter: 56
 year: "1549-1551"
-source: "archive.org Parker Society edition (1849-52), tr. H. I.; converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "archive.org decadesofhenrybu04bulluoft (Parker Society 1851, Fourth Decade), re-OCR'd with local eng+grc tesseract and rebuilt with build_from_ocr.py"
 written: "1549-1551"
 tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
+
 # 56. Decade 4, Sermon 10, Part 2
 
-[4 ne beatas quidem animas, Lat. ; that not even blessed souls. ]
+Man’s testimonies are agreeable with God’s; which also teach us, that souls being separated from their bodies cannot wander or stray in these regions. The words are too long to rehearse, which Tertullian learnedly disputeth of this matter in the end almost of his book De Anima; yet they are all levelled to this mark, to shew that souls separated from their bodies, and appointed to their places, do not return again into this world. To the objection of some that boast of art magic, and also that by the power of God many have returned from the dead into this life, he answereth: But although the power of God hath called back again some souls into their bodies, to give us instruction of his might and right; yet therefore that shall not be communicated with the credit and boldness of magicians, and the deceitfulness of dreams, and licentiousness of poets: but in the examples of the resurrection, when God’s power, either by prophets, or by Christ, or by apostles, bringeth souls into bodies, it is manifestly declared by sound, evident, and full truth, that it is the shape of a true body: that thou mightest judge all appearings of dead men without bodies to be delusions” Therefore Chrysostom in his twenty-ninth Homily upon Matthew demanding: “What then shall we answer to those speeches; I am such a soul?” he answereth; “It 1s not the soul of that dead body which speaketh these things, but the devil, who de- [6 ne beatas quidem animas, Lat.; that not even blessed souls.]
 
-[5 Sed etsi quasdam revocavit in corpora Dei virtus, in documenta juris sui, non idcirco communicabitur fidei et audaciz Magorum, et fallacize somniorum, et licentiz poétarum. Atquin in resurrectionis exemplis, cum Dei virtus, sive per prophetas, sive per Christum, sive per apostolos in corpora animas repreesentat, solida et contrectabili et satiata veritate, preejudicatum est hanc esse formam veritatis, ut omnem mortuorum exhibitionem incorporalem prestigias judices.—Tertull. de Anim. cap. 57. Opp. ed. Semler. Tom. 1Υ. p. 287. Hal. Magd, 1824.]
+[5 Sed etsi quasdam revocavit in corpora Dei virtus, in documenta juris sui, non idcirco communicabitur fidei et audaciee Magorum, et fallacize somniorum, et licentize poétarum. Atquin in resurrectionis exemplis, cum Dei virtus, sive per prophetas, sive per Christum, sive per apostolos in corpora animas repreesentat, solida et contrectabili et satiata veritate, preejudicatum est hanc esse formam veritatis, ut omnem mortuorum exhibitionem incorporalem preestigias judices.—Tertull. de Anim. cap. 57. Opp. ed. Semler. Tom. 1v. p. 287. Hal. Magd, 1824.]
 
-## [Bullinger, I11.] 28
+[BULLINGER, I11.]
 
-That souls separated from their bodies do not wander in these regions,
+viseth these things to deceive them that hear him.” And anon he saith: “Wherefore these are to be counted the words of old wives and of dotards, and children’s toys and phantasies.” And again: “A soul separated from the body cannot wander in these regions. For the souls of the righteous are in the hands of God, and the souls of infants likewise: for they have not sinned. And the souls of the wicked after this life are by and by carried away: which is made apparent by Lazarus and the rich glutton. But in another place the Lord also saith: This night they shall require thy soul again from thee.” Therefore the soul, when it departeth from the body, cannot wander here with us: and that not without cause. For if they which go a journey, chancing into unknown countries, know not whither they are like to go, except they have a guide; how much more shall the soul be ignorant whither it shall go, after it hath left the body and entereth altogether into a new life and strange way, unless it have a guide! Out of many places of the scripture it may be proved, that the souls of just and righteous men (0 not go astray! after death. For Stephen saith, Lord Jesu, receive my spirit.” And Paul desired to be loosed and to be with Christ. Of the patriarch the scripture also saith, He died in a quiet (or good) age, and was gathered unto (or laid by) his fathers” And that the souls of the wicked cannot tarry or have their abiding here, give ear what the rich glutton saith, and consider what he craveth, and obtaineth not. For if the souls of men might be conversant here, he had come himself as he desired, and had certified his brethren of the torments of hell. Out of which place of scripture this also plainly appeareth; that souls after their going out of the body are carried into some certain appointed place, from whence they cannot return of their own accord when they will return, but wait and look for that terrible day of judgment.” Thus much hitherto out of Chrysostom.
 
-Luke xii.
+[1 non errare hic, Lat.; do not wander up and down here.] [2 Αὐτοὶ, φησὶν, οἱ δαιμονῶντες βοῶσιν, ὅτι ψυχὴ τοῦ δεῖνος ἐγώ.]
 
-Acts vii.
+[Ἀλλὰ καὶ τοῦτο σκηνή τις καὶ ἀπάτη διαβολική. Οὐ γὰρ ἡ ψυχὴ τοῦ τελευ-]
 
-Phil. i.
+[τηκότος ἐστὶν ἡ βοῶσα, ἀλλ᾽ ὁ δαίμων ὑποκρινόμενος ταῦτα ὥστε ἀπατῆσαι]
 
-Gen. xxv.
+[τοὺς ἀκούοντας.. Ὥστε γραϊδίων μεθυόντων ταῦτα τὰ ῥήματα, καὶ παίδων]
 
-Luke xvi.
+[μορμολύκεια. Οὐδὲ γὰρ ἔνι ψυχὴν ἀποῤῥαγεῖσαν τοῦ σώματος ἐνταῦθα]
 
-viseth these things to deceive them that hear him.” And anon he saith: “ Wherefore these are to be counted the words of old wives and of dotards, and children’s toys and phantasies.” And again: “A soul separated from the body cannot wander in these regions. For the souls of the righteous are in the hands of God, and the souls of infants likewise: for they have not sinned. And the souls of the wicked after this life are by and by carried away: which is made apparent by Lazarus and the rich glutton, But in another place the Lord also saith: ‘This night they shall require thy soul again from thee.’ Therefore the soul, when it departeth from the body, cannot wander here with us: and that not without cause. For if they which go a journey, chancing into unknown countries, know not whither they are like to go, except they have a guide; how much more shall the soul be ignorant whither it shall go, after it hath left the body and entereth altogether into a new life and strange way, unless it have a guide! Out of many places of the scripture it may be proved, that the souls of just and righteous men do not go astray! after death. For Stephen saith, ‘ Lord Jesu, receive my spirit.’ And Paul desired to be loosed and to be with Christ. Of the patriarch the scripture also saith, ‘He died in a quiet (or good) age, and was gathered unto (or laid by) his fathers.” And that the souls of the wicked cannot tarry or have their abiding here, give ear what the rich glutton saith, and consider what he craveth, and obtaineth not. For if the souls of men might be conversant here, he had come himself as he desired, and had certified his brethren of the torments of hell. Out of which place of scripture this also plainly appeareth ; that souls after their going out of the body are carried into some certain appointed place, from whence they cannot return of their own accord when they will return, but wait and look for that terrible day of judgment*.” Thus much hitherto out of Chrysostom.
+[πλανᾶσθαι λοιπόν" ψυχαὶ γὰρ δικαίων ἐν χειρὶ Θεοῦ εἰ δὲ αἱ τῶν δικαίων,]
 
-[1 non errare hic, Lat.; do not wander up and down here. |
+Against these things they oppose the appearing of Samuel fetched from the holy scriptures; whereby they go about to peared prove that souls return again after death, and instruct men touching things which they shall demand. We answer in few words, that that disguised masker, which seemed to be Samuel, was called Samuel by a trope or figure, but in very deed he was not Samuel: for of a certainty it was a spirit, a juggling and delusion of Satan. For sorcery is straitly forbidden in the law of the Lord: therefore blessed spirits obey not forbidden ways and unlawful practices, which, when they were as yet joined with their fleshly bodies, by all means abhorred and resisted them in their assaults: as for damned spirits, they exercise themselves therein. But who would believe their oracles? Samuel (say they) foretold what happened the morrow after. And what of that? That was no hard matter for the devil, since that the true and living Samuel foretold many things a little while before: but this crafty fox might foreknow the judgment of God which was to come, even by things present, and by the fear and quaking of the hosts. Tertullian in his book De Anima saith: “God forbid we should believe that the soul of any saint, much less the soul of a prophet, can be fetched up by the devil; since we have learned that Satan is transformed into an
 
-[2 Αὐτοὶ, φησὶν, of δαιμονῶντες βοῶσιν, ὅτι ψυχὴ τοῦ δεῖνος ἐγώ. Ἀλλὰ καὶ τοῦτο σκηνή τις καὶ ἀπάτη διαβολική. Οὐ γὰρ ἡ ψυχὴ τοῦ τελευτηκότος ἐστὶν ἡ βοῶσα, ἀλλ᾽ ὁ δαίμων ὑποκρινόμενος ταῦτα ὥστε ἀπατῆσαι τοὺς ἀκούοντας... . Ὥστε γραϊδίων μεθυόντων ταῦτα τὰ ῥήματα, καὶ παίδων μορμολύκεια. Οὐδὲ γὰρ ἔνι ψυχὴν ἀποῤῥαγεῖσαν τοῦ σώματος ἐνταῦθα πλανᾶσθαι λοιπόν" ψυχαὶ γὰρ δικαίων ἐν χειρὶ Θεοῦ: εἰ δὲ αἱ τῶν δικαίων, x. | OF THE REASONABLE SOUL OF MAN. 403
+[καὶ ai τῶν παίδων οὐδὲ γὰρ ἐκεῖναι πονηραί" καὶ ai τῶν ἁμαρτωλῶν δὲ]
 
-Against these things they oppose the appearing of Samuel samue1 after his fetched from the holy scriptures; whereby they go about to dean ap. prove that souls return again after death, and instruct men ‘Sl. touching things which they shall demand. We answer in few words, that that disguised masker, which seemed to be Samuel, was called Samuel by a trope or figure, but in very deed he was not Samuel: for of a certainty it was a spirit, 1sam. xxviii a juggling and delusion of Satan. For sorcery is straitly forbidden in the law of the Lord: therefore blessed spirits obey not forbidden ways and unlawful practices, which, when they were as yet joined with their fleshly bodies, by all means abhorred and resisted them in their assaults: as for damned spirits, they exercise themselves therein. But who would believe their oracles? Samuel (say they) foretold what happened the morrow after. And what of that? That was no hard matter for the devil, since that the true and living Samuel foretold many things a little while before: but this erafty fox might foreknow the judgment of God which was to come, even by things present, and by the fear and quaking of the hosts. Tertullian in his book De Anima saith: “God forbid we should believe that the soul of any saint, much less the soul of a prophet, can be fetched up by the devil; since we have learned that Satan is transformed into an
+[εὐθέως ἐντεῦθεν ἀπάγονται. Καὶ δῆλον ἀπὸ τοῦ Λαζάρου καὶ τοῦ πλουσίου.]
 
-4 ε An , ) 4 4 ) ”~ , ‘\ e “-“ ς “ ‘ καὶ ai τῶν παίδων: οὐδὲ yap ἐκεῖναι πονηραί" καὶ ai τῶν ἁμαρτωλῶν δὲ εὐθέως ἐντεῦθεν ἀπάγονται. Καὶ δῆλον ἀπὸ τοῦ Λαζάρου καὶ τοῦ πλουσίου. » - , r , ae Καὶ ἀλλαχοῦ δέ φησιν ὁ Χριστός: Σήμερον τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ. Καὶ οὐχ οἷόν τε ψυχὴν ἐξελθοῦσαν τοῦ σώματος ἐνταῦθα πλανᾶσθαι" Ἀ , » , °. A ) ΄“ , ΄- ’ ‘ , ‘ kai μάλιστα εἰκότως" εἰ yap ἐν γῇ βαδίζοντες τῇ συνήθει καὶ γνωρίμῳ, καὶ lol , ad 4 ε " c , , ) “ - ) ” σῶμα περικείμενοι, ὅταν ξένην ὁδὸν ὁδεύωμεν, ποίαν ἐλθεῖν Set οὐκ ἴσμεν a» “ » ΄ cal , ΄ ἂν μὴ τὸν χειραγωγοῦντα ἔχωμεν, πῶς ἡ τοῦ σώματος ἀποῤῥαγεῖσα ψυχὴ, ‘ - , ) A ΄ ” a a , ” ει καὶ τῆς συνηθείας ἐξελθοῦσα πάσης, εἴσεται ποῦ δεῖ βαδίζειν ἄνευ τοῦ καθοδηγοῦντος αὐτήν ; καὶ πολλαχόθεν δὲ ἑτέρωθεν ἄν τις κατίδοι, ὅτι οὐκ eve ψυχὴν ἐξελθοῦσαν ἐνταῦθα μεῖναι: καὶ γὰρ 6 Στέφανός φησι: Δέξαι τὸ a ~ ΄- ) ΄ πνεῦμά μου: καὶ 6 Παῦλος, Τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι πολλῷ ~ a ‘ κ᾿ a ΄ ΄ ε , \ μᾶλλον κρεῖττον: καὶ περὶ τοῦ πατριάρχου δέ φησιν ἡ γραφή: Καὶ προσε- ’, A ‘ la ? - 4 ) , - σ΄ ‘ ) ‘ c ΄σ τέθη πρὸς τοὺς πατέρας αὐτοῦ, τραφεὶς ἐν γήρει καλῷ. Ὅτι δὲ οὐδὲ αἱ τῶν ἁμαρτωλῶν ψυχαὶ διατρίβειν ἐνταῦθα δύνανται, ἄκουσον τοῦ πλουσίου πολλὰ A 2. ὑπὲρ τούτου παρακαλοῦντος, καὶ οὐκ ἐπιτυγχάνοντος. “Qs εἴγε ἦν δυνατὸν, Ties 8 x 3 Oc, Le ee ΄ σ = “ \ \ αὐτὸς av ἦλθε καὶ ἀνήγγειλε τὰ ἐκεῖ γεγενημένα. “OOev δῆλον ὅτι μετὰ τὴν ἐντεῦθεν ἀποδημίαν εἰς χώραν τινὰ ἀπάγονται αἱ ψυχαὶ, οὐκ ἔτι κυρίαι οὖσαι ἐπανελθεῖν, ἀλλὰ τὴν φοβερὰν ἐκείνην ἡμέραν avawevovoat.—Chrysostom. Hom. in Matth. xxviii. (al. xxix.) foll. 336, 7. Tom. vi. Par. 1727.] [3 Sed preedixit, Lat.; But Samuel, &c.]
+[Καὶ ἀλλαχοῦ δέ φησιν ὁ Χριστός Σήμερον τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ]
 
-angel of light, much more into a man of light; yea, that he will pretend that he is God, and will shew wonderful signs, to overthrow, if it were possible, even the elect’,’ &c. St Augustine is of the same judgment concerning that appearing. Lib. ad Simplicianum τι. quest. 3; and ad Dulcitii queest.? ἕο. By these testimonies it is abundantly declared, I trust, that souls of men separated from bodies do not wander or appear after death in these regions; for they remain until judgment in the places appointed for them by the determination and providence® of God. Wherefore they are neither sent by God, neither can they enter in unto men to instruct and warn them either of things present or of things to come. Whereupon it followeth, that appearing of souls, that revelations and oracles, are mere delusions of Satan, ordained contrary to the sincerity and pureness of true religion. And because they which do what they can to prove unto us that there is purgatory use the defence and safeguard of these vanities ; it is undoubtedly true that they prove a falsehood by deceit, and an uncertain thing by a thing of much more uncertainty. Furthermore, it remaineth undoubtedly true, that purgatory, wherein souls having put off their bodies should be purged unto life everlasting, cannot be shewed out of the scriptures. Souls And because we have removed and put by the lets which certainly and immediately were cast in the way to hinder the most speedy journey, we death ofthe return to our purpose; wherein we intended to declare that Blessed. the souls of the faithful, separated by death from the body, do immediately after the death of the body pass the right and ready way into heaven, and so most certainly and upon the sudden be saved. Likewise we understand, that the souls of the unfaithful are thrust down the right and ready way into hell, and that by and by after the death of the body they perish with most certain and sudden damnation. For the [1 Absit alioquin ut animam cujuslibet sancti, nedum prophet, a demonio credamus extractam, edocti quod ipse Satanas transfiguretur in angelum lucis, etiam Deum se adseveraturus, signaque portentosiora editurus, ad evertendos, si fieri possit, electos.—Tertull. de Anim. cap. 57. ed. Semler. Tom. rv. p. 286.] [3 August. Opp. Tom. rv. fol. 139. col. 1. and fol. 142. coll. 3, 4. Par, ‘1532. [3 and providence, not in Lat.]
+[σοῦ. Kal οὐχ οἷόν τε ψυχὴν ἐξελθοῦσαν τοῦ σώματος ἐνταῦθα πλανᾶσθαι"]
 
-## =| of the Reasonable Soul of Man, 405
+[καὶ μάλιστα εἰκότως" εἰ γὰρ ἐν γῇ βαδίζοντες τῇ συνήθει καὶ γνωρίμῳ, καὶ]
 
-Lord expressly saith in the gospel: “ He that believeth in the Jonn iii. Son of God is not condemned (or judged); but he that belieyeth not is condemned (or judged) already, because he hath not believed in the name of the only begotten Son of God.” Again: “ He that believeth in the Son of God hath eternal (v. 36.1 life; but he that believeth not the Son shall not see life, but the wrath of God abideth on him.” And yet again: “ This (v.40. is the will of him that sent me, that every one which seeth the Son, and believeth on him, hath everlasting life; and I will raise him up at the last day.” Now the last day of man is the the last day point of death: in it Christ saveth us by his power, lest our soul should either perish or feel any torments, but that it might live and enjoy everlasting blessedness. Moreover’, the last day is that last day of judgment, wherein Christ shall raise again and judge all flesh, glorifying the bodies of his faithful people unto life everlasting.
+[σῶμα περικείμενοι, ὅταν ξένην ὁδὸν ὁδεύωμεν, ποίαν ἐλθεῖν δεῖ οὐκ ἴσμεν]
 
-Again the Lord saith in the gospel: ‘“ Verily, verily, I sonny. say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into judgment (or damnation); but is escaped from death unto life.’ These only words of our Lord are able enough (without any gain-saying) to set forth, declare, prove, and confirm sufficiently our opinion concerning the most certain and sudden salvation of souls. For first of all, lest any man should doubt of the most assured truth touching the matter which he was setting forth, immediately upon the beginning most holily he sweareth, that is to say, he confirmeth the truth by giving witness thereunto with an oath. Afterwards he annexeth the whole manner of our salvation; which consisteth in hearing the word of God, and in true faith which receiveth the truth of God’s word: for it is not enough to have heard the word of the gospel, unless we cleave unto the same by true faith. But now mark with what assurance Christ promiseth life and salvation to them that believe in him: “ He hath life everlasting,” saith he: he said, ‘‘he hath,” not, he shall have. Therefore he left no space either to doubting, or to space of time. Yea, yet more plainly, by interpretation expounding when and how the faithful have or obtain life, he saith: ‘He shall not
+[ἂν μὴ τὸν χειραγωγοῦντα ἔχωμεν, πῶς ἡ τοῦ σώματος ἀποῤῥαγεῖσα ψυχὴ,]
 
-[4 Est preeterea, &c. Lat. Again the last day is. In these two senses Bullinger also explains “the last day” in Comment. in Joan. in loc. cit. ]
+[καὶ τῆς συνηθείας ἐξελθοῦσα πάσης, εἴσεται ποῦ δεῖ βαδίζειν ἄνευ τοῦ]
 
-Rey, xiv.
+[καθοδηγοῦντος αὐτήν; καὶ πολλαχόθεν δὲ ἑτέρωθεν ἄν τις κατίδοι, ὅτι οὐκ]
 
-come into judgment (or damnation), but is escaped from death unto life.’ They come into judgment, which have their cause to be examined and discussed before the judge. They come also into judgment, which by the sentence of the judge are punished for their evil cause. But the faithful have no cause to be tried and discussed before the judge; for their sins are fully forgiven them. “It is God which justifieth and forgiveth. Who is he that condemneth?” ‘Therefore they are not subject to any punishments; for Christ bare the punishment of the cross, that his faithful people might be delivered and saved harmless from all torments. But rather, lest any man should think there were a stay or space of time between the death of the body and the life of the world to come, he saith: “ But is escaped from death unto life.” Lo, he saith, “He is escaped,” not, He shall escape; that by the verb of the preter tense he might signify the certainty of the time past’, and might shew that the souls of them that believe are by and by after the death of the body caught up into life everlasting. And I know well enough that the adversaries here have no sound argument to set against so manifest and invincible a truth. Indeed, with their wrangling words and their sophistry they may wrestle with the truth; but to overthrow the truth they are never able. For the souls of the faithful even out of the very mouth (as is commonly said, “ Von mund auf zu himmel faren®’) upon a sudden enter into their blessed seats, and by faith enjoy everlasting felicity.
+[ἔνι ψυχὴν ἐξελθοῦσαν ἐνταῦθα μεῖναι" καὶ γὰρ 6 Στέφανός φησι" Δέξαι τὸ]
 
-Again, we read in the revelation of our Lord Jesus Christ made to John the apostle, that it was said: ‘And I heard ἃ voice from heayen, saying unto me, Write, Blessed are the dead which hereafter die in the Lord*: even so saith the Spirit, that they may rest from their labours, and their works follow them.” In these words an heavenly and undoubted oracle touching the blessednesses of all such as die in faith is knit up: and St John is commanded to write the oracle from
+[πνεῦμά μου καὶ ὁ Παῦλος, Τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι πολλῷ]
 
-[1 of the time past, not in Lat.]
+[μᾶλλον κρεῖττον καὶ περὶ τοῦ πατριάρχου δέ φησιν ἡ γραφή Καὶ προσε-]
 
-[2 Ascend to heaven from the very mouth. ]
+[τέθη πρὸς τοὺς πατέρας αὐτοῦ, τραφεὶς ἐν γήρει καλῷ. τι δὲ οὐδὲ ai τῶν]
 
-[3 So Tyndale, 1525; Coverdale, 1535; Cranmer, 1539; and the Geneva version, 1557. The Vulgate reads, Amodo jam dicit Spiritus, (From henceforth now, saith the Spirit, Douay); but Erasmus notes: Greeci sic distinguunt, ut amodo sit finis sententize, ut sit sensus, Posthae fore beatos, qui in Domino fuerint mortui. Annot. in loc. j x. | OF THE REASONABLE SOUL OF MAN. 407 heaven, that it may remain to all times, and be read of all people. The sum of the oracle is this, “ Blessed are the dead, which hereafter die in the Lord.” But they die in the Lord, whosoever depart out of this life in the faith of Jesus Christ ; for so the apostle useth this kind of speech in the 1 Cor, xy, and 1 Thess. iv. Furthermore, they which depart out of this life in the faith of Jesus Christ are simply and truly pronounced blessed, to wit, happy and free from all misery. Yea, a note of the time when they shall obtain this blessedness is added, namely, Hereafter (ἀπάρτι), that is to say, presently, at an instant*, by and by, out of hand, to wit, as the Lord saith in the gospel, forthwith after the death of the body. There is added also another testimony, whereby again the certainty of felicity is expressed, and perfection too not delayed till the morrow: “ Even so, saith the Spirit, that they may rest from their labours.” The Spirit, I mean, of truth, which cannot lie, saith, val, that is to say, Amen, so it is: truly the faithful are blessed indeed; and even at an instant they are blessed; and so blessed, that ‘“ they rest from their labours.” The labours of the faithful are miseries, calamities, afflictions, sorrow, fear or dread, and other evils of this sort, wherewith in this world they are vexed, yea, rather exercised in faith, From these things the souls of the faithful departing from their bodies are delivered: therefore they are not purged by torments and vexations, they are not scorched in the midst of their journey ; but, being happy and blessed, are forthwith delivered from all anguish and trouble. And if so be that they suffered anything whiles they were yet living in the body, if they did any good works in faith, they “do follow them.” Let no man think that those works, because they now cease, were and are vain; for they receive their reward in that blessed life. For that it is, that ‘their works do follow them.” And let us mark, that he saith not, the works of other follow them, to deliver them forsooth out of purgatory; but, their own works follow them. For in the gospel also, the wise virgins, which had oil ready in their lamps, went in with the bridegroom to the marriage: the foolish virgins,
+[ἁμαρτωλῶν ψυχαὶ διατρίβειν ἐνταῦθα δύνανται, ἄκουσον τοῦ πλουσίου πολλὰ]
 
-[4 ἀπάρτι significat, ab instanti, ab illa hora, protinus et continuo, einswegs, yon stund an. Bulling. in Apoc. Conc. 65. p. 205. Basil. 1570. ]
+[ὑπὲρ τούτου παρακαλοῦντος, καὶ οὐκ ἐπιτυγχάνοντος. ‘Qs εἴγε ἦν δυνατὸν,]
 
-408 THE FOURTH DECADE. [SERM. x. | which had! prepared themselves no oil, but did hope to have from elsewhere to serve their turn, are excluded and shut out from joy.
+[αὐτὸς ἂν ἦλθε καὶ ἀνήγγειλε τὰ ἐκεῖ γεγενημένα. Ὅθεν δῆλον ὅτι μετὰ τὴν]
 
-To the omnipotent God therefore, our most merciful Father, and continual running fountain of all good graces and which is never drawn dry, who fashioned our body in our mother’s womb, and breathed or poured into it a reasonable soul, which might whilst it is joined to the body quicken and direct us, and when it is separated from the body might forthwith after the death of the body be translated into heaven, there to live in joy and happiness until it return again unto the body being raised from the dead in the last judgment, with the which it may rejoice and be glad for ever and without end; to that God, I say, through Jesus Christ, for whose sake we are made partakers of so great a benefit, be glory, praise, and thanksgiving for evermore. Amen.
+[ἐντεῦθεν ἀποδημίαν εἰς χώραν τινὰ ἀπάγονται αἱ ψυχαὶ, οὐκ ἔτι κυρίαι οὖσαι]
 
-[᾿ in vita, Lat. omitted; in their lifetime.]
+[ἐπανελθεῖν, ἀλλὰ τὴν φοβερὰν ἐκείνην ἡμέραν dvapévovoar.——Chrysostom.]
 
-‘ ν ͵ - \ ἢ ῃ + ~ μων ᾿ Σ ῃ ἃ ‘ 0 3 ft 4 } » ᾿ ᾿ - a = γ᾿, & . : j ; ᾿ - ‘ “ ΄ Σ. 7 = ᾿. - = 1 i ᾿ Υ , ' % ᾿ - .» ! - ) ᾿ { ‘ ‘ A a a f ‘ - ᾿ - ¥s - A ᾿ Υ i ᾿ : ‘a -» Ἰ «- , be ‘ ἴ " ᾽ 7 ~*~ ‘ Ρ ' - 4 ; ; ᾿ ᾿ ᾿ς Η ν ' t ς. ‘ ἐ ir y » = i 7 “Pe Ἀ } » ΄- I i 1 υ ι y = ἃ » ᾿ ᾿ ' i i] s 4 % ᾿ i “ = = J a ‘ - - » ἢ Ξ * ~ ) ΝΜ ᾿ 4 4 5 = a ir τ f od _ Ἷ es 4 ὃ » : os ad ᾿ ᾿ 1 ‘di 1 = Π ) 1 - “ , . ae 1 , 4 = . 7 - ᾿ = ag ν rik 1 ᾿ δι. ᾿ a : ᾿ i . Υ ) τι ἃ - ͵ ' Pa i 3 Le ᾿ | r ~ - Hy , am (2 - ᾿ δον» & 4...» ᾿ 1 = - a = =e = ἢ ᾳ pbs ey . ᾿ se 1
+[Hom. in Matth. xxviii. (al. xxix.) foll. 336, 7. Tom. vir. Par. 1727.] [3 Sed preaedixit, Lat.; But Samuel, &ec.]]
 
-Ὶ : ee a ie
+angel of light, much more into a man of light; yea, that he will pretend that he is God, and will shew wonderful signs, to overthrow, if it were possible, even the elect!” &ec. St Augustine 15 of the same judgment concerning that appearing. Lib. ad Simplicianum τι. quest. 3; and ad Dulcitii quest. &e.
 
-ΓΟ ᾿ εὐ os, ὶ 4 ) «+ yee BT f ly oe λυ Ψ Ψ ; ‘Ae ee 4 =) @he) γι ie Φ ® it -
+By these testimonies it is abundantly declared, 1 trust, that souls of men separated from bodies do not wander or appear after death in these regions; for they remain until judgment in the places appointed for them by the determination and providence of God. Wherefore they are neither sent by God, neither can they enter in unto men to instruct and warn them either of things present or of things to come. Whereupon it followeth, that appearing of souls, that revelations and oracles, are mere delusions of Satan, ordained contrary to the sincerity and pureness of true religion. And because they which do what they can to prove unto us that there is purgatory use the defence and safeguard of these vanities; it is undoubtedly true that they prove a falsehood by deceit, and an uncertain thing by a thing of much more uncertainty. Furthermore, it remaineth undoubtedly true, that purgatory, wherein souls having put off their bodies should be purged unto life everlasting, cannot be shewed out of the scriptures.
 
-5 Sar val 3 aes ae EN ᾿Ξ peer ἐγ δὲν jae ae oe te ἤν} My: ἂν rm ( a ted Tee epee os (5 Ἡτὶ ye
+And because we have removed and put by the lets which were cast in the way to hinder the most speedy journey, we return to our purpose; wherein we intended to declare that the souls of the faithful, separated by death from the body, do immediately after the death of the body pass the right and ready way into heaven, and so most certainly and upon the sudden be saved. Likewise we understand, that the souls of the unfaithful are thrust down the right and ready way into hell, and that by and by after the death of the body they perish with most certain and sudden damnation. For the [1 Absit alioquin ut animam cujuslibet sancti, nedum prophet, a deemonio credamus extractam, edocti quod ipse Satanas transfiguretur in angelum lucis, etiam Deum se adseveraturus, signaque portentosiora editurus, ad evertendos, si fieri possit, electos.—Tertull. de Anim. cap. 57. ed. Semler. Tom. 1v. p. 286.]
 
-Bullimger's Decades. BX a ase Sa, ess, Ἢ ay
+**[2 August.** Opp. Tom. 1v. fol. 139. col. 1. and fol. 142. coll. 3, 4. Par. 1532.]
 
-( » Mase BESNe ees or) 2?) ΡΟ ΕΝ ahd Dor Py) ΩΝ πστς
+[3 and providence, not in Lat.]
 
-447 ς erry ree bps) Saket Ate ες ΣΟ ΥΗ Deppengnsoest in ees
+Lord expressly saith in the gospel: “Τὸ that believeth in the Son of God is not condemned (or judged); but he that believeth not is condemned (or judged) already, because he hath not believed in the name of the only begotten Son of God.” Again: “He that believeth in the Son of God hath eternal life; but he that believeth not the Son shall not see life, but the wrath of God abideth on him.” And yet again: This is the will of him that sent me, that every one which seeth the Son, and believeth on him, hath everlasting life; and I will raise him up at the last day.” Now the last day of man is the point of death: in it Christ saveth us by his power, lest our soul should either perish or feel any torments, but that it might live and enjoy everlasting blessedness. Moreover’, the last day is that last day of judgment, wherein Christ shall raise again and judge all flesh, glorifying the bodies of his faithful people unto life everlasting.
 
-4, κε tet,
+Again the Lord saith in the gospel: Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into judgment (or damnation); but is escaped from death unto life.” These only words of our Lord are able enough (without any gain-saying) to set forth, declare, prove, and confirm sufficiently our opinion concerning the most certain and sudden salvation of souls. For first of all, lest any man should doubt of the most assured truth touching the matter which he was setting forth, immediately upon the beginning most holily he sweareth, that is to say, he confirmeth the truth by giving witness thereunto with an oath. Afterwards he annexeth the whole manner of our salvation; which consisteth in hearing the word of God, and in true faith which receiveth the truth of God’s word: for it is not enough to have heard the word of the gospel, unless we cleave unto the same by true faith. But now mark with what assurance Christ promiseth life and salvation to them that believe in him: “He hath life everlasting,” saith he: he said, he hath,” not, he shall have. Therefore he left no space either to doubting, or to space of time. Yea, yet more plainly, by interpretation expounding when and how the faithful have or obtain life, he saith: “He shall not
 
-: ee ΞΞΞΞ-- nd IIS ELS Pn IAS SONNE ar a ims ae ee κε i “i ΜῊΝ ᾿ ἧς Deets “ ΡΝ )) ( 4. « ἜΘ εὐ τ κ ς «ἐς eke ebelgineniem
+[[ Est preeterea, &c. Lat. Again the last day is. In these two]
 
-434.404, «κεἰς 404,
+[senses Bullinger also explains “the last day” in Comment. in Joan. in]
 
-Se ace a
+[loc. cit.]]
 
-+, “κι esate’ acace estates ᾧ Segoe fetese
+come into judgment (or damnation), but is escaped from death unto life.” They come into judgment, which have their cause to be examined and discussed before the judge. They come also into judgment, which by the sentence of the judge are punished for their evil cause. But the faithful have no cause to be tried and discussed before the judge; for their sins are fully forgiven them. “It is God which justifieth and forgiveth. Who is he that condemneth?” Therefore they are not subject to any punishments; for Christ bare the punishment of the cross, that his faithful people might be delivered and saved harmless from all torments. But rather, lest any man should think there were a stay or space of time between the death of the body and the life of the world to come, he saith: But is escaped from death unto life.” Lo, he saith, “He is escaped,” not, He shall escape; that by the verb of the preter tense he might signify the certainty of the time past’, and might shew that the souls of them that believe are by and by after the death of the body caught up into life everlasting. And I know well enough that the adversaries here have no sound argument to set against so manifest and invincible a truth. Indeed, with their wrangling words and their sophistry they may wrestle with the truth; but to overthrow the truth they are never able. For the souls of the faithful even out of the very mouth (as is commonly said, Von mund auf zu himmel faren’) upon a sudden enter into their blessed seats, and by faith enjoy everlasting felicity. Rev. xiv. Again, we read in the revelation of our Lord Jesus Christ made to John the apostle, that it was said: “And I heard a voice from heaven, saying unto me, Write, Blessed are the dead which hereafter die in the Lord: even so saith the Spirit, that they may rest from their labours, and their works follow them.” In these words an heavenly and undoubted oracle touching the blessednesses of all such as die in faith is knit up: and St John is commanded to write the oracle from
 
-See ee ΡΣ ῳ
+[1 of the time past, not in Lat.] [2 Ascend to heaven from the very mouth. ] [3 So Tyndale, 1525; Coverdale, 1535; Cranmer, 1539; and the]
 
-¥ aaa LR
+[Geneva version, 1557. The Vulgate reads, Amodo jam dicit Spiritus,]
 
-ΜΗ ΟΝ ieee ae δ eek, ΟΣ PD ΡΝ Nesesese Sef )))
+[(From henceforth now, saith the Spirit, Douay); but Erasmus notes:]
 
-Maes
+[Greci sic distinguunt, ut amodo sit finis sententie, ut sit sensus, Post-]
 
-Pere SERS cae
+[hae fore beatos, qui in Domino fuerint mortui. Annot. in loc. ]]
 
-Ps? 4 εἷς ( ss 5 ἘΡΡΡΉΡΗΜΗ ΒΗ ΠΗ ΉΡ ΜΗΘΝ is Ἢ Kee ees aeeaseae ne sesene feces ese seseseses i ) ἐξ SPP M DDE SBE DODD DPD Ssiekes iS δ᾽ ‘ eee seks Sesh ( Ss RE 25 ἐεζεξεις KG ΟΣ ‘ Soke Safe heh ese fesecekek cteset ete feaes si δὴ ΗΜ eseketefeseseseSesesesetetetctet 4) ) (e AAC Sars aha) ᾿ Suteee Ssetaness )) ὡς ae Can AD AAR
+heaven, that it may remain to all times, and be read of all people. The sum of the oracle is this, “Blessed are the dead, which hereafter die in the Lord.” But they die in the Lord, whosoever depart out of this life in the faith of Jesus Christ; for so the apostle useth this kind of speech in the 1 Cor. xv. and 1 Thess. iv. Furthermore, they which depart out of this life in the faith of Jesus Christ are simply and truly pronounced blessed, to wit, happy and free from all misery. Yea, a note of the time when they shall obtain this blessedness is added, namely, Hereafter (ἀπάρτι), that is to say, presently, at an instant, by and by, out of hand, to wit, as the Lord saith in the gospel, forthwith after the death of the body. There is added also another testimony, whereby again the certainty of felicity is expressed, and perfection too not delayed till the morrow: “Even so, saith the Spirit, that they may rest from their labours.” The Spirit, I mean, of truth, which cannot lie, saith, val, that is to say, Amen, so it is: truly the faithful are blessed indeed; and even at an instant they are blessed; and so blessed, that they rest from their labours.” The labours of the faithful are miseries, calamities, afflictions, sorrow, fear or dread, and other evils of this sort, wherewith in this world they are vexed, yea, rather exercised in faith. From these things the souls of the faithful departing from their bodies are delivered: therefore they are not purged by torments and vexations, they are not scorched in the midst of their journey; but, being happy and blessed, are forthwith delivered from all anguish and trouble. And if so be that they suffered anything whiles they were yet living in the body, if they did any good works in faith, they “do follow them.” Let no man think that those works, because they now cease, were and are vain; for they receive their reward in that blessed life. For that it is, that their works do follow them.” And let us mark, that he saith not, the works of other follow them, to deliver them forsooth out of purgatory; but, their own works follow them. For in the gospel also, the wise virgins, which had oil ready in their lamps, went in with the bridegroom to the marriage: the foolish virgins,
 
-4, “ () eS ἢ ἐς, (i ΜΗ a hates, eer ey προ λον ἐς Hs aR ἐμ νοῶν TE TO ae
+[8 ἀπάρτι significat, ab instanti, ab illa hora, protinus et continuo,]
 
-€, esky ΡΜ ἣ
+[einswegs, von stund an. Bulling. in Apoc. Conc. 65. p. 205. Basil,]
 
-5 an ὑπ ς EAA ς EOE ) he ha8 «44 a ᾿ς
+[1570.]]
 
-RS yy a
+which had! prepared themselves no oil, but did hope to have from elsewhere to serve their turn, are excluded and shut from joy. To the omnipotent God therefore, our most merciful Father, and continual running fountain of all good graces and which is never drawn dry, who fashioned our body in mother’s womb, and breathed or poured into it a reasonable soul, which might whilst it is joined to the body quicken and direct us, and when it is separated from the body might forthwith after the death of the body be translated into heaven, there to live in joy and happiness until it return again unto the body being raised from the dead in the last judgment, with the which it may rejoice and be
 
-POPS eA Xe ὡο
+glad for ever and without end; to that God,
 
-PSS er hotel
+## I say, through Jesus Christ, for whose sake we are made partakers of so great a benefit, be glory, praise, and thanksgiving for evermore. Amen
+
+[[ in vita, Lat. omitted; in their lifetime.]]
+
+## a a
+
+**v. 1.** PES ) i WU ΨΥ " i
+
+## 
+
+4 ah ἡ n In ᾿ ᾿" τευ ν πω ᾿ ry - ἘΠ ἢ" ΣΥΝ. Ι { i i 1s 3 FA ᾿
+
+““fe {3 a Nn a wi " oy wo a Ra ΔΠῊ ti = " Ν Vo X
+
+**7.** ῃ ας Ν ᾿ He 5S τον - oo al ΠΣ" - " ἀπο ἢ ". οι SALE oo ἷ ET - Σ 1] "Ὁ a NT ppd =n τ “" ᾿ a: Ww Cy ᾿ ped i. Ὶ ΓΝ "νε - b νυ. Ἷ pif Ea!’ es Ψ ") 1 Ι. ᾿.
+
+## he
+
+S i il q 1» > ᾿ Α 1
+
+## 
+
+wil 03 See i ᾿ ῃ Ἢ [ i 4 Π ν i S ν᾿ - i HN 1 " A. "“.! ͵ LH a
+
+## A
+
+i ᾿ i ᾿ -’ τὰ τ. i ͵ y “h ἡ” ᾿ - ΑΙ ] hy Π » ν ἢ = - ν᾿ " L.
+
+## i 1
+
+: 1
+
+J ΕΣ 4 hs fo ks » ἮΝ i
+
+**A hl 1).** i Π 4
+
+## 
+
+a - - ᾿ ᾿
+
+= Ϊ ᾿ ν
+
+᾿ γυ: 3 ᾿
+
+**᾽ i.** J ω ΠῚ Tay
+
+## a
+
+ia 1 τ }
+
+- ἃ - 1) -
+
+**“5.** “Η Ψψά Ἢ ᾿
+
+᾿ " ἰ Ὶ i. ᾿ 2 i 1 = + " κ-, Σ Β ἡ 1 C 1] Ny ν a 1 i i Ξ ᾿ N F oy ᾿
+
+A, Ἵ τι
+
+## 
+
+4 > ω R a Η i = Ba ᾿
+
+## 
+
+Υ 5. [3 = - εν Η Ν" x ᾿ Ε ὑσὶ: \! = A, 2 ῳ i i ἱ: x NR = τ ' ι ' “- i - πὸ i ] J ΒΕ. ω Υ I
+
+## y i
+
+[be = Ρ #@ oh ᾿ V Ξ Ἐ]
+
+[TR Tray ᾿ ᾿ ἮΝ AE]
+
+[gab ~~ gaat LN]
+
+[Ν. - ψ i ΕῚ y]
+
+[Sh “-; τῷ fT ΓΗ Ὁ" τυ ' "]
+
+[fo = " = = = WEY]
+
+[a EE 4 N ATER N d ἐ ἴ]
+
+[3 _- Ly ὺ I: i " = le pi g = i]
+
+[Wir = - i Pia ἃ Ἦν ΚΕ MY ' ᾿ Rd]
+
+[En -". i» a. ι Ο { “~]
+
+[ee re ER ἮΝ i'd]
+
+[4 a 5 ΠΝ ἐπ ες = τ =]
+
+[τὰ id Ge “ο ν ὰ of 2 al - ᾿ Η]
+
+[Yes Se a 15 ἀ: Vez:: ᾿ -]
+
+[Ἂν Ἀν τ TT ᾿ (]
+
+[li πε προ τ γῆν οῖς: 3 oi S=s]
+
+[TL ἢ τς I υ ΦἜῃ0{Φ{ῃ," “art τ » τ ἃ]
+
+[al ἊΝ BoA Tur δ ἘΞ Ee TREES h BE ον OR red k = a Ci NR]
+
+[EI GS eR CS ἐὰν gt Wn ἐν’ ὁ" ls MiH]
+
+E X) 4 Η: el 6's hy Ae ᾿ " NEL ᾿ ἢ ὥς Ἢ
+
+τ + ἘΝ ἀμ thy fais (ἃ: ΗΝ g N. JN ἢ pg J) 91 ᾿ " jr
+
+## 1 Jar,. 4
+
+RC x »“" i Pe iN τ Ca hia ἂν " τ ΙΝ a SR RT (SE Rid tT eh el Pie CLI - ΒΗ.
+
+**4.** Ie im J, > i a ε MN I ὰ bi) ug aN να Ψ Pa WENNER Taek Wel Ne Oe πᾶ ς Rs 4
+
+Ey δ DEC 0 aes x + ~ ‘ pa i - By 4 " Ne ME - i" ὶ" ΤΊ [op BAT, Πὶ 2 8 “3 re MET who > 3 Ξ φ. ᾿ “i i RL } PB ἦν a he τέ ἐφ " γὴν ᾿. ‘ ALN A 5 ' ῷ by re $ ἀν}. 40: - 4 “, je ve " k 5 ᾿ { A ῃ Ἢ εἰ - é ν ΞΟ
+
+## 4
+
+- ἄς
+
+**4.** M ΠΝ " 5 δ p 2 Ὦ p r " - ἂν ὟΝ ν - 2 or \ Fee J - ΓῚ Re κ᾿ i Ξ Υ “= ᾽ χ - p x Co
+
+~ μ a "ἃ a »Ὰ y
+
+[- ὲ a oy: x ᾿ v -; ΤΟΝ # - ν᾽ 1 "]
+
+[wl pa LN of ey]
+
+## i, 4
+
+J A i ἡ d I] ““- Be δ χ να aa δὰ ιν $A i in -. 5 we ee i: i rey 3 i WY ei " ΠΝ I Ne Τ " A -- KL ᾷ - es E < A 3 ‘4 FI ΡῈ s a δέ, EAR ΡΥ Ν po A Bm S " Xe h πος Ὁ ΓᾺ “ἢ ς 5 a Poli bE ὄρ Ὺ = it i Ω νὰ 3 ν ἣν is
+
+= E ha Ki 1% "" ΓΝ ἔ » a fa - i! “se 0a a > & Φ ΣῚ: Ν ἌΝ ἐὰν δ )» κα al ihe SWAN Ὁ 0. 4 whe ἡ = μ᾿ ἐ Ald Ra i { 9. εν τ { bP
+
+Moh ye RR ᾿ δ” ad
+
+en - 4 > Ι ᾿ fo “a ho -.. ΟΥ̓ " τὺ - μ' we { ὩΣ i ἢ ἵ - ὧν δια J πε - } % Nz, ᾿ 3 Ly ΕῚ RB ΗΝ ΄ FEN
+
+## i
+
+J \ i ΠῚ [i Ἢ Γ 3 ΓΝ ere A ΨῬ (Je > jet Jeu Cw ΣΝ ΨΩ. ἣν’ - = AM -’ + A iE ἐ Ne ᾿ εἶ fi.
+
+» Lh ~ Π ι ῃ -
+
+i! " > y tg oN - Ea. ἂς » Ὰ 1 Ἂ ν᾽ δ᾽ Ny - 8 = kd ir ἢ e i Η ᾿ Ε ᾿;: of A “Ὁ ᾿ ͵ ΡΝ, i STAIN ᾿ yo » ι LI ς gf ν τ ΟΝ No Ὁ if ἢ SL Σ y. " 4 p ν “, g;: 7 πο 3 hy: gl In
+
+- ΠΕ ἵ αν hl i - τὸν y ῃ AY ν = a = wh:. a as ᾿ po τὶ = J bY: Lol vh pA) f Ως i wud
+
+## 
+
+a - - = -» εἰ " [ - μ΄ Ὁ py re Sa Cian AY ge Nd ΠΝ vd ᾿ Φ ' 4 13 i > Ν ae ἔ 4 % Ls a ᾿ ᾿ 3 oC τ τ a. LI} fit 2d ΙΝ - ͵ y Ζ NENT Τ᾽ ΕΣ ὙΠ eX Ev Υ Ξ ᾿ ΨᾳΨᾺΆ.Ι ΟΣ i Sot A ἢ ra Bae’
+
+Ny oA, SN ΠῚ πάν πιὰ X ᾿ Ro Wa Lut ᾿ ἊΝ wet AY yy i og it ᾿ Ron 3 s “- “κ ᾿: b= ᾿ el ον: - pee “3 ς i x Bm Ν Ἂ" ον Ὁ ᾿. ᾿ - i ΞᾺ δ 5 h- > a ἱ ᾿ = Ψ od “"᾿ γι ἡ» ἣν Υ W 2 Te Ὡ Sad = =A > \ 5 4 Ἢ i! Η p.7 or wo P= =. { V = ᾿ ".: b τὰ Ν δἰ ᾿ aN: MES 5) Ν Ἢ: ἃ. i τς Tad iv 4 ᾿ - [ 8. " i ᾿ ss = Ξ yi oh iM i “" i Ide “Ν EE σ Lg. a ν π΄ ᾿ ἜΣΕΙ 2 ps A i A ᾿ ᾿ ᾿ i ἔχ «4 5 o uN 3 ~ x A he Ω. Ld - ΠᾺΡ ᾿ γι Ξ τ » -- - - EN ἤν LS ἦν i] as ᾿ be x i: 4 A ge οι SET πα waldiy EJ - Δ Li an ΗΠ Ξ: Ea = ᾿ Ἢ Lr Jr ON Ll. = BY, Ay " 4 Hs ώ io τυ Ἔν i Η i ΡΒ (IRE a il i ge he \ oP a Ws Ὧν δ. Ale =o. - ta Ὑτῶν aa ᾿ { eA oY) ΔΙ Ἢ i “Ὧν fe:: bet i) a ᾿ ὰ ὧν ΡΝ i ar a NG. = Ser. ν ν wt Ge a SCN ed A de AE 2 el
+
+[τ ἐὰν Rabi] at αν ΠῚ rif pap ᾿ Ἢ NS Hs A]
+
+[ES lr Rey iq 3 - iy πρὸ ΧΑ SEN ἐν ΕἾ LS VEE ] NX ot.]
+
+[ial gl μ Soh od NO Sal τὶ Δι Ts ἦν fo A ad nf pes Ξ]
+
+τ ΟἹ A; δ ΕΞ ῇ isd
+
+BX
+
+5035 P2 BS D4 vol.lh
+
+ΕἾΕΝ, TINE NTR PR ἢ RI, AW “La ΜΞ ay Ὡς Ty ad SCH Ad qd ad 4 4 SRT a RRA, CAAA AAA A x {ἃ Δ Ἃ ἢ ἃ ἶν YEE ΔΝ τ ἢ Fer 3 i] pC 4 1 Ὁ μ \ Δ ἰ of od a = ᾿ Π το te og ge EES EES "ye BARS hk ea or ΚΑ ΓΗ ΜΙ qd τ Ν ἥ ΓΗ VA & i, -- Wc Se, 2: As Fr ΤΥ 3} Ey AN Li AR LAA Wa i 30 a a FEE REE sre VETERE eS ἡ ἀνα νυ oll 8 GR SRR RSS ad ul od dW 8 8S CEES EY Ἡ μ >. Lo WE Ἕ ty rd YR + nN vy 4 1 1 i hey «ἀὉ ἢ ἡ BS a UA A ΤῊ 1 5) ga of. ἡ Ea " γ ΟΝ, θὰ SR i SH Sr ΧΑ θὰ al “ol ἡ Ti WF 2 yi “lo ree To i x && BE Ψ & hs ϊ ᾿ 3 M 2 Ea ΒΕ συ σι ᾿ Μὰ ἃ ᾧ ἃ ἃ ἃ ὦ re ἃ ἢ eye νὰ Δ EY δ 1 ΠΩ νὴ τ,“". A + «ὰ oh ἥ Fi. ἐν ‘ Ἢ hi - oe,, ΤᾺ i je “- FEE Be ν νὰ 8 J A a Vi [Ἢ A 7% ΠΗ ΠΡ ἢ Μὰ ΚΕ ᾿. δ " ΓΙ ro. al og: " Ἢ bi el FH 3 3 μάλ a κα RAS al a ER ΝΜ Ὁ Μ΄. Ἐπ NS oo SER Ta pag: 7, A i i Ἂ 4 I AER UN IEE BR Reg BU TEER FY 0S JV NED ES rr EE REY EEN fess YE αὶ fod fi 8 8 SSS a SR her a rey 58 Elm Β ο Ἔα ἡ ry ses CY 5 fb EL] ᾿. EF 4 Prev ἝΝ = ᾿ oy ] I a eS a a τὴς η" Ἣ: ΜΡ NTT gs PT hE.Ν A,; ἣ ΕΗ J: 3 EA ᾿ By Fa ᾿ A i = 3 εν J Eo re pid i ig Wl - a wo 4 Er a ἥ HN, ul 0 πὴ Ρ } + δ ΓΗ Ri Ε.:; i πῶ ἙΝ Ἢ ἃ a a il ἡ ἃ Ὁ ΔΑ: ὧν" 3 a δ > w ing or Fid ΔΑ ΒΕ WE ΕΓ 3 ΕΓ 1 μι bir i - Bio ih Τ Ἣ ir A 3 bh of Wl ER REST HAR $13 % ΕΟ a ss DRESS Eas YAS on BW GW LP οὐ REPT Rey Gi Ὁ ἢ i Γ Τ Ji: i ΤΩ, WY τν (EE EE RRS ae RRS ΑΗ Jods mgd REE uw BRAS A FT al ΣΝ. o BE P Ξ τὰ Bs I Wi NRE pr ET oy aa 3 MR ST SEE PT = Sr 4 sly ge Fal ὦ μὴ is RA Had RL ca i PASE mw EER αὶ ἃ ὶ ἃ Tagg mpm dR AS ed ΑΒ Π τῆν ΓῚ ᾿ ΕἾ ΓῊ ΓῚ "ἢ δ Ἢ τ 4, J ΓΙ WH Fil “ 4 B ws ἊΣ CR Ψ Tawa gpa BR Sa rgd dd sf AN Sw ii) PRE 57 SCR i εὐ ik 3 4 Ὁ LS aa 6. Sie Pg “τὰς τ Fr ONC CE 4 ΤΣ Κα κάκ απ ΑΙ Sw md ER ERR εν εκ Ἔν εἶν ον ἐν μα ΜΉ ΜΊΑ Ἢ ἃ ἃ ἃ αὶ δ δ ἐ ἐπ Yds NEA εν FFA. ISS Ve is sey EER ANE) ος rE τς B Gy aX ΔΑ δ 8 1 “Ἢ Γ ' Ἢ ἡ. ἢ [ἢ ἄ ε jo ν Χ { i Ee LR. Ee eo Te iB i a 3 Ap ER ER lease LESS wun es Slt 3 ἐπ ὩΣ - ἢ - τίς ΤᾺ τ ἄν ἀπ΄ πὸ ὐοι mn = es 7 ΓΕ ἐπ κα aad gad id REBAR si αὐ ΘΙ i 3: πω SR et Ν δὰ EA Fi rr γι Ε 1 Γ Ν 2 FA ι A = ὩΓ Ο, » 2 57 Te vy 3 ἃ gor were & 8 € 8.8 8 Mo FL. RN ο re 1 3 FAA AA ARES αν y BL Sr dW iP 8 ES Tee
+
+᾿ tap α py. v Ty Bo ᾿ Rl 3 wi LT 3 - ἃ NG ἊΝ “HN τι ἫΝ Ἵ: fF ld ad ok --. = A ke ι i \ CE A 5' ἭΝ Σ σὲ RO Ὁ Ὲ: τ " τς 08 VA, RL RR BEL EEE BE PBF ER Ey EEE EE LEE EDR EEE BF EFS 0 ς ΠΝ. oe oR ot Ὁ LAR - A Aa Ya 14 [% 4 pi 5 1 \. a” 4 ΄ Γ < τς ν ᾿ r D i Ε Po EB » » oa Fa Was & we Ἢ % i; 8 Fl RRR E EEF PR RS Fw nw whey BEE BE ἡ δ Ἐ; ἐ " 4d 4 T= A G:: 4 4 3 ξ oA N Rha oH rl pL EE TBR BW BN NI a Sv TI Ry A τυ ἡ. Εν το {. i Le ἐ οἱ 2: ῳ ἰ Ὁ} SD LL pg SV Φ ΙΝ 4 Rl oe TTY a ἡ " " Ὧ Bes Fo ν ΐ ἰ ‘!, i Ἷ ν΄: 3 oi ΠῚ ῷ a, ον 5%.»Ἔ ς. Ἐ τὰ ΝΣ ' A ᾿ “τς ᾿ oy Fits Eo Ε Ὡ = TN fy Ἡ 5 LR Υ. ΠΣ be, ty ἐν CO 4 ΘΝ.. ᾿ f Phe τῶ ὰ ΕΝ Ἢ εν “Ἐν his 1 a AS Lu Me - A ig Υ: “dh ui Hal rf J ὃν πον οι Ἐν" τ 2. a ARE Ta μ ἢ π΄ Ἐς ν ga Ya TR Vik ἘΝ =i ge RL, τὰ 2 Be τε ἅ Η oa Er oh J - ὡ-, Sh Ἢ ὯὮ Ἧ wo £5 μὰ Pa, ΡῈ Flag y rye Yi: ἥ Ν ἢ: ὃ ΣΝ Rd REE KEEN LTE We a TO Ἢ pie TE AE 1 Α Η « oh Yi a ta τὴ Fi Ly ie ) εἶ.. Υ ς i BHA x ΗΝ her Re RR Ν BB Cf PU EE Se α % Ne I δ᾽ By 32 τ τ ΠΕ as ὁ a ὡς ΔΝ a 4 SE μιν Ν ol 3 3 oN φο Wh oe; A JE Js ho oo 4 } a te er ee le BBN BB AB ὦ δ Ὁ BG bo BOYES ve HE) i ἄτ WE πὸ τ er τς NS FRG το ἮΝ Ἔ.- SA ἈΠ ἘΝ ὩΝ πὸ ἀπ εε ὦ aR We Af VB "le δι δ ν᾽ ἢ Te "Bi ΤΡ - a »ὰ ΒΩ ΠΝ ro ws % 3 3. Ἢ ἫΝ ) A τι NA: τῆς. Ἦ hele ᾿ νι" he yy ELE Ν ol [Ἢ a =r RT νυ; A A ὯΝ ΤᾺ ΜΝ 1 ᾿ \ > pov. ὰ Ἢ 9 HEE ᾧ fo Ε ΨῈ ἕ BE be ἘΠ Ἐ ἔ ᾿ E: ) > i AOR a pr TX a ἘΩ͂ ‘ oy δ re, ε id HEY 3 or ὸ ᾿ς a δ΄ Fa x nad? an RRR ᾿ i
+
+Ἷ 4 N ); i, δ wd ξ ' # ar IR - { i FE a WR ‘ ἶ 3 3 rad HA
+
+Ἵ 1.''N ΥΣ ν i 4 a’ Ἢ 3 Ss +
+
+## i! 3
+
+v 3 A
+
+## 
+
+4
+
+**3.** La wo 4 ol y y ‘ 1 ᾧ Ru ) i.
+
+: N y Ἂ Ἕ
+
+᾿ oa Ν᾿.
+
+## i
+
+\ A ᾽ῆν ‘
+
+i].: "
+
+## 
+
+**8.** oy i Ἷ
+
+PS ΤῊΣ ἢ ". KIER ve,
+
+jo ot beg
+
+## Realy
+
+.
+
+᾿ς
+
+## atin
+
+ν - » 7 A { A % r “{
+
+[br - « } τ ) “4 / ἸΝ”]
+
+[4 ~ 7. Ε a]
+
+a: ἮΝ ι Bo
+
+## a i
 
 ---
 [[Bullinger Dec 55 Decade 4, Sermon 10, Part 1|← 55. Decade 4, Sermon 10, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 57 Decade 5, Sermon 1, Part 1|57. Decade 5, Sermon 1, Part 1 →]]
+
