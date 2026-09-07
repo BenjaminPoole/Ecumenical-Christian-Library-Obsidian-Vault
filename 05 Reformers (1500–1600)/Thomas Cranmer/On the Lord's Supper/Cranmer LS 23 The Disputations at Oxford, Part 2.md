@@ -4,663 +4,827 @@ author: "Thomas Cranmer"
 work: "Writings and Disputations relative to the Lord's Supper"
 chapter: 23
 year: "1550-1557"
-source: "archive.org theworksofthomas0ps1, Parker Society (1844); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+grc+lat)"
 written: "1550-1557"
 tags:
   - protestant-reformers
   - thomas-cranmer
 ---
+
 # 23. The Disputations at Oxford, Part 2
 
-‘ vero,” they touching the sense it differeth little. God I calk to witness, but that they in a rush.
+Here you have falsified Hilary; for you have set vero sub mysterio for vere sub mys- Thus far ἐπ δὰ. »... their talk terio, we receive truly under a mystery." Hilary thrice reporteth vere sub mysterio, English. and you interpret it twice vere sub mysterio, but the third time you have vero for vere. seeingMaster Cranmer:—Assuredly I am not guilty of any deceit herein. It may be that the mee ^ vene copy which I followed had sub vero mysterio, i.e. under a true mystery;" although and put they touching the sense it differeth little. God I call to witness, I have alway hated bes] falsifying; and if you had leisure and lust to hear false citations, I could recite unto irt ater you six hundred. 1o find a knot
 
-2 . . ) . . [? A direction to the notaries. } perversitas est. Que scripta sunt legamus, et
+[[? A direction to the notaries.] perversitas est. Qua scripta sunt legamus, et [? Si vere igitur carnem corporis nostri Christus qua legerimus intelligamus, et tunc perfecte fidei]
 
-[* Si vere igitur carnem corporis nostri Christus assumpsit, et vere homo ille qui ex Maria natus fuit Christus est, nosque vere sub mysterio carnem corporis sui sumimus, et per hoc unum erimus, quia Pater in eo est, et ille in nobis; quomodo voluntatis unitas asseritur, cum naturalis per sacramentum proprietas perfecte sacramentum sit unitatis? Non est humano aut seculi sensu in Dei rebus loquendum, neque per violentam atque impudentem predicationem ceelestium dictorum sanitati aliene atque impie intelligentie extorquenda que legerimus intelligamus, et tunc perfecte fidei officio fungemur. De naturali enim in nobis Christi veritate que dicimus, nisi ab eo discimus, stulte atque impie dicimus. Ipse enim ait: ‘* Caro mea vere est esca, et sanguis meus vere est potus. Qui edit carnem meam, et bibit sanguinem meum, in me manet et ego in eo.”? De veritate carnis et Sanguinis non relictus est ambigendi locus; nunc enim et ipsius Domini professione et fide nostra vere caro est, et vere sanguis est.—Hilar. de Trinitate, Lib. vi11. pp. 133, 34.]
+[assumpsit, et vere homo ille qui ex Mariá natus officio fungemur. De naturali enim in nobis Christi]
 
-Here D. Cole beginneth to carp.
+[fuit Christus est, nosque vere sub mysterio carnem veritate qua dicimus, nisi ab eo discimus, stulte]
 
-D. Yong cometh in with his socratical interrogations.
+[corporis sui sumimus, et per hoc unum erimus, atque impie dicimus. Ipse enim ait: Caro mea]
 
-D. Yong’s sophistical interrogatories.
+[quia Pater in eo est, et ille in nobis; quomodo vere est esca, et sanguis meus vere est potus. Qui]
 
-This syllogism, speaking of a figure, hath no perfect form nor figure.
+[voluntatis unitas asseritur, cum naturalis per sacra- edit carnem meam, et bibit sanguinem meum, in]
 
-Weston :—Here shall be shewed you two copies of Hilary, the one bes at Basil, the other at Paris.
+[mentum proprietas perfect sacramentum sit uni- me manet et ego in eo." De veritate carnis et]
 
-Cranmer :—I suppose that dete Smith’s books hath vero.
+[tatis? Non est humano aut seculi sensu in Dei sanguinis non relictus est ambigendi locus; nunc]
 
-Weston :—Here is Doctor Smith; let him answer for himself.
+[rebus loquendum, neque per violentam atque im- enim et ipsius Domini professione et fide nostra]
 
-M. Smith, M. Doctor, what say you for yourself? Speak, if you know it.
+[pudentem praedicationem celestium dictorum sani- vere caro est, et vere sanguis est.—Hilar, de Tri-]
 
-Here Doctor Smith, either for the truth in his book alleged, or else astonied with Doctor Weston’s hasty calling, staid to answer: for he only put off his cap, and kept silence.
+[tati aliene atque impie intelligentiz extorquenda nitate, Lib. viii. pp. 133, 34.]]
 
-Weston :—But your own book, printed by Wolfe your own printer, hath vere’.
+Weston:—Here shall be shewed you two copies of Hilary, the one printed at Basil, the other at Paris. Wei
 
-Cranmer :—That book is taken from me, which easily might have ended this controversy. I am sure the book of Decrees hath vero.
+Cranmer:—l suppose that Doctor Smith's books hath vero. fw
 
-Cole: —Now you admit the book of Decrees, when it maketh for you.
+Weston:—Here is Doctor Smith; let him answer for himself. E.
 
-Cranmer :—Touching the sense of the matter there is little difference. of one letter for another is but a small matter.
+**M.** Smith, M. Doctor, what say you for yourself? Speak, if you know it. m
 
-Weston:—No is? Pastor, as you know, signifieth a “bishop,” and pistor signifieth a “baker.” But pastor shall be pistor, a bishop shall be a baker, by this your change of one letter, if vere and vero do nothing change the sense.
+Here Doctor Smith, either for the truth in his book alleged, or else astonied with Doctor Weston's hasty calling, staid to answer: for he only put off his cap, and kept silence.
 
-Cranmer :—Let it be so, that in pistor and pastor one letter maketh some difference; yet let pistor be either a baker or maker of bread, ye see here the change of a letter, and yet no great difference to be in the sense’.
+Weston:—But your own book, printed by Wolfe your own printer, hath vere’. ——
 
-Yong:—This disputation is taken in hand, that the truth might appear. ceive that I must go another way to work than I had thought. It is a common saying, Against him that denieth principles we must not dispute. Therefore, that we may agree of the principles, I demand, whether there be any other body of Christ thes his instrumental body ? |
+Cranmer:—That book is taken from me, which easily might have ended this controversy. I am sure the book of Decrees hath vero.
 
-Cranmer :—There is no natural body of Christ but his organical body.
+Cole:—Now you admit the book of Decrees, when it maketh for you.
 
-Yong :—Again I demand, whether sense and reason ought to give place to faites
+Cranmer:—Touching the sense of the matter there is little difference. The change
 
-Cranmer :—They ought.
+Weston:—No is? Pastor, as you know, signifieth a bishop," and pistor sigof one letter for another is but a small matter. nifieth a “baker.” But pastor shall be pistor, a bishop shall be a baker, by this your change of one letter, if vere and wero do nothing change the sense.
 
-Yong :—Thirdly, whether Christ be true in all his words?
+Cranmer:—Let it be so, that in pistor and pastor one letter maketh some difference; yet let pistor be either a baker or maker of bread, ye see here the change of a letter, and yet no great difference to be in the sense?
 
-Cranmer :—Yea, he is most true, and truth itself.
+Yong:—This disputation is taken in hand, that the truth might appear. 1 perceive that I must go another way to work than I had thought. It is a common - in-..:. a A.; saying, Against him that denieth principles we must not dispute. "Therefore, that we may agree of the principles, I demand, whether there be any other body of Christ than — his instrumental body?;
 
-Yong :—Fourthly, whether Christ at his supper minded to do that which he spake, or no?
+Cranmer:—There is no natural body of Christ but his organical body. Yong:—Again I demand, whether sense and reason ought to give place to faith?
 
-Cranmer :—Dicendo diait, non fecit dicendo ; sed fecit discipulis sacramentum ; 1.e: In saying he spake, but in saying he made not; but made the sacrament to his disciples.
+**Cranmer:—They ought.** '
 
-Yong :—Answer according to the truth. Whether did Christ that, as God and man, which he spake, when he said, “This is my body”?
+Yong:—Thirdly, whether Christ be true in all his words?
 
-Cranmer :—This is a sophistical cavillation. Go plainly to work. There is some deceit in these questions. You seek subtleness. Leave your crafty fetches.
+Cranmer:—Y ea, he is most true, and truth itself.
 
-Yong:—I demand, whether Christ by these words wrought any thing or no?
+Yong:—Fourthly, whether Christ at his supper minded to do that which he spake, or no?
 
-Cranmer :—He did institute the sacrament.
+Cranmer:—JDicendo dizit, non fecit. dicendo; sed fecit discipulis sacramentum; i.e. — In saying he spake, but in saying he made not; but made the sacrament to his disciples. — Yong:—Answer according to the truth. Whether did Christ that, as God and man, which he spake, when he said, “This is my body"?
 
-Yong :—But answer, whether did he work any thing?
+Cranmer:—This is a sophistical cavillation. Go plainly to work. There is some deceit in these questions. You seek subtleness. Leave your crafty fetches.;
 
-Cranmer :—He did work in instituting the sacrament.
+Yong:—l demand, whether Christ by these words wrought any thing or no?
 
-Yong :—Now I have you; for before you said it was a figurative nee?
+Cranmer:—He did institute the sacrament.
 
-But a figure worketh nothing :
+Yong:—But answer, whether did he work any thing? A Cranmer:—He did work in instituting the sacrament.
 
-Lirgo, It is not a figurative speech. A
+Yong:—Now I have you; for before you said it was a figurative speech: c
 
-The change
+But a figure worketh nothing: Ergo, lt is not a figurative speech. A liar ought to have a good memory.
 
-I per-liar ought to have a good memory.
+p Several editions of Foxe, 1570, 1576,1583, 1641, in 1553. It will be seen from the above reference, hath
 
-i Several editions of Foxe, 1570, 1576, 1583, 1641, | in 1553. It will be seen from the above reference,
+[figure 1684, read here vero, but that of 1563 has vere. As that Gardiner had first quoted vero from his “first — —]
 
-1684, read here vero, but that of 1563 has vere. ry to Cranmer’s “own book printed by Wolfe,” the “‘ Defence”’ printed by him in 1550 does not contain the original passage of Hilary, but it stands in the translation “‘under the true mystery,’’ which of course assumes vero to be in the original. In Cranmer’s “ Reply to Gardiner,”’ printed by Wolfe in 1551, the original passage is not cited by Cranmer, but is inserted in Cranmer’s work as quoted by Gardiner, and there read correctly vere. (See p. 161. of this volume.) The same reading appears also in the Latin edition of the ‘‘ Defence”’ published that Gardiner had first quoted vero from his “ first copy,’’ as he calls it, which he afterwards corrected to vere (see p. 162.); but what that “first copy’? was, or how the wrong reading got into it, it is not now easy to ascertain. In five editions of Gratian which have been examined, viz. Paris 1517 and 1528, Antwerp 1573, and Lugd. 1525 and 1624, the reading is uniformly vere.—See further the extracts from Foxe printed below, p. 428.]
+[to Cranmer's “own book printed by Wolfe," the copy," as he calls it, which he afterwards corrected —]
 
-[2 This answer of Cranmer is not found in the first edition of Foxe. ] a Ss a
+[Defence" printed by him in 1550 does not contain to vere (see p. 162.); but what that “first copy" — —]
 
-Cranmer :—I understood your sophistry before. You by working understand converting into the body of Christ: but Christ wrought the sacrament, not in converting, but in instituting.
+[the original passage of Hilary, but it stands in the was, or how the wrong reading got into it, itis not —]
 
-Yong:—Woe to them that make Christ a deceiver! Did he work any other thing than he spake, or the selfsame thing ?
+[translation under the true mystery," which of now easy to ascertain. In five editions of Gratian 4]
 
-Cranmer :—He wrought the sacrament, and by these words he signified the effect.
+[course assumes vero to be in the original. In which have been examined, viz. Paris 1517 and — —]
 
-FesYong :—A figurative speech is no working thing : tiBut the speech of Christ is working: no. Ergo, It is not figurative.
+[Cranmer's Reply to Gardiner," printed by Wolfe 1528, Antwerp 1573, and Lugd. 1525 and 1624, the —]
 
-Cranmer :—It worketh by instituting, not by converting.
+[in 1551, the original passage is not cited by Cran- reading is uniformly vere.—See further the extracts]
 
-Yong :—The thing signified in the sacrament, is it not in that sacrament ?
+[mer, but is inserted in Cranmer's work as quoted from Foxe printed below, p. 428.]]
 
-Cranmer :—It is. For the thing is ministered in a sign. He followeth the letter, Answer +e that taketh the thing for the sign. Augustine separateth the sacrament from the thing®, St Austin. “The sacrament,” saith he, “is one, and the thing of the sacrament another.”
+[by Gardiner, and there read correctly vere. (See [2 This answer of Cranmer is not found in the — —]
 
-Weston :—Stick to this argument.
+[p- 161. of this volume.) The same reading appears first edition of Foxe.]:]
 
-It is a figurative speech :
+[also in the Latin edition of the Defence" published -]
 
-Ergo, It worketh nothing.
+Crammer:—1 understood your sophistry before. You by working understand converting into the body of Christ: but Christ wrought the sacrament, not in converting, but in instituting. Yong:—Woe to them that make Christ a deceiver! Did he work any other thing than he spake, or the selfsame thing? Cranmer:—He wrought the sacrament, and by these words he signified the effect. Fes- Yong:—A figurative speech is no working thing: ti- But the speech of Christ is working: no. Ergo, lt is not figurative. Cranmer:—It worketh by instituting, not by converting. Yong:—The thing signified in the sacrament, is it not in that sacrament?
 
-Yong :—But the speech of Christ is a working thing:
+**Cranmer:—It is.** For the thing is ministered in a sign. He followeth the letter, that taketh the thing for the sign. Augustine separateth the sacrament from the thing?. “The sacrament,” saith he, “is one, and the thing of the sacrament another.” Weston:—Stick to this argument. t is a figurative speech: Ergo, Τὸ worketh nothing. Yong:—But the speech of Christ is a working thing: Ergo, 1t is not figurative. Cranmer:—Oh, how many crafts are in this argument! They are mere fallacies. I said not, that the words of Christ do work, but Christ himself; and he worketh by a figurative speech. Weston:—1f a figure work, it maketh of bread the body of Christ. Cranmer:—A figurative speech worketh not. Weston:—A figurative speech, by your own confession, worketh nothing: But the speech of Christ in the supper, as you grant, wrought somewhat: Ergo, the speech of Christ in the supper was not figurative. Cranmer:—1l answer, these are mere sophisms: the speech doth not work, but Christ by the speech doth work the sacrament.
 
-Ergo, It is not figurative.
-
-Cranmer :—Oh, how many crafts are in this argument! They are mere fallacies.
-
-I said not, that the words of Christ do work, but Christ himself; and he worketh by a figurative speech.
-
-Weston :—If a figure work, it maketh of bread the body of Christ.
-
-Cranmer :—A figurative speech worketh not.
-
-Weston :—A_ figurative speech, by your own confession, worketh nothing:
-
-But the speech of Christ in the supper, as you grant, wrought somewhat:
-
-Ergo, the speech of Christ in the supper was not figurative.
-
-Cranmer :—I answer, these are mere sophisms: the speech doth not work, but The feu
-
-Christ by the speech doth work the sacrament. worketh
-
-I look for scriptures at your hands; for they are the foundation of disputations‘. Christ by
-
-Yong :—Are not these words of scripture, “This is my body;” “The word of pr coe Christ is of strength;” and “ By the Lord’s words the heavens were made”? He ot esa said, “This is my body :”
+I look for scriptures at your hands; for they are the foundation of disputations. Yong:—Are not these words of scripture, “This is my body;" “The word of Christ is of strength;” and By the Lord's words the heavens were made”? He said, “This is my body:"
 
 Ergo, He made it.
 
-Cranmer :—He made the sacrament; and I deny your argument.
+Cranmer:—WMe made the sacrament; and I deny your argument.
 
-Yong:—If he wrought nothing, nothing is left there. He said, “This is my body.” You say, contrary to the scriptures, it is not the body of Christ; and fall from the faith.
+Yong:—If he wrought nothing, nothing is left there. He said, “This is my body." You say, contrary to the scriptures, it is not the body of Christ; and fall from the faith.
 
-Oranmer :—You interpret the scriptures contrary to all the old writers, and feign a strange sense.
+Cranmer:—Y ou interpret the scriptures contrary to all the old writers, and feign a strange sense.
 
-Yong :—Ambrosius, De iis qui initiantur Sacris, cap. ix., saith: De totius mundi ampros. de operibus legisti, quia “ Ipse diwit, et facta sunt ; ipse mandavit, et creata sunt.” Sermo antur, &e. Christi, qui potuit ea nihilo facere quod non erat, non potest ea que sunt in id @?* mutare que non erant? Non enim minus est novas res dare, quam mutare naturas.
+Yong:—Ambrosius, De iis qui initiantur Sacris, cap. ix., saith: De totius mundi operibus legisti, quia Ipse dicit, et facta sunt; ipse mandavit, et creata sunt.” Sermo Christi, qui potuit ex mihilo facere quod mom erat, mon potest ea qua sunt in id mutare qua non erant? Non enim minus est novas res dare, quam mutare naturas. Sed quid argumentis utimur? Suis utamur. exemplis, incarnationisque exemplo adstruamus mysterii veritatem. Numquid. nature usus. processit, cum Dominus Jesus ex Maria nasceretur? Si ordinem. quarimus, viro mixta femina generare. consuevit. Liquet igitur, quod prater mature ordinem, virgo generavit; et hoc quod conficimus corpus ex virgine est. Quid hic queris natura ordinem in Christi corpore, cum prater naturam. sit ipse Dominus Jesus partus ex virgine? Vera utique caro Christi, qua erucifiza est, qua sepulta, est: vere ergo illius sacramentum est. Clamat Dominus Jesus, Hoc est corpus meum." Ante benedictionem verborum. celestium (alia) species nominatur; post consecrationem. corpus significatur. — lpse dicit sanguinem suum. [? Decret. Gratian. in Corpus Juris Canon. De [ Affers doctores, expecto scripturas.— Cambr. Consecr. Dist. ii. Hoc est" Tom. 1. col. 1936. MS. Kk. 5.14. Jenkyns's Cranmer, Vol. IV. p. 51.]
 
-Sed quid argumentis utimur? Suis utamur exemplis, incarnationisque exemplo adstruamus mysterit veritatem. Numquid nature usus precessit, cum Dominus Jesus ex Maria nasceretur? Si ordinem querimus, viro mixta femina generare consuevit. Liquet igitur, quod preter naturw ordinem virgo generavit; et hoc quod conficimus corpus ex virgine est. Quid hic queris nature ordinem in Christi corpore, cum preter naturam sit ise Dominus Jesus partus ex virgine? Vera utique caro Christi, que crucifixa est, que sepulta est: vere ergo illius sacramentum est. Clamat Dominus Jesus, “ Hoc est corpus meum.” Ante benedictionem verborum ccelestium (alia®) species nominatur ; post consecrationem corpus significatur. Ipse dicit sanguinem suum.
+[Ed. Lugd. 1618.]: [^ Not in original text.]]
 
-[8 Decret. Gratian. in Corpus Juris Canon. De [* Affers doctores, expecto scripturas.—Cambr. Consecr. Dist. ii. “ Hoc est.” Tom. 1. col. 1936. | MS. Kk. 5,14. Jenkyns’s Cranmer, Vol. IV. p. 51.] Ed. Lugd. 1618.] {5 Not in original text.]
-
-Ante consecrationem aliud dicitur: post consecrationem sanguis nuncupatur. Et tu dicis, ‘Amen,’ hoc est, * Verum est.’ Quod os loquitur, mens interna fateatur: quod sermo sonat, affectus sentiat’.
+416 DISPUTATIONS AT OXFORD. " Ante consecrationem. aliud. dicitur: post consecrationem. sanguis nuncupatur. Et tu dicis, Amen,” hoc est, Verum est.” Quod os loquitur, mens interna fateatur:: quod sermo sonat, affectus. sentiat!.
 
 That is to say:
 
-“Thou hast read of the works of all the world, that ‘He spake the word, and they were made; he commanded, and they were created.’ Cannot the word of Christ, which made of nothing that which was not, change those things that are into that they were not? For it is no less matter to give new things than to change natures.
+“Thou hast read of the works of all the world, that He spake the word, and they were made; he commanded, and they were created.” Cannot the word of Christ, which made of nothing that which was not, change those things that are into that they were not? For it is no less matter to give new things than to change natures. — But what use we arguments? Let us use his own examples, and let us confirm the verity of the mystery by example of his incarnation. Did the use of nature go before, when the Lord Jesus was born of Mary? If you seek the order of nature, conception ᾿ is wont to be made by a woman joined to a man. It is manifest therefore, that contrary ——— to the order of nature a virgin did conceive; and this that we make is the body of? the —— — virgin. What seekest thou here the order of nature in the body of Christ, when against —— - the order of nature the Lord Jesus was conceived of a virgin? It was the true flesh ——. of Christ which was crucified, and which was buried: therefore it is truly the sacrament of him. The Lord Jesus himself crieth, This is my body.” Before the blessing of the heavenly words it is named another kind; but after the consecration the body ——. of Christ is signified. He calleth it his blood. Before consecration it is called another thing: after consecration it is called blood. And thou sayest, Amen; that is, It is true.” That the mouth speaketh, let the inward mind confess; that the word soundeth, let the heart perceive.": ᾿ - The same Ambrose, in his fourth book of Sacraments, the fourth chapter, saith thus: 1 cap. Panis iste panis est ante verba sacramentorum; ubi accesserit consecratio, de pane Jit caro Christi. Hoc igitur. adstruamus. Quomodo potest, qui panis est, corpus esse Christi? consecratione. Consecratio igitur quibus verbis est, et cujus sermonibus? Domini Jesu. Nam (ad?) reliqua omnia qua dicuntur, laus Deo defertur, oratione petitur pro populo, pro regibus, pro ceteris. Ubi venitur ut conficiatur venerabile sacramentum, j jam non suis sermonibus sacerdos utitur, sed sermonibus Christi. Ergo sermo Christi: hoc conficit sacramentum. Quis sermo? — Nempe is quo facta sunt ommia. — Jussit Dominus, et factum, est colum; jussit. Dominus, et facta est terra; jussit Dominus, et facta sunt maria, &c. Vides ergo quam operatorius sit sermo Christi. Si ergo tanta vis est in sermone Domini, ut inciperent esse qua non erant, quanto magis operatorius est, ut (sint?) qua erant, et in aliud commutentur? 1 That is to say: 3 “This bread is bread before the words of the sacraments; when the consecration cometh to it, of bread it is made the flesh of Christ. Let us confirm this therefore. How can that which is bread, by consecration be the body of Christ? By what: words then is the consecration made, and by whose words? By the words of our i Lord Jesus. For touching all other things that are said, praise is given to God, prayer is made for the people, for kings, and for the rest. "When it cometh that the reverend sacrament must be made, then the priest useth not his own words, but the words of Christ: therefore the word of Christ maketh this sacrament. What word? That 1 Lord word by which all things were made. The Lord commanded, and heaven was made; i the Lord commanded, and the earth was made; the Lord commanded, and the seas were made; the Lord commanded, and all creatures were made. Dost thou not see; then, how strong in working the word of Christ is? If therefore so great strength be in the Lord's word, that those things should begin to be, which were not before; 1 eo how much the rather is it of strength to work, that these things which were, should E he changed into another thing?". Ambrose saith, that the words are of strength to work. ᾿ ἢ
 
-As Christ But what use we arguments? Let us use his own examples, and let us confirm the conceited verity of the mystery by example of his incarnation. Did the use of nature go before,
+[[' Ambros. de Initiandis, Tom. IV. p. 166. pro populo. Orig. text.]]
 
-‘fier of when the Lord Jesus was born of Mary? If you seek the order of nature, conception inthe. 18 wont to be made by a woman joined toa man. It is manifest therefore, that contrary thissacea. to the order of nature a virgin did conceive ; and this that we make is the body of? the ment the orderof Virgin. What seekest thou here the order of nature in the body of Christ, when against te had the order of nature the Lord Jesus was conceived of a virgin? It was the true flesh ie of Christ which was crucified, and which was buried: therefore it is truly the sacra-ment of him. The Lord Jesus himself crieth, ‘This is my body.’ Before the blessing of the heavenly words it is named another kind; but after the consecration the body of Christ is signified. He calleth it his blood. Before consecration it is called another thing: after consecration it is called blood. And thou sayest, ‘Amen; that is, ‘It is true.’ That the mouth speaketh, let the inward mind confess ; that the word soundeth, let. the heart perceive.”
+[Ed. Colon. 1616. Vide supra, p. 210.] [^ Jam non suis sermonibus sacerdos, sed utitur]
 
-Ambrosius, The same Ambrose, in his fourth book of Sacraments, the fourth chapter, saith thitat :
+[3 Of, i. e. from.] sermonibus Christi. Ibid.]]
 
-mentis. cap. Panis iste panis est ante verba sacramentorum; ubi accesserit consecratio, de pane
+[[? Not in the original text.] [^ Ambros. de Sacramentis. Lib. rv. cap. iv.]
 
-* fit caro Christi. Hoc witur adstruamus. Quomodo potest, qui panis est, corpus esse Christi? consecratione. Consecratio igitur quibus verbis est, et cujus sermonibus? Domini Jesu. Nam (ad*) reliqua omnia que dicuntur, laus Deo defertur, oratione petitur* pro populo, pro regibus, pro ceteris. Ubi venitur ut conficiatur venerabile sacramentum, jam non suis sermonibus sacerdos utitur, sed sermonibus Christi®. Ergo sermo Christi hoc conficit sacramentum. Quis sermo? Nempe is quo facta sunt omnia. Jussit Dominus, et factum est coelum ; jussit Dominus, et facta est terra; jussit Dominus, et facta sunt maria, §c. Vides ergo quam operatorius sit sermo Christi. Si ergo tanta vis est in sermone Domini, ut inciperent esse que non erant, quanto magis operatorius est, ut (sint®) que erant, et in aliud commutentur®?
+[[ Laudem Deo deferunt: oratio premittitur Tom. IV. p. 173. Vide supra, p. 210.]]
 
-That is to say:
+— Weston: — You omit those words which follow, which maketh the sense of Ambrose plain. Read them.
 
-The words ‘This bread is bread before the words of the sacraments; when the consecration fn English, cometh to it, of bread it is made the flesh of Christ. Let us confirm this therefore. How can that which is bread, by consecration be the body of Christ? By what words then is the consecration made, and by whose words? By the words of our Lord Jesus. For touching all other things that are said, praise is given to God, prayer is made for the people, for kings, and for the rest. When it cometh that the reverend sacrament must be made, then the priest useth not his own words, but the words of Christ: therefore the word of Christ maketh this sacrament. What word? That
+Yong:—Colum non erat, mare non erat, terra non erat. Sed audi dicentem: “Ipse dixit, et facta sunt; ipse mandavit, et creata sunt” Ergo tibi ut respondeam, non erat corpus Christi ante consecrationem, sed post consecrationem. Dico tibi quod jam corpus Christi est”. That is: Heaven was not, the sea was not, the earth was not. But hear him that said, He spake the word, and they were made; he commanded, and they were created.” Therefore, to answer thee, it was not the body of Christ before consecration, but after the consecration. I say to thee, that now it is the body of Christ.” Cranmer: — All these things are common. I say, that God doth chiefly work in the sacraments. Yong:—How doth he work? Cranmer:—By his power, as he doth in baptism. Yong:—Nay, by the word he changeth the bread into his body. This is the truth: acknowledge the truth, give place to the truth. Cranmer:—€O glorious words! you are too full of words. Yong:—Nay, O glorious truth! you make no change at all.
 
-But the Lord word by which all things were made. The Lord commanded, and heaven was made;
-
-used notsuch the Lord commanded, and the earth was made; the Lord commanded, and the seas words of commanding in. were made; the Lord commanded, and all creatures were made. Dost thou not see thesacrament asineree then, how strong in working the word of Christ is? If therefore so great strength ation ; for wereadnot be in the Lord’s word, that those things should begin to be, which were not before :
-
-pis meee” how much the rather is it of strength to work, that these things which were, should
-
-“fatlux, be changed into another thing?” ale Ambrose saith, that the words are of strength to work.
-
-[' Ambros, de Initiandis. Tom. IV. p. 166. | pro populo. Orig. text.]
-
-Ed. Colon. 1616. Vide supra, p. 210.] [) Jam non suis sermonibus sacerdos, sed utitur [? Of, i.e. from.] sermonibus Christi. Ibid.] [* Not in the original text. ] [° Ambros. de Sacramentis. Lib. Iv. cap. iv.
-
-[* Laudem Deo deferunt: oratio premittitur | Tom. 1V. p. 173. Vide supra, p. 210.]
-
-OW cxton — You omit those words which follow, which maketh the sense of Mehbirose plain. Read them.
-
-Yong:—Celum non erat, mare non erat, terra non erat. Sed audi dicentem: Ambros. de “ Ipse dixit, et facta sunt; ipse mandavit, et creata sunt.” Ergo tibi ut respondeam, 5. aaa non erat corpus Christi ante consecrationem, sed post consecrationem. Dico tibi quod Ailoiosis jam corpus Christi est’. That is: “Heaven was not, the sea was not, the earth was not. symbolorum. But hear him that said, ‘He spake the word, and they were made; he commanded, and they were created.’ Therefore, to answer thee, it was not the body of Christ before consecration, but after the consecration. I say to thee, that now it is the body of Christ.”
-
-Cranmer: — All these things are common. I say, that God doth chiefly work in the sacraments.
-
-Yong :—How doth he work ?
-
-Cranmer :—By his power, as he doth in baptism.
-
-Yong:—Nay, by the word he changeth the bread into his body. This is the truth: acknowledge the truth, give place to the truth.
-
-Cranmer :—O glorious words! you are too full of words.
-
-Yong:—Nay, O glorious truth! you make no change at all.
-
-Cranmer :—Not so, but I make a great change: as in them that are baptized is there not a great change, when the child of the bond-slave of the devil is made the son of God? So it is also in the sacrament of the supper, when he receiveth us into his protection and favour.
+Cranmer:—Not so, but I make a great change: as in them that are baptized is there not a great change, when the child of the bond-slave of the devil is made the son of God? So it is also in the sacrament of the supper, when he receiveth us into his protection and favour.
 
 Yong:—If he work in the sacraments, he worketh in this sacrament.
 
-Cranmer :—God worketh in his faithful, not in the sacraments.
+Cranmer:—God worketh in his faithful, not in the sacraments.
 
-Weston:—In the supper the words are directed to the bread; in baptism, to the Spirit. He said not, The water is the Spirit; but of the bread he said, “This is my body.”
+Weston:—In the supper the words are directed to the bread; in baptism, to the Spirit. He said not, The water is the Spirit; but of the bread he said, This is my body."
 
-Cranmer :—He called the Spirit a dove, when the Spirit descended in likeness - As the dove called the of a dove. Spirit, so the
+Cranmer:—He called the Spirit a dove, when the Spirit descended in likeness of a dove.
 
-Weston® :—He doth not call the Spirit a dove; but he saith, that “he descended the body. as a dove:” “he was seen in the likeness of a dove.” As in baption the words are directed to him that is baptized, so in the supper the words are directed unto the bread.
+Weston?:—He doth not call the Spirit a dove; but he saith, that “he descended as a dove:” “he was seen in the likeness of a dove.” As in baptism the words are directed to him that is baptized, so in the supper the words are directed unto the bread.
 
-Cranmer : — Nay, it is written, “Upon whomsoever thou shalt see the Spirit Johni. descending.” He calleth that which descended “the Holy Spirit.” And Augustine calleth the dove the Spirit. Hear what Augustine saith in Johni.: Quid volwit per August. in columbam, id est, per Spiritum Sanctum? Docere, qui miserat eum®. That is, “What ~~ ‘i meant he by the dove, that is, by the Holy Ghost? Forsooth, to teach who sent him.”
+Cranmer: — Nay, it is written, Upon whomsoever thou shalt see the Spirit descending.” He calleth that which descended “the Holy Spirit.” And Augustine calleth the dove the Spirit. Hear what Augustine saith in John i.: Quid voluit per columbam, id est, per Spiritum Sanctum? Docere, qui miserat eum?. That is, “What meant he by the dove, that is, by the Holy Ghost? Forsooth, to teach who sent him.”
 
-Yong:— He understandeth of the Spirit descending as a dove: the Spirit is invisible. If you mind to have the truth heard, let us proceed. Hear what Ambrose saith: Vides quam operatorius sit sermo Christi. Si ergo tanta vis in sermone Ambrose Domini, &c. ut supra. That is, “You see what a working power the word of Christ tated’ De hath. Therefore, if there be so great power in the Lord’s word, that those things «°° “” which were not begin to be; how much more of strength is it to work, that those ~ things that were should be changed into another thing?”
+Yong:— He understandeth of the Spirit descending as a dove: the Spirit is invisible. If you mind to have the truth heard, let us proceed. Hear what Ambrose saith: Vides quam operatorius sit sermo Christi. Si ergo tanta vis in sermone Domini, &c. ut supra. That is, You see what a working power the word of Christ hath. Therefore, if there be so great power in the Lord's word, that those things which were not begin to be; how much more of strength is it to work, that those - things that were should be changed into another thing?”
 
-And in the fifth chapter: Amnteguam consecretur, panis est: wubi autem verba Christi accesserint, corpus est Christi'®: i.e. “ Before it is consecrated, it is bread; but when the words of Christ come to it, it is the body of Christ.”
+And in the fifth chapter: Anfequam consecretur, panis est: ubi autem verba Christi accesserint, corpus est Christi": i. e. Before it is consecrated, it is bread; but when the words of Christ come to it, it is the body of Christ."
 
-But hear what he saith more: Accipite, edite...hoc est corpus meum: “Take ye, eat ye; this is my body.” Ante verba Christi calix est vini et aque plenus.
+But hear what he saith more: Accipite, edite.hoc est corpus meum: “Take ye, eat ye; this is my body." Ante verba Christi caliz est vini et aqua plenus. [7 Ibid. cap. v.] [9 In Joann. Evang. cap. i. Tractat. v. 9. Tom. E the following argument from Ambrose to Weston.” [Ὁ Ambros. de Sacramentis, Lib. rv. cap. v. [ “The MS. in the Public Library at Cam- III. Pars ii. col. 324. August. Op. Par. 1679- bridge attributes this explanation to Cole, and 1700.] Vide Jenkyus's Cranmer, Vol. IV. p. 55.] Tom, IV. p. 173.]
 
-[7 Ibid. cap. v.] [® In Joann. Evang. cap. i. Tractat. v. 9. Tom. [* “The MS. in the Public Library at Cam- | III. Pars ii. col. 324. August. Op. Par. 1679bridge attributes this explanation to Cole, and | 1700.] the following argument from Ambrose to Weston.” [*° Ambros. de Sacramentis, Lib. rv. cap. v. Vide Jenkyns’s Cranmer, Vol. IV. p. 55.] Tom, LV. p. 173.]
+[cnANMER.] 27
 
-Ubi verba Christi operata fuerint, iki sanguis (Christi') efficitur, qui redemit plebem? : i.e. “ Before the words of Christ, the cup is full of wine and water; when the words of Christ have wrought, there is made the blood of Christ which redeemed me people.” What can be more plain?
+Ubi verba. Christi operata fuerint, ibi sanguis (Christi) efficitur, qui redemit plebem: i.e. Before the words of Christ, the cup is full of wine and water; when the words of Christ have wrought, there is made the blood of Christ which redeemed the people.” "What can be more plain? to Cranmer:—Nay, what can be less to the purpose? The words are of strength to work in this sacrament, as they are in baptism.
 
-Anewer te Cranmer :—Nay, what can be less to the purpose? The words are of skies to work in this sacrament, as they are in baptism.
+Pie:—Yhe words of Christ, as Ambrose saith, are of strength to work. What do they work? Ambrose saith, they make the blood which redeemed the people:
 
-Pie:—The words of Christ, as Ambrose saith, are of strength to work. What do they work? Ambrose saith, they make the blood which redeemed the people:
+Ergo, 'The natural blood is made.
 
-Ergo, The natural blood is made.
+Cranmer:—The sacrament of his blood is made. The words make the blood to them that receive it: not that the blood is in the cup, but in the receiver.
 
-Cranmer :—The sacrament of his blood is made. The words make the blood to them that receive it: not that the blood is in the cup, but in the receiver.
+Pie:— There is made the blood which redeemed the people."
 
-Pie :—“ There is made the blood which redeemed the people.”
+Cranmer:—The blood is made, that is, the sacrament of the blood, by which he redeemed the people. Fit, “it is made;" that is to say, ostenditur, “it is shewed forth there?" And Ambrose saith, we receive in a similitude: As thou hast received the similitude of his death, so also thou drinkest the similitude of his precious blood."
 
-Cranmer :—The blood is made, that is, the sacrament of the blood, by which he redeemed the people. Ft, “it is made ;” that is to say, ostenditur, “it is shewed forth there®.” And Ambrose saith, we receive in a similitude: “As thou hast received the similitude of his death, so also thou drinkest the similitude of his precious blood*.”
+Weston:—He saith, “in a similitude," because it is ministered under another
 
-Mark how Weston :—He saith, “in a similitude,” because it is ministered under another D. Weston ee expoundeth likeness. And this is the argument:
+## 
 
-similitude. There is made the blood which redeemed the people :
+likeness. And this is the argument:
 
-If this sylloBut the natural blood redeemed the people:
+There is made the blood which redeemed the people:
 
-wphedy) Ergo, There is the natural blood of Christ.
+But the natural blood redeemed the people: in Ergo, There is the natural blood of Christ.
 
-senting ot You answer, that words make it blood to them that receive it; not that blood the terms appeareth, is in the cup, but because it is made blood to them that receive it. That all men oye ae may see how falsely you would avoid the fathers, hear what Ambrose saith in the on sixth book and first chapter :
-
-ambros. Forte dicas,...quomodo vera? Quit similitudinem video, non video sanguinis veritatis, Lib. vic tem. Primo omnium diac tibi de sermone Christi, qui operatur, ut possit mutare et
-
-Opera convertere genera instituta nature’. Deinde ubi non tulerunt sermonem Christi discipuli eus, audientes quod carnem suam daret manducari", et sanguinem suum daret bibendum, recedebant: solus tamen Petrus diait, “ Verba vite aterne habes, et ego a te quo recedam?” Ne igitur plures hoc dicerent, veluti quidam esset horror cruoris, sed maneret gratia redemptionis, ideo in similitudinem’ quidem accipis sacramentum, sed vere nature gratiam virtutemque consequeris *.
+You answer, that words make it blood to them that receive it; ποὺ that blood is in the cup, but because it is made blood to them that receive it. That all men may see how falsely you would avoid the fathers, hear what Ambrose saith in the sixth book and first chapter: — — Porte dicas,.quomodo vera? Qui similitudinem video, non video sanguinis veritavi. tem. Primo omnium, dizi tibi de sermone Christi, qui operatur, ut possit mutare. et — eomvertere genera instituta nature’. Deinde ubi mon tulerunt. sermonem. Christi discipuli ejus, audientes quod carnem, suam, daret, manducari^, et sanguinem. suum daret bibendum, recedebant: solus tamen. Petrus dicit, Verba vite eterne habes, et ego a te quo recedam?” Ne igitur. plures hoc dicerent, veluti quidam esset horror cruoris; sed maneret. gratia redemptionis, ideo in similitudinem? quidem accipis. sacramentum, sed vere natura gratiam, virtutemque consequeris.
 
 That is to say:
 
-“‘Peradventure thou wilt say, how be they true? I which sce the similitude, do not see the truth of the blood. First of all I told thee of the word of Christ, which so worketh, that it can change and turn kinds ordained of nature. Afterward, when the disciples could not abide the words of Christ, but hearing that he gave his flesh to eat, and his blood to drink, they departed: only Peter said, Thou hast the words of eternal life; whither should I go from thee? Lest therefore mo should say this thing, as though there should be a certain horror of blood, and yet the grace of redemption should remain; therefore in a similitude thou receivest the sacrament, but indeed thou obtainest the grace and power of his nature.”
-
-Answer to Cranmer :—These words of themselves are plain enough. (And he read_ this
-
-' place again:)- “Thou receivest the sacrament for a similitude.” But what is that he saith, “Thou receivest for a similitude?” I think he understandeth the sacrament to — be the similitude of his blood’.
+Peradventure thou wilt say, how be they true? I which see the similitude, do not see the truth of the blood. First of all I told thee of the word of Christ, which so worketh, that it can change and turn kinds ordained of nature. Afterward, when the disciples could. not abide the words of Christ, but hearing that he gave his flesh to eat, and his blood to drink, they departed: only Peter said, Zhou hast the words of eternal life; whither should I go from thee? Lest therefore mo should say this thing, as though there should be a certain horror of blood, and yet the grace of redemption should remain; therefore in a similitude thou receivest the sacrament, but indeed thou obtainest the grace and power of his nature." to Cranmer:—These words of themselves are plain enough. (And he read this "place again:) “Thou receivest the sacrament for a similitude.” But what is that he saith, “Thou receivest for a similitude?” I think he understandeth the sacrament to be the similitude of his blood”.
 
 Chedsey:—That you may understand, that truth dissenteth not from truth, to
 
-[* Not in original text.] [® Manducandum. Ibid.]
+[[ Not in original text.] [€ Manducandum. Ibid.] - [? Qui plebem redemit. Orig. text.] [7 Similitudine. Ibid.]: [? Cant. “Fit sanguis, id est, ostenditur san- [8 Ambros. de Sacramentis. Lib. vr. Cap. i. —]
 
-[? Qui plebem redemit. Orig. text.] [7 Similitudine. Ibid.]
+[guis. Ex hoc responso orta sunt sibila" MS. Tom. IV.p. 176. Ed. Colon. 1616.] j]
 
-[* Cant. “Fit sanguis, id est, ostenditur san- [® Ambros. de Sacramentis. Lib. v1. Cap. i. guis. Ex hoc responso orta sunt sibila.”” MS. | Tom. IV. p176. Ed. Colon. 1616.] i Public Library, Cambridge. Vide Jenkyns’s Cran- [° Here is added in the manuscript in the Public mer, Vol. IV. p. 57.] Library at Cambridge,
+[Public Library, Cambridge. Vide Jenkyns's Cran- [? Here is added in the manuscript in the Public —]
 
-[* See the quotation on the following page. | Weston :—Are ye not weary ?
+[mer, Vol. TV. p. 57.] Library at Cambridge, ΤΣ [ See the quotation on the following page. Weston:—Are ye not weary? T]
 
-¥ Convertere in aliud instituta nature. Ong. Cranmer :—No, Sir.] _ text overthrow that which you say of that similitude, hear what Ambrose saith, Lib. rv. cap. 4. De Sacrament.
+[RU Convertere in aliud instituta natura. Orig. Cranmer:—No, Sir.] 5]
 
-Si operatus est sermo celestis in aliis rebus, non operatur in sacramentis ceelesineee ee tibus ? Ergo didicisti quod e pane corpus fiat Christi, et quod vinum et aqua ini. calicem mittitur, sed fit sanguis consecratione verbi colestis. Sed forte dices", Speciem sanguinis non video. Sed habet similitudinem. Sicut enim mortis similitudinem sumpsisti, ita etiam similitudinem pretiosi sanguinis bibis ; ut nullus horror cruoris sit, et pretium tamen operetur redemptionis. Didicisti ergo, quia quod accipis corpus est Christi ™. ;
+overthrow that which you say of that similitude, hear what Ambrose saith, Lib. 1v. cap. 4. De Sacrament.
 
-That is to say:
-
-“Tf the heavenly word did work in pee things, doth it not work in the heavenly sacraments? ‘Therefore thou hast learned, that of bread is made the body of Christ, and that wine and water is put into that cup, but by consecration of the heavenly word it is made blood. But thou wilt say peradventure, that the likeness of blood is not seen. But it hath a similitude. For as thou hast received the similiNote, that tude of his death, so also thou drinkest the similitude of his precious blood; so that saith, We there is no horror of blood, and yet it worketh the price of redemption. Therefore = of thou hast learned, that that which thou receivest is the body of Christ.” blood,
-
-Cranmer : ite speaketh of sacraments sacramentally, He calleth the sacraments Answer to by the names of the things; for he useth the signs for the things signified: and thereAm bose. fore the bread is not called bread, but his body, for the excellency and dignity of be called by the thing signified by it. So doth Ambrose interpret himself, when he saith, Jn the things. ; cujus cypum nos cratered mysticum sanguinis ad tuitionem corporis et anime nostre i Gor, oa xi. percepimus. 1 Cor, xi.'
+Si operatus est sermo. colestis in aliis rebus, non operatur in sacramentis cales" tibus"? Ergo didicisti quod e pane corpus fiat Christi, et quod vinum et aqua ini. calicem, mittitur, sed fit sanguis consecratione verbi celestis. Sed forte dices", Speciem sanguinis non video. Sed habet similitudinem. — Sicut. enim. mortis. similitudinem sumpsisti, ita etiam similitudinem pretiosi. sanguinis bibis; ut mullus horror eruoris sit, et pretium tamen operetur redemptionis. Didicisti ergo, quia quod accipis corpus est Christi",:
 
 That is to say:
 
-“For a type or figure whereof we receive the mystical cup of his blood, for the safeguard of our bodies and souls.”
+If the heavenly word did work in other things, doth it not work in the heavenly sacraments? Therefore thou hast learned, that of bread is made the body of Christ, and that wine and water is put into that cup, but by consecration of the heavenly word it is made blood. But thou wilt say peradventure, that the likeness of blood is not seen. But it hath a similitude. For as thou hast received the similitude of his death, so also thou drinkest the similitude. of his precious blood; so that there is no horror of blood, and yet it worketh the price of redemption. Therefore thou hast learned, that that which thou receivest is the body of Christ."
 
-Chedsey:—A type! he calleth not the blood of Christ a type or sign; but the blood of.bulls and goats in that respect was a type or sign.
+Cranmer:—He speaketh of sacraments sacramentally. He calleth the sacraments by the names of the things; for he useth the signs for the things signified: and therefore the bread is not called bread, but his body, for the excellency and dignity of the thing signified by it. So doth Ambrose interpret himself, when he saith, Jn cujus typum, nos calicem. mysticum. sanguinis ad tuitionem, corporis et anime nostra percepimus. 1 Cor, xi.? That is to say: “For a type or figure whereof we receive the mystical cup of his blood, for the safeguard of our bodies and souls.” Chedsey:—A. type! he calleth not the blood of Christ a type or sign; but the blood of bulls and goats in that respect was a type or sign. Cranmer:—This is new learning; you shall never read this among the fathers. Chedsey:—But Ambrose saith so. Cranmer:—He calleth the bread and the cup a type or sign of the blood of Christ and of his benefit.
 
-Cranmer :—This is new learning ; you shall never read this among the fathers.
+Weston:—Ambrose understandeth it for a type of his benefit, that is, of redemption; not of the blood of Christ, but of his passion. The cup is the type or sign of his death, seeing it is his blood. Cranmer:—He saith most plainly, that the cup is the type of Christ's blood. Chedsey:—As Christ is truly and really incarnate, so is he truly and really in the sacrament: But Christ is really and truly incarnate: Ergo, The body of Christ is truly and really in the sacrament. Cranmer:—I deny the major. ᾿ς Ohedsey:—1 prove the major out of Justine, in his second apology: "Ov τρόπον Qd λόγου Θεοῦ σαρκοποιηθεὶς Ιησοῦς Χριστὸς ὁ σωτὴρ ἡμῶν, καὶ σάρκα καὶ αἷμα ὑπὲρ σωτηρίας ἡμῶν ἔσχεν, οὕτω καὶ τὴν δι᾽ εὐχῆς λόγου τοῦ παρ᾽ αὐτοῦ εὐχαριστηθεῖσαν τροφὴν, ἐξ ἧς αἷμα καὶ σάρκες κατὰ μεταβολὴν τρέφονται ἡμῶν, ἐκείνου τοῦ σαρκοποιη- θέντος Ἰησοῦ καὶ σάρκα καὶ αἷμα ἐδιδάχθημεν εἶναι "^.
 
-Chedsey:—But Ambrose saith so.
+Cranmer:—This place hath been falsified by Marcus Constantius. Justin
 
-Cranmer :—He calleth the bread and the cup a type or sign of the blood of Christ and of his benefit.
+[5 In colestibus sacramentis. Orig. text. ] p- 83, Ed. Bened. Paris. 1742.]]
 
-Weston:—Ambrose understandeth it for a type of his benefit, ‘that is, of redemption ; not of the blood of Christ, but of his passion. The cup is the type or sign of his death, seeing it is his blood.
+[[" Dicis. Ibid.] [5 Marcus Constantius was the fictitious name]
 
-Cranmer :—He saith most plainly, that the cup is the type of Christ’s blood. ae Chedsey:—As Christ is truly and really incarnate, so is he truly and really in 2/cfe¢ the sacrament : y sonnet
+[3 Ambros. de Sacramentis. Lib. 1v. Cap. iv. under which Gardiner published his Confutatio]
 
-But Christ is really and truly incarnate:
+[Tom. IV. p. 173. Ed. Colon. 1616.] Cavillationum, &c. The following is his transla-]
 
-Ergo, The body of Christ is truly and really in the sacrament.
+[[ Ambros. in Epist. I. ad Cor. Cap. xi. tion: Cibum illum, ex quo sanguis et carnes]
 
-Cranmer :—I deny the major.
+[Tom. II. p. 184. Ed. Colon. 1616. But these nostre per mutationem nutriuntur, postquam per]
 
-Chedsey:—I prove the major out of Justine, in his second apology : “Ov zpozov justin. dia Adyou Ocod capxorombels "Incovs Xpiotos o cwTNp Hwy, Kal capKa Kal aia Umép cwTypias yuav evyev, oiTw Kat THv Oe evyns oyou Tov rap’ avToU evyapornbeioan Tpopyy, é& ns aiva Kal capkes kata peraBorny TpépovTa yuwy, Exeivov TOV capKoTon-
+[commentaries are certainly spurious.] verbum precationis fuerit ab eodem benedictus,]
 
-Oévros “Incod Kat capxa Kal aina édidayOnuev eivar™.
+[[^ Justin Martyr. Apologia I. (Vulg. Il.) edocti sumus esse carnem et sanguinem illius Jesu, 27—9]
 
-Cranmer :—This place hath been falsified by Marcus Constantius’. Justin p83, Ed. Bened. Paris. 1742.]
-
-[25 * Marcus Constantius was the fictitious name under which Gardiner published his Confutatio Cavillationum, &c. The following is his transla-
-
-['° In ceelestibus sacramentis.
-
-(*! Dicis. Tbid.]
-
-[*? Ambros. de Sacramentis. Lib. rv. Cap. iv. Tom. IV. p. 173. Ed. Colon. 1616.]
-
-[‘* Ambros. in Epist. I. ad Cor. Cap. xi. Tom. II. p. 184. Ed. Colon. 1616. But these commentaries are certainly spurious. ]
-
-{'* Justin Martyr. Apologia I. (Vulg, II.) tion: *‘Cibum illum, ex quo sanguis et carnes nostre per mutationem nutriuntur, postquam per verbum precationis fuerit ab eodem_ benedictus, edocti sumus esse carnem et sanguinem illius Jesu,
-
-420 DISPUTATIONS AT OXFORD. Answerto meant nothing else, but that the bread which nourisheth us is called the body of the place of :
-
-Justinus. Christ.
-
-Chedsey:—To the argument. As Christ is truly and naturally incarnate, &c. wt supra.
-
-Cranmer :—I deny your major.
-
-Chedsey :—The words of Justin are thus to be interpreted word for word:
-
-Mutationem. Quemadmodum per verbum Dei caro factus Jesus Christus Salvator noster carnem habuit et sanguinem pro salute nostra; sic et cibum illum consecratum per sermonem precationis ab ipso institute, quo sanguis carnesque nostre per communionem nutriuntur, ejusdem Jesu, qui caro factus est, carnem et sanguinem esse accepimus.
+meant nothing else, but that the bread which nourisheth us is called the body of of Christ.: Chedsey:—To the argument. As Christ is truly and naturally incarnate, &e. wt supra. Cranmer:—1 deny your major. Chedsey:—The words of Justin are thus to be interpreted word for word: — Quemadmodum. per verbum. Dei caro factus Jesus Christus Salvator noster carnem. habuit et sanguinem, pro salute nostra; sic et cibum illum consecratum per sermonem, precationis ab ipso institute, quo sanguis carnesque mostra per communionem nutriuntur, ejusdem. Jesu, qui caro factus est, carnem, et. sanguinem esse accepimus.
 
 That is to say:
 
-Mutation. “As by the word of God Jesus Christ our Saviour being made flesh had both
+As by the word of God Jesus Christ our Saviour being made flesh had both flesh and blood for our salvation; so we are taught, that the meat consecrated by the word of prayer instituted of him, whereby our blood and flesh are nourished by communion, is the flesh and blood of the same Jesus which was made flesh."
 
-Of thanksflesh and blood for our salvation; so we are taught, that the meat consecrated by
+Cranmer:—Y ou have translated it well; but I deny your major. This is the sense of Justin; that that bread is called the body of Christ, and yet of that sanctified meat our bodies are nourished.
 
-Pace the word of prayer instituted of him, whereby our blood and flesh are nourished by communion, is the flesh and blood of the same Jesus which was made flesh.”
+Chedsey:—Nay, he saith, of that sanctified meat both our bodies and souls are nourished.
 
-Answer. Cranmer :—You have translated it well; but I deny your major. This is the sense of Justin; that that bread is called the body of Christ, and yet of that sanctified meat our bodies are nourished.
+Cranmer:—He saith not so; but he saith that it nourisheth our flesh and blood: ἐμὰ and how can that nourish the soul, that nourisheth the flesh and blood?
 
-Chedsey :—Nay, he saith, of that sanctified meat both our bodies and souls are nourished. Whica ead Cranmer :—He saith not so; but he saith that it nourisheth our flesh and blood : gseress i ¢ and how can that nourish the soul, that nourisheth the flesh and blood? me; Cole:—It feedeth the body by the soul.
+Cole:—It feedeth the body by the soul.
 
-Cranmer :—Speak uprightly. Can that which is received by the soul and the spirit, be called the meat of the body ?
+**Cranmer:—Speak uprightly.** Can that which is received by the soul and the spirit, be called the meat of the body?
 
-Ireneeus. Weston :—Hear then what Ireneus saith: Hum calicem qui est creatura, suum corpus confirmavit, ex quo nostra auget corpora. Quando et mixtus calix, et fractus panis percipit verbum Dei, fit eucharistia sanguinis et corporis Christi; ea quibus augetur et consistit carnis nostra substantia’. ‘‘This, the same cup which is a creature, he confirmed to be his body, by which be increaseth our bodies. When both the cup mixed, and the bread broken, hath joined to it the word of God, it is made the sacrament of the body and blood of Christ, of which the substance of our flesh is increased and consisteth.”
+Weston:—Hear then what Irenzus saith: Hum calicem qui est creatura, suum corpus confirmavi, ex quo nostra auget corpora. Quando et miztus caliz, et fractus panis percipit verbum. Dei, fit eucharistia sanguinis et corporis Christi; ex quibus augetur et consistit. carnis nostrae substantia’. “This, the same cup which is a creature, he confirmed to be his body, by which be increaseth our bodies. When both the cup mixed, and the bread broken, hath joined to it the word of God, it is made the sacrament of the body and blood of Christ, of which the substance of our flesh is increased and consisteth."
 
-Argument. The substance of our flesh is increased by the body and blood of Christ:
+The substance of our flesh is increased by the body and blood of Christ:
 
-Ergo, Our body is nourished by the body and blood of Christ.” Ireneus Cranmer:—I deny your argument. He calleth it the flesh and blood for the by Tertulsacrament of the body and blood, as Tertullian also saith: Nutritur corpus pane vp symbolico, anima corpore Christi: that is, “Our flesh is nourished with symbolical or sacramental bread, but our soul is nourished with the body of Christ.” Weston :—Look what he saith more: Quomodo carnem negant capacem esse donationis Dei que est vita wterna, que sanguine et corpore Christi nutritur®? Lib. v. post duo fol. a principio. That is, “How do they say, that the flesh cannot receive the gift of God, that is, eternal life, which is nourished with the blood and body of Christ?” That is in the fifth book, two leaves from the beginning. Cranmer :—The body is nourished both with the sacrament and with the body — qui pro nobis fuit incarnatus.’ Peter Martyr’s | dad tis xricews aptov ldiov compa dieBeBawoaTo, — complaint against it is, that the clause ‘ex quo— | aq’ od ra sjuérepa afer cwuata. ‘Ordre ody xai nutriuntur’ is transposed, for the purpose of avoid- | +d kexpapuévoy worijpiov Kal 6 yeyovws pros émting the inference which may be drawn from the | déxerae tov Aéyov Tov Geo, Kai yiverat 7 evyaoriginal expressions of Justin, that the bread and | pictia capa Xpicrov, éx ToiTwv di ai~er Kal wine after consecration, as well as before, nourish | cuviorata: 1 THs capKds yuwv brdocracts.—Ire- our bodies by the ordinary process of digestion.— | neus adversus Hereses. Valent. Lib. V. Cap. 2. — Gardiner, Confutat. Object. 151; P. Martyr, De | p. 294. Ed. Bened. Par. 1710.]
+Ergo, Our body is nourished by the body and blood of Christ."
 
-Eucharist. p.311.”’ Jenkyns, Cranmer, Vol. IV. [? Il@s dexrixyy py elvar Aéyovuot THY capKa THS p60.] Cwpeas TOV Qeod, itis éoTi Cw aiwvios, Thy ad
+Cranmer:—l deny your argument. He calleth it the flesh and blood for the '... sacrament of the body and blood, as Tertullian also saith: Nutritur corpus pane.. ςς... 5 symbolico, anima corpore Christi: that is, “Our flesh is nourished with symbolical or sacramental bread, but our soul is nourished with the body of Christ.”
 
-[} Td awd ris kricews moTyptov aiua idvov | Tov cwpatos Kal aizatos Tov Kupiov tpepopéevgy, c , 2 v c , , ‘ ‘ ‘ , ) ae oe , 4 wpohoynoe, €& ob Td rjuérepov dever aiua, Kal Toy | Kal wédos aiToU bradpyovcay ;—Ireneus. Ibid.] i of Christ: with the sacrament to a temporal life; with the body of Christ to eternal The body is life. with the - Chedsey :—I cannot but be sorry when I see such a manifest lie in your writings. temporal ite,
+Weston:—Look what he saith more: Quomodo carnem. negant capacem. esse donationis Dei que est vita eterna, que sanguine et corpore Christi nutritur? Lib. v. post duo fol a principio. That is, “How do they say, that the flesh cannot receive the gift of God, that is, eternal life, which is nourished with the blood and body of Christ?" That is in the fifth book, two leaves from the beginning.
 
-For where you translate Justin on this fashion, “‘that the bread, water, and wine of of Christ to 3 are not so to be taken in this sacrament, as common meats and drinks are wont to Note, that be taken of us; but are meats chosen out peculiarly for this, namely, for the giving bn i of thanks; and therefore be called of the Greeks eucharistia, that is, ‘thanksgiving? paces they are called moreover the blood and body of Christ;” (so have you translated {/Swor's but onl it:) the words of Justin are thus: “We are taught, that the meat consecrated by gather the the word of prayer, by the which our flesh and blood is nourished by communion, {fc00"'s is the body and blood of the same Jesus which was made flesh.” Cranmer :—I did not translate it word for word, but only I gave the meaning; eet and I go nothing from his meaning. himself. Harpsfield: You remember, touching Justin, to whom this apology was written, namely, to an heathen man. The heathen thought that the Christians came to the church to worship bread. Justin answereth, that we come not to common bread, but as to, &c. as is said before. Weigh the place well; it is right worthy to be noted. Our flesh is nourished according to mutation. Cranmer :—We ought not to consider the bare bread ; but whosoever cometh to the In eating sacrament, eateth the true body of Christ. ment no Weston:—You have corrupted* Emissenus ; for instead of cidis satiandus, that considered, is, “to be filled with meat,’ you have set cibis satiandus spiritualibus, that is, “to the true body be filled with spiritual meats.”
+Cranmer:—The body is nourished both with the sacrament and with the body
 
-Cranmer :—I have not corrupted it; for it is so in the Decrees’. |e eames
+[qui pro nobis fuit incarnatus, Peter Martyr's ἀπὸ τῆς κτίσεως ἄρτον ἴδιον σῶμα διεβεβαιώσατο, ἡ]
 
-Weston :—You have corrupted another place of Emissenus; for you have omitted “uia.” these words: Mirare, cum reverendum altare cibis spiritualibus satiandus ascendis: sacrum Dei tui corpus et sanguinem fide respice; honorem mirare; merito continge,
+[complaint against it is, that the clause ex quo— ἀφ οὗ τὰ ἡμέτερα αὔξει σώματα. πότε οὖν kai.—]
 
-&c. that is, “Marvel thou, when thou comest up to the reverend altar to be filled with spiritual meats: look in faith to the holy body and blood of thy God; marvel at his honour; worthily touch him.”
+[nutriuntur is transposed, for the purpose of avoid- τὸ κεκραμένον ποτήριον καὶ ὁ yeyovws ἄρτος ἐπι-:]
 
-Cranmer :—This book hath not that.
+[ing the inference which may be drawn from the δέχεται τὸν λόγον τοῦ Θεοῦ, καὶ γίνεται ἡ εὐχα-]
 
-Weston :—Also, you have falsified this place by evil translating: Honora corpus vere Dei tui, i. e. “Honour the body of thy God.” You have translated it, Honora eum with false qui est Deus tuus, i. e. “Honour him which is thy God:” whereas Emissenus hath ere not “‘honour him,” but “honour the body of thy God*.”
+[original expressions of Justin, that the bread and ριστία σῶμα Χριστοῦ, ἐκ τούτων δὲ αὔξει kal]
 
-Cranmer :—I have so translated him; and yet no less truly, than not without Cranmer a weighty cause: else it should not have been without danger, if I had translated it hime thus, “‘ Honour the body of thy God;” because of certain that, according to the error of the Anthropomorphites, dreamed that God had a body.
+[wine after consecration, as well as before, nourish συνίσταται ἡ τῆς σαρκὸς ἡμῶν ὑπόστασις.---Ἶτο- —]
 
-Weston:—Nay, you most of all have brought the people into that error, which so long have taught that he sitteth at the right hand of God the Father, and counted me for an heretic, because I preached, that God had no right hand. Then I will oppose you in the very articles of your faith.
+[our bodies by the ordinary process of digestion.— naus adversus Hereses. Valent. Lib. V. Cap. 2. -]
 
-Christ sitteth at the right hand of God the Father: Argument.
+[Gardiner, Confutat. Object. 151; P. Martyr, De p.294. Ed. Bened. Par. 1710.] 1]
 
-But God the Father hath no right hand:
+[Eucharist. p. 311." Jenkyns, Cranmer, Vol. IV. [? Πῶς δεκτικὴν un εἶναι λέγουσι τὴν σάρκα τῆς D.]
 
-Ergo, Where is Christ now?
+[p. 60.] δωρεᾶς Tov Θεοῦ, ἥτις ἐστὶ ζωὴ αἰώνιος, τὴν ἀπὸ — [! Τὸ ἀπὸ τῆς κτίσεως ποτήριον αἷμα ἴδιον τοῦ σώματος καὶ αἵματος τοῦ Κυρίου τρεφομένην. — —]
 
-Cranmer :—I am not so ignorant a novice in the articles of my faith, but that The right I understand, that to sit at the right hand of God doth signify, to be equal in the God, what glory ‘of the Father. ay
+[ὡμολόγησε, ἐξ οὗ τὸ ἡμέτερον δεύει αἷμα, καὶ τὸν καὶ μέλος αὐτοῦ ὑπάρχουσαν;5—lreneus. Ibid.] E]
 
-Weston: —Now then take this argument:
+of Christ: with the sacrament to a temporal life; with the body of Christ to eternal Thebodyis life. with the Chedsey:—l cannot but be sorry when I see such a manifest lie in your writings. temporal For where you translate Justin on this fashion, “that the bread, water, and wine of Christ are not so to be taken in this sacrament, as common meats and drinks are wont to Note, that be taken of us; but are meats chosen out peculiarly for this, namely, for the giving fne Aron of thanks; and therefore be called of the Greeks eucharistia, that is, thanksgiving: {eine they are called moreover the blood and body of Christ;" (so have you translated 255215 it: the words of Justin are thus: “We are taught, that the meat consecrated by Perte the word of prayer, by the which our flesh and blood is nourished by communion, jrips is the body and blood of the same Jesus which was made flesh."
 
-Wheresoever God’s authority is, there is Christ’s body:
+Cranmer:—l did not translate it word for word, but only I gave the meaning; aedilis and I go nothing from his meaning. hiniself. Harpsfield:— Y ou remember, touching Justin, to whom this apology was written, namely, to an heathen man. The heathen thought that the Christians came to the church to worship bread. Justin answereth, that we come not to common bread, but as to, &c. as is said before. Weigh the place well; it is right worthy to be noted. Our flesh is nourished according to mutation.
 
-But God’s authority is in every place:
+Cranmer:—We ought not to consider the bare bread; but whosoever cometh to the In eating sacrament, eateth the true body of Christ. juent; m Weston:—Y ou have corrupted Emissenus; for instead of cibis satiandus, that Sonsidured, is, “to be filled with meat,” you have set cibis satiandus spiritualibus, that is, “to the trué be filled with spiritual meats.”
+
+Cranmer:—l have not corrupted it; for it is so in the Decrees’. PeConserat Weston:—You have corrupted another place of Emissenus; for you have omitted "Quia" these words: Mirare, cum reverendum. altare cibis spiritualibus. satiandus ascendis: sacrum Dei tui corpus et sanguinem, fide respice; honorem mirare; merito continge, &c. that is, Marvel thou, when thou comest up to the reverend altar to be filled with spiritual meats: look in faith to the holy body and blood of thy God; marvel at his honour; worthily touch him." Cranmer:—This book hath not that.
+
+Weston:—Also, you have falsified this place by evil translating: Honora corpus Cranmer Dei tui, i. e. “Honour the body of thy God." You have translated it, Honora eum with false qui est Deus tuus, i. e. “Honour him which is thy God:" whereas Emissenus hath ML not honour him," but “honour the body of thy God."
+
+Cranmer:—l have so translated him; and yet no less truly, than not without Cranme a weighty cause: else it should not have been without danger, if I had translated it himselt. thus, “Honour the body of thy God;' because of certain that, according to the error of the Anthropomorphites, dreamed that God had a body. Weston:—Nay, you most of all have brought the people into that error, which so long have taught that he sitteth at the right hand of God the Father, and counted me for an heretic, because I preached, that God had no right hand. Then I will oppose you in the very articles of your faith. Christ sitteth at the right hand of God the Father: Argument. But God the Father hath no right hand: Ergo, Where is Christ now?
+
+Cranmer:—l am not so ignorant a novice in the articles of my faith, but that The right I understand, that to sit at the right hand of God doth signify, to be equal in the God, what glory of the Father. m Weston: —Now then take this argument:
+
+Wheresoever God's authority is, there is Christ's body:
+
+But God's authority is in every place:
 
 Ergo, What letteth the body of Christ to be in every place?
 
-Cranmer Moreover, you have also corrupted Duns. — with mistranslating Duns.
+Moreover, you have also corrupted Duns. Cam"
 
-[* Vide supra, p. 268.] [* Supra, p. 269.]
+[[ Vide supra, p. 268.] [ Supra, p. 269.]]
 
-Cranmer :—That is a great offence, I promise you.
+Oranmer:—That is a great offence, I promise you.
 
-Weston:—For you have omitted secundum apparentiam, i.e. “as it aaaseet i where his words are these: Ht si queras, quare voluit ecclesia eligere istum Yitellectum ita difficilem hujus articuli, cum verba scripture possent salvari secundum intellectum facilem et veriorem, secundum apparentiam, de hoc articulo’, &c. That is, “If you demand why the church did choose this so hard an understanding of this article, whereas the words of scripture may be salved after an easy and true understanding, as appeareth, of this article,” &c.
+Weston:—For you have omitted secundum. apparentiam, i.e. “as it appeareth;” where his words are these: Ft si quewras, quare voluit ecclesia eligere istum. intellectum. ita difficilem. hujus. articuli, cum verba scripture possent salvari. secundum intellectum. facilem. et. veriorem, secundum apparentiam, de hoc articulo', &c. That is, “If you demand why the church did choose this so hard an understanding of this article, whereas the words of scripture may be salved after an easy and true understanding, as appeareth, of this article," &c.
 
-Cranmer :—It is not so.
+Cranmer:—It is not so.
 
-Weston :—Also, you have set forth a Catechism in the name of the synod of
+Weston:—Also, you have set forth a Catechism in the name of the synod of London, and yet there be fifty which, witnessing that they were of the number of
 
-D. Cranmer for setting London, and yet there be fifty which, witnessing that they were of the number of
+## 5
 
-Catechism in that convocation, never heard one word of this Catechism.
+in that convocation, never heard one word of this Catechism.
 
-the comocs. Cranmer :—I was ignorant of the setting to of that title; and as soon as I had D Granmer knowledge thereof, I did not like it: therefore, when I complained thereof to the Pifsancem council, it was answered me by them, that the book was so entitled, because it was Cee am, set forth in the time of the convocation’.
+Crammer:—1 was ignorant of the setting to of that title; and as soon as I had knowledge thereof, I did not like it: therefore, when I complained thereof to the council, it was answered me by them, that the book was so entitled, because it was set forth in the time of the convocation?
 
-D. Cranmer Weston :—Moreover, you have in Duns translated In Romana ecclesia, pro se aga ecclesia catholica ; “In the church of Rome,” for “the catholic church.”
+Weston:—Moreover, you have in Duns translated In Romana ecclesia, pro ecclesia catholica; “In the church of Rome," for “the catholic church."
 
-1 ye Cranmer :—Yea, but he meant the Romish church.
+Cranmer:— Yea, but he meant the Romish church.
 
-Weston :—Moreover, you have depraved St Thomas’; namely, where he hath these words: Jn quantum vero est sacrificium, habet vim satisfactivcam: sed in satisfactione attenditur magis affectio offerentis, quam quantitas oblationis. Unde Dominus dicit apud Lucam de vidua que obtulit duo wera, quod plus omnibus misit. Quamvis ergo hac oblatio ex sui quantitate sufficiat ad satisfaciendum pro omni pena; tamen fit satisfactoria illis pro quibus offertur, vel etiam offerentibus, secundum quantitatem suw devotionis, et non pro tota pena. That is, “Inasmuch as it is a sacrifice, it hath the power of satisfaction: but in satisfaction the affection of the offerer is more to be weighed than the quantity of the oblation. Wherefore the Lord said in Luke’s gospel of the widow which offered two mites, that ‘she cast in more than they all’.” Therefore although this oblation of the quantity of itself will suffice to satisfy for all pain, yet it is made satisfactory to them for whom it is offered, or to the offerers, accord- ‘ing to the quantity of their devotion, and not for all the pain.”
+Weston:—Moreover, you have depraved St Thomas; namely, where he hath these words: In quantum vero est sacrificium, habet vim satisfactivam: sed in satisfactione attenditur magis affectio offerentis, quam quantitas oblationis. Unde Dominus dicit apud Lucam de vidua quc obtulit duo cra, quod plus omnibus misit. Quamvis ergo hec oblatio ex sui quantitate sufficiat. ad satisfaciendum. pro omni pena; tamen fit satisfactoria illis pro quibus offertur, vel etiam offerentibus, secundum quantitatem. sue devotionis, et mon pro tota pena. That is, “Inasmuch as it is a sacrifice, it hath the power of satisfaction: but in satisfaction the affection of the offerer is more to be weighed than the quantity of the oblation. Wherefore the Lord said in Luke's gospel of the widow which offered two mites, that she cast in more than they all’.” "Therefore although this oblation of the quantity of itself will suffice to satisfy for all pain, yet it is made satisfactory to them for whom it is offered, or to the offerers, according to the quantity of their devotion, and not for all the pain.”
 
-You have thus turned it: Qwod sacrificium sacerdotis habet vim satisfactivam, &c. that is, “That the sacrifice of the priest hath power of satisfaction,” &c. And therefore in this place you have chopped in this word, sacerdotis, “of the priest ;’ whereas in the translation of all the New Testament you have not set it, but where Christ was
+You have thus turned it: Quod sacrificium sacerdotis habet vim satisfactivam, &c. that is, “That the sacrifice of the priest hath power of satisfaction," &c. And therefore in this place you have chopped in this word, sacerdotis, “of the priest;" whereas in the translation of all the New Testament you have not set it, but where Christ was
 
-[? Vide supra, p. 302.]
+[[ Vide supra, p. 302.] Cranmer, to Ridley: but Ridley himself, though he [3 Dr Jenkyns, in his edition of Cranmer's works, admitted that he noted many things for it and con-]
 
-[? Dr Jenkyns, in his edition of Cranmer’s works, (Vol. IV. p. 65) has given the following note on this passage :
+[(Vol. IV. p. 65) has given the following note on sented to it, denied that he was its author. It has]
 
-‘¢ A different explanation of this title was given by Philpot; who in the convocation of the preceding October, ‘stood up, and spake concerning the catechism, that he thought they were deceived in the title of the catechism, in that it beareth the title of the Synod of London last before this, although many of them which were then present, were never made privy thereof in setting it forth; for that this house had granted the authority to make ecclesiastical laws unto certain persons to be appointed by the king’s majesty ; and whatsoever ecclesiastical laws they, or the most part of them, did set forth, according to a statute in that behalf provided, it might well be said to be done in the Synod of London, although such as be of this house now had no notice thereof before the promulgation.’ Foxe, Vol. III. p20. See also Lamb, Hist. of the XX XIX. Articles, p. 8. It isa question who was the author of this Catechism. By the Oxford disputants it was attributed, on the assertion, as they pretended, of
+[this passage: been ascribed also to Ponet, bishop of Winchester, «A different explanation of this title was given and to Alex. Nowell. Ward, one of the English]
 
-Cranmer, to Ridley: but Ridley himself, though he admitted that he noted many things for it and consented to it, denied that he was its author. It has been ascribed also to Ponet, bishop of Winchester, and to Alex. Nowell. Ward, one of the English divines sent to the Synod of Dort, believed it to be Nowell’s ; and Strype, in his later publications, expresses the same opinion. But it must be confessed that his reasons are not convincing. See Burn. Ref. Vol. IlI. p. 410. Strype, Cranm. p. 294; Memor. Vol. Il. p. 368; Annals, Vol. I. p. 353. Preface to Cranmer’s Catechism, Oxford, 1829.”
+[by Philpot; who in the convocation of the preced- divines sent to the Synod of Dort, believed it to be]
 
-It may be added, that the idea that bishop Ponet was the author of this Catechism seems to be the most correct. It is strengthened by the following passage in a letter, obtained from Zurich by the Parker Society, written by Sir John Cheke to Bullinger, dated June 7, 1553: “ Nuper etiam J. Wintoniensis Episcopi [ Ponet] Catechismum auctoritate sua scholis commendavit, et articulos synodi Londinensis promulgavit, quos tu si cum Tridentina compares, intelliges spiritus spiritui quid prestet.’’]
+[ing October, stood up, and spake concerning the Nowell’s; and Strype, in his later publications, ex-]
 
-{* Vide supra, p. 84.] et 9. =. . .
+[catechism, that he thought they were deceived in presses the same opinion. But it must be confessed]
 
-put to death. And again, where St Thomas hath pro omni pona, “for all pain,” your book omitteth many things there‘.
+[the title of the catechism, in that it beareth the title that his reasons are not convincing. See Burn. Ref,]
 
-Thus you see, brethren, the truth stedfast and invincible: you see also the craft ee and deceit of heretics: the truth may be pressed, but it cannot be oppressed. Therebefore the fore cry all together, Vincit veritas; i.e. “The truth overcometh’.” gi
+[of the Synod of London last before this, although Vol. III. p. 410. Strype, Cranm. p. 294; Memor.]
+
+[many of them which were then present, were never Vol, IL p. 368; Annals, Vol. I. p. 353. Preface to]
+
+[made privy thereof in setting itforth; for that this Cranmer's Catechism, Oxford, 1829." J]
+
+[house had granted the authority to make ecclesiasti- It may be added, that the idea that bishop Ponet]
+
+[cal laws unto certain persons to be appointed by the was the author of this Catechism seems to be the — —]
+
+[king's majesty; and whatsoever ecclesiastical laws most correct. It is strengthened by the following ——]
+
+[they, or the most part of them, did set forth, accord- passage in a letter, obtained from Zurich by the.]
+
+[ing to a statute in that behalf provided, it might Parker Society, written by Sir John Cheke to Bul-]
+
+[well be said to be done in the Synod of London, linger, dated June 7, 1553: Nuper etiam J, Win-]
+
+[although such as be of this house now had no notice toniensis Episcopi [Ponet] Catechismum auctoritate —.]
+
+[thereof before the promulgation.” Foxe, Vol. III. sua scholis commendavit, et articulos synodi Lond- 4]
+
+[p.20. See also Lamb, Hist. of the XXXIX. Ar- nensis promulgavit, quos tu si cum "Tridentina —]
+
+[ticles, p. $. Itisa question who was the author of compares, intelliges spiritus spiritui quid preestet.""]]
+
+[this Catechism. By the Oxford disputants it was 3 Vi 4]
+
+[attributed, on the assertion, as they pretended, of [ Vide SEpra, p 541]
+
+put to death. And again, where St Thomas hath pro omni poma, “for all pain,” your book omitteth many things there.
+
+Thus you see, brethren, the truth stedfast and invincible: you see also the craft and deceit of heretics: the truth may be pressed, but it cannot be oppressed. Therefore cry all together, Vincit veritas; i.e. “The truth overcometh.”
 
 This disordered disputation, sometime in Latin, sometime in English, continued almost till two of the clock. Which being finished, and the arguments written, and delivered to the hands of Master Say, the prisoner was had away by the mayor, and the doctors dined together at the University college.
 
 ## Harpsfield Disputeth to Be Made Doctor
 
-It followed furthermore, after disputation of these three days being ended, that (Foxe, Acts Mr Harpsfield, the next day after, which was the nineteenth of April, should dispute Man for his form, to be made doctor. To the which disputation the archbishop of Cantercats)" bury was brought forth, and permitted, among the rest, to utter an argument or two in defence of his cause, as in sequel hereof may appear.
+It followed furthermore, after disputation of these three days being ended, that Mr Harpsfield, the next day after, which was the nineteenth of April, should dispute for his form, to be made doctor. To the which disputation the archbishop of Canterbury was brought forth, and permitted, among the rest, to utter an argument or two in defence of his cause, as in sequel hereof may appear. DISPUTATION OF MASTER HARPSFIELD, BACHELOR OF DIVINITY,
 
-## Disputation of Master Harpsfield, Bachelor of Divinity, } Answering for His Form to Be Made Doctor’
+## Answering for his Form to Be Made Doctors
 
-[Weston argued for some time against Harpsfield, who concluded with reference to a passage from Fulgentius. |
+[Weston argued for some time against Harpsfield, who concluded with reference to a passage from Fulgentius.]
 
-After these words, not waiting Harpsfield’s answer, he offered M. Cranmer to dispute ; who began in this wise’:
+After these words, not waiting Harpsfields answer, he offered M. Cranmer to dispute; who began in this wise’:
 
-Cranmer :—I have heard you right learnedly and eloquently entreat of the dignity of the scriptures, which I do both commend and have marvelled thereat within myself. But whereas you refer the true sense and judgment of the scriptures to the catholic 7, opinion church, as judge thereof, you are much deceived ; specially, for that under the name filtres of the church you appoint such judges as have corruptly judged, and contrary to ¢, teferrm the sense of the scriptures. I wonder likewise why you attribute so little to the ‘hgscripue diligent reading of the scriptures, and conferring of places; secing the scriptures do tejudgment so much commend the same, as well in divers other places, as also in those which diligent peed you yourself have already alleged. And as touching your opinion of these questions, okie at it seemeth to me neither to have any ground of the word of God, nor of the primiP!#¢**- tive church. And to say the truth, the schoolmen have spoken diversely of them, and do not agree therein among thennpalves. Wherefore, minding here briefly to shew my judgment also, I must desire you first to answer me to a few questions, which I shall demand of you. Which being done, we shall the better proceed in our disputation. Moreover, I must desire you to bear also with my rudeness in the Latin tongue, which, through long disuse, is not now so prompt and ready with me as it hath been. And now, all other things set apart, I mind chiefly to have regard to the
+Cranmer:— have heard you right learnedly and eloquently entreat of the dignity of the scriptures, which I do both commend and have marvelled thereat within myself. But whereas you refer the true sense and judgment of the scriptures to the catholic church, as judge thereof, you are much deceived; specially, for that under the name of the church you appoint such judges as have corruptly judged, and contrary to the sense of the scriptures. I wonder likewise why you attribute so little to the diligent reading of the scriptures, and conferring of places; seeing the scriptures do so much commend the same, as well in divers other places, as also in those which you yourself have already alleged. And as touching your opinion of these questions, it seemeth to me neither to have any ground of the word of God, nor of the primi. tive church. And to say the truth, the schoolmen have spoken diversely of them, and do not agree therein among themselves. Wherefore, minding here briefly to shew my judgment also, I must desire you first to answer me to a few questions, which I shall demand of you. Which being done, we shall the better proceed in our disputation. Moreover, I must desire you to bear also with my rudeness in the Latin tongue, which, through long disuse, is not now so prompt and ready with me as it hath been. And now, all other things set apart, I mind chiefly to have regard to the
 
-[* * Cranmer :—Because 1 would not write all that long treatise. MS. Public Library.’’]
+[[ Cranmer:—Because 1 would not write all sentia naturalis et organici corporis Christi in sacra-]
 
-[° Vide MS. in which it seems Cranmer, having responded, now required that he should become the opponent.
+[that long treatise. MS. Public Library.”] mento altaris. [^ Vide MS. in which it seems Cranmer, hav- Defendit D. Harpsfield veritatem, respondentis]
 
-**Cranmer :—Oppono : vos respondete scripturis,
+[ing responded, now required that he should become agens partes.]
 
-Weston:—Habebis alium diem ad opponendum.
+[the opponent. (pponit primum D. Weston disputandi gra- “Cranmer:—Oppono: vosrespondete scripturis, tia, deinde D. Cranmerus ex suc opinionis fide.” Weston:—Habebis alium diem ad opponen- Jenkyns's Cranmer, p. 67.]]
 
-This day was the following Thursday, April 19 ; Tuesday and Wednesday having been occupied by the disputations with Ridley and Latimer.’’ Vide Jenkyns’s Cranmer, Vol. IV. p. 66.]
+[dum. [7 An Oxford scholar, who was present at this This day was the following 'Thursday, April 19; disputation, relates, that Cranmer passed all men's]
 
-[® “The title of this disputation in the manuscript in the Public Library, Cambridge :
+[Tuesday and Wednesday having been occupied by expectation in doing the same. I myself, which]
 
-“ Disputationes habite Oxonie de vera pre-sentia naturalis et organici corporis Christi in sacramento altaris.
+[the disputations with Ridley and Latimer.” Vide did ever think that he was better learned than many]
 
-*¢ Defendit D. Harpsfield veritatem, respondentis agens partes.
+[Jenkyns's Cranmer, Vol. IV. p. 66.] reported he was, yet would I have thought he could [5 “The title of this disputation in the manu- not have done so well, nor would not have believed]
 
-“Opponit primum D. Weston disputandi gratia, deinde D. Cranmerus ex sue opinionis fide.’’ Jenkyns’s Cranmer, p. 67. ]
+[script in the Public Library, Cambridge: it, if I had not heard him myself.” Foxe, Acts, &c. Disputationes habite Oxonie de vera pra- Ist edit. p. 935." Ibid.]]
 
-[7 “An Oxford scholar, who was present at this disputation, relates, that Cranmer ‘passed all men’s expectation in doing the same. I myself, which did ever think that he was better learned than many reported he was, yet would I have thought he could not have done so well, nor would not have believed it, if I had not heard him myself.’ Foxe, Acts, &c. Ist edit. p. 935.” Tbid.]
+truth. My first question is this: How Christs body is in the sacrament, according to your mind or determination?; pre- Then answered a doctor, He is there as touching his substance, but not after the manner of his substance. — Harpsfield:—He is there in such sort and manner as he may be eaten.
 
-truth. My first question is this: How Christ’s body is in the sacrament, according ‘ to your mind or determination ? Christ preThen answered a doctor, He is there as touching his substance, but not after sacrament the manner of his substance. purnotatte; Larpsfield :—He is there in such sort and manner as he may be eaten. ofsubstance. Cranmer :—My next question is, Whether he hath his quantity and qualities, form, figure, and such like properties ? Harpsfield :—Axe these your questions? said Master Harpsfield. I may likewise ask you, When Christ passed through the virgin’s womb, an ruperit necne ? When they had thus a while contended, there were divers opinions in this matter. The rabbins All the doctors fell in a buzzing, uncertain what to answer: some thought one way, could not agree among Some another; and thus master doctors could not agree’. Then Master Cranmer said thus: You put off questions with questions, and not with answers; I ask one thing of you, and you answer another. Once again I ask, Whether he have those properties which he had on the earth ? Christ's body J'resham :—No, he hath not all the quantities and qualities belonging to a body.
+Crammer:—My next question is, Whether he hath his quantity and qualities, form, figure, and such like properties?
 
-actrance Foy Smith :—Stay you, Master Tresham. I will answer you, Master Doctor, with the ment words of Damascene: Transformatur panis, &c.; ‘The bread is transformed,” &c. But if thou wilt inquire how, Modus impossibilis ; “The manner is impossible.” qe rey Then two or three others added their answers to this question, somewhat doubtfully.
+Harpsfield:—Arxe these your questions? said Master Harpsfield. I may likewise ask you, When Christ passed through the virgins womb, an ruperit mecne?
 
-A great hurly-burly was among them, some affirming one thing, and some another. Cranmer :—Do you appoint me a body, and cannot tell what manner of body?
+When they had thus a while contended, there were divers opinions in this matter. All the doctors fell in a buzzing, uncertain what to answer: some thought one way, among Some another; and thus master doctors could not agree.
 
-Either he hath not his quantity, or else you are ignorant how to answer it. Harpsfield:—These are vain questions, and it is not meet to spend the time on them.
+Then Master Cranmer said thus: You put off questions with questions, and not with answers; I ask one thing of you, and you answer another. Once again I ask, Whether he have those properties which he had on the earth? body — 7'resham:—No, he hath not all the quantities and qualities belonging to a body. his... in Smith:—Stay you, Master Tresham. I will answer you, Master Doctor, with the words of Damascene: Z'ransformatur panis, &c.; “The bread is transformed," &c. But if thou wilt inquire how, Modus impossibilis; 'The manner is impossible."
 
-Lanfrancus Weston :—-Hear me awhile: Lanfrancus, sometime bishop of Canterbury, doth contra Beren- . ; ; ; F i 4 garium. answer in this wise unto Berengarius, upon such like questions: Salubriter credi possunt, fideliter queri non possunt; i.e. “They may be well believed, but never faithfully asked?.”
+Then two or three others added their answers to this question, somewhat doubtfully. A great hurly-burly was among them, some affirming one thing, and some another.
 
-Cranmer :—If ye think good to answer it, some of you declare it.
+Cranmer:—Do you appoint me a body, and cannot tell what manner of body? Either he hath not his quantity, or else you are ignorant how to answer it.
 
-Harpsfield :—He is there as pleaseth him to be there.
+Harpsfield:—These are vain questions, and it is not meet to spend the time on them.
 
-Cranmer :—I would be best contented with that answer, if that your appointing of a carnal presence had not driven me of necessity to have inquired, for disputation’s — sake, how you place him there, since you will have a natural body.
+Weston:—Hear me awhile: Lanfrancus, sometime bishop of Canterbury, doth..:;..:: answer in this wise unto Berengarius, upon such like questions: Sa/ubriter credi possunt, Jideliter queri mon possunt; i.e. “They may be well believed, but never faithfully asked?”
 
-The papists When again he was answered of divers at one time; some denying it to be a
+Cranmer:—If ye think good to answer it, some of you declare it.
 
-Christ’s body quantum, some saying it to be quantitativum ; some affirming it to have modum quanti, none but some denying it; some one thing, some another: up starts D. Weston, and doughtily hake.” decided, as he thought, all the matter, saying, “It is corpus quantum, sed non per modum quanti;” i.e. “It is a body,” saith he, “having quantity,” but not “according to the manner of quantity.” Whereunto Master Ward, a great sophister®, thinking the matter not fully answered, did largely declare and discourse his sentence: how learnedly and truly I M. Wardin cannot tell, nor I think he himself neither, ne yet the best learned there. For it was cloudsof said since, that far better learned than he laid as good ear to him as they could, quidditie, and yet could by no means perceive to what end all his talk tended. Indeed he told a formal tale to clout up the matter. He was full of quantum and quantitativum. This that follows was, as it is thought, the effect ; yet others think no. Howbeit we will rehearse the sum of his words, as it is thought he spake them. Ward :—We must consider, saith he, that there are dua positiones, “two positions.” The one standeth by the order of parts, with respect of the whole; the other in respect
+Harpsfield:—He is there as pleaseth him to be there.
 
-[2 * According to the account of the Oxford scho- | ad presens respondeo: Mysterium fidei credi salular, ‘they were mad with him for asking, whether | briter potest, vestigari utiliter non potest.—Lanthere were in the natural body of Christ a propor- | franc. de Corp. et Sang. Domini, cap.x. fin. p. 175, tion, space, or distance betwixt member and mem- | Venet. 1745.] ber.” Foxe, Acts, &c. Ist edit. p. 935.” Jenkyns’s [3 “In the first edition of Foxe, ‘ philosopher’ is Cranmer, Vol. IV. p. 68.] read in the place of ‘sophister,’ p. 988.” Jenkyns’s
+Cranmer:—l would be best contented with that answer, if that your appointing of a carnal presence had not driven me of necessity to have inquired, for disputation's sake, how you place him there, since you will have a natural body.
 
-[? Si queris modum quo id fieri possit, breviter | Cranmer, Vol. IV. p. 70.] of that which containeth. Christ is in the sacrament in respect of the whole. This proposition is, in one of Aristotle’s Predicaments, called situs. I remember I did entreat Aristotle these matters very largely, when I did rule and moderate the philosophical disputations tell us how = ag in the public schools. This position is sine modo quantitativo, as, by an ensample, you the "stra can never bring heaven to a quantity. So I conclude that he is in the sacrament Chris “sine quantum, sine modo quantitativo. titative” in
+Whereunto Master Ward, a great sophister, thinking the matter not fully answered, did largely declare and discourse his sentence: how learnedly and truly I cannot tell nor I think he himself neither, ne yet the best learned there. For it was said since, that far better learned than he laid as good ear to him as they could, and yet could by no means perceive to what end all his talk tended. Indeed he told a formal tale to clout up the matter. He was full of quantum and quantitativum. This that follows was, as it is thought, the effect; yet others think no. Howbeit we will rehearse the sum of his words, as it is thought he spake them.
 
-These words he amplified very largely ; and so high he climbed into the heavens ae with Duns’ ladder, and not with the scriptures, that it is to be marvelled how he could come down again without falling. To whom M. Cranmer said, “Then thus do I make mine argument.”
+Ward:—W e must consider, saith he, that there are du positiones, “two positions." The one standeth by the order of parts, with respect of the whole; the other in respect
 
-Cranmer :—In heaven his body had quantity; in earth it hath none, by your D. cranmer's saying : argument.
+[[ Accordingto the account of the Oxford scho- ad praesens respondeo: Mysterium fidei credi salu- ᾿]
 
-Ergo, He hath two bodies; the one in heaven, the other in earth.
+[lar, they were mad with him for asking, whether briter potest, vestigari utiliter non potest.—Lan- »]
 
-Here some would have answered him, that he had quantity in both, and so put off the antecedent ; but thus said M. Harpsfield:
+[there were in the natural body of Christ propor- franc. de Corp. et Sang. Domini, cap. x. fin. p. 175,;]
 
-Harpsfield :—I deny your argument: (though some would not have had him say so.)
+[tion, space, or distance betwixt member and mem- Venet. 1745.] 1]
 
-Cranmer :—The argument is good: it standeth upon contradictories, which is the most surest hold.
+[ber Foxe, Acts, &c. 1st edit. p. 935.” Jenkyns's [3 In the first edition of Foxe, philosopher is "]
 
-Harpsfield:—I deny that there are contradictions.
+[Granmer, Vol. IV. p. 68.] read in the place of sophister,' p. 988.” Jenkyns's]
 
-Cranmer :—I thus prove it: Habere modum quantitativum et non habere, sunt contradictoria : |
+[[? Si qua&ris modum quo id fieri possit, breviter Cranmer, Vol. IV. p. 70.]]
 
-Sed Christus in colis, ut dicitis, habet modum quantitativum, in terra non habet :
+of that which containeth. Christ is in the sacrament in respect of the whole. This proposition is, in one of Aristotle's Predicaments, called situs. I remember I did entreat Aristotle these matters very largely, when I did rule and moderate the philosophical disputations o ecd in the publie schools. This position is sine modo quantitativo, as, by an ensample, you Desde s. «rs ment. can never bring heaven to a, quantity. So I conclude that he is in the sacrament Christ “sine quantum, sine modo quantitativo. tative These words he amplified very largely; and so high he climbed into the heavens he Sher with Duns’ ladder, and not with the scriptures, that it is to be marvelled how he could come down again without falling. To whom M. Cranmer said, “Then thus do I make mine argument.”
 
-Ergo, Duo sunt corpora ejus, in que cadunt hee contradictoria: nam in idem cadere non possunt. Aristotle 4, .* . eta . Weston :—I deny the minor. «« Impossibile
+Cranmer:—In heaven his body had quantity; in earth it hath none, by your p. cranmer's saying: argumentErgo, He hath two bodies; the one in heaven, the other in earth.. Here some would have answered him, that he had quantity in both, and so put off the antecedent; but thus said M. Harpsfield: Harpsfield:—l deny your argument: (though some would not have had him say 80.) Cranmer:—The argument is good: it standeth upon contradictories, which is the most surest hold.. Harpsfield:—1 deny that there are contradictions. Cranmer:—l thus prove it: Habere modum. quantitativum et non habere, sunt contradictoria: Sed Christus in colis, ut dicitis, habet modum quantitativum, in terra non habet: Ergo, Duo sunt corpora ejus, in qua cadunt hec contradictoria: mam in idem cadere non possunt. Aristotle Weston:—Y deny the minor. a Harpsfield:—l answer, that the major is not true: for Aabere quantum, et non Siem habere, non sunt contradictoria, nisi considerentur ejusdem. ad idem, eodem, modo et " esse^ simpliciter. Weston:—1 confirm the same: for one body may have modum quantitativum, and not have; and idem corpus was passible and impassible; one body may have wounds, and not wounds. Cranmer:—This cannot be at one time. Weston:—The ensample of the potter doth prove that which I say; who, of that which is clay now, maketh a pot or cup forthwith. Cranmer:—But 1 say again, that it is so, but at divers times; as one piece of meat to be raw and sodden cannot be at one time together. But you would have it otherwise, that Christ should be here and in heaven at one time, and should have modum. quantitativum, and not have: which cannot be, by such argument as I have shewed you.
 
-Harpsfield :—I answer, that the major is not true: for habere quantum, et non Stem habere, non sunt contradictoria, nisi considerentur ejusdem ad idem, eodem modo et *®™&%s*" simpliciter. Weston :—I confirm the same: for one body may have modum quantitaticum, and not have; and idem corpus was passible and impassible; one body may have wounds, and not wounds. Cranmer :—This cannot be at one time. Weston :—The ensample of the potter doth prove that which I say ; who, of that which is clay now, maketh a pot or cup forthwith. Cranmer :—But I say again, that it is so, but at divers times; as one piece of meat to be raw and sodden cannot be at one time together. But you would have it otherwise, that Christ should be here and in heaven at one time, and should have modum quantitatioum, and not have: which cannot be, by such argument as I have shewed you. Weston :—But I say, Christ’s body was passible and not passible at one instant. 5 inte and Seaton :—You may ask as well other questions, How he is in heaven? Whether impassible cannot stand he sit or stand? and, Whether he be there as he lived here ? together in one subject,
+Weston:—But I say, Christ's body was passible and not passible at one instant. ^, της Seaton:—You may ask as well other questions, How he is in heaven? Whether impassible he sit or stand? and, Whether he be there as he lived here? together Cranmer:—Y ou yourself, by putting a natural presence, do force me to question ΟΝ how he is there. Therefore next I do ask this question, Whether good and evil men do respec eat the body in the sacrament? pore, propter Harpsfield:—Y ea, they do so, even as the sun doth shine upon kings palaces and nantiam. on dung-heaps. to Dope, Cranmer:—Then do I inquire, How long Christ tarrieth in the eater? impassible, Harpsfield:—These are curious questions, unmeet to be asked. it appeareth Cranmer:—1 have taken them out of your schools and school-men, which you Words, yourselves do most use: and there also do I learn to ask, How far he goeth into the pH Harpsfield:—We know that the body of Christ is received to nourish the whole unpovea. man, concerning both body and soul: Jo wsque progreditur corpus quousque species. Sand Cranmer:—How long doth he abide in the body? Tio Seaton:—St Augustine saith, our flesh goeth into his flesh. But after he is where ie said, that
 
-Cranmer :—You ‘youll, by putting a natural presence, do force me to question Poin how he is there. Therefore next I do ask this question, Whether good and evil men do respectu et eat the body in the sacrament ? pore, * ween Harpsfield :—Yea, they do so, even as the sun doth shine upon kings’ palaces and nantiam.
+flshof once received into the stomach, it maketh no matter for us to know how far he doth them that — pierce, or whither he is conveyed. ede. Here Master Tresham and one Master London answered, that Christ being given spa imei there under such form and quantity as pleased him, it was not to be inquired of his ditur usque tarrying, or of his descending into the body. ad nimm; Harpsfield:—You were wont to lay to our charge, that we added to the Pes vomer scripture; saying always, that we should fetch the truth out of the scripture: and Sow now you yourself bring questions out of the school-men, which you have disallowed ea di, i EE OE Cranmer:—I say, as I have said alway, that 1 am constrained to ask these not, orelse questions, because of this carnal presence which you imagine; and yet I know right bringany _ well that these questions be answered out of the scriptures. As to my last question, Bowl How long he abideth in the body, &c., the scripture answereth plainly, that Christ doth so long dwell in his people, as they are his members. Whereupon I make this
 
-on dung-heaps. tobe pamibie Cranmer :—Then do I inquire, How long Christ tarrieth in the eater? pail i Harpsfield:—These are curious questions, unmeet to be asked. it appeareth
+## argument
 
-Cranmer :—I have taken them out of your schools and school-men, which you ¥ words, “That yourselves do most use: and there also do I learn to ask, How far he goeth into the given for body ? ia Ls an Harpsfield : :—We know that the body of Christ is received to nourish the whole unmoved. Harpsfield man, concerning both body and soul: Ho usque progreditur corpus quousque species. — seemed a Cranmer :—How long doth he abide in the body ? ) mee tae
+D.oranmers ~~ Ba- They which eat the flesh of Christ, do dwell in him, and he in them: feo ro- But the wicked do not remain in him, nor he in them: second mode. co. Ergo, The wicked do not eat his flesh, nor drink his blood. Answer Harpsfield:—1 will answer unto you, as St Augustine saith; not that howsoever fit- man doth eat, he eateth the body; but he that eateth after a certain manner.
 
-Seaton :—St Augustine saith, our flesh goeth into his flesh. But after he is where he said, that the
+Cranmer:—l cannot tell what manner ye appoint, but I am sure that evil men do not eat the flesh and drink the blood of Christ, as Christ speaketh in the sixth
 
-fleshof once received into the stomach, it maketh no matter for us to know how far he doth them that pierce, or whither he is conveyed. not worthily, Here Master Tresham and one Master London answered, that Christ being given
+## of John
 
-REeeaae there under such form and quantity as pleased him, it was not to be inquired of his diturusque tarrying, or of his descending into the body. road an mal Harpsfield :—You were wont to lay to our charge, that we added to the ergo nec exes Oi scripture; saying always, that we should fetch the truth out of the scripture: and etanimam.” now you yourself bring questions out of the school-men, which you have disallowed Could nesds in us, presence yet Cranmer :—I say, as I have said alway, that I am constrained to ask these not, or el else questions, because of this carnal presence which you imagine; and yet I know right bringany _ well that these questions be answered out of the scriptures. As to my last question, oo How long he abideth in ‘the body, &c., the scripture answereth plainly, that Christ doth so long dwell in his people, as thoy. are his members. Whereupon I make this argument :
+Harpsfield: —In the sixth of John some things are to be referred to the godly, and some to the ungodly.
 
-D. Cranmer's = _BaThey which eat the flesh of Christ, do dwell in him, and he in them:
+Cranmer:—Whatsoever he doth entreat there of eating, doth pertain unto good
 
-argument in
+## men
 
-9 Cao yoBut the wicked do not remain in him, nor he in them:
+Harpsfield:—If you do mean only of the word of eating, it is true; if concerning the thing, it is not so: and if your meaning be of that which is contained under the
 
-second mode. co. Ergo, The wicked do not eat his flesh, nor drink his blood.
+## word of eating, it may be so taken, I grant
 
-Answer Harpsfield:—I will answer unto you, as St Augustine saith; not that howsoever insufficient: a man doth eat, he eateth the body ; but he that eateth after a certain manner.
+Evil men Cranmer:—Now to the argument: He that eateth my flesh, and drinketh my thebodyor blood, dwelleth in me, and I in him." Doth not this prove sufficiently, that evil men Christ do not eat that the good do?
 
-Cranmer :—I cannot tell what manner ye appoint, but I am sure that evil men do not eat the flesh and drink the blood of Christ, as Christ speaketh in the sixth of John.
+Tresham:—Y ou must add, Qui manducat digne, He that eateth worthily."
 
-Harpsfield :—In the sixth of John some things are to be referred to the godly, and some to the ungodly.
+Cranmer:—l speak of the same manner of eating that Christ speaketh of. m» Weston:—Augustinus Ad fratres in Eremo', Sermon. xxvur. Est quidam manducandi modus; that is, “There is a certain manner of eating.” Augustine speaketh οὗ two manners of eating; the one of them that eat worthily, the other that eat unworthily. The sixth Harpsfield:—All things in the sixth of John are not to be referred to the sacraShaperor — ment, but to the receiving of Christ by faith. The fathers do agree, that there is not be rore o entreaty made of the supper of the Lord before they come unto, Panis quem dabo vobis, Pane caro mea est, &c. Hie papists, Cranmer:—There is entreating of manna both before and after.
 
-Cranmer :—Whatsoever he doth entreat there of eating, doth pertain unto good men.
+Harpsfield:—Y will apply another answer. This argument hath a kind of poison in it, which must be thus bitten away; that manna and this sacrament be not both
 
-Harpsfield :—If you do mean only of the word of eating, it is true; if concerning the thing, it is not so: and if your meaning be of that which is contained under the word of eating, it may be so taken, I grant.
+## one. Manna hath not his efficacy of himself, but of God
 
-Evil men Cranmer :—Now to the argument: “He that eateth my flesh, and drinketh my Oo not ea the bodyof blood, dwelleth in me, and [ in him.” Doth not this prove sufficiently, that evil men sya do not eat that the good do?
+Comparison Cranmer:—'! But they that did take manna worthily, had fruit thereby; and so,
 
-Tresham :—You must add, Qui manducat digne, “ He that eateth worthily.”
+[eating the E]
 
-Cranmer :—I speak of the same manner of eating that Christ speaketh of.
+[body of]
 
-Weston :—Augustinus Ad fratres in Eremo', Sermon. xxviu. Est guidam manducandi modus; that is, “There is a certam manner of eating.” Augustine speaketh of two manners of eating; the one of them that eat worthily, the other that eat unworthily.
+[κι μα [} These sermons are not considered to be Ergo, Est figura. 9 Augustine’s. See edit. Bened. Tom. VI. James’ Harpsfield:—Negatur antecedens. B Corruption of Scripture, &c.p. 61. Ed. Lond. 1843. ] Cranmer:—Probatur: Sacramentum hoc non: [? Cranmer:—Sacramentum hoc est figura: plus valet quam manna in veteri testamento ——— Ergo, Non est verum corpus Christi in eo. valebat: E. Harpsfield: —Negatur antecedens, Sed manna fuit figura tantum: A Cranmer:—Probatur: Sacramentum hoc non Ergo, Sacramentum hoc non plus valet quam id plus valet quam figura: figura. ἥ Harpsfield:— 2]
 
-The sixth Harpsfield :—All things in the sixth of John are not to be referred to the sacrachapter of ment, but to the receiving of Christ by faith. The fathers do agree, that there is not parfy to the entreaty made of the supper of the Lord before they come unto, Panis quem dabo vobis, supe Pate. caro mea est, &c.
-
-egos Cranmer :—There is entreating of manna both before and after.
-
-Harpsfield :—I will apply another answer. This argument hath a kind of poison in it, which must be thus bitten away; that manna and this sacrament be not both one. Manna hath not his efficacy of himself, but of God.
-
-Comparison Cranmer :— But they that did take manna worthily, had fruit thereby ; and so, between eating of manna and poring ag ody of Christ ‘ [} These sermons are not considered to be Ergo, Est figura. Augustine’s. See edit. Bened. Tom. VI. James’ Harpsfield :—Negatur antecedens. Corruption of Scripture, &c. p. 61. Ed. Lond. 1843. ] Cranmer :—Probatur: Sacramentum hoc non [2 ** Cranmer :—Sacramentum hoc est figura : plus valet quam manna in veteri testamento Ergo, Non est verum corpus Christi in eo. valebat : Harpsfield :~—Negatur antecedens. Sed manna fuit figura tantum : Cranmer :—Probatur: Sacramentum hoc non Ergo, Sacramentum hoc non plus valet quam plus valet quam figura : figura.
-
-Harpsfield :— by your assertion, he that doth eat the flesh of Christ worthily, hath his fruit by that.
+**DISPUTATIONS AT OXFORD.** M by your assertion, he that doth eat the flesh of Christ worthily, hath his fruit by that.
 
 Therefore the like doth follow of them both, and so there should be no difference between manna and this sacrament, by your reason.
 
-Harpsfield:—When it is said, that they which did eat manna are dead, it is to be understand [fhe that they did want the virtue of manna.
+Harpsfield:— When it is said, that they which yy Harpsfield do mean of bodily life, they did eat manna are dead, it is to be understand jfmemea nent 4c die, as i as they wh elt that they did want the virtue of manna. Wherefore the truth "har npr. the eating Cranmer:—They then which do eat either of Vi. Put onl the spiritui s on them worthily, do live. pete effect 12 spiri AL wc Clr speaketh Harpsfield:—They do live, which do eat fede; which is our spiritual helms da hne worthily, not by manna, but by the power of God body eating ofhim given by it. The other, which do eat this sacrament, do live by the same.
 
-Cranmer :—They then which do eat either of Pee ei thee eat vation ; ei on mora bor spt ly m5 Chri rs es oe ily
+Cranmer:—Christ did not entreat of the cause, but the effect which followed: he doth not speak of the cause whereof the effect proceedeth.
 
-‘ ° on, which only ju eth t and us. ere- them worthily, do live. os as th e effect is sprit spiritual, which Christ speaketh of in this . . 2 Bae 18 hereo!
+Harpsfield:— do say the effects are divers, life and death, which do follow the worthy and the unworthy eating thereof.
 
-Harpsfield :—They do live, which do eat manna {,eneth; which iso our seisttual a believing te him, and not our worthily, not by manna, but by the power of God given by it. The other, which do eat this sacrament, do live by the same.
-
-Cranmer :—Christ did not entreat of the cause, but the effect which followed: he doth not speak of the cause whereof the effect proceedeth.
-
-Harpsfield :—I do say the effects are divers, life and death, which do follow the worthy and the unworthy eating thereof.
-
-Cranmer :—Sithens you will needs have an addition to it, we ell use both in manna and in the sacrament indifferently, either worthily or unworthily.
+Cranmer:—Sithens you will needs have an addition to it, we must use both in manna and in the sacrament indifferently, either worthily or unworthily.
 
 Christ spake absolutely of manna and of the supper; so that, after that absolute speaking of the supper, wicked men can in no wise eat the flesh of Christ, and drink his blood.
 
-Further, Augustine upon John, Tractat. xxvi. upon these words, Qui manducat, august. in &c. saith ; “There is no such respect in common meats as in the Lord’s body. For who 36°" *™* that eateth other meats hath still hunger, and needeth to be satisfied daily: but he that doth eat the flesh of Christ, and drinketh his blood, doth live for ever*.” But you know wicked men not to do so:
+Further, Augustine upon John, Tractat. xxvi. upon these words, Qui manducat, &c. saith: “There is no such respect in common meats as in the Lord's body. For who that eateth other meats hath still hunger, and needeth to be satisfied daily: but he that doth eat the flesh of Christ, and drinketh his blood, doth live for ever" But you know wicked men not to do so:
 
 Ergo, Wicked men do not receive.
 
-Harpsfield:—St Augustine meaneth, that he who eateth Christ’s flesh, &c., after a certain manner, should live for ever. Wicked men do eat, but not after that manner.
+Harpsfield:—St Augustine meaneth, that he who eateth Christ's flesh, &c., after a certain manner, should live for ever. Wicked men do eat, but not after that manner.
 
-Cranmer :—Only they which participate Christ, be of the mystical body :
+Cranmer:—Only they which participate Christ, be of the mystical body:
 
-But the evil men are not of the mystical body :
+But the evil men are not of the mystical body:
 
 Therefore they do not participate Christ.
 
-Weston :—Your wonderful gentle behaviour and modesty, good Master D. Cranmer, p. cranmer is worthy much commendation: and that 1 may not deprive you of your right and just gommentet deserving, I give you most hearty thanks in mine own name, and in the name of al] ™**- my brethren.
+Weston:—Y our wonderful gentle behaviour and modesty, good Master D. Cranmer, is worthy much commendation: and that I may not deprive you of your right and just deserving, I give you most hearty thanks in mine own name, and in the name of a]] my brethren.
 
-At which saying, all the doctors gently put off their caps*.
+At which saying, all the doctors gently put off their caps.
 
-Harpsfield :—Negatur major.
+[Harpsfield: —Negatur major. [? Non ita est in hac esca, quam sustentanda Cranmer:—Probatur: Qui manna habuerunt, hujus temporalis vite causa sumimus. Nam qui]
 
-Cranmer :—Probatur: Qui manna habuerunt, habuerunt vitam eternam :
+[habuerunt vitam eternam: eam non sumserit, non vivet: nec tamen qui eam Sed qui hoc sacramentum digne sumunt, non sumserit vivet.In hoc vero cibo et potu, id est,]
 
-Sed qui hoc sacramentum digne sumunt, non plus habent :
+[plus habent: corpore et sanguine Domini, non ita est: nam et]
 
-Ergo, Hoc sacramentum non plus valet quam manna in veteri testamento valebat.
+[Ergo, Hoc sacramentum non plus valet quam qui eam non sumit, non habet vitam; et qui eam]
 
-Harpsfield :—Non habuerunt Israelite vitam zternam ex manna per se, aut ex ipso cibo, sed de gratia Dei propter fidem recipientium: nos autem ex corpore Christi habemus ; quia, ut dixit Cyrillus, vivificam salutem ex ipso corpore Christi habemus : ideo fit, ut plus valeat hoc quam manna.
+[manna in veteri testamento valebat. sumit, habet vitam, et hanc utique @ternam.Cum Harpsfield:—Non habuerunt Israelite vitam enim cibo et potu id appetant homines, ut neque]
 
-Cranmer :—Nihil interest quoad effectum :
+[@ternam ex manna per se, aut ex ipso cibo, sed de esuriant neque sitiant; hoc veraciter non prestat]
 
-Ergo, Non plus hoc valet quam alterum.”’— MS. Public Library, Cambridge. Vide Jenkyns’s
+[gratia Dei propter fidem recipientium: nos autem nisi iste cibus et potus, qui eos a quibus sumitur]
 
-Cranmer, Tom, IV, p.74.] °
+[ex corpore Christi habemus; quia, ut dixit Cyrillus, immortales et incorruptibiles facit. —August. in Jo-]
 
-[® Non ita est in hac esca, quam sustentande hujus temporalis vite causa sumimus. Nam qui eam non sumserit, non vivet: nec tamen qui eam sumserit vivet....In hoc vero cibo et potu, id est, corpore et sanguine Domini, non ita est: nam et qui eam non sumit, non habet vitam; et qui eam sumit, habet vitam, et hanc utique eternam...Cum enim cibo et potu id appetant homines, ut neque esuriant neque sitiant; hoc veraciter non prestat nisi iste cibus et potus, qui eos a quibus sumitur immortales et incorruptibiles facit.— August. in Joannem. Tractat. xxvi. de cap. vi. Tom. IX. p. 94. Ed. Paris. 1635. ]
+[vivificam salutem ex ipso corpore Christi habemus: annem. Tractat. xxvi. de cap. vi. Tom. IX. p. 94.]
 
-{* For the remainder of this Disputation, which was wholly between Weston and Harpsfield, see Foxe, Acts, &c. p. 1462. Ed. 1583.]
+[ideo fit, ut plus valeat hoc quam manna. Ed. Paris. 1635.] Cranmer:—Nihil interest quoad effectum: [ For the remainder of this Disputation, which Ergo, Non plus hoc valet quam alterum." was wholly between Weston and Harpsfield, see]
 
-## A Note Concerning Dr Cranmer in His Disputation
+[MS. Public Library, Cambridge. Vide Jenkyns's Foxe, Acts, &c. p. 1462. Ed. 1583.]]
+
+[Cranmer, Tom, IV. p.74.] "]
+
+A NOTE CONCERNING DR CRANMER IN HIS DISPUTATION.
 
 [Foxe, Acts, &c., 1684, Vol. III. p. 839.—See before, p. 414.]
 
-Tuat day wherein Doctor Cranmer, late bishop of Canterbury, answered in the divinity school at Oxford, there was alleged unto him by Doctor Weston, that he the said Cranmer, in his book of the Sacrament, falsely falsified the saying of the doctors, and specially the saying of Saint Hilary in these words, vero for vere, shewing a print or two thereof, to have defaced his doings therem: but Doctor Cranmer with a grave and fatherly sobriety answered, that the print of S. Hilary’s works, whereout he took his notes, was verbatim according to his book, and that could his ' books testify if they were there to be seen: saying further, that he supposed D. Smith in that order rehearsed it in his book of the Sacrament; to the which D. Smith there present (though he were demanded the answer thereof) stood in silence, as canis mutus non valens latrare. But by and by D. Weston without shame, to shadow D. Smith’s silence, spitely said to Cranmer, “ Belike you took your learning out of Master D. Smith’s book.”
+Tuar day wherein Doctor Cranmer, late bishop of Canterbury, answered in the divinity school at. Oxford, there was alleged unto him by Doctor Weston, that he the said Cranmer, in his book of the Sacrament, falsely falsified the saying of the doctors, and specially the saying of Saint Hilary in these words, zero for vere, shew- - ing a print or two thereof, to have defaced his doings therein: but Doctor Cranmer with a grave and fatherly sobriety answered, that the print of S. Hilary's works, whereout he took his notes, was verbatim. according to his book, and that could his ' books testify if they were there to be seen: saying further, that he supposed D. Smith in that order rehearsed it in his book of the Sacrament; to the which D. Smith there present (though he were demanded the answer thereof) stood in silence, as canis mutus non valens latrare. But by and by D. Weston without shame, to shadow D. Smith's silence, spitely said to Cranmer, Belike you took your learning out of Master D. Smith's book."
 
-All this already is testified before.
+## All this already is testified before
 
-It chanced at that present to be in the school one William Holcot, gentleman, then a sojourner in the University college: he hearing the same untruth, and remembering that he had amongst his books in his study the said book of Doctor Smith, at his return to his said study, desirous to see the truth therein, found it agreeable to the writing and affirmation of Doctor Cranmer. And the said Holcot, then and there better remembering himself, found amongst his books the book of Stephen Gardiner, intituled “The Devil’s Sophistry :’ in which book was the said saying of Hilary alleged by the said Stephen verbatim, both in Latin and English, according to Doctor Cranmer’s confirmation. Then the said William Holcot, intending (for the manifest opening and trial of the truth therein) to have delivered the said Gardiner’s book to Doctor Cranmer, brought it to Bocardo, the prison in Oxford, where Doctor Cranmer then remained ; but there in the delivery thereof he was apprehended by the bailiffs, and by them brought before Doctor Weston and his colleagues (then at dinner at Corpus Christi college), who straightways laid treason to the charge of the said William Holcot for the maintenance of Cranmer in his naughtiness, as they called it.
+It chanced at that present to be in the school one William Holcot, gentleman, then a sojourner in the University college: he hearing the same untruth, and remembering that he had amongst his books in his study the said book of Doctor Smith, at his return to his said study, desirous to see the truth therein, found it agreeable to the writing and affirmation of Doctor Cranmer. And the said Holcot, then and there better remembering himself, found amongst his books the book of Stephen Gardiner, intituled “The Devil's Sophistry:” in which book was the said saying of Hilary alleged by the said Stephen verbatim, both in Latin and English, according to Doctor Cran-mer's confirmation. Then the said William Holcot, intending (for the manifest opening and trial of the truth therein) to have delivered the said Gardiners book to Doctor Cranmer, brought it to Bocardo, the prison in Oxford, where Doctor Cranmer then remained; but there in the delivery thereof he was apprehended by the bailiffs, and by them brought before Doctor Weston and his colleagues (then at dinner at Corpus Christi college), who straightways laid treason to the charge of the said William Holcot for the maintenance of Cranmer in his naughtiness, as they called it.
 
-## Declaration
+## Declaration' of the Reverend Father in Christ
 
-## Reverend Father in Christ
+THOMAS ARCHBISHOP OF CANTERBURY, i CONCERNING THE UNTRUE REPORT AND SLANDER OF SOME, WHICH REPORTED, fd THAT HE SHOULD SET UP AGAIN THE MASS A IN CANTERBURY. 4 As the devil, Christ's ancient adversary, is a liar and the father of lying, even so - he hath ever stirred up his servants and members to persecute Christ and his true word 1 [! This Declaration is here published from the the Martyrs. Foxe, Acts, ἄς. vol. iii. p. 94. Cran- - MS. in the Library of Emmanuel College, Cam- mer's Answer, &c. edit. 1580. Strype, Cranmer, p. D bridge, 2. 2.15., which has been carefully collated 305. Acta Disputationis Londinensis, &c., edita a ^ for this edition. Dr Jenkyns, whose copy differs Valerando Pollano, 1554. Burn. Ref. App. vol. ii. " considerably from this, and agrees more nearly with B. ii. No. 8.] b. Emm. Coll. MS. but refers also to MSS. C.C.C.C. was the “seditious bill" referred to in the follow- 3. the C.C.C.C. MS., states that he printed from the [? There can be no doubt that this Declaration ἢ
 
-THOMAS ARCHBISHOP OF CANTERBURY,
+[cv. p. 321. Harl. Collect. 417. Coverdale, Letters of ing minute from the council book. On the 8th of i]
 
-## Concerning
+and religion, which lying he feareth not to do most earnestly at this present. For whereas a prince of famous memory, king Henry the Eighth, seeing the great abuses of the Latin mass, reformed some things therein in time; and after, our late sovereign lord Edward the Sixth took the same wholly away for the manifold errors and abuses thereof, and restored in the place thereof Christ's holy supper according to Christ's institution, and as the apostles in the primitive church used the same in the beginning: now goeth the devil about by lying to overthrow the Lord's holy supper again, and to restore his Latin satisfactory mass, a thing of his own invention and device. And to bring the same the more easily to pass, some of his inventors have abused the name of me, Thomas archbishop of Canterbury, bruiting abroad that I have set up the mass again in Canterbury, and that I offered myself to say mass at the burial of our late sovereign prince king Edward the Sixth, and also that I offered myself to say mass before the queen's highness at Paul's church in London, and I wot not where. And although I have been well exercised these xx years in suffering and bearing evil bruits, reports, and lies, and have not been much grieved thereat, but have borne all things quietly; yet when untrue reports and lies turn to the hinderance of God's truth, then are they in no wise tolerate or to be suffered. Wherefore this is to signify to the world, that it was not I that did set up the mass in Canterbury, but it was a false, flattering, and lying monk?, with a dozen of his blind adherents, which caused the mass to be set up there, and that without mine advice or counsel. Reddat illi Dominus in die illo.
 
-## The Untrue Report and Slander of Some, Which Reported, that He Should Set up Again the Mass in Canterbury®
+And as for offering myself to say mass before the queen's highness at Paul's, or in any other place, I never did it, as her grace well knoweth. But if her grace will give me leave, I will and by the might of God shall be ready at all times to prove against all that would say the contrary, that all that is said in the holy communion, set forth by the most innocent and godly prince, king Edward the Sixth, in his court of parliament, is conformable to that order that our Saviour Christ did both observe and command to be observed; which also his apostles and primitive church used many years: whereas the mass in many things not only hath no foundation of Christ's apostles nor the primitive church, but also is manifestly contrary to the same, and containeth in it many horrible abuses. Whereabout though that many do maliciously report of Mr Peter Martyr, that he is a man of no learning, and therefore not to be credited; yet, if the queen's highness will grant it, I with the said Mr Peter, and other four or five which I will choose, will by God's grace take upon us to defend, that not only the common prayers of the church, the ministration of the sacraments, and other rites and ceremonies, but also that all the doctrine and religion set forth by our sovereign lord king Edward the Sixth is more pure and according to God's word, than any other that hath been used in England these thousand years: so that God's word may be the judge, and that the reasons and proofs upon both parties may be set out in writing; to the intent that all the world may judge therein, and that no man shall start back from their writings. And where they boast of the faith of the church in the olden time these xv hundred years, we will join with them in this point, that that doctrine and usage is to be followed, which was in the church fifteen hundred years past. And we shall prove, that the order of the church set out in this realm by our said sovereign lord king Edward the Sixth, by act of parliament, is the same that was used fifteen hundred years past. And so shall they never be able to. prove theirs.
 
-As the devil, Christ’s ancient adversary, is a liar and the father of lying, even so he hath ever stirred up his servants and members to persecute Christ and his true word
+[September, 1553, Thomas archbishop of Canter- vol. xviii. p. 175. According to Foxe, the Decla-]
 
-[' This Declaration is here published from the MS. in the Library of Emmanuel College, Cambridge, 2. 2.15., which has been carefully collated for this edition. Dr Jenkyns, whose copy differs considerably from this, and agrees more nearly with the C.C.C.C. MS., states that he printed from the Emm. Coll. MS. but refers also to MSS. C.C.C.C. cv. p. 321. Harl. Collect. 417, Coverdale, Letters of the Martyrs. Foxe, Acts, &c. vol. iii. p. 94. Cranmer’s Answer, &c. edit. 1580. Strype, Cranmer, p. 305. Acta Disputationis Londinensis, &c., edita a Valerando Pollano, 1554. Burn. Ref. App. vol, ii. B. ii. No. 8.]
+[bury appeared before the lords, as he was the day ration was circulated in London on the 7th of]
 
-[2 There can be no doubt that this Declaration was the “seditious bill’’ referred to in the following minute from the council book. On the 8th of
+[before appointed. After long and serious debating September; according to Burnet's Latin copy, it]
 
-(i sae ee ge a eee
+[of his offence by the whole board, it was thought was lecta publice in vico mercatorum ab amico]
 
-. ee Se oe ee ee ee See
+[convenient that as well for the treason committed qui clam autographum surripuerat, 5 Septemb. anno]
 
-DECLARATION CONCERNING THE MASS. 429 and religion, which lying he feareth not to do most earnestly at this present. For whereas a prince of famous memory, king Henry the Eighth, seeing the great abuses of the Latin mass, reformed some things therein in time; and after, our late sovereign lord Edward the Sixth took the same wholly away for the manifold errors and abuses thereof, and restored in the place thereof Christ’s holy supper according to Christ’s institution, and as the apostles in the primitive church used the same in the beginning : now goeth the devil about by lying to overthrow the Lord’s holy supper again, and to restore his Latin satisfactory mass, a thing of his own invention and device. And to bring the same the more easily to pass, some of his inventors have abused the name of me, Thomas archbishop of Canterbury, bruiting abroad that I have set up the mass again in Canterbury, and that I offered myself to say mass at the burial of our late sovereign prince king Edward the Sixth, and also that I offered myself to say mass before the queen’s highness at Paul’s church in London, and I wot not where. And although I have been well exercised these xx years in suffering and bearing evil bruits, reports, and lies, and have not been much grieved thereat, but have borne all things quietly ; yet when untrue reports and lies turn to the hinderance of God’s truth, then are they in no wise tolerate or to be suffered. Wherefore this is to signify to the world, that it was not I that did set up the mass in Canterbury, but it was a false, flattering, and lying monk*, with a dozen of his blind adherents, which caused the mass to be set up there, and that without mine advice or counsel. Aeddat ili Dominus in die illo.
+[by him against the queen's majesty, as for the Dom. 1553." Jenkyns.]]
 
-And as for offering myself to say mass before the queen’s highness at Paul’s, or in any other place, I never did it, as her grace well knoweth. But if her grace will give me leave, I will and by the might of God shall be ready at all times to prove against all that would say the contrary, that all that is said in the holy communion, ‘ set forth by the most innocent and godly prince, king Edward the Sixth, in his court of parliament, is conformable to that order that our Saviour Christ did both observe and command to be observed; which also his apostles and primitive church used many years: whereas the mass in many things not only hath no foundation of Christ’s apostles nor the primitive church, but also is manifestly contrary to the same, and containeth in it many horrible abuses. Whereabout though that many do maliciously report of Mr Peter Martyr, that he is a man of no learning*, and therefore not to be credited ; yet, if the queen’s highness will grant it, I with the said Mr Peter, and other four or five which I will choose, will by God’s grace take upon us to defend, that not only the common prayers of the church, the ministration of the sacraments, and other rites and ceremonies, but also that all the doctrine and religion set forth by our sovereign lord king Edward the Sixth is more pure and according to God’s word, than any other that hath been used in England these thousand years: so that God’s word may be the judge, and that the reasons and proofs upon both parties may be set out in writing; to the intent that all the world may judge therein, and that no man shall start back from their writings. And where they boast of the faith of the church in the olden time these xv hundred years, we will join with them in this point, that that doctrine and usage is to be followed, which was in the church fifteen hundred years past. And we shall prove, that the order of the church set out in this realm by our said sovereign lord king Edward the Sixth, by act of parliament, is the same that was used fifteen hundred years past. And so shall they never be able to. prove theirs.
+[aggravating of the same his offence, by spreading [3 Whom the archbishop afterward named to]
 
-‘September, 1553, ‘‘ Thomas archbishop of Canterbury appeared before the lords, as he was the day before appointed. After long and serious debating of his offence by the whole board, it was thought convenient that as well for the treason committed by him against the queen’s majesty, as for the aggravating of the same his offence, by spreading about seditious bills moving tumults to the disquietness of the present state, he should be committed to the tower, there to remain and be referred * to justice, or further ordered as shall stand with the queen’s pleasure.’’—Extracts from the Proceedings of the Privy Council, printed in Archeologia, vol. xviii. p. 175. According to Foxe, the Declaration was circulated in London on the 7th of September; according to Burnet’s Latin copy, it was “lecta publice in vico mercatorum ab amico qui clam autographum surripuerat, 5 Septemb. anno Dom. 1553." Jenkyns.]
+[about seditious bills moving tumults to the dis- be Thornton.” Foxe, Aets, &c. 1st edit. p. 1478.]]
 
-[? “ Whom the archbishop afterward named to be Thornton.”” Foxe, Acts, &c. Ist edit. p. 1478.]
+[quietness of the present state, he should be com- [ This report had been circulated, and contra-]
 
-[* This report had been circulated, and contradicted by Cranmer two years before. See Answer to Gardiner, p. 195, and Answer to Smith, p, 373, of this volume. ]
+[mitted to the tower, there to remain and be referred dicted by Cranmer two years before. See Answer]
 
-[Many copies of the foregoing Declaration were hastily written out and dispersed abroad. Foxe states that every scrivener’s shop almost was occupied in writing and copying it out (see p. xxi. of the present volume); which accounts for numerous small variations. Strype (p. 436) states that it was sent by Grindal to Foxe, and gives it more nearly to the form in which it appears in the Acts and Monuments, and which is here subjoined from p. 1395, of the edition of 1576.]
+[' to justice, or further ordered as shall stand with to Gardiner, p. 195, and Answer to Smith, p. 373,]
 
-## A Purgation of Thomas Archbishop of Canterbury
+[the queen's pleasure," Extracts from the Proceed- of this volume.]]
 
-## Agaynst Certaine Sclaunders Falsely Raysed upon Hym
+[ings of the Privy Council, printed in Arch@ologia,]
 
-As the devil, Christ’s ancient adversary, is a liar and the father of lies, even so hath he stirred up his servants and members to persecute Christ and his true word and religion with lying ; which he ceaseth not to do most earnestly at this present time. For whereas the prince of famous memory, king Henry the eight, seeing the great abuses of the Latin mass, reformed some things therein in his lifetime; and after our late sovereign lord king Edward V1. took the same whole away for the manifold and great errors and abuses of the same, and restored in the place thereof Christ’s holy supper according to Christ’s own institution, and as the apostles used the same in the primitive church: the devil goeth about now by lying to overthrow the Lord’s holy supper again, and to restore his Latin satisfactory mass, a thing of his own invention and devise. And to bring the same more easily to pass, some have abused the name of me, Thomas archbishop of Canterbury, bruiting abroad that I have set up the mass again at Canterbury, and that I offered to say mass at the burial of our late sovereign prince king Edward the VI., and that I offered also to say mass before the queen’s highness, and at Paul’s church, and I wot not where. And although I have been well exercised these xx years to suffer and bear evil reports and lies, and have not been much grieved thereat, but have borne all things quietly ; yet when untrue reports and lies turn to the hinderance of God’s truth, they are in no wise to be suffered. Wherefore these be to signify unto the world, that it was not I that did set up the mass at Canterbury, but it was a false flattering, lying, and dissembling monk, which caused mass to be set up there without mine advice or counsel. Reddat illi Dominus in die illo.
+[Many copies of the foregoing Declaration were hastily written out and dispersed abroad. Foxe states that every scrivener’s shop almost was occupied in writing and copying it out (see p. xxi. of the present volume); which accounts for numerous small variations, Strype (p. 436) states that it was sent by Grindal to Foxe, and gives it more nearly to the form in which it appears in the Acts and Monuments, and which is here subjoined from p. 1395, of the edition of 1576.7]
 
-And as for offering myself to say mass before the queen’s highness, or in any other place, I never did it, as her grace well knoweth. But if her grace will give me leave, I shall be ready to prove against all that will say the contrary, that all that is contained in the holy communion set out by the most innocent and godly prince king Edward the VI., in his high court of parliament, is conformable to that order which our Saviour Christ did both observe and command to be observed, and which his apostles and primitive church used many years: whereas the mass in many things not only hath no foundation of Christ, his apostles, nor the primitive church, but is manifestly contrary to the same, and containeth many horrible abuses in it. And although many, either unlearned or malicious, do report, that M. Peter Martyr is unlearned, yet, if the queen’s highness will grant thereunto, I with the said M. Peter Martyr, and other four or five which I shall choose, will by God’s grace take upon us to defend, not only the common prayers of the church, the ministration of the sacraments, and other rites and ceremonies, but also all the doctrine and religion set out by our said sovereign lord king Edward the VI., to be more pure and according to God’s word, than any other that hath been used in England these 1000 years: so that God’s word may be judge, and that the reasons and proofs of both parties may be set out in writing ; to the intent, as well that all the world may examine and judge thereon, as that no man shall start back from his writing. And where they boast of the faith that hath been in the church these 1500 years, we will join with them in this point, and that the same doctrine and usage is to be followed, which was in the church 1500 years past. And we shall prove, that the order of the church set out at this present in, this realm by act of parliament, is the same that was used in the church 1500 years past, and so shall they be never able to prove theirs.
+## A Purgation of Thomas Archbishop of Canterbury, Agaynst Certaine Sclaunders Falsely Raysed upon Hym
+
+[Foxe, Acts, As the devil, Christ’s ancient adversary, is a liar and the father of lies, even so hath he stirred up]
+
+[&c ed 1576 his servants and members to persecute Christ and his true word and religion with lying; which he ceaseth]
+
+[not to do most earnestly at this present time. For whereas the prince of famous memory, king Henry the]
+
+[eight, seeing the great abuses of the Latin mass, reformed some things therein in his lifetime; and after]
+
+[our late sovereign lord king Edward V1. took the same whole away for the manifold and great errors and]
+
+[abuses of the same, and restored in the place thereof Christ's holy supper according to Christ's own]
+
+[institution, and as the apostles used the same in the primitive church: the devil goeth about now by]
+
+[lying to overthrow the Lord's holy supper again, and to restore his Latin satisfactory mass, a thing of]
+
+[his own invention and devise. And to bring the same more easily to pass, some have abused the name]
+
+[of me, "Thomas archbishop of Canterbury, bruiting abroad that I have set up the mass again at Canter-]
+
+[bury, and that I offered to say mass at the burial of our late sovereign prince king Edward the VIL, and]
+
+[that I offered also to say mass before the queen's highness, and at Paul's church, and I wot not where.]
+
+[And although I have been well exercised these xx years to suffer and bear evil reports and lies, and]
+
+[have not been much grieved thereat, but have borne all things quietly; yet when untrue reports and lies]
+
+[turn to the hinderance of God’s truth, they are in no wise to be suffered. Wherefore these be to signify]
+
+[unto the world, that it was not I that did set up the mass at Canterbury, but it was a false flattering,]
+
+[lying, and dissembling monk, which caused mass to be set up there without mine advice or counsel. ]]
+
+[Reddat illi Dominus in die illo. And as for offering myself to say mass before the queen's highness, or in any other place, I never did]
+
+[it, as her grace well knoweth. But if her grace will give me leave, I shall be ready to prove against]
+
+[all that will say the contrary, that all that is contained in the holy communion set out by the most ^]
+
+[innocent and godly prince king Edward the VL, in his high court of parliament, is conformable to that]
+
+[order which our Saviour Christ did both observe and command to be observed, and which his apostles 1]
+
+[and primitive church used many years: whereas the mass in many things not only hath no foundation]
+
+[of Christ, his apostles, nor the primitive church, but is manifestly contrary to the same, and containeth:]
+
+[many horrible abuses in it. And although many, either unlearned or malicious, do report, that M. Peter]
+
+[Martyr is unlearned, yet, if the queen's highness will grant thereunto, I with the said M. Peter Martyr,]
+
+[and other four or five which I shall choose, will by God's grace take upon us to defend, not only the]
+
+[common prayers of the church, the ministration of the sacraments, and other rites and ceremonies, but]
+
+[also all the doctrine and religion set out by our said sovereign lord king Edward the VI., to be more j]
+
+[pure and according to God's word, than any other that hath been used in England these 1000 years: 4]
+
+[so that God's word may be judge, and that the reasons and proofs of both parties may be set out in 4]
+
+[writing; to the intent, as well that all the world may examine and judge thereon, as that no man shall]
+
+[start back from his writing. And where they boast of the faith that hath been in the church these 1500]
+
+[years, we will join with them in this point, and that the same doctrine and usage is to be followed, which]
+
+[was in the church 1500 years past. And we shall prove, that the order of the church set out at this]
+
+[present in this realm by act of parliament, is the same that was used in the church 1500 years past, and]
+
+[so shall they be never able to prove theirs.]
+
+## Index
+
+denote the paging of the Latin Version of the Defence.)
+
+[ABsuRDITIES, Gardiner rejects conclusions from, the book de initiandis is his, 319; but it only]
+
+[333 says that the nature of the bread and wine, not the]
+
+[Accidents, of the bread and wine in the sacrament substance, is changed, ibid.; tells how the sacra-]
+
+[remain; but, the papists say, they hang alone in mental bread is changed, by adding to it the grace]
+
+[air, 45, 256, 328; no philosopher ever said that of Christ's body, 320; says the forms of bread and]
+
+[they might stand without any substance, 254, 6; wine are changed, the papists say they remain, 323.]
+
+[Gardiner's joke upon them, 256; cannot be the Angels cannot be at one time in two places, 97.]
+
+[nature of substances, and the very substances Anthropomorphites, their heresy, 172, 3, 91.]
+
+[themselves, 260, 1, 7, 73, 4, 84, 301, 23; sub- Apollinaris, a heretic, 262, 77; maintained that the]
+
+[stances cannot be without them, 326; cannot be Godhead and manhood in Christ were so mixed]
+
+[broken, eaten, &c., 324. and confounded together that they both made but]
+
+[Adam, his creation out of clay; Gardiner's argu- one nature, 286, 338.]
+
+[ment from, 266. Aquinas, Thomas, speaks of the body of Christ]
+
+[Adminicles, helps, supports, 37. going no farther than the stomach, 56; says that]
+
+[Adnihilation of the sacramental bread, 305, 6; can the whole of Christ's body is in every part of the]
+
+[only be wrought by the power of God, 306. bread and wine, 64; asserts that, if a mouse or]
+
+[Adoration in the sacrament, 228, 9, 34, 5. dog eat the sacramental bread, it is the body of]
+
+[JEpinus, or Hippinus, quoted by Gardiner as sup- Christ, 68; says that the sacrifice of the priest is]
+
+[porting the real presence, although an enemy of satisfactory in proportion to his devotion, 84.]
+
+[the Church of Rome, 20, 159; says that eucha- Argument, a good one, but nothing to the purpose,]
+
+[ristia is called a sacrifice, because it is a remem- (Gardiner) 316.]
+
+[brance of the true sacrifice which was offered upon Arians denied Christ to be of the same substance]
+
+[the cross, and that in it is dispensed the very body with his Father, 63, 7, 273, 339.]
+
+[and blood, yea, the very death of Christ, 160; Aristotle cited by Gardiner on transubstantiation,]
+
+[Gardiner alleges that he considered the Lord's 251; his philosophy referred to, 331.]
+
+[supper a sacrifice propitiatory, 365; Cranmer Arselacton, Nottinghamshire, the birth-place of]
+
+[asserts that he wrote to reprove the papists for Cranmer, vii.]
+
+[feigning the mass to be propitiatory, ibid. Artemon, held that Christ was very man, and not]
+
+[Agrippa, Cornelius, agrees with Cranmer about the God, 278.]
+
+[king's divorce, xi. Athanasius, speaking of the eating of Christ's flesh,]
+
+[Ἀληθηὴς and ἀληθῶς, (John vi.) 24. and drinking of his blood, says, for this cause he]
+
+[Algerus on the sacrament, commended by Erasmus, made mention of his ascension into heaven, to]
+
+[20 pluck them from corporal phantasy, 209, 80.]
+
+[Aliud and aliud, diversity of nature, 290, 4. Augustine, cited by Gardiner, 22, 26, 59; his inter-]
+
+[Alius and alius, diversity of person, 290, 4. pretation of Christ's words in the sacrament, 24;]
+
+[Altar, the calling it reverend does not prove the real speaks the same words as St Cyprian, and as]
+
+[presence of Christ there, 228. Christ himself, 27; declares the eating of Christ's]
+
+[Ambrose, his words upon the eating of Christ's flesh to be only a figurative speech, in the mind,]
+
+[body to be understood figuratively, 55; says that not with the mouth, ibid.; cited by Gardiner as]
+
+[we must not seek Christ upon earth, nor in earth, saying that we receive in the sacrament the body]
+
+[but in heaven, 96, 49; that before the conse- of Christ with our mouth, 55; his words about]
+
+[cration, in the sacrament, another kind is named, eating the body of Christ to be understood figu-]
+
+[but after the consecration the body of Christ is ratively, ibid.; says that the Lord's supper was]
+
+[signified; and again he writes, thou dost receive the same to Peter and to Judas, but that the]
+
+[the sacrament for a similitude of the flesh and effect differed in them, 57; that the ways of evil]
+
+[blood of Christ, but thou dost obtain the grace men do not obstruct the sacraments of God, but -]
+
+[and virtue of his true nature,” 122, 178,9, 59; that the sacraments hinder the ways of evil men,]
+
+[other passages from his writings upon this si- 58; declared it to be figuratively only that Christ]
+
+[militude, ibid.; says that the bread is bread carried himself in his own hands, 61; says that]
+
+[before the consecration, but after the words of the sacraments worthily used bring reward, un-]
+
+[the consecration it is the body of Christ, 177, 8, worthily, judgment, 68, 9; proves that Christ is]
+
+[72 affirms that the body of Christ is a spiritual gone hence, as concerning his manhood, 73; marks]
+
+[meat, and spiritually eaten, 179; speaks figu- this difference, that the sacraments of the fathers]
+
+[ratively of the bread after consecration, 179; of the old testament contained the promise of that]
+
+[Erasmus judges that the books de sacramentis, et which in our sacrament is given, 74, 7; says]
+
+[de mysteriis, ascribed to Ambrose, were none of his, that both we and the prophets received one thing]
+
+[and Melancthon suspected the same thing, 180; in the diversity of sacraments, 75; his exposition]
+
+[says, Jesus is the bread that is the meat of saints, of St Paul, 1 Cor. x., and Psalm Ixxvii., 76;]
+
+[and he that taketh this bread dies not a sinner’s thinks those mad who see diversity of things be-]
+
+[death, 210, 81; that this bread of life which cause of diversity of signs in the old and new]
+
+[came down from heaven doth minister everlasting testament, ibid.; says the memorial of the true]
+
+[life, and is the body of Christ; and how it dif- sacrifice made upon the cross is called by the name]
+
+[fers from manna, ibid.; his words upon the wor- of a sacrifice, 07; says that we may not think Christ]
+
+[shipping of God's footstool, 236, 7; says that if everywhere in his man's nature, but that he is]
+
+[the word of God can make things of nought, much every where as God, 94, 5, 6, 48; observes that,]
+
+[more can it change τῷ ἡ that were before into as a body must needs be in some place, if it is]
+
+[other things, 276, 31; his words de initiandis, not within the compas of a place, it is nowhere;]
+
+[upon which the papists rely to support their tran- and if it be nowhere, then it is not, 97, 101, 50;]
+
+[substantiation, 318, 41; it is doubtful whether says that we call that the body and blood of Christ]
+
+which is taken of the fruit of the earth, and con- Christ's body, 225; when he says, no man doth secrated by mystical prayer; and also that. Jesus eat the flesh of Christ, unless he first worship called meat his body, and drink his blood, 105, him, speaks of worshipping in heaven, 230; de- 54; his rules to discern a proper speech from a clares that although the sacrament be visibl figurative one, 115, 137; says that to keep in our ministered, yet it must be invisibly d, minds that Christ was crucified and shed his 230, 1, 87; his words that Christ has given us blood for us, is to eat his flesh and drink his a sacrament of the eating of his body, to be unblood, 115, 57; says, prepare not your mouth, derstood invisibly and spiritually, 231; declares or jaws, but your heart; believe, and thou hast plainly, in many places, that Christ body is not eaten,’ 118, 208; meant that Christ's flesh is not to corporally present, nor corporally eaten in the be eaten carnally, but spiritually, at the Lord's sacrament, 232; says that to eat Christ's flesh is supper as well as at all other times, ibid.; his fruitfully to remember that the same flesh was reply to Boniface, who asked him how parents crucified for us, 232; his exposition of Psalm and friends could answer for an infant in bap- xcviii,, where it is commanded to worship the tism, 124, 59; says that a thing which signifies earth, God's footstool, by which may be underis wont to be called by the name of the thing stood the flesh of Christ, 236; says that somewhich it signifies, 125, 351; writes, that in the times, in scripture, a thing is told after that was sacraments we must not consider what they be, done before, 248; writes, with other old authors, but what they signify, 126, 221; says that he that St Paul (1 Cor. x.) spake of such bread as serves under a sign, who worketh or worshippeth is made of a great multitude of grains of corn any sign, not knowing what it signifieth, and united into one material loaf, as the spiritual that every man, when he receives the sacraments members of Christ be joined together into one mysof baptism and the Lord's supper, knows that we tical body of Christ, 249; says that that which you may not worship with a carnal bondage their see in the altar is the bread and the cup, which visible signs, 134; says Christ reigns not car- also your eyes do shew you; but faith sheweth nally in heaven, 139; declares that our resurrec- further, that the bread is the body of Christ, and tion, although it shall be of true flesh, yet it shall the cup his blood, 277, 31; declares the sacrifice not be carnally, (Gardiner) ibid.; says that of the church consists of two things, of the visible Christ's body is circumscribed and contained in kind of the element, and of the invisible flesh and one place, 140; declares that the gospel is to be blood of our Lord, ibid., 282; proves, that as the received or heard with no less fear and reverence heavenly bread, which is Christ's flesh, after a than the body of Christ, 146; says, contrary to manner is called the body of Christ, so is the Chrysostom, that we touch not Christ with our sacrament of faith, which is baptism, faith, 282; hands, 153; did not reprove the Messalians, says that Nestorius taught that Christ was man 173; gives as a rule, that we must foresee only, and that Eutyches denied Christ's manhood, that we do not so affirm the divinity of him that. 293; writes that that which men call a sacrifice is man, that we should thereby take away the is a sign or representation of the true sacrifice, truth of his body, 186; says that Christ is every- 351, 95. where in that he is God, but in heaven in that he is man, ibid.; speaks of the visible and invi- Baldus, 194. sible sacrament, 201, 4; declares that to eat Baptism: the washing outwardly teacheth the washChrist's body, and to drink his blood, is to ing God worketh inwardly, 17; injury to from have life, 203; says, the wicked neither eat popish doctrines, 25, 34, 45; in every part of the Christ's flesh nor drink his blood, although every water in baptism is whole Christ and the Holy day they eat the sacrament thereof, to the con- Spirit sacramentally, 64; the Holy Ghost doth demnation of their presumption, 205; declares not only come to us in baptism, and Christ there the words of Christ to be spirit and life, though clothe us, but they do solon as we dwellin Christ, not to him that carnally understands them, 206; 71; Christ given in the sacrament of, as in the declares that he that agreeth not with Christ, doth sacrament of his flesh and blood, 76; Christ preneither eat his body nor drink his blood, 210, 81; sent as well in baptism as in the Lord's supper, that neither heretics, nor hypocritical professors 92, 228, 342, 356, 366; how parents and friends have either a true faith, or are to be counted can answer for an infant in, 124; Christ not only among the members of Christ, 211, 81; that in them that duly receive the sacrament of the a man may eat and drink the bread and wine, Lord's supper, but in them that duly receive the and nevertheless die; but the very body and sacrament of baptism, and in all other true chrisblood of Christ no man eateth but that hath ever- tian people at other times, 140; Christ and the lasting life, 212, 82; says that the sacrament is Holy Ghost not in the water of, 148; how water taken in the Lord’s table, of some men to life, called aqua regenerans and aqua sanctificans in, and of some men to death, but the thing itself yet it doth not regenerate indeed, 150; because it (whereof it is a sacrament) is taken of all men to is the sacrament of regeneration and sanctification, life, and of no man to death, 212; that this is to ibid., 153; Christ manifested and exhibited in, eat that meat, and drink that drink, to dwell in spiritually, 156; how we are made new therein, Christ, and have Christ dwelling in him; and this 176; regenerated as well in baptism as in the sais a token or knowledge that a man hath eaten and crament of the body and blood of Christ, ibid.; drunken, if he dwell in Christ, and have Christ the water is changed in nature therein, 180, 308; dwelling in him, ibid.; declares that to eat Christ's those that come feignedly, and those that come unflesh and to drink his blood is a figurative speech, feignedly, both be washed with the holy water, signifying the participation of his passion, ibid.; but both be not washed with the Holy Ghost, says that the eating is to be refreshed, and the 221; sacramentally, 254, 322; there is none drinking is but to live, ibid.; that when the apos- without water, as well as the Holy Ghost, spitles did eat bread, that was the Lord, Judas did but ritually regenerating, 304; Nazianzen, Emissen, eat the bread of the Lord, and not the bread that Chrysostom, Ambrose, and all the ancient authors, was the Lord, 213, 224; says that evil men receive speak of the change in this sacrament, 311; the sacrament of Christ's body, although it availeth Gardiner's statement respecting the effect of them not, 216; his words contra Cresconium, 221, Christ's sacrifice on the cross dispensed in, 360. 85; his words on baptism against the Donatists, Barrett, Dr, rejected by Cranmer at Cambridge, viii. 221, 2; his words on the text who eateth my Basil, proves that the Holy Ghost is God by being flesh and drinketh my blood, dwelleth in me, and in several persons at one time, 97, 50; says I in him,” cited by Gardiner, 222; says that, after we eat Christ’s flesh and drink his blood, being a certain manner, the sacrament of Christ's body is made, by his incarnation and sensible life, par-
 
 ---
 [[Cranmer LS 22 The Disputations at Oxford, Part 1|← 22. The Disputations at Oxford, Part 1]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 24 Index|24. Index →]]
+
