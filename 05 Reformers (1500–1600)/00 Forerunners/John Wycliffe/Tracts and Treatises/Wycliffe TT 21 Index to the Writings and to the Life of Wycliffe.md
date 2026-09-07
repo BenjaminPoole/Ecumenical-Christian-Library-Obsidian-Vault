@@ -4,7 +4,7 @@ author: "John Wycliffe"
 work: "Tracts and Treatises of John de Wycliffe"
 chapter: 21
 year: "1370s-1384"
-source: "archive.org tractsandtreati01vauggoog, ed. Robert Vaughan (1845); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+lat), pdftoppm from the Google Books PDF"
 written: "1370s-1384"
 tags:
   - protestant-reformers
@@ -13,845 +13,828 @@ tags:
 
 # 21. Index to the Writings and to the Life of Wycliffe
 
-TO THE WRITINGS OF WYCLIFFE.
+[Mes. ^ gabbing. earthquake.]
 
-Abbots, their rich temponditiet, 176. Abominatioii of desolation, papal idolatry, 275. Absolution) priestly, and merits, 65.
+## Index to the Writings of Wycliffe
 
-an impudent falsehood, 1 79. the greatest heresy, 64. Accursed life of worldly prelates, IS. Adam's sin called little, 4. A discourse against the yioes of the clergy, 94. Alms, how to he bestowed, 171. Amulets, to trust in, impious, S. Anathemas of the friars, 248. Angel, an, cannot satisfy fbr sin, 84. Angels, doctrine of| 112.
+[ABBOTS, their rich temporalities, 176. Antichrist, his highest craft and heresy, 29.]
 
-fallen, their number, 128. Anointing of the body not a sacrament,
+[Abomination of desolation, papal idol- nests of, and his clerks, 66.]
 
-IBS. Antichrist and his clerks, curses of, 41. deny sendee to lords, 58. destroy Holy Writ, 59. how they destroy it, 60l penrert the Gospel, 1 1. pride and avarice of, 49. Antichrist and Satan rule the ungodly, 80* any worldly prelate, 10. blinds military men, 176. by his deceits hinders the Gospel, 22. his corrupt laws, 82. his curses and persecution, 88. heresy and hypocrisy, 29.
+[atry, 278. originates wars, 69.]
 
-Antichrist, his highest craft and heresy, 29. nests of, and his clerks, 56. originates wars, 69. overturns grammar, logic, 8rc., persecutes on account of the eucharist, 140. priests beget sons to, 165. rales by the friars, 207, 208. sells church benefices, 287. sophistries of^ 129. tiie bishop of Rome, 20. the bull of, secures tithes, 89. the great, hisfidsehood,8ro.,l 24. Antichrist's blasphemy, 9, 87.
+[Absolution, priestly, and merits, 65. overturns grammar, logio, &c.,]
 
-ceremonies and curses, 88. clerks liye luxuriously in fat benefices, 289. persecute the pious, 10. their hypocrisy and treason, 26. their penrersions of Holy Writ, 61. disciples, the priestly clergy, followers, ignorance of, 144. seduction of, by error, 149. laws oppose God's, 8. martyrs, the friars, 289. miracles by the friars, 258. the lesser, prelates are, 124.
+[animpudentfalsehood,179. 148.]
 
-Antichrist's, the worldly clergy are, 27. works contrary to Christ's, Apostolic superiority, 167. Archbishops created by Cesarean pride,
+[the greatest heresy, 64. persecutes on accoünt of the]
 
-Archdeacons disciples of Antichrist, 184. enriched by simony, 290. their origin with the fiend,69. Arrogance of the clergy, 24. ofthefiriars, 249. Aristotle, his theory concerning virtue, 116. not a safe guide to virtue, 117. supposed the mind immortal, 1 1 S. Assessors of worldly prelates deceivers, 1 1. Augustine directs our appeal to Scripture,
+[Accursed life of worldly prelates, 12. eucharist, 140.]
 
-(See St. ji^igmHme) 129. Augustinus arguam te quandonesei8,98. Austin slandered by Antiehri8fselerks,61. Austin's rules of living, 222, 227, 228. testimony to the Lord's supper, 281, 2S2. Avarice of the clergy a source of sin, 171. Ave Maria, comments on, 61, 52, 97.
+[Adam's sin called little, 4. priests beget sons to, 165,]
 
-Baptismal regeneration not held by
+[A discourse against the vices of the rules by the friars, 207, 208.]
 
-Wycliffe, 157, 160. Baptism an institution of Christ, 156.
+[clergy, 94. sells church benefices, 287.]
 
-bishops giving the Holy Spirit in, blasphemy, 163. bodily, avails little, 156. illegitimate, 161. its mode not essential, 156. of infants and children, 156, 157. of the Spirit, 160. the true, 282. threefold, 159. Baptist, John, in what sense Elias, 38. Beast, his mark a licence to trade, 138
+[Alms, how to be bestowed, 171. sophistries of, 129.]
 
-148, 158. Bede testifies to the use of preaching, 14. Begging, an imposition and foul error, 224. condemned by Jerome, 224. in prayer to God, not by friars,
+[Amulets, to trust in, impious, 3. the bishop of Rome, 20.]
 
-186, 187. not taught by Christ, 73. of the friars, not taught in
+[Anathemas of the friars, 248. the bull of, secures tithes, 89.]
 
-Scripture, 186. unlawful as used by friars, 223.
+[Angel, an, cannot satisfy for sin, 84. thegreat, hisfalsehood,&c.,124.]
 
-Believer, his faith the gift of God, 118. Believers, sincere, regard the authority of
+[Angels, doctrine of, 112. Antichrist's blasphemy, 9, 37.]
 
-Scripture, 129.
+[fallen, their number, 128. ceremonies and curses, 88.]
 
-Benefices, conunonly sold at R^mie, 9.
+[Anointing of the body not a sacrament, clerks live luxuriously in fat]
 
-obtained by simony, 288, 289.
+[188 beneflces, 289.]
 
-poor priests have not, why, 287.
+[Antichrist and his clerks, curses of, 41. persecutethe pious, 10.]
 
-presentation to,by simony, 290.
+[deny service to lords, 53. their hypocrisy and]
 
-Benefits from a knowledge of the word of
+[destroy Holy Writ, 59. treason, 26.]
 
-God, 298. Berenger admonishes Pope Eugenius,! 67. his doctrine of the sacnunent, opposed to transubstantiation, 184, 282. Bernard, 24^8, 87, 65, 99, 267, 296. Betrayal of Christ not to oppose friara, 216. Bigotiy in religion demoralising, 42. Bishop and presbyter, the same in office, homM with a mitre, why, 166. of Rome, Antichrist, 20.
+[how they destroy it, 60. their perversions of]
 
-a poisoner and bunier, a sinful wretch, 19. the cruel manslayer, 82. Bishoprics anciently exposed to martyrdom, 34. Bishops and abbots have the royal assent, 176. cardinals hold men in bondage, 88. Annas and Caiaphas better than prelates, 89. Csesarean, their pride, 167. convey gold to Antichrist, the enemy, 234. evil, injure godly men, 34. forsake poverty to live in pride, modern, none such by Scripture, 163. no leave of, but for gold, 291. parsons, and friars, regard trifles, 2. their disloyal policy, 234. their proper station in duty, 167. their unsuitable preaching, 81. the pope, and priests, vain titles of, 82, 83. under the old law, 166. wealth of certain, 34.
+[pervert the Gospel, 11. Holy Writ, 61.]
 
-Blasphemies, infinite, of Antichrist, 198.
+[pride and avarice of, 49. disciples, the priestly clergy,]
 
-of the friars, 71. Blasphemy and pride of popes, 84. its nature, 72.
+[Antichrist and Satan rule the ungodly, 30. 184.]
 
-of bishops in confirmation, Blessed spirits regard the militant church,
+[any worldly prelate, 10. followers, ignorance of, 144.]
 
-Blood of Christ in the eucharist, how, martyrs, baptism by the, 159. Bodily labour, not begging, a duty, 187. Body of Christ eleyated in the skies, 152. how in the eucharist, 147, 152, 154, 231, 300, 301. not corrupt, as in the host, Brazen serpent a sign of Christ, 158. Bread, a memorial of Christ, 158.
+[blinds military men, 176. seduction of, by]
 
-and wine fitly represent Christ, 1 43.
+[by his deceits hinders the Gos- error, 149.]
 
-in the eucharist, heresy to deny, how Christ's body,
+[pel, 22. laws oppose God's, 8.]
 
-136,138,139,147.
+[his corrupt laws, 82. martyrs, the friars, 239.]
 
-not an accident with-out a subject, 145, not identically the body of Christ, really in the eucharist, 133, 135, British Reformers, works of the, 46. Bull ofthepopedreaded by the people, 38.
+[his curses and persecution, 38. miracles by the friars, 258.]
 
-magnified above the
+[heresy and hypocrisy, 29. the lesser, prelates are, 124.]
 
-Gospel, 37, 38. tithes claimed by the,40. a thousand Tain, at death, 42.
+the worldly clergy are, 27. Believer, his faith the gift of God, 118. works contrary to Christ's, Believers, sincere, regard the authority
 
-Cflpsarean bishops, their pretences, 162, prelates, condemnation of, 1 70.
+## 176. Scripture, 129
 
-pride created priestly orders, Caitif, a sinful, magnified by friars, 252. Camden Society, 99. Canon law hostile to the Bible, 42. Canterbury, pilg^mages to, 33. Cardinal virtues, 92.
+superiority, 167. Benefices, commonly sold at Rome, 9. created by Cesarean pride, obtained by simony, 288, 289. poor priests have not, why, 287. disciples of Antichrist,184. presentation to,by simony, 290. enriched by simony, 290. Benefits from a knowledge of the word of their origin with the fiend, 69. God, 298.
 
-Cardinals and bishops, oppressions of, corrupt the church, 75. the college of, 40. their election of popes, 78. Carmelites, friars, 228. Celibacy of the clergy, constrained, un-scriptural, 58. Ceremonies multiplied by friars, 246.
+of the clergy, 24. Berengeradmonishes Pope Eugenius,167. of the friars, 249. his doctrine of the sacrament, histheory concerning virtue,116. opposed to transubstantianot a safe guide to virtue, 117. tion, 134, 232. supposed the mind immortal, 118. Bernard, 24-33, 37, 65, 99, 267, 296. of worldly prelates deceivers, 11. Betrayal of Christnot to opposefriars, 216. directs our appeal to Scripture, Bigotry in religion demoralising, 42. St. Augustine) 129. Bishop and presbyter, the same in office, arguam te quando nescis, 93. 164.
 
-vain, invented by Antichrist, Chaffering prelates, 53. Chanting by ordinal of Salisbury vain, 50. not required, but devotion, 50. Charity essential to true faith, 117.
+**by Antichrist’sclerks,61.** hornéd with a mitre, why, 168. rules of living, 222, 227, 228. of Rome, Antichrist, 20. testimony to the Lord's supper, a poisoner and burner, 231, 282... 32. of the clergy a source of sin, 171. a sinful wretch, 19. Maria, comments on, 51, 62, 97. the cruel manslayer, 32. Bishoprics anciently exposed to martyr-
 
-its nature and influence, 118. not broken in condemning sin, outlawed by the avarice of friars, Child, Christ born a, to satisfy for sin,
+## dom, 34
 
-Children deceived by the friars, 251.
+regeneration not held by Bishops and abbots have the royal as- 157, 160. sent, 176. an institution of Christ, 156. cardinals hold men in bondbishops giving the Holy Spirit age, 88.
 
-in danger from ungodly parents, stolen and enticed by friars, 226, 245. Christ and his apostles our examples, 86.
+**in, blasphemy, 163.** Annas and Caiaphas better than bodily, avails little, 156. prelates, 89. illegitimate, 161. Caesarean, their pride, 167. its mode not essential, 156. convey gold to Antichrist, the of infants and children, 156, 157. enemy, 234. of the Spirit, 160. evil, injure godly men, 34. the true, 282. forsake poverty to live in pride, threefold, 159. 234. John, in what sense Elias, 38. modern, none such by Scrip-his mark a licence to trade, 188, ture, 163. 158. no leave of, but for gold, 291. testifies to the use of preaching, 14. parsons, and friars, regard trian imposition and foul error, 224. fles, 2. condemned by Jerome, 224. their disloyal policy, 234. in prayer to God, not by friars, their proper station in duty, 167. 186, 187. their unsuitable preaching, 81. not taught by Christ, 73. the pope, and priests, vain titles of the friars, not taught in of, 82, 83.
 
-did not practise mendicancy, 188. paid tribute to heathen rulers, 53. bought man's soul from hell, 3. forsooth did obey lords, &c., 99. God and man our Redeemer, 301 . his divine perfection, 128. lived on the bounty of his disciples, 39. neither paid or received tithes, 39. not a mendicant, 1 89. saves the world by the doctrine of his apostles, 269. taught every thing profitable, 22 1 . yields civil obedience, 35. Christ's acts give no sanction to mendicants, 190. apostles had no monks or friars, blessing in the Lord's supper, ao6
+**Scripture, 186.** under the old law, 166. unlawful as used by friars, 223. wealth of certain, 34.
 
-ChrUt'8 doctrine ilumld be tnught to ehildren, 269. institution of the Lord's fupper,
+infinite, of Antichrist, 198. Cardinals and bishops, oppressions of, of the friars, 71. 88. and pride of popes, 84. corrupt the church, 75. its nature, 72. the college of, 40. of bishops in confirmation, their election of popes, 78.
 
-276, 277. Uw against the claims of the pope, 295. manhood, how in the sacrament, taken of the Tirgin, perfect wisdom of in religion, poverty hateful to the friars, 244. rule disregarded by friars, 250. professed for five hundred years, 261. satisfaction for our sin, 84. suiTerings for us, 86. wonderful love in our redemption, 5. Christendom troubled by the friars, 255. Christian fidelity, 8. Christianity honoured by holiness, 47. Christian men pray meekly to God, 52. robbed by simony for the pope, 30. seek grace from Ood, 62. Christians in name only, 2.
+**168. Carmelites, friars, 228.** spirits regard the militant church, Celibacy of the clergy, constrained, un-
 
-may convert men to the truth, not certain on all subjects, ready to suffer for Christ, 12. subject to the civil power, Christmas-day, Jesus born on, 84. Chrysostom saitb that fishes, &c., 99. Church, a delinquent may be deprived, 175, 211. by God's law not stones and timber, 32. holy, not prelates, priests, and curates, 42. material magnified by Antichrist, ofBces sold by the popes, 75. of pope and cardinals, pretences of, 6, 60. secular power in the, 74. services of the, not Christ's, 83.
+## scriptural, 58
 
-Clmreh the eongregation of just mca, the goods of, may not be touched, 40. three divisions of the, 74. three parts of the, 66. Churchmen, many wicked, 44. Claims of Antichrist, 176. Clergy arid bishops beUe Christ, 166. avarice of the, 1 69. the, adherents of opposing popes, 8. by what laws bound, 125. claim exemption from magistrates, 64. falsifiers of the Scripture, great, persecute preachers, heretics, who take possessioni, inordinate wealth of^ 24. misapply their revenues, 37. object to Christ's life, 168. obliged to live holily, 169. of Antichrist enemies of the church, 184. twelve classes oi^ perverted their influence, 1 23. should live in poverty like
+of Christ in the eucharist, how, Ceremonies multiplied by friars, 246. 136.. vain, invented by Antichrist, martyrs, baptism by the, 159. 183. labour, not begging, a duty, 187. Chaffering prelates, 53. Christ elevated in the skies, 152. Chanting by ordinal of Salisbury vain, 50. how in the eucharist, not required, but devotion, 50. 147, 152, 164, 231, Charity essential to true faith, 117.
 
-Christ, 165. their avarice pleaded for, 169. their example in Christ, 168. to aim at scriptural teaching, worldly, disciples of Antichrist, 167. Clerks are to seek laws in the New Testament, 36. claim not to be subject to the king, 40. of Antichrist obey the pope, 35.
+**300. 301.** its nature and influence, 118. not corrupt, as in the host, not broken in condemning sin, 162. 55. serpent a sign of Christ, 158. outlawed by the avarice of friars, a memorial of Christ, 168. 235. and wine fitly represent Christ, 143. Child, Christ born a, to satisfy for sin, in the eucharist, heresy to deny, 85.
 
-their curses, 1 8. worldly, curse the breaker of their laws, 42. enemies of civil government, 35. traitors to God for the pope, 37. Commandments of God, how broken, 4.
+**140.** Children deceived by the friars, 251.
 
-.Comments on the Ave Maria, 52. ^ ' Lord's Prayer, 52.
+how Christ's body, in danger from ungodly parents,
 
-. C(ttnmon life in Wycliffe's time, 7. .Complaint against the friars, 259. I €«nfes8io derelicti Pauperis, 92. ^Qtifession of sins to God alone, 178. to a priest injurious, 178.
+## 136,138,139,147. 59
 
-invented by Pope
+not an accident with. stolen and enticed by friars, out a subject, 145, 226, 245..
 
-Innocent, 178. not necessary to salvation, 178. to be made to God, 5. 1 to nien and to God, 65. ■ Confessors^ their treachery to souls, 289. -Cofafirmation, bishops give not the Holy
+**146.** Christ and his apostles our examples, 86. not identically the body of Christ, did not practise 147. mendicancy,188. really in the eucharist, 133, 135, paidtributeto hea- 140. then rulers, 53. Reformers, works of the, 46. bought man's soul from hell, 3. ofthepope dreaded by the people, 38. forsooth did obey lords, &c., 99. magnified above the God and man our Redeemer, 301. Gospel, 37, 38. his divine perfection, 128.
 
-Spirit in, 62. modern, blasphemy, 162. unauthorised by Scripture, 162. not a sacrament, 161. not necessary to salvation, not taught in Acts viii., vain pretensions of bishops in, 163. what is apostolic? 161. ; %V^Hi?%l Telation, its duties, 59. »ti^C3iibsecr^tibn of the bread and wine, 134, ^••'f' . 142.
+**tithesclaimed by the,40.** lived on the bounty of his dis-
 
-«(( • . , of the host, its delusion, 1 ■ .'• •: .r*D.
+## a thousand vain, at ciples, 39
 
-▲ • . ' -*• the words of popish, 278. r h (JcAftecMted bread ' corrupts, 1 42. .•i. '. • .' what is it? 132.
+**death, 42.** neither paid or received tithes, 39.
 
-* t^Onstiuitine endowing the church an in- j)^^4|^\Mendicitatem, 90. ^'Contrition necessary to remove sin, 180. ^ part of true penance, 178. signs of true, 1 80. .: ColJyirsipn to Christ, ^b. ' T Conviction of sin, 118. »•• jC^fnipt^phs of the church, 75. '•^,*t6oimcirt)f friars in London, 302.
+## not a mendicant, 189
 
-.Counsel of Christ rejected by friars, 245. ' 'Creation/ works of the, 112. * /Gfeed, 97.
+bishops, their pretences, 162, saves the world by the doctrine 163. of his apostles, 269. prelates, condemnation of, 170. taught every thing profitable, 221. pride created priestly orders, yields civil obedience, 35.
 
-■ -Crusade' of Pope Urban, 74. •.. .' * popish, 70.
+**164.** Christ's acts give no sanction to mendia sinful, magnified by friars, 252. cants, 190. Society, 99. apostles had no monks or friars, law hostile to the Bible, 42. 262.
 
-Crusades approved by the popes, 70. Cup in the Lord's supper, Christ's meaning by it, 283. Curates defrauded by the friars, 227.
+**pilgrimages to, 33.** blessing in the Lord's supper, virtues, 92. 277.
 
-few good, persecuted by the prelates, 26. many evil, seek the favour of bishops, 26. wayward, curse men to hell, 39. worldly, preferred to benefices, worse than the fiends, 39. Curse of God most dreadful, 12.
+doctrine should be tnught to Church the congregation of just mes, children, 269. 32. institution of the Lord's supper, the goods of, may not be touch- 276, 277. ed, 40. law against the claims of the three divisions of the, 74. pope, 295. three parts of the, 66. manhood, how in the sacrament, Churchmen, many wicked, 44.
 
-sinfulness of man's, 17, 248. the, as taught by friars, 248. the great sentence of, expounded, Curses of the prelates shocking, 42. Cursing by bishops and the popes impious, 3. prelates cause men to be shunned, 17. removed by money,
+## 279. Claims of Antichrist, 176
 
-Daniel's "abomination" in popish worship, 274, 275.
+taken of the virgin, Clergy aríd bishops belie Christ, 166.
 
-Deacons and priests, orders of ministry of, 90. their ordination and duties, 168.
+## 279. avarice of the, 169
 
-De actubus anime, 94.
+perfect wisdom of in religion, the, adherents of opposing popes, 8. 260. by what laws bound, 125. poverty hateful to the friars, 244. "claim exemption from magisrule disregarded by friars, 250.. trates, 64. professed for five hundred falsifiers of the Scripture, years, 261. 177. satisfaction for our sin, 84. great, persecute preachers, sufferings for us, 86. 177. wonderful love in our redemp- heretics, who take possessions, tion, 5. 166.
 
-Deadlybodies,our,Christ shall change,277. sins, 6.
+troubled by the friars, 255. inordinate wealth of, 24. fidelity, 8. misapply their revenues, 37. honoured by holiness, 47. object to Christ's life, 168. men pray meekly to God, 52. obliged to live holily, 169. robbed by simony for the of Antichrist enemies of the pope, 30. church, 184. seek grace from God, 62. twelve classes of, in name only, 2. 184. may convert men to the truth, perverted their influence, 123. 202. should live in poverty like not certain on all subjects, Christ, 165.
 
-De anima, 91.
+**155.** their avarice pleaded for, 169. ready to suffer for Christ, 12. their example in Christ, 168. subject to the civil power, to aim at scriptural teaching, 35. 43.
 
-De apostasia, 96, 98.
+Jesus born on, 84. worldly, disciples of Anti-saith that fishes, &c., 99. christ, 167. a delinquent may be deprived, Clerks are to seek laws in the New Testa- 175, 211. ment, 36. by God's law not stones and claim not to be subject to the timber, 32. king, 40. holy, not prelates, priests, and of Antichrist obey the pope, 35. curates, 42. their curses, 18. material magnified by Antichrist, worldly, curse the breaker of their 32. laws, 42. offices sold by the popes, 75. enemies of civil governof pope and cardinals, pretences ment, 35. of, 6, 60. traitors to God for the secular power in the, 74. pope, 37. services of the, not Christ's, 88. Commandments of God, how broken, 4.
 
-Death for the public good advantageous, not annihilation, 114, 115.
+Comments on the Ave Maria, 52. Crusades approved by the popes, "n Lord's Prayer, 52. Cup in the Lord's supper, Christ's 7. Gámmon life in Wycliffe’s time, 7. ing by it, 283., Complaint against the friars, 259. Curates defrauded by the friars, 227. z Confessio derelicti Pauperis, 92. few good, persecuted by Confession of sins to God alone, 178. lates, 26. up to a priest injurious, 178. many evil, seek the favour Tte invented by Pope bishops, 26.
 
-De blasphemia contra fratres, 71.
+**Nis Innocent, 178.** wayward, curse men to hellSUTs. s 0 mot necessary to worldly, preferred to benefices, ARN salvation, 178. 283. 7. t0 be made to God, 5. worse than the fiends, 39. UY cL, to mien and to God, 65. Curse of God most dreadful, 12. -~Confessors, their treachery to souls, 289. sinfulness of man’s, 17, 248. - -Cohfirmation, bishops give not the Holy the, as taught by friars, 248. a EI Spirit in, 62. the great sentence of, expounded, LCUS cl. modem, blasphemy, 162. 81.. XE pe unauthorised by Curses of the prelates shocking, 42. EN $E E Scripture, 162. Cursing by bishops and the popes gin vy nota sacrament, 161. pious, 3. Mj 77 not necessary to salvation, prelates cause men PA 163. shunned, p 3$ M - mot taught in Acts viii., removed by cl? 1681 19. ES IAE vain pretensions of bishops N in, 163. Daniel's “abomination” in popish de R00 whatis apostolic? 161. ship, 274, 275. IOdggal relation, its duties, 59. Deacons and priests, orders of ministry vy OPhisecration of the bread and wine, 134, of, 90. Rd cà 142 their ordination and duties, Se. 0f the host, its delusion, De actubus anime, 94. iUnd oc w4 Deadlybodies,our,Christ shall change,277. Y ud ^.. the words of popish, 278. sins, 6.. à Corhectáted bread corrupts, 142. De anima, 91. S. what is it? 132. De apostasia, 96, 98. “Constantine endowing the church an in- Death for the public good advantageous, Jn AWAITS 114 Le i Mendicitatem, 90. not annihilation, 114, 115. 'Comtrition necessary to remove sin, 180. De blasphemia contra fratres, 71. E à.0» part of true penance, 178. De captivo Hispaniensi, 95. eft. signs of true, 180. De conversatione ecclesiasticorum,,:, Cotfyersion to Christ, 65. Decrees of the church oppose God's ^7. Conviction of sin, 118. 11. ps Lprruptiphs of the church, 75. Decretals of the clergy injurious t;Éouncil of friars in London, 302. king, 35.. Counsel of Christ rejected by friars, 245. De diabolo et membris, 54. "^ “Creation; works of the, 112. De dominio, 97. Creed, 97. De dominis divino, 63. -Crüsade' of Pope Urban, 74. De dominis et servis, 52. s popish, 70. De ecclesia, 97.
 
-De captivo Hispaniensi, 95.
+De ecclesise dominio, 74. Dominican and Franciscan orders, 200. De ecolesia et membris, 98. Dress and pretences of the friars, 8. De ente communi, 100. Drunken priests chant the service, $ De ente primo, 100. Duke of Gloucester, 90. De ente universali, &c;, 101. Lancaster, 91, 259. De episcoporum erroribus, 46. e De hypocritarum imposituris, 7. Eating Christ's body, what? 277.. De intellectione Dei, 100. Ecclesiastical edifices, sanctuaries of De mandatis, 96. offenders, 34. De modo orandi, 91. titles, origin of, 68, 69. De obedientia prelatorum, 97. Egressus Jesus de templo, 98. De officio regis, 97. Elections to church dignities, 122. De Papa Romana, 64. Emperors and kings should oppose
 
-De conversatione ecclesiasticorum, 13.
+[De Pharisso et Publicano, 98. lords warned, 175.]
 
-Decrees of the church oppose God's law,
+[De postate papse, 97. Emperor's law, subject to God's, 42.]
 
-Decretals of the clergy injurious to the king, 35.
+[De potentia productiva Dei, 100. Endowments, church, contrary to Chriss,]
 
-De diabolo et membrls, 54.
+[De precationibus sacris, 43. M3..]
 
-De dominio, 97.
+[De purgando errores, 100. ecclesiastical, 71. EN]
 
-De dominis divino, 63.
+[De questionibus variis contra clerum, 91. leading to simony, 475,]
 
-De dominis et servis, 52.
+[Derision employed by Elias and Christ, of priests an evil, 172.. 184. of the church, 63, 122. -]
 
-De ecclcsis, 97.
+[De Sathane astu contra fidem, 91. by Constantine, 134.,]
 
-De eoeledie dominio, 74*
+[De schisma papse, 64. priest occasion way, 172.,]
 
-De eedlMia et membrii, 98.
+[De scientia Dei, 100. poison to the church, 174.]
 
-De ente eommuni, 100.
+[De sermone Domini, 100. England may withhold payment to the]
 
-De ente primo, 100.
+[De simonia, 96, 97. pope, 60. -]
 
-De ente imifenali, &c;, 101.
+[De stipendiis ministrorum, 43. Error in eight points, 45.]
 
-De epitcoponun erroribtti, 45.
+[De summa theologica, 97. what is opposed to God's law, 264..]
 
-De hypocritanim impodtariB, 7.
+[De surdo et muto apud Marcum, 93. Eucharist, chief of the sacraments, 144. s]
 
-De intellectione Dei, 100.
+[De tempore, 100. doctrine of the, 139. 1.]
 
-De mandatis, 96.
+[De temporis quidditate, 101. heresies respecting, foreseen,’]
 
-De modo orandi, 91.
+[Determinationes eucharistise, 91. 140. S ra]
 
-De obedientU prelatorum, 97.
+[De tribus blasphemiis monachorum, 71. Evangelists, the, have no authority by."]
 
-De offioio regis, 97.
+[De XXXIII erroribus curatorum, 26. the pope, 60...]
 
-De Papa Romana, 64.
+[De universalibus, 100. Example, evil, of prelates and curates, 18.]
 
-De penonanim diitinetione, 100.
+[De veritate scripture, 95, 97. Excommunication, 170. I]
 
-De Pharittto et Publicano, 98.
+[De virtutibus et vitiis, 91. by prelates hprrible,,]
 
-De postate paps, 97.
+[De volitione, 101. 179.]
 
-De potentia prodnetiYa Dei, 100.
+[De ydeis, 100. Excuses of swearing vain, 4..]
 
-De preeationflras laoria, 48.
+[Divine nature, mysteries of the, 110. Expositio Decalogi, several by Wyclille,]
 
-De puzgando enorei, 100.
+[Divinity of Christ. See Christ. 1. "ut]
 
-De questionibus Tariia contra clenim, 91.
+[Divorce and matrimony, 177. one part of a collec-']
 
-Deriaion employed by Elias and Chriit,
+[Dr. James, librarian of the Bodleian tion in Latin, 1", Library, 97. Extreme unction, blasphemous pretences]
 
-De Sathans astu contra fidem, 91. De schiBma paps, 64. De scientia Dei, 100. De tennone Domini, 100. De simonia, 96» 97. De stipendiis ministronim, 43. De gumma theological 97. De surdo et muto apud Marcum, 93. De tempore, 100. De temporis quidditate, 101. Determinationea euchariatiaB, 91. De tribus blasphendia monachorum, 71. De XXXIII erroribus curatorum, 26. De universalibus, 100. De veritate scripturse, 95, 97. De virtutibus et vitiis, 91. De volitione, 101. De ydeis, 100.
+[Dr. Todd and the Camden Society, 99. of, 188.]
 
-Dirine nature, mysteries of the, 110. Divinity of Christ See Ckrui. Divorce and matrimony, 177. Dr. James, librarian of the Bodleian
+[Dominic and Francis, founders of friars, called The last sacra- 263. ment, 182. founder of his preaching friars, not taught in Janes v., 199, 227. 182.]
 
-Library, 97. Dr. Todd and the Camden Society, 99. Dominic and Francis, founders of friars, founder of his preaching friars, 199, 227.
+Extreme unction prelates assert needful Friars alter the doctrine of a thousand to salvation, 183. years, 232.
 
-Dominiean and Fianciaean ordefSv 200. Drtai and preteaees ti the frian, 18^ Drunken priests ebant the serviMv 41. Duke of Oloueester, 90.
+## and the mass, 202
 
-Laneaster, 91, 259.
+Faith, its nature and exercise, 117. Antichrist's martyrs, 239.
 
-Eating Christ's body, what? 277. Eeolesiastieal edifices, sanetuaries of ofiender8,84. titles, origin of; 68, 69. Egressus Jesua de tempio, 98. Elections to ehuroh dignifif», 122. Emperors and kings should oppoas
+of a Christian by the Scripture, 62. begging of the king and nobles, fails not, 62. beg without need injuring the poor Fall of angels made productive of good, 232.
 
-Antiehrist, 64. lords warned, 175. Emperor's law, subject to God's, 42. Endowments, ehupch, contrary to Christ;
+**128.** bind impossible things on disciman made to occasion a greater ples, 245.
 
-173\. / ecclesiastical, 71. t - leading to nmaajrVS,,' of priests an evil, 172.'* of the church, 68^ 122..
+**good, 127.** blaspheme God, 181. False confessors, 48. blasphemous delusions of, 192, Falsehood put on Holy Writ, 54. build great houses and castles, False men of law and merchants, 48. charge poor priests as heretics,244. pretences of the pope and priest,60. children of Judas Iscariot, 239. Falsifiers of Scriptures the worst traitors, claims to manage worldly business, 177. 206. Father, natural, spiritual, and heavenly, 6. confession of the people to them, spiritual, teaching God's law, to 206. be loved, 6. to prelates, nobles, Feigned contemplative life, 49. ladies, 237. Fictitious dogmas of the pope blasphem- corrupt the ordinances of Christ, ous, 179. 143. Fiends hinder the Gospel, 16. council of, at London, 209. Fiend, wicked policy of the, 63. deceive sick men, 224, 230. Fighting and man-slaying fiendish, 70. the laity by letters of Figurative language of Christ, 283. ternity, 280. e Scripture, 148, defraud curates, 227. 149. delude the kingdom, 208. Final perseverance of saints, 121. denounce the king as an heretic, Five bodily wits, 92, 94. 212. wits ghostly, 92. disciples of Satan, 246. Flanders, the English enterprise in, 13, disregard the poor, 227.
 
-by Constantme, It^ priest occasion war, *t72. , poison to the chiveh, 174^ * England may withhold payment to thfr% pope, 60. ^ - -
+**19. 77.** enemiesto the church and state, the war in, excited by the enter the church like thieves, friars, 238. establish their inventions, ruining
 
-Error in eight points, 45.
+## war in, for the popes, 18, 31. the nation, 205
 
-what is opposed to God's law, 364w . Eucharist, chief of the sacraments, 1441. doctrine of the, 139. , heresies respecting, foreseen,' Evangelists, the, have no authority By* the pope, 60. Example, evil, of prelates and curates, 18. Excommunication, 170. . ..
+Flattery of the friars, 239. exalt themselves above Christ, "Forbearance of God to swearers, 4. excite to wars, 238. Forbidding to marry a mark of heresy, 58. false boast of their orders, 219. For three skills lords should compel, flatterers of the rich, 229, 239. &c. 56. for money will sell men's souls Francis and Dominic, their rules, 227. Satan, 230.
 
-by prelates hprri^lsgi*.^
+founder of an order of friars, 199. forsake their order, 234.
 
-Excuses of swearing vain, 4. Expositio Decalogi, several by M'ydi^ one part of a collection in Latin, 1. . Extreme unction, blasphemous pretences o^ 183. called The last sacrament, 182. not taught in James v.,
+^ habit of, the people deluded by, the ordinances of Christ,
 
-Extreme unction prelates assert needftil to salvation, 183.
+## 235. 221
 
-Faith, its nature and exercise, 117.
+Fraternities of the papists, 191. habits of, pretended holiness
 
-of a Christian by the Scripture, 62. fails not, 62. Fall of angels made productive of good, man made to occasion a greater good, 127. False confessors, 48. Falsehood put on Holy Writ, 54. False men of law and merchants, 48.
+## their letters forgain, 191,192. 242
 
-pretences of the pope and priest,60. Falsifiers of Scriptures the worst traitors,
+Frauds and heresies of the friars, 191. hinder alms to the poor, 224. Free-will of man, 23. preaching the Gospel, Friars advocates of war, 77.. 240.
 
-Father, natural, spiritual, and heavenly, 6. spiritual, teaching God's law, to be loved, 6. Feigned contemplative life, 49. Fictitious dogmas of the pope blasphemous, 179. Fiends hinder the Gospel, 16. Fiend, wicked policy of the, 63. Fighting and man-slaying fiendish, 70. Fig^ative language of Christ, 283.
+Friars hinder the Gospel of Christ, 8. Friars sacrifice to Lucifer, 235. how they seduce and injure king- seek the destruction of true priests, doms, 207. 212. imprison their brethren, 37, 236. send many souls to the devil, leave obedience to Christ, 232. serve Antichrist against the live as prelates and lords, 225. 207. more cruel than Saracens, 228. simoniacal heresies of, 191. holy in pretence than others, simony and blasphemy of, 230. 252. slanderers of godly priests, 239. iniquitous than freebooters, solitary life of the, 221.
 
-Scripture, 148, Final perseverance of saints, 121. Five bodily wits, 92, 94.
+**204.** some may be good men, 202. most impatient of reproof, 240. steal children for their order, iniquitous, 212. strive for worldly distinctions, never to forsake their order, 222. sustained by bishops and nobles, not loyal to the king, 237. 208. once hated by the bishops, 208. take greater reverence than Friars’ orders a diabolical society, 206. king, 205.
 
-wits ghostly, 92. Flanders, the English enterprise in, 13, 19, 77. the war in, excited by the friars, 238. war in, for the popes, 13, 31. Flattery of the friars, 239. Forbearance of God to swearers, 4. Forbidding to marry a mark of heresy, 58. For three skills lords should compel,
+corrupters of Christ's reli- the agents of Antichrist, 201. gion, 200. their blasphemous pardons, 231. Lueiferian seduction of, conversation hellish, 207. 198. conversion sought by Wyc-
 
-&c. 56. Francis and Dominic, their rules, 227. founder of an order of friars, 1 99. habit of, the people deluded by, Fraternities of the papists, 191.
+## pretences on their origin, liffe, 199
 
-their letters for gain, 191, 192. Frauds and heresies of the friars, 191. Free-will of man, 23. Friars advocates of war, 77.
+**199.** corrupting the minds papal, confirmed by popes, 201. children, 226. contradict and oppose each covetousness, 252. other, 200. destruction good for four chief sects of, 200. church, 194. theagents of Antichrist,201. falsehood, 73. persecute and imprison Christ's first heresy regards the servants, 206. ' 202. perversion of the faith of Christ fraud and malice, 210. by, 234. heresy regarding the bread possess lordly places through Eng- in the sacrament, 208. land, 251. luxury, 186. practise begging, 223. means of deluding the prejudice the kingdom, 207. ple, 226. pretences regarding their religion, origin and deceits, 185. 219. other heresies, 203. pretend to be saints, 227. pride and luxury, 239. proud boasters, 252. restraints, 185, 186. punish for breaking their order, riches and treasures, 224.
 
-Friars alter the doctrine of a thousand years, 232. and the mass, 202. Antichrisrs martyrs, 239. begging of the king and nobles, 237. beg without need injuring the poor , bind impossible things on disciples, 245. blaspheme God, 181. blasphemous delusions of, 1 92, 230. build great houses and castles, 232. charge poor priests as heretics,244. children of Judas Iscariot, 239. claims to manage worldly business, confession of the people to them, to prelates, nobles, and ladies, 237. corrupt the ordinances of Christ, council of, at London, 209. deceive sick men, 224, 230.
+## 225. Friars’ secret policy, 261
 
-the laity by letters of fraternity, 280. defraud curates, 227. delude the kingdom, 208. denounce the king as an heretic, disciples of Satan, 246. disregard the poor, 227. enemies to the church and state,255. enter the church like thieves, 244. establish their inventions, ruining the nation, 205. exalt themselves above Christ, 250. excite to wars, 238. false boast of their orders, 219. flatterers of the rich, 229, 239. for money will sell men*s souls to
+their tradi- stately buildings, 204. tions, 8. sumptuous feasts, 229. recognise the king as their liege traditions opposed to Christ, lord, 207. regard the pope'sdispensation,242. Glory and worship sought by friars, related to Belial and Satan, 212. Glosses, false, darken God's law, 63. return evil for good, 247. Gluttony destroys more than the sword, rob the kingdom yearly, 237. 124.
 
-Satan, 230. forsake their order, 234.
+God cannot forgive sin without satisfac- Heresies regarding the eucharist, 301. tion, 84. three chief, 76. dishonoured by evil practices, 42. Heresy and simony of the clergy, 29. by the friars, 241. false charge of, against rehis perfections, 4, 110. formers, 64. in a trinity of Persons, 3. the greatest is transubstantiaGodhead dwelt in Christ bodily, 154. tion, 145. God moveth holy church, &c., 99. Heretic a perverter of Holy Writ, 12. God's law and Gospel, doctrine of, 56. Heretics, popish, pervert the Gospel, 60. disobeyed by friars, 233. their wicked teaching, 61. Gods, many in popery, 281. understand Scripture wrongly, God's service by Adam, Job, and Jesus, 129. 238. Hierarchy, doctrine of the, 131, 134. Gospel, all truth contained in it, 145. intolerance of the, 88.
 
-the ordinances of Christ, habits of, pretended holiness in, hinder alms to the poor, 224.
+how to defend it, 122. the corruption of the, 82.
 
-preaching the Gospel, 220,
+its true preaching would cure all Hildyard, a pretended prophetess, 186. evils, 293. Hoc est meum corpus, its meaning, 273, to be preached by every wise man, 278.
 
-Frian hinder the Oocpel of Chriat, 8.
+**222.** Holiness, pretended, of the friars, 247. Gospels not made authentic by the Holy church rejects royal jurisdiction, church, 60. 35.
 
-how they teduee and injure king- doma, 207. impriaon their brethren, 87, 286. leave obedience to Chriat, 282. lire aa prelatea and lorda, 228. more cruel than Saxmoena, 228. holy in pretence than othera, iniquitoua than fireebootera, moat impatient of reproof^ 240.
+their authority not from the the, includes all the saved, church, 60, 61. 45. Grace of God, its freeness, 87. Ghost, baptism by the, 159. Gradations of ministers created by pride, descended on heathen,
 
-iniqiiitoua, 212. never to foraake their order, 222. not loyal to the king, 287. once hated by the biahops, 208. Frian' oiden a diabolical aociety, 206. eorrupteiB of Chriat'a religion, 200. Luciferian aeduction oi, pretencea on dieir origin, papal, confirmed by popea, 201. contradict and oppoae each other, 200. four chief sects of, 200. the agents of Antichri8t,20 1 . persecute and imprison Christ's servants, 206. perversion of the faith of Christ by, 234. possess lordly places through England, 251. practise begging, 228. prejudice the kingdom, 207. pretences regarding their religion, pretend to be saints, 227. proud boasters, 252. punish for breaking their order, their traditions, 8. recognise the king as their liege lord, 207. regard the pope's di8peu8ation,242. related to Belial and SaUn, 212. return evil for good, 247. rob the kingdom yeariy, 237.
+## 164. 275
 
-aaerifice to Lneiftr, 288.
+to allow them is the, inspired the evanguilty, 165. gelists, 60. Grants from God depend not on friars,. motgivenby bishops 192. confirmation, 162, Grosthead, bishop of Lincoln, 240. 163.
 
-aeek the de8traetio& of tme prieita, send many aoula to the devil, 202. aerve Antichriat agunat the king, aimoniaoal hereaiea o^ 191. aimony and blaaphemy ci, 280. ilandcawra of godly pfieati, 289. aolitaiy life of the, 881. aome may be good men, 202. ateal children for thdr otdn', 828. atrive for woridlydiatinetioiia, 208. anatained by biahopa and noblea, take greater reverenee than the king, 208. the agenta of Antichriat, 201. their blaaphemoua paxdona, 281. eonveraatioa hriliah, 207. converaion aooght l^ Wyo- liffe, 199. corrupting the minda of children, 226. covetooaneia, 282. deatruction good for the church, 194. falsehood, 73. first heresy regarda the altar, fraud and malice, 210. heresy regarding the bread in the aacrament, 208. luxury, 188.
+sin against the, 66, Habits and vestments of friars, 185. 120, 127.. of friars how esteemed, 235. Scripture, in English, necessary, Headship of the pope perverts the church, 275. 76. our only authority for Heads of the church, two, monstrous, 90. belief, 129. Hearing the Gospel, 23. Scriptures falsified by the friars,241. Heathen emperors may take tribute, 52. Spirit designs our study of Serip-know the nature of their gods, ture, 129. 141. Writ contains all truth, 211. may be converted, 48. hated by Antichrist, 59. Heaven better than innocence, 89. supreme authority of, 54, Here are questions and answers, 99. 56, 57. Here beginneth the nine virtues, &c., Hope, its nature and influence, 118. 94. Host, the, in what sense God's body, 132. Heresies and errors, fifty, of the friars, the body
 
-means of deluding the people, 226. origin and deceits, 185. other heresies, 203. pride and luxury, 239. restraints, 185, 186. riches and treasures, 224. Friars' secret policy, 251.
+**256. Christ, 132.** in morals, brought in by the Housesandcloisters, ratherthan churches,
 
-stately buildings, 204. sumptuous feasts, 229. traditions opposed to Christ, 225.
+## devil, 121. built by friars, 232
 
-Glory and worship sought by friars, 249. Glosses, false, darken God's law, 63. Gluttony destroys more than the sword,
+How Antichrist and his clerks oppose Jesus Christ, his love im suffering holy Writ, 57. us, 5.
 
-God cannot forgive sin without satisfifu:- tion, 84. dishonoured by evil practices, 42.
+men of private religion, &e., our God and best Master, b4. 62.
 
-by the friars, 241. his perfections, 4, 110. in a trinitjr of Persons, 3. Godhead dwelt in Christ bodily, 154. God moveth holy church, &c., 99. God's law and Gospel, doctrine of, 56.
+religious men should keep ar- Head, and we his memticles, 52. bers, 7. Hypoorisy of Antichrist, 29. John the Baptist figuratively Elias,
 
-disobeyed by friars, 233. Gods, many in popery, 281. God*s service by Adam, Job, and Jesus,
+## the friars, 185, 235, 241. 148
 
-Gospel, alljtruth contained in it, 145. how to defend it, 122. its true preaching would cure all evils, 293. to be preached by every wise man, Gospels not made authentic by the church, 60. their authority not from the church, 60, 61. Grace of God, its freeness, 87. Gradations of ministers created by pride, to allow them is guilty, 166. Grants from God depend not on friars,
+regular clergy poison- need not instruet Christ,
 
-Grosthead, bishop of Lincoln, 240.
+## ous, 9. 156
 
-Habits and vestments of friars, 185. of friars how esteemed, 235. Headship of the pope perverts the church,
+Hypocrites put error on Christ, 5 Judas Iscariot followed by the friars,
 
-Heads of the church, two, monstrous, 90. Hearing the Gospel, 23. Heathen emperors may take tribute, 52. know the nature of their gods, may be converted, 48. Heaven better than innocence, 89. Here are questions and answers, 99. Here beginneth the nine virtues, &c.,
+## Justinian's code, 42
 
-Heresies and errors, fifty, of the friars, in morals, brought in by the devil, 121.
+ldentity of the eucharist and Christ's body a heresy, 150, Keys of Antichrist, a papal fiction, 198. Ignorance and heresy from simony,175. Kindred with Christ, 66.
 
-Heresies regarding the eucharist, 301.
+of Holy Writ ruinous, 11. King, lords, and priests, robbed by friars,, Immortality of the soul, 112.. 238.
 
-three chief, 76. Heresy and simony of the clergy, 29.
+the natural desire of man, King of all the world, the pope made, 118. England, an heretice, by Impanation, Christ in the bread, impos- friars, 210.
 
-false charge of, against reformers, 64. the greatest is transubstantiation, 145. Heretic a perverter of Holy Writ, 12. Heretics, popish, pervert the Gospel, 60. their wicked teaching, 61. understand Scripture wrongly, Hierarchy, doctrine of the, 131, 134. intolerance of the, 88. the corruption of the, 82. Hildyard, a pretended prophetess, 186. Hoe eti meum corpus, its meaning, 273,
+**sible, 151.** office of the, by God's law, 244. if true, would require a fes- -Richard IL, "Wycliffe's reply
 
-Holiness, pretended, of the friars, 247. Holy church rejects royal jurisdiction, the, includes all the saved,
+## tival, 151. 295
 
-Ghost, baptism by the, 159.
+Impedimenta Evangelizantium, 49. Kings and lords owe many duties to Indulgences a manifold blasphemy of people, 53.
 
-descended on heathen, the, inspired the evangelists, 60. not given by bishops in confirmation, 162, sin against the, 66, 120, 127. Scripture, in English, necessary, our only authority for belief, 129. Scriptures falsified by thefriar8,241. Spirit designs our study of Scrip-ture, 129. Writ contains all truth, 211. hated by Antichrist, 59. supreme authority of, 54, 56, 57. Hope, its nature and influence, 118. Host, the, in what sense God's body, 132.
+**Christ, 197.** should correct the sins blaspheme God, 121. priests, 56.
 
-the body of Christ, 132. Houses and cloisters, rather than churches, built l)y friars, 232.
+dispensed to the crusaders, study God'slaw, 19. subjected to the clergy, foul frauds, 18. 41.
 
-How Antielirnt and hit clerks oppoM holy Writ, 67. men of private religion, fte., nligiotia moi should keep artide8»£2. Hypooriqr of Anticfaritt, 29.
+granted by the popes, 78. vicars of God to punish not granted by Christ, 175. evil doers, 56.
 
-the frian, 185,226, 241. regular eleigy pofaonons, 9. HTpoeritea pnt error on Chriat, 60.
+their blasphemy, 195, 197. deserve punishment, in yielding vain pretences of, 196. the papal claims, 176. Incarnation of the Son of God, 127. do not imprison men as friars Infants, baptism of, 156, 159. 236. Innocent IIL, pope, led away by tran- may take temporals from prelates, substantiation, 144. 264. In regulam Minoritarum, 91. should protect preaching priests, In XVII. Caput Joannis, 93. 177. Institution to benefices by simony, 175. revoke the prisoning Intellectual powers indicate a future life, friars, 236.
 
-Identhgr of the eaehariat and Chriatii bo^jr a heieay, 150. Ignoianee «nd heresy ftom aimony, 175. of Holy Writ ndnooa, 1 1. , Immortality of the aoul, 112.
+**118.** King’s bench, the, rich clerks of, 57. Interdicts and curses of clerks against Kitchen-clerks obtain church benefices, lords, 58. 288. Iscariot, prophecy regarding his trea- Knyghton's testimony to Wycliffe, 109. chery, 187.
 
-the natural desire of man, Impanation, Chriat in the bread, impossible, 151. if true, would require a festival, 151. Impedimenta ETangelizantium,49. Indulgences a manifold blaaphemy of Christ, 197. blaspheme Ood, 121. dispensed to the crusaders, foul frauds, 18. granted by the popes, 78. not granted by Christ, 175. their blasphemy, 195, 197. ▼ain pretences of, 196. Incarnation of the Son of God, 127. Infants, baptism of, 156, 159. Innocent III., pope, led away by tran-substantiation, 144. In regulam Minoritarum, 91. In XVII. Caput Joannis, 93. Institution to benefices by simony, 175. Intellectual powers indicate a future life,
+Ladies prefer licentious priests, 288. Jerusalem, pilgrimages to, 33. Laity, the, should support worthy priests, Jesus Christ both God and man, 3. 43.
 
-Interdicts and curses of clerks against lords, 58. Iscariot, prophecy regarding his treachery, 187.
+Lancaster, duke of, 259. Lords, temporal, in danger by friars, 211. Lawlessness of the friars, 265. i injured by endowing Law of Christ, of the world, of the devil, priests, 174. 210. should try the spirits, Laws of Antichrist, how opposed to God's, 215. 83, 124. Luxury of worldly priests, 168. Christ superior to all laws, 128. friars changeable, 246. Magistracy, civil, the clergy not exempt God and man, how regarded, 119. from, 63.
 
-Jerusalem, pilgrimages to, 33. Jesus Christ both God and man, 3.
+**the clergy, 36.** instituted for the people, the papal, evil in origin ard use,. Mandates of popes and prelates, errors 179.. of, 129.
 
-Jesus Christ, his love in siArin^ ftr us, 5. our Ood and best Msato^ Head, and wv bis dmsibeis,7. John Hie Baptist fignrativelj Eliaa, 1S9, need not instmet Chiiit, Judaa lacariot followed by the friara,2S9. Justinian's eode, 42.
+three to be attended to, 210., Manhood of Christ, cart-loads of, Lawyers of the consistory, 48. ' popery, 279. Laymen may officiate at the eucharist,155. falsely pretended may preach the Gospel, 27. in the host, 280. Leaving preaching culpable in priests, 49. Man's great obligation, 2. Legacy of Christ to his disciples, 36. Manslaughter a deadly sin, 6. Letter of Wycliffe to Pope Urban, 298. Manuscripts in the Library at Vienna, Letters of the friars, impositions on the 101.
 
-Keys of Antiebrist, a papal fietioo, 196u
+people, 192, 230, 247. Marks, sixty thousand yearly sent to ofthe friars, many deceived by, 193. pope, 255. Lettings of Prayer, 91. Marriage approved by Jesus Christ, 58. Levites, the, had no freehold lands, 165. of God in Paradise, Levitical priesthood had no property, 71. 58. Licence of the pope to new sects, 262. Martyrdom, zeal to, of early Christians, London, council of, clergy present at 261.
 
-Kindred with Christ, 6&
+## the, 40. Martyrs for Christ, 159, 160
 
-King, lords, and priests, robbed l^firian,
+condemned Wycliffe, zealous for the word of God, 275. 71. Mary's better part not the contemplative Lord or master, duties of, 47. life, 50. Lords are bound to amend simony, 56. Mass, as the priest sings, 300. blessed of God and angels in their Masses, a thousand vain at death, 42. duty, 58. imposition by the sale of, 33. have their lordship from God for saying of, for souls in purgatory, duty, 57. 33. heathen, may require service, 52. Mass, or matins, to our Lady, a novelty,50. obtain much gold for church bene- Matrimonies, two in Scripture, 58. fices, 288. 4 Meditative spirit, a, 46. owe justice to the people, 53. Members of Christ's church, not secular, sin by endowments, 172. wicked, 248. should restrain priests, 173. Mendicancy not taught in Scripture, 188, Lordship and apostleship inconsistent, 189. 296. Mendicant friars offer vain prayers dominion forbidden to money, 213.
 
-King of all the worid, the pope made, 41. England* an beretle, l^ the friar8,2I0. office of the, l^ God*fe law, 244w Bicbard II., Wyeliffe*a reply to, Kings and lords owe many dutiea to the people, 58. ahould conect the sins of priests, 56. study God*s law, 53. subjected to the clergy, vicars of God to punish evil doers, 56. deserve punishment, in yielding the papal claims, 176. do not imprison men as friars do, may take temporals from prelates, should protect preaching priests, revoke the prisoning of friars, 236. King's bench, the, rich clerks of, 57. Kitchen-clerks obtain church benefices,
+**apostles, 296.** their blasphemous Lords, temporal, beget Antichrist, 174. wickedness, 188. conditions to be ful. orders, false confessors, 48. filled by them, 216. hypocritical — Phari-
 
-Knygh ton's testimony to Wycliffe, 109.
+## favoured by Christ, 174.. sees, 7
 
-Ladies prefer licentious priests, 288. Laity, the, should support worthy priests,
+Mendicant orders, their vending of par- Of the character of heaven, 92. dons, 79. Of the commandments, 92. Mendicants, sturdy, should labour, 171. Of the creed, 92. Men, ignorant of God's commandments, 2, Of the decalogue, 98. Merits of friars, wicked pretences regard- Of the eight woes of God to friars, ing, 194. Of the love of Jesus, 92, 97. men cannot be sold by friars, 194. Of the order of priesthood, 28. none can be, with God, Of the paternoster, 92, 97. 198, 195. Of the seven deadly sins, 66. Ministers of Christ, their distinctions, 66. Of the seven heresies, 97.
 
-Lancaster, duke of, 259.
+various kinds of, 184. Of the seven works of bodily mercy, Monastic orders arose to reform the Oil in confirmation unscriptural, clergy, 199. promotes health of the body, Monks and canons, enemies of Holy Writ, On charity, 122.
 
-Lawlessness of the friars, 265.
+## 25. On confirmation, 161. forsake the Gospel, on gluttony, 124. 261. on humility, 121
 
-Law of Christ, of the world, of the devil,
+canons, and friars, Antichrists, 77. On patience and meekness, 123.
 
-Laws of Antichrist, how opposed to God's, 83, 124. Christ superior to all laws, 1 28. friars changeable, 246. God and man, how regarded, 119. the clergy, 36. the papal, evil in origin and use, three to be attended to, 210. Lawyers of the consistory, 48. Laymen may officiate at the eucharist, 155.
+## origin of, 77. on pride, 121. patronised by on the virtues, 115. popes, 77. Opera caritatis, 98
 
-may preach the Gospel, 27. Leaving preaching culpable in priests, 49. Legacy of Christ to his disciples, 36. Letter of WyclifTe to Pope Urban, 298. Letters of the friars, impositions on the people, 192, 230, 247. of the friars, many deceived by, 1 93. Lettings of Prayer, 91. Levites, the, had no freehold lands, 165. Levitical priesthood had no property, 71. Licence of the pope to new sects, 262. London, council of^ clergy present at the, 40. condemned Wycliffe, Lord or master, duties of, 47. Lords are bound to amend simony, 56. blessed of God and angels in their duty, 58. have their lordship from God for duty, 57. heathen, may require service, 52. obtain much gold for church benefices, 288. owe justice to the people, 53. secular, sin by endowments, 1 72. should restrain priests, 1 73. Lordship and apostleship inconsistent, dominion forbidden to apostles, 296. Lords, temporal, beget Antichrist, 174.
+Moral virtues, 116. Orders, friars’, confirmed by the pope,220. aided by the grace of God, pretended perfection 117. in the primitive church,
 
-conditions to be fulfilled by them, 215. favoured by Christ, 174.
+## 164
 
-Lords, temporal, in danger by friars, 21 1.
+National evils produced by friars, 255. many in the popish church, Neither man nor woman, &c., 99. monastic, how introduced, New rules of friars unlike the Gospel, of Dominic and Francis, 220, 262, 263. pretended sacrament of, Nota de sacramento altaris, 99. priestly, have subverted the Novelties in religion injurious, 51. 165.
 
-ii\jured by endowing priests, 174. should try the spirits, Luxury of worldly priests^ 168.
+religious, doctrine of the, Obedience to God, motives to, 2. their policy, 122. man, only by God's law, several not necessary by
 
-Magistracy, civil, the clergy not exempt from, 63. instituted for the people, 53. Mandates of popes and prelates, errors of, 129. Manhood of Christ, cart-loads of, by popery, 279. falsely pretended in the host, 280. Man^s great obligation, 2. Manslaughter a deadly sin, 6. Manuscripts in the Library at Vienna,
+## 233. 165
 
-Marks, sixty thousand yearly sent to the pope, 255. Marriage approved by Jesus Christ, 58.
+Of Antichrist and his Meynee, 98. Ordinal of Salisbury, 50. Of Antichrist's song in the church, 99. Ordinances of Christ to be maintained, Of chastity, 92. 58. Of clerks possessioners, 24. God to be studied, Of contemplative life, 92. men preferred to Offices in the church coveted for gain, the friars subvert 122. 222. Of ghostly battle, 92. Ordination, a bishop does not confer Of good preaching priests, 29. Holy Ghost in, 164. Of man’s will, 92. pretences of, by bishops, Of perfect life, 65, 92. phemy, 164, 165. Of prayer, 99. Of pride, 94. Pain, the fruit of sin, 66. Of temptation, 92. Papacy, schism in the, 8. Of temptation of the fiend, 94. Papal grants to church benefices,
 
-of God in Paradise, Martyrdom, zeal to, of early Christians,
+Papal illustrations of doctrine, 281. Poor priests, care of, in the ministry, 292. infallibility, the abomination of have no benefices, 287. desolation, 149. itinerant preachers, 13,32. laws preferred to the Gospel, 144. live like Christ and perversions of Scripture, 279. apostles, 294.
 
-Martyrs for Christ, 159, 160.
+**supremacy, Antichrist, 90.** persecuted by Antichrists Pardoners, impious pretences of, 7. clerks, 292. Pardons, introduced by the devil, 121. slandered and accused, 32. merchandise of, Antichrist's, 19. have no benefices, three sold by the priesthood, 16. reasons why, 287, 293. Parental duties by Scripture, 59. Pope an alien priest, 35. Parents condemn religion in their chil- and cardinals erred from the faith,
 
-zealous for the word of God, 275. Mary's better part not the contemplative life, 50. Mass, as the priest sings, 300. Masses, a thousand vain at death, 42. imposition by the sale of, 33. saying of, for souls in purgatory, Mass, or matins, to our Lady, a novelty ,50. Matrimonies, two in Scripture, 58. Meditative spirit, a, 46. Members of Christ's church, not the wicked, 248. Mendicancy not taught in Scripture, 188,
+## dren, 59. 146
 
-Mendicant friars offer vain prayers for money, 213. their blasphemous wickedness, 188. orders, false confessors, 48. hypocritical Pharisees, 7. Y
+to teach children the doctrine of pervert Scripture,155. Christ, 59. robbers of England, Parish churches appropriated by simony, 254.
 
-Mendicant orders, tbeir vending of pardons, 79. Mendicants, sturdy, should labour, 171. Men, ignorant of God*8 commandments, 2. Merits of friars, wicked pretences regarding, 194. men cannot be sold by friars, 1 94. none can be, with God, 198, 195. Ministers of Christ, their distinctions, 66.
+**268.** blasphemous power of pretended,
 
-yarious kinds of, 184. Monastic orders arose to reform the clergy, 199. Monks and canons, enemies of Holy Writ, forsake the Gospel, canons, and friars, Antichrists, 77.
+## should have religious 197
 
-origin of, 77. patronised by popes, 77. Moral virtues, 116.
+**ministers, 267.** blasphemy, 38.. Parishioners may withhold tithes from cardinals, and bishops, pervert bad ministers, 268. Gospel, 123. Parliament, Wycliffe's complaints to, 259. chief lord of the country, 35. Passion of Christ for us, 87. dispensation of the, 243. Pastoral office, 33. guilty policy of the, 196. Paternoster, 97. heresies regarding the, 75. Patience and cheerfulness, 123. his demand of the treasure of Patriotic reforms by Wycliffe, 30. kingdom, 295. Paul and Peter examples of labour, 228. duty on earth, 33. Pauper Rusticus, &c., 92. wicked policy, 38. Penance, three parts of, 178. maintaining confession for money, Penitence an act of the mind, 178. 181. Penitent, a true, habitually avoids sin, master of the emperor, 33.
 
-aided by the grace of God,
+**181.** may sink into condemnation, 146. counsel to the, 5. not the head of the church, 75. Perfect wisdom of Christ in the Gospel, possesses the mart of the world, 261. 124. Persecutions by friars of good men, 234. successor of Constantine, not
 
-National evils produced by friars, 255.
+## of Antichrist, 38. Christ, 37
 
-Neither man nor woman, &c., 99.
+Peter and Paul endowed to edify, 78. the pretended vicar of Christ, 196. never presumed to forgive sin, 180. the, should leave worldly lordship, never used the papal power, 78. 298.
 
-New rules of friars unlike the Gospel,
+not followed by the pope, 124. summoning without reason, not superior to other apostles, 76. Antichrist, 298. Pharisees and other sects to be destroyed, Popes accused falsely by friars, 195. 216. and cardinals, no concession Pilgrimages, pernicious novelties, 21. against Scripture, 147.
 
-220, 262, 263. Nota de sacramento altaris, 99. Novelties in religion injurious, 51.
+to Canterbury or Rome, 33. by indulgences, provoke God, 196. Pomp of the pope and cardinals, 190. cannot distribute merits of saints, Poor and helpless, injured by friars, 224. 195. Poor Caitiff, a collection of tracts, 1. cursing, 3.
 
-Obedience to God, motives to, 2.
+factors of, the friars are, 254. Prelates and lords should protect false priests, Antichrists, 31. people, 214. have no power to absolve, 79. support Antichrist, opposing each other, 8, 98. 288. their blasphemous pretences, 78, blaspheme by pretending 176. absolve, 22.
 
-man, only by God's law, Of Antichrist and his Meynee, 98. Of Antichrist's song in the church, 99. Of chastity, 92. Of clerks possessioners, 24-. Of contemplative life, 92. Offices in the church coveted for gain,
+civil dominion by the friars, elaim worship from the peopie, 200. 21.
 
-Of ghostly battle, 92. Of good preaching priests, 29. Of man's will, 92. Of perfect life, 65, 92. Of prayer, 99. Of pride, 94. Of temptation, 92. Of temptation of the fiend, 94.
+determinations not truth, 76. courts dens of thieves, larders civil and religious, 171, 172. hell, 291.
 
-Of the character of heaven, 92. Of the commandments, 92. Of the creed, 92. Of the decalogue, 98. Of the eight woes of God to friars, 98. Of the love of Jesus, 92, 97. Of the order of priesthood, 28. Of the paternoster, 92, 97. Of the seven deadly sins, 66. Of the seven heresies, 97. Of the seven works of bodily mercy, 98. Oil in confirmation unscriptural, 162. promotes health of the body, 182. On charity, 122. On confirmation, 161. On gluttony, 124. On humility, 121. On patience and meekness, 128. On pride, 121. On the virtues, 115. Opera caritatis, 98.
+or expounding, in preaching, cursing by the, 16.
 
-Orders, friars', confirmed by the pope,220.
+demand.more than apostles and merits sold by friars to the did, 10. people, 193. deny subjection to secular laws, efficacy of, by Moses, Joshua,. 20. &c., 44. the suffieiency of Scrip-its nature and efficacy, 18. ture, 21. not continual babbling, 50. ' derive their riches from sin, the means, living to salvation, evil, destroy Christendom, 22. 274.. exalt the laws of men above the most effectual, a holy life, 43. God's, 119. of a ploughman efficacious, 56. far from God's law, 16. of a priest will not remit sin, fine, curse, and imprison preach- 183.. ers, 18. priest, unworthy, not heard, 44. gladly prevent the Gospel, 11. need not licence from the God's vengeance on, 292. 32. grasp at temporalities, 170. better than prayer, 49. incur a heavy anathema, 170. by licence of the sovereign, leave preaching, 13. 222. martial destroy the souls edification the end of, 83. men, 20. hindered by the prelates, 86. obedience to, 9. of Christ, Jeremiah, and John, office of their courts, 291. 49. perjured in practiee, 36. priest an angel of God, 49. proof against them, 166.
 
-pretended perfection of, 219.
+## should be supported, 39. rob the people, 14
 
-in the primitive church, two only, many in the popish church, 164. monastic, how introduced, 199. of Dominic and Francis, 199. pretended sacrament of, 164. priestly, have subverted the church, religious, doctrine of the, 131.
+the Gospel a divine ordinance, seize and live on tithes, 166. 14. sins of, denounced by the pro-
 
-their policy, 122. several not necessary by Christ, Ordinal of Salisburj', 50. Ordinances of Christ to be maintained,
+## hindered by the phets, 55
 
-God to be studied, 51. men preferred to God's, 8. the friars subvert God's, Ordination, a bishop does not confer the Holy Ghost in, 164. pretences of, by bishops, blasphemy, 164, 165.
+**friars, 221.** slander poor preachers, 10. more useful than their duty in worldly things,
 
-Pain, the fruit of sin, 06. Papacy, schism in the, 8. Papal grants to church benefices, 287.
+## prayers, 24. 167
 
-Papal illustrations of doctrine, 281.
+the duty of, 18. wicked, not to be obeyed, 11. and foreknowledge, 112, worldly Antichrists of Satan, blind in God's law, bishop of Rome, the great, 19. cursed heretics, 31. worldly, a disciple of Antichrist, grasp at castles, 168. 168. have honour from and great possessioners, sins devil, 168.
 
-infallibility, the abomination of desolation, 149. laws preferred to the Gospel, 144. perversions of Scripture, 279. supremacy, Antichrist, 90. Pardoners, impious pretences of, 7. Pardons, introduced by the devil, 121.
+**ef, 57.** Presbyter and bishop identical, 164.
 
-merchandise of. Antichrist's, 19. sold by the priesthood, 1 5. Parental duties by Scripture, 69. Parents condemn religion in their children, 69. to teach children the doctrine of Christ, 59. Parish churches appropriated by simony, should have religious ministers, 267. Parishioners may withhold tithes from bad ministers, 268. Parliament, Wycliffe's complaints to, 259, Passion of Christ for us, 87. Pastoral office, 33. Paternoster, 97.
+and blasphemy of popes, 84. Purgatory, saints in, 74. of the mendicant friars, 121. Purvey, curate of Wycliffe, 81. a lanthorn to the people, 6. 2. confession to a, deceives the soul, Quaker principle on war 70
 
-Patience and cheerfulness, 123. Patriotic reforms by Wycliffe, 80. Paul and Peter examples of labour, 223. Pauper Rusticus, &c., 92. Penance, three parts of, 178. Penitence an act of the mind, 178. Penitent, a true, habitually avoids sin, counsel to the, 6. Perfect wisdom of Christ in the Gospel,
+**181.** Quiddity of a sacrament, 181, 132. duties of a, 47. emom regarding absolution, a Satanic presump- the 133 tion, 181.. Reasons of a Christian for believing, encroachments on magistracy, Reforms proposed by Wycliffe, 30, 34. Religion consists not in ceremonies, functions occasion taxes, 33. of friars, new, said to be possessioners most guilty of 290. blasphemy, 182. opposed to Christ's, services without piety vain, 44. 259. and friars in vain hired to pray,7. Religious fraternities hide their binding on earth, 78. 25. evil to be avoided, 44. orders disregard the forbid secular men to preach, 27. God, 119. good, teach God's law, 28 doctrine of the, have no power by Christ to take Rent of Antichrist, 18. ' tithes, 53. Rents of estates sent to our enemies, incompetent, obtain benefices for Repentance and confession, 65. gold, 288. Reward of virtue in another life, not preaching, do not pray ac- 115. ceptably, 50 Richard, king of England and France, pretend to make Christ's body and 259. blood, 276. Rich clerks of Chancery, 59. should be vicars of Christ, 70. Right of sanctuary, 34. sinful, to be put out of office, Rights of sanctua:y at Beverley, 263. Rock, a figure of Christ, 148. true, persecuted by friars, 228 Roger Bacon's estimate of preaching, wicked, punished, 173 Roman Antichrist, 77. worldly, busy about secular pro- court gained by money, 238. fits, 269. Romarism displaces Scripture, 45. demand tithes unjustly, Roman pontiff, the great Antichrist, 28 Rone, gold carried to, for church rule for the public welfare, 265. fices, 287. and burning by the pope and impious pleas of the friars at, 61 el Romish ecclesiatica! zbuses, 92. sects in religion adulterous, 216 Rotten habits of the friars, 242. superfluous, 263 Rule of Christ suited to all ages of a friar never to be left, 222.; people, 260. of man to sin 125; of life for each man, 46. of Daniel, 274 of religion by Christ most perfect, good, worthy of a virtuous man to 260. for the, 114 Ruling clergy, bailiffs rather than bishops, a fraud of popery, 18, 19. 51. eruelty of the pope to souls in, 19. " Sabbath, three ways of keeping the, masses for souls in, 33,; works for the, 6.
 
-Persecutions by friars of good men, 234.
+cannot be bread as friars say, Scandalous practices to be abolished, 30. 215. Schism in the papacy, 8. of God's body, 302. favours truth, 64. of matrimony, 175. Science of God, 66. of sacraments, Christ the,157. Scholastic method of preaching, 81. of orders, what pretended, 163. Scripture enjoins labour, not begging, of the altar, how the body of 223.
 
-of Antichrist, 38. Peter and Paul endowed to edify, 78. never presumed to forgive sin, 180. never used the papal power, 78. not followed by the pope, 124. not superior to other apostles, 76. Pharisees and other sects to be destroyed,
+**Christ in, 209.** testimonies to true doctrine, testimony of 278, 276, 281, 282.
 
-Pilgrimages, pernicious novelties, 21.
+**Scripture,281.** Scriptures our only rule of faith, 129. Wycliffe's con- testimony of, absolute, 157. fession, 300, Sects of friars, new, created, 262.
 
-to Canterbury or Rome, 33. Pomp of the pope and cardinals, 190. Poor and helpless, injured by friars, 224. Poor Caitiff, a collection of tracts, 1.
+**301.** or religious orders neglect God's of the bread, 72. law, 119. of the host, 78. Secular lordship of the clergy, evils of, 24. errors, origin of, 134. heresies as decided by the Church of 24.
 
-Poor priests, care of, in the ministry, 292. have no benefices, 287. itinerant preachers, 13,32. live like Christ and his apostles, 294. persecuted by Antichrist's clerks, 292. slandered and accused, 32. have no benefices, three reasons why, 287, 293. Pope an alien priest, 35.
+**Rome, 133.** lords may deprive prelates, 264. doctrine of the, 131. ' may not take from the heresies regarding, 134. church, 40. lead to idolatry, 133.! rule by God's law, 266. manifold frauds by, 133. should support God's law, men, 236. 27. may be taken by wicked men forbidden to preach, a heresy, of Antichrist, 140. power, rise of, in the church, 74. the woman and beast, 281.: Self-denial necessary in the clergy, 124. canonised, not unstained by sin, Senses of animals keener than in man,113. 170. i our, true regarding the eucharist, festivals, useless, 128.! 141. in heaven bestow no merits on Sentence. See Curse, 31. men, 195. Septem mortalia Peccata, 92, 98. not to be followed, but Christ,298. Sermo in festo animarum, 93. prayer to, improper, 128.! Sermons of Wycliffe, 79. liturgy, substituted for the Servants and lords, their degrees and Gospel, 270. " duties, 52. Ordinal, 50. Service of God requires not grand buildUse hinders the Bible, 51. ings, 233.
 
-and cardinals erred from the faith, pervert Scripture,! 55.
+[Salvation of man only by the passion of reward of, 48.]
 
-robbers of England, blasphemous power of pretended, blasphemy, 38. cardinals, and bishops, pervert the
+[Christ, 197. Seven Sacraments, 92.]
 
-Gospel, 123. chief lord of the country, 35. dispensation of the, 243. guilty policy of the, 196. heresies regarding the, 75. his demand of the treasure of the kingdom, 295. duty on earth, 33. wicked policy, 38. maintaining confession for money, master of the emperor, 33. may sink into condemnation, 146. not the head of the church, 75. possesses the mart of the world, successor of Constantine, not of
+[to believers by Christ alone,179. works of inercy, 92, 94.]
 
-Christ, 37. the pretended vicar of Christ, 196. the, should leave worldly lordship, summoning without reason, is Antichrist, 298. Popes accused falsely by friars, 195.
+[without baptism possible, 157, Signs in religion, abuse of, 158. 160.. Silvester, pope, secularises the church, 75. priestly absolution, 179.; Simonists, traffic of, 194.]
 
-and cardinals, no concession to, against Scripture, 147. by indulgences, provoke God, 196. cannot distribute merits of saints, cursing, 3.
+[Satan and his priests maintain sin, 54.; Simon Magus, example to simonists,]
 
-Popes, Udbon oi, the frUn are, 2^4^ fidie pricitSy Antiohritts, SI. hive no power to alMoWe, 79. oppoang eeeh other, 8, 98. their blasphemous pretences, 78, 17«. ciTil dominion by the friars, determinations not truth, 76. Possessioa, eivil and religious, 171, 172. Postillatfaig, or expounding, in preaching,
+[his policy by Antichrist, 149.! 16,75.]
 
-Prajer and merits sold by friars to the people, 193. effieaey o^ by Moses, Joshua, ftc., 4t. its nature and effieaey, 18. not continual babbling, SO, the meana, living to saltation, the most effectual, a holy life, 43. Prayers «f a ploughman effi eaei ous, £6. of a priest will not remit sin, Praying priest, unworthy, not heard, 44. Preachers need not licence from the fiend, 82. Preaching better than prayer, 49.
+[loosed occasions heresy, 301. ' Simony and extortion of prelates, 57.]
 
-by licence of the sovereign, edification the end of, 83. hindered by the prelates, 86. of Christ, Jeremiah, and John, priest an angel of God, 49.
+[rules by the friars, 208.! and usury of the friars, 243.]
 
-should be supported, 39. the Gospel a divine ordinance, hindered by the friars, 221. more useful than prayers, 24. the duty of, 13. Predestination and foreknowledge. 112,
+[why his sin not forgiven? 127. benefices purchased by, 287.]
 
-114,121. Prelate, bishop of Rome, the great, 19. worldly, a disciple of Antichrist, Prelates and great possessioners, sins
+[Satisfaction for sin made by Christ, 151. connected with sacraments, 33.]
 
-Prelatei and lords ahonld protect At people, 214. support Anddirist, blaspheme by pretending to absolve, 22. elaim worship fnm die people, vouts dens of thierea, larders of hell, 291. cursing by the, 16. demand .more than apostles did, 10. deny anlijeotion to seeolarlaws, the sufficiency of Scripture, 21. derive their riches from sin, 16. evil, destroy Christendom, 22. exalt the lawa of men above
+[Saved, number of the, 128. in the court of Rome, 15.]
 
-Ood'a, 119. &r from Ood'a law, 16. fine, enrse, and imprison preachers, 18. gladly prevent the Gospel, 11. Ood's vengeance on, 292. graap at temporalities, 170. incur a heavy anathema, 1 70. leave preaching, 13. martial destroy the souls of men, 20. obedience to, 9. office of their courts, 291. perjured in practice, 36. proof against them, 166. rob the people, 14. seize and live on tithes, 166. sins of, denounced by the prophets, 55. slander poor preachers, 10. their duty in worldly things, wicked, not to be obeyed, 11. worldly Antichrists of Satan, 1 1 . blind in God's law, 1 1. cursed heretics, 31. gprasp at castles, 1 68. have honour from the devil, 168. Presbyter and bishop identical, 164.
+Simony, its prevalence, 14. Statutes of men preferred to God'slaw, of the pope and priests, 75. Sufferings for Christ, 88.
 
-Pride and blasphemy of popes, 84. of the mendicant frian, 121. Priett a Unthorn to the people, 5.
+## claiming all bene- the law, 120
 
-confession to a, deceives the soul, duties of a, 47. Priestly absolution, a Satanic presump) tion, 181. encroachments on magistracy, functions occasion taxes, 33. possessioners most gpilty of blasphemy, 182. services without piety vain, 44. Priests and friars in vain hired to pray, 7. binding on earth, 78. evil to be avoided, 44. forbid secular men to preach, 27. good, teach God's law, 28. have no power by Christ to take tithes, 53. incompetent, obtain benefices for gold, 288. not preaching, do not pray acceptably, 50. pretend to make Christ*s body and blood, 276. should be vicars of Christ, 70. sinful, to be put out of office, true, persecuted by friars, 228. wicked, punished, 173. worldly, busy about secular profits, 269. demand tithes unjustly, Princes rule for the public welfare, 265. Prisoning and burning by the pope and prelates, 61. Private sects in religion adulterous, 216.
+**fices, 79.** Summa Theologica, 95, 102. Sin against the Holy Ghost, 66, 120. Sunday the first day and the last day, cannot be taken away by priestly Supererogatory merits of saints pretended, rites, 188. 196. forgiveness of, 66. Swearers in dreadful danger, 4. God cannot enjoin it on man, 121. Swearing, profane, guilty of, 4. its nature, 120. Sylvester, pope, accepted imperial endowpenalty, 121. ment, 125, 126. mortal, 120. canonised, 169, 170. satisfaction for, 85.. sinned in accepting the proneness of man to, 126. dowments, 172. Sins in prelates to be denounced, 55.
 
-superfluous, 263. Profession of a friar never to be left, 222. Proneness of man to sin, 1 25. Prophecy of Daniel, 274. Public good, worthy of a virtuous man to die for the, 114. Purgatory, a fraud of popery, 18, 19.
+of our first parents, 66. Temporalities of bishops and abbots, venial, human inventions, 120, 146. 177, 265. Six manners of consenting to sin, 92. Temporal lords have power to correct Skills, or reasons, for lords' duties, 56. abuses, 175. Soldiers, Christian, 201. should defend people Sophistry in argument for the papal host, against friars, 213. 144, 152. try the spirits of friars, Soul of man, its nature, 124. 215. Sovereign curates to require only a liveli- vindicate Christ, 173. hood, 267. things impede the servant Speaking, various, to keep the Sabbath, 5. Christ, 171. Speculum de Antichrist, 22. Temptations of Satan, 66. Peccatris, 93. The great Sentence of the Curse
 
-cruelty of the pope to souls in, 19. masses for souls in, 33.
+## Secularum Dominorum, 93. pounded, 31
 
-Purgatory, saints in, 74. Purvey, curate of WyclifFe, 81.
+Spencer, bishop of Norwich, a crusader, Thieves, friars are, 244. 18, 19. Thinking of God on the sabbath, 4. Spiritual appetite and disease, 86. “This bread,” meaning by our Saviour, body, what? how made? 277. 134, 135.
 
-Quaker principle on war, 70. Quiddity of a sacrament, 181, 132.
+help more than bodily to be This is my body," what Christ meant
 
-errors regarding the, 133.
+## afforded, 223. by, 277
 
-Reasons of a Christian for believing, 62. Reforms proposed by "Wycliffe, 30, 31. Religion consists not in ceremonies, 43. of friars, new, said to be perfect, opposed to Christ's, Religious fraternities hide their books, orders disregard the law of God, 119. doctrine of the» 199. Rent of Antichrist, 1 8. Rents of estates sent to our enemies, 264. Repentance and confession, 65. Reward of virtue in another life, 114,
+impurity of friars, 254. Three things destroy the world, 48. St. Ambrose, 72. Tithes and offerings may be withdrawn St. Augustine, 14, 24, 50, 60, 61, 66,72, 266. 129, 137, 139, 140, 148, 152, 172. occasion strife St. Austin condemns begging, 223. cursing, 293. St. Bartholomew, 247, 249, 267, 287. claimed by a bull of Antichrist, St. Bernard, 24, 33, 37, 65,99, 267, 296. one priest of a coun-
 
-Richard, king of England and France,
+## speaketh thus to the pope, try, 28
 
-Rich clerks of Chancery, 59. Right of sanctuary, 34. Rights of sanctua**y at Beverley, 41. Rock, a figure of Christ, 148. Roger Bacon's eslimate of preaching, 81. Roman Antichrist, 77.
+**99.** have no authority from Christ, St. Chrysostom, 44, 99, 249. not claimed by Christ or his aposSt. Gregory, 14, 33, 44, 49, 50, 65, 83, tles, 39. 170, 267, 287. due to wicked priests, 52. St. Isidore, 56. required by Christianity, 40. St Jerome, 24, 134, 137, 138, 164, of Canaan supported the priest- 287. hood, 40.
 
-court gained by money, 238. Romanism displaces Scripture, 45. Roman pontiff, the great Antichrist, 1 24. Rome, gold carried to, for church benefices, 287. impious pleas of the friars at, 243. Romish ecclesiatioal abuses, 92. Rotten habits of the friars, 242. Rule of Christ suited to all ages and people, 2C0. of life for each man, 46. of religion by Christ most perfect, Ruling clergy, bailiffs rather than bishops,
+## Index
 
-Sabbath, three ways of keeping the, 5. works for the, 6,
+required by the priests, 39. Trinity, the Uncreated, 127. taken by a new law of sinful men, True priests deserve support by 28.! ple, 293. de Antichristo, 95. ' opposed by Antichris's Pseudo Freris, 98. i clerks, 289, 292. Statu Innocents, 95. Turning from sin to God, 66. Tempore, 95. Evangelii de Sermonem,&c., Urban VI., Wycliffe's letter to, 95. the pope, his war, 13, 69. in Sermonem Domini, 95. Usury of the friars, 243. of the apostles, its true institution, Vending pardons by priests, 53. human, injures the Gospel,260. Vengeance of God by wicked priests, of friars preferred to God's Venial sins, the title, an invention law, 225. man, 46. of men vain, 8. what are they? 46. raised above Scripture, 45. Vicar of Christ, the pope, if he of manuscripts occasion Christ, 298. 97. the pretended, supported a heresy, 144, 146. by war, 238. and impanation, ab-, the Roman pontiff surdities, 151.: tends, 124. a special falsehood, of Peter, no priest nor prelate, 137. of the king of pride, 124. held by the Roman- Vicars of Antichrist act diabolically,
 
-Sacrament cannot be bread as friars say, of God's body, 302. of matrimony, 175. of sacraments, Christ the,l 57. of orders, what pretended, 1 63. of the altar, how the body of Christ in, 209. testimony of Scripture,231. Wycliffe's confession, 300, of the bread, 72. of the host, 78. Sacramental errors, origin of, 134. Sacraments, as decided by the Church of Rome, 133. doctrine of the, 131. heresies regarding, 134. lead to idolatry, 133. manifold frauds by, 133. may be taken by wicked men, 235. of Antichrist, 140. the woman and beast, 281. Saints canonised, not unstained by sin, festivals, useless, 128. in heaven bestow no merits on men, 195. not to be followed, but Christ,298. prayer to, improper, 128. Salisbury liturgy, substituted for the Gospel, 270. Ordinal, 50.
+[ists, 136, 137. ^ 214. how did the error Vices of the clergy and mendicants, 9. arise? 144 Vicious persons employed as singers, 51. not h ld by Wycliffe, Virginity commendable, 58. 72.; Virtue of charity necessary for heaven, when does it take 118. place? 137. rewarded in another life, 114.]
 
-Use hinders the Bible, 51. Salvation of man only by the passion of Christ, 197. to believers by Christ alone, 1 79. without baptism possible, 157, priestly absolution, 1 79. Satan and his priests maintain sin, 54. his policy by Antichrist, 149. loosed occasions heresy, 301. rules by the friars, 208. why his sin not forgiven ? 127. Satisfaction for sin made by Christ, 151. Saved, number of the, 128.
+[See Eucharist and Sacrament., Virtues, cardinal and theological, 116.]
 
-Scandalous practices to be abolished, 30. Schism in the papacy, 8.
+["I'reasons, three, prevalent, 15.! Virtuous to die for the public good, 11H]
 
-favours truth, 64. Science of God, 66. Scholastic method of preaching, 81. Scripture enjoins labour, not begging, testimonies to true doctrine, 273, 276, 281, 282. Scriptures our only rule of faith, 129. testimony of, absolute, 157. Sects of friars, new, created, 262.
+[Treasure of England may not be sent tc Vita Sacerdotum, 7) the pope. 296.]
 
-or religious orders neglect God's law, 119. Secular lordship of the clergy, evils of, 24.
+[the kingdom wasted by friars, Wafer of the sacrament, what is it? 132. 251. War unlawful, 70.]
 
-heresies of^ lords may deprive prelates, 264. may not take from the church, 40. rule by God's law, 266. should support God's law, 9. men forbidden to preach, a heresy, power, rise of, in the church, 74. Self-denial necessary in the clergy, 124. Senses of animals keener than in man,l 1 3. our, true regarding the eucharist, Sentence. See Curses 31. Septem mortalia Peccata, 92, 98. Senno in festo aniiuarum, 93. Sermons of Wycliffe, 79. Servants and lords, their degrees and duties, 52. Service of God requires not grand buildings, 233. reward of, 48. Seven Sacraments, 92.
+[Trialogus of Wycliffe, a dialogue be- Wars encouraged by the friars, 238, 239.]
 
-works of mercy, 92, 94. Signs in religion, abuse of, 158. Silvester, pope, secularises the church, 75. Simonists, traffic of, 194. Simon Magus, example to simonists,
+[tween Truth, Falschood, and Wisdom, Ways of life, broad and narrow, 281.]
 
-16, 75. Simony and extortion of prelates, 57. and usury of the friars, 243. benefices purchased by, 287. connected with sacraments, 33. in the court of Rome, 15.
+[108 two exhibited in the Gospel,]
 
-Simony, iU prevalence, 14.
+[Trinity, God in illustrated. by man's 273. nature, 111, 112. Wedded men and wise, 59, 240. the first cause of all Westminster, right of sanctuary at. +1. things, 110. Wheels of Satan's chair pervert Scripture, three co-equal Per- 61, 62. sons, 111. i Wicked laws of worldly prelates, 12. to be worshipped, 356. men not members of Christ's]
 
-of the pope and priests, 75.
+[Father, Son, and Holy Ghost, church, 218.]
 
-claiming all benefices, 79. Sin against the Holy Ghost, 66, 120. cannot be taken away by priestly rites, 188. forgiyeness of, 66. God cannot enjoin it on man, 121. its nature, 120. penalty, 121. mortal, 120. satisfaction for, 85. the proneness of man to, 126. Sins in prelates to be denounced, 55, of our first parents, 66. venial, human inventions, 120, 146. Six manners of consenting to sin, 92. Skills, or reasons, for lords' duties, 56. Soldiers, Christian, 201. Sophistry in argument for the papal host,
+[Mt. prelates enemies of rovatty, 35.]
 
-144, 152. Soul of man^ its nature, 124. Sovereign curates to require only a livelihood, 267. Speaking, various, to keep the Sabbath, 5. Speculum de Antichrist, 22. Peccatris, 93.
+prelates sell souls for money, 14. Wycliffe's demand respecting tithes, show themselves Anti- desire of the king, 302.
 
-Secularum Dominorum, 93. Spencer, bishop of Norwich, a crusader,
+**christs, 14.** discrimination, 19. kindness of Christ, 5. doctrine of the Lord's Supper, of God, Christ the true, 127. 232.
 
-13, 19. Spiritual appetite and disease, 86.
+designed for all languages, early writings less correct, 275. teach saint disparaged by prelates, 56. ship, 3. the means of saving wis- error regarding purgatory, dom, 276. estimate of preaching, 80. of supererogation, a papal heresy, itinerant preachers, 85.
 
-body, what? how made 7 277. help more than bodily to be afforded, 223. impurity of friars, 254. St. Ambrose, 72. St. Augustine, 14, 24, 50, 60, 61, 66, 72,
+judgment touching the clergy injure the kingdom, 34. title, 295.
 
-129, 137, 139, 140, 148, 152, 172. St. Austin condemns begging, 223. St Bartholomew, 247, 249, 267, 287. St. Bernard, 24, 33, 37, 65,99,267,296. speaketh thus to the pope, St Chrysostom, 44, 99, 249. St Gregory, 14, 33, 44, 49, 50, 65, 83,
+rebels against the king, mode of preaching, 82.
 
-170, 267, 287. St Isidore, 56.
+**35.** patriotic reforms, 30, 31. jurisdiction belongs not to prayer against Antichrist, preachers, 24. 62. prelates hinder the Gospel, 15. against the clerk of injure men’s souls, 12. christ, 26.
 
-St Jerome, 24, 134, 137, 138, 164,
+pervert the word of for the pope, 299. God, 55. for the saints, 62. slander poor priests, 13. requirements of Christians, their false law, 17. resembled Calvin in genius, their mode of persecu- 109.
 
-Statutes of men preferred to God's law, 27. Sufferings for Christ, 88.
+**tion, 17.** sermons, their number, 79, priests, their various sins, 268. Trialogus, 108. wrote against Wycliffe, 131, works extinct, 103, 109. in the library at Vienna, publie, jn keeping the Sab- 101.
 
-the law, 120. Sunmoa Theologica, 95, 102. Sunday the first day and the last day, 5. Supererogatory merits of saints pretended,
+**6.** Trinity College, Holy, falsified by friars, 241,244. bridge, 103. an extraordinary character, 109. Trinity College, concerning priests, 40. lin, 97. his advice against the friars, writings in English, 1.
 
-Swearers in dreadful danger, 4. Swearing, profane, guilty of, 4. Sylvester, pope, accepted imperial endowment, 125, 126. canonised, 169, 170. sinned in accepting endowments, 172.
+**210. 214.** too tedious to to Pope Urban VI., entire, 1.
 
-Temporalities of bishops and abbots,
+## 298. Wyckett by Wycliffe, 271
 
-177, 265. Temporal lords have power to correct abuses, 175. should defend people against friars, 213. try thie spirits of friars, vindicate Christ, 173. things impede the servant of Christ, 171. Temptations of Satan, 66. The great Sentence of the Curse Expounded, 31. Thieves, friars are, 244. Thinking of God on the sabbath, 4. " This bread," meaning by our Saviour,
+character by Knyghton, 107. complaint of the curates, 27. Young children stolen by the friars, 290, 308. persons deluded by the priests, confession of the sacrament, by the priest,
 
-134, 135. " This is my body," what Christ meant by, 277. Three things destroy the world, 48. Tithes and offerings may be withdrawn occasion strife and cursing, 293. claimed by a bull of Antichrist, 44. one priest of a country, 28. have no authority from Christ, 38. not claimed by Christ or his apostles, 39. due to wicked priests, 52. required by Christianity, 40. of Canaan supported the priesthood, 40.
+## Index to the Life of Wycliffe
 
-Tithes required bjr the prietu, 39.
+[ABSOLUTION of England by the pope for Ashton, the Lollard, a popular preacher,]
 
-Uken by a new Uw of tinful men, TracUtut de Antichristo, 95. Paeudo Freria, 98. Statu Innoceotae, 95. Tempore, 95.
+[money, xxii. Ixxxi.]
 
-Evangelii de Sermoiiem,&c., in Sermonem Domiiii, 95. Trade of the apostles, its true institution,
+[papal and priestly, fearful appeals to the people in English,]
 
-Tradition, human, injures the Go8pel,260. of friars preferred to God's law, 225. «f men vain, 8. raised above Scripture, 45. Transcribers of manuscripts occaMon confusion, 97. Transubstantiation, a heresy, 144, 146.
+[delusion of, liii. xxxiii.]
 
-■and impanation, absurdities, 151. a special falsehood, held by the Romanists, 136, 137. how did the error arise? 144. lut h '1(1 by Wycliffe,
+[Admonition of Archbishop Courtney to conducts his own defence before]
 
-•when does it take place? 137. See Eucharist and Sacrament. 'I'reaBonH, throe, prevalent, 1 5. Treasure of En^•land may not be sent to the pope. 296. the kingdom wasted by friars, Trialogus of NVycliHb, a dialogue between Truth, Fals'J.ood, and Wisdom, Trinity, (lod in illustrated by mans nature. 111, 112. the first cause of all things, 1 10. three co-equal Persons, 111. to ho worshipped, 356. Father, ^im, ind Holy Ghost.
+[Dr. Rigge, lxxx. the synod, Ixxxii.]
 
-Trinity, the Uncmted* 127.
+[Alanus Magnus on the absurdities of his appearance, Ixxxi.]
 
-True priests deserve support by the people, 293. opposed by Antichrist'i derks, 289, 292.
+[transubstantiation, Ixvi. satisfles his judges, Ixxxiii.]
 
-Turning from sin to God, 66.
+[Albigenses and Vaudois hold the Protest- the trial of, xxxix, Ixxxi.]
 
-Urban VI., Wycliflfe's letter to, 298.
+[ant doctrine of the eucharist, xv, lxvi. ' A sort of answer to the bull,” li.]
 
-the pope, his war, 18, 69. Usury of the friars, 248.
+[Aldhelm, bishop of Sherborne, the first Athanasian Creed. See Creed, lxi.]
 
-Vending pardons by priests, 58. Vengeance of God by wicked priests, 9. Venial sins, the title, an invention of man, 46. what are they ? 46. Vicar of Christ, the pope, if he live like
+[translator of the Psalter in Anglo- Authority of the crown regarding eccle-]
 
-Christ, 298. the pretended, supported by war, 238. the Roman pontiff pretends, 124. of Peter, no priest nor prelate, 180. of the king of pride, 1 24. Vicars of Antichrist act diabolically,
+[Saxon, lvii. siastical ^ property,]
 
-Vices of the clergy and mendicants, 9. Vicious persons employed as singers, 51 Virginity commendable, 58. Virtue of charity necessary for heaven, rewarded in another life, 1 1 4. Virtues, cardinal and theological, 116. Virtuous to die for the public good, 1 1 I-. Vita Sacerdotum, 71
+[Alfred, king, a translator of Scripture, lix. xlix.]
 
-Wafer of the sacrament, w hat is it ? i 32. War unlawful, 70.
+[Anglo-Saxon clergy, their opinions, lxvi. magistrate relating to the]
 
-Wars encouraged by the friars, 238, 239. Wavs of life, broad and narrow, 284.
+[translations of the Scrip- wealth of the church,]
 
-two exhibited in the Gospel, Wedded men and wives, 59, 240. Westminster, right of sanctuary at, 41. Wheels of Satan's chair pervert Scripture,
+[tures, lvii, lix. xlix.]
 
-61, 62. Wicked laws of worldly prelate's 12.
+[Norman clergy, their competency, Avignon, residence of the pope at, xiii.,]
 
-men not members of Christ's church. 21-8. prelates onoinio'i ()t"ro\aliy. ."JJ.
+[lix. xxv.]
 
-Wicked prelates sell souls for money, 14.
+[Antichrists children, the prelates are,]
 
-show themselves Antichrists, 14. Wonderful kindness of Christ, 5. Word of God, Christ the true, 127.
+[xci. Baliol College, Wycliffe warden of, xvi.]
 
-designed for all languages, disparaged by prelates, 55. the means of saving wisdom, 276. Works of supererogation, a papal heresy,
+[Antichrist, sustenance for, in the papal Bede, the venerable, a Saxon, x, lvii.]
 
-Worldly clergy injure the kingdom, 34. rebels against the king, jurisdiction belongs not to preachers, 24. prelates hinder the Gospel, 15. injure men's souls, 12. pervert the word of
+[doctrine, li.. translated the Gos-]
 
-God, 55. slander poor priests, 1 3. their false law, 17. their mode of persecution, 17. priests, their various sins, 268. Woodford wrote against Wycliffe, 131,
+[the pope's dignity tends to pel of John, lviii,]
 
-Worship, public, jn keeping the Sabbath, 6. Writ, Holy, falsified by friars, 241,244. Wycliffe an extraordinary character, 109. concerning priests, 40. his advice against the friars, 210,214. to Pope Urban VI., Wycliffe's character by Knyghton, 107. complaint of the curates, 27. confession of the sacrament, 290, 308.
+[advance, li. Benet College, Cambridge, lviii, lix.]
 
-Wycliffe's demand respecting tithes, 40. desire of the king, 302. discrimination, 19. doctrine of the Lord's Supper, early writings less correct, 2.
+[Apostles’ creed. See Creed, lxv. Berengarius, a French prelate, lxiv.]
 
-teach saint worship, 3. error regarding purgatory, 33. estimate of preaching, 80. itinerant preachers, 85. judgment touching the king's title, 295. mode of preaching, 82. patriotic reforms, 30, 31. prayer against Antichrist, 16, against the clerk of Antichrist, 26. for the pope, 299. for the saints, 62. requirements of Christians, 129. resembled Calvin in genius, sermons, their number, 79, 80. Trialogus, 108. works extinct, 103, 109.
+[Appeal to the pope regarding Canter- entertains Protestant opin-]
 
-in the library at Vienna, Trinity College, Cambridge, 103. Trinity College, Dublin, 97. writings in English, 1.
+[bury Hall, Oxford, xvii. ions of the eucharist, lxiv,]
 
-too tedious to print entire, 1. Wyckett by Wycliffe, 271.
+[Arguments of Wycliffe for the general is compelled to appear at]
 
-Young children stolen by the friars, 226.
+[knowledge of Scripture, 1xiii. Rome thrice in defence]
 
-by the priest, 56. persons deluded by the priests, 56,
+[Aristotle, his genius in Duns Scotus, v. of his opinions, lxiv.]
 
-TO THE LIFE OP WYCLIFFE,
+[Armachanus. See Fitz-Ralph, xiii. is compelled to submit to]
 
-Absolution of England by the pope for money, xzii. papal and priestly, fearful delusion of, liii. Admonition of Archbishop Courtney to
+[Arundel, Archbishop, condemns the spiritual censures by a]
 
-Dr. Rigge, Ixxx. Alanus Magnus on the absurdities of transubstantiation, Ixvi. Albigenses and Vaudois hold the Protestant doctrine of the eucharist, Ixt, Ixri. Aldhelm, bishop of Sherborne, the first translator of the Psalter in AngloSaxon, Irii. Alfred, king, a translator of Scripture, lix. Anglo-Saxon clergy, their opinions, IxTi. translations of the Scriptures, Wii, lix. Norman clergy, their competency, Ux. Antichrist's children, the prelates are,
+[translating of Scripture by Wycliffe, lxi. council at Paris, lxiv.]
 
-Antichrist, sustenance for, in the papal doctrine, IL the pope's dignity tends to advance, IL Apostles' creed. See Creed, Ixv. Appeal to the pope regarding Canterbury Hall, Oxford, x? ii. Arguments of Wycliffe for the general knowledge of Scripture, Ixiii. Aristotle, his genius in Duns Scotus, ▼. Armachanus. See Fitx-Ralph, xiii. Arundel, Archbishop, condemns the translating of Scripture by Wycliflfe, Ixi.
+Berengarius, his death and character, Canterbury Hall, its warden, Wyclif,
 
-Ashton, the Lollard, a popular preacher, appeals to the people in English, conducts his own defence before the sjrnod, IxxxiL his appearance, Ixxxi. satisfies his judges, Ixxxiii. the trial of, xxxix, Ixxxi. " A sort of answer to the bull," li. Athanasian Creed. See Creed, Ixi. Authority of the crown regarding ecclesiastical property, magistrate relating to the wealth of the church, Arignon, residence of the pope at, xiii.,
+## lxiv
 
-Baliol College, Wycliffe warden of, xri. Bede, the venerable, a Saxon, x, Ivii.
+his opinions spread in Cardinals, college of, and the pope, France, Italy, England, cannot disqualify any man,
 
-translated the Gospel of John, IviiL Benet College, Cambridge, Iviii, lix. Berengarius, a French prelate, Ixiv.
+## and Germany, lxiv. xlv
 
-entertains Protestant opinions of the eucharist, Ixiv. is compelled to appear at Rome thrice in defence of his opinions, Ixiv. is compelled to submit to spiritual censures by a council at Paris, Ixiv.
+king of France provoked by may be remiss in not corhis opinions, lxiv. recting the pope, xlviii. Bernard, St., his authority, x. of Rome, church dignitaries Berton, William de, chancellor of Ox- in England, xxxiii. ford, opposes Wycliffe's doctrine of the papal, new creation of, xxxiii. eucharist, lxiv. Carmelite friar, Dr. Stokes, an opposer Bible, Wycliffe labours that all might " of Wycliffe, Ixxiv. read in English, lvi. preacher against Wye-Binding and loosing by a priest, when he liffe, Ixxiv.
 
-Berengarius, his death and character, his opinions spread in France, Italy, England, and Germany, Ixiv. king of France provoked by his opinions, Ixiv. Bernard, St., his authority, x. Berton, William de, chancellor of Oxford, opposes Wycliffe's doctrine of the eucharist, Ixiv. Bible, Wyclilfe labours that all might read in English, Ivi. Binding and loosing by a priest, when he obeys the law of
+obeys the law of Cedman, a Saxon monk, a scriptural
 
-Christ, xlvi. the pope or a prelate cannot be as he pleases, Birkbeck, author of Protest. Evidence, ii Bishoprics in England disposed of by the pope, xxxiv. Bishops and doctors in convocation at Oxford, Ixxxvii. of Rome may be corrected, even by the laity, ^ii. resign their offices at court, lilackfriars, London, a synod meets at, to condemn WvclifTe, Ixxi. Blasphemy of transubstantiation, Ixxxvii. Bodleian Library at Oxford, Iviii, lix. Bolton, a commissioner to the pope,
+## Christ, xlvi. poet, lvii
 
-Bradwardine, Dr., a professor at Oxford, V. Bread in the eucharist not changed,
+the pope or a pre- an epitomiser of Scripture,
 
-Ixvii, Ixxxviii, Ixxxix. Brightwell, Willi im, Dr., appears before the synod at Blackfriars, Ixxviii. Bulls of the pope regarding benefices in
+## late cannot be lviii
 
-England, XXX. Burley, Sir Simon, a messenger from the queen's mother, xxxix. Burton, William de, commissioner to the pope, xxix.
+as he pleases, Censures, spiritual, should not be in
 
-Canterbury, archdeacon of, a Romish eardinal. x?C\iii.
+## xlvi. revenge, xlviii
 
-Canterbury Hail, its warden, Wydifi, x«i. Cardinals, college of, and the pope, cannot diaqujdify any mta, may be remiss in not eor- reeling the pope, xlviiL of Rome, church dignitaiiei in England, xxxilL papal, new creation oi^xxxiiL Carmelite friar, Dr. Stokes, an opposer of Wycliffe, Ixxiv. preacher against Wyeliffe, Ixxiv. Cedman, a Saxon monk, a scriptural poet, Ivii. an epitomiser of Scripture, Censures, spiritual, should not be in revenge, xlriii. Chancellor of the university silences
+Birkbeck, author of Protest. Evidence, ii. Chancellor of the university silences Bishoprics in England disposed of by the Wycliffe at Oxford, lxxi. pope, xxxiv. Charter for civil inheritances for ever, Bishops and doctors in convocation at impossible to be granted, xli.
 
-Wycliffe at Oxford, IxxL Charter for civil inheritances for ever, impossible to be granted, xli. Chaucer's character of the friars, Ivi,
+**Oxford, Ixxxvii.** Chaucer's character of the friars, lvi, of Rome may be corrected, lvii.
 
-Christ's presence in the sacrament, how ?
+even by the laity, xlii. Christ's presence in the sacrament, how? resign their offices at court, Ixxxviii, Ixxxix.
 
-Ixxxviii, Ixxxix. Churchmen sought to be excluded from civil offices, xxv. Civil power, the, supported by Wycliife,
+**xxvii.** Churchmen sought to be excluded from Blackfriars, Loudon, a synod meets at, civil offices, xxv. to condemn Wycliffe, Ixxi. Civil power, the, supported by Wycliffe, Blasphemy of transubstantiation, xxxvii. vii. Bodleian Library at Oxford, lviii, lix. Claims of the ciergy extravagant, xlix. Bolton, a cominissioner to the pope, pope in England peri. xxix. cious, xxii. Bradwardine, Dr. a professor at Ox- Clement IV. claims church benefices in ford, v. England for his cardinals, xxviii. Bread in the eucharist not changed, Clergy and laity equally interested in the Ixvii, Ixxxviii, Ixxxix. Scriptures, Ixiii. Brightwell, William, Dr., appears before their pretence of ubjection only the synod at Blackfriars, Ixxviii. to Rome, xix. Bulls of the pope regarding benefices in the, yielding to the pope, withEngland, xxx. draw allegiance from their Burley, Sir Simon, a messenger from the sovereign, xliv. queen's mother, xxxix. Clifford, Sir Lewis, messenger to the Burton, William de, commissioner to the synod at Lam-pope, xxix. beth, xxxviii.
 
-Claims of the clergy extravagant, xlix.
+messenger to the Canterbury, archdeacon of, a Romish London citicardinal. xxxiii. zens, xxxi.
 
-pope in England pernicious, xxii. Clement IV. claims church benefices in
+Commission of Edward IIL. to the pope, Dominion given ministerially only, xliii. xxix. Doubts as to Wytiffe's wardenship, Communion of saints, its privilege, xliii. xvii. Confessions of Wycliffe, xxxviii. Duns Scotus, a divine of great genius, v. Consecration, act of, said to change the Dunstan, St., a celebrated Saxon ecclebread and wine in the eucharist, lxix. siastic, lxv. Controversy between Wycliffe and the Durham Book, a Saxon interlined version friars, xxiv.. of the Gospels, lviii. Convocation at Oxford, Wycliffe before
 
-England for his cardinals, xxviii. Clergy and laity equally interested in the Scripflires, Ixiii. their pretence of ubjection only to Rome, xix. the, yielding to the pope, withdraw allegiance from their sovereign, xliv. Clifford, Sir Lewis, messenger to the s%Tiod at Lambeth, xxxviii. messenger to the London citizens. \xxi«.
+**the, Ixxxvii.** Earthquake in London, in 1381, lxxi.
 
-Commission of Edward III. to the pope, zxix. Communion of saints, its privilege, xliii. Confessions of Wycliife, Ixxxviii. Consecration, act of, said to change the bread and wine in the eucharist, Ixix. Controversy between Wycliffe and the friars, xxiv. Convocation at Oxford, Wycliffe before the, IxxxviL in St Paul's, London, Cotton, Sir Robert, library of, lix. Council at Paris, in 1212, iv. Rome, in 11 79, iv. Courtney, bishop of London, an enemy of Wycliffe, xxxiv. convenes a synod against
+in St Paul's, London, Ecclesiastical censures should be only xxxiv. in the cause of God, xlv. Cotton, Sir Robert, library of, lix. endowments may be taken Council at Paris, in 1212, iv. by the civil power, Rome, in 1179, iv. xliii.. Courtney, bishop of London, an enemy revenues in England deof Wycliffe, xxxiv. rived by popish cardiconvenes a synod against nals, xxx.
 
-Wycliffe, IxxL gives a monition to Chancellor Rigge, Ixxx. . legate of the pope, and archbishop, IxxiL made archbishop of Canterbury, Ixxi. Register, reference to, Ixxxiii. sends a letter against Lollardism to all the bishops, the great bishop of England, Courts of bishops rival those of princes, of the pope in London, xxxiii Creeds, the Apostles', Athanasian, and Nicene, do not teach transubstantiation, Ixv. Cressy, the battle of, xxv. Cursing, ecclesiastical, does not bind finally, xlv.
+**Wycliffe, 1xxi.** system of popery sapped gives a monition to Chan- by Wycliffe, xlvii.
 
-Depravity increased by the plague, ix.
+**cellor Rigge, lxxx.** Ecclesiastics may be corrected by the
 
-Dialogue between Courtney and Lancaster, xxxv.
+## legate of the pope, and arch- laity, xlviii
 
-Disciples of Christ have no power to exact temporalities by censures, xlvi.
+**bishop, xxii.** Edward IIL, king of England, iii,
 
-Doctrines of Wycliffe declared heretical,
+## made archbishop of Canter- xviii
 
-Dominick, St., order of, xv.
+**bury, xxi.** his prosperous reign, xxv. Register, reference to, Ixxxiii. his decline in age and
 
-Dominion founded in grace, xliii.
+## sends a letter against Lol- powers, xxxi
 
-Dominion given ministerially only, xliii.
+lardism to all the bishops, his death, Richard II. Ixxii. Successor, xxxvi.
 
-Doubts as to WyMiffe's wardenship,
+the great bishop of England, Eglesfield, Sir John, chaplain to the Ixxxi. queen, iii. Courts of bishops rival those of princes, Elfric,an abbot, a laborious translator of vi. the Scriptures, lviii., Ixv.
 
-Duns Scotus, a divine of great genius, v.
+of the pope in London, xxxiii. his opinion on the eucharist, lxvi. Creeds, the Apostles’, Athanasian, and Encroachments on the civil power by Nicene, do not teach transubstantia- the papacy, lxi. tion, Ixv. England impoverished by papal avarice, Cressy, the battle of, xxv. xxx, xxxii, xxxiii. Cursing, ecclesiastical, does not bind its population and commerce finally, xlv. favour the Reformation by
 
-Dunstan, St, a celebrated Saxon ecclesiastic, Ixv.
+## Wycliffe, lxi
 
-Durham Book, a Saxon interlined version of the Gospels, Iviii.
+Depravity increased by the plague, ix. Ethelred, king, an Anglo-Saxon, lviii. Dialogue between Courtney and Lan- Eucharist, difference of opinion regarding caster, xxxv. the, lxiv. Disciples of Christ have no power to opinion of Berengarius reexact temporalities by censures, xlvi. garding the, lxiv. Doctrines of Wycliffe declared heretical, Saxon doctrine of the, lxiv. Ixxii. transubstantiation in the, Dominick, St., order of, xv. taught by Archbishop Lan-Dominion founded in grace, xliii. franc, lxvii.
 
-Earthquake in London, in 1381, Ixxi. Ecclesiastical censures should be only in the cause of God, xlv. endowments may be taken by the civil power, revenues in England derived by popish cardinals, XXX. system of popery sapped by Wycliffe, xlvii. Ecclesiastics may be corrected by the laity, xlviii. Edward III., king of England, iii,
+Eusebius, the historian, x. ' Hereford, Dr., excommunicated, Ixxxii. Excommunication Gannot injure a good probably assisted Wycliffe man, xlv. in translating the Scrip-not for denying tem- tures, 1xxxi, lxxxiii. poralities, xlvi. prosecuted before a synod, False power in the church sought to be 1xxx, Ixxxi. destroyed by Wycliffe, liv. released by the interferFerars, Henry de, patron of Lutter- ence of the duke of worth, xxxi. Lancaster, xxxiii. Feudal tribute to the pope, objections of lords against, xxi. Heresy, persons suspected of, 1xxix. Fitz- Ralph, chancellor of Oxford, xiii.
 
-his prosperous reign, xxv. his decline in age and powers, xxxi. his death, Richard II. successor, xxxvi. Eglesfield, Sir John, chaplain to the queen, iii. Elfric,an abbot, a laborious translator of the Scriptures, Iviii., Ixv. his opinion on the eucharist, Ixvi. Encroachments on the civil power by the papacy, IxL England impoverished by papal avarice, XXX, xxxii, xxxiii. its population and conmaerce favour the Reformation by Wycliffe, Ixi. Ethelred, king, an Anglo-Saxon, Iviii. Eucharist, difference of opinion regarding the, Ixiv. opinion of Berengarius regarding the, Ixiv. Saxon doctrine of the, Ixiv. transubstantiation in the, taught by Archbishop Lanfranc, Ixvii.
+made archbishop of Ar- Ignorance, profound, before the Con-
 
-Euaebiut, the hittorian, x. Excommunication cannot injure a good man, xlv. not for denying temporalities, xlTi. False power in the church sought to be destroyed by Wycliffe, liv. Ferars, Henry de, patron of Lutterworth, xxxi. Feudal tribute to the pope, objections of lords against, xxi. FitxRalph, chancellor of Oxford, xiii. made archbishop of Armagh, hence called Armachanus, xiii, xiv. Fox, John, the martyrologist, x? ii. Francis, -St. order of, xr. Friars, mendicant, Wycliffe's opinion of them, xiT. their controversy with the universities, xxiv. Fuller's dialogue between Courtney and
+## magh, hence called quest, lxi
 
-Lancaster, xxxv. Fylingham, the living of, given to WyclifTe, xvL
+**machanus, xiii, xiv.** Infallibility of the pope, pretended, lii. Fox, John, the martyrologist, xvii. refuted by Wyc-Francis, St. order of, xv. liffe, lii. Friars, mendicant, Wycliffe's opinion of Islep, Simon de, archbishop of Canter-
 
-Oarinus, famous for his knowledge of law, iii. Genius and powers of Duns Scotus, v. Gilbert, bishop of Bangor, commissioned to the pope, xxix. God's natural power restricted by his moral, xli. Goodlaxton, deanery of, in Lutterworth,
+## them, xiv. bury, xvi
 
-" Gospel doctor," a title given to Wyc- liflfe, vii. Gothic usages in England, vii. Gregory XI. pope, xxix. Gregory, St., pope, xi. Grosstete, bishop of Lincoln, xiii. Guthlac, one of the first translators of the psalter into Anglo-Saxon, Ivii.
+their controversy with the univer-
 
-Hampole, hermit of, a translator of
+**sities, xxiv.** Joachim, the abbot, a commentator on "Fuller's dialogue between Courtney and the Psalms, x.. Lancaster, xxxv. John, king of England, humbled by the Fylingham, the living of, given to Wyc- pope, xviii. liffe, xvi. subjected to the pope, xviii, Garinus, famous for his knowledge of xxiii, xxiv. law, iii. of Gaunt, duke of Lancaster. See Genius and powers of Duns Scotus, v. Lancaster, xxvi. Gilbert, bishop of Bangor, commissioned XXII, pope, his pretended infalto the pope, xxix. libility denied, v.’ God's natural power restricted by his Judgments, the, of lords, on subjection moral, xli. to the pope, xxi. Goodlaxton, deanery of, in Lutterworth, Jurisdiction of the civil magistrate, xx. Ixxiv. Gospel doctor," a title given to Wyc- King Edward refuses the claim of Pope liffe, vii. Clement, xxviii. Gothic usages in England, vii. of France, a prisoner to Edward Gregory XI. pope, xxix. III., xxv. Gregory, St., pope, xi. of Scotland, a prisoner in the Grosstete, bishop of Lincoln, xiii. Tower, xxv. Guthlac, one of the first translators of the Kings may take away the temporalities psalter into Anglo-Saxon, lvii. of churchmen, xlviii.
 
-Scripture, lix. Hereford, Dr., an eminent preacher, follower of Wycliffe, Ixxv. delivers a written confession to the syno(i,lxxxiii.
+Knighton, the historian, complains of Hampole, hermit of, a translator of Wycliffes translation of Scripture, lix. the Scriptures, x. Hereford, Dr., an eminent preacher, fol- his accusation of Wycliffe, xc.
 
-Hereford, Dr., excomnaunicated, IxxxiL probably assisted Wyelifie in translating the Scriptures, Ixxxi, IxTTJii. prosecuted before a synod,
+## lower of Wycliffe, Ixxv
 
-Ixxx, Ixxxi. released by the interference of the duke of Lancaster, Izxxiu.
+delivers a written confes- Labours, extraordinary, of Wycliffe,
 
-Heresy, persons suspected of^ Ixxix.
+## sion to thesynod,lxxxiii. liv
 
-Ignorance, profound, before the Conquest, Ixi. Infallibility of the pope, pretended, Iii refuted by Wyelifife, Iii. Islep, Simon de, archbishop of Canterbury, xvi.
+Lancaster, duke of, aids Wycliffe before manded by the pope, as agreed to by
 
-Joachim, the abbot, a commentator on the Psalms, x. John, king of England, humbled by the pope, xviiL subjected to the pope, xviii, xxiii, xxiv. of Gaunt, duke of Lancaster. See
+## the convocation, King John, xviii, xxiv
 
-Lanceuter, xxvi. XXn., pope, his pretended infallibility denied, v. Judgments, the, of lords, on subjection to the pope, xxi. Jurisdiction of the civil magistrate, xx.
+**xxxiv.** Mendicants, convention of, at Oxford,
 
-King Edward refuses the claim of Pope Clement, xxviii. of France, a prisoner to Edward
+## becomes unpopular, Ixix
 
-of Scotland, a prisoner in the Tower, xxv. Kings may take away the temporalities of churchmen, xlviii. Knighton, the historian, complains of Wycliffe' 8 translation of the Scriptures, x. his accusation of Wycliffe, xc.
+**Ixxvi.** send a deputation to Wyc-his character and ex- liffe in his sickness, to ploits, xxvi. induce him to recant,
 
-Labours, extraordinary, of Wycliffe,
+## in vain counsels
 
-Lancuter, duke of^ aids Wycliffe before the conTOcation, becomes unpopular,
+**Wycliffe, Ixxxvi.** synod of, at Blackfriars, Lanfranc, archbishop of Canterbury, London, 1xxi. chief teacher of transubstantiation, their defences of transubIxvii. stantiation against Wyc-Langham, Peter, archbishop of Canter- liffe, 1xviii, bury, vi. their fraudulent dealing Last age of the church," by Wycliffe, with the doctrine of
 
-Ixzri. his character and exploits, xxvi. in vain counsels Wycli^, Ixxxri. Lanfranc, archbishop of Canterbury, chief teacher of transubstantiation, IzviL Langham, Peter, archbishop of Canterbury, vi. " Last age of the church," by Wycliffe, its character, xi, xii. Leicester, archdeaconry of^ Ixxiv.
+## Christ, xvi
 
-Knighton, a canon of, Ix. Leland, a historian, as to Wycliffb's native place, ii. Letters from the pope accusing Wy- cliffe, xxxvii. Lewer, Sir Alfred, messenger to the
+its charac- their joy at the death of ter, xi, xii. Armachanus, xiii. Leicester, archdeaconry of, 1xxiv. their progress and power, Knighton, a canon of, Ix. xii, xiii. Leland, a historian, as to Wycliffe's na- to be subjected to the civil tive place, ii. courts, xxiv. Letters from the pope accusing Wy- Wycliffes disputes with cliffe, xxxvii. the, xii, lxi. Lewer, Sir Alfred, messenger to the Merciless character of the ruling clergy, London citizens, xxxix. xci. Licencestoschoolmastersfrom theclergy, Merlin, the prophet, xiv. Merton College, Oxford, v. L'Isle, a translator of Scripture, lviii. More, Sir Antonio, i. Lollardism threatened by the archbishop, Sir Thomas, on the translation of Ixxii. the Scripture by Wycliffe, lx. the system of Wycliffe's doc- Mosheim, Dr., regarding the thirteenth
 
-London citizens, xxxix. Licences to schoolmasters from the clergy,
+## trines, Ixxiii. century, vii
 
-L'lsle, a translator of Scripture, IvilL Lollardism threatened by the archbishop, the B3rstem of Wycliffe*s doctrines, IxxiiL Lollard preacher, Ashton a, Ixxxi. Lollards, followers of Wycliffe's doctrine,
+Lollard preacher, Ashton a, Ixxxi.. Lollarda, followers of Wycliffe's doctrine, Nicene Creed See Creed, lxv Ixxvi. Nurseries of grammarians, iv. Looking-glass for secular lords, lxii. Ockham, a famous professor at Oxford, v. Lords of parliament, objections of, tothe Offices at court held by clergymen, pope's claim, xx, xxii. xxvi.
 
-Looking-glass for secular lords, Ixii Lords of parliament, objections oi^ to the pope's claim, xx, xxii. temporal, may take the goods from a delinquent church, xliii, Luciferian enmity and pride in the clergy,
+temporal may take the goods Opinions of Wycliffe forbidden to be from a delinquent church, xliii, published,xlii. xliv on various subLuciferian enmity and pride in the clergy, jects, xlix. Ji. i Lutterworth, Wycliffe made its rector, end, hla
 
-Lutterworth, Wycliffe made its rector, xxi^.
+[xxx Oxford, number of students in the University, xiii.]
 
-Man, being justified has a right to all things of God, xliii. Marks, seven hundred, annually de-manded by the pope, as agreed to by King John, xriii, xxiv. Mendicants, convention of, at Oxford, send a deputation to Wycliffe in his sipkness, to induce him to recant, sjmod of, at Blackfiiars,
+[Man, being justified has a right to all]
 
-London, Ixxi. their defences of transubstantiation against Wycliiie, IxviiL their fraudulent dealing with the doctrine of Christ, Ixviii. their joy at the death of
+[things of God, xliii. Papacy, limits to its pretensions, as held]
 
-Armachanus, xiiL their progress and power, xii, xiil. to be subjected to the civil courts, xxiv. Wycliffe's disputes with the, xii, Ixi. Merciless character of the ruling clergy,
+[Marks, seven hundred, annually de- by Wycliffe, xlix.]
 
-Merlin, the prophet, x. Merton College, Oxford, v. More, Sir Antonio, L
+advocates and policy censured, li. Peter, and his successors, not to rule court and councils against Wyc- politically, xl. liffe's doctrine, xlix. Philippa, queen of Edward III, iii. doctrines impious and pernicious, Plague,its cffects in England, x.
 
-Sir Thomas, on the translation of the Scripture by Wycliffe, Ix. Mosheim, Dr., reg^ding the thirteenth century, vii.
+## liv. Poictiers, the victory of, xxv
 
-Nicene Creed. See Creed, Ixv. Nurseries of grammarians, iv.
+lead to Egyptian bond- Political dominion pertains to the laity,
 
-Ockham, a famous professor at Oxford, v. Offices at court held by clergymen,
+## age, lii
 
-Opinions of Wycliffe forbidden to be published,xlii. on various subjects, xlix. spread in England, Ixxii. Oxford, number of students in the Universi^, xiiL
+would invert all order in Poor priests, preachers, Ixxvii, lxxviii. the world, liv. Pope Clement IV. elected, xxviii. encroachments on the civil power, instruction of the, to the Arch-xxxvi. bishop of Canterbury regarding interference, the universities jea- Wycliffe, lii. lous of, xxxvii. temporal power of the, denied policy ruinous to nations, xxx, Wycliffe, xliv. xxxi.. the, arms the authority of the preprohibition of the Scriptures, li. lates, the court, and the universchisms a source of trouble, xcii. sity, against Wycliffe, lii. not bestowed at the will of the the, may be corrected by the laity, xlvii. xlviii. Matthew, his testimony to gram- may be justly impeached schools, iii. the laity, xlii.
 
-Papacy, limits to its pretensions, as held by Wycliffe, xlix.
+called The Good," xxxiv. may fall but he should and convocation not in uni- corrected, xlix.
 
-Papal advocates and policy censured, li. court and councils against Wyc- liffe's doctrine, xlix. doctrines impious and pernicious, lead to Egyptian bondage, liL would invert all order in the world, liv. encroachments on the civil power,
+**son, Ixxxv.** pretends to bind opposers with and government at Oxford, the pains of eternal damnaIxxxv. tion, lii.
 
-XXXV i. interference, the universities jealous of, xxxvii. policy ruinous to nations, xxx, prohibition of the Scriptures, li. schisms a source of trouble, xcii. Pardon not bestowed at the will of the priest, xlvii. Paris, Matthew, his testimony to grammar schools, iii. Parliament, called " The Good," xxxiv. and convocation not in unison, Ixxxv. and government at Oxford, refuses the demand of Pope
+refuses the demand of Pope usurps a divine power, liii. Urban, xix. Urban demands a feudal acknowsubmits a question to Wyc- ledgment from England, xviii. liffe, xxxvi, xxxvii. Popes in the fourteenth century, xxv. the Commons House, peti- many have been deposed by emtions against a persecuting perors, liv.
 
-I rban, xix. submits a question to Wyc- liftc, xxxvi, xxxvii. the Commons House, petitions against a persecuting statute, Ixxxiv, Ixxxv. WyclifFe's petitions to, 1 xxxiv. Parlianienta in the reign of Edward III., their frequent assembling,
+**statute, Ixxxiv, Ixxxv.** rapacity of the, xxx.
 
-Percy, Lord, aids Wycliffe before the convocation, xxxiv. Perpetual dominion, God cannot give to man, xli. Perpetuity claimed for papal supremacy,
+Wycliffes — petitions — to, Preaching of Ashton, the Lollard, Ixxxi. Ixxxiv. Wycliffe, xxxii, Ixxxiii. in the reign of Edward III, Wycliffes ^ poor priests, xviii. Ixxvii, Ixxviii.
 
-Persecuting statute published against
+their frequent assembling, Prediction of Wycliffe in his sickness, xxv. reply to the friars, lv. Lord, aids Wycliffe before the Prelates, abbots, and friars, slander Wyc-xxxiv. liffe, Ixxvi. dominion, God cannot give to so elevated for government, xli. xlviii.
 
-Wycliffe, Ixxviii., Ixxxv. Persecution of the Gospel preachers,
+claimed for papal supremacy, Premunire, the act of, dreaded, xxix.
 
-Ixxx, Ixxxiii, Ixxxiv. Pestilence spreads through Europe, viii.
+Priest, every, rightly ordained, may statute published against minister the sacraments, Ixxviii., Ixxxv. xlvii.
 
-Peter, and his successors, not to rule politically, xl. Philippa, queen of Edward III., iiL Plague, its effects in England, x. Poictlers, the victory of, xxv. Political dominion pertains to the laity,
+of the Gospel preachers, the anathema, or benediction Ixxxiii, Ixxxiv. the, really affects no man, spreads through Europe, viii. xlvii.
 
-Poor priests, preachers, Ixxvii, IxxviiL Pope Clement IV. elected, xxviiL instruction of the, to the Archbishop of Canterbury r^arding Wycliffe, Iii. temporal power of the, denied by
+Priest, the, exalted by means of the Rigge, Robert, chancellor of the univerpretended transubstantiation, sity of Oxford, Ixxv. xviii. attached to the opinions Procession, religious, to St. Paul's, Lon- of Wycliffe, 1xxv. don, Ixxiv. brought before a synod, Propositions of Wycliffe's doctrine de- Ixxviii. clared erroneous, lxxii. gives assent to the deciProtestant Evidence, by Berkenhead, ii. sions of the synod,
 
-Wycliffe, xliv. the, arms the authority of the prelates, the court, and the university, against Wycliffe, Iii. the, may be corrected by the laity, may be justly impeached by the laity, xlii. may fall, but he should be corrected, xlix. pretends to bind opposerswith the pains of eternal damnation, Iii. usurps a divine power, liii Urban demands a feudal acknowledgment from England, xviiL Popes in the fourteenth centurj-, xxv.
+## purpose served by Wycliffe, Ixxviii
 
-many have been deposed by emperors, liv. rapacity of the, xxx. Preaching of Ashton, the Lollard, Ixxxi. Wycliffe, Ixxxii, Ixxxiii. Wycliffe's poor priests, Ixxvii, Ixxviii. Prediction of Wycliffe in his sickness, in reply to the friars, Iv. Prelates, abbots, and friars, slander W'ycliffe, Ixxvi. so elevated for government, Premunire, the act of, dreaded, xxix. Priest, every, rightly ordained, may minister the sacraments, the anathema, or benediction of the, really affects no man,
+**lvi.** receives admonition from Protest of Wycliffe as to his opinions, Archbishop Courtney, xl Ixxx. Purgatory, the fire, and eternal torments Rippington, Dr. Ralph, a follower of of, 1. Wycliffe, 1xxv., Ixxviii. the papal doctrine of, gives excommunicated, Ixxxii.
 
-Priest, the, exalted by means of the pretended transubstantiation, Procession, religious, to St. Paul's, London, Ixxiv. Propositions of Wycliffe's doctrine declared erroneous, Ixxii. Protestant Evidence, by Berkenhead, ii. purpose served by Wycliffe, Protest of Wycliffe as to his opinions,
+an odious character to the yields to the demands of the
 
-Purgatory, the Are, and eternal torments of,l. the papal doctrine of, gives an odious character to the clergy, 1.
+## clergy, church, xxxiii
 
-Queen of Edward III., Philippa, iii.
+Roll, Richard, a translator of the Psalms, Queen of Edward III., Philippa, iii. lix Queen's College, Oxford, founded by Rome, the court of, its rapacity and Philippa, iii. simony, xxxii. Queen mother, the, interposes for Wyc- Romish doctrine and polity, a ghostly liffe, xxxviii. thraldom, 1.
 
-Queen's College, Oxford, founded by Philippa, iii
+[Reign of Edward III. is prosperous, Sacramental change, a delusion by the XXv. priest, Ixix. with his health Sacrament, bread of, what change takes declines, place in it, Ixxxviii. xxxi. the presence of Christ in,]
 
-Queen mother, the, interposes for Wycliffe, xxxviii.
+[Religious character of Wycliffe's family, how, Ixxxviii.]
 
-Reign of Edward III. is prosperous, with his health declines, Religious character of Wycliffe's family,
+[ii. Salisbury, John of, a writer of note, xi.]
 
-Reply of Wycliffe to the friars, xx, Iv.
+[Reply of Wycliffe to the friars, xx, lv. Satan's master device, transubstantiation, to the papal claim, Ixxxvii, lxxxviii. xcix. Saxon, Anglo, clergy, obedient to the]
 
-to the papal claim, Revenue, extortions of a, for the priesthood not known in the better ages of the church, xlvii. Rewards and punishments, future, at the dispensation of a priesthood, a fiction, 1. Richard II. ascends the throne after
+[Revenue, extortions of a, for the priest- pope, lxv.]
 
-Edward III., xxxvi. counselled by the archbishop against Wycliffe, difficulties of his reign, his letter against Wycliffe's followers, Ixxxv. Richmond, in Yorkshire, ii.
+[hood not known in the better ages of their doctrine of]
 
-I^iggc* Robert, chancellor of the university of Oxford, Ixxv. attached to the opinions of Wycliffe, Ixxv. brought before a synod, gives assent to the decisions of the synod, receives admonition from Archbishop Courtney, Rippington, Dr. Ralph, a follower of
+[the church, xlvii. the eucharist,]
 
-Wycliffe, Ixxv., Ixxviii. exconmiunicated, Ixxxii. yields to the demands of the church, Ixxxiii. Roll, Richard, a translator of the Psalms,
+[Rewards and punishments, future, at Ixvi.]
 
-Rome, the court of, its rapacity and simony, xxxii. Romish doctrine and polity, a ghostly thraldom, 1.
+[the dispensation of a priesthood, a testimony to the doctrine of the]
 
-Sacramental change, a delusion by the priest, Ixix. Sacrament, bread of, what change takes place in it, IxxxviiL the presence of Christ in, how, Ixxxviii. Salisbury, John of, a writer of note, xi. Satan's master device, transubstantiation,
+[fiction, l. eucharist, Ixvii.]
 
-Ixxxvii, Ixxxviii. Saxon, Anglo, clergy, obedient to the pope, Ixv. their doctrine of the eucharist, testimony to the doctrine of the eucharist, Ixvii. versions of the Gospels, Iviii. Schools in towns before Wycliffe's days,
+[Richard II. ascends the throne after versions of the Gospels, lviii. Edward III, xxxvi. Schools in towns before Wycliffe's days, counselled by the arch- iii, iv. bishop against Wycliffe, Scotus, Duns, has the genius of Aristotle, Ixxvi. v. difficulties of his reign, Scriptural knowledge advanced by Wyc-Ixxv. liffe, 1. his letter against Wycliffe's Scripture, all truth of, designed for the followers, Ixxxv. people, Ixiii.]
 
-Scotus, Duns, has the genius of Aristotle,
+[Richmond, in Yorkshire, ii. how studied by Wycliffe, 1.]
 
-Scriptural knowledge advanced by Wycliffe, 1. Scripture, all truth of, designed for the people, Ixiii. how studied by Wycliffe, I.
+Scripture ought to be known to the Tartary, the plague arose in, viii.
 
-Scripture ought to be kno?ni to the people, Ixii. prelates ignorant of, Ixii. urged upon all men by Wycliffe, 1. Scriptures of the Old and New Testament first translated into English by Wycliffe, Ivi. portions of the, translated into English, Ivi, Ix. Secular lords to resist the blasphemous claims of priestly absolution, liii. Selden, an eminent antiquarian, ▼. Senators and aldermen of Oxford visit
+## people, xii. Tees, the river
 
-Wycliflfe in his sickness, Iv. Shepey, John de, a commissioner to the pope, xxix. Sigwerd, a nobleman, obtains a translation of the Scriptures, Iviii. Silence imposed on Wycliffe by the council at Lambeth, xxxviii, xlix. Simonists, an heretical sect, x. Slanders of the ruling prelates against preachers, Ixxvii. Sovereignty of England pretended to be forfeited to the pope, xix. " Sowle Hde," a history, scriptural and legendar}', lix. Spiritual Alms, a work of, to correct offending clergymen by taking their temporalities, xlviii. powers of the clergy, as held by Wycliffe, xlv, xlix. Spresswell, the family mansion of Wye-line, 11, HI. Statute of Richard II., a persecuting, Ixxvii, Ixxviii. the primate, to imprison the new preachers, Ixxxiv. Stokes, Peter, a Carmelite Mendicant friar, zealous against Wycliffe, Ixxiv. employed by Archbishop Courtney against Wycliffe, Ixxiv. Studies in provincial schools, iv. Sudbury, archbishop of Canterbury,
+prelates ignorant of, Ixii. Temporal contributions not to be ex-
 
-Synod at Lambeth, awed by the citizens of London, xxxviii, Ixxi.
+## urged upon all men by Wyc- torted from the laity, xlvi
 
-Tartary, the plague arose in, riii. Tees, the river, ii.
+**liffe, 1.** Temporalities may be exacted by eccleScriptures of the Old and New Testa- siastical censures, xlvi.
 
-Temporal contributions not to be extorted from the laity, xlvL Temporalities may be exacted by ecclesiastical censures, xlvi. Temporal lords ooay take away abused temporalities from the church, zlviiL Todd, Dr., editor of some works of Wycliffe, Ixxi. Translators of the Scriptures into AngloSaxon and English, Iviii, Ix. Transubstantiation, a doctrine of the twelfth century. See Eitekanit, definition of^ bdx. first plenary determination by the church of England, Ixix. heretical, as denoimced by Wycliffe, Ixviii. its absurdityand blasphemy, Ixxxvii. not contained in the Apostles', Athanasian, or Nicene creed, Ixv. refuted by Wycliffe, before the convocation, Ixxxvi. taught by archbishop
+ment first translated into Temporal lords may take away abused English by Wycliffe, lvi. temporalities from the church, xlviii. portions of the, translated Todd, Dr., editor of some works of Wyc-
 
-Lanfranc, Ixvi. tends to exalt the priesthood, Ixviii. the doctrine of the Anglican church, from the time of Lanfranc, Ixvii. the master-device of Satan, Ixxxvii. Twiss, Sir Roger, regarding transubstantiation, Ixix. Tyler, Wat, leads an insurrection, Ixxi.
+## into English, lvi, liffe, Ixxi
 
-Urban, Pope, demands a thousand marks, as a yearly tribute of feudal acknowledgment from England and Ireland, xviiL
+Secular lords to resist the blasphemous Translators of the Scriptures into Anglo-claims of priestly absolution, liii. Saxon and English, lviii, lx. Selden, an eminent antiquarian, v. Transubstantiation, a doctrine of the Senators and aldermen of Oxford visit twelfth century. Wycliffe in his sickness, lv. See Eucharist, Shepey, John de, a commissioner to the Ixiv. pope, xxix. definition of, Ixix. Sigwerd, a nobleman, obtains a transla- first plenary detertion of the Scriptures, lviii. mination by the Silence imposed on Wycliffe by the church of Eng-council at Lambeth, xxxviii, xlix. land, lxix. Simonists, an heretical sect, x. heretical, as deSlanders of the ruling prelates against nounced by Wyc-preachers, Ixxvii. liffe, Ixviii. Sovereignty of England pretended to be itsabsurdityandblasforfeited to the pope, xix. phemy, ]xxxvii. Sowle Hele," a history, scriptural and not contained in the legendary, lix. Apostles’, Atha-Spiritual Alms, a work of, to correct of- nasian, or Nicene fending clergymen by taking creed, lxv.
 
-Urban V^ P(9e, diipoaes of dmreh benefices in England, zzz. VI., Pope, as regarded by die LoUards, IxzTL
+their temporalities, xlviii. refuted by Wycliffe, powers of the clergy, as held before the convoby Wycliffe, xlv, xlix. cation, Ixxxvi. Spresswell, the family mansion of Wc- taught by archbishop liffe, ii, iii.. Lanfranc, lxvi. Statute of Richard IL, a persecuting, tends to exalt the Ixxvii, xxviii. priesthood, xviii. the primate, to imprison the the doctrine of the new preachers, Ixxxiv. Anglican church, Stokes, Peter, a Carmelite Mendicant from the time of friar, zealous against Lanfranc, xvii.
 
-Vandois, the, oppoae the doctrine of transnbatantiation, Ixr. Yiolenl measures by the persecuting statute, IzzxT.
+**Wycliffe, 1xxiv.** the master-device of employed by Archbishop Satan, Ixxxvii.
 
-Walsingham, a monastic historian, xzxriL censures the timidity of the synod atLambeth,xxxTiiL Wars of Edward IIL, xzv. War with France, disastrous, zxzri. Wood, Anthony, as to Wyclift's war- denship, zriL his calumny on Wycclilfe, xc. Woodhall, warden of Canterbury Hall,XTL restored by payment of money to the pope, zxriL Wul&tan, Archbishop of York, letter to from St. Dunstan, bcri. Wycliffe, John, his birth at Wycliffc, Yorkshire, 1324, i. his early life, ii. his education at Queen's Colleg^, Oxford, iii. his progress in various studies, vi. his first publication, 1356, x. his opposition to the mendicant friars, 1360, xr. he obtains the living of Fyling- ham, 1361, xvi. he is elected warden of Baliol
+Courtney againstWyc- Twiss, Sir Roger, regarding transubstan-
 
-College, 1361, xvi. appointed warden of Canterbury
+## liffe, Ixxiv. tiation, lxix
 
-Hall, 1365, xvi. called upon to answer the papal claim, xix. made a royal chaplain, 1366,
+Studies in provincial schools, iv. Tyler, Wat, leads an insurrection, lxxi. Sudbury, archbishop of Canterbury, xxxviii. Urban, Pope, demands a thousand marks, Synod at Lambeth, awed by the citizens asayearly tribute of feudal acknowledgof London, xxxviii, Lxxi. ment from England and Ireland, xviii.
 
-XX, xxiv, XXV. his refutation of the papal claims, xx, xxiii. opposes the civil offices of churchmen, 1371, xxviL takes his degree of D.D., 1372,
+V., Pope, disposes of church Wycliffe, in commission to the pope, he benefices in England, xxx. visits Bruges, 1374, xxix. VI., Pope, as regarded by the made prebend of Aust, 1375, Lollards, Ixxvi. xxxi.
 
-Wyeliife, in a commission to the pope, he visits Bruges, 1374, xxix. made prebend of Aust, 1375, appointed reetor of Lutterworth, 1875, xxxL appears before the convocation, 1377, xxxiv,xxxvi.
+appointed rector of Lutterworth, the, oppose the doctrine of 1375, xxxi.
 
-accused by the pope to the king, appears before a synod at Lambeth, 1378, xxxviii delivers a statement of his opinions, xxxiz.
+**lxv.** appears before the convocation, measures by the persecuting 1377, xxxiv, xxxvi xxxv. accused by the pope to the king,
 
-attacked with disease, liv, Iv.
+## xxxvii
 
-visited by fear doctors of the friars — ^his reply to them, Iv.
+a monastic historian, xxxvii. appears before a synod at Lam-censures the timidity of the beth, 1378, xxxviii.
 
-begins to translate the Old and New Testament into English, his opinions condemned by Archbishop Arundel, Ixi his defence of translations of the Scriptures, Ixii, IxiiL his controversy regarding the eucharist, Ixiv.
+**synod atLambeth, xxxviii.** delivers a statement of his opinof Edward III, xxv. ions, xxxix. with France, disastrous, xxxvi. attacked with disease, liv, lv. Anthony, as to Wycliffe's war- visited by four doctors of the denship, xvii. friars—his reply to them, lv. his calumny on Wyc- begins to translate the Old and cliffe, xc. New Testament into English, warden of Canterbury Hall,xvi. lvi.
 
-rejects the doctrine of transubstantiation, Ixvii.
+restored by payment of his opinions condemned by money to the pope, Archbishop Arundel, lxi.
 
-challenges the attention of the university to his dpctrine of the eucharist, 1381, Ixviii.
+**xxvii.** his defence of translations of the Archbishop of York, letter to Scriptures, Ixii, Lxiii. St. Dunstan, lxvi. his controversy regarding the John, his birth at Wycliffe, eucharist, lxiv.
 
-his doctrine condemned by a convocation at Oxford, Ixix, Ixx.
+**Yorkshire, 1324, i.** rejects the doctrine of transubhis early life, ii. stantiation, lxvii. his education at Queen's Col- challenges the attention of the lege, Oxford, iii. university to his doctrine of his progress in various studies, vi. the eucharist, 1381, xviii. his first publication, 1356, x. hisdoctrine condemned by a conhis opposition to the mendicant vocation at Oxford, lxix, lxx. friars, 1360, xv. receives the sentence of conhe obtains the living of Fyling- demnation, and appeals to the ham, 1361, xvi. civil power, lxx. he is elected warden of Baliol challenges his opponents to reCollege, 1361, xvi. fute his doctrines, lxx. appointed warden of Canterbury his opinions denounced by Hall, 1365, xvi. Archbishop Courtney as called upon to answer the legate of the pope, Ixxiii.
 
-receives the sentence of condemnation, and appeals to the civil power, Ixx.
+**papal claim, xix.** his followers denominated Lol-made a royal chaplain, 1366, lards, Ixxvi.
 
-challenges his opponents to refute his doctrines, Ixx.
+**Xx, xxiv, xxv.** his enemies, the clergy, comhis refutation of the papal plain to the king and court claims, xx, xxiii. against him, Ixxx. opposes the civil offices of his doctrine in his sermons, churchmen, 1371, xxvii. Ixxxi, Ixxxii. takes his degree of D.D., 1372, presents his confession of faith xxviii. to parliament, Ixxxiv.
 
-his opinions denounced by Archbishop Courtney as legate of the pope, Ixxiii.
+Wycliffe, summoned before the convoca- Wycliffe, his expectation of a divine tion, Ixxxv. ward, xcii. rejects the counsel of the Duke seized with paralysis while of Lancaster, and defends his ministering the eucharist, doctrine before the convoca- xciii. tion, Ixxxvi. dies, after two days' desists from his labours at Ox- 1384, xciii. ford, xc. his character to be devotes himself to his duties at chiefly from his writings, Lutterworth, xc. xeiii. summoned by Pope Urban to his character by Le Bas, appear at Rome, xc. succeeded in the Reformation declines by letter a journey to by Luther, xciv. Rome, xc. he appears as a solitary the most extraordinary man of in that age for the cause his times, xci. Christ, xciv. his health declines, xc, xci. Wycliffe, Robert, Roger, and William, his zeal for Christian truth, xci. Yorkshire, ihis assistance from a curate at Wykeham, William, bishop of Winches-Lutterworth, xci. ter, xxvii. his language sometimes severe, —the style of the age, xci. his last days, xci. Yoke, secular and spiritual, hisdiligence as a village pastor, ought to be cast off by all, lii. xcii. he expects imprisonment for Christ, xcii. Zouch, De, rector of Wycliffe, i.
 
-his followers denominated Lollards, Ixxvi.
+[LONDON RLACEBCRM AND PARDON, PRINTERS, WATTON GARDEY.]
 
-his enemies, the clergy, complain to the king and court against him, Ixxx.
+## 2
 
-his doctrine in his sermons, Ixxxi, Ixxxii.
+Mm. o» PA eeu oe. mv we.
 
-presents his confession of faith to parliament, Ixxxiv.
+book 1 ander ^ pne ud NEW YORK "m
 
-WTdiib, ■ummoned before the convoea- tion, bucxT. rqjeets the eouniel of the Duke of Laneaster, and defoncb hit doetrine before the eontoea- tioiif Inorn* deeiite from hie laboare at Oz-ford| xc) devotee himielf to hie dntiee al
+epeReN Co pP^ This hail a" a A m — Á ce css
 
-ItfVtterworth, zc. Bommoned by Pope Uihan to appear at Rome, xo. decliaee by letter a journey to
+## 3i
 
-Rome, xe. the meet extraordinary man of hie timee, xcl hia health dedinee, xc, xei. hii seal for Chriitian tmth, xeL hie anistance from a eurate at
+[pr ai d he Nr en]
 
-Lutterworfh, xei.
+TE S:
 
-— the etyle of the age, xei. hie last days, xcL hiadOigence as a village pastor, zoii he eipects imprisonment ioi
+## 
 
-Christ, xcii.
-
-WyeUfle, his expeetation of a divine reward, xeiL seised with paralysis while sdministering the enehsrirt,
-
-diee, after two days* UlneM,
-
-1884,xciiL his chsracter to be lesmed ehieily frmn lus writings, xem.
-
-his ehsraeter by Le Bas, xeiiL sneeeeded in the Refonnstioa by Lnther, xeiv. he appears as a aolitaiy witnen in that age for the eaneeef Christ, xeiv. Wydiflb, Robert, Roger, and ^VnUiam, L
-
-Torhshiie, L Wyheham, Wniism, bishop of Winchester, xxriL
-
-Yoke, seeular and spiritual, foreign, ought to be east off l^^ all, liL
-
-Zonch, De, rector of Wycliffe, i.
-
-LOVnOTH pr.ACKBrBX AKn PAKDON. PSIXTKKS.
-
-nkXrOV GARDF'l.
+mm MN
 
 ---
 [[Wycliffe TT 20 VIII. Confession on the Eucharist, Delivered to the|← 20. VIII. Confession on the Eucharist]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]]
+
