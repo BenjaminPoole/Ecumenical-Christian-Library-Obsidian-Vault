@@ -4,1707 +4,894 @@ author: "William Tyndale"
 work: "An Answer to Sir Thomas More's Dialogue"
 chapter: 16
 year: "1531"
-source: "archive.org, Parker Society ed. Henry Walter (1850); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+grc+lat)"
 written: "1531"
 tags:
   - protestant-reformers
   - william-tyndale
 ---
+
 # 16. General Index
 
-A, used for interjection Ah, ii. 156.
+their tampering with history and with purse, 245-6; required to precede all the fathers, i. 337; iii. 48: their con- the sacraments, and thus makes them duct in the medizval ages, 268; for- nugatory, 205, 337; use made of it, bidden marriage, but their concubi- by papal clergy, 191, 281, 336-7, 341; nage licensed, 40; the more wicked the secrets thus entrusted to a conthe people, the more they were feared fessor have not been kept where the by them, i. 339; and they made ru- clergy had a purpose to serve, 337; lers serve them, 282; iii. 53; their ii. 296, 305; iii. 171; seamen confess sources of wealth, i. 236-9, 244.5, their sins to the mast, i. 245. 249, 341, 424; iii. 53; form used in Confiteor, extract from the, ii. 220. degrading them, i. 233. Congruity, i. 466. Cobham, lord, his language respecting Consecration, Aquinas calls it no the presence in the Lord’s Supper, heresy to affirm that the Lord had iii. 243. consecrated the bread before he said Cochleus, his account of Tyndale's This is my body, iii. 241. labours at Cologne, and of his inter- Constantine's pretended gift of royal rupting them, i. xxxviii-ix. authority, &c. to the pope, ii. 279; Coinage, copper, ii. 231. Constantine the second, called Pious, Colins, an insane person, iii. 39. when he had called the pope God, for St Lawrence's day, i, 231; iii. 231. for St Stephen’s, ib.; for the saints Constitutions, laws imposed by autoin general, 290. cratic authority, i. 132, 460. Colossians, prologue to, i. 515. Conveyance, sleight of hand, fraudulent Commandments, the first, iii. 274; a management, ii. 297. man cannot sin without breaking the Corporis-cloth, used in the mass, its first, i. 490; not given that God may alleged signification, iii. 74. profit by their being kept, butforour Corage, the heart and its affections, i. profit, i. 4/4; not taken away by 417. Christ, ii. 38; their purport, i. 434, Covenant, made between God and us, 470, 474; prepare the way for Christ, i, 469-70. 104; ii. 26, 120, 146-7; detect the Cranmer, archbishop, receives a copy evil in our hearts, i. 51, 470; con- of Matthew's bible, and rejoices over demn us, i. 52; ii. 147; cannot be it, i. lxxv; commends it to Crom- - kept, but by those who have the well, and thanks him for procuring Spirit, i. 81-2; ii. 38-9; made easy the king's sanction to it, ib., Ixxvi. by Jove, 203; love for them proves Creation, not permitted to man, iii. 242. faith to be unfeigned, i. 223; he that Credence, a pledge to be credited, i. 85. keepeth them is entered into life, 82; Crome, for crammed, i. 264. he that submitteth not himself to Cromwell, lord, i. xli; patronizes Cover-keep them, hath not the faith that dale, xlii; instructs Mr Vaughan to. justifieth, 470. persuade Tyndale to throw himself Confession, i. 261-6; modern popish on the king's mercy, xlii; his reply - definition of, 342; of three kinds, to Vaughan'sletter, xlv; thedespatch 261-3; to whom it should be made, and its corrections, xlvi—xlviii; he
 
-Aaron, a type of Christ, i. 209, 412. Bp. Fisher says he was a type of Peter and of the pope, i. 208, 209.
+**966. 477; iii.** 23; if rightly used, it adds a clause urging Vaughan to inwere not condemnable, ii, 150; auri- duce Tyndale to return, xlix; writes cular confession, or shrift, in the ear, to the English merchants at Ant-a device of Satan, i. 263; an abomi- werp, and to the councillors of the. mable thing, iii. 22, 172; began a- princess-regent in Tyndale’s behalf, mong the Greeks, i. 262; the usage Ixix; procures the king's license for relinquished in their church, and Matthew's Bible, Ixxvi. why, ib. and iii. 172; its presumed Crose, for crosier, i, 202. extent, impossible, i.281; it torment- Cross, the Christian must have it laid eth the conscience, and robbeth the upon his back, because he is too weak 20—2
 
-A. B. C. against the clergy, ascribed by More to Barnes, i. 3.
+## Dissimule, i. 341
 
-Abbeys built as compensations for sin, i. 249, 260 ; the popes enriched them selves and endowed bishopricks and cathedrals from abbey -lands, ii. 277-
+D Divorce, Christ's law concerning, ii, Damn, anciently used, where now con- 51-2, 54-5. demn, i. 15, Doctrine, to be tried by scripture, ii. Dandyprat, a coin, ii. 306. 103, 121, 195; he that will do God’s Danger, to be in any one’s danger, a will, shall know what is the true, ii. legal term, i. 502; state of depend- 40; must be examined before believence, ii. 293. ed, ii. 195. Darkness, in doctrine, ii. 1024. Dogs are the self-righteous, ii. 10, 114, Days, holy, their use, i. 24, 226, 231. Dominicans, or black friars, i. 159. Dazing, stupefaction, i. 167. Donne, Gabriel, a monk who assisted Deacons, meaning of their name, i. Philips in the trepanning of Tyndale, 230; original appointment and office, connected with Bishop Gardiner, and 230-1, 259; ii. 253; iii. 149; how rewarded by Bishop Vesey, i. Ixix. their power augmented, ii. 256; and Do on, put on, iii. 251. they became encouragers of much Dorbel, or Nicholas de Orbellis, notice evil, ib, of him, i. 151. Deal, divide, ii. 83; iii. 250. Doulia, a schoolman's term, iii. 56; Debtors, mercy towards, ii. 69. the distinction they would make beDefender of the Faith, bull of Leo X. tween it and latria, untenable, iii. 57. conferring this title on Henry VIII., Duns Scotus, i. 91, 108, 158-9; did no i. 186; how obtained, and its recep- miracles, and contradicted Aquinas, tion, ii. 338; Julius 11. had conferred iii, 131. j it before on James IV. of Scotland, Duns-man, i. 108. 187. Durandus, his Rationale divinorum, iii. Defy, used for distrust, iii, 38; for dis- 73. dain, ii. 157. During, enduring, iii. 264,
 
-Abhorreth, used intransitively, i. 54.
+Datchland, Tyndale’s name for Ger- Empire, transferred to Germany, ii.; many, ii. 266; Popish clergy there 269; received by Otho from the pope, licensed to live in sin, iii, 40; Tyn- ib. dale observes that there are nations Endote, endow, i. 249. within the inclosure of Germany, who Enemies, what to be hated, ii. 50; prispeak tongues unknown to the Ger- vate, to be loved, 70, 71.. mans, ii. 268. Enfeoff, i. 218. Duty, what is due, or owed, i. 82, 103. England, the injuries it has suffered from the influence of popes and E popish prelates, i. 335-9; ii, 225,
 
-Abode, used transitively, i. 37.
+## 294-322; iii. 138, 166
 
-Abrech) interpretation of, i. 405.
+Ear, plow, i. 401; ii. 101. Ens, scholastic term, and schoolmen’s Earnest, a pledge, i. 76. queries respecting it, i. 158. Ecclesia, why rendered by Tyndale Ephesians, Prologue to Epistle, i. 514. congregation, rather than church, iii, Ephod, what, i. 419. 13-16. Epiphanius destroys the picture at Eden signifies pleasure, i. 407. Bethel, iii. 182. Edward IV. affianced to a Spanish Erasmus, i. xv., xvii., xxi, 395; would princess, and his marriage ascribed have laymen permitted to read the by Tyndale to the witcheries of a scriptures in their own tongue, 161-2; friar, ii. 304. objects to notion of the virgin's havEgal, equal, i. 174. ing authority to lay commands on Elders, who so called in scripture, i. 478. Christ, 316; his account of the four Elect, their state and character, i. 14, senses assigned to holy scripture by 15, 77, 89, 107, 263-4; iii. 30-1, 35, schoolmen, 343; remarks on the in- 109, 111-13; God'slove for them, and delicacy of Jerome's language, 438; what he does for them, i. 13-14, 77; his Encomium Moris, iii. 16; on free iii. 191; were justified by faith in the will, 233; sometimes renders ecclesia, promised Saviour from the first, i. congregation, 16; observes that au- 417; their faith, iii. 113; difference ricular confession had not been used between it and that of such as are in Jerome's time, 214. called but not chosen, 69, 70, 107, Esau, what he virtually rejected, i. 523. 14; their hearts melt at the preach- Est, frequently equivalent to significat, ing of God's mercy, i. 19; their regard iii. 249, 258, 261. to Christ in all things, iii, 109; their Evangelion, the word and its purport, i. temptations, ii. 111; iii. 36-7; their 8.10; Tyndale calls epistle to Ro-struggles against sin, iii, 113; must mans most pure evangelion, 424; what have patience, and be long sufferers, it does for him who is convinced by iii. 96; mercy waiteth ever on them, the law, i. 17, 22. See Gospel. ib.; shall rise again when they fall, ii. Even, equal, i. 166; for evening, ii. 171; their infirmities recorded, that 249; evens, eves, i. 450. the weak may not despair, i. 311,399, Evil men, not to be resisted, ii. 21. 400; they that be in heaven know the Exodus, prologue to, i. 411-14; direcelect, and for them only pray, iii. 279. tions for reading it profitably, ib.; Election, the manner of, iii. 35-9; its brief remarks on its subjects, ib. cause in God, not to be questioned, i. table of words expounded, 418, 419. 89; how it may be known, 80, 85; Expend, weigh or consider, iii. 247. cannot be known to those who only honour God with their lips, 78. F. Elyot, sir Thomas, employed to trepan Tyndale, i. li.; extract from his letter Fain, v. desire, ii. 231. to duke of Norfolk, ib. Faith, what it is, i. 407, 493; ii. 14, Emperor, decree of Gregory V. concern- 205; iii. 198; its character seen in its ing election of, ii. 270. effects, i. 118, 363; a right, i. 13, 53,
 
-Absolving, is but preaching the pro mises, i. 342.
+. 493; ii. 11: iii. 30-1, 196; is the gift 109, 115-16, 122; the faith that deof God, i. 53, 56; is the work of the pendeth of another man's mouth is spirit, 488, 493; iii. 139; is an ap- ^ weak, iii. 52, 99; there is a mere hispropriating faith, i. 224; cometh by torical faith, i. 53, 121, 280; ii, 146; hearing, 489, 499; must rest on pro- iii. 197; this is not true faith, ii. 154, mises, 121, 278, 284; and pleads 201; the devils have this, i. 278; ii. them, ii. 89; is ever assailed, iii. 94; 146; iii. 197; a faithless faith, iii. is the rock on which Christ built 199; such that which More and De - his church, 30-1; its fruits and con- Lyra supposed to save those who sequences, i. 13, 59, 55-6, 59-61; were drowned by the flood, 134; a ii. 187, 194; iii. 142; must bring a false faith, i. 12; described by James, new life, ii. 77; iii. 238; according 125; of the carnal, ii. 11; of hypoto More's doctrine, the best faith crites, ib., and 130; More's vain ima-. may be coupled with the worst life, gination that a man may captivate iii. 142, 150; faith is a part of true his understanding to believe, iii. 140. repentance, i. 478; is counted right- See Justification. - eousness, ib. and 497; brings peace, Fall of Adam, its effect on us, i. 14, 17, 118, 294; certifieth us of the Spirit’s 22; its remedy through grace, 14. presence, 488; produces love, 223-4, Fanon, its alleged signification, iii. 73. 4755 ii. 88-9, 174, 204; iii. 196-200; Fast, adv. stedfastly, i. 451. - gives deeds their goodness, i. 120; Fasting, true, i. 75, 90; ii. 93-96; its ii. 125-6; without it they are abo- intent, 94, 97; iii. 80; not as to meat minable, 126; gives the desire and and drink only, ii. 94; how to be enpower to pray, i. 118; and to obey, joined by priests, 95. i. 115, 493-4; iii. 276; without it, Fasting, popish, manner of and occathere cannot be obedience, i. 26; iii. sions, i. 90; ii. 97-8; abused by monks, 173; maketh us the children of God, 91-2; before Lent, 92; Lady -fasts,98. ον 635 ii. 145-6; overcomes the world, Father, a, his office and duty, i. 199. - 197, 208-9; when the heart believeth Fathers, or patriarchs, More alleges in Christ, there he dwelleth, i. 369; their faith to prove that scripture is faith only justifieth us before God, not the necessary ground of a true i. 46, 49, 119, 233, 375, 488, 508-9; faith, iii. 133-5. ii. 15, 76, 137; iii, 172, 274; by it Fathers, ancient divines so styled, knew only cometh salvation, i. 15, 471; nothing of various doctrines taught. iii. 275-6; he that hath it hath by the papal church, i. 325; iii. 132; eternal life, 225; but whilst faith their doctrine to be tested by scriponly justifieth, faith that is alone ture, i. 330; iii. 133, 136; call the Jjustifieth not, ii. 15; iii. 196; for bread a sacrifice, as they call it true faith, hope, and love are respec- Christ's body, i. 370; their words tively known by being found together, afterwards understood amiss, 372. and are inseparable, ii. 13, 14; iii. Faustus, the Pelagian, ii. 104. 95, 197; faith and love comprehend Favour, More objects to Tyndale's so the whole law, ii. 188; where right rendering Xapis, iii. 22. faith is, God receiveth the man for Fear, v. used for terrify, i. 133; where Christ’s sake, even though it be useful, i. 185. weak, ii. 9; iii. 208; the weak in Ferman, or Forman, a London clergyfaith should beupheld by the stronger, man, harassed as a reformer, iii. 193; ii. 8; how to be guided, i. 95, 506-7; misrepresented by More, 208. are chastised in pity, ii. 9; the faith Fet, for fetched, i. 209; or obtained, of those who are called but not ii. 229. chosen, is a different thing from the Fifteenth, a, ii. 304-5, faith of the elect, iii. 69, 70, 107, Find, for, provide for, iii. 76. 114; multitude of adherents is no Fire, saved as by fire, meaning of this, proof of a right faith, iii. 102-3, 107, i. 116.: al
 
-Absolution, i. 267—273 ; justifieth no man, 267 ; in Latin, useless, 268 ; the priest rehearseth no promise, but speaks his own words, ib.
+Firmament, Tyndale uses it for the sky, 5; set Christ but little above Francis, i. 407. ii, 5; divided into observants and Fisher, bishop of Rochester, i. xxx; conventuals, i, 301; their great in. character of his proceedings, 341; crease, 902, preaches at the burning of Luther's France, king of, i. 340; styled most works, and Tyndale's New Testa- christian, i. 186; ii. 263; Julius II. ment, i, xxxi; editions of his sermon, offers to transfer this title to Henry 189; citations from it, 190, 208-9, VIII. 187: cost of wars with, i. 187, 212-3, 220.3; Tyndale’s remarks 335; the source of papal power, ii. upon it, 208-23; says, it appears by 360, express scripture that we be bound to Frank-almoigne, ii. 148. believe many more things than be Frankfort, Tyndale’s works printed and written in the Bible, 220; says that seized there, i. xxxv. if faith alone justifieth, the devils Fratry, refectory, ii. 98. would be justified, 223; mistranslates Freedom, that wherewith Christ makes a clause of Latin, 222, his people free, i. 501. Flap, part of a priest’s dress, its al- Friars, or mendicant orders, their beleged signification, iii. 73. ginning and procedure, ii. 277. Flesh, used for all that is in man, before Fridays, four, ii. 98. the Spirit of God, i. 139; whatmeant Frith, John, i. xxxvii, 37; Cromwell's by flesh, when contrasted with spirit, account of Henry's opinion of him, 494, 504; each termed a law by Paul, xlviii; said to have printed T yndale's 504; the Spirit's contest with it, 500, answer to More's Dialogue, 1; leaves 504; ii. 160; oppresses the spirit, 9; Tyndale to come into England, liii; to be subdued by fasting, 94, 137; by seized and imprisoned, ἐδ.; Tyndale’s the cross, 9, 10; the eating of any first letter to him, liii, lvi; second, kind of flesh forbidden to monks by lvii—lix.; Frith’s answer to More, the canon law, 276. lvi; he is defended against More, Flesh-vourer, for flesh-eater, iii. 245. lvii; martyred, 1x; his name in conFlock, the little, 1. 165, 363; preserved nexion with question of authorship by the hand of God, iii. 103; inquire of treatise on Lord’s supper, iii. 218- i how they shall serve God, 108; their 20; More's hard words against him, blessed ways, 109; persecuted by the i 4; iii. 219, multitude, 110. Flotess, scum, ii, 215. G. Fore, previous, ii. 5. Forest, friar, ii. 302. Galatians, Prologue to, i. 513. Forthink, equivalent to repent, i. 260; Gards, borders, i. 532; their purport, as iii. 23. commanded to be worn, ib, Fornication, falsely said to be no sin, Gehenna, meaning of, i. 531. ii. 50. Genesis, prologue to version of, i. 398- Forth on, for thenceforward, iii, 77. 405; table of words expounded, 405- Foxe John, the martyrologist, his ac- 10; remarks upon portions of its count of Tyndale, i, xiv, xvi, xvii, narrative, 400-2. xix, xxi, xxxvi—xxxviii, 1x, lxi, Gest, some act, or exploit, i. 450. Ixv—lxxii, xxiv, Ixxvi; separated Gifts of God, bestowed that we may the treatise on Lord's supper from use them for our neighbour's benefit, T yndale's works, yet states some rea- i. 24. sons for thinking it his, iii. 218-20, Gildas, his testimony against the ancient Francis I., ii. 313-19. Britons, i. 142, 458; quotation from, Francis, St, i. 124; his coat, ii. 32; his 143. cord, i. 122; eternal life promised to Glocester, duke Humphry, his death, observers of his rules, i. 227. ii. 297; the tale of his detecting a Franciscans, or Gray Friars, i. 159; ii. pretended miracle, told by More, 298.
 
-Aeon, Aix-la-Chapelle, ii. 265.
+Glocestershire, contained six mitred iii. 173-4, 204-5; heathen and paabbots, ii. 289. pists taught the contrary, iii. 11, 204; Glorious, used for vain-glorious, i. 453. prayer is good, according to the proGlory, he that seeketh his own, is his portion of faith, and the deed accordown god, ii. 73; reserved for those ing to the measure of love, i. 280. who suffer with Christ, 28. Good works. See Works. Glutteny, ii. 92-3. Goods, every man’s to be preserved from God, his will, word, and power, are all waste, because he is bounden to mainone, iii. 239; some things are not tain his family therewith, and support possible to him, inasmuch as they his king, ii. 66. involve contradictions, 232-3; to trust Gorram, or Gorham, Nicholas de, iin him, is the first commandment, 151; brief notice of him, 152. and first article of our creed, 274; all Gospel, what it is, i. 8, 9; glad tidings that is of God is light, ii. 149; setteth to all the world, 10; is the ministraforth his love, that we may have con- tion of life, 11; of righteousness, 48; fidence in him, i. 294; his love to the the only light in the world, ii. 34; elect, and what he does for them, 13, it purifieth the heart, 35; it cannot, 14, 77; iii. 191; overcomes his ene- and may not be hid, 34-5; was promies with love, i. 136; his exceeding mised in the Old Test., i. 9; and is ' love towards sinners, ii. 199; the found there, 11; why called a testaworker of all good things in man, i. ment, 9; is not to be limited to evan- 498; iii. 34; our goodness springeth gelists, 213, 441, 477, 484; ii. 144; out of his, 196; allows men to bind its effect contrasted with that of the him by his promises, ii. 68; ven- law, i. 21, 83; it is the law which geance belongeth to him, i. 332; his makes the gospel acceptable, and righteousness not satisfied by pen- therefore they must not be separated, ance, but by death of Christ, ii. 156; 11; reply to question, whether the false conceptions of his character en- gospel or the church be the older, iii. couraged by popish system, i. 278, 24-5. 291.2, 295-6; ii. 156; More charges Grace, what meant by, i. 11, 286, 407; Luther with teaching that God com- distinguished from gift, 491; the docpels men to sin, iii. 190; reply to this tors and preachers wont to distinguish charge, 191-3; why God leaves one different sorts of, as gratis data, grablind, and opens the eyes of another, tum faciens, praveniens, subsequens, is a question too deep for us, 191; iii. 22; we have no freewill wherewith what is meant by his justifying be- to anticipate the grace of God, iii. lievers, i. 509; his full pardon of be- 174, 192; till it be given us, we canlievers’ sins, ii. 158, 166, 168; loveth not consent to the sweetness of the their good deeds, because he first law, nor prepare ourselves thereunto, loved them, i. 295; his word must be 174; till preventing grace be bestowed in the heart to produce good, 51; is men cannot see God, 192; they who the rule of his children, 131; every are in a state of grace may know it, ii. one bound to defend his word, ii. 87; 172, 200, 211; this denied by popish how to please him, i. 332; how he is doctors, ib.; there is ever a remnant to be honoured, i. 106; iii. 57; he is kept by grace, iii. 139-40; peculiar dishonoured when our duty to our use of the word grace in the universi-. neighbour is disregarded, ii. 57; ties, 22. i what it is to swear by him, ii. 55; Grafton, the printer, completes Mat-whither prayer to him should be di- thew's bible, i. Ixxv.; presents a copy rected, i. 383, 385. to Cranmer, ib. Good, every such thing in us is Christ's Greeks, their separation from Western gift, purchase, doing, and working, i. church, ii. 259. 23, 27, 111; we must be good, before Gregory. See Popes. we can do good, 23, 50, 62, 73, 497; Guilford, sir Henry, i. xxi., 395,
 
-Adam, likened to Christ, i. 70; the old Adam remains, 113 ; what man is by natural descent from Adam, 113.
+(gm cmn», ib. BS bid TUE oy, iii. 157. nwun, i. 377. Hackett, sir John, the king's agent in on, Ham or the Netherlands, i. xxxi; enjoined own, i. 446. by Wolsey, and consequently en- oT, 377.. of Tyndale's writings at Antwerp, 123, 255. deavours to procure the suppression mw, 68.
 
-Adrian, al. John Byrte, al. John Book binder, i. Ix.
+[. Xxxiii; further desired by him to Soa, iii. 108.]
 
-Adultery, as committed in the heart, ii. 49, 50.
+[Γ request that Tyndale and Roye may 752, i. 69; ii. 153.]
 
-Advouries, protectors, ii. 166.
+[be delivered into his hands, xxxiv; xn, Meod, i. 396.]
 
-Advoutry, adultery, i. 17.
+[suggests a false charge of treason a- 17 mn», i. 377.]
 
-Agatha, her legend, iii. 61 ; her letter believed to be a charm against tooth ache, ib.
+[gainst an English merchant, xxxiv.; cms, 376.]
 
-A good, for, of good, in reality, i. 456.
+[a. travels in search of Tyndale, ib.; en- yn, 68.]
 
-Aknowen of, acknowledge, i. 465. iii.
+[deavours to seize copies of Tyndale’s ron, iii. 177-8.]
 
-Albe, what, i. 419 ; its alleged signifi cation, iii. 73.
+[Testament on board Scottish ships, v5, i. 117.]
 
-Ail-to, altogether, ii. 114; iii. 112.
+[1 Xxxvi. own, 351.]
 
-Allegories, meaning of the term, and their use, i. 303—7, 425; their use exemplified, 428; cautions against their misapplication, 425, 428 ; alle gorical interpretation exemplified,
+[Hzacceitas, metaphysical term, i. 158. ‘03, Nissi, 420.]
 
-Alms, the word explained, i. 96; ex tent of the duty of giving, 118 ; their proper source, ib. ; when acceptable, and when an abomination, ii. 93.
+[Hales, Alex. de, brief notice of him, i. o", 445.]
 
-Ambrose addresses the pope as a bro ther, i. 216.
+[190 - cp, 446.]
 
-Amice, Latin, amictus; its alleged signification, iii. 73.
+[Hands, of the putting on, i. 274-5. ὮΝ 55, 347, 368.]
 
-Ancre, an anchorite, ii. 42.
+[Harberous, hospitable, i. 479.. nv5, Pesah, 353, 355, 377.]
 
-Angels, ii. 117, 169.
+[1 Harman, Richard, an English merchant oi, iii. 108.]
 
-Anger, may proceed from love, ii. 45 ; when to be restrained, 46.
+[. at Antwerp, exports T yndale's Tes- on, 107.]
 
-Anoiling, unction, i. 275-286 ; has no promise, and is altogether super stitious, 275; More says, It has a promise, 276.
+[J, tament, i, xxxiv; in peril thereby, mys roy, i. 409,]
 
-Anoint thy head, meaning of this, ii.
+[ib.; Anne Boleyn writes a letter in UVP, iii. 205.]
 
-Anointed, Christ so called, i. 228; ii. 153; false anointed, orpseudo-Christs compared with the true, i. 232—6.
+[his behalf, Ixiv, Τρ, in 2 Sam. i. 17., rendered by]
 
-Anointing, Christ's anointing his peo ple, ii. 180, 182, 184 ; original anoint ing of bishops and priests, i. 229.
+[Heart, God looketh to it rather than to Tyndale s/aves, in Auth. Vers.]
 
-Anselm, abp, obliged William II. to surrender the investiture of bishops to the pope, ii. 294.
+[the deed, i. 100, 118, 489; Devotion bow.]
 
-Answer to Sir T. More's Dialogue, i. xlii, xlv, 1 ; iii. 1—215.
+[of the sacred heart, extract from book np, Raka, ii. 45, 229.]
 
-Answers to be given to those who ask for a reason of the hope that is in you, iii. 55.
+[E. of prayers so entitled, iii. 117. wpa, i. 407.]
 
-Antichrist, i. 215, 240-1, 266, 340; de scribed, i. 42-3, 95, 147-8, 232-52 ; ii. 179 ; his miracles, i. 287 ; iii. 362-3 ; his work, i. 224; turneth the root upward, 295 ; is the pope, 191, 208, 215; ii. 181-2, 196-7; iii. 102-7,171.
+[Hear and learn, spoken of spiritual n>, Siloh, or Shiloh, 408.]
 
-Antioch, Peter is said, in the canon law, to have had his see there first, ii. 285. See Canon law.
+[rather than of natural perception, iii. yv, 145, 446. -]
 
-Antwerp, Tyndale's Testament export ed thence, and two editions printed there, i. xxxiii ; its burghers refuse to consider them as heretical, xxxiii ; Tonstal and More there, xxxvii ; Tyndale there, xxxvii, Ix, Ixvii; martyrs there, lix ; more editions of Tyndale's New Testament printed there, Ixi, Ixii ; Tyndale's manner of
+[E om. ni, 420.]
 
-GENERAL INDEX.
+[Hebrew, peculiarities of that tongue, i. Aw, sob, 477.]
 
-living there, Ix, Ixi; the English merchants there make efforts in his be half, Ixx ; Harman, Flegge, M arsch, and Poyntz, English merchants there, Ixiv — ix.
+[- 148-9, 468. tnaun "v, Sartabaim, 408.]
 
-Apollonia, St, iii. 181.
+[ἢ Hebrew words explained: Hebrews, Prologue to Epistle, i. 521-]
 
-Apostles, received their commission directly from Christ, i. 211; anointed by him with the Spirit, 229 ; chose men anointed with the same, ib. ; their trials and temptations, iii. 37-9 ; whether they left any thing necessary to salvation unwritten, iii. 26-30. See Written.
+[1 aR, i. 405. 45; authority of the epistle defended,]
 
-Appetite, the greater carrieth away the less, i. 503.
+[Y now 524,378.. ib.]
 
-Appose, examine by questioning, i. 44.
+[1 ^ oven ban, 347. Heir, all believers heirs, i. 77, 89, 113;]
 
-Aquinas, Thomas, i. 91, 159 ; some ac count of him, 149; miracles attributed to him, iii. 131; canonized, and why, ii. 291 ; exalts the pope above all human dignities, and says he has a just claim to be styled Christ, king, and priest, ib. ; first put the doctrine of transubstantiation into regular form, iii. 241 ; reference to his state ment of it, 227 ; calls it no heresy to say that Christ consecrated the ele ments with other words, before say ing, This is my body, 241; curious solution of one objection to transub stantiation by More and Aquinas, 235; taught, contrary to Duns, that the Virgin was born in original sin,
+[K "yn jax, 378.. their assurance thereof, 89, 113.]
 
-Argument from effect to cause, i. 58.
+[1 TN, 351, Hell, what the word is now used for, i.]
 
-Aristotle, i. 157, 27b'; citations from, 155; censured, 108, 154 5, 184.
+[s.OCNN, 445. 531.]
 
-Ark, meaning of the word in Genesis, i. 405; in Exodus, 419.
+[bR-na-»x, 376. - Henry I. (Tyndale says IL), obliged]
 
-Arundel, abp. his examination of Thorpe edited by Tyndale, i. xxvi ; of Lord Cobham, iii. 243; his con stitution against any man's translating the holy scriptures into English, or reading any unallowed translation, i. 132; obliged to leave England, ii. 295.
+[A. NN ON, ib. to yield to Ralph, bishop of Chi-]
 
-Asses, popish festival of, i. 92.
+[3 oor, 175; ii. 165. chester, when he would have had a]
 
-Athelstan, said to have caused the holy scriptures to be translated into the English tongue, i. 149.
+[, DMN, i. 445. tax paid by the priests, ii. 295;]
 
-Attrition, a feigned word, i. 265; its purport as declared by council of Trent, ib.
+[: ΝΣ, Belial, 445. Henry II. vexed by prelates, 19;]
 
-Augustine, i. 144, 154; his reason for writing De civitate Dei, 164 ; desires that his writings may be tried, but the scriptures unhesitatingly believed, iii. 136 ; seems to say that the scrip ture derives its authority from the church, 49 ; this explained, 50 ; directs to search the scriptures for the expo sition of scripture, 249 ; his language incompatible with papal claims to supremacy and infallibility, i. 216; his exposition of ' Thou art Peter,' 217 ; of the keys given to Peter, 218 ; of ' Feed my sheep,' ib. ; gives some sanction to prayer to saints in behalf of the dead, iii. 126 ; says, that sepul chral honours are rather the solace of the living than benefits to the dead, 272 ; his language incompatible with the doctrine of transubstantiation, 228, 259-60 ; his remarks on the faith of which James has spoken, 201 ; says, that the Christians of his day were more burdened with ceremonies than the Jews had been, 74.
+[. wh, Galeed, 348. Henry IV. and Henry V. indebted]
 
-Aureitas, a term used by the schoolmen, i. 158.
+[ς 7", Gerah, 419. to the clergy for their elevation, and]
 
-Avims, i. 445.
+[1 Ἵν 145. put their swords at the clergy’s dispo-]
 
-Away with, bear with, i. 505.
+[1 yn, i. 68. sal, 297; Henry V. sent into France]
 
-Aworth, at worth; having a value, i. 463.
+[E.. Nwnn wv, 378. by his clergy, i. 338; ii. 302; iii. 212;]
 
-Bainham, compelled to confess that he has Tyndale's writings, and con demned to the fire, i. 35-6.
+[n1, 446. built Sion and the Charter-house of]
 
-Baptism, i. 253, 267 ; what it is, 359 ; ii. 161 ; iii. 246 ; what inward is, ii. 12-3 ; none else availeth, ib. ; is the witness of water, 209 ; was prefigured by circumcision, iii. 246 ; came in its stead, i. 356 ; compared with it, iii. 245-8; with the Lord's supper, 2468 ; may be administered by any per son in time of necessity, i. 256; the people's erroneous belief respecting it, 276 ; their superstitious attention to the ceremonial, 277 ; their name for it, 276; without the word the washing helpeth not, 253 ; its signifi cation, i. 27, 253, 261, 359, 426; ii. 90; iii. 171, 245, 247; it requires love
+Shene, that lip-labour might never ting, 341; Tyndale’s advice, as to cease, ii. 81; Henry Vl. managed how the question of his divorce should and deceived by prelates, 303-5; mi- be tried, ib. racles ascribed to him, though his Henry V. Emperor receives his crown canonization had not been purchased, from the feet of Pope Colestine, who ii. 122; Henry VII., use he made kicks it off again, ii. 271. of Cardinal Morton and other pre- Heresy comes not of the scripture, but lates to get at his subjects’ secrets, of the blindness of those who underand raise money, ii. 305-6; Henry stand it not, ii. 141-4; comes of VIII. warned by Rincke, that Tyn- pride, 140. dale was printing a version of the Heretics, ancient, would have objected scriptures, i. xxx; warns his subjects to the strangeness of the doctrine of against them, xxxi; denounces that Christ’s bodily presence in the sathey are to be burnt, and that he will crament, had such a doctrine been punish the keepers and readers of the taught in their time, i. 373. same, xxxii. 131; desires the princess Hish, v. i. 432. regent of the Netherlands to procure Hitton, Thomas, a martyred reformer, the destruction of books.intended to ii. 940; iii, 113. poison bis subjects, xxxii; lays in- Ho, halt, i. 35. junctions to same effect on English Holcot, Robert, notice of him, i. 151. merchants at Antwerp, ib.; A mutual Holy and unholy, all are sinners; but compact between him and the prin- what the one loves the other abhors, cess, to prohibit the printing or sell- i. 811, iii. 32; the Christian is holy, ing of Lutheran books, xxxvii; issues by reason of the indwelling Spirit, a proclamation, enjoining magistrates i. 940; and his abode is sanctified to aid in punishing all persons con- by his holiness, ib. cerned with books against popery, Holy-day, is servant to man, i. 7. xl. 34; his anger at Vaughan's com- Holy Ghost, how received, i.424; when
 
-GENERAL INDEX.
+[munications respecting Tyndale, xlvi- it accompanies baptism, ἐδ.; is the]
 
-to the brethren, ii. 137; how Christ's merits are made ours in baptism, i. 466 ; ii. 90 ; 'he that believeth and is baptized shall be saved,' expounded, iii. 2J6; how baptism saveth, i. 253, 424, 426 ; increases the guilt of those who are baptized in the flesh only, and trust not in Christ, 358 ; answer to such as allege John in. 5 in proof that the Holy Spirit is present in the water, and that therefore the work of baptism putteth away sin, 423-4; scriptures to be searched for the pro fession of our baptism, 469 ; what the true profession of it is, ii. 136 ; not understood by the clergy, 140 ; is a security for rightly understanding the scriptures, 139-40 ; baptism con sidered in connexion with the process of justification, ii. 90.
+[viii; employs sir T. Elyot to pro- seed spoken of in 1 John rtrr.iii. 32; of]
 
-Barnes, Robert, once a friar, in the end a martyr, i. liii ; incorrectly charged with Zuinglianism by More, 3; really a Lutheran, ib., liii ; reputed author of ' A. B. C. for the clergy,' 3 ; More says he should have been burnt, not withstanding his having the king's safe-conduct, ib.
+[cure Tyndale’s arrest, li; gives his the sin against, i. 522; ii. 232, 344;]
 
-Barrow, i.e. Bergen-op-Zoom, i. Ix, Ixix, Ixx.
+[license for selling and reading Mat- iii. 24; More says that there was]
 
-Bartholomew, the apostle, a legend concerning him, iii. 92.
+[thew's bible, in which "Tyndale's no promise that the Holy Ghost]
 
-Bay field, a monk, condemned to the fire, the possession and distribution of Tyndale's writings, and other similar, counted among his crimes, i. 1, 33. 42; iii. 258.
+[translations and prefaces are in- should write, iii. 100, See Spirit of]
 
-Beadmen, prayer-men, i. 331.
+[cluded, lxxvi; by his command God.]
 
-Bead-roll, list of persons to be prayed for, ii. 287.
+[More and certain prelates gather Holy strange gestures, More's expres-]
 
-Beads, ii. 113.
+[heretical propositions from Tyndale’s sion, iii, 85.]
 
-Beast, the mark of the, i. 173, 236.
+[writings, 34; the clergy are ordered Holy things, of the church of Rome, i.]
 
-Becket, Thomas, account of his charac ter and military prowess, ii. 274, 292; incorrectly said to have been made a bishop in the field of battle, ii. 273-4, 292 ; riches collected about his shrine, i. 436 ; ii. 292.
+[to tell their congregations that the 462; iii. 109.]
 
-Bede, his exposition of ' Upon this rock,' i. 218 ; of the keys, ib, ; of the power of binding and loosing, 218, 264.
+[king and prelates did well in not Holy workmen, such as trust in their]
 
-Belial, word explained, i. 445.
+[suffering the people to have the scrip- imagined good works, i. 278, 305,]
 
-Believers, need leisure to grow, i. 454, 505; why they sometimes fall, 491;
+[tures in their own tongue, 35; reads 496; think hard things of God, i. t]
 
-how carried on safely to the end, iii. 34. See Christians and The elect.
+[and approves of The Obedience," 278; torment themselves to please]
 
-Bells hallowed, i. 225, 283 ; iii. 258 ; christened, i. 274.
+[130 in which he is advised to consi- God, ib.; are found to have no trust —]
 
-Benefices, not to be sought covetously, ii. 108; obtained by court favour, 336. See Pluralities.
+[der what his support of tbe pope had in him, when they see death at hand,]
 
-Benefit of clergy, a law term, i. 181.
+[cost, 335; present and title given him iii. 140. i]
 
-Benefundatum, i. 157.
+[by the pope, i. 187; ii. 339; his Holy works of men’s imagination,]
 
-Besides, apart from, ii. 183.
+[loan forgiven by spiritualty and tem- receive their reward here, i. 407;]
 
-Better, used as in catechism, for supe rior in rank, i. 203.
+[poralty, 337; ridiculed in French are injurious to the performers, i.]
 
-Bewitchment, ii. 265, 308.
+[play, 341; his book against Luther 429-31.]
 
-Bigamus, in papal law , one who has been twice married, iii. 165; canon against admitting such into the ministry, ib.
+[criticised by Tyndale, 239; his vow Homely, domesticated, ii. 298.]
 
-Bill, any written agreement, i. 45 ; an offensive weapon, 134.
+[of matrimony more binding than Hope, its office, ii. 14.,]
 
-Bilney, the martyr, i. lix ; ii. 320; his condemnation defended by More, iii.
+[Luther's of celibacy, 340; intreated House, € He made them houses,” ex-]
 
-Binding and loosing, of the authority to do this, i. 218, 264, 268 ; ii. 15960 ; what is meant by it in scripture, i. 269, 427, 428 ; ii. 282-4, 287 ; inter pretations put upon it by different ancient fathers, i. 217-8, 264, 269,
+[- by Tyndale to cease from persecu- plained, i. 419.]
 
-Birth, the new, i. Ill, 120; whence, 277. See Regeneration.
+Household, each man must defend his Improve, v. to rebuke, or reprove, i, own, ii. 67. 41, 258, 329. Howsyl, the sacrament of the altar Inconvenience, unsuitableness, i. 380. (More), iii. 96. Inculk, inculcate, iii. 245. Howselled, having that alleged sacra- Indulgences, examples of papal, i. 122. ment administered, 179. Infernus, distinct from Gehenna, i. 681.— Hugo de St Cher, a cardinal, inculcates Infidels, the Christian’s duty towards cruel usage of Jews and heretics, iii. them, i. 99; whosoever hindereth. 215. them of that which is their right, Hugo de Sto Victore, notice of him, i. sinneth against God, i. 204. 152. Intention, first, a term in logic, i. 157; Huker-muker, secrecy, i. xxvii. second, ib. Hunne, the murder of, by certain priests, Interdict, i. 340. iii. 146; More’s insinuations against Ipswich, maid of, daughter of sir R. the sufficiency of the evidence, 166-7. Wentworth tormented of the devil, as Husband, his duty, i. 200. More believed, i. 327; the tale told, Husbands and wives, their sin in for- and remarks on it, iii. 90-2. saking one another, ii. 54-5. Isacius sent from Constantinople to conHypocrites are impure, ii, 26; extol firm the pope's authority, robs the their own works above law of God, church of St John Lateran, ii. 255. 127; their prayers, 78; their judg- Israel, children of, their perils and ment of others, 112-14; have the deliverances, i. 134-6; their sins and world on their side, i. 133; their wis- correction, 142; the old "Testament dom proved foolish, 134; must be written in their mother-tongue, 144. rebuked, before open sinners are dealt with, ii, 44.
 
-Bishop, meaning of the name, i. 229 ; iii. 17 ; bishop, priest, and elder, were names for the same office in apostolic church, ii. 253 ; what their character ought to be, i. 229, 479 ; their office, 229 ; was such as endangered a man's life, ii. 255 ; contest of bishops, which should be greatest, ii. 257 ; bishop of Rome became greatest, ib. ; the mov ing of their hands over us, cannot put away sin, i. 284. See Prelates.
+## 
 
-Bishopping, the people's name for con firming, i. 277 ; iii. 72.
+**1.** James, Prologue to his epistle, i. 525- 6; James and Paul reconciled, i. 61, Idleness, used for ailing, iii. 282. 119, 223, 526; iii. 200-5. Idolatry, what it is, ii. 214-8; iii, 125; Jehovah, purport of that name, i. 408, whence it sprung, 64. 420. Ἵλασμός, ii. 153. Jerome, an observant friar, i. xv; 38, Images, not allowed by the church in 41. time of Jerome, iii. 132; but pope Jerome, the ancient father, assigns the Gregory I. did not like that images same authority to other bishops as should be broken, ib.; condemned to the pope, i. 216; his remarks by council of Constantinople in 754, on “Thou art Peter," 217; on the 183; first sanctioned by second Nicene power of binding and loosing, ib. and council, #b.; their destruction is not 269; says, that there were three kinds. out of hatred to saints, ib.; are infe- of monks in Egypt, and describes rior to man, 59; to adorn images, and them, ii. 42; a case in which he would leave men naked, who are living have allowed one who had been twice images of God, is therefore sin, ib., married to become a priest, iii. 152; 82; More’s argument to prove that said by More to have prayed to saints, men may worship an image without 126; his indelicate language censured being idolaters, and Tyndale’s reply, by Tyndale, and by Erasmus, i. 438; 125; how images and pictures of he says nothing about confession to a Christ or the saints may be used priest, or penance, when speaking of without sin, ib.; but so to do is a a public acknowledgment of sin, iii. stumbling-block to others, 184; and 214. the image-server is an idolater, 62, Jest, or gest, exploit, i. 80. 125; heathen made images of aches Jesus, meaning of the name, ii. 152, and fevers, and sacrificed thereto, 163. See Christ.
 
-Bisse, what, i. 406.
+## 316 General Index
 
-Bless, illustrated by examples, i. 406.
+Jews, not permitted tolive in England, Justification, papal and scriptural ac- i. xxv; iii. 68; given up to spiritual count of it, contrasted, iii. 111; its idolatry, when they had relinquished source and fruit, iii. 82; cometh by - idols, i. 473; iii. 43; their mistaken faith only, i. 46, 342, 488-9; ii. 14, views of the purport of their rites, 66;. 90, 137; iii. 195—206, 274; More's. imagined that those rites wrought a arguments against this doctrine, and. righteousness in them, 66-8; their T yndale's replies, 197—207; it bring- carnal unbelief, 227, 239; still clave eth peace, i. 294; and love, ib., and to ceremonies after their conversion, iii. 195-6; process of justification 68-70; and thereby injured the early considered with reference to baptism, church, 70-1; many of those who ii. 90; it cometh not by the law, i. seemed to be converted had only at- 114; nor by its deeds, 487, 496; nor tained to an historical faith, 70. by good works, 52, 56, 192, 497; iii. Join, enjoin, i. 281. 204; though they are marks of a jusJohn Baptist, his manner of life and tified man, i. 192, 497; iii. 197; nor preaching. by ceremonies, i. 51; iii. 193; though John, the apostle, preface to his gospel, Jews, and Turks, and the pope 1.482; prologue tohis epistles, 529-30; teach the contrary, 193-4. exposition of his first epistle, ii. 136, Justifiers of themselves, on the credit; 225; exposition of his lesser epistles of their own works, i. 12; styled by not Tyndale's, 134-5; superstitious Tyndale justiciaries, 13; such virtuuse of his gospel, iii. 6]; sixth chap- ally deny the coming of Christ, 530; ter of it wrested to a carnal eating consequences of such self-righteous- when it meaneth a spiritual, i. 368; ness, 13, 114, 432. cannot be meant of the sacrament, Justify, term explained, i. 192, 262, 369.. 508-9; God justifieth actively, ii.; John, king, why the pope offended with 90; the promises justify through faith, him, i.339; his lords released from i. 278, 342; the believer is justified by 1 their allegiance by papal legate, i.; faith only, 46, 49, 125, 223, 294, 342; ' interfered with immoral clergy, and iii. 196-7; Paul's mode of proving with appeals to Rome, ii. 19; pope this in Epistle to Romans, i. 508; but declared remission of sins to such as while justified by faith only before should help the king of France to God, he is justified by works before
 
-Blessing, that of a pious layman, as good as the pope's, i. 258 ; what it means exemplified, ib.; vainly sought from bishops, i. 284.
+[wrest his kingdom from him, 295. men, 61, 119, 223, 526; Jews thought]
 
-Boniface, the name given to the Saxon monk, Winfrid, ii, 259; Boniface 111. pope, induced the emperor Phocas to declare him the chief bishop, and Rome the chief church, 258.
+[Jonah, prologue to, i. 449-66; how to that the work of their sacrifice justi-]
 
-GENERAL INDEX.
+[read Jonah profitably, 453; God’s fied them, 276; church of Rome]
 
-Brother's wife, marriage with, the case considered, ii. 326-9.
+[dealing with him, and its purport, teaches a similar doctrine, ib., and]
 
-Body and blood of the Lord, in 1 Cor. xi. 27 ; interpreted to mean the con gregation, iii. 245, 255-7. See Sup per of the Lord, and Transubstantiation.
+[454 profit to be gained from his ex- 431.]
 
-Boleyn, Anne, her letter to Cromwell in behalf of a merchant who had abetted the publication of the New Testament in English, i. Ixiv ; Tyndale sends her an unique copy of his New Testament, ib. ; she lends Tyndale's Obedience, and reclaims it from Wolsey, 130.
+[ample, 465; question whether Tyn- Justifying,the course of justifying mer- 1]
 
-Bonaventure, cardinal, some account of him, i. 232.
+[dale translated Jonah, 447-8. cy, iii. 195.7; More says the first]
 
-Boots, an academic distinction, i. 232.
+[Joseph, his conduct, as related, Gen. faith, and the first justifying, is given]
 
-Brandon, a popish saint, legend of him, ii. 98.
+[XLVII. 20-4, justified, i. 410. us without our deserving, 203.]
 
-Brast, burst, ii. 208.
+[Joye, George, alias Jaye, i. liv, 1x:]
 
-Bread, daily, its meaning in the Lord's prayer, ii. 83; the gift of God, 117 ; consecrated bread is called God, i.
+[revises and alters Tyndale’s version K.]
 
-Brest-flap, part of the priest's dress, i.
+[of New Testament, lxi; his apology, Keep, v. to take care lest, i. 24.. 3]
 
-Brethren, weak, how borne with by prophets and apostles, i. 452, 506-7 ; should be upheld, ii. 8.
+[Ixii; said by some to be author of The Kent, maid of, Elizabeth Barton, her]
 
-Breviary, Roman, what, i. 230; collects from, 231; legendary account in it of St Lawrence, ii. 254; of St Agatha, iii. 61 ; of Apollonia, 181 ; a prayer in it for obtaining eternal glory through the merits of St Peter and St Paul, 117.
+[Treatise on the Lord's Supper, iii. imposture, i. 327; iii. 91-2.;]
 
-Briget, or Brygot, i. 151.
+[218 is odious to More, i. 4, 218, Keys, the promised, what, i. 119, 205-6;]
 
-Britons, the ancient, their wickedness and its fruits, i. 143.
+[Judas, and Peter, their fall ánd their promised to all the apostles, in the,]
 
-Bruterer, a soothsayer, or maker of evil days, i. 445.
+[repentance compared, iii. 208-. person of Peter, 205, 218. See Bind- a]
 
-Bugs, a name for objects of childish or superstitious terror, i. 417.
+[Jude, prologue to his epistle, i. 531. ing and Loosing. }]
 
-Bungay, friar, his supposed witcheries, ii. 304.
+[Judges, their duty, i. 203-5, 235. King, the title given to a queen reg-]
 
-Burning of heretics, inculcated by card. Hugo iii., 215; affirmed by More to be lawful and well done, 211; More says, the clergy doth not pro cure it, ib.; and that a great many more should have been burnt, 97.
+[Judging, what manner of, to berebuked, nant, ii. 304, ἶ]
 
-By and by, original meaning of, i. 241.
+[ii. 114, Kings, wherefore set up, i. 174, 185;]
 
-By that, inasmuch as, ii. 128.
+. receive their power from God, 173, gospel, ii. 35; have as large a share
 
-Cain, of the name, i. 406.
+« 332; only accountable to him, 178; in God's love and covenant as eccleare his servants, to execute his laws, siastics, i. 258; earliest papal law 334; their duty, 202, 239, 250, 334-5; against their possessing the word of iii. 58 3; should remember that their = God in their native tongue, 132; subjects are their brethren, i. 259; reasons alleged for their not having that they are not ordained of God for it, 146; the prohibition came not themselves, but for their subjects' from love for their souls, 161; Eras-
 
-Calk, calculate, ii. 308.
+[- welfare, ib., and iii, 58; the clergy mus would have it removed, 162;]
 
-Cambray, treaty there, by which Henry VIII. and the regent agreed to pro hibit the printing and selling of Lu theran books, i. xxxvii.
+[1 owe them obedience, as well as the laity not allowed to sit in judgment]
 
-Candlemas day, i. 91.
+[1 laity, i. 333; ii. 67; if they command on ecclesiastics, 178, 240, 248; ii.]
 
-Candles, superstitious use of, by day light, iii. 80; holy, 1. 48, 225 ; why that assigned to the Virgin is not put out in the Tenebree service, iii. 39.
+[evil, are to be disobeyed, but not re- 272; iii. 232; if they are too ignorant]
 
-Cardinals, their beginning, ii. 257.
+[1 sisted, i. 332; resistance to them is to judge, blame is due to the clergy,]
 
-Carnal, are not regenerate, ii. 132.
+[- forbidden. See Rulers. If they do i. 241.]
 
-Carthusians, a branch of the Benedic tines, i. 302. See Monks of the Charter-house.
+[unright and oppress their subjects, Landlords, their duty, i. 201; advice]
 
-Cast, i. v. to calculate, 92; subst. a contrivance, ii. 335.
+[God will avenge the wrong, 332; but to tenants, as to behaviour towards]
 
-Catharine of Arragon, her divorce, why treated of by Tyndale, ii. 332 ; why sought by Wolsey, 319, 322; the validity of her marriage should be tried by God's word, 323 ; the question considered, 323—33; if lawful, the pope cannot break it, 323; the wrong she suffered from the prelates, 320, 343.
+[theyare beneficial, even whentyrants, them, ii. 59.]
 
-Cellarer, or sellerar, a monk's office, ii. 287.
+[179 194, 198, 332; where the pope Latimer, bp. of Worcester and martyr,]
 
-Centum gravamina, a German remon strance against abuses unredressed by the pope, iii. 40.
+[rules they are but his officers, 242, i. Ixxvi; justified from Wharton’s]
 
-Ceremonies, instituted by men, cannot give peace, ii. 194 ; national, of Tyndale's day, i. 275; ceremonies pre scribed to Moses by God, and for what end, 16, 362, 414-5, 421-3; some of them were like a star-light of Christ, and some expressed him with thelight of day break, 422; Christ was the reality of what the chief of them pre figured, 427 ; these may still be ob served in things not unlawful of them selves, ii. 327 ; could not justify the performer, i. 415-6; iii. 65; yet sup posed so to do, 66-JO; uncommanded Jewish ceremonies, i. 275; religious ceremonies generally, tested by their effects, 286 ; no man to be judged because of them, ii. 113-4 ; how they came to be too highly regarded in early Christian church, iii. 68-70;
+[249 337; their power is then but a charge of subscribing the declaration,]
 
-not very injurious at first ; but be came a heavy yoke, and destructive, 74-8 ; are superstitiously watched by the common people, i. 277 ; iii. 117 ; and ignorantly observed by the na tural man, 8; injure him, who observeth them without knowing their purport, when of age to understand them, i. 362; iii. 39; such as have lost their significations, and obtained the reverence only due to God, are the salt to be trodden under foot, ii. 33-4.
+[4 shadow, 186, 239; corrupted by pre- That it was not necessary that the]
 
-Character, use of the word, in church of Rome, i. 342.
+[1 lates, 136; cannot be released from people should have the scriptures in]
 
-Charity, More urges, and Tyndale ob jects to employing this word as equi valent to 'Aya7rjj,ii. 135; iii. 14,20-1.
+[4 their treaties by the pope’s dispen- English, 35.]
 
-Charlemagne, ii. 262-5.
+[sations, 205.6; ii. 300-1, 311; the Latin, the tongue not understood by]
 
-Charles V. ii. 312-22; pensions Wolsey, 316; exposes his conduct in a publication circulated in the imperial dominions, 322.
+[people's proper remedy against evil teachers of grammar in Tyndale’s]
 
-Chastity, i. 438 ; vows of, 439.
+[princes, 196-7, 332, 334, 336. youth, iii. 55; all Instruction in Latin,]
 
-Cheap; good cheap, i. 122.
+[E Kingdom of heaven, the church of Greek, or Hebrew, deprecated by the]
 
-Chevisance, a bargain, ii. 297.
+[Christ, ii. 40, priests, 75; evils of Latin service, iii.]
 
-Childeric, deposed and made a monk, ii. 271.
+[Knowledge, v. used for acknowledge, 126.]
 
-Children, of the obedience due to their parents, i. 168, 171 ; who are little children, ii. 247-8.
+[i. xxvii, 57; and hence for to confess, Latria, iii. 56-7, 125.]
 
-Children of God, are they that believe, 145 ; and love righteousness, iii. 276; are corrected by their Father, ii. 188.
+[x iii. 22; how it maketh safe, i. 262; if Laurence, a martyr, and his legend, ii.]
 
-Chop, at the first, i. 241, 468.
+[j. our souls knowledge the truth, and 254.]
 
-Chopological, i. 304, 308.
+[eonsent unto righteousness, we have Law of God, is all perfection, and the]
 
-Chrisom, or Cresome, i. 225, 235.
+[the Spirit of life, ii. 149. mark whereat we ought all to aim, i.]
 
-Christ, meaning of the word, i. 228 ; ii. 153; his names, ii. 180, 182; what he is to his people, i. 19, 52, 110, 287,296-7, 300, 319; iii. 274; their atone-maker, iii. 275; their exam ple, i. 20, 72, 97 ; ii. 28, 30 ; their intercessor, i. 385 ; their only media tor, i. 287 ; iii. 275 ; their peace, i. 330; their righteousness, 95; God and Christ, all in all, 297-9 ; none other name, nor remedy, whereby salvation, i. 356-7 ; ii152, 155, 213, 214 ; is that which divers ceremonies, and persons, and things prefigured, i. 427 ; hath a perpetual priesthood, iii. 274 ; he is to God-ward an ever lasting satisfaction, and ever suffi cient, i. 228, 267 ; iii. 275 ; what he was promised to be and procure for us, i. 278; God hath covenanted to give salvation through him, iii. 275 ; his blood hath made satisfaction for the sins of all believers, ii. 154, 218 : hath obtained all things for them, i. 15, 19, 65, 71, 83, 433, 464 ; iii. 278 ; blesseth ever and purgeth ever, i. 285, 360, 370 ; no saint hath diminished aught of its power, iii. 275 ; he who feels its power, has first felt the pains of hell, i. 360 ; trust in aught else, cannot give real peace, 330; his deeds have purchased a reward for us, 116 ; his merits alone obtain forgiveness, ii. 76 ; what meant by his justifying us, i. 509 ; he is the only cause why we do good, and why God receiveth us, and maketh us such as he would have us to be, i. 300 ; ii. 175 ; from what he sets his people free, i. 18; he delivers both from the penalty and guilt, ii. 155, 158-60; his work, 152-3, 156, 168-70, 189; his preaching, like a sword, 131 ; He manifests the Father, ii. 26, 176, 183 ; the purport, evidence, and manner of his miracles, all differ ent from those alleged to be in the mass, iii. 262; his kingdom is not of this world, ii, 247, 2/3 ; his readiness to hear and help, i. 293 ; his people are his members, 296-7 ; are all one in him, 334 ; his coming in the flesh, a great stumbling-block, ii. 236 ; how denied, 176; the Jews' enmity against him, i. 133 ; ii. 72 ; yet he came not to destroy the law, 38; his body is in heaven, iii. 251-4 ; his manhood is a creature, and therefore not omnipre sent, 232, 254 ; what meant by eating his flesh, i. 369 ; iii. 224, 226-7, 236-8, 244 ; every believer bound to die for his doctrine, ii. 37-
+[Knowledge, subst. of God’s word need- 300; ii. 15; is spiritual, and requir-]
 
-Christen, plural of Christian, ii. 104,254.
+[fulto season our deeds and prayers, eth the heart, i. 81, 192, 450-1, 485-7,]
 
-Christen-catte, iii. 263.
+[ED.i.77., 503; given to teach us our duty, 24,]
 
-Christendom, used for christening, i. 277 ; ii. 72.
+[Kurteis, curteis, courteous, ii. 182. 443; and to bring us to the knowledge of ourselves, 10, 496; iii, 195; its]
 
-Christian, two things requisite to make, i. 471 ; his state and character, i. 90, 97, 263 ; ii. 170-1, 189, 201, 210; he is anointed, ii. 180, 184; the course of a true Christian, i.75,89 ; his confidence in God,ii. 159 ; inrespectof God.isbut passive, i. 197; "'• 174 ; but in respect
+[1 i L reception among different kinds of]
 
-GENERAL INDEX.
+[s Lady, our, popish term for the blessed men, i. 181, 185; by hypocrites, 449;]
 
-of that in which he labours, he works actively, i. 197 ; worketh because it is his Father's will, 77 ; as long as Christ abideth in him, so long he loveth, 298 ; lives not in wilful sin, ii. 189, 191, 212-3 ; cannot err, and yet may err, iii. 32-3 ; is not perfect till death, ii. 140, 152.
+[virgin, i. 159; their notion of her ii. 10, 11; it gives not the power to]
 
-Chrysostom, language inconsistent with doctrine of transubstantiation in a work ascribed to him, iii. 260 ; has ventured to charge the virgin with vain-glory, 207.
+[1 body’s being taken into heaven, and obey, i. 52, 115, 416; ii. 38-9; re-]
 
-Church, a building, iii. 11, 88 ; its pro per use, i. 106; ii. 1/0; iii. 11, 84; unbelief and superstition can only pray there, i. 118; iii. 11 ; sometimes laid under interdict, till money be paid.
+[E arguments to prove it, 159, 315; dis- quireth that which it is impossible]
 
-Name for the whole congregation of professing Christians, iii. 12, 13, 113; its constitution in apostolic times, ii. 153; there is ever in it a carnal and a spiritual people, iii. 54 ; each described, iii. 107-10, 113-4; the carnal would always persecute the spiritual, 109-10, 144. Whether the church was before the gospel, con sidered, 24-5 ; the offices of apostle, bishop, priest, deacon, and widow, in the church, are of God, 176 ; but not so the popish ceremonials for their consecration, ib.; whether this church can err, 30-1, 93-5. Name so used as to comprehend none but ecclesiastics and monks, iii. 12, 13 ; phrases and proverbs exempli fying this, 12 ; hence Tyndale pre ferred using congregation for ecclesia, in his New Testament, 13.
+[5 pute whether she was by birth exempt for our nature to do, i. 10, 47, 76, 86,]
 
-Church, name as confined to the con gregation of the faithful, ii. 12 ; or of the elect, iii. 13, 30, 113; this church described, 108-10, 113; this church cannot err damnably, ii. 12 ; iii. 30, 31 ; how a true member sinneth not, and is yet a sinner, 32, 1 13 ; multitude, no proof of the true church, 102-3, 109, 122 ; as they who depart from the true church are heretics, so they that depart from the church of heretics, and from a false faith, are the true church, 45 ; who are not the true church, nor of it, ii. 12; iii. 31, 33.
+[from original sin, 159, iii, 131; scrip- 485—503, 508; they who hate it,]
 
-Church papal, its infallibility contended for by More, and Tyndale's replies, iii. 93-102, 170 ; More affirms that it is to be believed in things for which no Scripture can be produced, 135, 139 ; grounds for judging whether the pope and his adherents be the church, iii. 9, 39-42 ; arguments used to prove it the true church, iii. 42-52; viz. That all heretics came out of the true church, and Lutherans came out of the papal, 42; answered, 43-5; That there would be no sufficient ground for believing the scripture, if the authority of the papal church might be denied, 45 ; answered, 4652; Its infallibility affirmed to be necessary, to prove authority of scrip ture ; and the answer, ii. 289.
+[ture shows that she was not so, i. 316; thereby break it, iii. 57; they who]
 
-Circumcision, its appointment and use, i. 349-51, 426; iii. 27, 65; the sign gave its name to the thing, 248 ; it figured baptism, and is compared with it, 246-8; increased the guilt of the Jew who hated the law, i. 358.
+[popish liturgy calls upon her to com- love it not, can have neither faith nor]
 
-Clamb, climbed, ii. 256.
+[. mand her son, with a mother'sautho- hope, ii. 7; nor can they understand]
 
-Clergy, papal, not to be blindly fol lowed, ii. 129 ; have set aside the scripture, ii. 103; iii. 139; corrupt its sense and the lives of the saints, 48 ; their hostility to the scriptures being made accessible to laymen, i. 393 ; the cause of it, iii. 24 ; their ignorance, i. 146 ; iii. 75 ; vindictive ways, i. 117, 340, 342 ; other evil ways, 147, 191, 213, 336, 339-41 ; iii. 40-1, 102-6; persecutors of God's word and its preachers, i. 337; iii. 48; condemn the just and justify the wicked, i. 242-3, 248; procure exemptions from punishments due to their crimes, i. 178-80; ii. 123-4; iii. 52 ; from the jurisdiction of laycourts, i. 178, 240-1 ; claim to be ex empt from all taxes imposed by the civil power, ii. 177 ; but taxed hea vily by YVolsey, i. 188 ; boast that they create the Creator, 280; their way of teaching and conduct, compar; d with what was foretold in 2 Pet. U. 1-3 ; Matth. xxiv. 24; 2 Thess. u. 9-11; 2 Tim. in. 1-5; iii. 102-7; their false and evil doctrine, ii. 123 ;
+[rity, ib. the scriptures, 7, 8; whence it is that]
 
-GENERAL INDEX.
+[Lady-fast, ii. 98. some hate, and others love the law,]
 
-their tampering with history and with the fathers, i. 337 ; iii48 : their con duct in the medieval ages, 268 ; for bidden marriage, but their concubi nage licensed, 40; the more wicked the people, the more they were feared by them, i. 339 ; and they made ru lers serve them, 282; iii. 53; their sources of wealth, i. 236-9, 244-5, 249, 341, 424; iii. 53; form used in degrading them, i. 233.
+[Lady's Psalter, account of, and speci- iii. 191; to those who love it belong-]
 
-Cobham, lord, his language respecting the presence in the Lord's Supper, iii. 243.
+[men, i. 150. eth mercy, i. 403; believers love it,]
 
-Cochlaeus, his account of Tyndale's labours at Cologne, and of his inter rupting them, i. xxxviii-ix.
+[Laity, should not be ignorant of the ii. 11; iii, 191; yet it condemns our]
 
-Coinage, copper, ii. 231.
+works, as worthy of death, i. 11, 113, ii. 2/2; Dist. xix. ca. l, or Si Roma- 464; thusit causeth wrath, i. 51, 498; norum, declares the decretal epistles ii. 4, 147; it cannot justify us, i. 51, of any pope to stand upon like foun- 114, 415; ii. 4; hence called the dation with the scriptures, for their ministration of death, i. 46, 416; and authority, ii. 209; and ca. 7, conthe letter that killeth, 308.9; its tains the papal exposition of Thou effects contrasted with that of the art Peter,” 81; Dist. xxii. ca. 2, or gospel, 21, 308, 389-90, 476; but let Sacrosancta, says that the church of love interpret the law, 403, 475; it is Rome was consecrated by the marnot needed to compel the believer, i. tyrdom of both Peter and Paul; and 297, 506; ii. 203; but proving us Dist. xxiii. ca. l,or In nomine domini, guilty and helpless, it disposes us to claims their joint authority for the receive mercy with thankfulness, iii. papalanathemas,ii.285; Dist. xxviii. 195; and drives us to Christ, ii. 26, ca. 17, forbidding the laity to inves- 120, 146-7; itis therefore to be kept tigate the lives of ecclesiastics, i. 178, in view, that we may be self-con- ii. 272; Dist. xxxiv. ca. 3, or Omni-demned, i. 12, 81, 416; that we may bus, to which the definition of a conseek Christ, 114, 416; ii. 26, 120; cubine is appended; and ca. 4, or Is that we may still be meek, i. 11, 12; gui, which says that an unmarried and give glory to God, 12; this right man is not to be repelled from comunderstanding of the law is the strait munion for keeping a concubine, iii. gate, ii. 120; to live according to this 4l; the more offensive language, knowledge of it is the narrow way, which anciently headed this canon, ib. 3 Christ came not to destroy the ib.; Dist. xl. ca. 6, or Si papa, delaw, but to repair it, 38; they who claring that if a pope should be so would destroy any portion of it, are wicked as to lead multitudes along abhorred by the children of the king- with him into hell, no man might dom, 39; we continue no longer in rebuke him, i. 329; ii. 299; Dist. grace, than while we purpose to keep lxiii, the heading of this distinctio it, 7; what meant by not being un- forbids the laity to interfere with the der the law,’ i. 501; what the ful- election of prelates; but ca. 22, or filling of the law,’ 488, (see Love); Hadrianus, is headed Imperator jus he who hath the law of belief in God habet eligendi pontificem, ii. 263; ca. graven on his heart, keepeth all his 30 of the same Dist. or Ego Ludovic, laws, ii. 325; law given by Moses incorporates the concession of Louis-was holy, just, and good, i. 414-5; ^ le-Debonmaire giving up this authohis law was divided into law of cere- rity, 279; and ca. 33, or T'ibi domino, monies, law of penalty, and law of incorporates the oath taken by the faith and love, ii. 324; the keeper of emperor Otho I. to pope John XII., hislaw had temporal promises, i. 415; 269; Dist. xcvi. ca. 7, or Satis, says and such still belong to keepers of that Constantine called the pope God, God's laws, 476; blessings or curs- and declares him consequently irreings naturally follow the keeping or sponsible to man, iii. 231-2; ca. 13 breaking of the law of nature, 418; of the same Dist., or Constantinus, if inferior laws hurt faith or love, affirms that Constantine gave a crown their authority ceaseth, 475. and royal dignity to the pope; and Law, papal, its authorised summary, ca. 14, incorporates his pretended the Corpus Juris Canonici, i. 46; deed of giftto pope Sylvester, ii. 279; from whence the following canons Decret. pars 24a Caus. ix. q. 3, ca. have been cited,— Decret. pars la 13, or Nemo, declares that no temDist. xvii. ca. 1, 2, 5, affirming that poral prince or potentate may judge any council, whose assembling has the pope, iii. 232; Caus. xi. q. 1, ca. not been authorized by the pope, is to 2, or Nullus, orders the suspension be deemed no morethan a conventicle, of any lay judge who shall have
 
-Colins^ an insane person, iii. 39.
+either distrained or condemned even Lemster, the woman of, her pretended the lowest ecclesiastic, i. 178; Caus. miraculous sustenance, i. 325-6.
 
-Collects, for St Lawrence's day, i, 231 ; for bt Stephen's, ib. ; for the saints in general, 290.
+## 1, 3, or Clericum cuilibet, Lending, 689
 
-Colossians, prologue to, i. 515.
+forbids the bringing of any accusation Lever, comparative of lief, rather, i. 123,
 
-Commandments, the first, iii. 274 ; a man cannot sin without breaking the first, i. 490 ; not given that God may profit by their being kept, but for our profit, i. 474; not taken away by Christ, ii. 38; their purport, i. 434, 470, 474 ; prepare the way for Christ, 104; ii. 20, 120, 146-7; detect the evil in our hearts, i. 51, 470; con demn us, i. 52 ; ii. 147 ; cannot be kept, but by those who have the Spirit, i. 81-2; ii. 38-9; made easy by love, 203 ; love for them proves faith to be unfeigned, i. 223 ; he that keepeth them is entered into life, 82 ; he that submitteth not himself to keep them, hath not the faith that justifi eth, 470.
+## against an ecclesiastic by any lay- 185
 
-Confession, i. 261-6; modern popish definition of, 342; of three kinds, 261-3; to whom it should be made, 266, 477 ; iii. 23 ; if rightly used, it were not condemnable, ii. 150; auri cular confession, or shrift, in the ear, a device of Satan, i. 263 ; an abomi nable thing, iii. 22, 172 ; began among the Greeks, i. 263 ; the usage relinquished in their church, and why, ib. and iii. 172; its presumed extent, impossible, i. 281 ; it tormenteth the conscience, and robbeth the purse, 245-6 ; required to precede all the sacraments, and thus makes them nugatory, 285, 337 ; use made of it, by papal clergy, 191, 281, 336-7, 341 ; the secrets thus entrusted to a con fessor have not been kept where the clergy had a purpose to serve, 337 ; ii. 296, 305 ; iii. 171 ; seamen confess their sins to the mast, i. 245.
+**man, ii.** 307; Caus. xii. q. 2, ca. 26, Leviticus, prologue to, i. 421-8.
 
-Confiteor, extract from the, ii. 220.
+or Concesso, declares that tithes arid Lewd, for misled, ignorant, i. 380; ii. E offerings were anciently shared with 105. ἢ the clergy by others, ii. 173; Caus. Liberty, law of, i. 119.
 
-Congruity, i. 466.
+**XV.** 4. 6, ca. 3, or Alius, tells that Light, adjective, not difficult, i. 456; 1 pope Zacharias absolved the French ii. 60, 256. from the oath of their allegiance,and Light, the knowledge of Christ is, i.
 
-Consecration, Aquinas calls it no heresy to affirm that the Lord had consecrated the bread before he said This is my body, iii. 241.
+## deposed their king, 261; Caus. xxiv. 490; 175
 
-Constantine's pretended gift of royal authority, &c. to the pope, ii. 279 ; Constantine the second, called Pious, when he had called the pope God, iii. 231.
+**q 1, ca.** 15, or Hogamus, says that Limbus, account of it from Dens, ii Peter's first see was Antioch, but 159.
 
-Constitutions, laws imposed by auto cratic authority, i. 132, 460.
+## translated to Rome by the Lord's Limiters, what, i. 212
 
-Conveyance, sleight of hand, fraudulent management, ii. 297.
+**command, ii.** 285; Caus. xxv. 4.1, Lindwood, or Linwode, his book of. ca. ll, or Generali, anathematizes Constitutions, i. 394.
 
-Corporiscloth, used in the mass, its alleged signification, iii. 74.
+every king, prelate, or potentate, who Literal meaning of the words used in 4 may think himself allowed to violate scripture, not always the meaning of D any decision of a pope, 282; Decret. scripture, iii. 229, 243, 248-9, 255.
 
-Corage, the heart and its affections, i.
+pars 3tia, De consecrat, Dist. v. ca. Loaf, a singing, popular term for the 92, or Carnem cuiquam, forbids bread used in the mass, and why, ii. 1 monks to taste any kind of flesh, 276; 301, iii. 227. Sexti Decret. Lib. 3, tit. xxiii. ca. 3, Long, v. belong, ii. 60. Ἢ or Clericis laicos, forbids princes to Longland, bishop of Lincoln, ii. 309; 3 lay any tax upon ecclesiastics, with- used by Wolsey toinjure queen Catha- 1 out the pope's leave, i. 179; ii. 277; rine, 320.
 
-Covenant, made between God and us, i. 469-70.
+## Extravag. comm. Lib. 1. tit, viii, Lopen, leapt, i. 267
 
-Cranmer, archbishop, receives a copy of Matthew's bible, and rejoices over it, i. Ixxv ; commends it to Crom well, and thanks him for procuring the king's sanction to it, ib., Ixxvi.
+r 1, or Unam Sanctam, declares that Lots, the use of, considered, i. 456.
 
-Creation, not permitted toman, iii. 242.
+the controul both of the spiritual and Louisle Debonnaire, conceded too much E of the material sword belongs to the to the popes, ii. 266; from his time E church, 272; and that whosoever will forward, no sovereign could correct s - not submit to the pope acknowledges the pope, nor keep the ecclesiastics of d himself to be none of Christ's sheep, his own realm in subjection, ib.
 
-Credence, a pledge to be credited,!. 85.
+**280. Lib.** v. tit. ca. 2, or Unigenitus, Louis X1I., consequences of the pope's E gives an account of the fund, at the hostility to him, 310; why married to 4 pope's controul, for selling pardons Mary of England, 313. A and indulgences, i.74; Decret. Greg. Love, cannot be without a cause, i. 84, E Lib. 1. tit. xxi. ca. 1, forbids the ad- 222; God gave his Son, that we might mission into holy orders of any person see love, and love again, iii. 196; it who has been twice married, iii. 165; comes of faith, ii. 88, 174, 204; ii. 173, 3 - Lib. 111, tit. xxviii, ca. 12, or Sacris 198; iii. 195-9; is a true sign of faith, r est, ordersthatif any excommunicated ii. 88, 130, 198; is the instrument E.. person has been buried in an eccle- wherewith faith maketh us children Y - $iastical cemetery, his bones should. of God, and fashioneth us after his be dug up, and cast out, 270; Lib. likeness, and certifieth us that we so IV. tit. i. ca. 16, or Commissum, per- are, 200; is the cause of good works, mits a man to forsake his betrothed 88; is the believer's motive, i, 21, 182, 1 for a monastery, i. 171; idem, tit. xi. 297-8, 434; ii. 203; how it fulfilleth 3 ca. 4, 7, make sponsorship a source the law, i. 192, 442, 475; ii. 11, 12, of obstacles to marriage, ib. 119, 173, 193, 202-3, 325; is above A Lease, leash, ii, 84. the law, 188; maketh all things easy
 
-Crome, for crammed, i. 264.
+1. and Marlborough, i. xxxvii, x1, and sacrifice of Christ, iii. 149; priest's r 129; Tyndale goes thither, xxxiv; manner in performing, i. 226; iii. and employs the press of Hans Luft, 74; priest's dress and its professed 5 (See Luft). Luther and Zuinglius meaning, 73, 117; superstitious forms 3, meet there, xxxviii, in celebrating, i. 247-8; ii. 220-5; iii. Marcion, an ancient heretic; transub. 96; their professed meaning, 73-4; 3 stantiation revives his heresy, iii, 254. it involves not one only, but many Margaret of France, said by Tyndale miracles, 261; an idolatrous rite, ii.. to know too much of Christ to con- 220. 1. sent to supersede Catharine, ii. 321. Masters, their duty, i. 201,
 
-Cromwell, lord, i. xli ; patronizes Coverdale, xlii ; instructs Mr Vaughan to persuade Tyndale to throw himself on the king's mercy, xlii ; his reply to Vaughan's letter, xlv; the despatch and its corrections, xlvi — xlviii ; he adds a clause urging Vaughan to in duce Tyndale to return, xlix ; writes to the English merchants at Ant werp, and to the councillors of the princess-regent in Tyndale's behalf, Ixix ; procures the king's license for • Matthew's Bible, Ixxvi.
+**Mark, Prol.** to his gospel, i. 480; on Matrimony, is a state ordained of God,. Paul's behaviour to him, ib. i, 264; but if it be called a sacraMarriage, of children, should be at ment, that name may be given to parents’ discretion, i. 169.70, 199; other similitudes of divine things, ib. discreditable proceedings respecting Matthew's gospel, prologue to, i. 468- marriages in papal courts, 170; im- 79; marginal notes on ch. 1-xx1, ii, pediments to marriage from papal 226-36; notice of exposition of ch. v, laws, 245; 'lyndale's argument to VI, VI1; i. li-ii; Prologue to the Ex- 1 prove that a marriage with a brother’s position, ii. 3-15; the Exposition, 16- wife is not unlawful, ii. 323-33; of 132,
 
-Grose, for crosier, i. 252.
+. brother with sister, why forbidden, Matthew’s, bible so called, i. 1xxiv- 3 331; Tyndale says that-it seems to Ixxvi.
 
-Cross, the Christian must have it laid upon his back, because he is too weak
+.him that there are cases in which it Maunchet, a small loaf, ii. 210. 1 might be permitted, ἐδ.; between Maundy, or Lord's Supper, i. 259. ἢ uncles and nieces, he affirms to be Maximilian I. his venality, ii. 311.
 
-GENERAL INDEX.
+not utterly forbidden, ἐδ.; says that Meekness, how it possesses the earth, the proper objection holds not to a ii. 20.
 
-to take it upon himself, i. 198 ; must be taken up, ii. 10, 28, 76 ; how a wooden cross, or the sign of the cross, may be used without sin, iii. 59, 60 ; such was the ancient use of it, but the abuse of these things makes men idolaters, 60-62.
+marriage between a widower and his Memory, or memorial; a shrine, or wife's sister, ib.; marriage of priests, small chapel, ii. 161; iii. 60. E 123; said by More to defile them Mercy, what it is, ii. 23.
 
-Crudelity, cruelty, ii. 25.
+more than triple whoredom, iii, 29. Merits, Christ hath promised all his to 1 See Matrimony, them that repent and believe, iii, Marshal, title of an officer of the king; 204. 1 T'yndale's use of it, i. 408. MeTavoéw, various Latin renderings, i. Martin, bishop of Tours, his prayer 477.
 
-Cunning, used for learning in a good sense, ii. 336.
+when he saw death to be nigh, iii, Μετάνοια, various English renderings, 3 279. i. 478; iii. 22; More objects to Tyn- 1 Martyrs, certain, in Cyprian's days, dale's rendering it repentance, and rebuked by him for thinking that not penance, 22-3.
 
-Curate, a parochial minister, as a person having the care of souls, i. 146 ; igno rance of the popish, ib., iii. 265 ; what sort of persons should be appointed curates, and what their work should be, iii. 265; how they should admin ister the L/ord's supper, 265-6.
+' their merits ought to be accepted as Metaphors, specimens of in current 1. Satisfaction for the offences of others, proverbial sayings, i. 304-5; called by d iii. 199. T yndalesimilitudes or allegories, 304. Mary, the Virgin; if a living woman Michael, the archangel, painted as loved God as much, her prayers weighing souls, iii. 163. E would availas much, iii. 184; More Miracles, divine, their purpose, iii. 83, Says, that her faith alone never failed, 130; not needed to prove the doctrine 39; St Mary days, i. 91. which is drawn from scripture, 129; Mary, anointing Christ's feet, i. 56. either feigned or done of the devil, if 1 Mass, Tyndale would derive its name to confirm what is contrary to scripA from the Hebrew, iii. 177; its cere- ture, i. 325-6; the false distinguished A monies said to be a service to God, from the true, by their purposes, 287, 5 to obtain both forgiveness and merits 289, 291; iii. 89-92, 127; a continued 1. thereby, i. 373, 424; said to help the succession of them claimed for the 1. dead, 423.4; it is an acting of the church of Rome by More, 100; his 0 [TYNDALE, IIL] 2 3 dp
 
-Cyprian says Christians were blamed for the calamities of his age, i. 164 ; asserts the perfect equality of all bishops, 215; declares the contem porary pope to be in error, and an upholder of heretics, 216 ; rebuked some severely, for imagining that other men's offences ought to be for given by the church for their merits, iii. 199.
+. confidence that they prove its doc- there should have been a great many trine, 127-30; were not always em- more burnt, iii. 97; affirms that he ployed to confirm the preachers of never heard of a reformer, who would scripture, 131; they who should con- not forswear himself to save his life, sent to the law, only because of ii. 340; his Supplication of Souls, ii. miracles, not unlikely to fall away, ^ 297-8; iii. 268; for which Tyndale 132. calls him the proctor of purgatory, Monastic order, any, called a religion, 11.297; iii. 268; his history of Richard i. 119; and religious, a name for its 111. quoted, i. 326; his Utopia, ii. members, 163. 225, 302; iii. 263; his Dialogue, i. Money, v. to bribe, ii. 302. xxvi, 286; title and other particulars Monks, their commencement and first respecting its publication, ii. 297-8; engagements, ii. 276; their vows, i. iii. 2; extracts from it, i. 41, 325-6; 430, 435, 438; ii. 163; the rules of iii. 14, 16, 21, 28-9, 38, 42, 56, 79, their order to be accessible in the 82, 84-5, 89, 93, 95-7, 100-1, 110, 113, vulgar tongue, for the benefit of 115, 120-2, 124, 133, 141, 150, 152, monks who knew no Latin; but the 167, 170, 173-88, 208, 211; Tyndale’s scriptures not so, i. 162; anciently Answer, i. xlii, L; iii. 4-215; his very few of them priests, iii. 149; Confutacyon of Tyndale’s Answer,’ forbidden, by the canon of law, to i. 4; ii1.2,3; extracts from it, i, xxvii, taste any kind of flesh, ii. 276; those lii, 3, 4, 36-7, 42, 220, 229, 254-7, 263, of the Charterhouse think that the 275-7, 483; ii. 194; iii. 5, 9, 22, 29, eating of fish pleaseth God, i. 278; 73,113, 227, 236; his tale of a conyerthe same monks forbidden all speech sation about T yndale's reference to a in the fratry and cloister, 302, 331. misnumbered page in his Confutation, Sell shares of their merits, 212, 227, iii, 236; his attack on Frith, and 431; their love to their neighbours Frith's reply, i.lvi; a farther reply only proportioned to the gain they by an anonymous writer, ascribed to gather, 299, 343; they fulfil not law Tyndale i. lvii; iii. 217-68; More of love, therefore their prayers avail acknowledges that papal pardons not, ii. 41-2; their professed zeal for may prove to be of no use to the righteousness manifested by persecut- purchaser, 28; says, marriage defileth ing, 24-5; vindictiveness, i. 294, 430; a priest more than triple whoredom, ii. 24. 29; that the fathers were inwardly Month-minds, and year-minds, i. 238. taught that the commandment against More, sir Thomas, persecutes Mun- graven images, should have no place mouth, i. xxiii.; Tewkesbury, 32; to forbid images among the christian Bainham, who is racked in his pre- flock, 79; hisaccount of somehandkersence, 35; his examination of Con- chiefs recently found at Bocking, and stantine, xxxviii.; is licensed to read, affirmed tohave belonged tothe virgin, and encouraged to attempt confuting 124; his defence of saint-worship,79- heretical books, xxxvi, 34; iii. 2; 80, 120-8; says that God remitteth not joined with prelates in collecting 200 the sins of the elect, because they are alleged heresies, from the works of his people; but hath chosen them, Tyndale and Frith, i. 34; his espe- because he foresaw their good ways, cial objections to Tyndale’s version 208: read and commented on a pasof the New "Testament, iii. 14; his sage in which Tyndale said of him, abusive language when speaking of that God might at last take an open Tyndale, i. xxvi, 32, 36,227, 263, 275, and sudden vengeance upon him, for 277; iii. 9, 151, 218; of Luther, iii. persecuting his word, and burning 3-5, 187; his hard words against his poor members, 231, Frith, i. 4; says Barnes ought to More, used for greater, ii. 228. have been burnt, notwithstanding Morton, cardinal, said to have betraythe king's safe-conduct, 3; says, that ed the confessions of the nobility to
 
-Damn, anciently used, where now con demn, i. 15.
+Henry VIL, and supposed by Tyn- Nicholas, the deacon, spoken of as dale to have been licensed to study founder of the heresy of the Nicolai-necromancy, ii. 305. tans, i. 42. Mortuary, why so called, i. 235; heavy Nicholas L, decreed that no secular exaction of, 237; act of parliament prince should assist at councils of against its continuing to be exacted, church, ii. 266. 235. Nominalists, sect of metaphysicians so Moses, his character, i. 412; how he called, i. 157. charged the people, 413; Moses and Norham Castle, pardons for rebuilding, Aaron, said by bishop Fisher to be ii. 278. respectively types of Christ and of Nosel or nowsle, to nursle, i. 318; to Peter, or the pope, 208-9. bring up, 508; also intransitive, to Mourners, what kind of, shall be com- find shelter, 505. - forted, ii. 19. Numbers, prologue to book of, i. 429— Mowing, making gestures with the 40. mouth, i. 226. Mumpsimus, the tale respecting, ii, O. 320. Oaths, compulsory ones, to make a Munmouth, Humfrey, his generosity to man convict himself, condemned, i. Tyndale and other poor scholars, i. 187, 203; likewise such as require Xxii, xxiv, xxvi; persecuted for be- him to injure his neighbour, iii, 147; friending Tyndale, xxii—xxiv. popish prelates learnt from Caiaphas to put men upon making such oaths, ὶ Ν i. 203; an oath to do wrong is sinful in the making; but to repent and Nails scraped, at the degradation of a break such, is a bounden duty, 206, - priest, i. 233. 246; ii. 57. Nameof God,how tobe honoured, ii. 82. Observants, a sect of the Franciscan Namely, especially, ii. 83. friars so styled, and why, i. xv, xxii, Natalibus, Petrus de, his reason for 38, 227, 301; ii. 44, 338; their rules, believing that the Virgin Mary was i. 301; not permitted even to handle taken up bodily into heaven, i. 159; money, ib.; banished the kingdom, his account of origin of Patrick's 38; one of them sent by Wolsey in purgatory, 290; his account of an search of Tyndale, xxxiv. idol inhabited by a devil, iii. 92; of Obedience of a Christian Man, i. xxxiii; miracles wrought by Aquinas, 131; introductory notice, 129-30; preface, of Martin's dying prayer, 279. 131-62; prologue, 163-7; the treatise Nations punished by God for sins, ii. itself, 168-344; summary of its con- 53-4. tents, 331-44; written three years Natural son, term used for partaking of before Practice of Prelates, ii. 344; his father’s nature, i. 20, 107. Tewksbury, Bayfield, and Bainham, Nay and No, More’s remarks upon the condemned for possessing it, i. 32-6; distinction between these words, iii, given by Bilney to an anchoress, 129; 25. lent by A. Boleyn, and seized and Neck verse, i. 180-1. delivered to Wolsey, 130; read and Neighbour, the word explained, i. 85; approved by Henry VIII., ἐδ.; called duty towards, 98; ii. 119; desertion by More, a more wicked book than of those duties unlawful, i. 279; God Tyndale's Mammona, 41; articles is dishonoured by such desertions, which the prelates affirmed to be iii. 57; to be loved, ii. 46; wherefore, contained in it, and pronounced 47. heretical, i. 170, 173, 177, 183-4, 195, Neither nother; neither the one nor the 210, 229-30, 246, 255, 259, 269, 271, other, ii. 129. 288, 297, 306, 314-5, 319, 322, 325, New life wrought by gospel, ii. 88, 330.
 
-Dandyprat, a coin, ii. 306.
+21—2
 
-Danger, to be in any one's danger, a legal term, i. 502 ; state of dependence, ii. 293.
+Obedience to parents and rulers, why, Parables, not to be expounded word by and to what extent due, i. 25, 116, word, i. 85. 168-70, 331-6; of wivesto husbands, Pardons, papal grants of, i. 86, 122, 171; of servants to masters, 172; of 244; the pope’s account of their subjects torulers, 173-88, 332-6; when source, i. 74; More acknowledges obedience may be demanded, and by ^ that the purchaser cannot be sure that. whom, ii. 61-3. they will profit him, iii, 28. —. (Ecolampadius, called by More friar Parents, ought not to put the lures of Huskyne, i. xy; iii, 5, 258. ambition before their children, to Offenders, how to be dealt with, ii. 46. stimulate them to exertion, i. 199. See Office, the humblest temporal is re- Obedience, Children, &e. ceived from God, i. 101. Parishens, for parishioners, i. 257, Officers, are honoured when God’s law Parliaments, manner of managingthem, is obeyed, iii. 57; are bounden to iii 159; plain parliament, for pleno remember that the lowest person sub- parliamento, ii. 256. ject to them is their brother, 58; Parker, chancellor of Worcester, burns dishonour God when they abuse their Tracy's dead body, i. xviii; iii. 270- « power, ib. 1, 282; heavily fined for it, 270; Oil for anointing the sick, sold by the. summons Tyndale, i. xvii; reviles bishops to the inferior clergy, iii. 20. and threatens him, 395. On, against, ii. 119. Parson, means person, ii. 67; used for Orders, holy, i. 254-9. rector, 261. Origen, his exposition of Upon this Passe, for paschal, iii. 145. rock,” i. 218; of the keys, ἐδ.; drew Passion, suffering, ii. 110; popish all scripture into allegories, 307; a preachers sell their merits instead of heretic, 220. Christ’s passion, 12. Otter, counted fish on fast-days, ii, 97. Passover, its appointment and signiOught, for owed, i, 338. “fication, i. 353-5; compared with Overset, overcharge, ii. 71. Lord’s Supper, iii. 242, 246-7, 250, Pathway into the Holy Scripture, introductory notice, i. 3—6; the treatise, Ρ. ἡ---28; is a reprint of Prologue to New Testament, 3. Pace, persecuted by Wolsey, ii. 317. Paul, not inferior to Peter, i. 210; this Pain, suffered by God’s creatures, de- asserted in a work incorrectly ascribed lights him not, ii. 96; what his peo- to Ambrose, 226; his manner of ple may suffer, is not regarded by preaching, i. 96, 210-11, 219, 288, them as making satisfaction for their 292; his doctrine of the sacrament of sins, but as inflicted for a gracious the Lord's Supper, iii. 251, 255-6; purpose, iii. 143. his conflict, ii. 159; said by More to Paneitas,a word devised by schoolmen, haverestored Eutychus by his merits, i. 158. iii. 145; but his holiness or prayers Panter, keeper of the pantry, i. 456. are not to be our confidence, i. 288; Papa, earliest known instance of this though he sent his handkerchief to name being applied to a christian the sick, and they were healed, 226., minister, ii. 259; taken as his pecu- Pavia, the result of the battle there dis-.liar title by bishop of Rome, ib.; covered Wolsey’s double dealing, ii. a new interpretation put upon it, ib.; 317-8.. its origin is ascribed to Pape inter- Pax, name given to a crucifix, handed jectio admirantis,' in the gloss on the about to be kissed, iii. 126. Procm. Constit. Clement. V. col. iv. Peace-makers, ii. 26-7. Corp. Jur. Canon. Lugd. 1671. Peaced, appeased, ii. 110. Paphnutius, opposed the enforcing of Pelagius, ii. 104, 121. celibacy on the clergy, iii. 165. Penance, i. 260-1; ii, 156, 161-3; iii.
 
-Darkness, in doctrine, ii. 102-4.
+**171.** modern definition of it, i. 342; Gabriel Donne for his coadjutor, 1 is a deceitful term for repentance, Ixix.
 
-Days, holy, their use, i. 24, 226, 231 .
+**260.** is no sacrament, 261; iii, 171; Phocas, emperor, first conceded suprewithout faith is vain, ii. 162. macy to the bishop of Rome, ii. 258. Pence, two, the Samaritan's gift, inter- Pictures in churches, Epiphanius preted by some to mean the Old and would have them destroyed, iii. 182., Γ + New Testament, ii. 86. See Images. Pentateuch, Tyndale’s; account of pub- Piled, pilled, or peeled, i. 117, 227. - lication of his version, i. xxxix; Pilgrimages, i. 201, 437; iii. 63, 84-7. ^ prologue to, 392-7. Pix, or pyx, the ornamented case in 1 Pepin, his patronage of the pope, and which the consecrated wafer is kept, gifts to him, ii. 261. iii. 268. Per Dominum, name for a formal Places, the notion that prayer offered prayer, ii. 288. in certain places are especially availPerfect, to be, what meant by this ing, iii. 84.9. charge in scripture, ii. 71; perfection Platina, the popish historian of the E not attained in this life, 150-1. lives of the popes, tells how one conPersecution, will befall the righteous, demned the decrees of another, i. 324; 1 but they merit not heaven thereby, his testimony to the departure of the 1 ii. 28, 29; neither is it a satisfaction popes from the ways of virtue, since for their sins, 29. Adrian the Third, ii. 267; to the Pertelet, or partlet, i. 226. covetousness of the papal clergy, 255; i Peter, prologues to his epistles, i, 527- citations from his De vitis Pontifi- 9; how he may be styled chief of the cum, ii. 255, 258, 261, 267, 269, 270. apostles, ii. 249-50; bishop Fisher Plowland, or carucate, i. 236. says that he paid tribute as the head Pluralities, sanctioned by popes, ii. 275, of the apostolic family, i. 190; his 2988; iti. 42; Clement V II., authorises confession was the rock, ii. 234, 281, his nephew to take possession of all 284; the promise of the keys made vacant benefices throughout Christen-to all in his person, i. 205, 218; his dom, and to hold them for six months, 1 seat and his keys are his doctrine, ii. 275; Wolsey', 337; not duly reii. 286; his supremacy disproved, strained,by Actof Henry VIIL.ii. 336. 249-50, 280-5; opinions of ancient Poetry, fiction, ii. 268. fathers respecting the authority and Poison, word used as an adjective, i. 17. 4 charge given to him, i. 216-18; pope's Poleaxes, borne before a papal legate, claims to authority as derived from i. 251; their signification, ib. b - that charge, ii. 280-1; pope's claims Polling, taxing, ii. 59, 60, 258. 1 to be his successor, 207, 281-5; papal Poor, the, duty towards them, i. 103.. law says that Antioch was Peter's Pope, the progress of papal power com- ἢ first see, 285; Peter's patrimony, pared to the growth of ivy, ii. 270, 3 - i. 207; legend of his consecrating 274; manner of its growth, 257-88; 3 — Westminster Abbey in person, 326. some of the pope's pomp borrowed Pharisees, their name marks their cha- from the Jews, and some from Gen-racter, iii. 108. tiles, i. 336; iii. 20; obtained from x Philautia, word used ironically for phi- Greek emperor Phocas his title to 1 losophy, i. 154, supremacy over all bishops, ii. 258; Philemon, Prologue to Ep. to, i. 520. quarrelled with Greek emperor's con- 5 Philippians, Prologue to Ep. to i. 514. demnation of images, and henceforf Philips, Henry, seeks Tyndale’s friend- ward built up their power by the aid ship to betray him, i. lxv; borrows of French sovereigns, iii. 183-4; the - money from him, Ixvii; brings the right of electing popes given to Char-emperor's officers to arrest him, ib.; lemagne and his successors, ii. 263; 3 procures the arrest of Poyntz, as a but relinquished by Louis-le-Debon-. succourer of Tyndale, lxxi; has naire, 266; Stephen IV., Paschal I.,
 
-Dazing, stupefaction, i. 167.
+Nicolas I., Adrian 11. and Adrian of the church, 166; stirs them up to HIL, each made advances towards war against each other, 186-8; ii. 294- rendering the election of a pope inde- 5; cost of the pope's friendship to pendent of the western emperors, 266- England, i. 235; ii. 300-7; his par- 7; popes usurp authority of kings,. dons are neither needed nor helpful, and over them, i. 186, 328, 339; it is 84; four millions of men supposed to said that Otho of Saxony received the have been slain for the pope's quarempire from pope John XII., and rels, 267; they receive intelligence took what nearly resembles an oath secretly and rapidly from all parts of of allegiance to him, ii, 269; Gregory christendom, 296; and make war or V.regulated the election of the em- peace as suits their interest, 300, 311; peror, and constituted the seven elec- they receive evil-doers into the ministors, 260; emperor Henry VI. re- try, 275; protect wickedness, ib.; ceived his crown from the feet of dispense with the clergy's performpope Colestine, who kicked it off ance of their duties, i. 148; sanction again, 271; Aquinas asserts that the and encourage theholding of enormous pope's dominion is above all human pluralities, ii. 274, 288; iii. 42; they dominion, and that he may properly consent not that God's law is good, be called Christ, king, and priest, iii. 40; they belie his mercy, ii. 157; 291; what power he claims, i. 188- they tempt Christendom as the devil 98, 268-9, 328; he absolves a pena tempted Christ, 274-5; summary of et culpa, 271; iii. 103; whilst God is their evil ways, i. 336; instructions said by the papal clergy to forgive for their prelates and clergy, ironithe offence, but only to mitigate the cally suggested, 233-4; neither the pain, i. 271; souls in purgatory said pope nor his adherents the church, to be under pope's jurisdiction, 269, ii. 9, 39-42; answers to arguments 271; ii. 287; popes grant remission of whereby his adherents would prove sins to such as engage in wars for themselves to be the church, 42-52; their ends, 295, 301; dispense with the pope has received the kingdom of oaths, for the like purpose, 300, 311; the world from the devil, ii. 274.. no man may dispute the pope’s Popetry, puppetry, iii. 27. power, iii. 231; his code of laws, i. Popinjay, a parrot, iii. 72. 46; ii. 279; in that law it is written Portess, or porteux, a prayer-book, i. that a pious emperor called the pope 230. god, and that he is therefore irre- Pouldering, powdering, iii. 222. sponsible to man, iii. 232; that no Pouling, ii. 258. temporal sovereign or power may Poverty,does not secure God's blessing, judge him, ib.; though the decisions 11. 16; of spirit, 16, 17; the vow of of one pope have sometimes reversed voluntary, when it may be good, i. those of another, i. 324; iii. 99; and 435; when and how evil, 430, 435. one living pope has deniedtheautho- Poyntz, an English merchant at An-rity of another, i. 324; but his law twerp, receives 'lyndale into his says, that if a pope be everso wicked house, i. lxv; he writes letters to prono man may rebuke him, 328; iii. 41; cure Tyndale’s deliverance, lxviii; his claim to supremacy contradicted goes to Brussels with letters in his by the language of Origen, Cyprian, behalf, 1xx; is imprisoned and exAugustine, Jerome and Gregory the amined for this, 1xxi; but makes his First, i. 214-16; incompatible with escape, Ixxii. scripture, ii. 247-61, 280-6; his doc- Prayer, i. 296, 302; is public and pritrine cannot be true, i. 131; its cha- vate, ii. 79; for public, a place is racter, ii. 198; teaches disobedience needed, ἐδ.; how it should be conto the civil ruler, i. 166; confers pre- ducted, i5.; promises to prayer, i. 94, sents and titles on kings, 186-7; that 293; even the heathen have received they may shed blood for the liberties their petitions for worldly things, iii.
 
-Deacons, meaning of their name, i. 230 ; original appointment and office, 230-1, 259; ii. 253; iii. 149; how their power augmented, ii. 256 ; and they became encouragers of much evil, ib.
+181; yet prayer is vain, unless from Predestination, i. 65; by it the work of the heart, ii, 80; what true prayer is, our salvation is taken out of our i. 93; ii. 785 whence it springs, i. 93, hands, and made the work of God, 118; ii. 115; must be offered in faith, 505; precious, when so regarded, ib.; 118; is hourly needed, 77; there is a perilous, when made the subject of victory to be gained, 116, 120; there- curious inquiry, ib.; the doctrine fore it should be continual, like that offensive to More, iii. 140. of Moses for victory over the Amale- Predicaments, a term in logic, i. 157. kites, 116, 118; is a comfort to the be- Prelates, the Practice of, i. xxxix, xli;. lieving, 80; intercessory prayer cannot omissions in some ancient editions, be bought with money, i. 96; though and why, ii. 238; introductory notice, hypocrites will pray for hire,aftertheir 238-9; T'yndale's preface, 240-6; the manner, ii. 78—81; the Christian de- treatise, 247—344; evil, are proofs sires to pray for his neighbour, i. 93; that God is angry with a people, i, - and desires his neighbour's prayers, 195. but must not trust in them, as though Prelates, popish, call themselves the his neighbour could give what he church, and infallible, ii. 289; the asks for him, iii, 277-8; unprofitable- service of kings and great men, ness of prayer in an unknown tongue, in secular employments, a means of ii. 221; the Lord's prayer, 82-6. procuring their office, 256; hold Preachers, should be chosen after Paul's great offices in the state, i. 274; have + rule, i. 282; not every man to take that left preaching, but reserve to themoffice, 283; ii. 36; the ungodly are selves profitable or honourable cereunfit for it, i. 207; it requireth the monials, ib,; procure an act, making whole man, ib.; the trueand false dis- employment at court a license for tinguished, 300; the true trouble not non-residence and pluralities, ii. realms, ii. 245; but are slain at the 256; their pomp, i. 246; compared instigation of the hypocrites, i. 382; with Pharisees, ii. 242-3; flatter and the false shall be confounded at seduce kings, i. 136; but trouble Christ’s coming, ii. 184; covetous their realms, ii. 245, 294-8, 333; and preachers arefalse prophets, 17; min- destroy their authority, i. 239, 247, isters bound in duty to be preachers, 249; or usurp it, to put down their i. 101, 207; the woe against not opponents and all reformers, i. 185, preaching, is terrible to the popish 242, 337; iii. 73; they make it heresy prelates, and to their head, 207; when to know God's word, i. 243; ii, 290; Christ described true preachers, he and exhort rulers to slay such as they called them the salt of the earth, and have chosen to condemn, i. 242; they the light of the world, ii. 34; their endeavoured to suppress Tyndale’s discourse should be salt, 31-2; those New Testament, xxxii; and procured who havelost their salt are disallowed a royal proclamation against the of God, 33; they must rebuke the authors, distributors, and possessors prevalent false doctrines and supersti- of books against popery, xl; learnt tions, 92; must call the nation to re- from Caiaphas to put men on their pentance, 95; but not arm themselves oaths, for an accusation against themwith a sword against oppressors, 68; selves, 203; their use of penance and by preaching of faith, they work love purgatory, ii, 161-3; of the mass, in the soul, iii, 205; secular princes 224; the signification of their mitres, should command true preachers of i. 233; of the crosses borne beGod's word to preach the gospel fore them, 234; of their other ornapurely and plainly, and that once or ments, 251-2; their sinful courses, ii. twice in the week, 265; such preach- 161-3, 254, 293, 342; their greatness, ers sometimes bring in a great mul- 256; not likely to be good, while titude who, though called, are not they are so great, 337-8; mischiefs chosen, 70, 107. resulting from their influence, in this
 
-Deal, divide, ii. 83 ; iii. 250.
+í » EES ET o 928 GENERAL INDEX. country, i. 336-9; ii. 225, 294-8, 302; office of such, i. 229, 256, 436; none iii. 138, 166; when employed as am- such but those who are chosen, 256; bassadors, consider nothing but the what their character ought to be, advantage of their church, ii. 303; 229; should be married, 230; have a care for the prosperity of no realm, just claim to be respectably mainin comparison of that, and bear no tained by their parishioners, 230, 437. true allegiance, but to the pope, 303, Princes, secular, should be the pastors 333, 342; their plotting against and head rulers of the congregations Charles V., 312; are a bicorporeum, committed unto their care, and should or corpus neutrum, 342; their secret place curates over each parish, iii. organization, and communications 265. with each other, and with the pope, Prognosticators, Tyndale supposed the
 
-Debtors, mercy towards, ii. 69.
+[296 what they would do if they were prelates to be such by necromancy,:]
 
-Defender of the Faith, bull of Leo X. conferring this title on Henry VIII., i. 186; how obtained, and its recep tion, ii. 338; Julius II. had conferred it before on James IV. of Scotland
+[true apostles, iii. 93. or astrology, ii. 308, 312, 342. 1]
 
-Defy, used for distrust, iii. 38; for dis dain, ii. 157.
+[Presbyteros, why rendered by Tyn- Prologue to New Testament by Tyn-!]
 
-De Media Villa, or Richard Middleton, notice of him, i. 153.
+[dale senior, or elder, in New Testa- dale, a copy recently discovered, i. 4:]
 
-De Monte Regio. See Regio-Montanus.
+[ment, iii, 16, 17, 20; the presbyter's its variations from the Pathway, given]
 
-De Nova Villa, notice of him, i. 153.
+[office, thought by 'T'yndale and Ham- in notes to the latter, 7-23.]
 
-Denmark, king of, styles himself king of England, i. 187; ii. 384; its king expelled in Tyndale's days, ii. 384.
+[mond to be less ancient than the epis- Promises of God, should be pleaded]
 
-Dens, quotations from, i. 159 ; ii. 287.
+[copal, ii, 256. in prayer, ii. 167; whom they help,]
 
-Depart, for divide, iii. 95.
+[Presently, after the manner of a thing and whom not, i. 121, 423, 464; all i]
 
-Deserving and free giving, cannot stand together, i. 436.
+[in our presence, i. 367; iii. 232, those in the scriptures include a co-]
 
-Desiderius, king of Lombardy, ii. 262-
+[Pretend, allege, ii. 90. venant, 403-470; ii. 6; when believed,]
 
-Despair comes of wilful sin, ii. 76.
+[Prevent, go before, i. 498. they justify, i. 52.]
 
-Deuteronomy, Prologue to, and sum mary of contents, i. 441-4; table of words expounded, 455.
+[Priest, the same word used to designate Prophets, false, not Turks, nor Jews,]
 
-Devil, children of the, ii. 190-2; works by blinding, iii. 191.
+[two very different classes of ministers; but popish doctors, ii. 121; are where,]
 
-Dialogue between the father and the son, i. 39-41.
+[in the one case it is used as equi- no love of truth is, 129. i]
 
-Dignities, church dignities how ob tained, ii. 177.
+[valent to Iepevs, or sacerdos, i. 255; Prosperity, a perilous thing, i. 138.]
 
-Diligenterly, more diligently, iii. 98.
+[such is Christ for ever, ib.; and such Prosperus, or Tiro Prosper, some ac-]
 
-Dirige, what.i. 148.
+[are all believers through him, ib., count of him, i. 487.]
 
-Discipline, what the church ought to have, ii. 219, 251, 252.
+[506 527; no special class of priests, Protest, to declare before others, i. xii.]
 
-Dissimule, i. 341.
+[in this sense of the word, any longer Protestation, Tyndale's, concerning his]
 
-Divorce, Christ's law concerning, ii. 51-2, 54-5.
+[needed on earth, 255-6; these should belief as to the state of departed souls,]
 
-Doctrine, to be tried by scripture, ii. 103, 121, 195 ; he that will do God's will, shall know what is the true, ii. 40 ; must be examined before believ ed, ii. 195.
+[have a different name in English, i5.; i. Ixii-iv.]
 
-Dogs are the self-righteous, ii. 10, 114.
+[More says the name has always sig- Provision, made by God for his people,]
 
-Dominicans, or black friars, i. 159.
+[nified an anointed person, iii. 19; ii. 106-10, 117; a reason for prayer,]
 
-Donne, Gabriel, a monk who assisted Philips in the trepanning of Tyndale, connected with Bishop Gardiner, and rewarded by Bishop Vesey, i. Ixix.
+[and that few durst be priests in the 117-18. 3]
 
-Do on, put on, iii. 251.
+[old time, 150; his arguments for,and Psalms, Greek and Latin mode of num-]
 
-Dorbel, or Nicholas de Orbellis, notice of him, i. 151.
+[Tyndale's against, their compulsory bering, how different from Hebrew;]
 
-Doulia, a schoolman's term, iii. 56 ; the distinction they would make be tween it and latria, untenable, iii. 57.
+[celibacy, 151-6; those of the papal and English, i. 160. s]
 
-Duns Scotus, i. 91, 108, 158-9 ; did no miracles, and contradicted Aquinas, iii. 131.
+[church are said to sacrifice Christ's Pureness of heart, ii. 25.]
 
-Duns-man, i. 108.
+[body, 149; ground of their claim to Purgatory, i. 159; ii. 161-3, 257; iii,]
 
-Durandus, his Rationale divinorum, iii.
+[a power exceeding that of angels, i. 146, 180, 214; ironically said to be Ξ]
 
-During, enduring, iii. 264.
+[380 admission into this priesthood rightly so called, i. 244; is a source ——]
 
-GENERAL INDEX.
+[refused to persons who have been of wealth to the papal clergy, 244, 1]
 
-Dutchland, Tyndale's name for Ger many, ii. 266; Popish clergy there licensed to live in sin, iii. 40 ; Tyndale observes that there are nations within the inclosure of Germany, who speak tongues unknown to the Ger mans, ii. 268.
+[married more than once, iii. 152-5, 303, 318; ii. 161-3; a fire that may =~ -]
 
-Duty, what is due, or owed) i. 82, 103.
+[165 manner of consecrating them be quenched at a low price, iii. 3]
 
-Ear, plow, i, 401 ; ii. 101.
+[borrowed partly from the Jews, partly 28, 141; its supposed place, ii. 287; 1]
 
-Earnest, a pledge, i. 76.
+[from heathens, 20; usually styled Sir, popes take authority to bind and loose]
 
-£cclesia} why rendered by Tyndale congregation, rather than church, iii.
+[and scornfully Sir John, i. 277; there, i. 269, 271; have promised de- -]
 
-Eden signifies pleasure, i. 407.
+[Secondly, the name is used as equiva- liverance from it, for killing French-!]
 
-Edward IV. affianced to a Spanish princess, and his marriage ascribed by Tyndale to the witcheries of a friar, ii. 304.
+[lent to presbyter, or elder, i. 229, 256; men, ii. 301, 311; have bidden the r]
 
-Egal, equal, i. 174.
+[such never named Iepevs by apostles, angels to fetch men out, i. 269; there $]
 
-Elders, who so called in scripture, i. 478.
+[nor sacerdos in Vulgate, iii. 20; the is a right purgatory, 321; but the 3]
 
-Elect, their state and character, i. 14, 15, 77, 89, 107, 263-4; iii. 30-1, 35, 109, 111-13 ; God's love for them, and what he does for them, i. 13-14, 77 J iii. 191 ; were justified by faith in the promised Saviour from the first, i. 417 ; their faith, iii. 113 j difference between it and that of such as are called but not chosen, 69, 70, 107, 114 ; their hearts melt at the preach ing of God's mercy, i. 19 ; their regard to Christ in all things, iii. 109 ; their temptations, ii. Ill ; iii. 36-7; their struggles against sin, iii. 113; must have patience, and be long sufferers, iii. 36 ; mercy waiteth ever on them, ib.; shall rise again when they fall, ii. 171 ; their infirmities recorded, that the weak may not despair, i. 311, 399, 400 ; they that be in heaven know the elect, and for them only pray, iii. 279.
+- pope's purgatory is needless, iii, 142- i.18; nor work God's will, i. 277; 3; it prevents men from confiding in ii. 182, 190. God, and makes him only terrible to Regiomontanus, al. De Monte Regio. them, ii. 159; they are told that he or John Muller, notice of him, i. 152. has appointed seven years in purga- Relics, God would have dead bones tory for every deadly sin, i. 271; they considered as polluting those who who fear it cannot but utterly abhor touched them, iii, 83; More affirms death, iii. 281; it is irreconcileable that miracles have been wrought to 1 with scripture, ib.; More says, that encourage their worship, iii. 100, 122- prayer to a saint in purgatory has 4; hisaccountof some small kercheors E. procured health for a living man, 121; recently discovered at Barking, and L St Patrick's purgatory, i. 290. affirmed to have belonged tothe Vir-
 
-Election, the manner of, iii. 35-9 ; its cause in God, not to be questioned, i. 89 ; how it may be known, 80, 85 ; cannot be known to those who only honour God with their lips, 78.
+## gin, 124
 
-Elyot, sir Thomas, employed to trepan Tyndale, i. Ii. ; extract from his letter to duke of Norfolk, ib.
+**Q.** Religion, used for a monastic order,
 
-Emperor, decree of Gregory V. concern ing election of, ii. 270.
+## i. 119
 
-Empire, transferred to Germany, ii. 269 ; received by Otho from the pope, ib.
+Quentel, printer for Tyndale at Cologne, Religions, for monks, i. 163. E i. xxviii, 4, 5. Rents, tenements, ii. 275. Quiddities, a schoolman's word, i. 158. Repentance, includes four things, i. Quoth he, the incessant recurrence of 477-8; its work, 261; iii. 23; papists these words in More's Dialogue, i. substitute a purpose to do good works, f 286; ii. 297; hence Tyndale’s name 204; whosoever repenteth is heir of for the speakers in that dialogue, i5.; Christ's merits, and beloved of God, as also, Quoth your friend,” iii. 20. i. 271; Christ's love and favour are
 
-Endote, endow, i. 249.
+## immediately his, iii. 254
 
-Enemies, what to be hated, ii. 50; pri vate, to be loved, 70,71.
+Reward, means what is given freely, Racha, its meaning, ii. 45, 229. rather than what is deserved, i. 116, Rascal, for the common people, ii. 306, 434. M
 
-Enfeoff, i. 218.
+**114.** Richard II., England punished by God Rather, for earlier, ii. 332. for his murder, ii, 53. Raught, pret. of reach, iii. 241. Riches, God's gift, ii. 16; do not shut Reade, i. e. advise, i. 324. out God's blessing, ib. and 101, 106; Realist, a sect of metaphysicians, i. may not be trusted in, 20, 101, 106. 1 167. Right hand to be cut off, ii. 50, 51. Record, to meditate upon, i. 508; ii. Righteous, who, i. 95; iii. 205; to love
 
-England, the injuries it has suffered from the influence of popes and popish prelates, i. 335-9; ii. 225, 294-322; iii. 138, 166.
+**108.** is to be righteous, but maketh not Rede me and be not wrothe—or the righteous, 206; to believe in Christ's burying of the Mass: a satire on blood, with a repenting heart maketh p Wolsey, i. 39; extracts from it, 39, righteous, ib.
 
-Ens, scholastic term, and schoolmen's queries respecting it, i. 158.
+**40.** Righteousness, the fulfilment of the 1 Reformers, More says he never heard law from the heart, i. 16; iii. 205; of any of them who did not forswear what the only righteousness of him ΗΝ themselves to save their lives, iii. 113, that cannot but sin, 206; righteousE. 15; why some of them fall away, ness of works described, i. 15, 112; 1 A 115. the word used as equivalent to justi. Regenerate, are they that believe, ii. fication, iii. 82; righteousness before A. 145; the carnal are not; they who love God is belief in his promises, i. 16; i P not God and man are not, ii. 191, 192, ii. 108; is called God's righteousness, 8 193. i. 494; he that thirsteth after it, trust- “ἢ Regeneration, what it is, ii. 199, 200; ing to Christ's blood, is accepted for B - whence, i. 277; the Spirit and doc- full righteous, 94; righteousness of 3 ες trine on God's part, and repentance Christ is our help, 496; cometh Ὺ and faith on ours, beget us anew in upon us through faith, ib.; righteousChrist 27; man before his regene- ness springeth not out of the deeds r - ration cannot think aright of God, of the law into the heart, but the
 
-Ephesians, Prologue to Epistle, i.514.
+deeds of the law spring out of the the truth of Gospel, ii. 35; compared righteousness of the heart, iii. 205; with Jewish elders, and warned, 243; righteousness of believers is both evil, area sign that God is wrath with perfect and imperfect, ii. 90; these the people, i. 194-5, 334; ii. 111, 112; two mingled by the spiritualty, 109;. the people's proper remedy against meaning of the word as used Matt, v. evil rulers, i. 196, 197, 332, 334, 336. 6; ii. 22. Rutter, rider, 11, 292. Rincke, Herman, a personage of importance at Cologne, from whence S he drives Tyndale, i. xxix; warns the king, Wolsey, and Fisher, of Sabbath, of what intended to be the Tyndale’s labours, xxx; enjoined sign,i,351,352; iii. 67; its use, ib.; lax by Wolsey to search for Tyndale, doctrine concerning its obligation, 97. xxxiv; his letters to Wolsey, ib.; Sacraments, what, i. 252, 283, 409; all bribes the magistrates of Frankfort, the ceremonies, ornaments, and sacrito get possession of T'yndale's books, fices of the old Testament were sacraxxxv; says they would otherwise ments, iii. 27, 64, 82; the rainbow, - have found their way into Scotland, a sacrament, 27; our works are in ib. a manner sacraments, inasmuch as Rock, that on which Christ built his they are signs of God's work in us, church, iii. 31; he who cometh to this ii. 90; remarks on all and each of rock is safe, 31. what were commonly called sacraRogers, John, the proto-martyr of ments,’ in Tyndale’s days, i. 252-86; Mary's reign, chaplain at Antwerp, matrimony should not be called a prints Tyndale’s translations in the sacrament, 254; if it be, so may any " bible called Matthew', i. Ixxiv. similitude of divine things, noticed Roll up, chaunt, i. 243. as such by Christ, 254; ordinaRomans, character of epistle to, i. 484, tion not a sacrament, ib.; they who. 508, subjects of successive chapters, affirm the last two to be sacraments, 495-508; Prologue to Ep. 484-510; teach that one sacrament defileth the greater part of it either a transla- another, iii. 29; repentance, or petion or a paraphrase of Luther's pre- nance, not a sacrament, i. 261; the face to same epistle, 483. use of sacraments, 273, 358-66, 374; Room, a place or office of some rank, first treatise, on baptism, and the sai. 21, 136. crament of the body and blood of Rose of gold, presented by popes to Christ, 345-85; second treatise, on kings, i. 186. the supper of the Lord, iii. 217-68; Roye, friar, i. xv, xxii, xxiii, 37-41; these christian sacraments succeed iii. 187; sought for abroad by Wol- the Jewish, viz. circumcision, and the sey's orders, xxxiv, xxxv; Tyndale’s passover, i. 350; iii. 265-6; compared character of him, 37-9; said to be with them, i. 350; iii, 245-50; Christ's joint author with Jerome, of Dia- sacraments preach faith in him, logues between father and son, and i. 273, 283; yet not to all, 424; antiof satire on Wolsey, 41: was burnt christ's preach not faith in Christ, in Portugal, 42. 283; sacraments which preach not, Rulers, why ordained, ii. 8; why called profit not, 423; helps to understandGod's, i. 175; obedience to, taught ing them, from Hebrew words and by Christ and his apostles, ii. 241; usages, 347-54; they were appointed are appointed by God, and therefore to be sources of great consolation to must not be resisted, i. 173-8, 194, the contrite, 360-2; only generally 197, 332-4; ii. 21, 64-6; iii. 180; necessary to salvation, 359; the work hence their responsibility before God, saveth not, but faith in the promises i. 180, 202-4, 334-6; ii. 21-2, 86; signified by the sacrament, 342, 423; their duty, i. 479; must shew forth ii. 90; hence they avail nothing to
 
-Ephod, what, i. 419.
+the unbelieving, i. 358; but increase examined, i. 290, 293; iii. 79, 80, 115- their guilt, ib.; are made idolatry 31, 181; if they who prayed to them by abuses, ii. 217; iii. 179. See Sup- received what they prayed for, yet per of the Lord, Transubstantiation. would not such prayers be thereby Sacrifices, their meaning, ii. 215; not proved lawful, 181.. accepted where there was no loveof Salt, to accompany offerings, what it 1 neighbour, 48; were no satisfactions meant, i. 433, 436, 439. for sin, but only signs thereof, iii. 65; Salting, what it is, ii. 31-3; the corrupt 4 those which God gave to be used by cannot endure it, ib. J Adam's sons were signs of the testa- Salvation, is by faithonly, i.15; iii. 197; ment of God, 27; the sacrament of the the process by which a sinner is made body and blood of Christ is no sacri- partaker of it, i. 498; iii. 195-6; true fice, 177. and false way of teaching the way of Sad, grave, iii. 19. salvation, i. 466. See Justification. Sadducees, meaning of their name, Salve regina, iii. 134. iii. 107. Samaritan, the good, i. 85; his two Saints, unduly regarded, i. 184, 450; pence, how expounded by writers b their sins, as recorded in scripture, popular in Tyndale’s days, i. 86; iii. extenuated by popish writers, 450. 93; his promised farther gift ex- 2 Saints-days, their origin and purpose, pounded to mean traditions, ii. 93.. 981. Sanctuaries, called by Tyndale franSaints, departed, their merits declared chises, i. 333; afforded protection to by popes to form, with Christ’s, a fund offenders against laws of God and from whence the church may grant man, i. 180, 333. pardons, i. 74; they had no merits, Satisfaction, definition of, from a cateii. 166-7; cannot help us into heaven, chism used amongst Romanists, i. 342; i. 66; iii. 117; are not there yet Christ is our satisfaction to Godward, themselves, 118; are not our advo- 228, 267; he who would propose to cates, ii. 166; what Tyndale would make satisfaction to God for his sins, count giving them right worship, is faithless, 228; but whoever has in- 1 - 166-7; of worshipping them, as prac- jured his neighbour ought to make tised in the church of Rome, i. 288- satisfaction to his neighbour, 228,. 92; ii. 164-95; such worship is con- 267, 478. trary to what they taught, i. 289; and Scala coli, what, i. 244. can only be great offence to them, iii, Scapular, what, i. 123; things promised
 
-Epiphanius destroys the picture at Bethel, iii. 182.
+. 279; it shews distrust of Christ, ii. to its wearers, ib. J 211-12; is idolatry, 164-5, 216-7; iii. Schoolmen, specimens of theirinquiries, 81; Romish church makes hirelings and terms of their art, i. 157-8. 3 of the saints, i. 289; represents Scotists teach that the Virgin was withthem as vindictive, 450, ii. 165; it out sins, from her conception, iii. 131. r. divides them into canonized, and un- Scotland, Tyndale’s Testament sent Ἢ canonized, and More says, we may thither, i. xxxv, xxxvi. EF pray to the former, but not for them, Scribes and Pharisees, their false right- but may pray both to and for the eousness, ii. 40; altered God's word. latter, iii. 121; he also says, that if by their false glosses, 41-2; their r we should thereby happen to worship wickedness, 48; compared with 3 a wicked man, that would not hurt monks, 42.3; conspired with elders us, 122; saints of his church, were against Christ, as prelates moved the - mot saints till they were dead, 131; rulers to contend against his truth, it makes some to be saints, who were.241; were convicted by Christ, ib.; none, i. 291; saint-worship receives God's judgment moved them to ind. some sanction from Augustine, iii. surrection, ib.
 
-Erasmus, i. xv., xvii., xxi, 395 ; would have laymen permitted to read the scriptures in their own tongue, 161-2 ; objects to notion of the virgin's hav ing authority to lay commands on Christ, 316 ; his account of the four senses assigned to holy scripture by schoolmen, 343 ; remarks on the in delicacy of Jerome's language, 438 ; his Encomium Moriae, iii. 16 ; on free will, 233; sometimes renders ecclesia, congregation, 16; observes that au ricular confession had not been used in Jerome's time, 214.
+**126.** More's defence of it, 79, 102, Scripture, whence, i. 88; springs out 115-27, 181; arguments in its behalf of God, and flows unto €hrist, 317;
 
-Esau, what he virtually rejected, i. 523.
+all scripture is to bring men to be- it, i. 449-50; schoolmen assign to it believe in him, for remission of four senses, 303-31, 343; they slight sins, 373; to bring men to God, ii. the literal sense, 303, 393; which yet 147; all relates either to the law or is the ground and the root of all, 304; to the gospel, i. 310; it contains first. and is spiritual, 309; it speaketh the law, to condemn all flesh; second- many things as the world speaketh, ly, promises of mercy for those who but must be understood spiritually, repent, and submit to learn the law 88: and many things in it have first and to learn to believe the promises, a carnal fulfilling, but have then a thirdly the histories of such learners, spiritual, 355; right and wrong ways and how they were taught and tried, of expounding it, exemplified, 303. 449; it containeth all things necessary 21; it must be cleared from perverse __to salvation, iii. 26, 96-9, 226, 231; interpretations, ii. 144; directions for it expounds itself, 249; and speaks reading it profitably, i. 8-11, 21-7, T to men as a father, i, 107; it supplies 389, 398, 403-5, 463, 469; the examL. evidence of its own truth, iii. 136-7; ples written to alarm, should be oband Christ's authority is not dependent served, 399; various uses of the exon that of the church, ii. 289; iii. 49, amples, 451, 453; but the scripture 505 but the church's doctrine must be cannot be understood by such as love tried by it, i. 154; ii. 195; and in not the law, ii. 785 what it is to have Christ's church its authority rules, all scripture locked up, and what to 251,: 313 its authority, as the final have it unlocked, i. 27, 464, 469; ii. decider of christian doctrine, depre- 75 itis understood by such as have L/ ciated by More, but affirmed by their baptismal profession at heart, “Tyndale, iii. 96-100, 110, 133-45; it 139-40; scripture is the outward inshould be accessible to all in their strument, but faith is the spirit's in-.own tongue, i. 7, 144-8, 241; was ward work, iii. 139. translated for our Saxon forefathers, Sects, very numerous in the church of put questionable to what extent, 149; Rome, i. 149, 158-60. but popish clergy are opposed to its Senior, remarks on the word, iii. 16. being made accessible to all, 146, Senses, the four, assigned to Scripture. 892-3; they say that it makes here- by schoolmen, i. 303-31, 343; emitics, and why, 28; that it teaches dis- nence in each assigned to each of obedience, 163, 392; that it is too four fathers, 343. hard to be understood without the Sensual professors, i. 12, 13. doctors, 153; or without Aristotle, Servants, tithe of their wages exacted, 154; their earliest canon for prohibit i. 237; what obedience they owe to ing the laity from having it in their their masters, 172; their master’s duty own tongue, 132; its translation into towards them, 201.: the English tongue forbidden, 132, Service, spiritual, what, i. 373-4. 161; iii. 166-8; and the parochial Seven, this number used by Hebrews to clergy were enjoined to tell their con- signify fulness of number, i. 431-2. gregations that such a prohibition Shales, shells, ii. 123. was well, i. 35; More acknowledges Shaven, a mark of the popish clergy, that no English printer dare print i. 173, 232; what it may be supposed even an unproscribed translation, iii, to signify, 235. 168; the scripture makes no here- Sheep, Christ’s, must not fight the ‘tics, ii. 141-3; but its true sense is wolves, and are not ill off if they can corrupted by the scribes, and by bring it to pass that the wolf can be the church of Rome, iii. 43-5, 47-8; content to shear them, ii. 68. it was given to be a light, a defence Sheep's clothing, they that wear it are and a comfort, i. 399; but popish neither Turks nor Saracens, i. 121; teachers turn its light into darkness, what that clothing is, 122-3. ii. 102-83; their manner of perverting Ship, an utensil so called, i. 288..
 
-Est, frequently equivalent to significat, iii. 249, 258,261.
+Ships, a name for the coin usually dealt with, ii. 252; many believe at $tyled angels, ii. 318. the hour of death, 44; all are sinners, Shoe, a cut; mark of a pilgrim, i. 103. but the believer loves the law, and Signs, usual among Hebrews, as con- loathes sin; the ungodly do thereverse, firmatory of covenants, i. 347-8; ap- i. 311; he is not a sinner in the sight pointed of God for like end, 348-54; of God, that would be no sinner, frequently bear the name of the thing 94. f signified; and instances of this, i. 365, Sir John, a contemptuous name for a 368, 375-8; iii. 243-4, 248-9, 251. popish priest, i. 277. Ϊ Siloh, or Shiloh, i, 408. Skilleth, mattereth, i. 67. Similitudes, serve not throughout, ii. Slibber sauce, i, 54. 235; prove nothing, i. 313. Slime, what in Tyndale's Genesis, i. Simon Magus, i. 124. 408. 1 Simony, i. 171.. Sochenars, or Souchenars, the Swiss, Simule, to feign what is not, i. 341. i. 186; ii. 300. fin, the name does not belong to the Soking, sucking, absorbing and wasting outward work only, i. 489; itsroot is the strength, i. 54,: unbelief, ib.; whatsoever is our own, Soldiers, disbanded, left to poverty and is sin, 23; glorious works done before thieving, ii, 302, 312. the Spirit of God comes, are sins, Sons of God, who, ii. 149, 190, 197, 200;. 183; sin against a brother is sin a mark of such, 27; who those spoken against God, 428; false views of sin, of in Genesis, i, 409. inculeated by Pharisees and church Soothsayers, to be avoided, i. 413. of Rome, 461; it is become to them Soul, for ψυχικός, ii. 132. profitable merchandise, 272; popish Souls, departed, their state, till the reclergy teach that for sins committed surrection, not revealed, i. 1xiii; iii. after baptism, Christ has made no 180-1, 185; pope's doctrine concernsatisfaction, 476; that when we first ing them, is a mixture of christianity come to the faith, he forgiveth us, and of heathen philosophy, 180. E but that the sins committed after- Soyl, solve, i. 71. 1 wards are forgiven through ceremo- Spirit of God, is given by God, i. 492; 1 nies, 284; both original and actual accompanieth faith, 54, 111, 275; is sins are remitted through faith in given to prayer, as well without lay- 1 Christ only, ii. 155-6; the remission ing on of hands as with, 274-5; proofs being purchased by the blood of of his presence, 76-8, 117, 223, 264, Christ alone, i. 249; and becoming 308, 499; where he is, there is feeling, eurs through faith in that blood, iii. 78; is kept by alms, fasting, and. 94; Christ procured it for many, and prayers, ii. 94; his contest with the - who the many are, i, 363; our tem- flesh, i. 492, 500; iii. 113; his work. poral sufferings make not satisfaction described, i. 79, 111-12, 417, 487, — » for our sins, ii. 29. See Justification. 498-9; ii. 183-4, 201; faith is his We cease not to sin till death, 150.1; work, i. 488; iii. 139; he makes the - when John speaks of not sinning, he word effectual to whom he will, ii.. means not consenting to sin, and 181; makes his people willing, 250; resisting it with all our might, 152; certifieth their consciences that their but unbelievers yield themselves to sins are forgiven, and they the chil- sin to serve it, 10; of the sin which dren of God, 202, 211; writes the. is said to be unto death, i. 521-3; ii, lively law of love on their hearts, it 152, 212; for the preference of sin to i. 297; looseth the bands of Satan, - its remedy, by those who know the and giveth power to love the law, and. truth, there is no remedy, ib. to do it, iii, 276. Singing loaves, a name for the wafers Spiritual, who may fitly be so called, - used in the mass, and why, ii. 301. i. 495. Sinners, open, in the church, how to be Spiritual kindred, what so called, i. 245;
 
-Evangelion, the word and its purport, i. 8-10; Tyndale calls epistle to Ro mans most pure evangelion, 424 ; what it does for him who is convinced by the law, i. 17, 22. See Gospel.
+marriage between, forbidden by papal our sins, i. 357; to the apostles, its canons ib. observance was a token of perseverSpiritualty, papal clergy choose to be ance in the Christian religion, iii, so called, i. 257; their multitude, 264; it is not rendered unneces- 302; ought to be subject to the laws sary by baptism, i. 359; helpeth not of the temporal government, ii, 67; the unbeliever, i. 252; iii. 256; incharacter of their doctrine, reason- creases the guilt of those who come ings, fruits and claims, i. 257; their not to it with a right purpose, i. 358, uncleanness, ii. 123; their alliance 362; iii. 256; what it is to eat and with wicked tyrants, 268; have stolen drink unworthily, i5.5; it is no sacrialms from the poor, 276; and will fice, i. 424; iii. 177; and should not not pay taxes, 277; ought not to have be worshipped, 179-80; is spoken of temporal authority, 247-52, 2735 will in scripture under the name of the not go before a lay-judge, 307. See breaking of bread, 264; which breakClergy, papal. ing of bread is therefore a heavenly Sprites, a name for the spirituality, sacrament, and a reverent rite and i. 320,339. usage, ib.; church of Rome requires Steward, the unrighteous, i. 70, men to believe that what is conseStick, pierce, ii. 181. crated is no more bread, but the body Spurs, winning them, iii. 17. of Christ, such as it left the earth, i. Stokesley, bishop of London, i. xxxviii, 278; words of institution considered, 1, liii, lvi, 32, 33. 356, 363; iii. 241; Paul calls the Stole, part of a priest’s dress, its alleged elements bread and wine, after what signification, iii. 73. are styled the words of consecration, Strasburgh, same as Argentine, i. 38; 251, 255; what meant by eating Tyndale's Obedience printed there, Christ's flesh, i. 369; the manner of Ixxiii, eating it, in the sacrament, iii. 162-3, Study, desire, ii. 28. 179, 224, 226-7, 236-8, 244; of the Sunday, the purpose of its institution, cup, i. 365-6, 383; it is the witness i. 226. of blood, ii. 209; the Romish doctrine, Supererogation, popish notion of, i. Lutheran, and what Tyndale calls 86-7. the opinion of a third party respecting Superstitions, and superstitious usages, this sacrament, explained and comi. 48, 90.2, 160, 184, 225, 245, 274, pared, i. 366-85; belief of the Lord's 277, 279, 319, 433, 461; iii. 9, 20, bodily presence is incompatible with 61-2, 73-4, 79, 80, 258; superstitious what he said about going hence, and hallowing of various things, i. 283. being no more in the world, iii. 251-3; Supper of the Lord, first treatise on this various scholastic phrases devised, to sacrament, i, 345-85; second, iii, 222. cloak the difficulty of this bodily 68; came as a sign in the room of presence, 254, See Transubstantia-the paschal supper, i. 386; iii. 245; tion. How this sacrament should be compared with it, 246-51; its intent, administered, iii. 265-7; the instruci. 356; ii. 218; iii. 242, 250; was tions which should be given to the instituted by the God of all mercy to communicants, i. 364-6, iii. 265-7; this testify to convinced sinners that mercy sacrament profanely used by princes, is laid up for them by Christ’s blood, for the satisfaction of their treaties, iii. 360; and to be the seal thereof, ib.; 301; the pope has substituted thin when instituted, it set forth what manchets, or wafers, for the bread,
 
-Even, equal, i. 166 ; for evening, ii. 249 ; evens, eves, i. 450.
+[Christ was to suffer, and is now a iii. 179.]
 
-Evil men, not to be resisted, ii. 21.
+[memorial of his sufferings, 356, 371; Supplication of Beggars,i.237; iii.268; ^]
 
-Exodus, prologue to, i. 411-14 ; direc tions for reading it profitably, ib. ; brief remarks on its subjects, ib. ; table of words expounded, 418, 419.
+[iii. 177, 264; testifying and confirm- More's Supplication of Souls, ii. 297. i]
 
-Expend, weigh or consider, iii. 247-
+[ing that for Christ’s sake our sins are Swearing, the prohibition of, ii. 55-6; g]
 
-Fain, v. desire, ii. 231.
+[and shall be forgiven, i. 356, 360, 365; extends not to every kind, or occa- Ὁ]
 
-Faith, what it is, i. 407, 493; ii. 14, 205; iii. 198; its character seen in its effects, i. 118, 363 ; a right, i. 13, 53,
+[iii. 250; it is thus an absolution of sion, 56-7; a judge ought not to]
 
-GENERAL INDEX.
+3 compel a man to swear against him- The New, Wicliffe's version of, iE self, ib.; swearing increases the guilt xx, xxviii; Tyndale's version with of any false statement, ib.; to compel notes, in 4to, the first begun to be a man to swear to the amount of his printed at Cologne in 1525, xxviiiproperty that a loan might be ex- xxxi; account of its only remaining acted, counted grievous tyranny by fragment,now inthe British Museum, Tyndale, i. 187. 4, 5; the notes of that fragment, ii. Swine, are the fleshly, ii. 10, 114; pearls 227-36; his first published version, not to be cast before them, 115. a l2mo, without notes, printed at Sylvester, pope, falsely said to have Worms, i. xxxii; a specimen of it, received from Constantine a surrender iii. 285; third edition by Endhoven, of his authority over Rome, ii. 279. bought up by archbishop Warham in 1527, xxxiii; a fourth by Chr. Van E T Ruremund finds its way into Eng-Tables of words in Pentateuch, ex- land, ib.; more editions printed at plained by Tyndale, i. 405.10, 419- Antwerp in 1534, Ixi, Ixii; and in 20, 445-6; of words and phrases in 1535, 1xxiii; an edition, bearing T ynA. New Testament explained, 531-2. dale’s name on its title-page, pubTartaret, Peter, extracts from his Luci- lished in England by the king's L dissima Commentaria, i. 158. printer in 1536, Ixxv; an edition in Temper, v. used for govern, i. 335. which the spelling was adjusted to Temple, at Jerusalem, its use, i. 382; the pronunciation of the peasantry, of God, is his people, 438. lxxiii; a specimen of it, iii. 287; Temporal authority, distinguished from objections to Tyndale’s version, iii. spiritual, ii. 60; not disannulled by 14.
 
-493 ; ii. 11 ; Hi. 30-1, 196 ; is the gift of God, i. 53, 56 ; is the work of the spirit, 488, 493; iii. 139; is an ap propriating faith, i. 224 ; cometh by hearing, 489, 499 ; must rest on pro mises, 121, 278, 284; and pleads them, ii. 89 ; is ever assailed, iii. 34 ; is the rock on which Christ built his church, 30-1 ; its fruits and con sequences, i. 13, 53, 55-6, 59-61; ii. 187, 194 ; iii. 142 ; must bring a new life, ii. 77 ; iii. 238 ; according to More's doctrine, the best faith may be coupled with the worst life, iii. 142, 150 ; faith is a part of true repentance, i. 478 ; is counted right eousness, ib. and 497; brings peace, 118, 294 ; certifieth us of the Spirit's presence, 488 ; produces love, 223-4, 475 ; ii. 88-9, 174, 204 ; iii. 196-200 ; gives deeds their goodness, i. 120; ii. 125-6; without it they are abo minable, 126; gives the desire and power to pray, i. 118 ; and to obey, i. 115, 493-4; iii. 276; without it, there cannot be obedience, i. 26 ; iii. 173 ; maketh us the children of God, i. 63 ; ii. 145-6 ; overcomes the world, 197, 208-9 ; when the heart believeth in Christ, there he dwelleth, i. 369 ; faith only justifieth us before God, i. 46, 49, 119, 233, 375, 488, 508-9; ii. 15, 76, 137; iii. 172, 274; by it only cometh salvation, i. 15, 471 ; iii. 275-6 ; he that hath it hath eternal life, 225; but whilst faith only justifieth, faith that is alone justifieth not, ii. 15 ; iii. 196 ; for true faith, hope, and love are respec tively known by being found together, and are inseparable, ii. 13, 14 ; iii. 95, 197 ; faith and love comprehend the whole law, ii. 188 ; where right faith is, God receiveth the man for Christ's sake, even though it be weak, ii. 9 ; iii. 208 ; the weak in faith should beupheld by the stronger, ii. 8 ; how to be guided, i. 95, 506-7 ; are chastised in pity, ii. 9 ; the faith of those who are called but not chosen, is a different thing from the faith of the elect, iii. 69, 70, 107, 114; multitude of adherents is no proof of a right faith, iii. 102-3, 107,
+Christ, 58; belongs not to ecclesias- What the book of the New Tes- tics, 247, 252; censured for allowing tament is, i. 8; the New Testament them to hold pluralities when they is gentle, and promising mercy, 364; serve the court or nobles, 336; ever its character and effects, when beslack in the cause of God, 95; its lieved, 417; it was from the begin- 3 duties, 61. ning, ib. "Temporal blessings, or curses, made to The old, brief description of its confollow naturally the keeping or break- tents, i. 9; was written in the mother- ing of the law of natural equity, i. tongue of the people to whom it was 4 418. given, 144; different uses of its exam- 3 Temporal sword, to be respected by ples, 88; considered as a covenant, all, i. 506; ecclesiastics to be subject 363-4, 476; its conditions, 415; its,. foit as well as the laity, 333; ii. 67; rewards, i0.; Christ set forth in it r alleged heretics delivered over to it 144; specimens of Tyndale's trans- 1 by the clergy, 45. lation of it, iii. 284-6. Tenterden steeple, the illogical con- Tewksbury, a London tradesman, 3 clusion respecting its effect, iii. 77. charged with possessing and reading Tertullian, first writer known to have Tyndale’s works, and finally burnt, E -. applied the term papa to a Christian i. 32-42, 125. Ἦν minister, ii, 59; his language incom- Thau, sign of, ii. 13, 20.
 
-109, 115-16, 122 ; the faith that dependeth of another man's mouth is weak, iii. 52, 99 ; there is a mere his torical faith, i. 53, 121, 280; ii. 146; iii. 197 ; this is not true faith, ii. 154, 201 ; the devils have this, i. 278 ; ii. 146; iii. 197; a faithless faith, iii. 199; such that which More and De Lyra supposed to save those who were drowned by the flood, 134 ; a false faith, i. 12 ; described by James, 125; of the carnal, ii. 11; of hypo crites, ib., and 130 ; More's vain ima gination that a man may captivate his understanding to believe, iii. 140. See Justification. Fall of Adam, its effect on us, i. 14, 17,
+patible with doctrine of transubstan- Thessalonians, Prologue to Epistle, i.
 
-22 ; its remedy through grace, 14. Fanon, its alleged signification, iii. 73. Fast, adv. stedfastly, i. 451.
+**3. tiation, iii.** 228, 259. 516-7. 3 Testament, Tyndale announces that he Thomas Aquinas. See Aquinas. His E uses the word for An appointment sect, in the Romish church, called E made between God and man, and Thomists, iii. 227-8; refuse to con- 4 God's promises,’ i. 409; instances of cede that the virgin was immaculately 5 his so employing it, or in a sense conceived, i. 91. 5 - equivalent to covenant, 93, 105, 364- Tiara, or regno, words used when it is P 5, 979, 476; iii. 27. placed on the pope's head, ii. 258.
 
-Fasting, true, i. 75, 90 ; ii. 93-96 ; its intent, 94, 97 ; iii. 80; not as to meat and drink only, ii. 94 ; how to be en joined by priests, 95.
+Timothy, Prologue to Epistle, i. 517- the traditions of men, 508; name used 19. for ceremonies, and remarks on the Tithes, their misappropriation, ii. 336; burdens thus imposed, iii. 74, 94, how Tyndale would have had the Traditors, who so called, i. 144. abuse corrected, ib. Transubstantiation, i. 278, 366-7, 372-3, Titus, Prologue to Epistle, i. 519. 881; ii. 221; iii. 178; the question Toledo, a council held there, is said, in examined, iii. 224-61; examination the canon law, to have enjoined con- of scriptures alleged for it, i. 367-8; cubinage on the unmarried, iii. 40. iii. 223-30, 236-44; was not meant, Tone and tother, an antithetical form, in what Christ spake, as related in usual in More, ii. 296. the sixth chapter of John, 27-30; it Tongue, service in an unknown, is con- is incompatible with the language of trary to Paul’s command, i. 219, 234. Augustine and Tertullian, 228; had Tonstal, Cuthbert, bishop of London, the doctrine been only beyond the andfinally of Durham, i, xxi, xxxviii; reach of our reason, faith would have refuses to patronise Tyndale, xxi, received it, if expressly taught in 396; depreciates his version of the scripture, 231; but it is to be rejected, New "Testament, xxiv; orders all because it is contradictory to scripcopies of it within his diocese to be ture, ib. 234-5; it is a carnal doctrine, delivered up, xxxii; licenses Sir T. 239-51. See Lord's Supper. More to read heretical books, xxxvi; Treasure in heaven, ii. 101. encourages him to attempt their con- Trental, what, i. 148. futation, ib.; goes with him to Cam- "Tribulation, why God tries his people bray as ambassador, xxxvii; said to with it, i. 135-9, 144; their comfort have bought up T'yndale's testaments under it, 138-41. at Antwerp, ib.; burns them in St Tropological, a schoolman’s term, Paul's church-yard, calling the con- i. 303-4. tents Doctrinam peregrinam,xxxvii, Trumbett, or Antonius Trombeta, or ii. 337; says in a sermon, that he Tubeta, i, 151; account of him, 152. found 2000 corruptions or errors in Trumpets, to be blown, signification, them, i. 393; and that they contained i. 352. - most pernicious doctrine, 132; ex- Tutors, word used for trustees of estates, amines Tewksbury, on charge of ii. 277. reading Tyndale’s Mammon and Twouson, Nicolas, a printer at Norn-Obedience, 92; joins with abp. War- burg, or Nuremburg, iii. 218. ham, bishop Gardiner, and Sir T. Tyndale, William, his descent and More in collecting 200 alleged here- birth, i. xiii, xiv; why also called sies from those treatises, 34; is praised Hitchins, Hochin, Hutchyns, ib. xxii, by Erasmus for his great learning, 131; a Yorkist in principle, 458; not a 395; called by Tyndale, That still monk, xv; studied in both universiSaturn,’ ii. 321, 337. ties, xiv, Xv; acquires a knowledge "T ot-quots, i. 236. of Greek, xv, xxi; of Hebrew, xxv, Tracy, William, a Gloucestershire xxvii, xxx, xl. lxii; other languages, gentleman, some account of him, xxx; a lecturer at Oxford, i. xiv; iii. 269-71; his testament, 272-3; his quits it for Gloucestershire, xxv; corpse disinterred, and burnt for tutor to children of sir John Walsh, heresy, i. xviii; iii. 270, 282; the xiv-xxi; disputes with priests there, ecclesiastical officer heavily fined for xvi, xix; a preacher at Bristol, xviii; this, 270; Tyndale and Frith com. could be content to teach children, posed expositions of his will, i. 1xxiii; and to preach, xix; avows his resoluiii. 269; Tyndale’s exposition, 273- tion to make ploughboys know more 83. of the scripture than a disputatious Traditions, what Paul's were, i. 219; priest, ib.; summoned to appear Paul teaches believers to beware of before Dr Parker, xvii-xix, 395;
 
-Fasting, popish, manner of and occa sions, i. 90 ; ii. 97-8 ; abused by monks, 91 -2; before Lent, 92; Lady-fasts, 98.
+quits Glocestershire for London, and from Herman Busche, as recorded preaches there at St Dunstan's, xxi- by Spalatinus, xxx; from Vaughan, iv, 394-5; seeks bishop Tonstal’s xliii, xIv; from Frith'sletter to More, patronage in vain, xxi, 395-6; be- lvi; iii. 219; from Joye, i. Ixii; from friended by H. Munmouth, xxii-iv; Mr Poyntz, lxvii; from his jailor and tells what moved him to translate prosecutor, lxxii, Ixxiv; from Foxe, the New Testament, xx, 394; per- Ixxvi; sir Thomas More's testimony ceived there was no place to do it in to his labours, lii; his humble estiall England, xxii, 396; quits Eng- mate of himself, lv, land for life, xxv; untruly said to Known and reputed labours of his have visited and associated with Lu- pen. About 1520, he translated Eras-ther, xxii, xxv-vi, xxx, xxxviii; iii. mus' Enchiridion, i. xvii, xxiv; by 147; at Hamburgh, xxiv-v, xxxix; 1523, an oration of Isocrates, xxi. printing at Cologne, xxviii-xxxi; 395; he edits Arundel's examination flees to Worms, and prints there, of W. Thorpe, xxvi-vii; in 1524, he xxix, xxxi; removes to Marburg, prints his versions of St, Matthew's and prints there, xxxiv, xxxix; at Gospel, and of St. Mark's, xxviiAntwerp, xxxviii-ix, xliii, lvii, 1x- viii; composes a prologue to the forIxvii; is shipwrecked, xxxix; visited mer, which eventually becomes the by Coverdale, ib.; sought for by Pathway,’ and glosses or brief notes, Vaughan, xlii; discovers himself to 3; 1525-6, he prints versions of the him, xliii; asserts his good intentions, whole New Testament, xxvii-xxxi; xliv; and declares that if the king in 1526, he publishes the prologue to would but let his people have the Romans, 483; in 1527, his treatises scriptures, he would promise to write on the Parable of the wicked Mam-no more, and to suffer whatever the mon, and on the Obedience of a Chris-king might lay upon him, xlix; his tian Man, 31, 129; in 1528-9, he is brother John is arrested and fined for reputed to have published a tract on befriending him, xlii; writes to Frith, Matrimony, and an exposition of lii, lvii; and advises him not to 1 Cor. vir. xxxvii; early in 1530, his provoke hostility by meddling with version of Genesis, from the Hebrew, — - the questionof the presenceof Christ's issued from the press, xli; and his body in the sacrament, liii; speaks Practice of Prelates, soon after, humbly of the first editions of his xxxix; iii. 237; in 1531, he had comversion of the New Testament, 390; pleted his version of the Pentateuch, also of his Pentateuch, 397; his ac- with its prefaces, and his answer to count of the charges made against sir T. More's Dialogue came forth, i. them, 392-3; he rebuts a personal xl; iii. 2; in the same year he pubcharge with a solemn oath, iii. 213; lished his prologue to Jonah, which sir T. Elyot employed to procure his is said by some to have been accomarrest, i. li; his manner of life at panied by a translation of that proAntwerp, 1x; H. Philips insidiously phet, i. 447-8; and also, an exposition seeks his friendship, and brings the of the first epistle of John, ii, 133; emperor's officer upon him, Ixv-vii; and in 1532, he published his expocarried off prisoner to Vilvorden, ib.; sition of the Sermon on the Mount, his manner of life in prison, lxxii; 2; in 1533, the treatise on the Supper disputes with the theologians of of the Lord, if it be from his pen, Louvaine, Ixxiii; befriended in vain iii. 217; in 1534, he issued a revised — by Mr Poyntz, 1xviii-Ixxii; Crom- edition of his New Testament, with well writes in his behalf, Ixix; Ant- introductory prefaces to each book, i. werp merchants do the same, lxx; his Ixii. 467; in 1535, his exposition of martyrdom, and last prayer, lxxv. Tracy's Testament, Ixxiii; iii. 171; Testimonies to his character and and his New Testament for the use attainments, from Cochlzus, i. xxix; of ploughmen, i. Ixxiii; iii. 297; and [TYNDALE, 11]
 
-Father, a, his office and duty, i. 199.
+when his labours were brought to a Vilvorden, Tyndale imprisoned there, close by his martyrdom, it was found and burnt at the stake, i. Ixvii, 1xxiithat he had composed a treatise on ν. the two sacraments, i. 345; and had Violence, when it may be lawfully used, translated, from the Hebrew, all the ii. 62-3; how it should be resisted, historical books of the Old Testa- 64. ment, Ixxiv. Virgin Mary, was rebuked by Christ, Tyrants, are entirely in God's hands, iii. 207; was kept by grace, but not i. 140; God punishes their subjects, without sin, ib.; fancies of certain by giving them power, ii, 111-12; the Romanists about her being conceived subjects' remedy against them, i. 332, without sin, 131. See Mary. 336; iii. 180; they are rebuked by Visenomy, physiognomy, ii. 127. the truth, 180; Tyndale uses the word Polo, Latin word used in baptismal where our authorized version has service, i. 253, 276; hence volower, giants, 1. 409, 276; and volowed and volowing, ib.
 
-Fathers, or patriarchs, More alleges their faith to prove that scripture is not the necessary ground of a true faith, iii. 133-5.
+## iii. 72
 
-Fathers, ancient divines so styled, knew nothing of various doctrines taught by the papal church, i. 325 ; iii. 132 ; their doctrine to be tested by scrip ture, i. 330; iii. 133, 136; call the bread a sacrifice, as they call it Christ's body, i. 370; their words afterwards understood amiss, 372.
+**U.** Vows, i. 433-40; iii. 185; monkish, i. 430, 435, 438; ii. 163; iii. 185, 189; Unbelief is sin, i. 490; and the root of pope gives license to break lawful all sin, 489, 491. vows, 189. Unbelievers, their thoughts of God, ii. 210; manner of worship, 211. W. Undenet, Sen pore, " 208. Wafers of meal, used at mass, and Union of Doctors, a book, same with Sin hosts or singing Sloaves Hi
 
-Faustus, the Pelagian, ii. 104.
+[Unio dissidentium; and someaccount Waive-offering, why so called, i. 420.]
 
-Favour, More objects to Tyndale's so rendering Xapis, iii. 22.
+[of it iii 187 213. 4 1 Wales, the pope's power there, of no]
 
-Fear, v. used for terrify, i. 133; where useful, i. 185.
+[Universals a term in logic, i 167. 3 ancient standing, iii. 158.]
 
-Ferman, or Forman, a London clergy man, harassed as a reformer, iii. 193 ; misrepresented by More, 208.
+[Universities, have shut up scripture, il. walk with G od, purport of expression,]
 
-Fet, for fetched, i. 269 ; or obtained, ii. 229.
+[291 their oaths, ib. i. 409.]
 
-Fifteenth, a, ii. 304-5.
+[, Uplandish people, those of higher Ger- walk a villain, phrase explained ii.]
 
-Find, for, provide for, iii. 76.
+[many, iii, 188. 309.]
 
-Fire, saved as by fire, meaning of this, i. 116.
+[Utter, v to detect or make manifest, Walking, what meant by in scripture,]
 
-GENERAL INDEX.
+[i 12 ii. 149. v. Walsh, sir John, patronizes Tyndale, i. xiv, xvi-xxi. j]
 
-Firmament, Tyndale uses it for the sky, i. 407.
+[Vain-glory,a remedy againstitstempta- War, defensive, sometimes a duty, ii.]
 
-Fisher, bishop of Rochester, i. xxx ; character of his proceedings, 341 ; preaches at the burning of Luther's works, and Tyndale's New Testa ment, i. xxxi; editions of his sermon, 189 ; citations from it, 190, 208-9, 212-3, 220-3; Tyndale's remarks upon it, 208-23 ; says, it appears by express scripture that we be bound to believe many more things than be written in the Bible, 220 ; says that if faith alone justifieth, the devils would be justified, 223; mistranslates a clause of Latin, 222.
+[tion, ii. 74.. 27; but princes should live peaceably]
 
-Flap, part of a priest's dress, its al leged signification, iii. 73.
+[Vaughan, Stephen, the king’s envoy in if it be possible, 26-7.]
 
-Flesh, used for all that is in man, before the Spirit of God, i. 139 ; what meant by flesh, when contrasted with spirit, 494, 504 ; each termed a law by Paul, 504 ; the Spirit's contest with it, 500, 504 ; ii. 160 ; oppresses the spirit, 9 ; to be subdued by fasting, 94, 137; by the cross, 9, 10 ; the eating of any kind of flesh forbidden to monks by the canon law, 276.
+[the Netherlands, charged to search Warham, archbishop, proscribes Tyn-]
 
-Flesh-vourer, for flesh-eater, iii. 245.
+[for Tyndale, i. xlii; his letters to dale's version of New Testament, i.]
 
-Flock, the little, i. 165, 363; preserved by the hand of God, iii. 103 ; inquire how they shall serve God, 108 ; their blessed ways, 109 ; persecuted by the multitude, 110.
+[the king, xlii-v, xlviii-1; Tyndale XXxii.; endeavours to buy them up,]
 
-Flotess, scum, ii. 215.
+[discovers himself to him, xliii; Crom- xxxiii; sits in judgmenton T yndale's 1]
 
-Fore, previous, ii. 5.
+[well's letter to him, xlv-viii; More and Frith's writings, 34-5; hisreply —]
 
-Forest, friar, ii. 302.
+[endeavours to prove him a disciple of to one who wished the people to have —]
 
-Forthink, equivalent to repent, i. 260; iii. 23.
+[T yndale, li. the New Testament in English, 234. —]
 
-Fornication, falsely said to be no sin, ii. 50.
+[Venetians, their alliance with the pope, Watch, what itis to do so, i. 12. -]
 
-Forth on, for thenceforward, iii. 77.
+[ii. 299; care not for his blessing or Way, the narrow, not found by all the]
 
-Foxe John, the martyrologist, his ac count of Tyndale, i, xiv, xvi, xvii, xix, xxi, xxxvi — xxxviii, Ix, Ixi, Ixv — Ixxii, Ixxiv, Ixxvi; separated the treatise on Lord's supper from Tyndale's works, yet states some rea sons for thinking it his, iii. 218-20.
+[cursing, 300. visible church, ii, 120-1; why found]
 
-Francis I., ii. 313-19.
+[Vengeance, private, forbidden, ii. 27, by few, ib.]
 
-Francis, St, i. 124 ; his coat, ii. 32 ; his cord, i. 122 ; eternal life promised to observers of his rules, i. 227.
+[58-9, 62; lawful redress is not to be Wealth, welfare, i. 20.]
 
-Franciscans, or Gray Friars, i. 159; ii.
+[sought in a spirit of vengeance, 27, Wearish, sour, ii. 33.:]
 
-5 ; set Christ but little above Francis, ii. 5; divided into observants and conventuals, i. 301 ; their great in crease, 302.
+[Vernacle, the holy, iii. 79. Westminster abbey, asanctuary, i, 326;]
 
-France, king of, i. 340 ; styled most Christian, i. 186; ii. 263; Julius II. offers to transfer this title to Henry VIII. 187 : cost of wars with, i. 187, 335; the source of papal power, ii.
+[62-3. Weigh-house, custom-house, iii. 76.]
 
-Frank-almoigne, ii. 148.
+legend of its being consecrated by dale's translations should be burnt, St. Peter, in person, ib. and punishment inflicted on such as Wete, v. know, i. 234. did not give them up, 131; a satire Whet, or sharpen: whet them on thy upon him, and extracts from it, 40.1; children,’ i. 446. he endeavours to procure the arrest White, St., or Witta, ii. 216-7. of Tyndale and Roye, xxxiv; gets Wicliffe, his version of the scriptures, possession of Anne Boleyn's copy of i, xx; its perusal forbidden, 132; The Obedience, 130; procures for preached repentance to our fathers in Henry VIII. the title of Defender of vain, 458; charged by More with the Faith, ii. 338; is largely penhaving occasioned rebellion in Bohe- sioned by the emperor, 316; but plays E. mia, iii. 165, false with him, as well as with the Widowhead, for widowhood, iii. 157. king of France, 314, 316-8; suggests 1 Widows, who served the church, iii. and takes first steps towards procur- 155. ing the divorce of queen Catharine, Will, the, not free in the natural man, i. 319-20, 322; insults the emperor on 182; how made free, 183, 429, 489; finding him favourable to other caniii. 174; after conversion, men have didates for the popedom, 321-2; T yntwo wills, ii. 76; the will cannot dale's characterof him, 307-8; accuses command the wit, nor precede its him of secretly encouraging amarauddecision, iii. 192, 210.11; popish ing invasion of Scots, 306; believes notion of freewill, 191-2..him to have skill in astrology and Will-worship, and outward shew, i. necromancy, 308; calls him Wolfsee, 103-4, 119. 258, 307; warns those sworn to him, William I., received a banner from the that it is their duty to break such pope, to encourage him to invade oaths, 341-2. England, ii. 294. Women, have been employed about William IL, obliged by Anselm to divine things by God's own appointsurrender the investiture of bishops ment, iii. 18; and may be employed I to the pope, ii. 295. to teach, minister, and baptize, if it Wit, used to express the reasoning be plainly necessary, but otherwise faculty, i. 182-3; iii, 192, 198; the forbidden to preach, 18, 29, 30, 98, will worketh not, till the wit have 176. decided what is desirable, iii. 198. Woolward-going, what meant by,i.227, Wite, to blame, i. 164; ii. 193. 461. Witness, the three that bear, ii. 209. Worcester, Italian bishops of, i. xviii. W oll, for will, ii. 196. Word of God, ever hated by the world, Wolsey, cardinal, i. xviii, xxiii; the i. 131; either corrects or hardens, P arts by which he rose at court, ii. 471-3; they who profess to honour it, 307-10; came from bloodshedding to but mortify not their lusts, must ex- & bishoprick, 273; his episcopal plu- pect heavy chastisements, 474; withralities, 273, 337; his pomp, 314; out it do nothing, to it add nothing,.the honour which he required to be 330. See Scripture. paid to his scarlet hat, 338-9; com- Works, declare what is within the man, pels the clergy to tax themselves but make him neither good, nor bad, heavily for war with France, i. 188; i. 23, 59, 62, 100, 112-3, 116; false ii. 306; is warned by Bincke that notions of what are good and bad, 3 Tyndale was about to give the people inculcated by the Pharisees, and by C of England the scriptures in their the church of Rome, 461; till grace 9 native tongue, i. xxx; burns copies comes, are sin, 183, 435, 487; ii. 73; 3 of imported English testaments, x xxi; without faith are offensive, 126. b endeavours to get them burnt or sup- Works, good, what are, i. 90, 434; do ' pressed abroad, xxxii, xxxiv; per- not precede the grace of God, 112; P- suades the king to order that Tyn- every good thing in us is Christ's
 
-Frankfort, Tyndale's works printed and seized there, i. xxxv.
+gift, purchase, doing, and working, heirs, i. 80, 83; this is their reward, i. 23, 27, 111; we must be good, be- 100; and thus are they in some sort fore we can do good, 23, 50, 62, 73, sacraments, ii. 90-1; though they do 497; iii. 173-4, 204-5; the good not justify us before God, they justify work maketh not a good man, buta beforemen, i. 119, 526; ii. 6,7, 31, 74- good man maketh a good work, 5, 89; but we must beware of seeking (Tracy) 273; heathens and papists glory of men thereby, 73; good and taught the contrary, i. 108; iii. 11, bad works come of good and bad 204; a man must be reconciled to doctrine, 38; evil works, their conseGod, and in his favour, before his quence, i. 65. works can be good, 173; good works Worship of God, how described in are the fruits of the Spirit, i. 83, 108, scripture language, iii. 57; what 497; iii. 197; follow faith, i. 62, 64; acceptable, i. 106; ii. 158; iii. 57; ii. 108, 125; iii. 173; are outward what an offence to him, i. 106; worsigns and fruits of faith and of the shipping by works and ceremonies is Spirit, i. 497; ii. 87; but are not free idolatry, ii. 157-8, 214-17; worship is from sin, i. 113; iii. 173; trust in divided by schoolmen into doulia, hythem can bring no peace, i. 330, 509; perdoulia, and latria, iii. 56, they are not to be done, to seek hea- Worshippingofsacraments, ceremonies, ven by them, i. 63, 65, 278-81; iii. images and relics, iii. 59-63. 173; nor to make a profit out of Writing, believed by Tyndale to be them, iii. 200; he who would worship older than the flood, iii. 26; papists God by them is an idolater, ii. 157-8, teach that some things, not written, 214-5; faith in works is the darkness must be believed for salvation, 26; of Pharisees, Pelagians, ii. 103-4; More's attempt to prove this, ansuch have taught men to trust in swered, 96-7, 100, works of imaginary holiness, i. 278. 81; ii. 72; but the best do not de- Y. should work, to testify our thankful- distinct use iii 75; A ness, 277; good works must be done Year, its commencement in official freely, i. 62, 110; out of the mercy documents, different from the unofthat we have received, and not that fig and historical, i xli
 
-Fratry, refectory, ii. 98.
+## wes Year’s mind, what, i. 238
 
-Freedom, that wherewith Christ makes his people free, i. 501.
+we may thereby receive mercy, iii. x 204; that which is deserved by Yer, for ere, i 51, 455 works is not grace, ii. 157; they cannot deserve eternal life, i. 82,100; Ζ nor justify man before God, 497; Zacharias I. pope, gave Pepin and the three kinds of service, i. 23; they oaths of allegiance to their lawful ii. 74-5, 103; iii. 204; but they do us French nobles license to violate their testify what we are, 109, 116, 497; ii. sovereign, ii. 261. 89, 149, 189, 193, 195; they testify Zeal without knowledge is not good, our faith, 59-61, 71-2, 77; ii. 108, i. 105. 125; that we are Cod's children and Zwitzers, ii. 300, 311,
 
-Friars, or mendicant orders, their be ginning and procedure, ii. 277.
+## The End
 
-Fridays, four, ii. 98.
+## The Ninth Annual Report (for the Year 1849.) of
 
-Frith, John, i. xxxvii, 37; Cromwell's account of Henry's opinion of him, xlviii ; said to have printed Tyndale's answer to More's Dialogue, 1 ; leaves Tyndale to come into England, liii; seized and imprisoned, ib. ; Tyndale's first letter to him, liii, Ivi ; second, Ivii— lix. ; Frith's answer to More, Ivi ; he is defended against More, Ivii ; martyred, Ix ; his name in con nexion with question of authorship of treatise on Lord's supper, iii. 21820 ; More's hard words against him, i. 4 ; iii. 219.
+The Parker Society,
 
-Galatians, Prologue to, i. 513.
+## Instituted 1840. for the Publication of the Works of the Fathers and Early Writers Reformed English Church. Presented to the General Meeting, May
 
-Gards, borders, i. 532 ; their purport, as commanded to be worn, ib. Gehenna, meaning of, i. 531. Genesis, prologue to version of, i. 398-
+He (Archbishop Parker) was a great collector of ancient and modern writings, care of the safe preservation of them for all succeeding times; as foreseeing, might be made of them by posterity; that, by having recourse to such originals knowledge of things might the better appear. As he was a great patron and promoter of good learning, so he took care to printing— a great instrument of the increase thereof." Strype's Life of
 
-405 ; table of words expounded, 405-
+[The Council of the Parker Society have to lay before the Members the]
 
-10 ; remarks upon portions of its narrative, 400-2. Gest, some act, or exploit, i. 450. Gifts of God, bestowed that we may use them for our neighbour's benefit, i. 24. Gildas,his testimony against the ancient
+[following Report of the proceedings of the past year:—]
 
-Britons, i. 142, 458 ; quotation from,
+[3 The Books for the year 1849 which have been circulated among the]
 
-Glocester, duke Humphry, his death, ii. 297; the tale of his detecting a pretended miracle, told by More, 298.
+[subscribers were four:—]
 
-GENERAL INDEX.
+[Ist. A second portion of the works of Tyndale, the Martyr.]
 
-Glorestershire, contained six mitred abbots, ii. 288.
+[2nd. A translation of Whitaker's Disputation on Holy Scripture.]
 
-Glorious, used for vain-glorious, i. 453.
+[3rd. A volume of Bullinger's Decades.]
 
-Glory, he that seeketh his own, is his own god, ii. 73; reserved for those who suffer with Christ, 28.
+[4th. A selection from the writings of Bishop Bale.]
 
-Gluttony, ii. 92-3.
+[These four books, it is hoped, have proved acceptable to the members. Of]
 
-God, his will, word, and power, are all one, iii. 239 ; some things are not possible to him, inasmuch as they involve contradictions, 232-3 ; to trust in him, is the first commandment, and first article of our creed, 274 ; all that is of God is light, ii. 149 ; setteth forth his love, that we may have con fidence in him, i. 294 ; his love to the elect, and what he does for them, 13, 14, 77 ; iii. 191 ; overcomes his ene mies with love, i4 136; his exceeding love towards sinners, ii. 199 ; the worker of all good things in man, i. 498 ; iii. 34 ; our goodness springeth out of his, 196; allows men to bind him by his promises, ii. 68 ; ven geance belongeth to him, i. 332 ; his righteousness not satisfied by pen ance, but by death of Christ, ii. 166; false conceptions of his character en couraged by popish system, i. 278, 291-2,295-6; ii. 156; More charges Luther with teaching that God com pels men to sin, iii. 190; reply to this charge, 191-3; why God leaves one blind, and opens the eyes of another, is a question too deep for us, 191 ; what is meant by his justifying be lievers, i. 509 ; his full pardon of be lievers' sins, ii. 158, 166, 168 ; loveth their good deeds, because he first loved them, i. 295 ; his word must be in the heart to produce good, 51 ; is the rule of his children, 131 ; every one bound to defend his word, ii. 37 ; how to please him, i. 332 ; how he is to be honoured, i. 106 ; iii. 57 ; he is dishonoured when our duty to our neighbour is disregarded, ii. 57; what it is to swear by him, ii. 55 ; •whither prayer to him should be di rected, i. 383, 385.
+[the value of Tyndale’s writings it is unnecessary again to speak. Neither can]
 
-Good, every such thing in us is Christ's gift, purchase, doing, and working, i. 23, 27, 111 ; we must be good, before we can do good, 23, 50, 62, 73, 497;
+[it be needful to dwell upon the importance of Bullinger's Decades, a collec-]
 
-iii. 173-4, 204-5; heathen and pa pists taught the contrary, iii. 11, 204 ; prayer is good, according to the pro portion of faith, and the deed accord ing to the measure of love, i. 280. Good works. See Works. Goods, every man's to be preserved from waste, because he is bounden to main tain his family therewith, and support his king, ii. 66.
+[tion of sermons which received the official sanction of the rulers of the Church]
 
-Gorram, or Gorham, Nicholas de, i. 151 ; brief notice of him, 152.
+[οὗ England, in the reign of Queen Elizabeth, and which, therefore, must]
 
-Gospel, what it is, i. 8, 9 ; glad tidings to all the world, 10 ; is the ministra tion of life, 11 ; of righteousness, 48 ; the only light in the world, ii. 34; it purifieth the heart, 35 ; it cannot, and may not be hid, 34-5; was pro mised in the Old Test., i. 9 ; and is found there, 11 ; why called a testa ment, 9; is not to be limited to evan gelists, 213, 441, 477, 484; ii. 144; its effect contrasted with that of the law, i. 21, 83 ; it is the law which makes the gospel acceptable, and therefore they must not be separated, 11; reply to question, whether the gospel or the church be the older, iii.
+[deserve to be carefully consulted by every student of theology. Whitaker's]
 
-Grace, what meant by, i. 11, 286, 407 ; distinguished from gift, 491 ; the doc tors and preachers wont to distinguish different sorts of, as gratis data, gratum faciens, prasveniens, subsequens, iii. 22 ; we have no freewill wherewith to anticipate the grace of God, iii. 174, 192 ; till it be given us, we can not consent to the sweetness of the law, nor prepare ourselves thereunto, 1 74 ; till preventinggrace be bestowed men cannot see God, 192; they who are in a state of grace may know it, ii. 172, 200, 211 ; this denied by popish doctors, ib. ; there is ever a remnant kept by grace, iii. 139-40; peculiar use of the word grace in the universi ties, 22.
+[learned Disputation on Holy Scripture, now first introduced to the reader in]
 
-Grafton, the printer, completes Mat thew's bible, i. Ixxv. ; presents a copy to Cranmer, ib.
+[δὴ English dress, is an admirable treatise on the authority and interpretation]
 
-Greeks, their separation from Western church, ii. 259.
+[of the sacred word. And it was felt very desirable to reprint some of the]
 
-Gregory. See Popes.
+[productions of Bishop Bale. He was a writer too prominent among those]
 
-Guilford, sir Henry, i. xxi., 395.
+[0f his age to be passed over in such a series as that comprehended by the]
 
-GENERAL INDEX.
+[Parker Society; and, though several of his works are not suitable for modern]
 
-Hackett, sir John, the king's agent in the Netherlands, i. xxxi ; enjoined by Wolsey, and consequently en deavours to procure the suppression of Tyndale's writings at Antwerp, xxxiii ; further desired by him to request that Tyndale and Roye may be delivered into his hands, xxxiv ; suggests a false charge of treason against an English merchant, xxxiv. ; travels in search of Tyndale, ib. ; en deavours to seize copies of Tyndale's Testament on board Scottish ships,
+[re-publieation, yet his accounts of those who in the time of persecution witnessed]
 
-Haecceitas, metaphysical term, i. 158.
+[P a good confession for the truth, and his exposition of the book of Revelation,]
 
-Hales, Alex, de, brief notice of him, i.
+[will probably interest those who desire to acquaint themselves with such an]
 
-Hands, of the putting on, i. 274-5.
+[author.]
 
-Harberous, hospitable, i. 479.
+For the year 1850, the following books are in preparation:—:
 
-Harman, Richard, an English merchant at Antwerp, exports Tyndale's Tes tament, i. xxxiv ; in peril thereby, ib.-} Anne Boleyn writes a letter in his behalf, Ixiv.
+**1st.** The last portion of Tyndale’s works.
 
-Heart, God looketh to it rather than to the deed, i. 100, 118, 489 ; Devotion of the sacred heart, extract from book of prayers so entitled, iii. 117.
+**2nd.** Another volume of Bullinger's Decades.
 
-Hear and learn, spoken of spiritual rather than of natural perception} iii.
+**3rd.** The concluding portion of Bishop Jewel's works. It will be a great satisfaction to the Council to have completed an edition of the writings of this eminent prelate, one of the brightest ornaments of the age in which he lived; in whose volumes may be found treasures of information on almost every theological topie; and of whom it may be truly said that, in the wide range which his pen pursued, ' nihil quod tetigit non ornavit." The Council have pleasure in apprising the subscribers that they have reason to believe that their edition of Bishop Jewel will be a very complete one, and that it will comprise some letters not hitherto printed.
 
-Hebrew, peculiarities of that tongue, i. 148-9, 468.
+**4th.** The Apology of Private Mass, with a Reply. This exceedingly rare volume has been, though erroneously, ascribed to Jewel. It appears, however, to be a fitting appendix to the works of the learned Bishop of Salisbury, with which the Council are glad to be able to circulate it.
 
-Hebrew words explained : l"inx, i. 405. rib-nun bax, 378. CMVQ bnx, 347. •nyn px, 378. mx, 351. D)x, 445. bx-ra-bx, 376. "nbx bx, ib. D'rtbx, 175; ii. 165. CTQX, i. 445. bjrbn, Belial, 445. nybj, Galeed, 348. ma, Gerah, 419. nm, ii. 145. yiran, i. 68. xkon x'inn, 378.
+In their report of last year, the Council felt that the time was come for some definite statement of the period to which their labours might be expected to extend, and they anuounced that they hoped to complete the series of their re-publications in about four years from that date. As nothing has since occurred to alter the view they then entertained, they would now state, that in about three years more they expect to have put forth the works of Archbishop Whitgift, Archbishop Parker's Correspondence, Rogers on the Articles, the Reformatio Legum, Nowel's Catechisms, together with the remaining portions of Bradford and Bishop Hooper, and some other valuable treatises. The accomplishment of this expectation must depend on their receiving a continuance of that support from the public, which has been hitherto given so far beyond the expectations with which the Society was formed. But to this the Council believe that they may confidently look forward, as they can scarcely suppose, when the series is so near completion, that any of the members will hesitate in continuing their subscriptions a short time longer, until the close of the undertaking.
 
-oyr, iii. 157.
+Various opinions have been expressed as to the merit of some of the volumes which have been re-published; and it has been suggested by some, that a more attractive collection of books might have been furnished to the members of the Society. But the principle on which it was founded was that of giving a large and comprehensive series of the writings of our reformers and early divines. Had the works of only a few of the more eminent authors been selected, a charge of partiality might, perhaps, have been sustained against the Council; and their reprints might have been thought the offspringrather of partizanship than of a sincere and earnest desire to exhibit the theology of the Church of England as it appeared during, perhaps, the most momentous crisis of her existence. Andas the members have frequently been reminded, it is to be considered that, though some of the volumes published may not be inviting to the general reader, they are of great value as documents; and they are all the productions of men eminent in their times, the leading persons in the ehureh and the state and the academic seats of learning. The whole mind of that age will thus have been exhibited; and the Council know that those who are best qualified to judge are agreed in the importance of such an exhibition. They will have made accessible to the mass of the public the works of martyrs and confessors; they will have illustrated, both in doctrinal and controversial treatises, in liturgical documents, and in familiar letters, the views and proceedings of those to whom under God we owe the rescue of our church from a foreign yoke, - throwing, thereby, no inconsiderable light upon the history as well as the theology of the times. To have been the instruments of accomplishing such a work as the republication of these remains will ever prove to the Council a source of real gratitude to God; and in dependence on his help they would proceed to the completion of their plan.
 
-on, Ham or Cham. 407 ; ii. 248.
 
-b'bs, iii. 108.
+## Laws of the Parker Society
 
--133, i. 69 ; ii. 153.
+I.—That the Society shall be called THE PARKER SOCIETY, and that its objects shall be—first, the reprinting, without abridgement, alteration, or omission, of the best Works of the Fathers and Early Writers of the Reformed English Church, published in the period between the accession of King Edward VI. and the death of Queen Elizabeth: secondly, the printing of such remains of other Writers of the Sixteenth Century as may appear desirable (including, under both classes, some of the early English Translations of the Foreign Reformers); and thirdly, the printing of some manuscripts of the same Authors, hitherto unpublished.
 
-TXD, Meod. i. 396.
+II.—That the Society shall consist of such a number of members, being subscribers of at least One Pound each annually, as the Council may determine; the subscription to be considered due on the First day of January in each year, in advance, and to be paid on or before such a day as the Council may fix; sufficient notice being given of the day appointed.
 
-H nano, i. 377.
+Iii.—That the Management of the Society shall be vested in a President, a Treasurer, a Librarian, and a Council of twenty-four other subscribers, being members of the established Church, of whom not less than sixteen shall be Clergymen. The Council and Officers to be elected annually by the subscribers, at a General Meeting to be held in the month of May; and no persons shall then be proposed who are not already members of the Council, or Officers, unless their names shall have been transmitted to the Secretaries on or before the 15th of April in the current year, by nominations in writing, signed by at least five subscribers. And that there be three Secretaries EAR by the Council; also that the Council have power to fill all vacancies during the year.
 
-DDE, iii. 177-8.
+IV.—That the accounts of the receipt and expenditure of the Society shall be examined every year, previously to the General Meeting by four Auditors, two of them selected from the Council, and two appointed by the preceeding General Meeting.
 
-'D2, Nissi, 420.
+**v. 1.** That the funds shall be expended in the payment of the expense incurred in producing the works published by the Society, so that every member not in arrear of his or her annual subscription, shall receive a copy of every work published by the Society during the year, for each sum of One Pound subscribed, without any charge for the same; and that the number of copies printed in each year shall be limited to the quantity required for the number actually ena for.
 
-bx »3B, 347, 368.
+VI.—That every member of the Society who shall intimate to the Council a desire to withdraw, or who shall not pay the subscription by the time appointed, shall cease to be a member of the Society; and no Member shall at any time incur any liability beyond the annual subscription.
 
-HD3, Pesah, 353, 355, 377.
+VII.—That, after the commencement of the proceedings, no rule shall be made or altered excepting at a General Meeting, and after notice of the same has been communicated to the members by circulars, or by advertisement in Eso London daily newspapers, at least fourteen days before the General eeting.
 
-, iii. 108. f, 107.
+SR [Donations and Legacies will be thankfully received; the amount
 
-roys nssv, i. 409.
+[of which shall be expended by the Council in supplying copies of the publi- -]
 
-^tt?p, iii. 285.
+[cations to clerical, or other libraries, destitute of funds to purchase the same,]
 
-ntfp, in 2 Sam. i. 17-, rendered by Tyndale staves, in Auth. Vers. bow.
+[and for such other purposes, connected with the objects of the Society, as the]
 
-npn, Raka, ii. 45, 229.
+[Council may determine,]
 
-nb'ir, Siloh, or Shiloh, 408.
+NAMES, AMONG OTHERS, ARE IN
 
-n-nnton lir, Sartabaim, 408. Hebrews, Prologue to Epistle, i. 521-
+## Of Subscribers to the Parker Society, his Royal Highness the Prince Albert. His Majesty the King of Prussia. Her Royal Highness the Duchess of Kent
 
-4 ; authority of the epistle defended, ib. Heir, all believers heirs, i. 77, 89, 113;
+[His Grace THE Lorp ArcEBISHOP OF CawTERBURY.—His GRACE THE LORD ARCHBISHOP OF YORK.]
 
-their assurance thereof, 89, 113. Hell, what the word is now used for, i.
+[His Grace the Duke of Devonshire.—His Grace the Duke of Manchester.]
 
-Henry I. (Tyndale says II.), obliged to yield to Ralph, bishop of Chichester, when he would have had a tax paid by the priests, ii. 295; Henry II. vexed by prelates, 19 ; Henry IV. and Henry V. indebted to the clergy for their elevation, and put their swords at the clergy's dispo sal, 297 ; Henry V. sent into France by his clergy, i. 338; ii. 302; iii. 212; built Sion and the Charter-house of
+[His Grace the Duke of Sutherland.— His Grace the Duke of Roxburghe.]
 
-GENERAL INDEX.
+[The most Honourable the Marquesses of Bute, Cholmondeley, Conyngham,]
 
-Shene, that lip-labour might never cease, ii. 81; Henry VI. managed and deceived by prelates, 303-5 ; mi racles ascribed to -him, though his canonization had not been purchased, iii. 122 ; Henry VII., use he made of Cardinal Morton and other pre lates to get at his subjects' secrets, and raise money, ii. 305-6 ; Henry VIII. warned by Rincke, that Tyndale was printing a version of the scriptures, i. xxx ; warns his subjects against them, xxxi ; denounces that they are to be burnt, and that he will punish the keepers and readers of the same, xxxii. 131 ; desires the princess regent of the Netherlands to procure the destruction of books intended to poison his subjects, xxxii ; lays in junctions to same effect on English merchants at Antwerp, ib. ; A mutual compact between him and the prin cess, to prohibit the printing or sell ing of Lutheran books, xxxvii; issues a proclamation, enjoining magistrates to aid in punishing all persons con cerned with books against popery, xl. 34 ; his anger at Vaughan's com munications respecting Tyndale, xlviviii ; employs sir T. Elyot to pro cure Tyndale's arrest, Ii ; gives his license for selling and reading Mat thew's bible, in which Tyndale's translations and prefaces are in cluded, Ixxvi ; by his command More and certain prelates gather heretical propositions from Tyndale's writings, 34 ; the clergy are ordered to tell their congregations that the king and prelates did well in not suffering the people to have the scrip tures in their own tongue, 35 ; reads and approves of " The Obedience," 130; in which he is advised to consi der what his support of the pope had cost, 335 ; present and title given him by the pope, i. 18J; ii. 339; his loan forgiven by spiritualty and temporalty, 337; ridiculed in French play, 341 ; his book against Luther criticised by Tyndale, 239; his vow of matrimony more binding than Luther's of celibacy, 340 ; intreated by Tyndale to cease from persecu ting, 341 ; Tyndale's advice, as to how the question of his divorce should be tried, ib.
+[Downshire, Northampton, Ormonde, and Salisbury.]
 
-Henry V. Emperor receives his crown from the feet of Pope Coclestine, who kicks it off again, ii. 271.
+[The Right Honourable the Earls of Cavan, Chichester, Clancarty, De Grey,]
 
-Heresy comes not of the scripture, but of the blindness of those who under stand it not, ii. 141-4; comes of pride, 140.
+[Dunraven, Essex, Galloway, Howe, Jermyn, Nelson, Rosse, and]
 
-Heretics, ancient, would have objected to the strangeness of the doctrine of Christ's bodily presence in the sa crament, had such a doctrine been taught in their time, i. 373.
+[Spencer.]
 
-Hish, v. i. 432.
+[The Right Honourable Lord Viscounts Alford, Campden, De Vesci, Fordwich, Hill, and Lorton.]
 
-Hitton, Thomas, a martyred reformer, ii. 340; iii. 113.
+[The Right Honourable and Reverend Lords Charles Thynne, John Thynne,]
 
-Ho, halt, i. 35.
+[Arthur Hervey, Wriothesley Russell, The Right Honourable Lord George]
 
-Holcot, Robert, notice of him, i. 151.
+[A. Hill Lord Lindsay, Lord Henry Cholmondeley, Lord Edward Chichester, &c., &c.]
 
-Holy and unholy, all are sinners ; but what the one loves the other abhors, i. 311 , iii. 32 ; the Christian is holy, by reason of the indwelling Spirit, i. 340 ; and his abode is sanctified by his holiness, ib.
+[The Right Honourable and Right Reverend the Lord Bishop of London.—]
 
-Holy-day, is servant to man, i. 7.
+[The Right Reverend the Lords Bishops of Durham, Winchester,]
 
-Holy Ghost, how received, i. 424 ; when it accompanies baptism, ib. ; is the seed spoken of in Uohn in.iii.32 ; of the sin against, i. 522; ii. 232, 344 ; iii. 24 ; More says that there was no promise that the Holy Ghost should write, iii. 100. See Spirit of God.
+[Chester, Chichester, Ely, Hereford, Lichfield, Lincoln, Llandaff,]
 
-Holy strange gestures, M ore's expres sion, iii. 85.
+[Manchester, Oxford, Peterborough, Ripon, Rochester, St. Asaph,]
 
-Holy things, of the church of Rome, i. 462; iii. 109.
+[and of Worcester.]
 
-Holy workmen, such as trust in their imagined good works, i. 278, 305, 496; think hard things of God, i. 278; torment themselves to please God, ib. ; are found to have no trust in him, when they see death at hand, iii. 140.
+[The Right Honourable and Right Reverend the Lords Bishops of Meath,]
 
-Holy works of men's imagination, receive their reward here, i. 407 ; are injurious to the performers, i.
+[and of Killaloe and Clonfert.— The Right Reverend the Lords]
 
-Homely, domesticated, ii. 298.
+[Bishops of Down and Connor, of Ossory and Ferns, and of Cashel]
 
-Hope, its office, ii. 14.
+[and Waterford.]
 
-House, u He made them houses,'* ex plained, i. 419.
+[The Right Reverend the Lords Bishops of Bombay, Calcutta, Capetown,]
 
-GENERAL INDEX.
+[Colombo, Guiana, Melbourne, Newcastle, Sydney, Toronto, and of]
 
-Household, each man must defend his own, ii. 67-
+[Tasmania.]
 
-Howsyll, the sacrament of the altar (More), iii. 96.
+[~The Right Reverend the Bishops of Delaware, Georgia, Maryland, New]
 
-Howselled, having that alleged sacra ment administered, 179.
+[Jersey, Ohio, South Carolina, and of Virginia.]
 
-Hugo de St Cher, a cardinal, inculcates cruel usage of Jews and heretics, iii.
+[The Right Honourable the Lords Ashley, (President), Bolton, Calthorpe.]
 
-Hugo de Sto Victore, notice of him, i.
+[Farnham, Lindsay, Littleton, Rayleigh, and Teignmouth.]
 
-Huker-muker, secrecy, i. xxvii.
+[Her Grace the Duchess Dowager of Argyle.—Right Honourable the]
 
-Hunne, the murder of, by certain priests, iii. 146 ; More's insinuations against the sufficiency of the evidence, 166-7.
+[1 Countess of Annesley —Right Honourable Viscountess Valentia.—]
 
-Husband, his duty, i. 200.
+[Right Honourable Lady Ward, &c.]
 
-Husbands and wives, their sin in for saking one another, ii. 54-5.
+The Right Honourable the Lord Chief Justice of Ireland.—The Right Honourable Lord Justice Clerk, Scotland.—The Honourable Mr. Justice Jackson, The Chevalier Bunsen.—The Right Honourable Henry Goulburn, M.P. for the University of Cambridge.—The Right Honourable W. E. Gladstone, M.P. for the University of Oxford, &c. The Very Reverend the Deans of Carlisle, Chester, Durham, Gloucester, Manchester, Norwich, Peterborough, Salisbury, and Winchester.—The Deans Chapters of Lichfield, Worcester, Limerick, Raphoe, Tuam, &c. The Very Reverend the Deans of Clogher, Cloyne, Connor, Cork, Derry, Cashel, Elphin, Emly, St. Patrick, Ossory, Kildare, and Kilmacdaugh. The Honourable and Worshipful T. W. Law, Chancellor of Bath and Wells. —The Worshipful H. Raikes, Chancellor of Chester, E. T. M. Phillips, Chancellor of Gloucester, F. R. Sandys, Chancellor of Ossory, Marsham Argles, Chancellor of Peterborough, and J. N. Woodrofie) Chancellor of Cork. The Venerable Archdeacons Berners, Bevan, Brown, Buckle, Davys, Hare, Hill, Hodson, Hoare, Law, Mae Donald, Philpot, Spooner, C. Thorp, Henry Williams, William Williams of New Zealand, R. J. Wilberforce. The Venerable Archdeacons Bell, Beresford, Creery, Digby, Mant, Monsell, Oldfield, Power, Stopford, Strean, Stuart, Verschoyle, and St. George. Reverend Dr. Plumtre, Master of University Coll., Oxford, and Viee Chancellor of the University.—Reverend Dr. Phelps, Master of Sidney Sussex Coll. Cambridge.—Reverend Dr. Philpot, Master of Catherine Hall, Cambridge.
 
-Hypocrites are impure, ii. 26 ; extol their own works above law of God, 127; their prayers, 78; their judg ment of others, 112-14; have the world on their side, i. 133 ; their wis dom proved foolish, 134; must be rebuked, before open sinners are dealt with, ii. 44.
+[—Reverend Dr. Archdall, Master of Emmanuel Coll. Cambridge.—]
 
-Idleness, used for ailing, iii. 282.
+[Reverend Dr. Tatham, Master of St. John's Coll. Cambridge.—Reverend]
 
-Idolatry, what it is, ii. 214-8 ; iii. 125 ; whence it sprung, 64.
+[Dr. Symons, Warden of Wadham Coll. Oxford.—Reverend Dr. Fox,]
 
-'IXao"/xos, ii. 153.
+[Provost of Queen's Coll. Oxford.—Reverend Dr. Cotton, Provost of]
 
-Images, not allowed by the church in time of Jerome, iii. 132; but pope Gregory I. did not like that images should be broken, ib. ; condemned by council of Constantinople in 754, 183 ; first sanctioned by second Nicene council, ib. ; their destruction is not out of hatred to saints, ib. ; are infe rior to man, 59 ; to adorn images, and leave men naked, who are living images of God, is therefore sin, ib., 82; More's argument to prove that men may worship an image without being idolaters, and Tyndale's reply, 125; how images and pictures of Christ or the saints may be used without sin, ib. ; but so to do is a stumbling-block to others, 184; and the imageserver is an idolater, 62, 125; heathen made images of aches and fevers, and sacrificed thereto, 163.
+[Worcester Coll. Oxford.—Reverend Dr. Jeune, Master of Pembroke Coll.]
 
-Improve, v. to rebuke, or reprove, i. 41, 258, 329.
+[Oxford.—Reverend Dr. hadley) Provost of King's Coll. Cambridge.]
 
-Inconvenience, unsuitableness, i. 380.
+[—Reverend Dr. Ainslie, Master of Pembroke Hall, Cambridge.—Reverend]
 
-Inculk, inculcate, iii. 245.
+[G. E. Corrie, Master of Jesus Coll. Cambridge.—Dr. King, President]
 
-Indulgences, examples of papal, i. 122.
+[of Queens’ Coll. Cambridge.—Reverend Dr. Webb, Master of Clare]
 
-Infernus, distinct from Gehenna, i. 531.
+[Hall, Cambridge.—Reverend Dr. Cardwell, Principal of St. Alban's Hall,]
 
-Infidels, the Christian's duty towards them, i. 99 ; whosoever hindereth them of that which is their right, sinneth against God, i. 204.
+[Oxford.]
 
-Intention, first, a term in logic, i. 157; second, ib.
+[The Reverend Dr. Sadleir, Provost of Trinity Coll. Dublin.—The Venerable]
 
-Interdict, i. 340.
+[Archdeacon Thorp, Warden of the University of Durham.—The Very]
 
-Ipswich, maid of, daughter of sir R. Wentworth tormented of the devil, as More believed, i. 327; the tale told, and remarks on it, iii. 90-2.
+[Reverend Dr. Lee, Principal of the University of Edinburgh.—Reverend]
 
-Isacius sent from Constantinople to con firm the pope's authority, robs the church of St John Lateran, ii. 255.
+[J. Wheeler, President of the University of Vermont, U.S.—Reverend Dr.]
 
-Israel, children of, their perils and deliverances, i. 134-6; their sins and correction, 142; the old Testament written in their mother-tongue, 144.
+[Hawtrey, Head Master of Eton.—Reverend Dr. Williamson, late Head]
 
-James, Prologue to his epistle, i. 5256 ; James and Paul reconciled, i. 61, 119,223, 526; iii. 200-5.
+[Master of Westminster School, &c., &c.]
 
-Jehovah, purport of that name, i. 408,
+[LiBRARIES.—The Royal Library, Berlin.—Balliol Coll. Oxford.—Gonville and]
 
-Jerome, an observant friar, i. xv ; 38,
+[Caius, Pembroke, and Queens’ Coll. Cambridge.— Wadham, and Worcester]
 
-Jerome, the ancient father, assigns the same authority to other bishops as to the pope, i. 216; his remarks on "Thou art Peter," 217; on the power of binding and loosing, ib. and 269 ; says, that there were three kinds of monks in Egypt, and describes them, ii. 42 ; a case in which he would have allowed one who had been twice married to become a priest, iii. 152 ; said by More to have prayed to saints, 126; his indelicate language censured by Tyndale, and by Erasmus, i. 438; he says nothing about confession to a priest, or penance, when speaking of a public acknowledgment of sin, iii.
+[Coll. Oxford.—Trinity Coll. Dublin.—University of Edinburgh.—King's]
 
-Jest, or gest, exploit, i. 80.
+[Coll. London.—Advocates’ Library, and Library of the Writers to the]
 
-Jesus, meaning of the name, ii. 152. See Christ.
+[Signet, Edinburgh.—St. Bees’ Coll.—Cathedrals of Chester and Cashel.—]
 
-GENERAL INDEX.
+[The London Institution.—The London Library.—The Chetham Library,]
 
-Jews, not permitted to live in England, i. xxv ; iii. 68; given up to spiritual idolatry, when they had relinquished idols, i. 473 ; iii. 43 ; their mistaken views of the purport of their rites, 66 ; imagined that those rites wrought a righteousness in them, 66-8; their carnal unbelief, 227, 239 ; still clave to ceremonies after their conversion, 68-70; and thereby injured the early church, 70-1; many of those who seemed to be converted had only at tained to an historical faith, 70. Join, enjoin, i. 281. John Baptist, his manner of life and preaching.
+[Manchester; and many other Collegiate, Public, and School Libraries, &e.]
 
-John, the apostle, preface to his gospel, i. 482 ; prologue to his epistles, 529-30 ; exposition of his first epistle, ii. 136, 225 ; exposition of his lesser epistles not Tyndale's, 134-5 ; superstitious use of his gospel, iii. 61 ; sixth chap ter of it wrested to a carnal eating when it meaneth a spiritual, i. 368 ; cannot be meant of the sacrament,
+1 THE COUNCIL AND OFFICERS FOR 1850-51.
 
-John, king, why the pope offended with him, i. 339 ; his lords released from their allegiance by papal legate, ib. ; interfered with immoral clergy, and with appeals to Rome, ii. 19; pope declared remission of sins to such as should help the king of France to wrest his kingdom from him, 295.
+## Prsident
 
-Jonah, prologue to, i. 449-66 ; how to read Jonah profitably, 453 ; God's dealing with him, and its purport, 454 ; profit to be gained from his ex ample, 465; question whether Tyndale translated Jonah, 447-8.
+Tur Ricar HoNoURABLE Lonp AsnurEv, M.P., L.L.D., &c.
 
-Joseph, his conduct, as related, Gen. XLVII. 20-4, justified, i. 410.
+## T'reasurer
 
-Joye, George, alias Jaye, i. liv, Ix : revises and alters Tyndale's version of New Testament, Ixi ; his apology, Ixii ; said by some to be author of The Treatise on the Lord's Supper, iii. 218 ; is odious to More, i. 4, 218.
+J Sir WanTrER R. FARQUHAR, Barr,
 
-Judas, and Peter, their fall and their repentance compared, iii. 208-9.
+## Council
 
-Jude, prologue to his epistle, i. 531.
+**Rev.** R. G. ΒΑΚΕΒ.-- Εν. C. Benson, Canon of Worcester.—Jonx BRIDGES, Esq.—Jouw Bruck, Esq.—Rzv. Guy BrYAN.—REv. RICHARD BURGESS. Rev. G. E. Corrie, Master of Jesus College, Cambridge.—REv. T. Townson CaurtoN, Fellow of Brasenose College, Oxford.—REv. SAMUEL Carr, Colchester. I —Hos. ΑΜ CowrER.—REv. W. Haywarp Cox, Oxford.—Rev. CuxNINGHAM.—REvV. THOMAS DarE, Canon Residentiary of St. Paul's.—Rrv. 1 GoopE.—REvV. JouN HannpiNG.—JosEPH HOARE, Esq.——Rrv. T. H. HonNE, Canon of St. Paul's—REev. J. Jacksow.—HowN. ARTHUR KixNNAIRD.—HENRY Pownarr, Esq.—Rzv. Josrag PnaTT.—Rzv. M. M. PRESTON.—~REV. DR. ROBINSON. —Rzv. DawrEL WiLson.
 
-Judges, their duty, i. 203-5, 235.
+## General Secretary and Librarian. Rev. John Ayre. Editorial Secretary
 
-Judging, whatmanner of, to berebuked, ii. 114.
+I Rzv. JauEs ScHOLEFIELD, Regius Professor of Greek in the University of Cambridge.
 
-Justification, papal and scriptural ac count of it, contrasted, iii. Ill ; its source and fruit, iii. 82 ; cometh by faith only, i. 46, 342, 488-9; ii. 14, 90, 137; iii. 195—206, 274; More's arguments against this doctrine, and Tyndale's replies, 197—207; itbringeth peace, i. 294 ; and love, ib., and iii. 195-6; process of justification considered with reference to baptism, ii. 90 ; it cometh not by the law, i. 114 ; nor by its deeds, 487, 496 ; nor by good works, 52, 56, 192, 497 ; iii. 204; though they are marks of a jus tified man, i. 192, 497 ; iii. 197 ; nor by ceremonies, i. 51 ; iii. 193 ; though Jews, and Turks, and the pope teach the contrary, 193-4.
+## Secretary for General Business
 
-Justitiers of themselves, on the credit of their own works, i. 12 ; styled by Tyndale justiciaries, 13; such virtu ally deny the coming of Christ, 530 ; consequences of such self-righteous ness, 13, 114, 432.
+᾿ς WirLiíAM Troms, Esq., at the Office of the Parker Society, 33, Southampton B Strand, Loudon.
 
-Justify, term explained, i. 192, 262, 508-9 ; God justifieth actively, ii. 90 ; the promises justify through faith, i. 278, 342 ; the believer is justified by faith only, 46, 49, 125, 223,294, 342; iii. 196-7; Paul's mode of proving this in Epistle to Romans, i. 508 ; but while justified by faith only before God, he is justified by works before men, 61, 119,223, 526; Jews thought that the work of their sacrifice justi fied them, 276; church of Rome teaches a similar doctrine, ib., and
+## Auditors
 
-Justifying, the course of justifying mer cy, iii. 195-7; M ore says the first faith, and the first justifying, is given us without our deserving, 203.
+How. A. KixNAIRD, REV, R. E. HaxkINsON, H. PowNarr, Esq., and F. Lowe,
 
-Keep, v. to take care lest, i. 24.
+## Bankers
 
-Kent, maid of, Elizabeth Barton, her imposture, i. 327; iii. 91-2.
+**Messrs.** HERRIES, FARQUHAR, AND Co., No. 16, St. James's Street.
 
-Keys, the promised, what,i. 119, 205-6; promised to all the apostles, in the person of Peter, 205, 218. See Binding and Loosing.
+[REGULATIONS FOR DELIVERY OF THE BOOKS PUBLISHED BY THE SOCIETY.]
 
-King, the title given to a queen reg nant, ii. 304.
+[I. They will be delivered, free of expense, at the office, or within three miles of the General Post Office, London.]
 
-Kings, wherefore set up, i. 174, 185 ;
+[II. They will be sent to any place in England beyond the distance of three miles from the General Post Office, by any conveyance a member may point out. In this]
 
-GENERAL INDEX.
+[i case the parcels will be booked at the expense of the Society, but the carriage must be paid by the members to whom they are sent.]
 
-receive their power from God, 173, 332 ; only accountable to him, 178 ; are his servants, to execute his laws, 334 ; their duty, 202, 239, 250, 334-5 ; iii. 58 ; should remember that their subjects are their brethren, i. 239 ; that they are not ordained of God for themselves, but for their subjects' welfare, ib., and iii. 58 ; the clergy owe them obedience, as well as the laity, i. 333 ; ii. 67 ; if they command evil, are to be disobeyed, but not re sisted, i. 332 ; resistance to them is forbidden. See Rulers. If they do unright and oppress their subjects, God will avenge the wrong, 332 ; but they are beneficial, even when tyrants, 179, 194, 198, 332 ; where the pope rules they are but his officers, 242, 249, 337 ; their power is then but a shadow, 186, 239 ; corrupted by pre lates, 136 ; cannot be released from their treaties by the pope's dispen sations, 205-6; ii. 300-1, 311; the people's proper remedy against evil princes, 196-7, 332, 334, 336.
+[III. They will be delivered, free of expense, at any place in London which a member resident in the country may name.]
 
-Kingdom of heaven, the church of Christ, ii. 40.
+[IV. They may remain at the office of the Society until the members apply for them; but, in that case, the Society will not be responsible for any damage which may]
 
-Knowledge, v. used for acknowledge, i. xxvii, 57; and hence for to confess, iii. 22 ; how it maketh safe, i. 262 ; if our souls knowledge the truth, and consent unto righteousness, we have the Spirit of life,ii. 149.
+[M happen from fire, or other accident.]
 
-Knowledge, subst. of God's word need ful to season our deeds and prayers, ii. 77.
+[D V. They will be sent to any of the Correspondents, or Agents of the Society, each]
 
-Kurteis, curteis, courteous, ii. 182.
+[1 member paying the Correspondent or Agent a share of the carriage of the parcel]
 
-Lady, our, popish term for the blessed virgin, i. 159 ; their notion of her body's being taken into heaven, and arguments to prove it, 159, 315; dis pute whether she was by birth exempt from original sin, 159, iii. 131; scrip ture shows that she was not so, i. 316; popish liturgy calls upon her to com mand her son, with a mother's autho rity, ib.
+[D in which the books were included. Arrangements are made for the delivery on]
 
-Lady-fast, ii. 98.
+[4 this plan, in many of the cities and large towns where a sufficient number of members reside; and it will be esteemed a favour if gentlemen who are willing to further the objects of the Parker Society, by taking charge of the books for the members in their respective neighbourhoods, will write to the Office on the subject.]
 
-Lady's Psalter, account of, and speci men, i. 150.
+[VI. They will be delivered in Edinburgh and Dublin as in London, and forwarded from thence to members in other parts of Scotland and Ireland, in the same manner as is mentioned above with respect to England.]
 
-Laity, should not be ignorant of the gospel, ii. 35 ; have as large a share in God's love and covenant as eccle siastics, i. 258; earliest papal law against their possessing the word of God in their native tongue, 132; reasons alleged for their not having it, 146; the prohibition came not from love for their souls, 161 ; Eras mus would have it removed, 162; laity not allowed to sit in judgment on ecclesiastics, 178, 240, 248; ii. 272 ; iii. 232 ; if they are too ignorant to judge, blame is due to the clergy, i. 241.
+S
 
-Landlords, their duty, i. 201 ; advice to tenants, as to behaviour towards them, ii. 59.
+aA List of the ALREADY PUBLISHED BY THE (The Works of Bishop Ridley. E: The Sermons and other Pieces of Archbishop = The Works of Bishop Pilkington.
 
-Latimer, bp. of Worcester and martyr, i. Ixxvi; justified from Wharton's charge of subscribing the declaration, That it was not necessary that the people should have the scriptures in English, 35.
+(The Works of Roger Hutchinson.
 
-Latin, the tongue not understood by teachers of grammar in Tyndale's youth, iii. 55; all instruction in Latin, Greek, or Hebrew, deprecated by the priests, 75; evils of Latin service, iii.
+The Examinations and Writings of Archdeacon ci Christian Prayers and Meditations. 3 Letters of Bishop Jewel, and others, translated E of Zurich (1st Series). 8 The Writings of Archbishop Grindal. P^ Early Writings of the Rev. T. Becon, Chaplain
 
-Latria, iii. 56-7, 125.
+## Prebendary of Canterbury
 
-Laurence, a martyr, and his legend, ii.
+οὗ (Fulke's Defence of the English Translation bs Early Writings of Bishop Hooper. Writings of Archbishop Cranmer on the Lord's (The Catechism and other pieces of Becon. τῇ (The Liturgies, Primer, and Catechism of the % Writings of Bishop Coverdale. "a. Sermons of Bishop Latimer. t= The Flower of Godly Prayers, and other pieces ( Second Series of Letters from the Archives & Remains of Bishop Latimer. = Writings of Bishop Jewel. i= Devotional Poetry of the Reign of Queen Ὁ Remaining Portion of Bishop Coverdale’s a J Original Letters relative to the Reformation. = Remains of Archbishop Cranmer. = ( Calfhill’s Answer to Martiall's Treatise on εἰ A further Portion of Bishop Jewel's Works, 3 to Harding, his Exposition on the Epistles — 4 Liturgies and Occasional Services of the Reign 8 The concluding Portion of the Original Letters P^ Norden's Progress of Piety. αὶ ( ^ third Portion of Bishop Jewel's Works, containing 3 of the Defence. — { A Volume of Bradford. 8 A Volume of Tyndale.? Fulke's Answer to Martiall and Stapleton. c» ( Whitaker's Disputation on Holy Scripture. & J Bullinger's Sermons. = Bishop Bale's Select Writings. & L Tyndale, 2nd Portion. The Books preparing for
 
-Law of God, is all perfection, and the mark whereat we ought all to aim, i. 300 ; ii. 15 ; is spiritual, and requireth the heart, i. 81, 192,450-1,485-7, 503 ; given to teach us our duty, 24, 443; and to bring us to the knowledge of ourselves, 10, 496; iii. 195; its reception among different kinds of men, i. 181, 185; by hypocrites, 449; ii. 10, 11 ; it gives not the power to obey, i. 52, 115, 416; ii. 38-9; requireth that which it is impossible for our nature to do, i. 10, 47, 76, 86, 485—503, 508; they who hate it, thereby break it, iii. 57 ; they who love it not, can have neither faith nor hope, ii. 7 ; nor can they understand the scriptures, 7, 8 ; whence it is that some hate, and others love the law, iii. 191 ; to those who love it belongeth mercy, i. 403; believers love it, ii. 11 ; iii. 191 ; yet it condemns our
-
-GENERAL INDEX.
-
-works, as worthy of death, i. 11, 113, 464; thus it causeth wrath, i. 51,498; ii. 4, 147 ; it cannot justify us, i. 51, 114, 415; ii. 4; hence called the ministration of death, i. 46, 416; and the letter that killeth, 308-9; its effects contrasted with that of the gospel, 21, 308, 389-90, 476; but let love interpret the law, 403, 475 ; it is not needed to compel the believer, i. 297, 506; ii. 203; but proving us guilty and helpless, it disposes us to receive mercy with thankfulness, iii. 195 ; and drives us to Christ, ii. 26, 120, 146-7; it is therefore to be kept in view, that we may be self-con demned, i. 12, 81, 416; that we may seek Christ, 114, 416; ii. 26, 120; that we may still be meek, i. 11, 12; and give glory to God, 12 ; this right understanding of the law is the strait gate, ii. 120 ; to live according to this knowledge of it is the narrow way, ib. ; Christ came not to destroy the law, but to repair it, 38 ; they who would destroy any portion of it, are abhorred by the children of the king, dom, 39 ; we continue no longer in grace, than while we purpose to keep it, 7 ; what meant by 'not being un der the law,' i. 501 ; what ' the ful filling of the law,' 488, (see Love) ; he who hath the law of belief in God graven on his heart, keepeth all his laws, ii. 325 ; law given by Moses was holy, just, and good, i. 414-5 ; his law was divided into law of cere monies, law of penalty, and law of faith and love, ii. 324 ; the keeper of his law had temporal promises, i. 415 ; and such still belong to keepers of God's laws, 476 ; blessings or curs, ings naturally follow the keeping or breaking of the law of nature, 418; if inferior laws hurt faith or love, their authority ceaseth, 475. Law, papal, its authorised summary, the Corpus Juris Canonici, i. 46; from whence the following canons have been cited, — Decret. pars lma Dist. xvii. ca. 1, 2, 5, affirming that any council, whose assembling has not been authorized by the pope, is to be deemed no more than a conventicle, ii. 2/2 ; Dist. xix. ca. 1, or Si Romanorum, declares the decretal epistles of any pope to stand upon like foun dation with the scriptures, for their authority, ii. 289 ; and ca. 7, con tains the papal exposition of ' Thou art Peter,' 81 ; Dist. xxii. ca, 2, or Sacrosancta, says that the church of Rome was consecrated by the mar tyrdom of both Peter and Paul ; and Dist.xxiii.ca. l,orlnnomine domini, claims their joint authority for the papal anathemas, ii. 285 ; Dist.xxviii. ca. 17, forbidding the laity to inves tigate the lives of ecclesiastics, i. 178, ii. 272 ; Dist. xxxiv. ca. 3, or Omni bus, to which the definition of a con cubine is appended ; and ca. 4, or Is gui, which says that an unmarried man is not to be repelled from com munion for keeping a concubine, iii. 41 ; the more offensive language, which anciently headed this canon, ib. ; Dist. xl. ca. 6, or Si papa, de claring that if a pope should be so wicked as to lead multitudes along with him into hell, no man might rebuke him, i. 329; ii. 299; Dist. Ixiii, the heading of this distinctio forbids the laity to interfere with the election of prelates ; but ca. 22, or Hadrianus, is headed Imperator jus habet eliyendi pontificem, ii. 263 ; ca. 30 of the same Dist. or Ego Ludovic, incorporates the concession of Louisle-Debonnaire giving up this autho rity, 279 ; and ca. 33, or Tibi domino, incorporates the oath taken by the emperor Otho I. to pope John XII., 269 ; Dist. xcvi. ca. 7, or Satis, says that Constantine called the pope God, and declares him consequently irre sponsible to man, iii. 231-2 ; ca. 13 of the same Dist., or Constantinus^ affirms that Constantine gave a crown and royal dignity to the pope ; and ca. 14, incorporates his pretended deed of gift to pope Sylvester, ii. 279 ; Decret. pars 2da Caus. ix. q. 3, ca. 13, or Nemo, declares that no tem poral prince or potentate may judge the pope, iii. 232 ; Caus. xi. q. 1, ca. 2, or Nullus, orders the suspension of any lay judge who shall have
-
-GENERAL INDEX.
-
-either distrained or condemned even the lowest ecclesiastic, i. 178 ; Caus. xi. q. 1, ca. 3, or Clericum cuilibet, forbids the bringing of any accusation against an ecclesiastic by any lay man, ii. 307 ; Caus. xii. q. 2, ca. 26, or Concesso, declares that tithes and offerings were anciently shared with the clergy by others, ii. 173 ; Caus. xv. q. 6, ca. 3, or Alius, tells that pope Zacharias absolved the French from the oath of their allegiance, and deposed their king, 261 ; Caus. xxiv. q. 1, ca. 15, or Roffamus, says that Peter's first ' see was Antioch, but translated to Rome by the Lord's command, ii. 285; Caus. xxv. q. 1, ca. 11, or Generali, anathematizes every king, prelate, or potentate, who may think himself allowed to violate any decision of a pope, 282 ; Decret. pars 3tia, De consecrat, Dist. v. ca. 32, or Carnem cuiquam, forbids monks to taste any kind of flesh, 2/6 ; Sexti Deciet. Lib. 3, tit. xxiii. ca. 3, or Clericis laicos, forbids princes to lay any tax upon ecclesiastics, with out the pope's leave, i. 179 ; ii. 277 ; Extravag. comm. Lib. i. tit. viii. ca. 1, or Unam Sanctam, declares that the controul both of the spiritual and of the material sword belongs to the church, 272 ; and that whosoever will not submit to the pope acknowledges himself to be none of Christ's sheep, 280; Lib. v. tit. ca. 2, or Unigenitus, gives an account of the fund, at the pope's controul, for selling pardons and indulgences, i. 74 ; Decret. Greg. Lib. i. tit. xxi. ca. 1, forbids the ad mission into holy orders of any person who has been twice married, iii. 165 ; Lib. in. tit. xxviii. ca. 12, or Sacris est, orders that if any excommunicated person has been buried in an eccle siastical cemetery, his bones should be dug up, and cast out, 270 ; Lib. iv. tit. i. ca. 16, or Commissum, per mits a man to forsake his betrothed for a monastery, i. 171 ; idem, tit. xi. ca. 4, 7, make sponsorship a source of obstacles to marriage, ib. Lease, leash, ii. 84.
-
-Lemster, the woman of, her pretended miraculous sustenance, i. 325-6.
-
-Lending, ii. 689.
-
-Lever, comparative of lief, rather, i. 123,
-
-Leviticus, prologue to, i. 421-8.
-
-Lewd, for misled, ignorant, i. 380 ; ii.
-
-Liberty, law of, i. 119.
-
-Light, adjective, not difficult, i. 456 ; ii. 60, 256.
-
-Light, the knowledge of Christ is, i. 490 ; ii. 175.
-
-Limbus, account of it from Dens, i.
-
-Limiters, what, i. 212.
-
-Lindwood, or Linwode, his book of Constitutions, i. 394.
-
-Literal meaning of the words used in scripture, not always the meaning of scripture, iii. 229, 243, 248-9, 255.
-
-Loaf, a singing, popular term for the bread used in the mass, and why, ii. 301, iii. 227.
-
-Long, v. belong, ii. 60.
-
-Longland, bishop of Lincoln, ii. 309 ; used by Wolsey to injure queen Catha rine, 320.
-
-Lopen, leapt, i. 267.
-
-Lots, the use of, considered, i. 456.
-
-Louisle Debonnaire, conceded too much to the popes, ii. 266 ; from his time forward, no sovereign could correct the pope, nor keep the ecclesiastics of his own realm in subjection, ib.
-
-Louis XII., consequences of the pope's hostility to him, 310; why married to Mary of England, 313.
-
-Love, cannot be without a cause, i. 84, 222 ; God gave his Son, that we might see love, and love again, iii. 196; it comes of faith, ii. 88, 174, 204; ii. 173, 198; iii. 195-9; is a true sign of faith, ii. 88, 130, 198; is the instrument wherewith faith maketh us children of God, and fashioneth us after his likeness, and certifieth us that we so are, 200 ; is the cause of good works, 88 ; is the believer's motive, i. 21, 1,82, 297-8, 434 ; ii. 203 ; how it fulfilleth the law, i. 192, 442, 475; ii. 11, 12, 119, 173, 193, 202-3, 325; is above the law, 188 ; maketh all things easy
-
-GENERAL INDEX.
-
-to be borne, iii. 95; where it is, all things are common, i. 95-9. Love of God, whence, i. 83, 87 , how perceived, ii. 199 ; iii. 196. Love to God,whence,i. 109, 223, 441, ii. 198, 200, iii. 195-6, 198 ; what fear it casts out, ii. 203 ; it is bold towards God, 203-4; how manifested, i. 107,1 12, ii. 173, 193; is a mark of grace, 173. Love of our neighbour, whence, i. 107-8, 441, ii. 192, 198, 206-7, 325, iii. 6; is commanded, i. 25-6; a new com mand and yet old, ii. 174 ; its office and work, ii. 14, 192 ; how manifested, i. 107 ; ii. 47 ; is a mark of grace, ii. 20-1, 205.
-
-Love for him who doeth thee evil, evi dences love to be of God, i. 195 ; the duty of love, not understood by the natural man, iii. 7, 8; why Tyndale has used the word love, rather than charity, in translating 'Ayajnj, 20-1. Love-day, what, i. 436. Lucretia sought her own glory, i. 183. Luft, Hans, a printer of Marburg, em ployed by Tyndale, i. xxxvii, xxxix; also by Frith, xxxvii ; printed for Tyndale the Parable of the Wicked Mammon, 31 ; the Obedience, 129 ; the sixth edition of his New Testa ment, with prologue to Romans (Anderson's Annals of Eng. Bib. ii. app. vn.) ; Genesis and Numbers, xxxix-xli ; perhaps also an exposition of 1 Cor. vii, xxxvii ; the Practice of Prelates, 238.
-
-Luke, prologue to his Gospel, i. 481. Luke, a town, probably Laken, lix. Lust, used for will, or desire, whether holy, or unholy, i. 16 ; and passim. Luther, i.xxv-vi, xxviii, xxxii; quoted by bishop Fisher, 213; who fears he would burn the pope if he could, 221 ; cited by More, 263 ; who uses very unbecoming language in his attacks upon him, iii. 3 — 5, 187 ; his doctrine and conduct censured by More in various particulars, and Tyndale's replies, iii. 185-90, 212; his contro versy with Henry VIII., ii. 338-40; Lutheran view of the sacrament of the Lord's Supper explained, and compared with other views of it, i.
-
-367 — 85 ; his preface to the Romans forms chief part of Tyndale's prologue to same, 483 ; Tyndale and Roye said by Robert Ridley, uncle to the mar tyr, to be manifestly Lutherans, i.
-
-Lying, agrees not with love, and is therefore condemnable, ii. 56 ; yet cases in which Tyndale thinks it allowable, 57.
-
-Lyra, Nicholas de, notice of him, i . 151 ; he said and More believed, that many of those drowned in the flood were saved by believing, iii. 134.
-
-Mahomet, assailed the empire on one side, and the pope on the other, ii.
-
-Make, subst. a match, partner, i. 278.
-
-Mammon, the word explained, i, 68; ii. 104 ; the unrighteous, i. 69 ; pa rable of the wicked, Tyndale's treatiseupon, 37-126 ; introductory notice, 31-6; the first of Tyndale's works which he published with his name, 31; also entitled a treatise of justification by faith only, ib., and 296 ; a prohi bited book, 31 ; Tewksbury, charged before the prelates with reading it, declared that he would stand to its contents, 32 ; Bay field, another mar tyr, tells his persecutors that he judges the book to begood, 34 ; articles which the prelates affirmed to be contained in it, and to be heretical, 34, 46-7, 55, 59, 62, 65-6, 73, 76, 79, 81-3, 89, 90,94, 96-100, 102-3, 105-6, 123-4; Sir T. More's account of it; God and mammon require different things from man, ii. 104-6.
-
-Man, the natural, i. 185 ; his inability to do good, i. Ill ; ii. 85 ; or to un derstand spiritual things, i. 18; iii. 6, 8 ; where there is life, every man is two men, flesh and spirit, which fight per petually, ii. 9 ; therefore must every man have his cross for the mortifying of his flesh, ib. ; the spiritual man, i. 185; iii. 6, 7; has no merit, ii. 76.
-
-Maner, a law term, ii. 142.
-
-Marburg in Hesse, sometimes spelt Marborch, Marlborow, Malborowe,
-
-GENERAL INDEX.
-
-and Marlborough, i. xxxvii, xl, and 129; Tyndale goes thither, xxxiv; and employs the press of Hans Luft, (See Luft). Luther and Zuinglius meet there, xxxviii.
-
-Marcion, an ancient heretic ; transubstantiation revives his heresy, iii. 254.
-
-Margaret of France, said by Tyndale to know too much of Christ to con sent to supersede Catharine, ii. 321.
-
-Mark, Prol. to his gospel, i. 480; on Paul's behaviour to him, ib.
-
-Marriage, of children, should be at parents' discretion, i. 169-70, 199 ; discreditable proceedings respecting marriages in papal courts, 170; im pediments to marriage from papal laws, 245; Tyndale's argument to prove that a marriage with a brother's wife is not unlawful, ii. 323-33 ; of brother with sister, why forbidden, 331 ; Tyndale says that it seems to him that there are cases in which it might be permitted, ib. ; between uncles and nieces, he affirms to be not utterly forbidden, ib. ; says that the proper objection holds not to a marriage between a widower and his wife's sister, ib. ; marriage of priests, 123; said by More to defile them more than triple whoredom, iii. 29. See Matrimony.
-
-Marshal, title of an officer of the king ; Tyndale's use of it, i. 403.
-
-Martin, bishop of Tours, his prayer when he saw death to be nigh, iii.
-
-Martyrs, certain, in Cyprian's days, rebuked by him for thinking that their merits ought to be accepted as satisfaction for the offences of others, iii. 199.
-
-Mary, the Virgin ; if a living woman loved God as much, her prayers would avail as much, iii. 184 ; More says, that her faith alone never failed, 39 ; St Mary days, i. 91.
-
-Mary, anointing Christ's feet, i. 56.
-
-Mass, Tyndale would derive its name from the Hebrew, iii. 177 ; its cere monies said to be a service to God, to obtain both forgiveness and merits thereby, i. 3/3, 424 ; said to help the dead, 423-4; it is an acting of the
-
-[TYNDALE, HI.] sacrifice of Christ, iii. 149; priest's manner in performing, i. 226; iii 74 ; priest's dress and its professed meaning, 73, 117; superstitious forms in celebrating, i. 247-8 ; ii. 220-5; iii. 96; their professed meaning, 73-4; it involves not one only, but many miracles, 261 ; an idolatrous rite, ii.
-
-Masters, their duty, i. 201. Matrimony, is a state ordained of God, i. 254 ; but if it be called a sacra ment, that name may be given to other similitudes of divine things, ib. Matthew's gospel, prologue to, i. 46879; marginal notes on ch. i-xxi, ii. 226-36 ; notice of exposition of ch. v, VI, vu ; i. li-ii ; Prologue to the Ex position, ii. 3-15 ; the Exposition, 16Matthew's, bible so called, i. Ixxiv-
-
-Maunchet, a small loaf, ii. 210. Maundy, or Lord's Supper, i. 259. Maximilian I. his venality, ii. 311. Meekness, how it possesses the earth, ii. 20. Memory, or memorial; a shrine, or small chapel, ii. 161 ; iii. 60. Mercy, what it is, ii. 23. Merits, Christ hath promised all his to them that repent and believe, iii. MeravoeWj various Latin renderings, i.
-
-MeTa'vota, various English renderings, i. 478 ; iii. 23 ; More objects to Tyn dale's rendering it repentance, and not penance, 22-3.
-
-Metaphors, specimens of in current proverbial sayings, i. 304-5 ; called by
-
-Tyndale similitudes or allegories, 304.
-
-Michael, the archangel, painted as weighing souls, iii. 163. Miracles, divine, their purpose, iii. 83, 130 ; not needed to prove the doctrine which is drawn from scripture, 129 ; either feigned or done of the devil, if to confirm what is contrary to scrip ture, i. 325-6 ; the false distinguished from the true, by their purposes, 287, 289, 291 ; iii. 89-92, 127; a continued succession of them claimed for the church of Rome by More, 100; his confidence that they prove its doc trine, 127-30 ; were not always employed to confirm the preachers of scripture, 131 ; they who should con sent to the law, only because of miracles, not unlikely to fall away,
-
-Monastic order, any, called a religion, i. 119; and religious, a name for its members, 163. Money, v. to bribe, ii. 302. Monks, their commencement and first engagements, ii. 276 ; their vows, i. 430, 435, 438 ; ii. 163 ; the rules of their order to be accessible in the vulgar tongue, for the benefit of monks who knew no Latin; but the scriptures not so, i. 162; anciently very few of them priests, iii. 149 ; forbidden, by the canon of law, to taste any kind of flesh, ii. 276; those of the Charterhouse think that the eating of fish pleaseth God, i. 278 ; the same monks forbidden all speech in the fratry and cloister, 302, 331. Sell shares of their merits, 212, 227, 431 ; their love to their neighbours only proportioned to the gain they gather, 299, 343 ; they fulfil not law of love, therefore their prayers avail not, ii. 41-2 ; their professed zeal for righteousness manifested by persecut ing, 24-5 j vindictiveness, i. 294, 430 j ii. 24.
-
-Month-minds, and year-minds, i. 238. More, sir Thomas, persecutes Munmouth, i. xxiii. ; Tewkesbury, 32; Bainham, who is racked in his pre sence, 35 ; his examination of Constantine, xxxviii.; is licensed to read, and encouraged to attempt confuting heretical books, xxxvi, 34; iii. 2; joined with prelates in collecting 200 alleged heresies, from the works of Tyndale and Frith, i. 34 ; his espe cial objections to Tyndale's version of the New Testament, iii. 14 ; his abusive language when speaking oi Tyndale, i. xxvi, 32, 36,227, 263, 275, 277; Hi. 9, 151, 218 ; of Luther, iii 3-5, 187 ; his hard words agains Frith, i. 4 ; says Barnes ought to have been burnt, notwithstanding the king's safe-conduct, 3 ; says, tha there should have been a great many more burnt, iii. 97 ; affirms that he never heard of a reformer, who would not forswear himself to save his life, ii. 340 ; his Supplication of Souls, ii. 297-8 ; iii. 268 ; for which Tyndale calls him the proctor of purgatory, ii. 297; iii. 268 ; his history of Richard III. quoted, i. 326 ; his Utopia, ii. 225, 302 ; iii. 263 ; his Dialogue, i. xxvi, 286; title and other particulars respecting its publication, ii. 297-8 ; iii. 2 ; extracts from it, i. 41, 325-6 ; iii. 14, 16, 21, 28-9, 38, 42, 56, 79, 82, 84-5, 89, 93, 95-7, 100-1, 1 10, 113, 115, 120-2, 124, 133, 141, 150, 152, 167, 170, 173-88,208, 211 ; Tyndale's Answer, i. xlii, 1.; iii. 4-215; his ' Confutacyon of Tyndale's Answer,' i. 4; iii. 2, 3; extracts from it, i. xxvii, Iii, 3, 4, 36-7, 42, 220, 229, 254-7,263, 275-7, 483 ; ii. 134 ; iii. 5, 9, 22, 28, 73, 113, 227, 236 ; his tale of a conver sation about Tyndale's reference to a misn umbered page in his Confutation, iii. 236; his attack on Frith, and Frith's reply, i. Ivi ; a farther reply by an anonymous writer, ascribed to Tyndale i. Ivii ; iii. 217-68; More acknowledges that papal pardons may prove to be of no use to the purchaser, 28; says, marriage defileth a priest more than triple whoredom, 29 ; that the fathers were inwardly taught that the commandment against graven images, should have no place to forbid images among the Christian flock, 79 ; his account of somehandkerchiefs recently found at Bocking, and affirmed to have belonged to the virgin , 124 ; his defence of saintworship,7980, 120-8 ; says that God remitteth not the sins of the elect, because they are his people ; but hath chosen them, because he foresaw their good ways, 208 ; read and commented on a pas sage in which Tyndale said of him, that God might at last take an open and sudden vengeance upon him, for persecuting his word, and burning his poor members, 231, More, used for greater, ii. 228. Morton, cardinal, said to have betray ed the confessions of the nobility to
-
-GENERAL INDEX.
-
-Henry VII., and supposed by Tyndale to have been licensed to study necromancy, ii. 305.
-
-Mortuary, why so called, i. 235 ; heavy exaction of, 237 ; act of parliament against its continuing to be exacted,
-
-Moses, his character, i. 412; how he charged the people, 413 ; Moses and Aaron, said by bishop Fisher to be respectively types of Christ and of Peter, or the pope, 208-9.
-
-Mourners, what kind of, shall be com forted, ii. 19.
-
-Mowing, making gestures with the mouth, i. 226.
-
-Mumpsimus, the tale respecting, ii.
-
-Munmouth, Humfrey, his generosity to Tyndale and other poor scholars, i. xxii, xxiv, xxvi ; persecuted for be friending Tyndale, xxii— xxiv.
-
-Nails scraped, at the degradation of a priest, i. 233.
-
-Name of God, how to be honoured, ii. 82.
-
-Namely, especially, ii. 83.
-
-Natalibus, Petrus de, his reason for believing that the Virgin Mary was taken up bodily into heaven, i. 159; his account of origin of Patrick's purgatory, 290; his account of an idol inhabited by a devil, iii. 92 ; of miracles wrought by Aquinas, 131 ; of Martin's dying prayer, 279.
-
-Nations punished by God for sins, ii.
-
-Natural son, term used for partaking of his father's nature, i. 20, 107.
-
-Nay and No, M ore's remarks upon the distinction between these words, iii.
-
-Neck verse, i. 180-1.
-
-Neighbour, the word explained, i. 85 ; duty towards, 98; ii. 119; desertion of those duties unlawful, i. 279 ; God is dishonoured by such desertions, iii. 57 ; to be loved, ii. 46 ; wherefore,
-
-Neither nother ; neither the one nor the other, ii. 129.
-
-New life wrought by gospel, ii. 88.
-
-Nicholas, the deacon, spoken of as founder of the heresy of the Nicolai- tans, i. 42. Nicholas 1., decreed that no secular prince should assist at councils of church, ii. 266. Nominalists, sect of metaphysicians so called, i. 157. Norham Castle, pardons for rebuilding, ii. 278. Nosel or nowsle, to nursle, i. 318 ; to bring up, 508 ; also intransitive, to find shelter, 505. Numbers, prologue to book of, i. 429 —
-
-Oaths, compulsory ones, to make a man convict himself, condemned, i. 187, 203; likewise such as require him to injure his neighbour, iii. 147 ; popish prelates learnt from Caiaphas to put men upon making such oaths, i. 203 ; an oath to do wrong is sinful in the making; but to repent and break such, is a bounden duty, 206, 246 ; ii. 57.
-
-Observants, a sect of the Franciscan friars so styled, and why, i. xv, xxii, 38, 227, 301 ; ii. 44, 338 ; their rules, i. 301 ; not permitted even to handle money, ib. ; banished the kingdom, 38 ; one of them sent by Wolsey in search of Tyndale, xxxiv.
-
-Obedience of a Christian Man, i.xxxiii; introductory notice, 129-30 ; preface, 131-62 ; prologue, 163-7 ', the treatise itself, 168-344 ; summary of its con tents,- 331-44; written three years before Practice of Prelates, ii. 344 ; Tewksbury, Bayfield, and Bainham, condemned for possessing it, i. 32-6 ; given by Bilney to an anchoress, 129 ; lent by A. Boleyn, and seized and delivered to Wolsey, 130; read and approved by Henry VIII., ib. ; called by More, a more wicked book than Tyndale's Mammona, 41 ; articles which the prelates affirmed to be contained in it, and pronounced heretical, i. 170, 173, 177, 183-4, 195, 210, 229-30, 240, 255, 259, 269, 271, 288, 297, 306, 314 5, 319, 322, 325,
-
-Obedience to parents and rulers, why, and to what extent due, i. 25, 116, 168-70, 331-6 ; of wives to husbands, 171 ; of servants to masters, 172 ; of subjects to rulers, 173-88, 332-6; when obedience may be demanded, and by whom, ii. 61-3.
-
-CEcolampadius, called by More friar Huskyne, i. xv ; iii. 5, 258.
-
-Offenders, how to be dealt with, ii. 46.
-
-Office, the humblest temporal is re ceived from God, i. 101.
-
-Officers, are honoured when God's law is obeyed, iii. 57 ; are bounden to. remember that the lowest person sub ject to them is their brother, 58; dishonour God when they abuse their power, ib.
-
-Oil for anointing the sick, sold by the bishops to the inferior clergy, iii. 20.
-
-On, against, ii. 119.
-
-Orders, holy, i. 254-9.
-
-Origen, his exposition of ' Upon this rock,' i. 218; of the keys, ib. \ drew all scripture into allegories, 307 ; a heretic, 220.
-
-Otter, counted fish on fast-days, ii. 97-
-
-Ought, for owed, i. 338.
-
-Overset, overcharge, ii, 71.
-
-Pace, persecuted by Wolsey, ii. 317.
-
-Pain, suffered by God's creatures, de lights him not, ii. 96 ; what his peo ple may suffer, is not regarded by them as making satisfaction for their sins, but as inflicted for a gracious purpose, iii. 143.
-
-Paneitas,a word devised by schoolmen, i. 158.
-
-Panter, keeper of the pantry, i. 456.
-
-Papa, earliest known instance of this name being applied to a Christian minister, ii. 259 ; taken as his pecu liar title by bishop of Rome, ib. ; a new interpretation put upon it, ib. ; its origin is ascribed to ' Papee interjectio admirantis,' in the gloss on the Procem. Constit. Clement. V. col. iv. Corp. Jur. Canon. Lugd. 1671.
-
-Paphnutius, opposed the enforcing of celibacy on the clergy, iii. 165.
-
-Parables, not to be expounded word by word, i. 85.
-
-Pardons, papal grants of, i. 86, 122, 244; the pope's account of their source, i. 74 ; More acknowledges that the purchaser cannot be sure that they will profit him, iii. 28.
-
-Parents, ought not to put the lures of ambition before their children, to stimulate them to exertion, i. 199. See Obedience, Children, &c.
-
-Parishens, for parishioners, i. 257.
-
-Parliaments, manner of managing them, iii. 159; plain parliament, for pleno parliamento, ii. 256.
-
-Parker, chancellor of Worcester, burns Tracy's dead body, i. xviii ; iii. 2701, 282; heavily fined for it, 270; summons Tyndale, i. xvii ; reviles and threatens him, 395.
-
-Parson, means person, ii. 67 ; used for rector, 261.
-
-Passe, for paschal, iii. 145.
-
-Passion, suffering, ii. 110; popish preachers sell their merits instead of Christ's passion, 12.
-
-Passover, its appointment and signi fication, i. 353-5; compared with Lord's Supper, iii. 242, 246-7, 250.
-
-Pathway into the Holy Scripture, intro ductory notice,!. 3—6; the treatise, 7—28 ; is a reprint of Prologue to New Testament, 3.
-
-Paul, not inferior to Peter, i. 210; this asserted in a work incorrectly ascribed to Ambrose, 226; his manner of preaching, i. 96, 210-11, 219, 288, 292 ; his doctrine of the sacrament of the Lord's Supper, iii. 251, 255-6 ; his conflict, ii. 159 ; said by More to have restored Eutychus by his merits, iii. 145 ; but his holiness or prayers are not to be our confidence, i. 288; though he sent his handkerchief to the sick, and they were healed, 226.
-
-Pavia, the result of the battle there dis covered Wolsey 's double dealing, ii.
-
-Pax, name given to a crucifix, handed about to be kissed, iii. 126.
-
-Peace-makers, ii. 26-7-
-
-Peaced, appeased, ii. 110.
-
-Pelagius, ii. 104, 121.
-
-Penance, i. 260-1 ; ii. 156, 161-3 ; iii.
-
-GENERAL INDEX.
-
-171 ; modern definition of it, i. 342; is a deceitful term for repentance, 200 ; is no sacrament, 261 ; iii. 171 ; without faith is vain, ii. 162.
-
-Pence, two, the Samaritan's gift, inter preted by some to mean the Old and New Testament, ii. 86.
-
-Pentateuch, Tyndale's; account of pub lication of his version, i. xxxix ; prologue to, 392-7.
-
-Pepin, his patronage of the pope, and gifts to him, ii. 261.
-
-Per Dominum, name for a formal prayer, ii. 288.
-
-Perfect, to be, what meant by this charge in scripture, ii. 71 ; perfection not attained in this life, 150-1.
-
-Persecution, will befall the righteous, but they merit not heaven thereby, ii. 28, 29 ; neither is it a satisfaction for their sins, 29.
-
-Pertelet, or parti et, i. 226.
-
-Peter, prologues to his epistles, i. 5279 ; how he may be styled chief of the apostles, ii. 249-50 ; bishop Fisher says that he paid tribute as the head of the apostolic family, i. 190; his confession was the rock, ii. 234, 281, 284 ; the promise of the keys made to all in his person, i. 205, 218; his seat and his keys are his doctrine, ii. 286; his supremacy disproved, 249-50, 280-5 ; opinions of ancient fathers respecting the authority and charge given to him, i. 216-18; pope's claims to authority as derived from that charge, ii. 280-1; pope's claims to be his successor, 207, 281-5 ; papal law says that Antioch was Peter's first see, 285 ; Peter's patrimony, i. 207; legend of his consecrating Westminster Abbey in person, 326.
-
-Pharisees, their name marks their cha racter, iii. 108.
-
-Philautia, word used ironically for phi losophy, i. 154.
-
-Philemon, Prologue to Ep. to, i. 520.
-
-Philippians, Prologue to Ep. to i. 514.
-
-Philips, Henry, seeks Tyndale's friend ship to betray him, i. Ixv ; borrows money from him, Ixvii ; brings the emperor's officers to arrest him, ib. ; procures the arrest of Poyntz, a& a succourer of Tyndale, Ixxi ; has
-
-Gabriel Donne for his coadjutor,
-
-Phocas, emperor, first conceded supre macy to the bishop of Rome, ii. 258.
-
-Pictures in churches, Epiphanius would have them destroyed, iii. 182. See Images.
-
-Piled, pilled, or peeled, i. 117, 227-
-
-Pilgrimages, i. 281, 437; iii. 63, 84-7.
-
-Pix, or pyx, the ornamented case in which the consecrated wafer is kept, iii. 268.
-
-Places, the notion that prayer offered in certain places are especially avail ing, iii. 84-9.
-
-Platina, the popish historian of the lives of the popes, tells how one con demned the decrees of another, i. 324 ; his testimony to the departure of the popes from the ways of virtue, since Adrian the Third, ii. 267; to the covetousness of the papal clergy, 255; citations from his De vitis Pontificum, ii. 255, 258, 261, 267, 269, 270.
-
-Plowland, or carucate, i. 236.
-
-Pluralities, sanctioned by popes, ii. 275, 288; iii. 42; Clement VII. .authorises his nephew to take possession of all vacant benefices throughout Christen dom, and to hold them for six months, ii. 275 ; Wolsey's, 337 ; not duly restrained,by Actof Henry VIII. ii. 336.
-
-Poetry, fiction, ii. 268.
-
-Poison, word used as an adjective, i. 17.
-
-Poleaxes, borne before a papal legate, i. 251 ; their signification, ib.
-
-Polling, taxing, ii. 59, 60, 258.
-
-Poor, the, duty towards them, i. 103.
-
-Pope, the progress of papal power com pared to the growth of ivy, ii. 270, 274; manner of its growth, 257-88; some of the pope's pomp borrowed from the Jews, and some from Gen tiles, i. 336; iii. 20; obtained from Greek emperor Phocas his title to supremacy over all bishops, ii. 258; quarrelled with Greek emperor's con demnation of images, and hencefor ward built up their power by the aid of French sovereigns, iii. 183-4; the right of electing popes given to Char lemagne and his successors, ii. 263 ; but relinquished by Louis-le-Debonnaire, 266; Stephen IV., Paschal I.,
-
-GENERAL INDEX.
-
-Nicolas I., Adrian II. and Adrian III., each made advances towards rendering the election of a pope inde pendent of the western emperors, 2667; popes usurp authority of kings, and over them, i. 186, 328, 339 j it is said that Otho of Saxony received the empire from pope John XII., and took what nearly resembles an oath of allegiance to him, ii. 269 ; Gregory V. regulated the election of the em peror, and constituted the seven elec tors, 260; emperor Henry VI. re ceived his crown from the feet of pope Crelestine, who kicked it off again, 271 ; Aquinas asserts that the pope's dominion is above all human dominion, and that he may properly be called Christ, king, and priest, 291 j what power he claims, i. 18898, 268-9, 328; he absolves a posna et culpa, 271 ; iii. 103 ; whilst God is said by the papal clergy to forgive the offence, but only to mitigate the pain, i. 271 ; souls in purgatory said to be under pope's jurisdiction, 269, 271 ; ii. 287; popes grant remission of sins to such as engage in wars for their ends, 295, 301 ; dispense with oaths, for the like purpose, 300, 311 ; no man may dispute the pope's power, iii. 231 ; his code of laws, i. 46 j ii. 279 ; in that law it is written that a pious emperor called the pope god, and that he is therefore irre sponsible to man, iii. 232 ; that no temporal sovereign or power may judge him, ib. ; though the decisions of one pope have sometimes reversed those of another, i. 324 ; iii. 99 ; and one living pope has denied the autho rity of another, i. 324 ; but his law says, that if a pope be ever so wicked no man may rebuke him, 328 ; iii. 41 ; his claim to supremacy contradicted by the language of Origen, Cyprian, Augustine, Jerome and Gregory the First, i. 214-16 ; incompatible with scripture, ii. 247-61, 280-6 ; his doc trine cannot be true, i. 131 ; its cha racter, ii. 198; teaches disobedience to the civil ruler, i. 166 ; confers pre sents and titles on kings, 186-7 ; that they may shed blood for the liberties of the church, 166 ; stirs them up to war against each other, 186-8 ; ii. 2945 ; cost of the pope's friendship to England, i. 235; ii. 300-7; his par dons are neither needed nor helpful, 84 ; four millions of men supposed to have been slain for the pope's quar rels, 267; they receive intelligence secretly and rapidly from all parts of Christendom, 296 ; and make war or peace as suits their interest, 300, 311 ; they receive evil-doers into the minis try, 275; protect wickedness, ib.; dispense with the clergy's perform ance of their duties, i. 148 ; sanction and encourage the holding of enormous pluralities, ii. 274, 288 ; iii. 42 ; they consent not that God's law is good, iii. 40 ; they belie his mercy, ii. 157 ; they tempt Christendom as the devil tempted Christ, 274-5 ; summary of their evil ways, i. 336; instructions for their prelates and clergy, ironi cally suggested, 233-4 ; neither the pope nor his adherents the church, iii. 9, 39-42; answers to arguments whereby his adherents would prove themselves to be the church, 42-52 ; the pope has received the kingdom of the world from the devil, ii. 274.
-
-Popetry, puppetry, iii. 27.
-
-Popinjay, a parrot, iii. 72.
-
-Portess, or porteux, a prayer-book, i.
-
-Pouldering, powdering, iii. 222.
-
-Fouling, ii. 258.
-
-Poverty,does not secure God's blessing, ii. 16 ; of spirit, 16, 17 ; the vow of voluntary, when it may be good, i. 435 ; when and how evil, 430, 435.
-
-Poyntz, an English merchant at An twerp, receives Tyndale into his house, i. Ixv ; he writes letters to pro cure Tyndale's deliverance, Ixviii ; goes to Brussels with letters in his behalf, Ixx ; is imprisoned and ex amined for this, Ixxi ; but makes his escape, Ixxii.
-
-Prayer, i. 296, 302 ; is public and pri^ vate, ii. 79; for public, a place is needed, ib.; how it should be con ducted, ib.; promises to prayer, i. 94, 293 ; even the heathen have received their petitions for worldly things, iii.
-
-GENERAL INDEX.
-
-181 ; yet prayer is vain, unless from the heart, ii. 80 ; what true prayer is, i. 93 ; ii. 78; whence it springs, i. 93, 118 ; ii. 115 ; must be offered in faith, 118; is hourly needed, 77; there is a victory to be gained, 116, 120; there fore it should be continual, like that of Moses for victory over the Amalekites, 116, 118; is a comfort to the be lieving, 80; intercessory prayer cannot be bought with money, i. 96; though hypocrites will pray for hire,after their manner, ii. 78 — 81 ; the Christian de sires to pray for his neighbour, i. 93 ; and desires his neighbour's prayers, but must not trust in them, as though his neighbour could give what he asks for him, iii. 277-8 ; unprofitable ness of prayer in an unknown tongue, ii. 221 ; the Lord's prayer, 82-6. Preachers, should be chosen after Paul's rule, i. 282 ; not every man to take that office, 283 ; ii. 36 ; the ungodly are unfit for it, i. 207] it requireth the whole man, ib.; the true and false dis tinguished, 300 ; the true trouble not realms, ii. 245 ; but are slain at the instigation of the hypocrites, i. 382 ; the false shall be confounded at Christ's coming, ii. 184; covetous preachers are false prophets, 17 ; min isters bound in duty to be preachers, i. 101, 207; the woe against not preaching, is terrible to the popish prelates, and to their head, 207 ; when Christ described true preachers, he called them the salt of the earth, and the light of the world, ii. 34 ; their discourse should be salt, 31-2; those who have lost their salt are disallowed of God, 33; they must rebuke the prevalent false doctrines and supersti tions, 32 ; must call the nation to re pentance, 95; but not arm themselves with a sword against oppressors, 68; by preaching of faith, they work love in the soul, iii. 205 ; secular princes should command true preachers of God's word to preach the gospel purely and plainly, and that once or twice in the week, 265 ; such preach ers sometimes bring in a great mul titude who, though called, are not chosen, 70, 107.
-
-Predestination, i. 65 ; by it the work of our salvation is taken out of our hands, and made the work of God, 505 ; precious, when so regarded, ib.; perilous, when made the subject of curious inquiry, ib. ; the doctrine offensive to More, iii. 140.
-
-Predicaments, a term in logic, i. 157-
-
-Prelates, the Practice of, i. xxxix, xli ; omissions in some ancient editions, and why, ii. 238 ; introductory notice, 238-9; Tyudale's preface, 240-6; the treatise, 247 — 344; evil, are proofs that God is angry with a people, i.
-
-Prelates, popish, call themselves the church, and infallible, ii. 289; the service of kings and great men, in secular employments, a means of procuring their office, 256 ; hold great offices in the state, i. 274; have left preaching, but reserve to them selves profitable or honourable cere monials, ib. ; procure an act, making employment at court a license for non-residence and pluralities, ii. 256 ; their pomp, i. 246 ; compared with Pharisees, ii. 242-3 ; flatter and seduce kings, i. 136 ; but trouble their realms, ii. 245, 294-8, 333 ; and destroy their authority, i. 239, 247, 249 ; or usurp it, to put down their opponents and all reformers, i. 185, 242, 337 ; iii. 73 ; they make it heresy to know God's word, i. 243; ii. 290; and exhort rulers to slay such as they have chosen to condemn, i. 242; they endeavoured to suppress Tyndale's New Testament, xxxii ; and procured a royal proclamation against the authors, distributors, and possessors of books against popery, xl; learnt from Caiaphas to put men on their oaths, for an accusation against them selves, 203 ; their use of penance and purgatory, ii. 161-3; of the mass, 224 ; the signification of their mitres, i. 233; of the crosses borne be fore them, 234 ; of their other orna ments, 251-2 ; their sinful courses, ii. 161-3, 254, 293, 342 ; their greatness, 256; not likely to be good, while they are so great, 337-8 ; mischiefs resulting from their influence, in this
-
-GENERAL INDEX.
-
-country, i. 336-9; ii. 225, 294-8, 302 ; iii. 138, 166; when employed as am bassadors, consider nothing but the advantage of their church, ii. 303 ; care for the prosperity of no realm, in comparison of that, and bear no true allegiance, but to the pope, 303, 333, 342 ; their plotting against Charles V., 312; are a bicorporeum, or corpus neutrum, 342 ; their secret organization, and communications with each other, and with the pope, 296 ; what they would do if they were true apostles, iii. 93.
-
-Presbyteros, why rendered by Tyndale senior, or elder, in New Testa ment, iii. 16, 17, 20; the presbyter's office, thought by Tyndale and Ham mond to be less ancient than the epis copal, ii. 256.
-
-Presently, after the manner of a thing in our presence, i. 367 ; iii. 232,
-
-Pretend, allege, ii. 90.
-
-Prevent, go before, i. 498.
-
-Priest, the same word used to designate two very different classes of ministers ; in the one case it is used as equi valent to le/oevs, or sacerdos, i. 255; such is Christ for ever, ib. ; and such are all believers through him, ib., 506, 527 ; no special class of priests, in this sense of the word, any longer needed on earth, 255-6; these should have a different name in English, ib.; More says the name has always sig nified an anointed person, iii. 19 ; and that few durst be priests in the old time, 150 ; his arguments for, and Tyndale's against, their compulsory celibacy, 151-6; those of the papal church are said to sacrifice Christ's body, 149 ; ground of their claim to a power exceeding that of angels, i. 380 ; admission into this priesthood refused to persons who have been married more than once, iii. 152-5, 165; manner of consecrating them borrowed partly from the Jews, partly from heathens, 20 ; usually styled Sir, and scornfully Sir John, i. 277; Secondly, the name is used as equiva lent to presbyter, or elder, i. 229, 256; such never named lepevs by apostles, nor sacerdos in Vulgate, iii. 20 ; the office of such, i. 229, 256, 436 ; none such but those who are chosen, 256 ; what their character ought to be, 229; should be married, 230; have a just claim to be respectably main tained by their parishioners, 230, 437.
-
-Princes, secular, should be the pastors and head rulers of the congregations committed unto their care, and should place curates over each parish, iii.
-
-Prognosticators, Tyndale supposed the prelates to be such by necromancy, or astrology, ii. 308, 312, 342.
-
-Prologue to New Testament by Tyn dale, a copy recently discovered,!. 4; its variations from the Pathway, given in notes to the latter, 7-23.
-
-Promises of God, should be pleaded in prayer, ii. 167; whom they help, and whom not, i. 121, 423, 464; all those in the scriptures include a co venant, 403-470 ; ii. 6 ; when believed, they justify, i. 52.
-
-Prophets, false, not Turks, nor Jews, but popish doctors, ii. 121 ; are where no love of truth is, 129.
-
-Prosperity, a perilous thing, i. 138.
-
-Prosperus, or Tiro Prosper, some ac count of him, i. 487.
-
-Protest, to declare before others, i. Ixii.
-
-Protestation, Tyndale's, concerning his belief as to the state of departed souls, i. Ixii-iv.
-
-Provision, made by God for his people, ii. 106-10, 117; a reason for prayer,
-
-Psalms, Greek and .Latin mode of num bering, how different from Hebrew and English, i. 160.
-
-Pureness of heart, ii. 25.
-
-Purgatory, i. 159; ii. 161-3, 257; iii. 146, 180, 214 ; ironically said to be rightly so called, i. 244 ; is a source of wealth to the papal clergy, 244, 303, 318; ii. 161-3; a fire that may be quenched at a low price, iii. 28, 141 ; its supposed place, ii. 287 ; popes take authority to bind and loose there, i. 269, 271 ; have promised de liverance from it, for killing French men, ii. 301, 311; have bidden the angels to fetch men out, i. 269 ; there is a right purgatory, 321 ; but the
-
-GENERAL INDEX.
-
-pope's purgatory is needless, iii. 1423 ; it prevents men from confiding in God, and makes him only terrible to them, ii. 159 ; they are told that he has appointed seven years in purga tory for every deadly sin, i. 271 ; they who fear it cannot but utterly abhor death, iii. 281 ; it is irreconcileable with scripture, ib. ; More says, that prayer to a saint in purgatory has procured health for a living man, 121 ; St Patrick's purgatory, i. 290.
-
-Quentel, printer for Tyndale at Cologne, i. xxviii. 4, 5.
-
-Quiddities, a schoolman's word, i. 158. Quoth he, the incessant recurrence of these words in M ore's Dialogue, i.
-
-286; ii. 297 ; hence Tyndale's name for the speakers in that dialogue, i£).;
-
-as also, ' Quoth your friend,' iii. 20.
-
-Racha, its meaning, ii. 45, 229.
-
-Rascal, for the common people, ii. 306,
-
-Rather, for earlier, ii. 332.
-
-Raught, praet. of reach, iii. 241.
-
-Reade, i. e. advise, i. 324.
-
-Realists, a sect of metaphysicians, i.
-
-Record, to meditate upon, i. 508; ii.
-
-Rede me and be not wrothe — or the burying of the Mass: a satire on Wolsey, i. 39 ; extracts from it, 39,
-
-Reformers, More says he never heard of any of them who did not forswear themselves to save their lives, iii. 113, 115; why some of them fall away,
-
-Regenerate, are they that believe, ii. 1.45 ; the carnal are not ; they who love not God and man are not, ii. 191, 192,
-
-Regeneration, what it is, ii. 199, 200 ; whence, i. 277 ; the Spirit and doc trine on God's part, and repentance and faith on ours, beget us anew in Christ 27; man before his regene ration cannot think aright of God, i. 18 ; nor work God's will, i. 277 ; ii. 182, 190.
-
-Regiomontanus, al. De Monte Regio, or John Muller, notice of him, i. 152. Relics, God would have dead bones considered as polluting those who touched them, iii. 83 ; More affirms that miracles have been wrought to encourage their worship, iii. 100, 1224 ; his accountof some small kercheors recently discovered at Barking, and affirmed to have belonged to the Vir gin, 124. Religion, used for a monastic order, i. 119.
-
-Religions, for monks, i. 163. Rents, tenements, ii. 275. Repentance, includes four things, i. 477-8 ; its work, 261 ; iii. 23 ; papists substitute a purpose to do good works, 204 ; whosoever repenteth is heir of Christ's merits, and beloved of God, i. 271 ; Christ's love and favour are immediately his, iii. 254. Reward, means what is given freely, rather than what is deserved, i. 116, Richard II., England punished by God for his murder, ii. 63. Riches, God's gift, ii. 16; do not shut out God's blessing, ib. and 101, 106; may not be trusted in, 20, 101, 106. Right hand to be cut oft', ii. 50, 51. Righteous, who, i. 95; iii. 205 ; to love is to be righteous, but maketh not righteous, 206 ; to believe in Christ's blood, with a repenting heart maketh righteous, ib.
-
-Righteousness, the fulfilment of the law from the heart, i. 16; iii. 205; what the only righteousness of him that cannot but sin, 206 ; righteous ness of works described, i. 15, 112; the word used as equivalent to justi fication, iii. 82 ; righteousness before God is belief in his promises, i. 16; ii. 108; is called God's righteousness, i. 494; he that thirsteth after it, trust ing to Christ's blood, is accepted for full righteous, 94 ; righteousness of Christ is our help, 496 ; cometh upon us through faith, i6. ; righteous ness springeth not out of the deeds of the law into the heart, but the
-
-GENERAL INDEX.
-
-deeds of the law spring out of the righteousness of the heart, iii.205; righteousness of believers is both perfect and imperfect, ii. 90 ; these two mingled by the spiritualty, 109 ; meaning of the word as used Matt. v. 6 ; ii. 22.
-
-Rincke, Herman, a personage of im portance at Cologne, from whence he drives Tyndale, i. xxix ; warns the king, Wolsey, and Fisher, of Tyndale's labours, xxx ; enjoined by Wolsey to search for Tyndale, xxxiv ; his letters to Wolsey, ib. ; bribes the magistrates of Frankfort, to get possession of Tyndale's books, xxxv ; says they would otherwise have found their way into Scotland, ib.
-
-Rock, that on which Christ built his church, iii. 31 ; he who cometh to this rock is safe, 31.
-
-Rogers, John, the proto -martyr of Mary's reign, chaplain at Antwerp, prints Tyndale's translations in the bible called Matthew's, i. Ixxiv.
-
-Roll up, chaunt, i. 243.
-
-Romans, character of epistle to, i. 484, 508, subjects of successive chapters, 495-508; Prologue to Ep. 484-510; the greater part of it either a transla tion or a paraphrase of Luther's pre face to same epistle, 483.
-
-Room, a place or office of some rank, i. 21, 136.
-
-Rose of gold, presented by popes to kings, i. 186.
-
-Roye, friar, i. xv, xxii, xxiii, 37-41 ; iii. 187; sought for abroad by Wolsey's orders, xxxiv, xxxv ; Tyndale's character of him, 37-9 ; said to be joint author with Jerome, of Dia logues between father and son, and of satire on Wolsey, 41 : was burnt in Portugal, 42.
-
-Rulers, why ordained, ii. 8; why called God's, i. 175 ; obedience to, taught by Christ and his apostles, ii. 241 ; are appointed by God, and therefore must not be resisted, i. 173-8, 194, 197, 332-4 ; ii. 21, 64-6 ; iii. 180 ; hence their responsibility before God, i. 180, 202-4, 334-6; ii. 21-2, 86; their duty, i. 479 ; must shew forth the truth of Gospel, ii. 35 ; compared with Jewish elders, and warned, 243; evil, are a sign that God is wrath with the people, i. 194-5, 334; ii. 111,112; the people's proper remedy against evil rulers, i. 196, 197, 332, 334, 336. Rutter, rider, ii. 292.
-
-Sabbath, of what intended to be the sign , i. 351 , 352 ; iii. 67 ; its use, ib. ; lax doctrine concerning its obligation, 97-
-
-Sacraments, what, i. 252, 283, 409 ; all the ceremonies, ornaments, and sacri fices of the old Testament were sacra ments', iii. 27, 64, 82; the rainbow, a sacrament, 27 ; our works are in a manner sacraments, inasmuch as they are signs of God's work in us, ii. 90 ; remarks on all and each of what were ' commonly called sacra ments,' in Tyndale's days, i. 252-86 ; matrimony should not be called a sacrament, 254 ; if it be, so may any similitude of divine things, noticed as such by Christ, 254 ; ordina tion not a sacrament, ib. ; they who affirm the last two to be sacraments, teach that one sacrament defileth another, iii. 29 ; repentance, or pe nance, not a sacrament, i. 261 ; the use of sacraments, 273, 358-66, 374 ; first treatise, on baptism, and the sa crament of the body and blood of Christ, 345-85; second treatise, on the supper of the Lord, iii. 217-68 ; these Christian sacraments succeed the Jewish, viz. circumcision, and the passover, i. 350; iii. 265-6; compared with them, i. 350 ; iii. 245-50 ; Christ's sacraments preach faith in him, i. 273, 283 ; yet not to all, 424 ; anti christ's preach not faith in Christ, 283 ; sacraments which preach not, profit not, 423 ; helps to understand ing them, from Hebrew words and usages, 347-54 ; they were appointed to be sources of great consolation to the contrite, 360-2; only generally necessary to salvation, 359 ; the work saveth not, but faith in the promises signified by the sacrament, 342, 423 ; ii. 90; hence they avail nothing to
-
-GENERAL INDEX.
-
-the unbelieving, i. 358 ; but increase their guilt, ib. ; are made idolatry by abuses, ii. 217 ; iii. 179. See Sup per of the Lord, Transubstantiation.
-
-Sacrifices, their meaning, ii. 215 ; not accepted where there was no love of neighbour, 48 ; were no satisfactions for sin, but only signs thereof, iii. 65; those which God gave to be used by Adam's sons were signs of the testa ment of God, 27 ; the sacrament of the body and blood of Christ is no sacri fice, 177.
-
-Sad, grave, iii. 19.
-
-Sadducees, meaning of their name, iii. 107.
-
-Saints, unduly regarded, i. 184, 450; their sins, as recorded in scripture, extenuated by popish writers, 450.
-
-Saints-days, their origin and purpose,
-
-Saints, departed, their merits declared by popes to form, with Christ's, a fund from whence the church may grant pardons, i. 74; they had no merits, ii. 166-7; cannot help us into heaven, i. 66; iii. 117; are not there yet themselves, 118; are not our advo cates, ii. 166; what Tyndale would count giving them right worship, 166-7 ; of worshipping them, as prac tised in the church of Rome, i. 28892; ii. 164-95; such worship is con trary to what they taught, i. 289 ; and can only be great offence to them, iii. 279 ; it shews distrust of Christ, ii. 211-12; is idolatry, 164-5, 216-7; iii. 81 ; Romish church makes hirelings of the saints, i. 289; represents them as vindictive, 450, ii. 165; it divides them into canonized, and uncanonized, and More says, we may pray to the former, but not for them, but may pray both to and for the latter, iii. 121 ; he also says, that if we should thereby happen to worship a wicked man, that would not hurt us, 122; saints of his church, were not saints till they were dead, 131 ; it makes some to be saints, who were none, i. 291 ; saint-worship receives some sanction from Augustine, iii. 126; More's defence of it, 79, 102, 115-27, 181 ; arguments in its behalf examined, i. 290, 293 ; iii. 79, 80, 11531, 181 ; if they who prayed to them received what they prayed for, yet would not such prayers be thereby proved lawful, 181.
-
-Salt, to accompany offerings, what it meant, i. 433, 436, 439.
-
-Salting, what it is, ii. 31-3 ; the corrupt cannot endure it, ib.
-
-Salvation, is by faith only , i . 1 5 ; iii . 1 97 ; the process by which a sinner is made partaker of it, i. 498 j iii. 195-6 ; true and false way of teaching the way of salvation, i. 466. See Justification.
-
-Salve regina, iii. 134.
-
-Samaritan, the good, i. 85; his two pence, how expounded by writers popular in Tyndale's days, i. 86; iii. 93; his promised farther gift ex pounded to mean traditions, ii. 93.
-
-Sanctuaries, called by Tyndale fran chises, i. 333 ; afforded protection to offenders against laws of God and man, i. 180, 333.
-
-Satisfaction, definition of, from a cate chism used amongst Romanists, i. 342 ; Christ is our satisfaction to God ward, 228, 267 ; he who would propose to make satisfaction to God for his sins, is faithless, 228 ; but whoever has in jured his neighbour ought to make satisfaction to his neighbour, 228, 267, 478.
-
-Scala cceli, what, i. 244.
-
-Scapular, what, i. 123 ; things promised to its wearers, ib.
-
-Schoolmen, specimens of their inquiries, and terms of their art, i. 157-8.
-
-Scotists teach that the Virgin was with out sins, from her conception, iii. 131.
-
-Scotland, Tyndale's Testament sent thither, i. xxxv, xxxvi.
-
-Scribes and Pharisees, their false right eousness, ii. 40 ; altered God's word by their false glosses, 41-2; their wickedness, 48; compared with monks, 42.3; conspired with elders against Christ, as prelates moved the rulers to contend against his truth, 241; were convicted by Christ, ib. ; God's judgment moved them to in surrection, ib.
-
-Scripture, whence, i. 88; springs out of God, and flows unto Christ, 317 ;
-
-GENERAL INDEX.
-
-all scripture is to bring men to bebelieve in him, for remission of sins, 373 ; to bring men to God, ii. 147 ; all relates either to the law or to the gospel, i. 310 ; it contains first the law, to condemn all flesh; second ly, promises of mercy for those who repent, and submit to learn the law and to learn to believe the promises, thirdly the histories of such learners, and how they were taught and tried, 449 ; it containeth all things necessary to salvation, iii. 26, 96-9, 226, 231 ; it expounds itself, 249 ; and speaks to men as a father, i. 107 ; it supplies evidence of its own truth, iii. 136-7; and Christ's authority is not dependent on that of the church, ii. 289 ; iii. 49, 50; but the church's doctrine must be tried by it, i. 154; ii. 195; and in Christ's church its authority rules, 251, : 31 ; its authority, as the final decider of Christian doctrine, depre ciated by More, but affirmed by Tyndale, iii. 96-100, 110, 133-45; it should be accessible to all in their own tongue, i. 7, 144-8, 241 ; was translated for our Saxon forefathers, out questionable to what extent, 149 ; but popish clergy are opposed to its being made accessible to all, 146, 392-3 ; they say that it makes here tics, and why, 28 ; that it teaches dis obedience, 163, 392; that it is too hard to be understood without the doctors, 153; or without Aristotle, 154 ; their earliest canon for prohibit ing the laity from having it in their own tongue, 132 ; its translation into the English tongue forbidden, 132, 161; iii. 166-8; and the parochial clergy were enjoined to tell their con gregations that such a prohibition was well, i. 35 ; More acknowledges that no English printer dare print even an unproscribed translation, iii. 168 ; the scripture makes no here tics, ii. 141-3; but its true sense is corrupted by the scribes, and by the church of Rome, iii. 43-5, 47-8; it was given to be a light, a defence and a comfort, i. 399 ; but popish teachers turn its light into darkness, ii. 102-3; their manner of perverting it, i. 449-50 ; schoolmen assign to it four senses, 303-31, 343; they slight the literal sense, 303, 393 ; which yet is the ground and the root of all, 304 ; and is spiritual, 309 ; it speaketh many things as the world speaketh, but must be understood spiritually, 88 ; and many things in it have first a carnal fulfilling, but have then a spiritual, 355 ; right and wrong ways of expounding it, exemplified, 30321 ; it must be cleared from perverse interpretations, ii. 144; directions for reading it profitably, i. 8-11, 21-7, 389, 398, 403-5, 463, 469 ; the exampies written to alarm, should be ob served, 399; various uses of the examples, 451, 453 ; but the scripture cannot be understood by such as love not the law, ii. 78 ; what it is to have all scripture locked up, and what to have it unlocked, i. 27, 464, 469 ; ii. 7 ; it is understood by such as have their baptismal profession at heart, 139-40 ; scripture is the outward in strument, but faith is the spirit's in ward work, iii. 139.
-
-Sects, very numerous in the church of Rome, i. 149, 158-60.
-
-Senior, remarks on the word, iii. 16.
-
-Senses, the four, assigned to Scripture by schoolmen, i. 303-31, 343; emi nence in each assigned to each of four fathers, 343.
-
-Sensual professors, i. 12, 13.
-
-Servants, tithe of their wages exacted, i. 237 ; what obedience they owe to their masters, 172 ; their master's duty towards them, 201.
-
-Service, spiritual, what, i. 373-4.
-
-Seven, this number used by Hebrews to signify fulness of number, i. 431-2.
-
-Shales, shells, ii. 123.
-
-Shaven, a mark of the popish clergy, i. 173, 232; what it may be supposed to signify, 235.
-
-Sheep, Christ's, must not fight the wolves, and are not ill off if they can bring it to pass that the wolf can be content to shear them, ii. 68.
-
-Sheep's clothing, they that wear it are neither Turks nor Saracens, i. 121 ; what that clothing is, 122-3.
-
-Ship, an utensil so called, i. 238.
-
-GENERAL INDEX.
-
-Ships, a name for the coin usually styled angels, ii. 318.
-
-Shoe, a cut ; mark of a pilgrim, i. 103.
-
-Signs, usual among Hebrews, as con firmatory of covenants, i. 347-8 ; ap pointed of God for like end, 348-54 ; frequently bear the name of the thing signified ; and instances of this, i. 365, 368, 375-8 ; iii. 243-4, 248-9, 251.
-
-Siloh, or Shiloh, i. 408.
-
-Similitudes, rerve not throughout, ii. 235 ; prove nothing, i. 313.
-
-Simon Magus, i. 124.
-
-Simony, i. 171.
-
-Simule, to feign what is not, i. 341.
-
-Sin, the name does not belong to the outward work only, i. 489 ; its root is unbelief, ib. ; whatsoever is our own, is sin, 23 ; glorious works done before the Spirit of God comes, are sins, 183; sin against a brother is sin against God, 428 ; false views of sin, inculcated by Pharisees and church of Rome, 461 ; it is become to them profitable merchandise, 272 ; popish clergy teach that for sins committed after baptism, Christ has made no satisfaction, 476 ; that when we first come to the faith, he forgiveth us, but that the sins committed after wards are forgiven through ceremo nies, 284 ; both original and actual sins are remitted through faith in Christ only, ii. 155-6; the remission being purchased by the blood of Christ alone, i. 249 ; and becoming ours through faith in that blood, iii. 24 ; Christ procured it for many, and who the many are, i. 363; our tem poral sufferings make not satisfaction for our sins, ii. 29. See Justification. We cease not to sin till death, 150-1 ; when John speaks of not sinning, he means not consenting to sin, and resisting it with all our might, 152 ; but unbelievers yield themselves to sin to serve it, 10 ; of the sin which is said to be unto death, i. 521-3; ii. 152, 212 ; for the preference of sin to its remedy, by those who know the truth, there is no remedy, ib.
-
-Singing loaves, a name for the wafers used in the mass, and why, ii. 301.
-
-Sinners, open, in the church, how to be dealt with, ii. 252 ; many believe at the hour of death, 44 ; all are sinners, but the believer loves the law, and loathes sin ; the ungodly do the reverse, i. 311 ; he is not a sinner in the sight of God, that would be no sinner,
-
-Sir John, a contemptuous name for a popish priest, i. 277.
-
-Skilleth, mattereth, i. 67".
-
-Slibber sauce, i. 54.
-
-Slime, what in Tyndale's Genesis, i.
-
-Sochenars, or Souchenars, the Swiss, i. 186 ; ii. 300.
-
-Soking, sucking, absorbing and wasting the strength, i. 54.
-
-Soldiers, disbanded, left to poverty and thieving, ii. 302, 312.
-
-Sons of God, who, ii. 149, 190, 197, 200; a mark of such, 27 ; who those spoken of in Genesis, i. 409.
-
-Soothsayers, to be avoided, i. 413.
-
-Soul, for i/r^xiKoe, ii. 132.
-
-Souls, departed, their state, till the re surrection, not revealed, i. Ixiii ; iii. 180-1, 185 ; pope's doctrine concern ing them, is a mixture of Christianity and of heathen philosophy, 180,
-
-Soyl, solve, i. 71.
-
-Spirit of God, is given by God, i. 492 ; accompanieth faith, 54, 111, 275; is given to prayer, as well without lay ing on of hands as with, 274-5 ; proofs of his presence, 76-8, 117, 223, 264, 308, 499 ; where he is, there is feeling, 78; is kept by alms, fasting, and prayers, ii. 94 ; his contest with the flesh, i. 492, 500; iii. 113 ; his work described, i. 79, 111-12, 417, 487, 498-9 ; ii. 183-4, 201 ; faith is his work, i. 488; iii. 139 ; he makes the word effectual to whom he will, ii. 181 ; makes his people willing, 250 ; certifieth their consciences that their sins are forgiven, and they the chil dren of God, 202, 211 ; writes the lively law of love on their hearts, i. 297; looseth the bands of Satan, and giveth power to love the law, and to do it, iii. 276.
-
-Spiritual, who may fitly be so called, i. 495.
-
-Spiritual kindred, what so called, i. 245;
-
-GENERAL INDEX.
-
-marriage between, forbidden by papal canons ib.
-
-Spiritualty, papal clergy choose to be so called, i. 257; their multitude, 302 ; ought to be subject to the laws of the temporal government, ii. 67 ; character of their doctrine, reason ings, fruits and claims, i. 257 ; their uncleanness, ii. 123; their alliance with wicked tyrants, 268 ; have stolen alms from the poor, 276 ; and will not pay taxes, 277 ; ought not to have temporal authority, 247-52, 273 ; will not go before a lay -judge, 307. See Clergy, papal.
-
-Sprites, a name for the spirituality, i. 330, 333.
-
-Steward, the unrighteous, i. 70.
-
-Stick, pierce, ii. 181.
-
-Spurs, winning them, iii. 17.
-
-Stokesley, bishop of London, i. xxxviii, 1, liii, Ivi, 32, 33.
-
-Stole, part of a priest's dress, its alleged signification, iii. 73.
-
-Strasburgh, same as Argentine, i. 38 ; Tyndale's Obedience printed there,
-
-Study, desire, ii. 28.
-
-Sunday, the purpose of its institution, i. 226.
-
-Supererogation, popish notion of, i.
-
-Superstitions, and superstitious usages, i. 48, 90-2, 160, 184, 225, 245, 274, 277, 279, 313, 433, 461 ; iii. 9, 20, 61-2, 73-4, 79, 80, 258 ; superstitious hallowing of various things, i. 283.
-
-Supper of the Lord, first treatise on this sacrament, i, 345-85 ; second, iii. 22268 ; came as a sign in the room of the paschal supper, i. 386; iii. 245 ; compared with it, 246-51 ; its intent, i. 356; ii. 218; iii. 242, 250; was instituted by the God of all mercy to testify to convinced sinners that mercy is laid up for them by Christ's blood, i. 360 ; and to be the seal thereof, ib.; when instituted, it set forth what Christ was to suffer, and is now a memorial of his sufferings, 356, 37J ; iii. 177, 264 ; testifying and confirm ing that for Christ's sake our sins are and shall be forgiven, i. 356, 360, 365; iii. 250; it is thus an absolution of our sins, i. 357 ; to the apostles, its observance was a token of persever ance in the Christian religion, iii. 264 ; it is not rendered unneces sary by baptism, i. 359 ; helpeth not the unbeliever, i. 252; iii. 256; in creases the guilt of those who come not to it with a right purpose, i. 358, 362; iii. 256; what it is to eat and drink unworthily, ib. ; it is no sacri fice, i. 424 ; iii. 177; and should not be worshipped, 179-80 ; is spoken of in scripture under the name of the breaking of bread, 264 ; which break ing of bread is therefore a heavenly sacrament, and a reverent rite and usage, ib. ; church of Rome requires men to believe that what is conse crated is no more bread, but the body of Christ, such as it left the earth, i. 278 ; words of institution considered, 356, 363 ; iii. 241 ; Paul calls the elements bread and wine, after what are styled the words of consecration, 251, 255; what meant by eating Christ's flesh, i. 369; the manner of eating it, in the sacrament, iii. 162-3, 179, 224, 226-7, 236-8, 244 ; of the cup, i. 365-6, 383 ; it is the witness of blood, ii. 209 ; the Romish doctrine, Lutheran, and what Tyndale calls the opinion of a third party respecting this sacrament, explained and com pared, i. 366-85; belief of the Lord's bodily presence is incompatible with what he said about going hence, and being no more in the world, iii. 251-3 ; various scholastic phrases devised, to cloak the difficulty of this bodily presence, 254. See Transubstantiation. How this sacrament should be administered, iii. 265-7; the instruc tions which should be given to the communicants, i. 364-6, iii. 265-7 ; this sacrament profanely used by princes, for the satisfaction of their treaties, ii. 301 ; the pope has substituted thin manchets, or wafers, for the bread, iii. 179.
-
-Supplication of Beggars, i. 237; in. 268; More's Supplication of Souls, ii. 297-
-
-Swearing, the prohibition of, ii. 55-6; extends not to every kind, or occa sion, 56-7 ; a judge ought not to
-
-GENERAL INDEX.
-
-compel a man to swear against him self, ib. ; swearing increases the guilt of any false statement, ib. ; to compel a man to swear to the amount of his property that a loan might be exacted, counted grievous tyranny by Tyndale, i. 187.
-
-Swine, are the fleshly, ii. 10, 114 ; pearls not to be cast before them, 115.
-
-Sylvester, pope, falsely said to have received from Constantine a surrender of his authority over Rome, ii. 279.
-
-Tables of words in Pentateuch, ex plained by Tyndale, i. 405-10, 41920, 445-C ; of words and phrases in New Testament explained, 531-2.
-
-Tartaret, Peter, extracts from his Lucidissima Commentaria, i. 158.
-
-Temper, v. used for govern, i. 335.
-
-Temple, at Jerusalem, its use, i. 382; of God, is his people, 438.
-
-Temporal authority, distinguished from spiritual, ii. 60 ; not disannulled by Christ, 58 ; belongs not to ecclesias tics, 247, 252 ; censured for allowing them to hold pluralities when they serve the court or nobles, 336 ; ever slack in the cause of God, 95 ; its duties, 61.
-
-Temporal blessings, or curses, made to follow naturally the keeping or break ing of the law of natural equity, i.
-
-Temporal sword, to be respected by all, i. 506 ; ecclesiastics to be subject to it as well as the laity, 333 ; ii. 67; alleged heretics delivered over to it by the clergy, 45.
-
-Tenterden steeple, the illogical con clusion respecting its effect, iii. 77.
-
-Tertullian, first writer known to have applied the term papa to a Christian minister, ii. 59 ; his language incom patible with doctrine of transubstantiation, iii. 228, 259.
-
-Testament, Tyndale announces that he uses the word for ' An appointment made between God and man, and God's promises,' i. 409 ; instances of his so employing it, or in a sense equivalent to covenant, 93, 105, 3645, 379, 476 ; iii. 27.
-
-The New, Wicliffe's version of, i. xx, xxviii ; Tyndale's version with notes, in 4to, the first begun to be printed at Cologne in 1525, xxviii— xxxi ; account of its only remaining fragment, now in the British Museum, 4, 5 ; the notes of that fragment, ii. 227-36; his first published version, a 12mo, without notes, printed at Worms, i. xxxii ; a specimen of it, iii. 285 ; third edition by Endhoven, bought up by archbishop Warham in 1527, xxxiii; a fourth by Chr. Van Ruremund finds its way into Eng land, ib. ; more editions printed at Antwerp in 1534, Ixi, Ixii ; and in 1535, Ixxiii ; an edition, bearing Tyn dale's name on its title-page, pub lished in England by the king's printer in 1536, Ixxv ; an edition in which the spelling was adjusted to the pronunciation of the peasantry, Ixxiii; a specimen of it, iii. 287; objections to Tyndale's version, iii.
-
-What the book of the New Tes tament is, i. 8 ; the New Testament is gentle, and promising mercy, 364 ; its character and effects, when be lieved, 417 ; it was from the begin ning, ib.
-
-The old, brief description of its con tents, i. 8 ; was written in the mothertongue of the people to whom it was given, 144 ; different uses of its exam ples, 88 ; considered as a covenant, 363-4, 476; its conditions, 415; its rewards, ib. ; Christ set forth in it 144; specimens of Tyndale's trans lation of it, iii. 284-6.
-
-Tewksbury, a London tradesman, charged with possessing and reading Tyndale's works, and finally burnt, i. 32-42, 125.
-
-Thau, sign of, ii. 13, 20.
-
-Thessalonians, Prologue to Epistle, i.
-
-Thomas Aquinas. See Aquinas. His sect, in the Romish church, called Thomists, iii. 227-8; refuse to con cede that the virgin was immaculately conceived, i. 91.
-
-Tiara, or regno, words used when it is placed on the pope's head, ii. 258.
-
-GENERAL INDEX.
-
-Timothy, Prologue to Epistle, i. 517-
-
-Tithes, their misappropriation, ii. 336 ; how Tyndale would have had the abuse corrected, ib.
-
-Titus, Prologue to Epistle, i. 519.
-
-Toledo, a council held there, is said, in the canon law, to have enjoined con cubinage on the unmarried, iii. 40.
-
-Tone and tother, an antithetical form, usual in More, ii. 296.
-
-Tongue, service in an unknown, is con. trary to Paul's command, i. 219, 234.
-
-Tomtal, Cuthbert, bishop of London, and finally of Durham,i. xxi,xxxviii; refuses to patronise Tyndale, xxi, 396; depreciates his version of the New Testament, xxiv ; orders all copies of it within his diocese to be delivered up, xxxii ; licenses Sir T. More to read heretical books, xxxvi ; encourages him to attempt their con futation, ib. ; goes with him to Cambray as ambassador, xxxvii ; said to have bought up Tyndale's testaments at Antwerp, ib. ; burns them in St Paul's church-yard, calling the conie-ntsDoctrinamperegrinam,-x.x.x\m) ii. 337 ; says in a sermon, that he found 2000 corruptions or errors in them, i. 393 ; and that they contained most pernicious doctrine, 132; ex amines Tewksbury, on charge of reading Tyndale's Mammon and Obedience, 32 ; joins with abp. Warham, bishop Gardiner, and Sir T. More in collecting 200 alleged here sies from those treatises, 34; is praised by Erasmus for his great learning, 395 ; called by Tyndale, « That still Saturn/ ii. 321, 337-
-
-Tot-quots, i. 236.
-
-Tracy, William, a Gloucestershire gentleman, some account of him, iii. 269-71 ; his testament, 2/2-3; his corpse disinterred, and burnt for heresy, i. xviii; iii. 270, 282; the ecclesiastical officer heavily fined for this, 270 ; Tyndale and Frith com. posed expositionsof his will, i. Ixxiii ; iii. 269 ; Tyndale's exposition, 2/3-
-
-Traditions, what Paul's were, i. 219 ; Paul teaches believers to beware of the traditions of men, 508 ; name used for ceremonies, and remarks on the burdens thus imposed, iii. 74, 94.
-
-Traditors, who so called, i. 144.
-
-Transubstantiation, i. 278, 366-7, 372-3, 381 ; ii. 221 ; iii. 178 ; the question examined, iii. 224-61 ; examination of scriptures alleged for it, i. 367-8; iii. 223-30, 236-44 ; was not meant, in what Christ spake, as related in the sixth chapter of John, 227-30 ; it is incompatible with the language of Augustine and Tertullian, 228 ; had the doctrine been only beyond the reach of our reason, faith would have received it, if expressly taught in scripture, 231 ; but it is to be rejected, because it is contradictory to scrip ture, ib. 234-5; it is a carnal doctrine, 239-51. See Lord's Supper.
-
-Treasure in heaven, ii. 101.
-
-Trental, what, i. 148.
-
-Tribulation, why God tries his people with it, i. 135-9, 144; their comfort under it, 138-41.
-
-Tropological, a schoolman's term, i. 303-4.
-
-Trumbett, or Antonius Trombeta, or Tubeta, i. 151 ; account of him, 152.
-
-Trumpets, to be blown, signification, i. 352.
-
-Tutors, word used for trustees of estates, ii. 277.
-
-Twonson, Nicolas, a printer at Nornburg, or Nuremburg, iii. 218.
-
-Tyndale, William, his descent and birth, i. xiii, xiv ; why also called Hitchins, Hochin, Hutchyns,i£). xxii, 131; a Yorkist in principle, 458 ; not a monk, xv ; studied in both universi ties, xiv, xv ; acquires a knowledge of Greek, xv, xxi ; of Hebrew, xxv, xxvii, xxx, xl. Ixii ; other languages, xxx ; a lecturer at Oxford, i. xiv ; quits it for Gloucestershire, xxv ; tutor to children of sir John Walsh, xiv-xxi ; disputes with priests there, xvi, xix ; a preacher at Bristol, xviii ; could be content to teach children, and to preach, xix ; avows his resolu tion to make ploughboys know more of the scripture than a disputatious priest, ib. ; summoned to appear before Dr Parker, xvii-xix, 395 ;
-
-GENERAL INDEX.
-
-quits Glocestershire for London, and preaches there at St Dunstan's, xxiiv, 394-5 ; seeks bishop Tonstal's patronage in vain, xxi, 395-6 ; be friended by H. Munmouth, xxii-iv; tells what moved him to translate the New Testament, xx, 394 ; per ceived there was no place to do it in all England, xxii, 396; quits Eng land for life, xxv ; untruly said to have visited and associated with Lu ther, xxii; xxv-vi, xxx, xxxviii ; iii. 147; at Hamburgh, xxiv-v, xxxix ; printing at Cologne, xxviii-xxxi; flees to Worms, and prints there, xxix, xxxi ; removes to Marburg, and prints there, xxxiv, xxxix ; at Antwerp, xxxviii-ix, xliii, Ivii, IxIxvii ; is shipwrecked, xxxix ; visited by Coverdale, ib.r, sought for by Vaughan, xlii ; discovers himself to him, xliii; asserts his good intentions, xliv ; and declares that if the king would but let his people have the scriptures, he would promise to write no more, and to suffer whatever the king might lay upon him, xlix ; his brother John is arrested and fined for befriending him, xlii; writes to Frith, liii, Ivii; and advises him not to provoke hostility by meddling with the questionof thepresenceof Christ's body in the sacrament, liii; speaks humbly of the first editions of his version of the New Testament, 390; also of his Pentateuch, 397; his ac count of the charges made against them, 392-3; he rebuts a personal charge with a solemn oath, iii. 213 ; sir T. Elyot employed to procure his arrest, i. li ; his manner of life at Antwerp, lx ; H. Philips insidiously seeks his friendship, and brings the emperor's officer upon him, Ixv-vii ; carried off prisoner to Vilvorden, ib.; his manner of life in prison, Ixxii ; disputes with the theologians of Louvaine, Ixxiii ; befriended in vain by Mr Poyntz, Ixviii-lxxii ; Crom well writes in his behalf, Ixix ; Ant werp merchants do the same, Ixx; his martyrdom, and last prayer, Ixxv.
-
-Testimonies to his character and attainments, from Cochlaeus, i. xxix ;
-
-from Herman Busche, as recorded by Spalatinus, xxx ; from Vaughan, xliii, xlv; from Frith 's letter to More, Ivi ; iii. 219 ; from Joye, i. Ixii ; from Mr Poyntz, Ixvii ; from his jailor and prosecutor, Ixxii, Ixxiv ; from P'oxe, Ixxvi ; sir Thomas More's testimony to his labours, Hi ; his humble esti mate of himself. Iv.
-
-Known and reputed labours of his pen. About 1520, he translated Eras mus' Enchiridion, i. xvii, xxiv; by 1523, an oration of Isocrates, xxi. 395 ; he edits Arundel's examination of W. Thorpe, xxvi-vii ; in 1524, he prints his versions of St. Matthew's Gospel, and of St. Mark's, xxviiviii; composes a prologue to the for mer, which eventually becomes the 'Pathway, 'and glosses or brief notes, 3; 1525-6, he prints versions of the whole New Testament, xxvii-xxxi; in 1526, he publishes the prologue to Romans, 483; in 1527, his treatises on the Parable of the wicked Mam mon, and on the Obedience of a Chris tian Man, 31, 129; in 1528-9, he is reputed to have published a tract on Matrimony, and an exposition of
-
-1 Cor. vii. xxxvii ; early in 1530, his version of Genesis, from the Hebrew, issued from the press, xli ; and his Practice of Prelates, soon after, xxxix; iii. 237; in 1531, he had com pleted his version of the Pentateuch, with its prefaces, and his answer to sir T. Mote's Dialogue came forth, i. xl; iii. 2; in the same year he pub lished his prologue to Jonah, which is said by some to have been accom panied by a translation of that pro phet, i. 447-8 ; and also, an exposition of the first epistle of John, ii. 133; and in 1532, he published his expo sition of the Sermon on the Mount,
-
-2 ; in 1533, the treatise on the Supper of the Lord, if it be from his pen, iii. 217 ; in 1534, he issued a revised edition of his New Testament, with introductory prefaces to each book, i. Ixii. 467; in 1535, his exposition of Tracy's Testament, Ixxiii; iii. 171; and his New Testament for the use of ploughmen, i. Ixxiii; iii. 287 ; and
-
-GENERAL INDEX.
-
-when his labours were brought to a close by his martyrdom, it was found that he had composed a treatise on the two sacraments, i. 345 ; and had translated, from the Hebrew, all the historical books of the Old Testa ment, Ixxiv.
-
-Tyrants, are entirely in God's hands, i. 140; God punishes their subjects, by giving them power, ii, 111-12; the subjects' remedy against them, i. 332, 336; iii. 180; they are rebuked by the truth, 180; Tyndale uses the word where our authorized version has giants, i. 409.
-
-Unbelief is sin, i. 490 ; and the root of all sin, 489, 491. Unbelievers, their thoughts of God, ii.
-
-210 ; manner of worship, 211. Underset, supported, ii. 208. Unhele, uncover, ii. 322. Union of Doctors, a book, same with
-
-Unlo dlssidentium ; and some account of it, iii. 187, 213. Universals, a term in logic, i. 157. Universities, have shut up scripture, ii.
-
-291 ; their oaths, ib. Uplandish people, those of higher Ger many, iii. 188. Utter, v. to detect, or make manifest, i. 12.
-
-Vain-glory, a remedy against its tempta tion, ii. 74.
-
-Vaughan, Stephen, the king's envoy in the Netherlands, charged to search for Tyndale, i. xlii ; his letters to the king, xlii-v, xlviii-1 ; Tyndale discovers himself to him, xliii ; Crom well's letter to him, xlv-viii; More endeavours to prove him a disciple of Tyndale, Ii.
-
-Venetians, their alliance with the pope, ii. 299 ; care not for his blessing or cursing, 300.
-
-Vengeance, private, forbidden, ii. 27, 58-9, 62 ; lawful redress is not to be sought in a spirit of vengeance, 27,
-
-Vernacle, the holy, iii. 79.
-
-Vilvorden, Tyndale imprisoned there, and burnt at the stake, i. Ixvii, Ixxii-
-
-Violence, when it may be lawfully used, ii. 62-3; how it should be resisted,
-
-Virgin Mary, was rebuked by Christ, iii. 207 ; was kept by grace, but not without sin, ib. ; fancies of certain Romanists about her being conceived without sin, 131. See Mary.
-
-Visenomy, physiognomy, ii. 127.
-
-Volo, Latin word used in baptismal service, i. 253, 276 ; hence volower, 276 ; and volowed and volowing, ib. iii. 72.
-
-Vows, i. 433-40; iii. 185; monkish, i. 430, 435, 438; ii. 163; iii. 185, 189; pope gives license to break lawful vows, 189.
-
-Wafers of meal, used at mass, and called hosts or singing loaves, ii.
-
-Waive-offering, why so called, i. 420. Wales, the pope's power there, of no ancient standing, iii. 158. Walk with God, purport of expression, i.409. Walk a villain, phrase explained ii.
-
-Walking, what meant by in scripture, ii. 149. Walsh, sir John, patronizes Tyndale, i. xiv, xvi-xxi. War, defensive, sometimes a duty, ii.
-
-27 ; but princes should live peaceably if it be possible, 26-7Warham, archbishop, proscribes Tyn- dale's version of New Testament, i.
-
-xxxii. ; endeavours to buy them up, xxxiii; sits in judgment on Tyndale's and Frith's writings, 34-5; his reply to one who wished the people to have the New Testament in English, 234. Watch, what it is to do so, i. 12. Way, the narrow, not found by all the visible church, ii. 120-1 ; why found by few, ib.
-
-Wealth, welfare, i. 20. Wearish, sour, ii. 33. Weigh-house, custom-house, iii. 76. Westminster abbey, a sanctuary, i. 326;
-
-GENERAL INDEX.
-
-legend of its being consecrated by St. Peter, in person, ib.
-
-Wete, v. know, i. 234.
-
-Whet, or sharpen : ' whet them on thy children,' i. 446.
-
-White, St., or Witta, ii. 216-7.
-
-Wicliffe, his version of the scriptures, i. xx ; its perusal forbidden, 132; preached repentance to our fathers in vain, 458 ; charged by More with having occasioned rebellion in Bohe mia, iii. 165.
-
-Widowhead, for widowhood, iii. 157-
-
-Widows, who served the church, iii.
-
-Will, the, not free in the natural man, i. 182 ; how made free, 183, 429, 489 ; iii. 174; after conversion, men have two wills, ii. 76; the will cannot command the wit, nor precede its decision, iii. 192, 210-11; popish notion of freewill, 191-2.
-
-Will-worship, and outward shew, i. 103-4, 119.
-
-William I., received a banner from the pope, to encourage him to invade England, ii.294.
-
-William II., obliged by Anselm to surrender the investiture of bishops to the pope, ii. 295.
-
-Wit, used to express the reasoning faculty, i. 182-3 ; iii. 192, 198 ; the will worketh not, till the wit have decided what is desirable, iii. 198.
-
-Wite, to blame, i. 164; ii. 193.
-
-Witness, the three that bear, ii. 209.
-
-Woll, for will, ii. 196.
-
-Wolsey, cardinal, i. xviii, xxiii; the arts by which he rose at court, ii. 307-10 ; came from bloodshedding to a bishoprick, 273 ; his episcopal plu ralities, 273, 337; his pomp, 314; the honour which he required to be paid to his scarlet hat, 338-9 ; com pels the clergy to tax themselves heavily for war with France, i. 188; ii. 306; is warned by Bincke that Tyndale was about to give the people of England the scriptures in their native tongue, i. xxx ; burns copies of imported English testaments, xxxi ; endeavours to get them burnt or sup pressed abroad, xxxii, xxxiv ; per suades the king to order that Tyn- dale's translations should be burnt, and punishment inflicted on such as did not give them up, 131 ; a satire upon him, and extracts from it, 40-1 ; he endeavours to procure the arrest of Tyndale and Roye, xxxiv ; gets possession of Anne Boleyn's copy of The Obedience, 130; procures for Henry VIII. the title of Defender of the Faith, ii. 338 ; is largely pen sioned by the emperor, 316 ; but plays false with him, as well as with the king of France, 314, 316-8; suggests and takes first steps towards procur ing the divorce of queen Catharine, 319-20, 322 ; insults the emperor on finding him favourable to other can didates for the popedom, 321-2 ; Tyndale's character of him, 307-8; accuses him of secretly encouraging a maraud ing invasion of Scots, 306 ; believes him to have skill in astrology and necromancy, 308 ; calls him Wolfsee, 258, 307 » warns those sworn to him, that it is their duty to break such oaths, 341-2.
-
-Women, have been employed about divine things by God's own appoint ment, iii. 18; and may be employed to teach, minister, and baptize, if it be plainly necessary, but otherwise forbidden to preach, 18, 29, 30, 98,
-
-Woolward-going, what meant by, i. 227,
-
-Worcester, Italian bishops of, i. xviii.
-
-Word of God, ever hated by the world, i. 131 ; either corrects or hardens, 471-3 ; they who profess to honour it, but mortify not their lusts, must ex pect heavy chastisements, 474 ; with out it do nothing, to it add nothing, 330. See Scripture.
-
-Works, declare what is within the man, but make him neither good, nor bad, i. 23, 59, 62, 100, 112-3, 116; false notions of what are good and bad, inculcated by the Pharisees, and by the church of Rome, 461 ; till grace comes, are siri, 183, 435, 487 ; ii. 73 ; without faith are offensive, 126.
-
-Works, good, what are, i. 90, 434 ; do not precede the grace of God, 112; every good thing in us is Christ's
-
-GENERAL INDEX.
-
-gift, purchase, doing, and working, i. 23, 27, 111; we must be good, be fore we can do good, 23, 50, 62, 73, 497; "i. 173-4, 204-5: the good work maketh not a good man, but a good man maketh a good work, (Tracy) 273; heathens and papists taught the contrary, i. 108; iii. 11, 204 ; a man must be reconciled to God, and in his favour, before his works can be good, 173 ; good works are the fruits of the Spirit, i. 83, 108, 497 ; iii. 197 ; follow faith, i. 62, 64 ; ii. 108, 125; iii. 173; are outward signs and fruits of faith and of the Spirit, i. 497 ; ii. 87 ; but are not free from sin, i. 113; iii. 173; trust in them can bring no peace, i. 330, 509 ; they are not to be done, to seek hea ven by them, i. 63, 65, 278-81 ; iii. 173 ; nor to make a profit out of them, iii. 200; he who would worship God by them is an idolater, ii. 157-8, 214-5; faith in works is the darkness of Pharisees, Pelagians, ii. 103-4; such have taught men to trust in works of imaginary holiness, i. 27881 ; ii. 72 ; but the best do not de serve grace for us, i. 112; iii. 276; God's mercy to us deserves that we should work, to testify our thankful ness, 277 ; good works must be done freely, i. 62, 110; out of the mercy that we have received, and not that we may thereby receive mercy, iii. 204 ; that which is deserved by works is not grace, ii. 157; they cannot deserve eternal life, i. 82, 100; nor justify man before God, 497; ii. 74-5, 103 ; iii. 204 ; but they do us three kinds of service, i. 23 ; they testify what we are, 109, llfi, 497 ; ii. 89, 149, 189, 193, 195 ; they testify our faith, 59-61, 71-2, 77; ii. 108, 125 ; that we are God's children and heirs, i. 80, 83 ; this is their reward, 100 ; and thus are they in some sort sacraments, ii. 90-1 ; though they do not justify us before God, they justify before men, i. 119, 526; ii. 6,7, 31,745, 89 ; but we must beware of seeking glory of men thereby, 73 ; good and bad works come of good and bad doctrine, 38 ; evil works, their conse quence, i. 65.
-
-Worship of God, how described in scripture language, iii. 57; what acceptable, i. 106; ii. 158; iii. 57 j what an offence to him, i. 106 ; wor shipping by works and ceremonies is idolatry, ii. 157-8, 214-17; worship is divided by schoolmen into doulia, hyperdoulia, and latria, iii. 56.
-
-Worshippingof sacraments, ceremonies, images and relics, iii. 59-63.
-
-Writing, believed by Tyndale to be older than the flood, iii. 26 ; papists teach that some things, not written, must be believed for salvation, 26 ; More's attempt to prove this, an swered, 96-7, 100.
-
-Yea and yes, More's criticism on their distinct use, iii. 75.
-
-Year, its commencement in official documents, different from the unof ficial and historical, i. xli.
-
-Year's mind, what, i. 238.
-
-Yer, for ere, i. 51, 455.
-
-Zacharias I. pope, gave Pepin and the French nobles license to violate their oaths of allegiance to their lawful sovereign, ii. 261.
-
-Zeal without knowledge is not good, i. 105.
-
-Zwitzers, ii. 300, 311.
+[Tyndale, 3rd. and last Volume. Bullinger, 2nd. Volume. Jewel, 4th. and last Volume; and, probably, Answer to the Apology of Private Mass.]
 
 ---
 [[Tyndale AM 15 Index of Scripture Texts Cited|← 15. Index of Scripture Texts Cited]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]]
+
