@@ -4,71 +4,99 @@ author: "Thomas Cranmer"
 work: "Miscellaneous Writings and Letters"
 chapter: 18
 year: "1533-1556"
-source: "archive.org theworksofthomas0ps2, Parker Society (1846); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+grc+lat)"
 written: "1533-1556"
 tags:
   - protestant-reformers
   - thomas-cranmer
 ---
+
 # 18. Questions Concerning Some Abuses of the Mass
 
-*Questions'*
+^ 1 TQ!
 
-## Put Concerning Some Abuses of the Mass
+QUESTIONS
 
-## The Answers 2
+PUT CONCERNING SOME ABUSES
 
-## That Were Made by Many Bishops and Divines to Them
+## With the Answers' That Were Made by Many Bishops and Quest. 1
 
-^t WHETHER the sacrament of the altar was instituted to be received of one man for S'Libn another, or to be received of every man for himself?
+WiurrHER the sacrament of the altar was instituted another, or to be received of every man for himself? 6... The sacrament of the altar was not instituted to other, but to be received by every man for himself. Reformat. App. 25.
 
-Ed. bxon.' The sacrament of the altar was not instituted to be received of one man for an-
+## Quest. 2
 
-Bun.cfsHist. other, but to be received by every man for himself.
+Whether the receiving of the said sacrament of any other?
 
-of Reformat. Vol. ii. App. 13. 1. No. 2.5. - _ pp. i!£— 210. Quest. 2.
+The receiving of the said sacrament by one man that receiveth the same.
 
-Whether the receiving of the said sacrament of one man doth avail and profit any other?
+## Quest. 3
 
-The receiving of the said sacrament by one man doth avail and profit only him that rcceiveth the same.
+What is the oblation and sacrifice of Christ in the The oblation and sacrifice of Christ in the mass indeed is there offered and sacrificed by the priest and but once by himself upon the cross;) but it is so called, representation of that very true sacrifice and immolation the cross.
 
-What is the oblation and sacrifice of Christ in the mass?
+## Quest. 4
 
-The oblation and sacrifice of Christ in the mass is not so called, because Christ indeed is there offered and sacrificed by the priest and the people, (for that was done but once by himself upon the cross ;) but it is so called, because it is a memory and representation of that very true sacrifice and immolation which before was made upon the cross.
+Wherein consisteth the mass by Christ's institution The mass, by Christ's institution, consisteth in those the Evangelists: Matt. xxvi. Mark xiv. Luke xxii. 1
 
-Wherein consisteth the mass by Christ's institution?
+[[! Of these queries Collier says: The latter says, “was obviously written subsequently to the]
 
-The mass, by Christ's institution, consisteth in those things which be set forth in the Evangelists : Matt. xxvi. Mark xiv. Luke xxii. 1 Cor. x. and xi.
+[end of this winter (1547, 8) a committee of divines statute to which Collier alludes. "The parliament]
 
-[' Of these queries Collier says: "The latter end of this winter (l«r)47, 8) a committee of divines were commanded by the king to draw up an order for administering the holy Eucharist in English under both kinds, pursuant to the late act of Parlia ment. — These prelates and divines, before they came to a resolution concerning the form for the administration in both kinds, considered the pre sent practice of the church, and broke the question into several divisions. And here it was settled, that every one in the commission should give his answer in writing." Collier's Eccl. Hist. Vol. V. p. 246, Ed. Loud. 1840, 1. But he adds, " Whether these questions were debated before the late statute, for communicating under both kinds, is somewhat un certain, &c." Id. p. 254. Dr Jenkyns supposes he was not aware of the uncertainty being removed by the last of the further questions, p. 153, which, he says, "was obviously written subsequently to the statute to which Collier alludes. The parliament which passed this act being prorogued on the 24th of December, 1547, and the new order of communion compiled in consequence, and to which the present deliberations were preparatory, appeared under the sanction of a royal proclamation on the 8th of March following." — Vid. Foxe's Acts and Monu ments, p. 1299, Ed. Lond. 1583. Burnct's Hist, of Reformation, Vol. II. p. 12fi. Strype's Mem. of Abp. Cranmer, Vol. I. p. 224, 5. Ed. Oxon. 1840. Eccl. Memorials, Vol. II. pp. 9fi— 99. Ed. Oxon. 1822. Todd's Life of Abp. Cranmer, Vol. II. p. 19. Jenkyns' Remains of Abp. Cranmer, Vol. II. p. 178.]
+[were commanded by the king to draw up an order which passed this act being prorogued on the 24th of]
 
-[2 A manuscript containing many of these an swers is preserved at Lambeth. Jcnkyns.J
+[for administering the holy Eucharist in English December, 1547, and the new order of communion]
 
-## Queries Concerning Abuses of the Mass. 151
+[under both kinds, pursuant to the late act of Parlia- compiled in consequence, and to which the present]
 
-What time the accustomed order began first in the church, that the priest alone should receive the sacrament?
+[ment.— These prelates and divines, before they deliberations were preparatory, appeared under the]
 
-I think the use, that the priest alone did receive the sacrament without the peo ple, began not within six or seven hundred years after Christ.
+[came to a resolution concerning the form for the sanction of a royal proclamation on the 8th of]
 
-Quest. 6. Whether it be convenient that the same custom continue still within this realm?
+[administration in both kinds, considered the pre- March following."— Vid. Foxe's Acts and Monu-]
 
-I think it more agreeable to the scripture and primitive church, that the first usage should be restored again, that the people should receive the sacrament with the priest.
+[sent practice of the church, and broke the question ments, p. 1299, Ed. Lond. 1503. Burnet's Hist. of]
 
-Whether it be convenient that masses satisfactory should continue, that is to say, priests hired to sing for souls departed ?
+[into several divisions. And here it was settled, that Reformation, Vol. II. p. 126. Strype's Mem. of]
 
-I think it not convenient that satisfactory masses should continue.
+[every one in the commission should give his answer Abp. Cranmer, Vol. I. p. 224, 5. Ed. Oxon. 1840.]
 
-"Whether the gospel ought to be taught at the time of the mass, to the under standing of the people being present ?
+[in writing." Collier's Eccl. Hist. Vol. V. p. 246, Eccl. Memorials, Vol. II. pp. 96—99. Ed. Oxon.]
 
-I think it very convenient, that the gospel, concerning the death of Christ and our redemption, should be taught to the people in the mass.
+[Ed. Lond. 1840, 1. But he adds, Whether these 1822. Todd’s Life of Abp. Cranmer, Vol. II. p.]
 
-Whether in the mass it were convenient to use such speech as the people may understand ?
+[questions were debated before the late statute, for 19. Jenkyns' Remains of Abp. Cranmer, Vol. II.]
 
-I think it convenient to use the vulgar tongue in the mass, except in certain secret mysteries, whereof I doubt.
+[communicating under both kinds, is somewhat un- p. 178.]]
 
-Quest. 10. When the reservation of the sacrament and the hanging up of the same first began ?
+[certain, &c." Id. p. 254. Dr Jenkyns supposes he [? A manuscript containing many of these an-]
 
-The reservation of the sacrament began, I think, six or seven hundred years after Christ : the hanging up, I think, began of late time.
+[was not aware of the uncertainty being removed by swers is preserved at Lambeth. Jenkyns.]]
+
+[the last of the further questions, p. 153, which, he]
+
+## Quest. 5
+
+What time the accustomed order began first in the church, should receive the sacrament? I think the use, that the priest alone did receive the sacrament ple, began not within six or seven hundred years after Christ.
+
+## Quest. 6
+
+Whether it be convenient that the same custom continue still I think it more agreeable to the scripture and primitive usage should be restored again, that the people should receive the priest.
+
+## Quest. 7
+
+. Whether it be convenient that masses satisfactory should continue, priests hired to sing for souls departed? I think it not convenient that satisfactory masses should continue.
+
+## Quest. 8
+
+Whether the gospel ought to be taught at the time of the standing of the people being present? I think it very convenient, that the gospel, concerning the our redemption, should be taught to the people in the mass.
+
+## Quest. 9
+
+Whether in the mass it were convenient to use such speech understand? I think it convenient to use the vulgar tongue in the mass, secret mysteries, whereof I doubt.
+
+## Quest. 10
+
+When the reservation of the sacrament and the hanging up of The reservation of the sacrament began, I think, six or seven Christ: the hanging up, I think, began of late time.
 
 ---
 [[Cranmer MW 17 Homily of Good Works Annexed unto Faith|← 17. Homily of Good Works Annexed unto Faith]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 19 Questions with Answers by the Bishops of Worcester|19. Questions with Answers by the Bishops →]]
+
