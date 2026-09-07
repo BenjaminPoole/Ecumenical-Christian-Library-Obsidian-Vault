@@ -4,387 +4,739 @@ author: "Thomas Cranmer"
 work: "Miscellaneous Writings and Letters"
 chapter: 38
 year: "1533-1556"
-source: "archive.org theworksofthomas0ps2, Parker Society (1846); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+grc+lat)"
 written: "1533-1556"
 tags:
   - protestant-reformers
   - thomas-cranmer
 ---
+
 # 38. Letters CCLXVII–CCLXXIX
 
 ## CCLXVII. To Crumwell
 
-MY singular good lord, in my most hearty wise I commend me to your lordship ; and state Paper whereas I am informed that this bearer Edward Askew, my servant, son unto Sir ibid*' William Askewe, knight, is by some nobleman preferred unto the room of one of these Ongmal) new spears2 in the court, which, because it is done both without my knowledge and his, I shall beseech you, my lord, inasmuch as I have no friend to sue unto for me and mine, but only unto your lordship, that you will, at this my request, bear unto him your lawful favour and furtherance in the same ; assuring your lordship that he, the young man, is of a very gentle nature, right forward, and of good activity, so that I think he shall be meet to furnish such a room, and to do unto the king s majesty diligent and faithful service. Thus, my lord, right heartily fare you well. At Ford, the 28th day of December. [1539.]
+My singular good lord, in my most hearty wise I commend me to your lordship; and whereas I am informed that this bearer Edward Askew, my servant, son unto Sir William Askewe, knight, is by some nobleman preferred unto the room of one of these new spears” in the court, which, because it is done both without my knowledge and his, I shall beseech you, my lord, inasmuch as I have no friend to sue unto for me and mine, but only unto your lordship, that you will, at this my request, bear unto him your lawful favour and furtherance in the same; assuring your lordship that he, the young man, is of a very gentle nature, right forward, and of good activity, so that I think he shall be meet to furnish such a room, and to do unto the king's majesty diligent and faithful service. Thus, my lord, right heartily fare you well. At Ford, the 28th day of December. [1539.]
 
-Your own assured ever,
+## Your own assured evr, Cantuarien
 
-## T. Cantuariex
+To my very singular good lord, my
 
-To my very singular good lord, my lord privy
+## lord privy seal
 
-This letter has not been printed in any pre vious collection.]
+[This letter has not been printed in any pre- called pensioners or spears, like as they were in the]
 
-In December [A.D. 1539] were appointed to wait on the king's highness' person, fifty gentlemen called pensioners or spears, like as they were in the first year of the king." Hall's Chronicle, fol. ccxxxvii. 2. Ed. Loncl. 1548.]
+[vious collection. ] first year of the king." Hall's Chronicle, fol.]
 
-state Paper Slid!6'
+[[? In December [A.D. 1539] were appointed to cexxxvii. 2. Ed. Lond. 1548. ]]
+
+[wait on the king's highness’ person, fifty gentlemen]
 
 ## CCLXVIII. To Crumwell
 
-MY very singular good lord, after my most hearty commendations ; these shall be to advertise your lordship, that I have received by my servant Eaton fifty sovereigns from you, which shall be delivered to-morrow, and presented unto my lady Anne's1 grace, according to your lordship's advertisement in your letters; and if I may compass and bring it to pass, the town of Canterbury shall put thereunto fifty angels, to be all together presented in one cup. And whereas this bearer Mr Pheneux, your servant, by his demore here in giving attendance upon me whiles my said lady Anny's grace was received at Canterbury, hath longer absented himself from you than he thought to have done, I trust your lordship will accept the same in the best part; assuring you, my lord, that in case he and other gentlemen of the country, with mine own retinue, had not the better assisted me, over and besides the number appointed, I should have received her grace but with a slender company. For the whole number appointed to me, besides mine own company, was not six score, and yet some of them failed ; so that if, partly by mine own company, and partly by other gentlemen's assistance, it had not been supplied, I should not have received her with a convenient number. Thus, my lord, most heartily fare you well. At Canterbury, the xxixth day of December.
+My very singular good lord, after my most hearty commendations; these shall be to;... advertise your lordship, that I have received by my servant Eaton fifty sovereigns from ^ P Life you, which shall be delivered to-morrow, and presented unto my lady Anne's’ grace, according to your lordship’s advertisement in your letters; and if I may compass and bring it to pass, the town of Canterbury shall put thereunto fifty angels, to be all together presented in one cup. And whereas this bearer Mr Pheneux, your servant, by his demore here in giving attendance upon me whiles my said lady Anny's grace was received at Canterbury, hath longer absented himself from you than he thought to have done, I trust our lordship will accept the same in the best part; assuring you, my lord, that in case he y P p 5p Fg. you, my, à; and other gentlemen of the country, with mine own retinue, had not the better assisted me, over and besides the number appointed, I should have received her grace but with a slender company. For the whole number appointed to me, besides mine own company, was not six score, and yet some of them failed; so that if, partly by mine own company, and partly by other gentlemen's assistance, it had not been supplied, I should not have received her with a convenient number. Thus, my lord, most heartily fare you well. At Canterbury, the xxixth day of December.
 
-Your own ever assured,
+## Your own ever assured, Cantuarien
 
-## T. Cantuarien
+To my very singular good lord,
 
-To my very singular good lord, my lord privy seal.
-
-State Paper Office. Ibid. Original.
+my lord privy seal.
 
 ## CCLXIX. To Crumwell
 
-MY very singular good lord, in my most hearty wise I commend me unto your lord ship ; always thanking you for your benevolence towards me and my poor servant, for which I am not able to recompense as my mind is ; signifying to your lordship, that you shall receive of my servant Nevell this bearer £20. for your half year's fee2 now due. And whereas my said servant Nevell inforrneth me, that Mr Chancellor of the Augmentation told him, that the king's majesty was content that he should have some recompence for his farm of the parsonage of Bowghton3 ; these shall be to desire you, my lord, to bear him your lawful favour for his furtherance unto such recompence : for the which you shall bind him to be at your lordship's commandment during his life. Thus, my lord, right heartily fare you well. At Ford, the xx. day of January. [1539-40.]
+My very singular good lord, in my most hearty wise I commend me unto your lordship; always thanking you for your benevolence towards me and my poor servant, for 3 Cte is canis. which I am not able to recompense as my mind is; signifying to your lordship, that you shall receive of my servant Nevell this bearer £20. for your half year's fee now due. And whereas my said servant Nevell informeth me, that Mr Chancellor of the Augmentation told him, that the king's majesty was content that he should have some recompence for his farm of the parsonage of Bowghton?; these shall be to desire you, my lord, to bear him your lawful favour for his furtherance unto such recompence: for the which you shall bind him to be at your lordship's commandment during his life. Thus, my lord, right heartily fare you well. At Ford, the xx. day of January. [1539-40.]
 
-Your own assured ever,
+## Your own assured ever
 
-THOMAS CANTUARIEN. To my very singular good lord^ my lord privy seal.
+TroMAs CANTUARIEN.
 
-[* i. e. Anne of Cleves. For an account of her reception at Calais, A.D. 1539, with "the order taken for the receiving" her "repairing into Eng land," with " the names of them which should re ceive" her, " and wait on the king Henry VIII." including the archbishop of Canterbury, the bishops of Chichester, Richard Sampson ; of Ely, Thomas Goodrich, lord chancellor; of Durham, Cuthbert Tonstall ; of Hereford, John Harley ; of Lincoln, John Longland; of St Asaph, Robert Warton, or Parfew; vid. Chronicle of Calais, pp. 167, et sqq., Camden Soc. Ed. 1846; in which (p. 169) "it is appointed that beyond Canterbury, in such place as shall be convenient, the archbishop of Canterbury, certain other bishops, and gentlemen assigned to keep her company, shall meet her grace, and so with the rest convey her to her lodging in Canterbury, and in like manner to attend upon her until her meeting with the king's highness." These docu ments are printed from Harl. MSS. 295. f. 152. b,
+To my very singular good lord, my
 
-296\. f. 169, and 171, and Cotton. MSS. Vitellius, c. xi. f. 220. b. 222, preserved in the British Museum. Hall gives a narrative of the progress of the princess from Calais to Greenwich, and says: "On which day (Monday) [Dec. 29, A.D. 1539] for all the storm that then was, she marched toward Canter bury, and on Baram down met her the archbishop of Canterbury, accompanied with the bishop of Ely, St Asse, St Davies, and Dover, and a great com pany of gentlemen well apparelled, and so brought her to St Austen's without Canterbury, where she lay that night." Hall's Chronicle, fol. ccxxxviii. The above letter was consequently written on the same day of the arrival at Canterbury.]
+## lord privy seal
 
-[2 Besides the other offices which Crumwellheld, he was also steward of the liberties of the archbishop, and master of his game. The fee above named may have had reference to one of these appointments. Vid. Letters CCLI. CCLIII. pp. 386, 388.]
+[[' i.e. Anne of Cleves For an account of her 296, f. 169, and 171, and Cotton. MSS. Vitellius, c.]
 
-[3 Vid. Letter CCXXXIII. p. 374.]
+[reception at Calais, A.D 1539, with “the order xi, f, 220. b. 222, preserved in the British Museum.]
 
-## 1540.j Letters. 401
+[taken for the receiving" her repairing into Eng- Hall gives a narrative of the progress of the princess]
 
-## CCLXX. To King Henry Viii.4
+[land," with the names of them which should re- from Calais to Greenwich, and says: On which]
 
-I heard yesterday in your grace's council, that he [Crumwell] is a traitor: Higt ofKn yet who cannot be sorrowful and amazed that he should be a traitor against your majesty, JS j^J-11' he that was so advanced by your majesty ; he whose surety was only by your majesty ; J*rt's ufe of he who loved your majesty (as I ever thought) no less than God; he who studied f^-^J. always to set forwards whatsoever was your majesty's will and pleasure ; he that cared for no man's displeasure to serve your majesty ; he that was such a servant, in my judg ment, in wisdom, diligence, faithfulness, and experience, as no prince in this realm ever had ; he that was so vigilant to preserve your majesty from all treasons, that few could be so secretly conceived, but he detected the same in the beginning ? If the noble princes of memory, king John, Henry the Second, and Richard II. had had such a councillor about them, I suppose that they should never have been so traitorously abandoned and over thrown as those good princes were I loved him as my friend, for so I took him to be ; but I chiefly loved him for the love which I thought I saw him bear ever towards your grace, singularly above all other. But now, if he be a traitor, I am sorry that ever I loved him or trusted him, and I am very glad that his treason is discovered in time : but yet again I am very sorrowful ; for who shall your grace trust hereafter, if you might not trust him ? Alas ! I bewail and lament your grace's chance herein, I wot not whom your grace may trust. But I pray God continually night and day, to send such a counsellor in his place whom your grace may trust, and who for all his qualities can and will serve your grace like to him, and that will have so much solicitude and care to preserve your grace from all dangers as I ever thought he had Q4 June, 1540.]
+[ceive” her, "and wait on the king Henry VIIL" day (Monday) [Dec. 29, A.D. 1539] for all the]
 
-## CCLXXI. To Wriotiiesley 5
+[including the archbishop of Canterbury,the bishops storm that then was, she marched toward Canter-]
 
-MASTER Wrythiosley, after my right hearty commendations ; these be to signify unto state Paner you, that I have received out of the realm of Pole letters from Dantiscus, bishop of mestuFHVermien., who was many years the king of Pole his ambassador unto the emperor, and 1/534— IMO. was with the emperor the same time that I was the king our master his ambassador6 : original in whom I found at that time great humanity and faithfulness ; and, as I could perceive, as ready an heart he had to serve the king's majesty our master, as if he had been his own subject ; and as lovingly he entreated me, as if he had been my owTn brother, not withstanding that we were of two contrary judgments ; for he was a mere papist. Neverthe less he would hear me diligently and patiently to say all my mind concerning the bishop of Rome, and seemed many times to condescend unto my judgment, and to allow the same. Howbeit, after he came home into his own country, and had two bishoprics given unto him, " Jordanus conversus est retrorsum :" for he returned again wholly u ad papismum." And now they say that he is the greatest persecutor of God's word that is in all the land of Pole ; and you may perceive by his letter, (which herewith you shall receive,) how much he is offended with me, for that, according to God's word, I wrote myself in the subscription of my letter, ecdesice Cantuarien. ministrum.
+[of Chichester, Richard Sampson; of Ely, Thomas bury, and on Baram down met her the archbishop of]
 
-Now since I received this letter, I have been much inquieted therewith, considering
+[Goodrich, lord chancellor; of Durham, Cuthbert Canterbury, accompanied with the bishop of Ely: J 3]
 
-[4 Lord Herbert merely quotes this fragment from " Records," so that it is doubtful whence he obtained it. The execution of Crumwell, servation of Crumwell, who was delighted with his wit and dexterity. Then he went ambassador to Holland and Flanders, to the emperor's sister, the
+[Tonstall; of Hereford, John Harley; of Lincoln, St Asse, St Davies, and Dover, and a great com-]
 
-"brought about by means of the bishop of Wini queen of Hungary; and after lord Audley's death
+[John Longland; of St Asaph, Robert Warton, or pany of gentlemen well apparelled, and so brought]
 
-Chester (Gardiner) and the popish faction," took j was advanced to be lord chancellor, and was the root place on Tower-hill, the 28th July, A.D. 1540. Vid. j of the noble family of the earls of Southampton."
+[Parfew; vid Chronicle of Calais, pp 167, et sqq., her to St Austen's without Canterbury, where she]
 
-Strype's Eccl. Mem. Vol. I. p. 561. Ed. Oxon. } Strype's Eccl. Mem. Vol. III. pp. 466, 7, A.D.
+[Camden Soc. Ed. 1846; in which (p. 169) it is lay that night.” Hall’s Chronicle, fol. cexxxviii.]
 
-1822\. Burnet's Hist, of Reformat. Vol. I. p. 569. j 1544. In this year, during the absence of Henry
+[appointed that beyond Canterbury, in such placeas 'The above letter was consequently written on the]
 
-Ed. Oxon. 1829.] VIII., he was one of the commissioners appointed
+[shall be convenient, the archbishop of Canterbury, same day of the arrival at Canterbury.]]
 
-[5 Sir Thomas Wriothesley "at first was taken to superintend the go.vernment of the kingdom. He into some office belonging to the treasury I was created earl of Southampton A.D. 1547. Burnet's
+[certain other bishops, and gentlemen assigned to [? Besides the other offices which Crumwell held,]
 
-And when Gardiner went ambassador, he took him along with him. Afterwards he fell under the ob-
+[keep her company, shall meet her grace, andso with he wasalso steward of the liberties of the archbishop,]
 
-Hist. of Reformat. Vol. I. p. 63. Vol. II. p. 30.] [« Vid. Letters II, III, pp. 231, 2.]
+[the rest convey her to her lodging in Canterbury, and master of his game. The fee above named may]
 
-## Fcranmer. It.!
+[and in like manner to attend upon her until her have had reference to one of these appointments.]
 
-what heinous rumours by mischievous tongues be spread into so far countries of the king's majesty, which would make any true and loving subject's heart bleed in his body to hear or read of his prince. And by cause you should the better perceive the same, 1 have sent you Damascus' own letter1, interlined in places most notable concerning that matter ; desiring you to declare the same to the king's highness at convenient opportunity, and to know his pleasure, whether I shall make any answer unto the said Dantiscus, and what answer I shall make : for the matter is of such importance, that I dare not presume to make a slender answer upon mine own head. Nevertheless, I think it not good to open this matter unto the king's grace, until he be well recovered of his disease, (which 1 pray God shortly to put away,) lest peradventure it might trouble and move his grace, and rather be occasion of longer continuance of the said disease. And if that had not been, I would have come to the court this day myself; but I thought it very evil that any person or matter should at this present disquiet his grace. Wherefore I refer unto your wisdom to break this matter unto his grace at such time as you shall think most expedient. From Lamhith, this saint Matthies day. [21 Sept. 1540.]
+[meeting with the king's highness." "These docu- Vid. Letters CCLI. CCLIII. pp. 386, 388.]]
 
-Your assured,
+[ments are printed from Harl. MSS. 295. f. 152. b, [? Vid. Letter CCXXXIII. p. 374.]]
 
-## T. Cantuahikx
+## CCLXX. To King Henry VIII
 
-To my loving friend sir Thomas Wrythisley, secretary unto the kings majesty.
+## CCLXXI. To Wriothesley
 
-State Paper Ofnee. Do mestic Pa pers, A. D. 1 5.'M-1 540. Vol. III. Original.
+Master Wrythiosley, after my right hearty commendations; these be to signify unto y Y» yrs y gnny you, that I have received out of the realm of Pole letters from Dantiscus, bishop of
 
-## Dantiscus to Ciianmer
+## 
 
-Rumorem de morte mea ad te, mi htunanissime Cramere, perlatum, eo auctum scribis, qnod a me infra triennium nullas acceperis. Hoc quidem non incurantia aut mutuae nostrum amicitia? oblivione contigit, veruin ob similem de te rumorem, qui apud nos percrebuit, quern certe, amantissimus utpote tui, dolenter accepi, Te, inquam, jussu Regis tui, cum multis aliis bonis viris, praitcr omnem cequitatem fuissc e vivis sublatum. Quo intime permotus, non secus atque tu meis, ita et ego tuis manibus reternam non semel beatitudinem sum precatus. Qua de re, quum ejusmodi rumor (Deo gratia !) utrique falsus evanuit, gaudenduni nobis, et ad pristinum benevolentiae officium et animo et scripto redeundum est. Tu tamen, ne te
+Vermien., who was many years the king of Pole his ambassador unto the emperor, and; 6. was with the emperor the same time that I was the king our master his ambassador: in whom I found at that time great humanity and faithfulness; and, as I could perceive, as ready an heart he had to serve the king’s majesty our master, as if he had been his own subject; and as lovingly he entreated me, as if he had been my own brother, notwithstanding that we were of two contrary judgments; for he was a mere papist. Nevertheless he would hear me diligently and patiently to say all my mind concerning the bishop of Rome, and seemed many times to condescend unto my judgment, and to allow the same. Howbeit, after he came home into his own country, and had two bishoprics given unto him, Jordanus conversus est retrorsum:" for he returned again wholly “ad papismum." And now they say that he is the greatest persecutor of God's word that is in all the land of Pole; and you may perceive by his letter, (which herewith you shall recetve,) how much he is offended with me, for that, according to God's word, I wrote myself in the subscription of my letter, ecclesie Cantuarien. ministrum.
 
-Salamandra fatum*
+Now since I received this letter, I have been much inquieted therewith, considering [ Lord Herbert merely quotes this fragment servation of Crumwell, who was delighted with his from Records," so that it is doubtful whence wit and dexterity. Then he went ambassador to he obtained it. The execution of Crumwell,, Holland and Flanders, to the emperor's sister, the brought about by means of the bishop of Win- queen of Hungary; and after lord Audley's death chester (Gardiner) and the popish faction," took was advanced to be lord chancellor, and was the root place on Tower-hill, the 28th July, A.D. 1540. Vid. of the noble family of the earls of Southampton.” Strype’s Eccl. Mem. Vol. I. p. 561. Ed. Oxon. Strype’s Eccl. Mem. Vol. III. pp. 466, 7, A.D. 1822. Burnet's Hist. of Reformat. Vol. I. p. 569. 1544. In this year, during the absence of Henry Ed. Oxon. 1829.] VIII., he was one of the commissioners appointed [5 Sir Thomas Wriothesley at first was taken to superintend the government of the kingdom. He into some office belonging to the treasury.. was created earl of Southampton A.D. 1547. Burnet's And when Gardiner went ambassador, he took him Hist. of Reformat. Vol. I. p. 63. Vol. IL p. 30.] along with him. Afterwards he fell under the ob- [$ Vid. Letters II, III, pp. 231, 2.]
 
-TTupava-Tov p.6pos occupet, quum co, sint apud vos tcmpora, quce in nulla prius orbis Chrittiani regione fuerunt unquam, caveas : plura adderem, nisi vererer has fraudi tibi futuras, si in altering quam in tuas man us inciderent.
+[26 CcRANMER. rr. ]]
 
-Quid apud vos agatur, gratius mihi fuisset scire a te, quam de iis qui multa incerta pro certis nobis denunciant. Tot scilicet bonorum Ecclesiae difreptiones] quce modum et numerum non habent. in utrumque promiscue sexum supplicia, quodque magis Me omnes in admirationem ac detestationeni inducit, tot conjugia, totque contra omnes turn humanas turn etiam divinas leges repudia, quce tamen, quamvis passim hie in vulgus sparsa, pro veris habentur, apud me adhuc sunt ambigua. Nonnihil ad credendum me compellit, quod tu, quum sis et Archiepiscopus et regni vestri Primas, Ministrum ecclesiae tuae, longe alio quam prius nomine, te subscribis. Ministri quidem sumus omnes ecclesiarum, qui sumus Episcopi ; hoc tamen titulo quo Paulus usus est, abuti non deberemus. Is etenim qui speculator, non est sine ministerio, sua tamen ob id vocations non privatur. Nos porro hie sub christianissimo pientissimoque rege3 degentes, Phavorini apud Gellium praecepto, utimur verbis praesentibus, et moribus vivimus antiquis4, in quibus et vos olim non infelices inter alios mortales fuistis ; adeo etiam quemadmodum recens nosti, quod de insigni ad te conjugio scripserim, hoc si ad eum modum, ut cum Juliacense successisset, in quas me turbos non conjecisscm. Eos a me Deus per suam misericordiam avertit. Quern vero apud vos exitum hoc turbulentissimum cum tot commutatis Helenis malum, et hcec tanta et tarn impia diritas aliquando habebit, nemo sance mentis non vidvt, quantumvis lento divina ira gradu procedat. Quam ut ab hac vestra praedivite insula, quae mihi ob multam humanitatem in ea perceptam carissima est, et a vobis omnibus mihi carissimis, diutissime Domiuus Deus contineat, immo nunqtiam exerceat, impense oro ; tantum abest ut quicquam adversi imprecer. Ceterum quod honorificis illis relictis titulis usu receptis adeo me Magnas gratias habeo, quod puerum, quern Ratisbonae ad Danubium in Aula Causaris quondam famulatui tuo addixeram, adeo liberaliter educari commiseris : hunc revera, quum tuis me verbis et literis salutaret, a facie non minus quam alium quempiam exoticum a me nunquam prius visum, noveram ; fuitque eo mihi gratior, quod tua opera et adminiculo in adolescentem, moribus et literis non incultum, excreverit ; qui si institutum quod coepit,
+what heinous rumours by mischievous tongues be spread into so far countries of the king's majesty, which would make any true and loving subject’s heart bleed in his body to hear or read of his prince. And by cause you should the better perceive the same, 1 have sent you Dantiscus’ own letter’, interlined in places most notable concerning that matter; desiring you to declare the same to the king's highness at convenient opportunity, and to know his pleasure, whether I shall make any answer unto the said Dantiscus, and what answer I shall make: for the matter is of such importance, that I dare not presume to make a slender answer upon mine own head. Nevertheless, I think it not good to open this matter unto the king's grace, until he be well recovered of his disease, (which I pray God shortly to put away,) lest peradventure it might trouble and move his grace, and rather be occasion of longer continuance of the said disease. And if that had not been, I would have come to the court this day myself; but I thought it very evil that any person or matter should at this present disquiet his grace. Wherefore I refer unto vour wisdom to break this matter unto his grace at such time as you shall think most expedient. From Lamhith, this saint Matthies day. [21 Sept. 1540.]
 
-[* The letter of Dantiscus is subjoined. It has been much injured by damp. The passages in Italic are underlined in the original, evidently by the archbishop.]
+## Your assured, Cantuarien
 
-[2 The Latin of this proverb is inserted in Cranmer's own hand above the Greek words.]
+To my loving friend sir Thomas Wrythisley,
 
-[3 "Sigismund I. a monarch 'modest, humble humane, enlightened, indefatigable, the father of his people.' A victory gained by him over the Waywode of Moldavia in August 1531, is recorded by Dantiscus in a letter printed in Schardii German. Antiq. p. 12J5." Jenkyns' Remains of Abp. Cranmer. Vol. I. p. 301.J
+secretary unto the king's majesty.
 
-[4 Gellius' Noctes Atticae. Lib. i. cap. x. p. 66. Ed. Lugd. Bat. 1706.]
+## Dantiscus to Cranmer
 
-1540.] LETTERS. 4(U prosequi non intermiserit, quod ad reliquum vitai tempus pertinebit, facile assequetur. Tibi vero iteruni atque iterum gratias ago, quod ilium, ad meam commendationem et nostra} inter nos amicitia; rationem, tain benigne et largiter tuo inipendio in literarum studiis exercitum foveris, hucque ad me non sine viatico remiseris. Hinc clare liquet Athenseum non recte sensisse, amicos non esse qui procul degunt5 ; quum tu, ab orbe nostro divisus, in hoc juvene, cujus parentes [non] nisi fama agnovi[sti], mihi fueris officiosissimus : proinde ubi vicissim gratum tibi facere, tibique aut tuis ex usu et re esse possum, propensissimam meam offero operam; qua in eventis periculosi hujus temporis, proque forturiarum et facultatum mearum satis lauta (Deo gratia!) conditione, libere atque tuto utere, tibique persuade, me tui esse assiduissime memorem. Itaque, si me amas, quod certo existimo, copiose de tuo ac rerum vestrarum statu rescribe. Idipsum per mercatores, gentiles meos, qui Londini agunt, commode, quandocunque libuerit, facies, mihique mirum in moduin gratificaberis. Dat. ex arce nostra Heilsberg prima Septernbris 1540.
+Rumorem de morte mea ad te, mi humanissime Cramere, perlatum, eo auctum seribis, quod a me intra triennium nullas acceperis. Hoc quidem non incurantia aut mutus nostre amicitie oblivione contigit, verum ob similem de te rumorem, qui apud nos percrebuit, quem certe, amantissimus utpote tui, dolenter accepi, Te, inquam, jussu Regis tui, cum multis aliis bonis viris, preter omnem @quitatem fuisse e vivis sublatum. Quo intime permotus, non secus atque tu meis, ita et ego tuis manibus:zternam non semel beatitudinem sum precatus. Qua de re, quum ejusmodi rumor (Deo gratia!) utrique falsus evanuit, gaudendum nobis, et ad pristinum benevolent: officium et animo et scripto redeundum est. Zu tamen, ne te Salamandre fatum? j:: i ih πυραύστου μόρος occupet, quum ea sint apud vos tempora, quce in nulla prius orbis Christiani regione fuerunt unquam, caveas: plura adderem, nisi vererer has fraudi tibi futuras, si in alterius quam in tuas manus inciderent.
 
-citem ad se vita3 me® cursum (de quo s*pe inter nos, quando una essemus, collocutio incidit) atque institutum, praglis, me invito etiamnum et inscio, excusum mitterem. In eo vivum tibi tui Dantisci simulachrum seu iconisma depinxi ; hocque ob id, ut et tu mihi quam ducas vitam, et si comparer^ quemadmodum Paiflo tribuitur, duxeris, significationem facias. Apud nos coelibatu et libero lectulo nihil est jucundius ac dulcius. Jocari libuit. Hsec enim scribens, visus sum mihi tecum vel in symposio, ut solel)amus, vel in nave Danubiana, ad quam me comiter ex Ratisbona superioribus annis comitasti abeunteni, confabulari. Quod pro jure veteris inter nos comparatae necessitudinis nedum familiaritatis, boni te putu consulturum. THUS ille, inquam, totus
+[[! The letter of Dantiscus is subjoined. It has his people.” A victory gained by him over the]
 
-THUS Joannes Dantiscus Episeopus
+[been much injured by damp. The passages in Waywode of Moldavia in August 1531, is recorded]
 
-Vermien : manu mea script. R'no. in Christo Patri Domino Thomas Cranmero Archiepiscopo Cantuaricn. et regni Anglian Primati, fratri carissimo et honorando.
+[Italic are underlined in the original, evidently by by Dantiscus in a letter printed in Schardii German.]
 
-## [Translation.] Dantiscus to Cranmer
+[the archbishop. ] Antiq. p. 1275.” Jenkyns' Remains of Abp. Cran- [2 The Latin of this proverb is inserted in Cran- mer. Vol. I. p. 301.]]
 
-IN your letter YOU say that the report of my death which reached you, was confirmed by the fact that you had not received a letter from me for three years. This has, I assure you, happened neither from carelessness nor forgetfulness of our mutual friendship, but in consequence of a similar report concerning yourself, which was very general among us ; and of a truth, as being greatly attached to you, with much sorrow did I hear that by the command of your king you in particular, as well as many other good men, had been removed from the living, in violation of every principle of equity. Being deeply affected by it, I offered up many a prayer for the eternal blessedness of your spirit, as you had done for mine : but as in this matter such a report hath in both cases, by God's grace, turned oxit false, we must rejoice, and in mind, as well as by letter return to our ancient manifestation of good will. I pray you, however, to take care lest the fate of the moth should overtake you, since the times are such among you, as never before have happened in any country of the Christian world. More I would add, did I not fear that this might do you an injury, if it were to fall into any other person's hands than your own.
+[mer's own hand above the Greek words. [^ Gellius Noctes Attic, Lib. 1. cap. x. p. 66. [? “Sigismund I. a monarch modest, humble Ed. Lugd. Bat 1706]]
 
-As to what is being done among you, it would give me greater pleasure to hear it from yourself than from men who announce to us as indisputable many circumstances which are doubtful. So many pillagings of tho property of the church, cases which are beyond all bounds and innumerable, promiscuous punishments of both sexes, and, what produces more astonishment and detestation in the minds of all, so many marriages and so many divorces, in violation of everv law, as well human as divine ; which, although they are every where commonly reported and credited, yet I still regard as doubtful. I am somewhat however constrained to credit them from the circumstance that you, who are both archbishop and primate of your realm, nevertheless subscribe yourself as minister of your church, a title very different from that of former days. No doubt all you who are bishops are ministers of the churches; yet we ought not to abuse this title which Paul used. For he who is an overseer is not without the ministerial office, but still he is not from such a cause deprived of his peculiar calling. Moreover, we who live here under a most Christian and pious king, according to Phavorinus his precept in Gellius, make use of common phraseology, and live in accordance with ancient customs, in which even yourselves amongst other men in former days lived not devoid of happiness; so also as you lately heard in what I wrote to you of the extraordinary marriage, if it is in the same manner, I should have thrown myself into extraordinary troubles. God in his mercy averts them from me. But what will be the issue amongst you some time or other of this most turbulent mischief, with his Helens so often changed, and such huge and impious ferocity, every man of sound mind can see, although the divine anger does proceed with a slow step. So far am I from wishing you any ill, that earnestly do I pray the Lord God very long to withhold it, nay more, never to exercise it upon your wealthy island, which is very dear to me from the many acts of kindness which I have received there, or upon you all, to whom I am most attached. But that relinquishing those honourable titles, received by common usage, thus I am much obliged to you for causing to be so well educated the youth whom I formerly assigned to your suite in the imperial court at Ratisbon on the Danube. When he addressed me with your message and letter, I had, I assure you, no more knowledge of his person than your other exotic, which I had never before seen, and he gave me greater pleasure because, by your aid anil support, he had grown into a young man of polished manners and education ; and if he does not cease to pursue the course which he has begun, as far as concerns the rest of his life, he will succeed without any f5 TijXoD «£i\oi vaiowres OVK dcrlv (/n'\oi. Athen. ! [a This paragraph is in Dantiscus' handwriting, v. p. 18/, init.] I The commencement is much injured by damp.]
+[humane, enlightened, indefatigable, the father of]
 
-difficulty. But again and again do I thank you for having, in accordance with my commendation and the nature of the friendship that was between us, supported him so kindly and so liberally at your own expense, while he was employed in the study of literature, and for sending him back hither to me with his travelling expenses paid. From this circumstance it is very clear that Athenams was wrong when he thought 'that persons who live at a distance cannot be friends :' for you who are separated from our world have been most attentive to me in the case of this youth, whose parents you only know by report ; and therefore when ever it is in my power to repay the favour to you, and to be of use or aid to you or yours, I offer you my services most readily. Freely and without any fear make use of them in the events of the most perilous times, so far as the state of my fortune and power will allow, which, thanks be to God ! is very comfortable ; and be assured that I have a continual regard for you. Therefore if you have any affection for me, on which point I have no doubt, send back by letter a full account of your own position and the state of your affairs. This you will have no difficulty in doing, whenever you please, through the merchants of our country who live at London, and in so doing you will exceedingly oblige me. Given at our castle of Heilsberg, 1 Sep tember, 1MO.
+prosequi non intermiserit, quod ad reliquum vite tempus pertinebit, facile assequetur. Tibi vero iterum atque iterum gratias ago, quod illum, ad meam commendationem et nostra inter nos amicitize rationem, tam benigne et largiter tuo impendio in literarum studiis exercitum foveris, hueque ad me non sine viatico remiseris. Hinc clare liquet Athenaeum non recte sensisse, amicos non esse qui procul degunt?; quum tu, ab orbe nostro divisus, in hoc juvene, cujus parentes [non] nisi fama agnovi[sti], mihi fueris officiosissimus: proinde ubi vicissim gratum tibi facere, tibique aut tuis ex usu et re esse possum, propensissimam meam offero operam; qua in eventis periculosi hujus temporis, proque fortunarum et facultatum mearum satis lauta (Deo gratia!) conditione, libere atque tuto utere, tibique persuade, me tui esse assiduissime memorem. Itaque, si me amas, quod certo existimo, copiose de tuo ac rerum vestrarum statu rescribe. Idipsum per mercatores, gentiles meos, qui Londini agunt, commode, quandocunque libuerit, facies, mihique mirum in modum gratificaberis. Dat. ex arce nostra Heilsberg prima Septembris 1540.
 
-I would also send you an account of the tenour of my life (about which we had many a conversation when we were together) and its employments, which has been printed without my consent or knowledge. I have described in it to the life the image or likeness of your friend Dantiseus, and I have done it for this reason, that you may give me information both what kind of life you are leading, and whether you lead one like that which is allotted to Paul. With us nothing is more pleasant and delightful than celibacy and an unfettered bed. I must have a joke ; for while I write this I fancy that I am conversing with you, either at the table, as was our habit, or in the boat on the Danube, to which in former years you have so kindly escorted me when I was leaving Ratisbon. I think you will take in good part all that concerns the claims of that long-standing connexion, not to say friendship, which has obtained between us. Yours, I say, entirely.
+.:. 9item ad se vite mes cursum (de quo s@pe inter nos, quando una essemus, collocutio incidit) atque institutum, prelis, me invito etiamnum et inscio, excusum mitterem. In eo vivum tibi tui Dantisci simulachrum seu iconisma depinxi; hocque ob id, ut et tu mihi quam ducas vitam, et si comparem, quemadmodum Palo tribuitur, duxeris, significationem facias. Apud nos colibatu et libero lectulo nihil est jucundius ac dulcius. Jocari libuit. Hee enim scribens, visus sum mihi tecum vel in symposio, ut solebamus, vel in nave Danubiana, ad quam me comiter ex Ratisbona superioribus annis comitasti abeuntem, confabulari. Quod pro jure veteris inter nos comparatz necessitudinis nedum familiaritatis, boni te puto consulturum. "Tuus ille, inquam, totus Tuus Joannes Dantiseus Episcopus Vermien: manu mea script. Rwo, in Christo Patri Domino Thoma Cranmero Archiepiscopo Cantuarien. et regni Anglic Primati, fratri carissimo et honorando.
 
-Your friend,
+## [ranslation.] Dantiscus to Cranmer
 
-JOHN DANTISCUS, bishop of Vermein.
+IN your letter you say that the report of my death which reached you, was confirmed by the fact that you had not received a letter from me for three years. This has, I assure you, happened neither from carelessness nor forgetfulness of our mutual friendship, but in consequence of a similar report concerning yourself, which was very general among us; and of a truth, as being greatly attached to you, with much sorrow did I hear that by the command of your king you in particular, as well as many other good men, had been removed from the living, in violation of every principle of equity. Being deeply affected by it, I offered up many a prayer for the eternal blessedness of your spirit, as you had done for mine: but as in this matter such a report hath in both cases, by God's grace, turned out false, we must rejoice, and in mind, as well as by letter return to our ancient manifestation of good will. I pray you, however, to take care lest the fate of the moth should overtake you, since the times are such among you, as never before have happened in any country of the ehristian world. More I would add, did I not fear that this might do you an injury, if it were to fall into any other person's hands than your own.
 
-Cott. MSS. Cleop. £. v. fol. 111. British Museum. Original. Strype's Mem. of Abp. Cranmer, Vol. II. A pp. No. 29. ))p. 75-2-756. Ed. Oxon.
+As to what is being done among you, it would give me greater pleasure to hear it from yourself than from men who announce to us as indisputable many cireumstances which are doubtful. So many pillagings of the property of the church, cases which are beyond all bounds and innumerable, promiscuous punishments of both sexes, and, what produces more astonishment and detestation in the minds of all, so many marriages and so many divorces, in violation of every law, as well human as divine; which, although they are every where commonly reported and credited, yet I still regard as doubtful. I am somewhat however constrained to credit them from the circumstance that you, who are both archbishop and primate of your realm, nevertheless subscribe yourself as minister of your church, a title very different from that of former days. No doubt all you who are bishops are ministers of the churches; yet we ought not to abuse this title which Paul used. For he who is an overseer is not without the ministerial office, but still he is not from such a cause deprived of his peculiar calling. Moreover, we who live here under a most christian and pious king, according to Phavorinus his precept in Gellius, make use of common phraseology, and live in accordance with ancient customs, in which even yourselves amongst other men in former days lived not devoid of happiness; so also as you lately heard in what I wrote to you of the extraordinary marriage, if it is in the same manner, I should have thrown myself into extraordinary troubles. God in his mercy averts them from me. But what will be the issue amongst you some time or other of this most turbulent mischief, with his Helens so often changed, and such huge and impious ferocity, every man of sound mind can see, although the divine anger does proceed with a slow step. So far am I from wishing you any ill, that earnestly do I pray the Lord God very long to withhold it, nay more, never to exercise it upon your wealthy island, which is very dear to me from the many acts of kindness which I have received there, or upon you all, to whom I am most attached. But that relinquishing those honourabie titles, received by common usage, thus.. I am much obliged to you for causing to be so well educated the youth whom I formerly assigned to your suite in the imperial court at Ratisbon on the Danube. "When he addressed me with your message and letter, I had, I assure you, no more knowledge of his person than your other exotic, which I had never before seen, and he gave me greater pleasure because, by your aid and support, he had grown into a young man of polished manners and education; and if he does not cease to pursue the course which he has begun, as far as concerns the rest of his life, he will succeed without any
 
-To the most reverend father in Christ, master Thomas Cranmer, archbishop of Canterbury, and primate of the realm of England, my most dear and honoured brother.
+[[? Τηλοῦ φίλοι vatovres οὐκ εἰσὶν φίλοι, Athen. [6 This paragraph is in Dantiscus’ handwriting.]
+
+[v. p. 187, init. ] The commencement is much injured by damp.] 26—2]
+
+difficulty. But again and again do I thank you for having, in accordance with my commendation and the nature of the friendship that was between us, supported him so kindly and so liberally at your own expense, while he was employed in the study of literature, and for sending him back hither to me with his travelling expenses paid. From this circumstance it is very clear that Athenaus was wrong when he thought that persons who live at a distance cannot be friends τ for you who are separated from our world have been most attentive to me in the case of this youth, whose parents you only know by report; and therefore whenever it is in my power to repay the favour to you, and to be of use or aid to you or yours, I offer you my services most readily. Freely and without any fear make use of them in the events of the most perilous times, so far as the state of my fortune and power will allow, which, thanks be to God! is very comfortable; and be assured that I have a continual regard for you. Therefore if you have any affection for me, on which point I have no doubt, send back by letter a full account of your own position and the state of your affairs. This you will have no difficulty in doing, whenever you please, through the merchants of our country who live at London, and in so doing you will exceedingly oblige me. Given at our castle of Heilsberg, 1 September, 1540.
+
+Σ: c by I would also send you an account of the tenour of my life (about which we had many a conversation when we were together) and its employments, which has been printed without my consent or knowledge. I have described in it to the life the image or likeness of your friend Dantiscus, and I have done it for this reason, that you may give me information both what kind of life you are leading, and whether you lead one like that which is allotted to Paul. With us nothing is more pleasant and delightful than celibacy and an unfettered bed. I must have a joke; for while I write this I fancy that I am conversing with you, either at the table, as was our habit, or in the boat on the Danube, to which in former years you have so kindly escorted me when I was leaving Ratisbon. 1 think you will take in good part all that concerns the claims of that long-standing connexion, not to say friendship, which has obtained between us. Yours, I say, entirely.
+
+## Your friend
+
+Jonuw DanTtiscus, bishop of Vermein.
 
 Written with mine own hand.
 
-## CCLXXII. To Osiander 1
+To the most reverend father in Christ, master Thomas
 
-SALVE plurimum ! Vix tribus abhinc diebus elapsis, Osiander dilectissime, literas ad te scriptitabam, quas per subitum et festinatum tabellarii discessum coactus sum abbre viate, imo abrumpere plane, praatermisso eo, quod et tune quam maxime scriptum volui, et nunc otii plusculum nactus, nescio quam nervose, verbose certe decrevi pertractare. Res est, nt mihi quidem videtur, non parva, neque leniter animadvertenda, ut qua* ad omnium evangelicam veritatem profitentium sugillationem, ne dicam ignominiam et culpam manifesto pertineat. Proinde te rogo, ut et scriptum hoc meum legas attente, et tuum vicissim responsum super eo conficias accurate, matureque remittas, quo h abeam tandem quod respondeam iis qui me interrogant. Nosti enim, opinor, ut soleant homines hie omnium quaa istic geruntur a me rationem exigere: alii quidem bono animo, et communis evangelicse causae studio soliciti, nequid a vobis fieret secus quam oporteret ; aliis autem malus est animus, mala mens. Nihil magis cupiunt, aut captant, quam ut justam aliquam vos et vestra facta dicta ve reprehendendi ansam undecunque apprehendant ; et gaudent si mihi in os subinde talia possint objicere. Quibus duobus inter se diversis hominum generibus respondeo ego persgepe, quas vel ipse comminisci possum, vel qure ex scriptis vestris, sive in publicum emissis, sive ad me privatim missis, possim colligere. Incidunt tamen perstepe nonnulla, quae nee negare possum, nee absque rubore fateri ; nequeo denique quo pacto a vobis honeste aut pie fieri doceantur, rationem ullam saltern excogitare sufficientem. Nam ut interim de usuris taceam, a vobis aut vestrum certe nonnullis (ut apparet) approbatis, deque eo, quod magnatum filiis concubinas habendas permittitis, (videlicet ne per nuptias legitimas hasreditates dispergantur,) qui concubinatum in sacerdotibus tantopere aversati estis : quid poterit a vobis in excusationem allegari pro eo, quod permittitis a divortio, utroque conjuge vivo, novas nuptias coire, et, quod adhuc deterius est, etiam absque divortio uni plures permittitis uxores? Id quod et tute, si recte memini, in quibusdam tuis ad me literis apud vos
+Cranmer, archbishop of Canterbury, and primate of
 
-P This letter is headed, '• Doctissimo Andree Osiandro Concionatori Xtiorenbergensi," in a more modern hand.] factum discrte expressisti, addens Philippum* ipsum sponsalibus posterioribus, ut paranymplmm credo atque auspicem, interfuisse.
+the realm of England, my most dear and honoured
 
-Qua? ambo turn ipsius conjugii ratioiii, qua3 non duo, sed imam carnem facit, turn etiam scripturis sunt expresse et manifesto contraria: ut patet Matth. xix., Mark x., Luke xvi., Rom vii., 1 Cor. vii. Quibus locis perspicuum fit, ex apostolorum, atque adeo Christ! ipsius, institution, unum uni debere matrimonio conjungi; ncc posse sic conjunctos postea, nisi interveniente morte alterutrius, denuo contrahere. Quod si responderitis, hoc intelligi excepta causa fornicationis ; an uxoris adulterium fuerit causa cur Philippus marito permiserit aliam superducere, vos melius nostis. Quod si fuerit, tune objiciemus, ab ineunte hucusque ecclesia (cujus exemplis oportet scripturarum interpretationes conformari confirmarique) nunquam, quod scimus, hoc sic fuisse acceptum. Augustinus, qui/1 ipse de hoc senserit, imo quid ecclesia ante ipsum et usque ad ipsum, clare docet, Li. De adulterinis conjugiis, Ad PoUentium. Quid igitur ad ha?c dicetis, libenter vellem audire abs te quidem, si et ipse in eadem cum cetcris es sententia : sin minus, per te saltern vellem cognoscere, quid ab illis exploraveris ad talia responsum iri. Nam quum eorum nonnulli, ut audio, statuta nostra parlamentalia censorie minis ac superciliose condemnent, quorum tamen gravissimas justissimasque causas ac rationes ignorant ; mirum est quod interim ipsi non advertant apud ipsos plurima designari, qua; optimis atque gravissimis viris jure optimo displiceant. Scire atque aveo, an ista tanquam honesta, et promiscue quibusvis licita, ac evangelic^ veritati non repugnantia defendant; an secundum indulgentiam (ut dixit Apostolus) ad ea, dum a quibusdam fiunt, connivent, nequid gravius contingat, non idem omnibus itidemque perrnissuri. Illud prius haud equidem credo illos esse facturos, nisi legis Mahometans potius quam Christianas assertores videri voluerint. Posterius hoc si faciunt, videant quomodo permittant, qua3 Christus, Apostoli, Evangelists, atque adeo totius ecclesia? consensus districte ab initio hue usque prohibuit.
+brother.
 
-Quod si forte dixerint, ea jam quoque tolerari posse, eo quod ante Christum natum fuerunt vel approbata vel tolerata ; tune enimvero causam nobis reddant, cur non et cetera toleremus, quascunque tune legimus pari jure usitata; aut definiant qusnam liujus generis, ac quatenus erunt admittenda. Nam in veteri Testamento expressum habemus, olim patrem concubuisse cum filiabus, ut Loth ; socerum cum nuru, ut Judam ; patrem familias, nempe Abraham, cum ancilla pellice, conscia uxore atque etiam id ultro suadente, nempe Sara; cundcm ipsum uxorem suam, adhuc juvenculam ac formosam sororem nominasse, eamque regibus, Pharaoni et Abimelech, ultro in concubinam permisisse ; prrcterea, unum ssepe hominem plures habuisse uxores, ut Jacob et Moscn ipsum, legis latorern a Deo constitutum : postremo, principes multos, eosque nee illaudatos, prater uxorum numerosa contubernia, concubinarum etiam greges aluisse, ut Davidem, Solomonem, etc. Nee Assuero vitio datur, quod singulis pasne noctibus concubinam novam asciverit. Et Hester foemina laudatissima, utpote quam ad salutem populi sui Deus excitavit, quum esset Judaea et legi Mosaics? obnoxia, Assueri rcgis cubiculum ante nuptias intravit. Quid pluribus opus, quum gravissimi atictores Ambrosius et Augustinus disertis verbis affirment, hie polygamiam, ille concubinatum, peccato turn caruisse, quando nee contra morem nee contra prsceptum fierent ; qua? mine et legibus et moribus pronuntiant esse contraria? Talia, inquam, constat apud veteres fuisse usitata, nee a bonis quidem viris tune temporis improbata. Qua? vel omnia probabunt novi isti homines et rerum nova-rum introductores, vel aliqua, vel nulla. Quod si nulla dicant nobis, cur ista admiserunt ? Si aliqua, cur non et reliqua ? ct prrescribant nobis regulam, qua sciamus, qua? sunt admittenda, qua; vcro rejicienda. Si omnia, (in qua sententia videtur esse Bucerus,) qua?so te, qualem remm facicm quantumque a priore mutatam in ecclesia videbimus ? Quam erunt confusa, in versa, atque
+## CCLXXII. To Osiander'
 
-[2 i. e. Melancthon : he and Bucer were present at the marriage of Philip, landgrave of Hesse, who married (March 3, A.D. 1540) Margaret de Sala, during the lifetime of his first wife. Seckendorf gives an account of the circumstances connected with this marriage, whilst endeavouring to refute "Autonius de Varillas, in Hist, de Ha:res. Lib.
+## i
 
-xn. Ed. Belg. 1007, p. 87," and " Jac. Benignus Bossuetus, de variat. Eccl. Prot. anno. 1(588. Ed. Belg. Lib. vi. p. 226," and others. Comment. Hist. Apol. de Lutheran. Lib. lit. Sect. 21. §lxxix. Add. 3. pp. 277 et seqq. Vid. also Fuesslin's Epist. Reformat, pp. 11)8, 9. Ed. Tigur. 1742.]
+et nune otii plusculum nactus, nescio quam nervose, verbose certe decrevi pertractare. Res est, ut mihi quidem videtur, non parva, neque leniter animadvertenda, ut que
 
-## 406 Letters. [1540
+## 
 
-pnepostera omnia ? Sed adhuc propius urgebiinus cos, ffiterrogabimugqiie : An non tantum qua? sub lege facta sunt, sed etiam qu# ante legem ; et an non tantum qua? a Judaeis, sed et quas a gentibns fuerint usitata, veluti jure postliminii, ad exemplum rcvocabunt ? Et si ilia tantum, cur non htec aeque atque ilia ? prtesertim qua? a sanctioribus et sapientioribus viris, ut Socrate, Platone, Cicerone, etc. fuerint vel facta vel approbata. Quod si utraque concedent, concedant et nobis Britannis, more majorum nostrorum, denas duodenasque uxores habere insinuil communes, et maxime fratres cum fratribus, parcntcs cum liberis : quod aliquando in hac insula usitatum fuisse, Ca?sar, non ignobilis auctor, testatur in Commentariis. Concedant foeminis Christianis, quod Solon suis Atheniensibus conccsserat, ut qua* viros parum ad rem veneream idoneos sortitru fuissent, aliquem ex mariti propinquis impune admitterent. Concedant quod Lycurgus concessit viris LacechEmoniis, ut qui minus esset ad procreandam prolem idoneus, alteri cui vellet suam conjugem impregnandam daret, et prolem precario sibi natam, ut propriam, suo nomine nuncuparet. Aut denique quod Romanorum legibus permissum erat, ut qui satis liberorum procreasset, uxorem suam alteri commodaret prolem desideranti : id quod et Cato, vir gravissimus sapientissimusque habitus, Hortensio amico suo legitur fecisse. Talia cum probata fuerint antiquitus viris sapientissimis, ac philosopliorum legumque latorum optimis et sanctissimis, ut Platoni, Xenophonti, Catoni, etc. ; quum eadem fuerint moribus recepta Hebra?orum, Graecorum, Latinorum, (quorum populorum respublicas et ])olitias constat optime fuisse constitutas, et ab omnibus scriptoribus maxime celebratas.) age, faciamus et nos, si Deo placet, similia, et Christianis fratribus permittamus facienda. Imo Christus Opt. Max. tarn foeda tamque incestuosa connubiorum portenta a sua sancta ecclesia dignetur avertere, nunc et in diem Domini ! Amen.
+ad omnium evangelicam veritatem profitentium sugillationem, ne dicam ignominiam et culpam manifeste pertineat. Proinde te rogo, ut et scriptum hoc meum legas attente, et tuum vicissim responsum super eo conficias accurate, matureque remittas, quo habeam tandem quod respondeam iis qui me interrogant. Nosti enim, opinor, ut soleant homines hie omnium que istic geruntur a me rationem exigere: alii quidem bono animo, et communis evangelice causze studio soliciti, nequid a vobis fieret secus quam oporteret; alis autem malus est animus, mala mens. Nihil magis cupiunt, aut captant, quam ut justam aliquam vos et vestra facta dictave reprehendendi ansam undecunque apprehendant; et gaudent si mihi in os subinde talia possint objicere. Quibus duobus inter se diversis hominum generibus respondeo ego persepe, qua vel ipse comminisci possum, vel que ex scriptis vestris, sive in publicum emissis, sive ad me privatim missis, possim colligere. Incidunt tamen perszpe nonnulla, que nec negare possum, nec absque rubore fateri; nequeo denique quo pacto a vobis honeste aut pie fieri doceantur, rationem ullam saltem excogitare sufficientem. Nam ut interim de usuris taceam, a vobis aut vestrum certe nonnullis (ut apparet) approbatis, deque eo, quod magnatum filis concubinas habendas permittitis, (videlicet ne per nuptias legitimas hereditates dispergantur,) qui concubinatum in sacerdotibus tantopere aversati estis: quid poterit a vobis in excusationem allegari pro eo, quod permittitis a divortio, utroque conjuge vivo, novas nuptias coire, et, quod adhuc deterius est, etiam absque divortio uni plures permittitis uxores? Id quod et tute, si recte memini, in quibusdam tuis ad me literis apud vos
 
-Htec ego ad te potissimum, carissime Osiander, in prassentia scribenda duxi, propter earn qvue inter nos est ct jam diu fuit summa necessitudo et familiaritas ; quamvis putem, atque adeo certo sciam, te ab hujusmodi tarn absurdis et moribus et opinionibus quam alienissimum esse. Cum ceteris vestratibus doctoribus levior et minus arcta mihi intercedit amicitia ; cujus ipsius quoque (fateor) me multum posniteret, si scirem hos esse fructus novi evangelii ab ipsis tantopere jactitati, et a nobis quoque hactenus, ut putabamus, non temere aliqua ex parte probati. Bene vale. Dat. Lambeth, xxviimo.
+[- [ This letter is headed, Doctissimo Andree Osiandro Concionatori Xtiorenbergensi," in a more]
 
-Decembr. [1540.]
+[modern hand.]]
 
-Tui amantissimus,
+factum diserte expressisti, addens Philippum ipsum sponsalibus posterioribus, ut paranymphum credo atque auspicem, interfuisse.
 
-## T. Cantuarien
+Qua ambo tum ipsius conjugii rationi, qua non duo, sed unam carnem facit, tum etiam scripturis sunt expresse et manifeste contraria: ut patet Matth. xix., Mark x., Luke xvi, Rom vii, 1 Cor. vii. Quibus locis perspicuum fit, ex apostolorum, atque adeo Christi ipsius, institutione, unum uni debere matrimonio conjungi; nec posse sic conjunctos postea, nisi interveniente morte alterutrius, denuo contrahere. Quod si responderitis, hoc intelligi excepta causa fornicationis; an uxoris adulterium fuerit causa eur Philippus marito permiserit aliam superducere, vos melius nostis. Quod si fuerit, tune objiciemus, ab ineunte hucusque ecclesia (cujus exemplis oportet scripturarum interpretationes conformari confirmarique) nunquam, quod scimus, hoc sic fuisse acceptum. Augustinus, quid ipse de hoc senserit, imo quid ecclesia ante ipsum et usque ad ipsum, clare docet, Li. De adulterinis conjugis, Ad Pollentium. Quid igitur ad hzc dicetis, libenter vellem audire abs te quidem, si et ipse in eadem cum ceteris es sententia: sin minus, per te saltem vellem cognoscere, quid ab illis exploraveris ad talia responsum iri. Nam quum eorum nonnulli, ut audio, statuta nostra parlamentalia censorie nimis ac superciliose condemnent, quorum tamen gravissimas justissimasque causas ac rationes ignorant; mirum est quod interim ipsi non advertant apud ipsos plurima designari, que optimis atque gravissimis viris jure optimo displiceant. Scire atque aveo, an ista tanquam honesta, et promiscue quibusvis licita, ac evangelicae veritati non repugnantia defendant; an secundum indulgentiam (ut dixit Apostolus) ad ea, dum a quibusdam fiunt, connivent, nequid gravius contingat, non idem omnibus itidemque permissuri. Illud prius haud equidem credo illos esse facturos, nisi legis Mahometans potius quam Christians assertores videri voluerint. — Posterius hoc si faciunt, videant quomodo permittant, qua Christus, Apostoli, Evangelist:e, atque adeo totius ecclesi: consensus districte ab initio huc usque prohibuit.
 
-To the most learned master Andrew Osiander, preacher of Nurernburg.
+Quod si forte dixerint, ea jam quoque tolerari posse, eo quod ante Christum natum fuerunt vel approbata vel tolerata; tunc enimvero causam nobis reddant, cur non et cetera toleremus, quaecunque tunc legimus pari jure usitata; aut definiant quanam hujus generis, ac quatenus erunt admittenda. Nam in veteri Testamento expressum habemus, olim patrem concubuisse cum filiabus, ut Loth; socerum cum nuru, ut Judam; patrem familias, nempe Abraham, cum ancilla pellice, conscia uxore atque etiam id ultro suadente, nempe Sara; eundem ipsum uxorem suam, adhuc juvenculam ac formosam, sororem nominasse, eamque regibus, Pharaoni et Abimelech, ultro in concubinam permisisse; preterea, unum sepe hominem plures habuisse uxores, ut Jacob et Mosen ipsum, legis latorem a Deo constitutum: postremo, principes multos, eosque nec illaudatos, preter uxorum numerosa contubernia, concubinarum etiam greges aluisse, ut Davidem, Solomonem, ete. Nec Assuero vitio datur, quod singulis pane noctibus concubinam novam asciverit. Et Hester foemina laudatissima, utpote quam ad salutem populi sui Deus excitavit, quum esset Judea et legi Mosaic obnoxia, Assueri regis cubiculum ante nuptias intravit. Quid pluribus opus, quum gravissimi auctores Ambrosius et Augustinus disertis verbis affirment, hic polygamiam, ille concubinatum, peccato tum caruisse, quando nec contra morem nec contra preceptum firent; quee nunc et legibus et moribus pronuntiant esse contraria? Talia, inquam, constat apud veteres fuisse usitata, nec a bonis quidem viris tunc temporis improbata. Qus vel omnia probabunt novi isti homines et rerum novarum introductores, vel aliqua, vel nulla. Quod si nulla dicant nobis, cur ista admiserunt? Si aliqua, cur non et reliqua? et preseribant nobis regulam, qua sciamus, quae sunt admittenda, qua vero rejicienda. Si omnia, (in qua sententia videtur esse Bucerus,) queso te, qualem rerum faciem quantumque a priore mutatam in ecclesia videbimus? Quam erunt confusa, inversa, atque
 
-~M Y right hearty salutations. Scarcely three days have elapsed, my most beloved Osiander, since I was writing a letter to you, which by the sudden and hurried departure of the letter-carrier I was compelled to shorten, or rather to end very abruptly, without mentioning that which I then most wished to have written, and now, having a little leisure, I have decided to treat it throughout, I know not with what power, but at all events at full length. The subject, as of a truth it seems to me, is neither one of trifling import, nor to be commented on lightly, as it is one which is evidently connected with a lasting stain, not to say disgrace and accusation, of those who profess the truth of the gospel. Wherefore I beg you both attentively to peruse this letter of mine, and to compose carefully your answer with reference to it, and also to send it early, that I may have somewhat at length to answer to those who inquire of me. For you are aware, I suppose, that men here are in the habit of requiring from me an account of all that is doing in those parts ; some, no doubt, with the best feelings, and from anxiety in behalf of the cause of our common gospel, that nothing may be done by you which is not becoming ; while others have malicious feelings and dispositions. They long for and catch at nothing so much as to discover, no matter from what cause, some suitable handle for blaming you and your doings or sayings; and glad they are if in consequence they can cast such things in my teeth. " To these two classes of men, widely differing one from the other, I very frequently reply either from my own imaginings, or from what I can infer from your writings, whether published or sent to me privately. Nevertheless some things are frequently occurring, which I can neither deny, nor can I admit them without shame ; nor lastly am I able to imagine any sufficient reason by which they may be shewn to have been done consistently with honour or piety. For, not to say a word at the present time on usury, which it is clear is approved by you, or at all events some of you, or concerning the fact that you allow the so'ns of your nobles to have concubines (with a view, doubtless, to prevent the breaking up of inheritances through lawful marriages), and yet you are so strongly opposed to priests having concubines ; leaving this out of the question, what can possibly be alleged in your excuse when you allow a man after a divorce, while both man and woman are living, to contract a fresh marriage, and, what is still worse, even without a divorce you allow one man to have several wives ? And this you yourself, if I remember right, in some of your letters expressly declared to have been done ; adding thereto that Philip himself was present at a second marriage, acting as, I believe, a bridesman, and taking it under his countenance.
+[[? i. e. Melancthon: he and Bucer were present xir. Ed. Belg. 1687, p. 87,” and Jac. Benignus]
 
-These two things are expressly and undeniably contrary both to the nature of marriage, which docs not make two but one rlesh, as well as also to the scriptures, as will be seen from Matthew xix., Mark x., Luke xvi., Romans vii.; 1 Cor. vii. : from which passages it is clear that, according to the institution of the apostles, and therefore of Christ himself, one person ought to be joined in matrimony with one person, and that persons so joined together cannot again contract marriage until the death of one of the parties shall have happened. But if your reply is, that we must understand it in such a sense as to except the case of fornica tion ; I ask, whether adultery on the part of the wife was the reason why Philip allowed the husband to marry a second wife in addition to the first? You know better than I. But even if it were so, we shall then object that from the origin of the church up to this hour, (and according to examples in it interpretations of the scriptures must be conformed and by them confirmed,) at no time, as far as we know, has this been so received. Augustine clearly shews what were his own sentiments on the point; nay, more, what were those of the church before and up to his own days, in his book De adulterinis Conjugiis, addressed to Pollentius. I am very desirous of hearing from yourself, if you also are of the same opinion with the rest, what answer you make to this ; but if you differ from them, at all events I am anxious to learn from you, what answer you have found to be given by them to similar objections. And since some of them, as 1 hear, too captiously and superciliously condemn the statutes of our parliament, of which, howbeit, they are ignorant of the most weighty and satisfactory causes and reasons ; it is astonishing that at the same time they are not aware that very many thing-s among themselves are pointed out as displeasing, for the very best reasons, to men who are the best and whose judgment is most weighty. I am also anxious to know whether they would defend these things as honourable and allowable for every person without distinction, and as not contrary to the truth of the gospel; or whether according to indulgence (as the apostle saith), without any intention to make the same allowance and in the same way to all, they connive at these things while they are done by certain parties, lest a worse evil should happen. The first I do not verily believe they would do, unless they are anxious to appear as the supporters of the law of Mahomet rather than Christianity. If they do the latter, let them beware how they allow what Christ, the apostles, evangelists, and moreover, the consent of the whole church, from its commencement up to this day, hath straitly forbidden.
+[at the marriage of Philip, landgrave of Hesse, who Bossuetus, de variat. Eccl. Prot. anno. 1688. Ed.]
 
-But perchance they affirm, that these things may even now be endured, because they were approved or tolerated before the birth of Christ : then truly let them give a reason why they do not allow also the other things which in those times we read were equally allowed and customary ; or let them define which are of this class, and how far they are to be admitted. For in the old Testament we find it written that a father formerly lay with his daughters, as Lot ; that a father-in-law with his daughter-in-law, as Judah ; that the master of a house, namely, Abraham, had his maid as a concubine, his wife knowing it, and even of her own accord advising it, namely, Sarah ; and that this same man called his wife, when still young and beautiful, his sister, and allowed her willingly for concubinage to the kings Pharaoh and Abimelech : added to this, that one man often had several wives, as Jacob, and Moses, who was appointed a legislator by God ; lastly, that many princes, and these such as were not without commendation, besides numberless societies of wives, supported also companies of concubines, as David, Solomon, &c. Nor is it laid to the charge of Ahasuerus that almost every night he had a fresh concubine ; and Esther, a woman most commended, as one whom God raised up for the safety of his people, though she was a Jewess and subject to the Mosaic law, yet before marriage entered the bed of king Ahasuerus. What need is there of more, since those most weighty autho rities, Ambrose and Augustine, expressly declare, the one that polygamy, the other that concubinage, was then without sin, because they were done neither contrary to custom nor precept ; and yet they proclaim these things now to be contrary both to law and morals ? Such things, I say, are well known to have been usual among the ancients, nor were they disapproved even by good men in those days. Which of these, all of them, any, or none, will these novel-men and introducers of novelties approve ? If they say to us, none, why then have they allowed these ? If they reply, some, why not also the rest ? And let them appoint us a rule by which we may know which are to be allowed, or which to be rejected. If all (in which opinion Bucer seems to be), I pray you what a face of things and how changed from the former shall we see in the church ! How confused, overturned, and preposterous will all things be ! But we will press them still closer, and inquire whether they will recal for example, not merely such things as were done under the law, but even such as before the law ; and again, whether not merely such things as were done by Jews, but also such as were common to Gentiles, as it were by the right of restoration. And if they merely allow the one, why not the other, especially such as have either been done or commended by the more holy and wise men, as Socrates, Plato, Cicero, &c. ? And if they allow both, let them grant also to us Britons, after the manner of our ancestors, to have ten or twelve wives together in common, and especially brothers with brothers, parents with their children ; which Cajsar, no mean authority, testifies in his Commentaries to have been customary at one time in this island. Let them grant to Christian women that which Solon granted to his Athenians, that they who had husbands ill suited for family life, should receive without blame some one of their husband's relatives. Let them grant that which Lycurgus granted to the Lacedaemonian men, that any man who was unable to beget children, might deliver his wife for the purpose to any whom he pleased, and call by his own name as his own the children so doubtfully born to him. Or lastly, that which was allowed by the laws of the Romans, that he who had begotten enough children should lend his wife to another that desired offspring; which thing even Cato, a man esteemed most strict and wise, is written to have done to his friend Hortensius. Since such things have received the approbation in ancient times of men the most wise, and the best and most holy of philosophers and legislators, as Plato, Xenophon and Cato, &c. ; since they have been the received practices of the Hebrews, Greeks and Latins, (which people we know have had states and governments the best constituted and most admired by all writers,) well, let us, if it please God, both dp such things and allow them to be done by the Christian brethren ! Rather, may Christ the great God deign to avert from his holy church such foul, incestuous and portentous marriages, both now and unto the day of the Lord ! Amen.
+[married (March 3, A.D. 1540) Margaret de Sala, Belg. Lib. νι. p. 226," and others. Comment. Hist.]
 
-I have thought it, my dearest Osiandcr, specially becoming that I should write thus to you at the present time, because of that close connexion and friendship which is between us, and has long subsisted,
+[during the lifetime of his first wife. Seckendorf Apol. de Lutheran. Lib. rir. Sect. 21. SIxxix. Add.]
 
-although I think, nay more, I know for a certainty, that you are most opposed to such absurd morals and opinions. With the rest of your doctors my intimacy is of a lighter character and less close ; and even of this I should not a little repent, if I knew that such were the fruits of the new gospel so greatly vaunted by them, and approved by us up to this time, in some measure, as we thought, not without reason. Farewell. Given at Lambeth, xxvii. Dec.
+[gives an account of the circumstances connected 3. pp. 277 et seqq. Vid. also Fuesslin's Epist. Re-]
 
-Your most affectionate,
+[with this marriage, whilst endeavouring to refute format. pp. 198, 9. Ed. Tigur. 1742.]]
 
-## T. Caxtuarikn
+[Antonius de Varillas, in Hist. de Hares. Lib.]
 
-## CCLXXIII. To King Henry VIII
+prepostera omnia? Sed adhuc propius urgebimus eos, interrogabimusque: An non tantum qua sub lege facta sunt, sed etiam que ante legem; et an non tantum quz a Judeis, sed et qua a gentibus fuerint usitata, veluti jure postliminii, ad exemplum revocabunt? Et si illa tantum, cur non hzc zque atque illa? presertim quz a sanctioribus et sapientioribus viris, ut Socrate, Platone, Cicerone, etc. fuerint vel facta vel approbata. Quod si utraque concedent, concedant et nobis Britannis, more majorum nostrorum, denas duodenasque uxores habere insimul communes, et maxime fratres cum fratribus, parentes cum liberis: quod aliquando in hac insula usitatum fuisse, Cesar, non ignobilis auctor, testatur in Commentariis. Concedant foeminis Christianis, quod Solon suis Atheniensibus concesserat, ut que viros parum ad rem veneream idoneos sortitz fuissent, aliquem ex mariti propinquis impune admitterent. Concedant quod Lycurgus concessit viris Laced@moniis, ut qui minus esset ad procreandam prolem idoneus, alteri cui vellet suam conjugem impregnandam daret, et prolem precario sibi natam, ut propriam, suo nomine nuncuparet, Aut denique quod Romanorum legibus permissum erat, ut qui satis liberorum procreasset, uxorem suam alteri commodaret prolem desideranti: id quod et Cato, vir gravissimus sapientissimusque habitus, Hortensio amico suo legitur fecisse. Talia cum probata fuerint antiquitus viris sapientissimis, ac philosophorum legumque latorum optimis et sanctissimis, ut Platoni, Xenophonti, Catoni, etc.; quum eadem fuerint moribus recepta Hebraorum, Graecorum, Latinorum, (quorum populorum respublicas et politias constat optime fuisse constitutas, et ab omnibus scriptoribus maxime celebratas,) age, faciamus et nos, si Deo placet, similia, et Christianis fratribus permittamus facienda. Imo Christus Opt. Max. tam foeda tamque incestuosa connubiorum portenta a sua sancta ecclesia dignetur avertere, nunc et in diem Domini! Amen.
 
-LettcLx may P'easc y°ur majesty to understand, that at my repair unto the queen's grace ' er ^n sucn lamentation and heaviness, as I never saw no creature ; so that it would nave pitied any man's heart in the world to have looked upon her: and in that ho]) h vehement rage she continued, as they informed me which be about her, from my departure state Papers, from her unto my return again; and then I found her, as I do suppose, far entered . toward a frenzy, which I feared before my departure from her at my first being with her : and surely, if your grace's comfort had not come in time, she could have continued no long time in that condition without a frenzy, which, nevertheless, I do yet much suspect to follow hereafter.
+Hzc ego ad te potissimum, carissime Osiander, in presentia scribenda duxi, propter cam quz inter nos est et jam diu fuit summa necessitudo et familiaritas; quamvis putem, atque adeo certo sciam, te ab hujusmodi tam absurdis et moribus et opinionibus quam alienissimum esse. Cum ceteris vestratibus doctoribus levior et minus arcta mihi intercedit amicitia; cujusipsius quoque (fateor) me multum peeniteret, si scirem hos esse fructus novi evangelii ab ipsis tantopere jactitati, et a nobis quoque hactenus, ut putabamus, non temere aliqua ex parte probati. Bene vale. Dat. Lambeth, xxviimo. Decembr. [1540.]
 
-And as for my message from your majesty unto her, I was purposed to enter com munication in this wise ; first, to exaggerate the grievousness of her demerits ; then to declare unto her the justice of your grace's laws, and what she ought to suffer by the same ; and last of all to signify unto her your most gracious mercy : but when I saw in what condition she was, I was fain to turn my purpose, and to begin at the last part first, to comfort her by your grace's benignity and mercy ; for else the recital of your grace's laws, with the aggravation of her offences, might peradventure have driven her unto some dangerous ecstasy, and else into a very frenzy ; so that the words of comfort coming last might peradventure have come too late. And after I had declared your grace's mercy extended unto her, she held up her hands and gave most humble thanks unto your majesty, who had shewed unto her more grace and mercy than she herself thought meet to sue for or could have hoped of; and then, for a time, she began to be more temperate and quiet, saving that she still sobbed and wept ; but after a little pausing she suddenly fell into a new rage, much worse than she was before.
+## Tui amantissimus, Cantuarien. [translation.]
 
-Now I do use her thus : when I do see her in any such extreme braids, I do travail with her to know the cause, and then, as much as I can, I do labour to take away, or at the least to mitigate the cause ; and so I did at that time. I told her there was some new fantasy come into her head, which I desired her to open unto me ; and after a certain time, when she had recovered herself that she might speak, she cried and said : " Alas, my lord, that I am alive ! the fear of death grieved me not so much before, as doth now the remembrance of the king's goodness : for when I remember how gracious and loving a prince I had, I cannot but sorrow; but this sudden mercy, and more than I could have looked for, shewed unto me, so unworthy, at this time, maketh mine offences to appear before mine eyes much more heinous than they did before : and the more I consider the greatness of his mercy, the more I do sorrow in my heart that I should so
+[To the most learned master Andrew Osiander, preacher of Nuremburg.]
 
-[* i.e. Catharine Howard. Cranmer had been the means of discovering the character of his queen to the king. Vid. Burnet's Hist, of Reformat. Vol. I. pp. 624, 5. Ed. Oxon. 182'J. " Upon the subject of her crimes, the queen was spoken withal in it by the archbishop of Canterbury, the lord chancellor, the duke of Norfolk, the lord great chamberlain of England, and the bishop of Winchester; to whom at the first she constantly denied it ; but the matter being so declared unto her, that she perceived it to be wholly disclosed, the same night she disclosed the whole to the archbishop of Canterbury, who took the confession of the same in writing, sub scribed with her hand." Rennet's Hist, of Eng land, Vol. II. ; lord Herbert's Life of Hen. VIII. p. 534. Ed. Lond. 1J06. The confession here spoken of is probably that which Catharine Howard signed, and which is printed by Burnet, Hist, of Reformat. Vol. III. Part 11. pp. 230—233. The queen, and lady Rochford, who had been the chief cause of Anne Boleyn's and her husband's death, were beheaded on Tower Hill, Feb. 12, A. D. 1542. Dereham and Culpeper suffered for their participa tion in her crime, Dec. 10, A.T). 1541. Id. Vol. I. pp. 625, 62J. Vid. also Letters in State Papers, Part ir. pp. 689 et sqq.] misorder myself against his majesty." And for anything that I could say unto her, she continued in a great pang a long while; but after that she began something to remit her rage and come to herself, she was meetly well until night, and I had very good com munication with her, and, as I thought, had brought her unto a great quietness.
+[My right hearty salutations. Scarcely three days have elapsed, my most beloved Osiander, since I was]
 
-Nevertheless, at night, about six of the clock, she fell into another like pang, but not so outrageous as the first was ; and that was, as she shewed me, for the remembrance of the time ; for about that time, as she said, master Hennage was wont to bring her knowledge of your grace. And because I lack time to write all things unto your majesty, I have referred other things to be opened by the mouth of this bearer, sir John Dudlay ; saving that I have sent herewith inclosed all that I can get of her concerning any communication of matrimony with Derame ; which, although it be not so much as I thought, yet I suppose, surely, it is sufficient to prove a contract, with carnal copu lation following; although she think it be no contract, as indeed the words alone be not, if carnal copulation had not followed thereof.
+[writing a letter to you, which by the sudden and hurried departure of the letter-carrier I was compelled to]
 
-The cause that master Baynton3 sent unto your majesty was partly for the declara tion of her estate, and partly because, after my departure from her, she began to excuse and to temper those things which she had spoken unto me, and set her hand thereto3; as at my coming unto your majesty I shall more fully declare by mouth : for she saith, that all that Derame did unto her was of his importune forcement, and, in a manner, violence, rather than of her free consent and will. Thus Almighty God have your majesty in his preservation and governance ! [[Nov. 1541.] From
+[shorten, or rather to end very abruptly, without mentioning that which I then most wished to have written,]
 
-Your grace's most bounden chaplain,
+[and now, having a little leisure, I have decided to treat it throughout, I know not with what power, but]
 
-T. CANTUARIEN. To the king's majesty.
+[at all events at full length. The subject, as of a truth it seems to me, is neither one of trifling import,]
 
-## Cclxxiy. To King Henry VIII
+[nor to be commented on lightly, as it is one which is evidently connected with a lasting stain, not to say]
 
-IT may please your majesty to be advertised, that yesterday the ambassador of Cleve state Paper came unto my house at Lamhith, and delivered me letters from Oslynger, vice-chancellor Domestic unto the duke of Cleve, which letters I have sent unto your majesty herewith inclosed : IMLVOMY the purport whereof, after he hath set forth my lauds and commendations like an orator, holograph, when he cometh to the substance of the matter, is nothing else but to commend unto me V^I'/P^H the cause of the lady Anne of Cleve. Which although he trustcth that I would do of CLXXVII. myself, undesircd, yet he saith that the occasion is such, that he will not omit to put pp' 71(J) 17' spurs to the horse that runneth of his own courage. When I had read the letter, and considered that no cause was expressed specially, but only in general that I should have commended the cause of the lady Anne of Cleve; although I suspected the true cause of his coming, yet I would take upon me no knowledge of any special matter, but said thus unto him : " Master ambassador, I have perused Oslynger's letters, by the which he commendcth unto rne the lady Anne of Cleve's cause ; but forasmuch as he declareth no certain cause, I trust you have some other instructions to inform me of some particular matter." Whercunto he answered, that the 'cause was, the reconciliation of your majesty unto the lady Anne of Cleve. Whereunto I answered, that I thought not a little strange, that Oslynger should think it meet for me to move a reconciliation of that matrimony, of the which I, as much as any other person, knew most just causes of divorce. And here I moved him to consider your grace's honour and the tranquillity of this realm, with the
+[disgrace and accusation, of those who profess the truth of the gospel. Wherefore I beg you both attentively]
 
-[2 It was the king's pleasure that Baynton " should attend on the queen, to have the rule and government of the whole house ; and with him the almoner [Nicholas Hethe] to be also associate." Letter from the Council to Cranmer in State Papers, Vol. I. p. 692.]
+[to peruse this letter of mine, and to compose carefully your answer with reference to it, and also to send]
 
-[3 Probably the document printed by Burnet,
+[it early, that I may have somewhat at length to answer to those who inquire of me. For you are aware, I]
 
-Hist, of Reformat. Vol. III. App. B. iii. No. 72, Part n. pp. 230 — 233. (vid. supra), which was signed by the queen, and chiefly refers to her contract of matrimony with Dereham ; but also gives positive evidence of her crime. Vid. State Papers, Vol. I. p. f)92; Kennefs Hist, of England, Vol. II.; Lord Herbert's Life of Henry VIII. p. 032.J
+[suppose, that men here are in the habit of requiring from me an account of all that is doing in those parts;]
 
-surety of your grace's succession ; and further, bow this should agree with Oslynger's opinion of me, as he writeth in his letters, that I should study to the commodity and tranquillity of this realm, if I should move your grace to receive her in matrimony, from whom your majesty was upon most just causes divorced1; whereupon might grow most uncertitude of your grace's succession, with such unquictness and trouble to this realm, as heretofore hath not been seen. And when he would have begun something, as appeared unto me, more largely to have reasoned the matter, and to grope my mind, I finished our communication in this sort : " Master ambassador, this is a matter of great importance, wherein you shall pardon me ; for I will have no communication with you therein, unless it please the king's majesty to command me. But I shall signify unto his highness your request, and thereupon you shall have an answer." Now what shall bo your majesty's pleasure that I shall do, whether that I shall make him any answer or no, and what answer it shall be, and whether I shall make a general answer to Oslynger by writing, because he writeth generally not touching this matter, or that I shall make a certain answer in this point to the ambassador by mouth, I most humbly beseech your majesty that I may be advertised ; and according thereto I shall order myself, by the grace of God : whom I beseech daily to have your majesty evennore in his protection and governance. From my manor of Lamhith, this Tuesday the 13 Januarii2. [1540-1. ]
+[some, no doubt, with the best feelings, and from anxiety in behalf of the cause of our common gospel, that]
 
-Your grace's most bounden chaplain and beadsman, To the king's majesty. THOMAS CANTUARIEN.
+[nothing may be done by you which is not becoming; while others have malicious feelings and dispositions.]
 
-[OLYSLEGEll S LETTER TO CRANMER.]
+[They long for and catch at nothing so much as to discover, no matter from what cause, some suitable]
 
-"S.\LUS et pax a Deo Patre, et Jesu Christo Domino ac Salvatore nostro. Reverendissime Prsesul at; Doinine, multis modis venerande. Quoniam singularis candor plurimorumque officiorum tuorum prsestationes multis bonis viris tarn extra quam intra hoc florentissimum regnum Anglhe, cognita atque perspecta, de tua celsitudine earn opinionem statuerunt, eandemque celsitudinem tuam ita suspicentur, ut quod ad Omnipotentis Dei ac Benedict! Filii ejus gloriam illustrandam imprimis, ac deinde ad reipublicse Christiana1, praesertim Anglicanae, tranquillitatem ac commoditatem conservandam, augendam, promovendamque quovis modo pertinere videatur, id semper singulari studio, opera, atque industria, celsitudo tua fuerit prosecuta; fieri non potest, quin in eadem spe firmiter consistamus, etiam nunc idipsum celsitu dinem tuam pro sua virili curaturam. Itaque, quantum plurimum possumus, celsitudinem tuam flagitanms, uti causam illustrissimae Dominse Anna?, sororis Principis nostri, pro rei commoditate sibi quam commendatissimam habere non gravatim velit. Et quamvis existimemus idipsum celsitudinem tuam sine nostra interpellatione a?que facturam, noltii tamen committere, quin, pro hujus temporis occasione, hoc calcar equo sponte currenti admoverem. Et oro Dominum nostrum Jesum Christum, ut gratiam suam alioqui plus satis infusam in celsitudinem tuam augere, ac diu incolumem servare dignetur. Datum Duysseldorpii, prid ie Calendas Decembris, 1541.
+[handle for blaming you and your doings or sayings; and glad they are if in consequence they can cast such]
 
-" Ejusdem celsitudinis tute addictissimus,
+[things in my teeth. To these two classes of men, widely differing one from the other, I very frequently]
 
-" HKNR. OLISL. Doct. " Vicecancellarius Clevensis.
+[reply either from my own imaginings, or from what I can infer from your writings, whether published]
 
-" Reverendissinw Pr&suli ac Domino, plurimisque dotibus inxigni, Domino Thoniff, per Dei gratiam archiepiscopo Cantuariensi, ac per regnum, Anglia primario prccsidi, Domino plurimum venerabili."
+[or sent to me privately. Nevertheless some things are frequently occurring, which I can neither deny, nor]
 
-[l Vid. the judgment of the convocation for annulling of the marriage with Anne of Cleves. Burnet's Hist, of Reformat. Vol. I. App. B. iii. No. 19, pp. 308—312, and in State Papers, Vol. I. Part n. No. CXXXVI1I. pp. 629—635, where the signa tures of the members are added, as well as Hen. VIII. 's declaration of the causes of the separation.]
+[can I admit them without shame; nor lastly am I able to imagine any sufficient reason by which they may be]
 
-[2 " This date is manifestly erroneous, for the 13th of January did not fall on a Tuesday between 1540, when the king was recently married to Anne of Cleves, and 1545, when he was the husband of Catharine Parr. There can be little doubt that January is written by mistake instead of December, for the 13th of December, 1541, was Tuesday; and this supposition makes this letter coincide with lord Southampton's of the preceding day, which, from the other circumstances adverted to in it, is fixed beyond dispute to that month and year." Note to State Papers, Vol. I. p. 7\7. " This morning [12 Dec.] the ambassador of Cleves was here at my house, and advertised me, that he hath letters of credence to your highness from the duke his master, with two other letters ; the one addressed to my lord of Canterbury from Olisleger, the other from the said duke to my lord great master ; and hath also delivered letters to me from the same Olisleger." Lord Southampton then proceeds to give an account of the ambassador's conversation ; which was to the same effect as that which is zelated by Cranmer. Letter from the earl of Southampton to king Henry VIII. in State Papers, Vol. I. Part n. Letter CLXXVI. p. 714.]
+[shewn to have been done consistently with honour or piety. For, not to say a word at the present time on]
 
-HEALTH and peace from God the Father and Jesus Christ our Lord and Saviour ! Most reverend prelate and lord, in many ways honourable. Since your special purity and your very many kind atten tions shewn to many good men beyond the bounds of, as well as within, the most flourishing realm of England, are known and understood ; and have established this opinion of your highness, and they so regard tbe Mine your highness, that your highness has followed out with special earnestness, labour and industry, at all times such things above all as appear in any way to concern the setting forth of the glory of Almighty God and his blessed Son, and secondly the preservation, increase and advancement, of the peace and advan - tage of the Christian commonweal, especially that of England ; it is therefore impossible but that we should rest strongly on the same hope that even now your highness will attend to the same thing, to the extent of your power. Therefore as earnestly as is in our power we beg of your highness, that it would not be disin clined to regard as most warmly commended according to the soundness of the cause the case of our most illustrious lady Anne, the sister of our prince. And although we feel that your highness would no less do it without (Air interference, I was however unwilling to omit the application in this suitable time of a spur to the willing horse. And I pray our Lord Jesus Christ to increase his grace in other points more than enough poured into your highness, and long to preserve you. Given at Dusseldorf, 30 Nov. 1541.
+[usury, which it is clear is approved by you, or at all events some of you, or concerning the fact that you allow]
 
-The same your highness' most devoted
+[the sons of your nobles to have concubines (with a view, doubtless, to prevent the breaking up of inheritances]
 
-## Henry Olisleoer, D.d
+[through lawful marriages), and yet you are so strongly opposed to priests having concubines; leaving this out]
+
+[of the question, what can possibly be alleged in your excuse when you allow a man after a divorce, while both]
+
+[man and woman are living, to contract a fresh marriage, and, what is still worse, even without a divorce you]
+
+[allow one man to have several wives? And this you yourself, if I remember right, in some of your letters]
+
+[expressly declared to have been done; adding thereto that Philip himself was present at a second marriage,]
+
+[acting as, I believe, a bridesman, and taking it under his countenance.]
+
+1540.] LETTERS. 407 δ: These two things are expressly and undeniably contrary both to the nature of marriage, which does not make two but one flesh, as well as also to the scriptures, as will be seen from Matthew xix., Mark x., Luke xvi., Romans vii.; 1 Cor. vii.: from which passages it is clear that, according to the institution of the apostles, and therefore of Christ himself, one person ought to be joined in matrimony with one person, and that persons so joined together cannot again contract marriage until the death of one of the parties shall have happened. But if your reply is, that we must understand it in such a sense as to except the case of fornication; I ask, whether adultery on the part of the wife was the reason why Philip allowed the husband to marry a second wife in addition to the first? You know better than I. But even if it were so, we shall then object that from the origin of the church up to this hour, (and according to examples in it interpretations of the seriptures must be conformed and by them confirmed,) at no time, as far as we know, has this been so received. Augustine clearly shews what were his own sentiments on the point; nay, more, what were those of the church before and up to his own days, in his book De adulterinis Conjugiis, addressed to Pollentius 1 am very desirous of hearing from yourself, if you also are of the same opinion with the rest, what answer you make to this; but if you differ from them, at all events I am anxious to learn from you, what answer you have found to be given by them to similar objections. And since some of them, as 1 hear, too captiously and superciliously condémn the statutes of our parliament, of which, howbeit, they are ignorant of the most weighty and satisfactory causes and reasons; it is astonishing that at the same time they are not aware that very many things among themselves are pointed out as displeasing, for the very best reasons, to men who are the best and whose judgment is most weighty. I am also anxious to know whether they would defend these things as honourable and allowable for every person without distinction, and as not contrary to the truth of the gospel; or whether according to indulgence (as the apostle saith), without any intention to make the same allowance and in the same way to all, they connive at these things while they are done by certain parties, lest a worse evil should happen. The first I do not verily believe they would do, unless they are anxious to appear as the supporters of the law of Mahomet rather than Christianity. If they do the latter, let them beware how they allow what Christ, the apostles, evangelists, and moreover, the consent of the whole church, from its commencement up to this day, hath straitly forbidden.
+
+But perchance they affirm, that these things may even now be endured, because they were approved or tolerated before the birth of Christ: then truly let them give a reason why they do not allow also the other things which in those times we read were equally allowed and customary; or let them define which are of this class, and how far they are to be admitted. For in the old Testament we find it written that a father formerly lay with his daughters, as Lot; that a father-in-law with his daughter-in-law, as Judah; that the master of a house, namely, Abraham, had his maid as a concubine, his wife knowing it, and even of her own accord advising it, namely, Sarah; and that this same man called his wife, when still young and beautiful, his sister, and allowed her willingly for concubinage to the kings Pharaoh and Abimelech: added to this, that one man often had several wives, as Jacob, and Moses, who was appointed a legislator by God; lastly, that many princes, and these such as were not without commendation, besides numberless societies of wives, supported also companies of concubines, as David, Solomon, &ec. Nor is it laid to the charge of Ahasuerus that almost every night he had a fresh concubine; and Esther, a woman most commended, as one whom God raised up for the safety of his people, though she was a Jewess and subject to the Mosaic law, yet before marriage entered the bed of king Ahasuerus. What need is there of more, since those most weighty authorities, Ambrose and Augustine, expressly declare, the one that polygamy, the other that concubinage, was then without sin, because they were done neither contrary to custom nor precept; and yet they proclaim these things now to be contrary both to law and morals? Such things, I say, are well known to have been usual among the ancients, nor were they disapproved even by good men in those days. Which of these, all of them, any, or none, will these novel-men and introducers of novelties approve? If they say to us, none, why then have they allowed these? If they reply, some, why not also the rest? And let them appoint us a rule by which we may know which are to be allowed, or which to be rejected. If all (in which opinion Bucer seems to be), I pray you what a face of things and how changed from the former shall we see in the church! How confused, overturned, and preposterous will all things be! But we will press them still closer, and inquire whether they will recal for example, not merely such things as were done under the law, but even such as before the law; and again, whether not merely such things as were done by Jews, but also such as were common to Gentiles, as it were by the right of restoration. And if they merely allow the one, why not the other, especially such as have either been done or commended by the more holy and wise men, as Socrates, Plato, Cicero, &c.? And if they allow both, let them grant also to us Britons, after the manner of our ancestors, to have ten or twelve wives together in common, and especially brothers with brothers, parents with their children; which Cesar, no mean authority, testifies in his Commentaries to have been customary at one time in this island. Let them grant to christian women that which Solon granted to his Athenians, that they who had husbands ill suited for family life, should receive without blame some one of their husband's relatives. Let them grant that which Lycurgus granted to the Lacedzemonian men, that any man who was unable to beget children, might deliver his wife for the purpose to any whom he pleased, and call by his own name as his own the children so doubtfully born to him. Or lastly, that which was allowed by the laws of the Romans, that he who had begotten enough children should lend his wife to another that desired offspring; which thing even Cato, a man esteemed most strict and wise, is written to have done to his friend Hortensius. Since such things have received the approbation in ancient times of men the most wise, and the best and most holy of philosophers and legislators, as Plato, Xenophon and Cato, &c.; since they have been the received practices of the Hebrews, Greeks and Latins, (which people we know have had states and governments the best constituted and most admired by all writers,) well, let us, if it please God, both do such things and allow them to be done by the christian brethren! Rather, may Christ the great God deign to avert from his holy church such foul, incestuous and portentous marriages, both now and unto the day of the Lord! Amen.
+
+l have thought it, my dearest Osiander, specially becoming that I should write thus to you at the present time, because of that close connexion and friendship which is between us, and has long subsisted,
+
+although I think, nay more, I know for a certainty, that you are most opposed to such absurd morals and opinions. With the rest of your doctors my intimacy is of a lighter character and less close; and even of this I should not a little repent, if I knew that such were the fruits of the new gospel so greatly vaunted by them, and approved by us up to this time, in some measure, as we thought, not without reason. Farewell. Given at Lambeth, xxvii. Dec.
+
+## Your most affectionate, Cantuarien. CCLXXIII. To King Henry VIII
+
+Ir may please your majesty to understand, that at my repair unto the queen's grace I found her in such lamentation and heaviness, as I never saw no creature; so that it would have pitied any man's heart in the world to have looked upon her: and in that vehement rage she continued, as they informed me which be about her, from my departure from her unto my return again; and then I found her, as I do suppose, far entered toward a frenzy, which I feared before my departure from her at my first being with her: and surely, if your grace's comfort had not come in time, she could have continued no long time in that condition without a frenzy, which, nevertheless, I do yet much suspect to follow hereafter.
+
+And as for my message from your majesty unto her, I was purposed to enter communication in this wise; first, to exaggerate the grievousness of her demerits; then to declare unto her the justice of your grace's laws, and what she ought to suffer by the same; and last of all to signify unto her your most gracious mercy: but when I saw in what condition she was, I was fain to turn my purpose, and to begin at the last part first, to comfort her by your grace's benignity and mercy; for else the recital of your grace's laws, with the aggravation of her offences, might peradventure have driven her unto some dangerous ecstasy, and else into a very frenzy; so that the words of comfort coming last might peradventure have come too late. And after I had declared your grace's mercy extended unto her, she held up her hands and gave most humble thanks unto your majesty, who had shewed unto her more grace and mercy than she herself thought meet to sue for or could have hoped of; and then, for a time, she began to be more temperate and quiet, saving that she still sobbed and wept; but after a little pausing she suddenly fell into a new rage, much worse than she was before.
+
+Now I do use her thus: when I do see her in any such extreme braids, I do travail with her to know the cause, and then, as much as I can, I do labour to take away, or at the least to mitigate the cause; and so I did at that time. I told her there was some new fantasy come into her head, which I desired her to open unto me; and after a certain time, when she had recovered herself that she might speak, she cried and said: Alas, my lord, that I am alive! the fear of death grieved me not so much before, as doth now the remembrance of the king's goodness: for when I remember how gracious and loving a prince I had, I cannot but sorrow; but this sudden mercy, and more than I could have looked for, shewed unto me, so unworthy, at this time, maketh mine offences to appear before mine eyes much more heinous than they did before: and the more I consider the greatness of his mercy, the more I do sorrow in my heart that I should so
+
+[[᾿ i.e. Catharine Howard. Cranmer had been scribed with her hand." Kennet’s Hist. of Eng-]
+
+[the means of discovering the character of his queen land, Vol. II.; lord Herbert's Life of Hen. VIII.]
+
+[to the king. Vid. Burnet’s Hist. of Reformat. Vol. p. 534. Ed. Lond. 1706. The confession here]
+
+[I. pp. 624, 5. Ed. Oxon. 1829. Upon the subject spoken of is probably that which Catharine Howard]
+
+[of her crimes, the queen was spoken withalin it by signed, and which is printed by Burnet, Hist. of]
+
+[the archbishop of Canterbury, the lord chancellor, Reformat. Vol. III. Part 11. pp. 230—233. The]
+
+[the duke of Norfolk, the lord great chamberlain of queen, and lady Rochford, who had been the chief]
+
+[England, and the bishop of Winchester; to whom cause of Anne Boleyn's and her husband's death,]
+
+[at the first she constantly denied it; but the matter were beheaded on Tower Hill, Feb. 12, A4. p. 1542.]
+
+[being so declared unto her, that she perceived itto Dereham and Culpeper suffered for their participa-]
+
+[be wholly disclosed, the same night she disclosed tion in her crime, Dec. 10, A.n. 1541. Id. Vol. I.]
+
+[the whole to the archbishop of Canterbury, who pp. 625, 627. Vid. also Letters in State Papers,]
+
+[took the confession of the same in writing, sub- Part 11. pp. 689 et sqq.]]
+
+misorder myself against his majesty.” And for anything that I could say unto her, she continued in a great pang a long while; but after that she began something to remit her rage and come to herself, she was meetly well until night, and I had very good communication with her, and, as I thought, had brought her unto a great quietness.
+
+Nevertheless, at night, about six of the clock, she fell into another like pang, but not so outrageous as the first was; and that was, as she shewed me, for the remembrance of the time; for about that time, as she said, master Hennage was wont to bring her knowledge of your grace. And because I lack time to write all things unto your majesty, I have referred other things to be opened by the mouth of this bearer, sir John Dudlay; saving that I have sent herewith inclosed all that I can get of her concerning any communication of matrimony with Derame; which, although it be not so much as I thought, yet I suppose, surely, it is sufficient to prove a contract, with carnal copulation following’; although she think it be no contract, as indeed the words alone be not, if carnal copulation had not followed thereof.
+
+The cause that master Baynton sent unto your majesty was partly for the declaration of her estate, and partly because, after my departure from her, she began to excuse and to temper those things which she had spoken unto me, and set her hand thereto; as at my coming unto your majesty I shall more fully declare by mouth: for she saith, that all that Derame did unto her was of his importune forcement, and, in a manner, violence, rather than of her free consent and will. Thus Almighty God have your majesty in his preservation and governance! [Nov. 1541.] From
+
+## Your grace's most bounden chaplain, Cantuarien
+
+To the king's majesty.
+
+## CCLXXIV. To King Henry VIII
+
+Ir may please your majesty to be advertised, that yesterday the ambassador of Cleve came unto my house at Lamhith, and delivered me letters from Oslynger, vice-chancellor unto the duke of Cleve, which letters I have sent unto your majesty herewith inclosed: the purport whereof, after he hath set forth my lauds and commendations like an orator, when he cometh to the substance of the matter, is nothing else but to commend unto me the cause of the lady Anne of Cleve. Which although he trusteth that I would do of myself, undesired, yet he saith that the occasion is such, that he will not omit to put?» spurs to the horse that runneth of his own courage. When I had read the letter, and A considered that no cause was expressed specially, but only in general that I should have commended the cause of the lady Anne of Cleve; although I suspected the true cause of his coming, yet I would take upon me no knowledge of any special matter, but said thus unto him: Master ambassador, I have perused Oslynger's letters, by the which he commendeth unto me the lady Anne of Cleve's cause; but forasmuch as he declareth no certain cause, I trust you have some other instructions to inform me of some particular matter Whereunto he answered, that the cause was, the reconciliation of your majesty unto the lady Anne of Cleve. Whereunto I answered, that I thought not a little strange, that Oslynger should think it meet for me to move a reconciliation of that matrimony, of the which I, as much as any other person, knew most just causes of divorce. And here I moved him to consider your grace's honour and the tranquillity of this realm, with the
+
+[[? It was the king's pleasure that Baynton Hist. of Reformat. Vol. III. App. B. iii. No. 72,]
+
+[should attend on the queen, to have the rule and Part 1r. pp. 230—233. (vid. supra), which was signed]
+
+[government of the whole house; and with him the by the queen, and chiefly refers to her contract of]
+
+[almoner [Nicholas Hethe] to be also associate." matrimony with Dereham; but also gives positive]
+
+[Letter from the Council to Cranmer in State Papers, evidence of her crime. Vid. State Papers, Vol. I. p.]
+
+[Vol. I. p. 692.] 692; Kennet's Hist. of England, Vol. II.; Lord [5 Probably the document printed by Burnet, Herbert's Life of Henry VIII. p. 532.]
+
+surety of your graces succession; and further, how this should agree with Oslynger's opinion of me, as he writeth in his letters, that I should study to the commodity and tranquillity of this realm, if I should move your grace to receive her in matrimony, from whom your majesty was upon most just causes divorced’; whereupon might grow most uncertitude of your grace’s succession, with such unquictness and trouble to this realm, as heretofore hath not been seen. And when he would have begun something, as appeared unto me, more largely to have reasoned the matter, and to grope my mind, I finished our communication in this sort: Master ambassador, this is a matter of great importance, wherein you shall pardon me; for I will have no communication with you therein, unless it please the king's majesty to command me. But I shall signify unto his highness your request, and thereupon you shall have an answer.” Now what shall be your majesty's pleasure that I shall do, whether that I shall make him any answer or no, and what answer it shall be, and whether I shall make a general answer to Oslynger by writing, because he writeth generally not touching this matter, or that I shall make a certain answer in this point to the ambassador by mouth, I most humbly beseech your majesty that I may be advertised; and according thereto I shall order myself, by the grace of God: whom I beseech daily to have your majesty evermore in his protection and governance. From my manor of Lamhith, this Tuesday the 13 Januarii. [1540-1.]
+
+## Your grace’s most bounden chaplain and beadsman
+
+To the king's majesty. TuowuaAs CANTUARIEN.
+
+## [olysleger Letter to Cranmer.]
+
+“Sanus et pax a Deo Patre, et Jesu Christo Domino ac Salvatore nostro. Reverendissime Prasul ac Domine, multis modis venerande. Quoniam singularis candor plurimorumque officiorum tuorum pre»- stationes multis bonis viris tam extra quam intra hoc florentissimum regnum Anglis, cognita atque perspecta, de tua celsitudine eam opinionem statuerunt, eandemque celsitudinem tuam ita suspicentur, ut quod ad Omnipotentis Dei ac Benedicti Filii ejus gloriam illustrandam imprimis, ac deinde ad reipublicae Christiane, presertim. Anglicanz, tranquillitatem ae commoditatem conservandam, augendam, promovendamque quovis modo pertinere videatur, id semper singulari studio, opera, atque industria, celsitudo tua fuerit prosecuta; fieri non potest, quin in eadem spe firmiter consistamus, etiam nunc idipsum celsitudinem tuam pro sua virili curaturam. ltaque, quantum plurimum possumus, celsitudinem tuam flagitamus, uti causam illustrissime Domina Anne, sororis Principis nostri, pro rei commoditate sibi quam commendatissimam habere non gravatim velit. Et quamvis existimemus idipsum celsitudinem tuam sine nostra interpellatione zeque facturam, nolui tamen committere, quin, pro hujus temporis occasione, hoe calcar equo sponte currenti admoverem. Et oro Dominum nostrum Jesum Christum, ut gratiam suam alioqui plus satis infusam in celsitudinem tuam augere, ac diu incolumem servare dignetur. Datum Duysseldorpii, pridie Calendas Decembris, 1541.
+
+## Ejusdem celsitudinis tue addictissimus
+
+Heng. Orisr. Doct. Vicecancellarius Clevensis. Reverendissimo Presuli ac Domino, plurimisque dotibus insigni, Domino Thome, per Dei gratiam archiepiscopo Cantuariensi, ac per regnum Anglie primario praesidi, Domino plurimum venerabili."
+
+[[! Vid. the judgment of the convocation for an-; the other circumstances adverted to in it, is fixed]
+
+[nuliing of the marriage with Anne of Cleves. Bur- beyond dispute to that month and year." Note to]
+
+[net's Hist. of Reformat. Vol. I. App. B. iii. No. 19, State Papers, Vol. I. p. 717. This morning [12]
+
+[pp. 308—312, and in State Papers, Vol. I. Part 11. Dec.] the ambassador of Cleves was here at my]
+
+[No. CXXXV III. pp. 629—635, where the signa- bouse, and advertised me, that he hath letters of]
+
+[tures of the members are added, as well as Hen. credence to yourhighness from the duke his master,]
+
+[VIII.’s declaration of the causes of the separation.] with two other letters; the one addressed to my lord [? ' This date is manifestly erroneous, for the of Canterbury from Olisleger, the other from the]
+
+[13th of January did not fall on a Tuesday between said duke to my lord great master; and hath also]
+
+[1540, when the king was recently married to Anne delivered letters to me from the same Olisleger."]
+
+[of Cleves, and 1545, when he was the husband of Lord Southampton then proceeds to give an account]
+
+[Catharine Parr. There can be little doubt that of the ambassador's conversation; which was to the]
+
+[January is written by mistake instead of December, same effect as that which is related by Cranmer.]
+
+[for the 13th of December, 1541, was Tuesday; and Letter from the earl of Southampton to king Henry]
+
+[this supposition makes this letter coincide with lord VIII. in State Papers, Vol. I. Part 11. Letter]
+
+[Southampton's of the preceding day, which, from CLXXVI. p. 714.]]
+
+## [translation.]
+
+HrarnTH and peaee from God the Father and Jesus Christ our Lord and Saviour! Most reverend prelate and lord, in many ways honourable. Since your special purity and your very many kind attentions shewn to many good men beyond the bounds of, as well as within, the most flourishing realm of England, are known and understood; and have established this opinion of your highness, and they so regard the same your highness, that your highness has followed out with special earnestness, labour and industry, at all times such things above all as appear in any way to concern the setting forth of the glory of Almighty God and his blessed Son, and secondly the preservation, increase and advancement, of the peace and advantage of the christian commonweal, especially that of England; it is therefore impossible but that we should rest strongly on the same hope that even now your highness will attend to the same thing, to the extent of your power. "Therefore as earnestly as is in our power we beg of your highness, that it would not be disinclined to regard as most warmly commended according to the soundness of the cause the case of our most illustrious lady Anne, the sister of our prince. And although we feel that your highness would no less do it without our interference, I was however unwilling to omit the application in this suitable time of a spur to the willing horse. And I pray our Lord Jesus Christ to increase his grace in other points more than enough poured into your highness, and long to preserve you. Given at Dusseldorf, 30 Nov. 1541.
+
+## The same your highness’ most devoted Henry Olisleger
 
 Vice-chancellor of Cleves.
 
-To the most reverend prelate and lord, and illustrious for many endowments. Lord Thomas, by God's grace arch bishop of Canterbury and throughout the realm of England lord primate, and most venerable lord.
+To the most reverend prelate and lord, and illustrious for
 
-## CCLXXV. To Lord Cobham 3
+many endowments, Lord Thomas, by God's grace arch-
 
-MY lord, after my right hearty commendations; these are to advertise you, that I Hari. wss. have received your letters dated at Calais the xith of April : and as concerning your request, Phit. ixvii. that I should revoke the inhibition brought unto the arches by John Holland, in the British matter between him and William Porter ; forasmuch as the said Holland hath appealed original.' to the arches, I cannot with justice interrupt his appellation, so that the same be again remitted unto the commissary of Calais ; for then the said Holland should have just occasion to appeal from me : but for the better expedition of the matter, I have sent to the dean of the arches, commanding him to surcease therein, and have wholly resumed the matter into my hands. Wherefore, my lord, I pray you let both the interrogatories and the testament, with all the acts before the judge, be sent unto me, and I shall take such an order therein as shall stand with equity and justice. I will stay the matter for a time, that you may make an end therein, if you can, shortly ; and if you cannot, then I shall proceed as to the law appertaineth.
+bishop of Canterbury and throughout the realm of
 
-Moreover, I most heartily thank your lordship for your wine, which I trust to re member ; and if at any time this year there come any to be sold at any reasonable price, I pray you that I may have part thereof. Praying you to have me heartily commended to my lady Cobham, to Mr Treasurer4, to Mr Marshall, to Mr Wenteworthe, and to my lady. Thus heartily, my lord, fare you well. At Bekisborne, the xviiith of April. £1544.]
+England lord primate, and most venerable lord.
 
-Your assured,
+## CCLXXV. To Lord Cobham?’
 
-## T. Cantuarien
+My lord, after my right hearty commendations; these are to advertise you, that I
 
-And as concerning my lady Baynton's request, you write that you are content that she shall have the college6, and not to meddle with Cobham hall : I pray, my lord, to send your mind herein to him that hath the ordering of that house and your affairs there ; for
+## 
 
-[3 George Brook, lord Cobham, lord deputy of Calais. Vid. Letter CLXXXVII. p. 335. Much of his correspondence is preserved in the Harl. 31 SS. No. 283.]
+have received your letters dated at Calais the xi" of April: and as concerning your request, that I should revoke the inhibition brought unto the arches by John Holland, in the matter between him and William Porter; forasmuch as the said Holland hath appealed to the arches, I cannot with justice interrupt his appellation, so that the same be again remitted unto the commissary of Calais; for then the said Holland should have just occasion to appeal from me: but for the better expedition of the matter, I have sent to the dean of the arches, commanding him to surcease therein, and have wholly resumed the matter into my hands. Wherefore, my lord, I pray you let both the interrogatories and the testament, with all the acts before the judge, be sent unto me, and I shall take such an order therein as shall stand with equity and justice. I will stay the matter for a time, that you may make an end therein, if you can, shortly; and if you cannot, then I shall proceed as to the law appertaineth.
 
-(4 " In the month of July, [A.D. 1543J, the king sent over (5000 men under the leading of Sir John Wallope, accompanied with Sir T. Seimer, marshal,
+Moreover, I most heartily thank your lordship for your wine, which I trust to remember; and if at any time this year there come any to be sold at any reasonable price, I pray you that I may have part thereof. Praying you to have me heartily commended to my lady Cobham, to Mr Treasurer, to Mr Marshall, to Mr Wenteworthe, and to my lady. Thus heartily, my lord, fare you well. At Bekisborne, the xviii" of April. [1544.]
 
-Sir Robert Bowes, treasurer," &c. Stow's Annals, p. 585. Ed. Lond. 1615. The capture of Boulogne occurred A.D. 1544.]
+Your assured,:
 
-[5 Cobham college was sold to lord Cobham, about A.D. 1538, by the master and brethren them selves, from the supposition that it would be dis solved. Vid. Hasted'sliist. of Kent, Vol. I. p. 503-1
+**T.** CANTUARIEN.
 
-my lady is willing to have the same, so that she may have convenient ground thereunto. "Wherefore your lordship shall do well to send your determined mind, what commodities she shall have with the college, and the prices thereof, appointing one to whom she may resort, and commune, and conclude withal in that behalf.
+And as concerning my lady Baynton's request, you write that you are content that she shall have the college’, and not to meddle with Cobham hall: I pray, my lord, to send your mind herein to him that hath the ordering of that house and your affairs there; for
 
-To my very loving lord, my lord Colham, lord deputy of Calls.
+[P George Brook, lord Cobham, lord deputy of Sir Robert Bowes, treasurer," &c. Stow's Annals,]
 
-State Paper Office.
+[Calais. Vid. Letter CLXXXVII. p. 335. Much p. 585. Ed. Lond. 1615. The capture of Boulogne]
 
-Domestic Papers. A.D. 1544. Vol. V. Original. State Papers, Vol. I. pt. ii. Lett.CXCVI. pp. 760—1. Collier's Eecles. Hist. Vol. V. pt). 147, «• Ed. Lond. 1840,41. Todd's Life of A hi) Cranmer. Vol. I. p. 355.
+[of his correspondence is preserved in the Harl. occurred A. p. 1544.]]
 
-## CCLXXVI. To King Henry VIII 1
+[MSS. No. 283.] [5 Cobham college was sold to lord Cobham, [ In the month of July, [A.p. 1543], the king about A. D. 1538, by the master and brethren them-]
 
-IT may please your majesty to be advertised, that according to your highness' com mandment, sent unto me by your grace's secretary, Mr Pagett, I have translated into the English tongue, so well as I could in so short time, certain processions, to be used upon festival days, if after due correction and amendment of the same your highness shall think it so convenient. In which translation, forasmuch as many of the processions, in the Latin, were but barren, as meseemed, and little fruitful, I was constrained to use more than the liberty of a translator : for in some processions I have altered divers wrords; in some I have added part ; in some taken part away ; some I have left out whole, either for by cause the matter appeared to me to be little to purpose, or by cause the days be not with us festival-days ; and some processions I have added whole, because I thought I had better matter for the purpose, than was the procession in Latin : the judgment whereof I refer wholly unto your majesty; and after your highness hath corrected it, if your grace command some devout and solemn note to be made thereunto, (as is to the procession which your majesty hath already set forth in English,) I trust it will much excitate and stir the hearts of all men unto devotion and godliness : but in mine opinion, the song that shall be made thereunto would not be full of notes, but, as near as may be, for every syllable a note ; so that it may be sung distinctly and devoutly, as be in the Matins and Evensong, Venite, the Hymns, Te Deum, Benedictus, Magnificat, Nunc dimittis, and all the Psalms and Yersicles ; and in the mass Gloria in Excelsis, Gloria Patri, the Creed, the Preface, the Pater nosier, and some of the Sanctus and Agnus. As concerning the Salve festa dies, the Latin note, as I think, is sober and distinct enough ; wherefore I have travailed to make the verses in English, and have put the Latin note unto the same. Nevertheless they that be cunning in singing can make a much more solemn note thereto. I made them only for a proof, to see how English would do in song. But by cause mine English verses lack the grace and facility that I would wish they had, your majesty may cause some other to make them again, that can do the same in more pleasant English and phrase. As for the sentence, I suppose will serve well enough. Thus Almighty God preserve your majesty in long and prosperous health and felicity ! From Bekisbourne, the 7th of October. [1544.]
+[sent over 6000 men under the leading of Sir John selves, from the supposition that it would be dis-]
 
-Your grace's most bounden chaplain and beadsman, To the kings most excellent majesty. T. CANTUARIEN.
+[Wallope, accompanied with Sir T. Seimer, marshal, solved. Vid. Hasted's Hist. of Kent, Vol. I. p. 503.]]
+
+my lady is willing to have the same, so that she may have convenient ground thereunto. Wherefore your lordship shall do well to send your determined mind, what commodities she shall have with the college, and the prices thereof, appointing one to whom she may resort, and commune, and conclude withal in that behalf.
+
+To my very loving lord, my lord Cobham,
+
+## lord deputy of Calis. CCLXXVI. To King Henry Viii'
+
+Ir may please your majesty to be advertised, that according to your highness comD, mandment, sent unto me by your grace's secretary, Mr Pagett, I have translated into the you. English tongue, so well as I could in so short time, certain processions, to be used upon festival days, if after due correction and amendment of the same your highness shall think it so convenient. In which translation, forasmuch as many of the processions, in " the Latin, were but barren, as meseemed, and little fruitful, I was constrained to use 1st more than the liberty of a translator: for in some processions I have altered divers words; In some I have added part; in some taken part away; some I have left out whole, either for by cause the matter appeared to me to be little to purpose, or by cause the days be not L with us festival-days; and some processions I have added whole, because I thought I had better matter for the purpose, than was the procession in Latin: the judgment whereof I refer wholly unto your majesty; and after your highness hath corrected it, if your grace command some devout and solemn note to be made thereunto, (as is to the procession which your majesty hath already set forth in English,) I trust it will much excitate and stir the hearts of all men unto devotion and godliness: but in mine opinion, the song that shall be made thereunto would not be full of notes, but, as near as may be, for every syllable a note; so that it may be sung distinctly and devoutly, as be in the Matins and Evensong, Venite, the Hymns, 7e Deum, Benedictus, Magnificat, Nunc dimittis, and all the Psalms and Versicles; and in the mass Gloria in Excelsis, Gloria Patri, the Creed, the Preface, the Pater noster, and some of the Sanctus and Agnus. As concerning the Salve festa dies, the Latin note, as I think, is sober and distinct enough; wherefore I have travailed to make the verses in English, and have put the Latin note unto the same. Nevertheless they that be cunning in singing can make a much more solemn note thereto. I made them only for a proof, to see how English would do in song. But by cause mine English verses lack the grace and facility that I would wish they had, your majesty may cause some other to make them again, that can do the same in more pleasant English and phrase. As for the sentence, I suppose will serve well enough. Thus Almighty God preserve your majesty in long and prosperous health and felicity! From Bekisbourne, the 7th of October. [1544.]
+
+## Your grace’s most bounden
+
+chaplain and beadsman,
+
+To the kings most excellent majesty. T. CANTUARIEN.
 
 ## Prince Edward to Cranmer
 
-Foxe's Acts " ETSI puer sum, colendissime susceptor, non tamen immemor sum vel officii erga te mei, vel luimanitatis meats, tuse) (luam indies mihi exhibere studes. Non exciderunt mihi humanissimae tua? literae pridie divi Petri ad me
+Acts “Ers1 puer sum, colendissime susceptor, non tamen immemor sum vel officii erga te mei, vel humanitatis tue, quam indies mihi exhibere studes. Non exciderunt mihi humanissim:e tuz literze pridie divi Petri ad me d date. Quibus antehac respondere nolui, non quod illas neglexerim, aut non meminerim, sed ut illarum diuturna meditatione fruerer, fidelique memoria reponerem, atque demum bene ruminatis pro mea virili
 
-U;d1:^Mtdata?. Quibus antehac respondere nolui, non quod illas neglexerim, aut non meminerim, sed ut illarum
+[[! In the State Papers this letter is printed under of Henry VIII. June, 1544, authorised the pro-]
 
-1583\. diuturna meditatione fruerer, fidelique memoria reponerem, atque demum bene ruminatis pro mea virili f1 In the State Papers this letter is printed under A.D. 1543. By Dr Jenkyns and Mr Todd it is placed under 1544, and by Collier under 1545. It is doubtful to which of the two latter years it may be correctly assigned, but that of A.D. 1544 is here adopted, as being the most probable. The mandate of Henry VIII. June, 1544, authorised the pro cession which is here spoken of. Dr Jenkyns thinks that as Henry VIII. returned from Boulogne Oct. 1st, he might have been proud of his success, and so probably commanded it to be celebrated by reli gious processions. Vid. Stow's Annals, p. 58J.]
+[A.D. 1543. By Dr Jenkyns and Mr Todd it is cession which is here spoken of. Dr Jenkyns thinks]
 
-responderem. Proinde aft'ectum erga me tuum vere paternum, quern in illis expressisti, aniplector et veneror, optoque ut multos vivas annos, tuoque pio ac salubri consilio pergas esse mihi venerandus pater. Nam pietatem ante omnia mihi amplectendam et exosculandam esse duco, quoniam divus Paulus dicit, * Pietas ad omnia utilis est.' Optime valeat tua paternitas in plurimos annos. Hartefordise, 13. Januarii.
+[placed under 1544, and by Collier under 1545. It that as Henry VIII. returned from Boulogne Oct.]
 
-"Tui studiosissimus,
+[is doubtful to which of the two latter years it may lst, he might have been proud of his success, and]
 
-" Edwardus Princeps."
+[be correctly assigned, but that of A.D. 1544 is here so probably commanded it to be celebrated by reli-]
 
-ALBEIT I am a boy, most honourable tutor, yet I am not unmindful either of your attention to me or your kindness which you study every day to shew me. Your very kind letter sent to me on St Peter's eve has not escaped me, but I was unwilling to reply to it heretofore, not because I have neglected or forgotten, but that I might enjoy a daily consideration of it and treasure it up with a tenacious memory, and when at length I should well consider it, might reply to the best of my ability. Accordingly I affectionately receive and honour that truly paternal affection which you have expressed in it, and I hope that you may live many years, and continue to be my honoured father by your godly and wholesome advice. For I think that godliness above all things is to be embraced and loved by me, since St Paul says, "Godliness is profitable for all things." May you, my father, live in much happiness for very many years ! Hertford, 13. Jan.
+[adopted, as being the most probable. The mandate gious processions. Vid. Stow's Annals, p. 587.]]
 
-Your most attached,
+responderem. Proinde affectum erga me tuum vere paternum, quem in illis expressisti, amplector et veneror, optoque ut multos vivas annos, tuoque pio ae salubri consilio pergas esse mihi venerandus pater. Nam pietatem ante omnia mihi amplectendam et exosculandam esse duco, quoniam divus Paulus dicit, Pietas ad omnia utilis est. Optime valeat tua paternitas in plurimos annos. Hartefordiz, 13. Januarii.
 
-## Edwakd, Prince
+## “Tui studiosissimus
 
-## Cclxxyii. To Prince Edward 2
+Edwardus Princeps."
 
-NON magis potcrat ipsc me [ mea] servarc salus, fill in Christo carissime, quam salus Foxe's Acts tua. Mea vita non dicenda est vita absque tua et salute et valetudine. Quapropter cum merits, ibid, te incolumem ac salvum intelligo, vitam etiam mihi integram esse et incolumem sentio. Neque certe absentia mea tarn est injucunda tibi, quam sunt liters tuae perjucundse mihi. Qua? arguunt tibi juxta adcsse et ingcnium dignum tanto principe, et prasceptorem dignum tanto ingenio. Ex quibus tuis literis te sic literas video colere, ut interim doctrinaa ccelestis tua nequaquam minima sit cura : qua? cuicunque sit cura*, non potest ilium quasvis cura frangere. Perge igitur qua via incepisti, princeps illustrissime, et Spartam quam nactus es, hanc orna ; ut quam ego per literas video in te virtutis ' lucem, eadem olim illuminet universam tuam Angliam. Non scribam prolixius, turn quidem ut me intelligas brevitate nonnihil amci, turn etiam quod credam, te aatate quidem adhuc parvulum parvo gaudere, et similem simili ; turn etiam prasterea, ne impolita mea oratio in causa sit, quo generosa ilia tua indoles barbarian vitium contrahat.
+## (translation.]
+
+ArLBEIT I am a boy, most honourable tutor, yet I am not unmindful either of your attention to me or your kindness which you study every day to shew me. Your very kind letter sent to me on St Peter's eve has not escaped me, but I was unwilling to reply to it heretofore, not because I have neglected or forgotten, but that I might enjoy a daily consideration of it and treasure it up with a tenacious memory, and when at length I should well consider it, might reply to the best of my ability. Accordingly I affectionately receive and honour that truly paternal affection which you have expressed in it, and I hope that you may live many years, and continue to be my honoured father by your godly and wholesome advice. For I think that godliness above all things is to be embraced and loved by me, since St Paul says, “Godliness is profitable for all things.” May you, my father, live in much happiness for very many years! Hertford, 13. Jan.
+
+## Your most attached
+
+Epwanp, PRINCE.
+
+## CCLXXVII. To Prince Edward
+
+Now magis poterat ipse me [mea] servare salus, fili in Christo carissime, quam salus
+
+## 
+
+tua. Mea vita non dicenda est vita absque tua et salute et valetudine. Quapropter cum te incolumem ac salvum intelligo, vitam etiam mihi integram esse et incolumem sentio. Neque certe absentia mea tam est injucunda tibi, quam sunt litera tu: perjucundz mihi. Quz arguunt tibi juxta adesse et ingenium dignum tanto principe, et przceptorem dignum tanto ingenio. Ex quibus tuis literis te sic literas video colere, ut interim doctrinz coelestis tua nequaquam minima sit cura: qua cuicunque sit cura, non potest illum quzevis cura frangere. Perge igitur qua via incepisti, princeps illustrissime, et Spartam quam nactus es, hanc orna; ut quam ego per literas video in te virtutis lucem, eadem olim illuminet universam tuam Angliam. Non scribam prolixius, tam quidem ut me intelligas brevitate nonnihil affici, tum etiam quod credam, te zetate quidem adhuc parvulum parvo gaudere, et similem simili; tum etiam preterea, ne impolita mea oratio in causa sit, quo generosa illa tua indoles barbari: vitium contrahat.
 
 ## Translation
 
-THE health of my own self, my dearest son in Christ, could not be more serviceable to me than is your own. My life is not to be called living unless you are in health and strength; and therefore as I hear that you are safe and well, I feel also that my life is complete and uninjured. Nor at all events does my absence deprive you of so much pleasure as your letter adds to mine ; for it shews no less that you have ability worthy of so great a prince, than that you have a tutor worthy of such great ability. And from this letter of yours I find that you so study letters that meanwhile you have no small care for heavenly teaching ; and whatever person has a care for it, him no care can ever destroy. Proceed then, most illus trious prince, in the same way as you have begun, and adorn this Sparta which you have obtained ; so that the same light of excellency which I see from your letter is in you, may hereafter illuminate the whole of your realm of England. I will not write at greater length, both that you may see that I am in a measure pleased with brevity, and also because I believe that as you are still small in age, you delight in that which is small, and like is pleased with like ; and furthermore, that my unpolished style may not be the cause of your noble mind contracting the fault of baldness in your own.
+Tur health of my own self, my dearest son in Christ, could not be more serviceable to me than is your own. My life is not to be called living unless you are in health and strength; and therefore as I hear that you are safe and well, I feel also that my life is complete and uninjured. Nor at all events does my absence deprive you of so much pleasure as your letter adds to mine; for it shews no less that you have ability worthy of so great a prince, than that you have a tutor worthy of such great ability. And from this letter of yours I find that you so study letters that meanwhile you have no small care for heavenly teaching; and whatever person has a care for it, him no care can ever destroy. Proceed then, most illustrious prince, in the same way as you have begun, and adorn this Sparta which you have obtained; so that the same light of excellency which I see from your letter is in you, may hereafter illuminate the whole of your realm of England. 1 will not write at greater length, both that you may see that I am in a measure pleased with brevity, and also because I believe that as you are still small in age, you delight in that which is small, and like is pleased with like; and furthermore, that my unpolished style may not be the cause of your noble mind contracting the fault of baldness in your own.
 
-[2 This is said by Foxe to be the answer of the archbishop to the above letter of prince Edward, who also gives the following letter, written when the prince " seemed to be very young, not above seven years of age, lying then at Antill."
+[[? This is said by Foxe to be the answer of the Vale. Antile decimo octavo Junii. [1544.]]
 
-"An Epistle of young prince Edward to the arch bishop of Canterbury, his godfather. " Impertio te plurima salute, colendissime praesul, et carissime susceptor. Quia abes longe a me, vellem libenter audire te esse incolumem. Precor autem ut vivas diu, et promoveas verbum Dei.
+[archbishop to the above letter of prince Edward, 'Tuus in Christo filius,]
 
-Vale. AntilcE decimo octavo Junii. [1544.] " THUS in Christo tilius,
+[who also gives the following letter, written when “EDWARDUS PnINCEPs."]
 
-"EDWARDUS PRIXCEPS." [Translation :]
+[the prince seemed to be very young, not above [ Translation:]]
 
-" I most heartily commend me to you, most worshipful primate and dearest tutor. As you are at a great distance from me, 1 am exceedingly anxious to hear that you are well. I pray that you may long live, and promote the word of God. Fare well. From Antill, June xviii.
+[seven years of age, lying then at Antill.” “I most heartily commend me to you, most worshipful primate and dearest tutor. As you are]
 
-" Your son in Christ,
+[^ An Epistle of young prince Edward to the arch- at a great distance from me, 1 am exceedingly bishop of Canterbury, his godfather. anxious to hear that you are well. I pray that you Impertio te plurima salute, colendissime prz- may long live, and promote the word of God. Fare-]
 
-## "Edward the Prince."]
+[sul, et carissime susceptor. Quia abes longe a me, well. From Antill, June xviii.]
+
+[vellem libenter audire te esse incolumem. Precor Your son in Christ,]
+
+[autem ut vivas diu, et promoveas verbum Dei. “EDWARD THE PRINCE.”]
 
 ## CCLXXVIII. To Sir William Paget'
 
-state Paper AFTER my very hearty commendations. Having sent by this bearer letters to bo Domestic delivered unto the king's majesty by you, with a minute of another letter in the same inclosed (the copy whereof you shall herewith receive) to be sent unto me from the king's majesty ; these shall be to desire you to peruse the said minute ; and if it be not formably made, I pray you to reform the same with such correction as shall seem unto you most requisite, and thereupon to deliver it unto the king's majesty, knowing his grace's further pleasure in the same. Thus right heartily fare ye well. From my manor at Bekesbourne, the 20th of January. [1545-6.]
+AFTER my very hearty commendations. Having sent by this bearer letters to be n. delivered unto the king's majesty by you, with a minute of another letter in the same inclosed (the copy whereof you shall herewith receive) to be sent unto me from the king’s majesty; these shall be to desire you to peruse the said minute; and if it be not formably made, I pray you to reform the same with such correction as shall seem unto you most requisite, and thereupon to deliver it unto the king's majesty, knowing his grace’s further pleasure in the same. Thus right heartily fare ye well. From my manor at Bekesbourne, the 20th of January. [1545-6.]
 
-Your assured
+## Your assured Cantuarien
 
-## T. Cantuarien
+To the right honourable sir William Paget, knight,
 
-To the right honourable sir William Paget, knight, one of the king's majesty's two principal secretaries.
+one of the king's majesty’s two principal secretaries.
 
-Domestic Papers, A.D. 1S4(). Vol.
+The minute of the king's majesty’s letters to be addressed to the archbishop of AD
 
-State Paper Office. Ibid. Harriet's Hist, of Reformat. Vol. II.pt. ii. pp. 334, 5. Eil. Oxon. 18:*). Collier's Eccles. Hist. Vol.V.p.138. Ed. Lond. 1840—41.
+## Canterbury
 
-The minute of the king's majesty's letters to be addressed to the archbishop of
+Forasmucn as you, as well in your own name as in the name of the bishops of Worcester? and Chichester? and other our chaplains and learned men, whom we appointed with you to peruse certain books of service which we delivered unto you, moved us,
 
-Canterbury.
+**5.** that the vigil and ringing of bells all the night long upon Alhallow-day at night, and the covering of images in the church in time of Lent, with the lifting up of the veil Hist. that covereth the cross upon Palm-sunday, with the kneeling to the cross the same time, might be abolished and put away, for the superstition and other enormities and abuses ofthe same: First, forasmuch as all the vigils of our lady and the apostles, and all other vigils, which in the beginning of the church were godly used, yet for the manifold superstition and abuses which after did grow by means of the same, they be many years passed taken away throughout all Christendom, and there remaineth nothing but the name of the vigil in the calendar, the thing clearly abolished and put away, saving only upon Alhallow-day at night, upon which night is kept vigil, watching, and ringing of bells all the night long; forasmuch as that vigil is abused as other vigils were, our pleasure is, as you require, that the said vigils shall be abolished as the other be, and that there shall be no watching, nor ringing, but as be commonly used upon other holydays at night. We be contented and pleased also, that the images in the churches shall not be covered, as hath been accustomed in times passed; nor no veil upon the cross; nor no kneeling thereto upon Palm-sunday, nor any other time. And forasmuch as you make no mention of creeping to the cross, which is a greater abuse than any of the other; (for there you say, Crucem tuam adoramus, Domine; and the ordinal saith, Procedant clerici ad erucem adorandum nudis pedibus; and after followeth in the same ordinal, Ponatur cruz ante aliquod altare, ubi a populo adoretur; which by your own book, called, “A Necessary Doctrine," is against the second commandment:) therefore our pleasure is, that the said creeping to the cross shall likewise cease from henceforth and be abolished, with the other abuses before rehearsed. — And this we will, and straitly command you to signify unto all the prelates and bishops of your province of Canterbury, charging them, in our name, to see the same executed, every one in his diocese, accordingly.
 
-FORASMUCH as you, as well in your own name as in the name of the bishops of Worcester2 andChichester3, and other our chaplains and learned men, whom we appointed with you to peruse certain books of service which we delivered unto you, moved us, that the vigil and ringing of bells all the night long upon Alhallow-day at night, and the covering of images in the church in time of Lent, with the lifting up of the veil that covereth the cross upon Palm-sunday, with the kneeling to the cross the same time, might be abolished and put away, for the superstition and other enormities and abuses of the same : First, forasmuch as all the vigils of our lady and the apostles, and all other vigils, which in the beginning of the church were godly used, yet for the manifold superstition and abuses which after did grow by means of the same, they be many years passed taken away throughout all Christendom, and there remaineth nothing but the name of the vigil in the calendar, the thing clearly abolished and put away, saving onlv upon Alhallow-day at night, upon which night is kept vigil, watching, and ringing of bells all the night long; forasmuch as that vigil is abused as other vigils were, our pleasure is, as you require, that the said vigils shall be abolished as the other be, and that there shall be no watching, nor ringing, but as be commonly used upon other holydays at night. We be contented and pleased also, that the images in the churches shall not be covered, as hath been accustomed in times passed ; nor no veil upon the cross ; nor no kneeling thereto upon Palm-sunday, nor any other time. And forasmuch as you make no mention of creeping to the cross, which is a greater abuse than any of the other ; (for there you say, Orucem tuam adoramus, Domine ; and the ordinal saith, Procedant clerici ad crucem adorandum nudis pedilus ; and after followeth in the same ordinal, Ponatur crux ante aliquod altare, uli a populo adoretur ; which by your own book, called, " A Necessary Doctrine," is against the second commandment :) therefore our pleasure is, that the said creeping to the cross shall likewise cease from henceforth and be abolished, with the other abuses before rehearsed. And this we will, and straitly command you to signify unto all the prelates and bishops of your province of Canterbury, charging them, in our name, to see the same executed, every one in his diocese, accordingly.
+## CCLXXIX. To King Henry VIII. The copy of the letter to the king's majesty
 
-State Paper Office. Domestic Papers. A.D. 134(i. Vol.
+Ir may please your highness to be advertised, that forasmuch as I might not tarry myself at London, because I had appointed the next day after that 1 departed from your majesty to be at Rochester, to meet the next morning all the commissioners of Kent at Vol Sittingbourn; therefore the Sg night that I returned from Hampton court to Lambhith,
 
-Burnet'sHist. of Kef. Vol. II. pt. ii. fol. 8.B.i.No.61. pp. 332, 4. Ed. Oxon.
+[8 B. i. No. 61. EE UNE Res]
 
-## CCLXXIX. To King Henry VIII
+["mi [ This letter has not appeared in any previous [? Nicholas Hethe. Vid. Letter LXXXVIII.]
 
-The copy of the letter to the king's majesty.
+[1829. collection. ] p. 276.7 [3 George Day.i]
 
-IT may please your highness to be advertised, that forasmuch as I might not tarry myself at London, because I had appointed the next day after that I departed from your majesty to be at Rochester, to meet the next morning all the commissioners of Kent at Sittingbourn ; therefore the same night that I returned from Hampton court to Lambhith, f1 This letter has not appeared in any previous collection.!
+I sent for the bishop of Worcester incontinently, and declared unto him all this your majesty’s pleasure, in such things as your majesty willed me to be done. And first,.,:. where your majesty's pleasure was, to have the names of such persons as your highness in times passed appointed to make laws ecclesiastical for your grace's realm”, the bishop of Worcester promised me with all speed to inquire out their names and the book which they made, and to bring the names and also the book unto your majesty; which I trust he hath done before this time.
 
-[2 Nicholas Hcthe. Vid. Letter LXXXVIII. 27fi.l P George Day.!
+And as concerning the ringing of bells upon Alhallow-day at night, and covering of images in Lent, and creeping to the cross, he thought it necessary that a letter of your majesty’s pleasure therein should be sent by your grace unto the two archbishops; and we to send the same to all other prelates within your grace’s realm. And if it be your majesty’s pleasure so to do, I have, for more speed, herein drawn a minute of a letter, which your majesty may alter at your pleasure. Nevertheless, in my opinion, when such things be altered or taken away, there would be set forth some doctrine therewith, which should declare the cause of the abolishing or alteration, for to satisfy the conscience of the people: for if the honouring of the cross, as creeping and kneeling thereunto, be taken away, it shall seem to many that be ignorant, that the honour of Christ is taken away, unless some good teaching be set forth withal to instruct them sufficiently therein: which if your majesty command the bishops of Worcester and Chichester with other your grace’s chaplains to make, the people shall obey your majesty’s commandment willingly, giving thanks to your majesty if they know the truth; which else they would obey with murmuration and grutching. And it shall be a satisfaction unto all other nations, when they shall see your majesty do nothing but by the authority of God’s word, and to the setting forth of God's honour, and not diminishing thereof. And thus Almighty God keep your majesty in his preservation and governance! And thus, &c. From my manor at Bekisbourne, the 24th of January, 45. [1545-6.]
 
-I sent for the bishop of Worcester incontinently, and declared unto him all this vour Todd's Life
+Your graces most bounden chaplain and beadsman.
 
-/ .,. , . . '_ ofAbp. Cran- mcr, Vol. I. pp. :ti(J— 3(J2.
+[[^ Burnet's Hist. of Reformat. Vol. I. p. 661; So upon this the king's pleasure known, when]
 
-majesty's pleasure, in such things as your majesty willed me to be done. And first, mcr, y()i. i.
+[Vol III. p. 308. Ed. Oxon. 1829; Strype's the archbishop of Canterbury was then come into]
 
-where your majesty's pleasure was, to have the names of such persons as your highness in times passed appointed to make laws ecclesiastical for your grace's realm4, the bishop of Worcester promised me with all speed to inquire out their names and the book which they made, and to bring the names and also the book unto your majesty ; which I trust he hath done before this time.
+[Mem. of Abp. Cranmer, Vol. I. p. 190. Ed. Oxon. Kent, he caused his secretary to conceive and write]
 
-And as concerning the ringing of bells upon Alhallow-day at night, and covering of images in Lent, and creeping to the cross, he thought it necessary that a letter of your majesty's pleasure therein should be sent by your grace unto the two archbishops ; and we to send the same to all other prelates within your grace's realm. And if it be your majesty's pleasure so to do, I have, for more speed, herein drawn a minute of a letter, which your majesty may alter at your pleasure. Nevertheless, in my opinion, when such tilings be altered or taken away, there would be set forth some doctrine therewith, which should declare the cause of the abolishing or alteration, for to satisfy the conscience of the people: for if the honouring of the cross, as creeping and kneeling thereunto, bo taken away, it shall seem to many that be ignorant, that the honour of Christ is taken away, unless some good teaching be set forth withal to instruct them sufficiently therein : which if your majesty command the bishops of Worcester and Chichestcr with other your grace's chaplains to make, the people shall obey your majesty's commandment willingly, giving thanks to your majesty if they know the truth; which else they would obey with murmuration and grutching. And it shall be a satisfaction unto all other nations, when they shall see your majesty do nothing but by the authority of God's word, and to the setting forth of God's honour, and not diminishing thereof. And thus Almighty God keep your majesty in his preservation and governance! And thus, &c. From my manor at Bekisbourne, the 24th of January, 45. [1545-65.]
+[1840. ] these letters according to the king’s mind, and being [> The date of the original paper preserved in made in a readiness, sent them to the court to Sir]
 
-Your grace's most bounden chaplain and beadsman.
+[the State Paper Office, and from which the above Anthony Denie, for him to get them signed by the]
 
-[4 Burnet's Hist, of Reformat. Vol. I. p. 661; Vol. III. p. 308. Ed. Oxon. 1829; Strype's Mem. of Abp. Cranmer, Vol. I. p. 190. Ed. Oxon. 1840.]
+[documents are printed as they stand, and contrary king. When master Denie had moved the king]
 
-[5 The date of the original paper preserved in the State Paper Office, and from which the above documents are printed as they stand, and contrary to the position given to them by Burnet, is 45, i. e. 1545. The date has been enlarged by Burnet to 1545-6. Mr Todd is inclined to reduce it to 1544-5. But it is probable that Burnet is accurate, as Foxe, under A. D. 1546, gives the following narrative of the matter to which the above letters refer : u Whilst the said bishop of Winchester [Gardiner] was now remaining beyond the seas about the affairs afore said," [i.e. to conclude a league between Henry VIII., the emperor Charles V., and Francis I. the French king, 'in whose absence the archbishop of Canterbury sought occasion somewhat to further the reformation of the corrupt religion,'] " the king's majesty and the said archbishop, having conference together for reformation of some superstitious enor mities in the church, amongst other things, the king determined forthwith to pull down the roods in every church, and to suppress the accustomed ringing on Allhallow night, with a few such like vain ceremonies ; and therefore, when the said archbishop, taking his leave of the king, to go into Kent, his diocese, his highness willed him to re member that he should cause two letters to be de vised ; 'for me,' quoth the king, 'to be signed, the one to be directed unto you, my lord, and the other unto the archbishop of York, wherein I will com mand you both to send forth your precepts unto all other bishops within your provinces, to see those enormities and ceremonies reformed undelayedly, that we have communed of.'
+[to the position given to them by Burnet, is 45, i.e. thereto, the king made answer: I am now other-]
 
-" So upon this the king's pleasure known, when the archbishop of Canterbury was then come into Kent, he caused his secretary to conceive and write these letters according to the king's mind, and being made in a readiness, sent them to the court to Sir Anthony Denie, for him to get them signed by the king. When master Denie had moved the king thereto, the king made answer : ' I am now otherways resolved ; for you shall send my lord of Canter bury word, that since I spake with him about these matters, I have received letters from my lord of Winchester, now being on the other side of the sea, about the conclusion of a league between us, the emperor, and the French king, and he writeth plainly unto us, that the league will not prosper nor go forward, if we make any other innovation, change, or alteration, either in religion or ceremonies, than heretofore have been already commenced and done. Wherefore my lord of Canterbury must take patience herein, and forbear until we may espie a more apt and convenient time for that purpose.' Which matter of reformation began to be revived again at what time the great ambassador from the French king came to the king's majesty at Hamp ton Court, not long before his death. It is not our purpose here but only to consider the note of the conference and communication had the first night after the said banquet was finished, between the king's majesty, the said ambassador, and the arch bishop of Canterbury, (the king's highness standing openly in the banqueting house, in the open face of all the people, and leaning one arm upon the shoulder of the archbishop of Canterbury, and the other arm upon the shoulder of the ambassador,) touching the establishment of godly religion be tween those two princes in both their realms ; as by the report of the said archbishop unto his secretary
+[1545. The date has been enlarged by Burnet to ways resolved; for you shall send my lord of Canter-]
 
-I beseech your majesty, that I may be a suitor unto the same for your cathedral church of Canterbury ; who, to their great unquietness and also great charges, do alienate
+[1545-6. Mr Todd is inclined to reduce it to 1544-5. bury word, that since I spake with him about these]
 
-[Morice] upon occasion of his service to be done in king Edward's visitation, then being register in the same visitation, relation was made in that behalf in this sort.
+[But it is probable that Burnet is accurate, as Foxe, matters, I have received letters from my lord of]
 
-" When the said visitation was put in a readiness, before the commissioners should proceed in their voyage, the said archbishop sent for the said register his man, unto Hampton Court, and willed him in any wise to make notes of certain things in the said visitation, whereof he gave unto him instruction, having then further talk with him touching the good effect and success of the said visitation. Upon which occasion the register said unto his master the archbishop : ' I do remember that you not long ago caused me to conceive and write letters, which king Henry the VIII. should have signed and directed unto your grace and the archbishop of York, for the reformation of certain enormities in the churches, as taking down of the roods, and forbidding of ring ing on Allhallow night, and such like vain cere monies ; which letters your grace sent to the court to be signed by the king's majesty, but as yet I think that there was never any thing done therein.'
+[under A. Ὁ. 1546, gives the following narrative of the Winchester, now being on the other side of the sea,]
 
-"'Why,' quoth the archbishop again, 'never heard you how those letters were suppressed and stopped?' Whereunto the archbishop's servant answering again : ' As it was' (said he) ' my duty to write those letters, so was it not my part to be inqui sitive what became thereupon.' 4 Mary,' quoth the archbishop, ' my lord of Winchester then being be yond the seas about a conclusion of a league between the emperor, the French king, and the king our master, and fearing that some reformation should here pass in the realm touching religion in his absence against his appetite, wrote to the king's majesty, bearing him in hand that the league then towards would not prosper nor go forwards on his majesty's behalf, if he made any other innovation or alteration in religion or ceremonies in the church, than was already done ; which his advertisement herein caused the king to stay the signing of those letters, as Sir Antony Denie wrote to me by the king's commandment.'
+[matter to which the above letters refer: Whilst about the conclusion of a league between us, the]
 
-"Then said his servant again unto him : ' Foras much as the king's good intent took no place then, now your grace may go forward in those matters, the opportunity of the time much better serving there unto than in king Henry's days.'
+[the said bishop of Winchester [Gardiner] was now emperor, and the French king, and he writeth]
 
-'" Not so,' quoth the aichbishop. 'It was better to attempt such reformation in king Henry the VIII. his days, than at this time, the king being in his infancy. For if the king's father had set forth any thing for the reformation of abuses, who was he that durst gainsay it ? Mary, we are now in doubt how men will take the change or alteration of abuses in the church ; and therefore the council hath forborne especially to speak thereof, and of other things which gladly they would have reformed in this visi tation, referring all those and such like matters to the discretion of the visitors. But if king Henry the VIII. had lived unto this day, with the French king, it had been past my lord of Winchester's power, to have visored the king's highness, as he did when he was about the same league.'
+[remaining beyond the seas about the affairs afore- plainly unto us, that the league will not prosper nor]
 
-'"I am sure you were at Hampton Court,' quoth the archbishop, ' when the French king's ambassador was entertained there at those solemn banquetting houses, not long before the king's death : namely, when after the banquet was done the first night, the king leaning upon the ambassa dor and upon me, if I should tell what communica tion between the king's highness and the said am bassador was had, concerning the establishing of sincere religion then, a man would hardly have be lieved it. Nor I myself had thought the king's highness had been so forward in those matters as then appeared. I may tell you, it passed the pulling down of roods, and suppressing the ringing of bells. I take it that few in England would have believed, that the king's majesty and the French king had been at this point, not only within half a year after to have changed the mass into a communion, as we now use it, but also utterly to have extirped and banished the bishop of Rome and his usurped power out of both their realms and dominions.
+[said,” [i.e. to conclude a league between Henry go forward, if we makeany other innovation, change,]
 
-" ' Yea, they were so thoroughly and firmly re solved in that behalf, that they meant also to exhort the emperor to do the like in Flanders and other his countries and seignories, or else to break off from him. And herein the king's highness willed me,' quoth the archbishop, ' to pen a form thereof to be sent to the French king to consider of. But the deep and most secret providence of Almighty God, owing to this realm a sharp scourge for our iniqui ties, prevented (for a time) this their most godly device and intent, by taking to his mercy both these princes.'" Foxe's Acts and Monuments, pp. 1244, 45. Ed. Lond. 1583. Foxe also, in relating the manner of the death of Henry VIII. (p. 1291) says : "And thus much touching the end of king Henry, who if he had continued a few months longer (all those obits and masses, which appear in his will, made before he went to Boulogne notwithstanding,) most certain it is, and to be signified to all posterity, that his full purpose was to have repurged the estate of the church, and to have gone through with the same, so that he would not have left one mass in all Eng land. For the more certain intelligence whereof, two things I have to lead me. The one is the as sured report and testimony of Tho. Cranmer, arch bishop of Canterbury, hearing the king declare the same out of his own mouth, both to himself and to Mounsieur de Annehault, lord admiral, the French ambassador, in the month of August a little before his death. The other cause, which leadeth me thereunto, is also of equal credit, grounded upon the declaration of the king's own mouth after that time, more near to his death, unto Bruno, ambassador of John Frederick, duke of Saxony. Unto the which ambassador of Saxony the king gave this answer openly, that if the quarrel of the duke of Saxony were nothing else against the emperor but for religion, he should stand to it strongly, and he would take his part, willing him not to doubt nor fear; and so with this answer dismissed the ambassador unto the duke openly, in the hearing of these four sufficient witnesses, the L. Seymer, earl of Harforde, lord Lisley, then admiral, the earl of Bedford, lord privy seal, and lord Paget. But the secret working of God's holy providence, which disposeth all things after his own wisdom and purpose, thought it good rather by taking the king away to reserve the accomplish ment of this reformation of his church to the peace able time of his son Ed ward, and Elizabeth his daugh ter, whose hands were yet undefiled with any blood, and life unspotted with any violence or cruelty."] their lands daily, and, as it is said, by your majesty's commandment. But this I am sure, that other men have gotten their best lands, and not your majesty. Wherefore this is mine only suit, that when your majesty's pleasure shall be to have any of their lands, that they may have some letter from your majesty to declare your majesty's pleasure, without the which they be sworn that they shall make no alienation ; and that the same alienation be not made at other men's pleasures, but only to your majesty's use. For now every man that list to have any of their lands, makes suit to get it into your majesty's hands; not that your majesty should keep the same, but, by sale or gift from your majesty, to translate it from your grace's cathedral church unto themselves.
+[VIIL, the emperor Charles V., and Francis I. the or alteration, either in religion or ceremonies, than]
 
-## T. Cantuarien
+[French king, in whose absence the archbishop of heretofore have been already commenced and done.]
+
+[Canterbury sought occasion somewhat to further the Wherefore my lord of Canterbury must take]
+
+[reformation of the corrupt religion,'] the king's patience herein, and forbear until we may espie a]
+
+[majesty and the said archbishop, having conference more apt and convenient time for that purpose.’]
+
+[together for reformation of some superstitious enor- Which matter of reformation began to be revived]
+
+[mities in the church, amongst other things, the again at what time the great ambassador from the]
+
+[king determined forthwith to pull down the roods French king came to the king’s majesty at Hamp-]
+
+[in every church, and to suppress the accustomed ton Court, not long before his death. It is not our]
+
+[ringing on Allhallow night, with a few such like purpose here.but only to consider the note of the]
+
+[vain ceremonies; and therefore, when the said conference and communication had the first night]
+
+[archbishop, taking his leave of the king, to go into after the said banquet was finished, between the]
+
+[Kent, his diocese, his highness willed him to re- king's majesty, the said ambassador, and the arch-]
+
+[member that he should cause two letters to be de- bishop of Canterbury, (the king's highness standing]
+
+[vised; for me,’ quoth the king, to be signed, the openly in the banqueting house, in the open face of]
+
+[one to be directed unto you, my lord, and the other all the people, and leaning one arm upon the]
+
+[unto the archbishop of York, wherein I will com- shoulder of the archbishop of Canterbury, and the]
+
+[mand you both to send forth your precepts unto all other arm upon the shoulder of the ambassador.)]
+
+[other bishops within your provinces, to see those touching the establishment of godly religion be-]
+
+[enormities and ceremonies reformed undelayedly, tween those two princes in both their realms; as by]
+
+[that we have communed of.’ the report of the said archbishop unto his secretary]
+
+I beseech your majesty, that I may be a suitor unto the same for your cathedral church of Canterbury; who, to their great unquietness and also great charges, do alienate
+
+[[ Morice] upon occasion of his service to be done in death: namely, when after the banquet was done]
+
+[king Edward’s visitation, then being register in the the first night, the king leaning upon the ambassa-]
+
+[same visitation, relation was made in that behalf in dor and upon me, if I should tell what communica-]
+
+[this sort. tion between the king’s highness and the said am-]
+
+[“When the said visitation was put in a readiness, bassador was had, concerning the establishing of]
+
+[before the commissioners should proceed in their sincere religion then, a man would hardly have be-]
+
+[voyage, the said archbishop sent for the said register lieved it. Nor I myself had thought the king's]
+
+[his man, unto Hampton Court, and willed him in highness had been so forward in those matters as]
+
+[any wise to make notes of certain things in the said then appeared. I may tell you, it passed the pulling]
+
+[visitation, whereof he gave unto him instruction, down of roods, and suppressing the ringing of bells.]
+
+[having then further talk with him touching the I take it that few in England would have believed,]
+
+[good effect and success of the said visitation. Upon that the king’s majesty and the French king had]
+
+[which occasion the register said unto his master the been at this point, not only within half a year after]
+
+[archbishop: I do remember that you not long ago to have changed the mass into a communion, as we]
+
+[caused me to conceive and write letters, which king now use it, but also utterly to have extirped and]
+
+[Henry the VIII. should have signed and directed banished the bishop of Rome and his usurped]
+
+[unto your grace and the archbishop of York, for power out of both their realms and dominions.]
+
+[the reformation of certain enormities in the churches, “Yea, they were so thoroughly and firmly re-]
+
+[as taking down of the roods, and forbidding of ring- solved in that behalf, that they meant also to exhort]
+
+[ing on Allhallow night, and such like vain cere- the emperor to do the like in Flanders and other his]
+
+[monies; which letters your grace sent to the court countries and seignories, or else to break off from]
+
+[to be signed by the king's majesty, but as yet I him. And herein the king's highness willed me,']
+
+[think that there was never any thing done therein.’ quoth the archbishop, to pen a form thereof to be]
+
+[Why,' quoth the archbishop again, never sent to the French king to consider of. But the]
+
+[heard you how those letters were suppressed and deep and most secret providence of Almighty God,]
+
+[stopped? Whereunto the archbishop's servant owing to this realm a sharp scourge for our iniqui-]
+
+[answering again: As it was’ (said he) my dutyto ties, prevented (for a time) this their most godly]
+
+[write those letters, so was it not my part to be inqui- device and intent, by taking to his mercy both these]
+
+[sitive what became thereupon.” Mary,” quoth the princes." Foxe’s Acts and Monuments, pp. 1244,]
+
+[archbishop, my lord of Winchester then being be- 45. Ed. Lond. 1583. Foxe also, in relating the]
+
+[yond the seas about a conclusion of a league between manner of the death of Henry VIII. (p. 1291) says:]
+
+[the emperor, the French king, and the king our And thus much touching the end of king Henry,]
+
+[master, and fearing that some reformation should whoifhe had continued a few months longer(allthose]
+
+[here pass in the realm touching religion in his obits and masses, which appear in his will, made]
+
+[absence against his appetite, wrote to the king's before he went to Boulogne notwithstanding,) most]
+
+[majesty, bearing him in hand that the league then certain it is, and to be signified to all posterity, that]
+
+[towards would not prosper nor go forwards on his his full purpose was to have repurged the estate of]
+
+[majesty's behalf, if he made any other innovation the church, and to have gone through with the same,]
+
+[or alteration in religion or ceremonies in thechurch, so that he would not have left one mass in all Eng-]
+
+[than was already done; which his advertisement land. For the more certain intelligence whereof,]
+
+[herein caused the king to stay the signing of those two things I have to lead me. The one is the as-]
+
+[letters, as Sir Antony Denie wrote to me by the sured report and testimony of Tho. Cranmer, arch-]
+
+[king's commandment.’ bishop of Canterbury, hearing the king declare the]
+
+[“Then said his servant again unto him: Foras- same out of his own mouth, both to himself and to]
+
+[much as the king's good intent took no place then, Mounsieur de Annehault, lord admiral, the French]
+
+[now your grace may go forward in those matters, the ambassador, in the month of August a little before]
+
+[opportunity of the time much better serving there- his death. The other cause, which leadeth me]
+
+[unto than in king Henry's days. thereunto, is also of equal credit, grounded upon the]
+
+[“ἐς Not so,” quoth the archbishop. It wasbetter declaration of the king's own mouth after that time,]
+
+[to attempt such reformation in king Henry the VIII. more near to his death, unto Bruno, ambassador of]
+
+[his days, than at this time, the king being in his John Frederick, duke of Saxony. Unto the which]
+
+[infancy. For if the king's father had set forth any ambassador of Saxony the king gave this answer]
+
+[thing for the reformation of abuses, who was he that openly, that if the quarrel of the duke of Saxony were]
+
+[durst gainsay it? Mary, we are now in doubt how nothing else against the emperor but for religion,]
+
+[men will take the change or alteration of abuses in he should stand to it strongly, and he would take]
+
+[the church; and therefore the council hath forborne his part, willing him not to doubt nor fear; and so]
+
+[especially to speak thereof, and of other things with this answer dismissed the ambassador unto the]
+
+[which gladly they would have reformed in this visi- duke openly, in the hearing of these four sufficient]
+
+[tation, referring all those and such like matters to witnesses, the L. Seymer, earl of Harforde, lord]
+
+[the discretion of the visitors. But if king Henry Lisley, then admiral, the earl of Bedford, lord privy]
+
+[the VIII. had lived unto this day, with the French seal, andlord Paget. But the secret working of God's]
+
+[king, it had been past my lord of Winchester's holy providence, which disposeth all things after]
+
+[power, to have visored the king's highness, as he his own wisdom and purpose, thought it good rather]
+
+[did when he was about the same league.’ by taking the king away to reserve the accomplish-]
+
+["[ am sure you were at Hampton Court,” ment of this reformation of his church to the peace-]
+
+[quoth the archbishop, when the French king's abletime of his son Edward, and Elizabeth hisdaugh-]
+
+[ambassador was entertained there at those solemn ter, whose hands were yet undefiled with any blood,]
+
+[banquetting houses, not long before the king's and life unspotted with any violence or cruelty."']]
+
+their lands daily, and, as it is said, by your majesty’s commandment. But this I am sure, that other men have gotten their best lands, and not your majesty. Wherefore this is mine only suit, that when your majesty's pleasure shall be to have any of their lands, that they may have some letter from your majesty to declare your majesty's pleasure, without the which they be sworn that they shall make no alienation; and that the same alienation be not made at other men's pleasures, but only to your majesty's use. For now every man that list to have any of their lands, makes suit to get it into your majesty's hands; not that your majesty should keep the same, but, by sale or gift from your majesty, to translate it from your grace's cathedral church unto themselves.
+
+**T.** CANTUARIEN.
 
 ---
 [[Cranmer MW 37 Letters CCXLIII–CCLXVI|← 37. Letters CCXLIII–CCLXVI]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 39 Letters CCLXXX–CCXCVII|39. Letters CCLXXX–CCXCVII →]]
+

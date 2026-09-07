@@ -4,547 +4,751 @@ author: "Thomas Cranmer"
 work: "Miscellaneous Writings and Letters"
 chapter: 30
 year: "1533-1556"
-source: "archive.org theworksofthomas0ps2, Parker Society (1846); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+grc+lat)"
 written: "1533-1556"
 tags:
   - protestant-reformers
   - thomas-cranmer
 ---
+
 # 30. Letters XV–LXXVI
 
-## XV. To (the Mayor of Cambridge and His Brethren
+Finally, I here send unto you a bill for the bank of four ducats de largo, which sum I would you should not take it up before you have need thereof, and therefore I send it for your commodity and necessity; for it 1s none of the king's graces money, nor his said grace knoweth nothing thereof, but aloncly of my benevolence to serve your purpose, in case, as I said, you should lack the same. And thus fare ye well. From my manor of Croydon, the xvii. day of June, [1533.]
 
-IN my right hearty wise I commend me unto you, and to each of you. And Hari. MSS. where of late I wrote unto you in the favour of one of mine ally, called Humfrye copy.1* 22' ' Stockewith, concerning his liberty in absenting himself from the offices of your town, the reasonable causes whereof I declared unto you in my other letters to you directed in that behalf, and since that time I have no understanding nc certification of your minds in that behalf: in consideration whereof, and forasmuch as I am some deal desirous to be advertised of your towardness therein, I heartily desire you to send me word by this bearer in writing, what you intend to do concerning the same. And if I herein may perceive any kindness in you for the obtaining of my request, I will at all times be ready to shew you like pleasure. And thus fare you well. From my manor of Croydon, the xxv. day of June.
+**XV.** TO THE MAYOR OF CAMBRIDGE AND HIS bRETHREN.
 
-To Master Mayor of Cambridge and his brethren.
+IN my right hearty wise I commend me unto you, and to each of you. And where of late I wrote unto you in the favour of one of mine ally, called Humfrye Stockewith, concerning his liberty in absenting himself from the offices of your town, the reasonable causes whereof I declared unto you in my other letters to you directed in that behalf, and since that time I have no understanding ne certification of your minds in that behalf: in consideration whereof, and forasmuch as I am some deal desirous to be advertised of your towardness therein, I heartily desire you to send me word by this bearer in writing, what you intend to do concerning the same. And if I herein may perceive any kindness in you for the obtaining of my request, I will at all times be ready to shew you like pleasure. And thus fare you well. From my manor of Croydon, the xxv. day of June.
 
-## XVI. To the Master 9 of Jesus College 10, Cambridge
+To Master Mayor of Cambridge and
 
-IN my right hearty wise I commend [me] unto you, &c. And so certifying you iiari. MSS. that I send you here a buck to be bestowed amonges your company within your college, copy. And forasmuch as you have more store of money, and also less need than I at this season, Of Abp. therefore I bequeath a noble of your purse towards the baking and seasoning of him. voLiLpp And whensoever I have so much money before hand as I am now behind hand, I shall " repay you your noble again. And thus fare you well. From my manor of Croydon, the xxvi. day of June ' '.
+## his brethren. XVI to the Master of Jesus College", Cambridge
 
-To the Master of Jesus College in Cantabrinc.
+IN my right hearty wise I commend [me] unto you, &c. And so certifying you
 
-[» " On the death of Dr West, bishop of Ely, his nephew and godson, I)r Nicholas Hawkins, archdeacon of Ely, at that time the king's ambas sador in foreign parts, was designed to succeed him ; but he dying before his consecration could be effected, the king granted his licence to the prior and convent, dated March fi, 1534, to choose them selves a bishop ; who immediately elected in their chapter-house, the seventeenth of the same month, Thomas Goodrich." Chalmers, Biogr. Diet. art. Goodrich. Vol. XVI. p. 91).] f9 Win. Capon. Vid. he Neve, Fasti, p. 431. Ed, Lond. 1710.]
+## 
 
-|10 Cranmer (about 1510, or 1511,) was elected fellow of Jesus College. He married when he had not attained the age of twenty-three, and before he had been admitted into holy orders. In about a year after his marriage his wife died. Such was his character, and such the regard of his former college for him, that he was immediately restored to the fellowship he had forfeited.—Todd's Life of Abp. Cranmer, Vol. I. pp. 3, 4, 8.J f11 This letter is placed by Mr Todd under the year 1552. Dr Jenkyns says he gives no conclusive reason for his arrangement ; and that the book of copies from which it is taken, may be fairly assumed from the known dates of some of its contents to have been wholly written before 153(1. Vid. Remains of Abp. Cranmer, Vol. I. p. 31. |
+that I send you here a buck to be bestowed amonges your company within your college. d:. And forasmuch as you have more store of money, and also less need than I at this season,.. therefore I bequeath a noble of your purse towards the baking and seasoning of him.
 
-(H48'fM-*M) RIGHT hearty and well-beloved, I commend me unto you, &c. letting you to underc°i'ystand, that by the great suit and instance of my special friends I have overcharged my house with servants. Wherefore I desire you, that your son W. may be with you at home unto such time as my business be something overpast. I can put none of my servants from me but such as have some friends to take unto, for else I think they should be greatly hindered thereby ; therefore I intend to put none away but such as be my friends' children. For lether I had be bold of my own friends than of strangers, by reason that strangers will peradvcnture take it more displeasantly and unkindly, than I am sure my own friends will. Surely and unfeignedly I do like your son singularly well, and therefore I intend to send for him, God willing, again, as shortly as I may conveniently. Moreover, I have spoken with doctor Elyston in your favour, and he hath taken day with me to St James' day next, to the intent he may be sure what the Chapel of St Marget is worth by the year : that done, I trust that matter will come to good effect, and that ye need not to doubt therein by God's grace; and thus fare ye well. From my manor of Croydon, the xxvid day of June.
+## 
 
-## XVIII. To the Bishop of Lincoln 1
+And whensoever I have so much money before hand as I am now behind hand, I shall repay you your noble again. And thus fare you well. From my manor of Croydon, the xxvi. day of June''.
 
-Hari. MSS. MY very loving lord, I commend me heartily to you. So it is that my servant John copy. ' ' Creke, this bearer, is in good hope of a preferment in the University of Oxforthe, by means of special good friends which do and wTould earnestly labour for him, as he shall declare unto you : wherein I pray you, my lord, right heartily, that he may for my sake have your favour and assistance ; which when it shall lie in me, I would surely requite and recompense, God willing ; who keep and preserve you ! From Croydon, the vth day of July.
+To the Master of Jesus College in Cantabrige.
+
+[8 “On the death of Dr West, bishop of Ely, not attained the age of twenty-three, and before he]
+
+[his nephew and godson, Dr Nicholas Hawkins, had been admitted into holy orders. In about a]
+
+[archdeacon of Ely, at that time the king's ambas- year after his marriage his wife died. Such was]
+
+[sador in foreign parts, was designed tosucceed him; his character, and such the regard of his former]
+
+[but he dying before his consecration could be college for him, that he was immediately restored to]
+
+[effected, the king granted his licence to the prior the fellowship he had forfeited.—Todd’s Life of]
+
+[and convent, dated March 6, 1534, to choose them- Abp. Cranmer, Vol. I. pp. 3, 4, 8.]]
+
+[selves a bishop; who immediately elected in their ΠῚ This letter is placed by Mr Todd under the]
+
+[chapter-house, the seventeenth of the same month, year1552. Dr Jenkyns says he gives no conclusive]
+
+[Thomas Goodrich." Chalmers, Biogr. Dict. art. reason for his arrangement; and that the book of]
+
+[Ed. Lond. 1716.) been wholly written before 1536. Vid. Remains of 1 Cranmer (about 1510, or 1511,) was elected Abp. Cranmer, Vol. I. p. 34.]
+
+[fellow of Jesus College. He married when he had]
+
+## XVII. To
+
+Ricur hearty and well-beloved, I commend me unto you, &c. letting you to understand, that by the great suit and instance of my special friends I have overcharged my house with servants. Wherefore I desire you, that your son W. may be with you at home unto such time as my business be something overpast. I can put none of my servants from me but such as have some friends to take unto, for else I think they should be greatly hindered thereby; therefore I intend to put none away but such as be my friends’ children. For lether I had be bold of my own friends than of strangers, by reason that strangers will peradventure take it more displeasantly and unkindly, than I am sure my own friends will. Surely and unfeignedly I do like your son singularly well, and therefore I intend to send for him, God willing, again, as shortly as I may conveniently. Moreover, I have spoken with doctor Elyston in your favour, and he hath taken day with me to St James’ day next, to the intent he may be sure what the Chapel of St Marget is worth by the year: that done, I trust that matter will come to good effect, and that ye need not to doubt therein by God's grace; and thus fare ye well. From my manor of Croydon, the xxvi" day of June.
+
+## XVIII. To the Bishop of Lincoln"
+
+My very loving lord, I commend me heartily to you. So it is that my servant John Creke, this bearer, is in good hope of a preferment in the University of Oxforthe, by means of special good friends which do and would earnestly labour for him, as he shall declare unto you: wherein I pray you, my lord, right heartily, that he may for my sake have your favour and assistance; which when it shall lie in me, I would surely requite and recompense, God willing; who keep and preserve you! From Croydon, the vth day of July.
 
 To my lord of Lincoln.
 
 ## XIX. To Balthasor
 
-Harl. MSS. f)14«. f. 26. Copy.
+Iv my right hearty wise I commend me unto you. And where it is so, that one 7 of my chaplains, named master Witwell^, by reason of a certain disease lying and being within his knee, is now under your cure for the remedy of the same; and, as I am credibly informed, [it] is so inveterately congealed, that it is not like easily and in short time to be dissolved, notwithstanding I understand you have declared hitherto as well kindness as diligence to him in that behalf; wherefore I heartily thank you for your said pains; requiring to continue your good towardness therein as you have begun, and so to use all such lawful expedition herein as may conveniently be devised, to the intent he may be the sooner released of this his pain. And in so doing I shall be ready to shew you always such pleasure as lieth in me to do, when you shall the same require. And thus fare you well. From my manor of Croydon, the vth day of July. To master Balthasor, surgeon unto the
 
-IN my right hearty wise I commend me unto you. And where it is so, that one of my chaplains, named master Wit well2, by reason of a certain disease lying and being within his knee, is now under your cure for the remedy of the same; and, as I am credibly informed, [it] is so invetcrately congealed, that it is not like easily and in short time to be dissolved, notwithstanding I understand you have declared hitherto as well kindness as diligence to him in that behalf; wherefore I heartily thank you for your said pains ; requiring to continue your good towardness therein as you have begun, and so to use all such lawful expedition herein as may conveniently be devised, to the intent he may be the sooner released of this his pain. And in so doing I shall be ready to shew you always such pleasure as lieth in me to do, when you shall the same require. And thus fare you well. From my manor of Croydon, the vth day of July.
+## kings highness
 
-To master Balthasor, surgeon unto the kings highness.
+[[! John Longland, bishop of Lincoln, succeeded [? Probably John Whitwel, the archbishop's]
 
-[' John Longland, bishop of Lincoln, succeeded archbishop Warham as chancellor of the University of Oxford in 1532. Wood's Fasti Oxon. p. DO. Ed. Bliss. Lond. 1813-20.]
+[archbishop Warham as chancellor of the University almoner and chaplain. Strype's Mem. of Abp.]
 
-[2 Probably John Whitwcl, the archbishop's almoner and chaplain. Strype's Mem. of Abp. Cranmer, Vol. I. pp. 251, 256. Ed. Oxon. 1840.]
+[of Oxford in 1532. Wood's Fasti Oxon. p. 90. Cranmer, Vol. I. pp. 251, 256. Ed, Oxon. 1840.]]
 
-## XX. To the Bishop of Lincoln 3
+[Ed. Bliss. Lond. 1813-20. ]]
 
-IN my right hearty wise I commend me unto you, &c. And where there is a matter rjaji. of variance between the warden of All Souls' College within the university of Oxford, and Copy. this bearer, sir TV. A. priest, for the interest of a chauntry lying and being within your diocese, from which he is expelled, as he saith, unjustly : in consideration thereof, and forasmuch as all such variances begun without my diocese, by the statute 4 I cannot call them before me ; having also in consideration the great cost and vexation whereby the parties should be put to coming unto me so faj : I heartily'pray you therefore, you being within three or four miles thereunto, to take some pains to set the parties at a unity and peace therein, according to right and conscience. And in thus doing, I will be as ready to shew you like pleasure at all times. And thus fare you well. From my manor of Croydon, the viiith day of July.
+## To the Bishop of Lincoln?
+
+Ix my right hearty wise I commend me unto you, &c. And where there is a matter of variance between the warden of All Souls’ College within the university of Oxford, and this bearer, sir W. A. priest, for the interest of a chauntry lying and being within your diocese, from which he is expelled, as he saith, unjustly: in consideration thereof, and forasmuch as all such variances begun without my diocese, by the statute I cannot call them before me; having also in consideration the great cost and vexation whereby the parties should be put to coming unto me so far: I heartily pray you therefore, you being within three or four miles thereunto, to take some pains to set the parties at a unity and peace therein, according to right and conscience. And in thus doing, I will be as ready to shew you like pleasure at all times. And thus fare you well. From my manor of Croydon, the viiith day of July.
 
 To my lord of Lincoln.
 
-## XXI. To Pottkyns
+## Xni. To Pottkyns
 
-MASTER Pottkyns, I greet you well, &c. And where there is a collation of a benefice Hari. MSS. now in my hands through the death of one sir Richarde Baylis, priest of the college of copy. Mallying, according as you may be further instruct by this letter herein inclosed, the place and room whereof I intend to dispose, I will therefore, that you send unto me a collation thereof; and that your said collation have a window expedient to set wThat name5 I will therein. And thus fare you well, &c. [1533.]
+Master Pottkyns, I greet you well, &c. And where there is a collation of a benefice now in my hands through the death of one sir Richarde Baylis, priest of the college of Mallying, according as you may be further instruct by this letter herein inclosed, the place and room whereof I intend to dispose, I will therefore, that you send unto me a collation thereof; and that your said collation have a window expedient to set what name I will therein. And thus fare you well, &c. [1533.]
 
-## XXII. To His Chancellor
+## XXII. To his Chancellor
 
-MASTER Chancellor, I greet you well. And where I sent unto you for the process of Hari. MSS. a variance between Pery6 and Benbowe, supposing you had taken and examined the copy. (S witness thereof, which I understand is not as yet done : in consideration thereof, I will that you forthwith examine the said witness, to the intent their depositions may be joined unto your said process, and then sent again therewithal unto [me]. Thus fare you well. From Croydon, the viiith day of July, &c.
+Master Chancellor, I greet you well. And where I sent unto you for the process of a variance between Pery and Benbowe, supposing you had taken and examined the witness thereof, which I understand is not as yet done: in consideration thereof, I will that you forthwith examine the said witness, to the intent their depositions may be joined unto your said process, and then sent again therewithal unto [me]. Thus fare you well. From Croydon, the viith day of July, &c.
 
-IN my right hearty wise I commend me unto you. And where I understand, that Hari. MSS. through the virtue of a certain commission to you directed, you have liberty and authority copy. to examine and finish a matter in controversy of land between one A. B. of the one party, and my loving friend C. D. of the other, father unto my trusty and wellbeloved servant this bearer : in consideration thereof, and forasmuch as this said variance hath so long de pended undetermined, not without great damage, and vexation of the said A. B. ; I heartily desire you, that at this mine instance, if you can conveniently at this time use such
+## XXIII. To
 
-[3 Vid. p. 248. n. 1.] | the bishop diocesan, to the archbishop of the pro-
+IN my right hearty wise I commend me unto you. And where I understand, that through the virtue of a certain commission to you directed, you have liberty and authority to examine and finish a matter in controversy of land between one A. B. of the one party, and my loving friend C. D. of the other, father unto my trusty and wellbeloved servant this bearer: in consideration thereof, and forasmuch as this said variance hath so long depended undetermined, not without great damage, and vexation of the said A. DB.; I heartily desire you, that at this mine instance, if you can conveniently at this time use sucli
 
-[4 Dr Jenkyns thinks this was probably the j vince. Statutes of the Realm. Vid. Remains of statute 24 Hen. VIII. c. 12, for restraint of appeals to Rome; by which it was enacted, that appeals should thenceforth be made " from the archdeacon or his official, if the matter be there begun, to the bishop diocesan of the said see, if in case any of the parties be grieved ;" and if it be commenced before
+[3 Vid. p. 248. n. 1.] the bishop diocesan, to the archbishop of the pro- [ Dr Jenkyns thinks this was probably the vince. Statutes of the Realm. Vid. Remains of]
 
-Abp. Cranmer, Vol. I. p. 36.]
+[statute 24 Hen. VIII. c. 12, for restraint of appeals Abp. Cranmer, Vol. I. p. 36.]]
 
-[5 The name inserted was Stephen Padley, who succeeded Richard Bayley the Uth of July, 1533. Cranmer's Register, fol. 340, a.]
+[to Rome; by which it was enacted, that appeals [5 The name inserted was Stephen Padley, who]
 
-[6 Vid. Letters, No. XXVIII. p. 252. No. XXXIII. p. 253.1
+[should thenceforth be made ' from the archdeacon succeeded Richard Bayley the 9th of July, 1533.]
+
+[or his official, if the matter be there begun, to the Cranmer's Register, fol. 340, a.]]
+
+[bishop diocesan of the said see, if in case any of the [$ Vid. Letters, No. XXVIII. p. 252. No.]
+
+[parties be grieved;" and if it be commenced before XXXIII. p. 233.]]
 
 expedition herein, that thereby he may know now to what determination he shall stand unto, which, after so many delays past, should now be unto him singular pleasure to know: exhorting you furthermore to shew unto him your lawful favour in his right, and, so doing, I will be as ready at all times, &c.
 
 ## XXIV. Warrant for Venison
 
-n.iri. MSS. WE will and command you to bring, or cause to be brought, into our larder, to the copy. ' ' use of our household within our manor of Otford, against the xxii1' day of this present month, one buck of season, to be taken out of our parks of Slyndon1 within your office, any restraint or commandment had or made to the contrary heretofore thereof in any wise notwithstanding, and that you fail not as ye tender our favour. And these our letters shall be your sufficient warrant and discharge in this behalf. Given under our signet at our manor of Otford, the xviii11 day of the month of July, in the xxv. year of the reign of, £c. and the first year of our consecration. £1533.]
+We will and command you to bring, or cause to be brought, into our larder, to the
 
-TT.irl. MSS. (5148. f. -27. Copy.
+**77. b.** ls; vi use of our household within our manor of Otford, against the xxii" day of this present month, one buck of scason, to be taken out of our parks of Slyndon' within your office, any restraint or commandment had or made to the contrary heretofore thereof in any wise notwithstanding, and that you fail not as ye tender our favour. And these our letters shall be your sufficient warrant and discharge in this behalf. Given under our signet at our manor of Otford, the xviii" day of the month of July, in the xxv. year of the reign of, &c. and the first year of our consecration. [1533.]
 
 ## XXV. To Kyngeston
 
-COUSIN Kyngcston2, in my right hearty wise I commend me to you: doing you to understand that I have received your letters, and do perceive the contents of the same. And where ye write, that your son Antony had small speed afore me, marvelling why I did use the old process, whereby you do think that the whole matter is frustrate and destroyed, and your son also : ye may be well assured, that I did pursue the said old process for none other intent, than for the information of my conscience only. And albeit I did thus use it, yet I was never minded to reduce the same in my sentence. And as I did therein, so would or should every good judge have done, if he would do his office and duty with equity. Ye do know well, that at the first beginning I sent for the same, and used it for my information. If I had not, or would not so have done, I might right well have been noted negligent, as not willing to know the truth. And I should have done otherwise than ever any judge did hitherto, or ever will do hereafter. And it is pity that ever I had been judge, if I would not have sought all means to be right informed. And when I took new depositions of other witness, I did it for none other intent but upon your son's words; supposing and trusting that he could have brought such witness as may have countervailed the first sixteen witness brought by you, which cometh now to none effect ; nor, as all the learned men in the law that were then present with me at that time, as well the Dean of the Arches as also both his counsel and hcr's, did then plainly say, it is not possible to bring any witness that should countervail the first sixteen witness, unless the said sixteen could be rejected as not honest men, and not indifferent to depose in the cause ; which thing although Dorothy Harp do say that she can do, nevertheless I do not think it. And to be plain with you, as far as I do see yet in the matter, I am at my wits' end to give you counsel in it ; for by my faith, if I could imagine any good counsel in the same, I would be no less glad to give it you, than you would be to take it. But in my judgment, all the learned men of England cannot give
+[[! In Sussex, near Arundel.] that Anthony his son may have been the sir An- [3 Dr Jenkyns conjectures that this may have thony Kingston, who, as provost-marshal of the]
 
-[l In Sussex, near Arundel.J
+[been sir William Kingston, commander of the western army in 1549, was more distinguished for]
 
-[2 Dr Jenkyns conjectures that this may have been sir William Kingston, commander of the guard sent to conduct Wolsey to the king, and con stable of the Tower at the time of Anne Boleyn's imprisonment there : (see Ellis, Original Letters, 1st ser. Vol. II. p. 53. Ed. Lond. 1824) and that Anthony his son may have been the sir An thony Kingston, who, as provost-marshal of the western army in 154!), was more distinguished for the readiness of his wit than for his humanity. See an instance of his cruelty in Cranmer's Answer to the fifteen Articles of the Rebels of Devon, supra pp. 186, 7, n. 6.J you counsel, except you take the other way of your son's impotency ; and yet I think that will not serve neither. And where you write, that the setting forth of the first pro cess and witness was only your act for three causes special in your letters expressed : I do think verily, that if those witness examined, knowing the truth, do conceal the truth, and depose otherwise than truth, surely they be much to be blamed and worthy great punishment ; and then they, and you that brought them forth, have lost your son, and not I. And contrariwise, if they knowing the truth have deposed nothing but truth, and as they do know, then the matter must stand as it may stand with equity, and ye to be contented therewith. Wherein you shall be well assured to have me upright and just, without any manner of inclination to any party otherwise than justice will suifer ; but so far as equity and justice will permit, I shall be glad to incline to your desire, and specially seeing that it is the desire of the other party also. But meseemeth for this time, that if your son and his wife would both set apart their wilful minds, and agree together as man and wife, it should be great comfort to them and all their friends, and to the pleasure of God. And if they will continue in their folly still, except I can see some better cause why they should not be man and wife than I do see yet, I shall never consent, that he shall live in adultery with another woman, and she with another man. For if he were my son, I had rather that he begged all his life than to live in adultery ; and so I think you had also. And thus our Lord preserve you ! From my manor of Otford the xix. day of July.
+[guard sent to conduct Wolsey to the king, and con- the readiness of his wit than for his humanity. See]
+
+[stable of the Tower at the time of Anne Doleyn's an instance of his cruelty in Cranmer's Answer to]
+
+[imprisonment there: (see Ellis, Original Letters, the fifteen Articles of the Rebels of Devon, supra]
+
+[Ist ser. Vol. II. p. 593. Ed. Lond. 1824) and pp. 186, 7, m.6.]]
+
+. you counsel, except you take the other way of your son's impotency; and yet I think that will not serve neither. And where you write, that the setting forth of the first process and witness was only your act for three causes special in your letters expressed: I do think verily, that if those witness examined, knowing the truth, do conceal the truth, and depose otherwise than truth, surely they be much to be blamed and worthy great punishment; and then they, and you that brought them forth, have lost your son, and not I. And contrariwise, if they knowing the truth have deposed nothing but truth, and as they do know, then the matter must stand as it may stand with equity, and ye to be contented therewith. Wherein you shall be well assured to have me upright and just, without any manner of inclination to any party otherwise than justice will suffer; but so far as equity and justice will permit, I shall be glad to incline to your desire, and specially seeing that it is the desire of the other party also. But meseemeth for this time, that if your son and his wife would both set apart their wilful minds, and agree together as man and wife, it should be great comfort to them and all their friends, and to the pleasure of God. And if they will continue in their folly still, except I can see some better cause why they should not be man and wife than I do see yet, I shall never consent, that he shall live in adultery with another woman, and she with another man. For if he were my son, 1 had rather that he begged all his life than to live in adultery; and so I think you had also. And thus our Lord preserve you! Irom my manor of Otford the xix. day of July.
 
 ## XXVI. To Certain Curates
 
-FORASMUCH as I am credibly informed by the churchwardens of the parish of Mailing, n.iri. MSS. how that their church is so far in decay, that the said parish of itself is not able to repair copy. ' the same again without great help of their well-disposed neighbours ; by reason whereof they have instantly desired of me [to] write to your parish in their behalf : I will there fore, that ye at a convenient time exhort and move your parishioners to give their aid and help unto them therein ; inasmuch as in so doing it will be both a right charitable deed, and also a very good occasion whereby your said parish may require of them such like com modity when you shall need (as they do) likewise the same. Willing you also to desire two of the most honest men of your said parish, to take the pains in ^gathering and pre serving of that which shall be given in this behalf. And thus fare you well. From my manor of Otford, the xix. day of July.
+FonaswucH as I am credibly informed by the church wardens of the parish of Malling, how that their church is so far in decay, that the said parish of itself 1s not able to repair the same again without great help of their well-disposed neighbours; by reason whereof they have instantly desired of me [to] write to your parish in their behalf: I will therefore, that ye at a convenient time exhort and move your parishioners to give their aid and help unto them therein; inasmuch as in so doing it will be both a right charitable deed, and also a very good occasion whereby your said parish may require of them such like commodity when you shall need (as they do) likewise the same. Willing you also to desire two of the most honest men of your said parish, to take the pains in gathering and preserving of that which shall be given in this behalf. And thus fare you well. From my manor of Otford, the xix. day of July.
 
 To certain Curates.
 
-## XXVII. To the Abbot of Westminster 3
+## Xnvil to the Abbot of Westminster
 
-BROTHER Abbott, in my right hearty wise I commend me unto you, &c. And where H.ui. MSS and forasmuch as ye were contented to promise unto me the next room that should chance copV a hereafter to be void, among the beadmcn in the foundation4 of that noble prince of perpetual memory, king Henry the VHth, for one John Fysshcr, whom I do much tender in that behalf ; I heartily desire you therefore not to forget your said promise, but that ye will remember the same, even as you would be remembered of me at such time as it lieth in me to shew you any pleasure hereafter. And thus fare you well. From my manor of Otford, the xix. day of July.
+Brorurr Abbott, in my right hearty wise I commend me unto you, &c. And where and forasmuch as ye were contented to promise unto me the next room that should chance hereafter to be void, among the beadmen in the foundation of that noble prince of perpetual memory, king Henry the VIIth, for one John Fyssher, whom I do much tender in that behalf; I heartily desire you therefore not to forget your said promise, but that ye will remember the same, even as you would be remembered of me at such time as it lieth in me to shew you any pleasure hereafter. And thus fare you well. From my manor of Otford, the xix. day of July.
 
 To my brother Abbot of Westminster.
 
-P Vid. Letter VIII. p. 240.] I Westminster. Rymer's Fttdera, Vol. XIV. pp.
+[3 Vid. Letter V III. p. 240.] Westminster. Rymers Fadera, Vol XIV. pp. [ Vid. the oath of William Boston, abbot of 459-62.]]
 
-[« Vid. the oath of William Boston, abbot of I 459-62.]
+## XXVIII. To his Chancellor
 
-Harl. MSS. til 48. f. 28. Copy.
-
-## XXVIII. To His Chancellor
-
-MR Chancellor, I greet you well. I will that you send unto me all the process of the judges delegatory, with the depositions of such witness as I wrote of late to you of to be examined concerning the matter of variance of matrimony between Thomas Perry and Jane Benbowe, which if you have accordingly done, then to warn the parties to appear before me on Monday next coming. And thus fare you well, £c.
+Mn Chancellor, I greet you well. I will that you send unto me all the process of the judges delegatory, with the depositions of such witness as I wrote of late to you of to be examined concerning the matter of variance of matrimony between Thomas Perry and Jane Benbowe, which if you have accordingly done, then to warn the parties to appear before me on Monday next coming. And thus fare you well, &c.
 
 ## XXIX. To Crumwell
 
-Hari. MSS. fo niy right hearty wise I commend me unto you. And where the prior of the friar
+Ix my right hearty wise I commend me unto you. And where the prior of the friar — preachers of Bristol sueth unto me for a licence to preach, yet am I loth to grant the same, unless I might have some sure information by one of the council how he is discharged of his business before them: in consideration hereof I heartily desire you to advertise me by this bearer, in what case he standeth, and whether he be after such a sort and manner discharged, so that it be meet for me to give him my said licence to preach through my province. And thus fare ye well. From my manor of Otford, the xix. day of July.
 
-Copy. ' preachers of Bristol sueth unto me for a licence to preach, yet am I loth to grant the same, unless I might have some sure information by one of the council how he is dis charged of his business before them : in consideration hereof I heartily desire you to advertise me by this bearer, in what case he standeth, and whether he be after such a sort and manner discharged, so that it be meet for me to give him my said licence to preach through my province. And thus fare ye well. From my manor of Otford, the xix. day of July.
-
-Over this, I most heartily desire you at this mine instance to further all that in you is this said bearer, my servant, touching his preferment to the room of the esquire bedell of arts at Oxford, which is now in the king's grace's hands to give to whom he will at his pleasure, forasmuch as the said university hath without his grace's assent and licence admitted one by way of resignation to the said room, (their ' statutes and liberties as well then as now being in the king's hands,) which admittance, as I am informed, is frustrate, if it would so please his grace to consider the same ; therefore gladly would I that my said servant were preferred thereunto before another, considering how it would be to him an apt room, and also a good living therewithal. Wherefore, cftsoons I pray you to shew unto him your lawful favour in this behalf, whereby you shall not alonely bind him to be your daily headman, but also be sure of me to shew you any pleasure that I can therefore. And thus fare you well. From my manor of Otford, the xix. day of July.
+Over this, I most heartily desire you at this mine instance to further all that in you is this said bearer, my servant, touching his preferment to the room of the esquire bedell of arts at Oxford, which is now in the king's graces hands to give to whom he will at his pleasure, forasmuch as the said university hath without his grace's assent and licence admitted one by way of resignation to the said room, (their! statutes and liberties as well then as now being in the king's hands,) which admittance, as I am informed, is frustrate, if it would so please his grace to consider the same; therefore gladly would I that my said servant were preferred thereunto before another, considering how it would be to him an apt room, and also a good living therewithal. Wherefore, eftsoons I pray you to shew unto him your lawful favour in this behalf, whereby you shall not alonely bind him to be your daily beadman, but also be sure of me to shew you any pleasure that I can therefore. And thus fare you well. From my manor of Otford, the xix. day of July.
 
 To my especial friend, master Cromwell.
 
-Harl. MSS. (i!4H. f. 28, b Copy.
+**XXX.** TO THE PRIORESS OF ST SEPULCHRES, CANTERBURY.
 
-## XXX. To the Prioress of St Sepulchre's, Canterbury
-
-SISTER prioress, in my hearty wise I commend me unto you. And so likewise will that you do repair unto me to my manor of Otford, and bring with you your nun3 which was some time at Courteupstrete, against Wednesday next coming : and that ye fail not herein in any wise. Thus fare you well. From our manor of Otford, £e. [1533.]
+SisrER prioress, in my hearty wise I commend me unto you. And so likewise will 35 b- that you do repair unto me to my manor of Otford, and bring with you your nun which was some time at Courteupstrete, against Wednesday next coming: and that ye fail not herein in any wise. Thus fare you well. From our manor of Otford, &c. [1533.]
 
 To the Prioress.
 
-[l "After these troubles followed others of greater moment between the university and town, concerning divers liberties and privileges, the report of which coming to the king's hearing, instructions were sent down from him to make a surrender of their liberties." In pursuance of these instructions the university surrendered their privileges both regal and papal. "Soon after, or about that time, the burgesses surrendered up their chicfest privileges, (though not all, as from several complaints is ap parent,) together with an obligation, whereby they stood bound to abide the word or decision of the king. After he had retained them some time in his hands, (the places in the university disposal, which fell in that time, being bestowed by him on those he thought lit, as particularly a bedell's place,) he at length (after several articles had been put up against each other in that time, which for brevity 1 omit) confirmed all the ancient privileges and liberties of the university, and commanded all his subjects, particularly the mayor and burghers of Oxford, to observe, keep, and in no wise infringe them." Wood's Annals, A.n. Io32._]
+[[! After these troubles followed others of hands, (the places in the university disposal, which]
 
-[2 Elizabeth Barton. Vid. Confutation of Un written Verities, p. 65.]
+[greater moment between the university and town, fell in that time, being bestowed by him on those]
 
-## XXXI. To Lord Abergavenny 3
+[concerning divers liberties and privileges, the report he thought fit, as particularly a bedell’s place,) he]
 
-IN my right hearty wise I commend me unto your lordship, £c. And where I am n.iri. MSS. informed by divers of my tenants of May field4, that there be certain ancient franchises copy. ' and liberties thereunto belonging, which hitherto hath been always quietly maintained by my predecessors ; notwithstanding, as they do again report, there is one William Smythe hath enterprised to infringe the said liberties, in serving of a supplicavit to one John Kydder tenant there : in consideration thereof, I heartily desire you, forasmuch as I am myself ignorant of such liberties, that you will execute and provide such condign punishment for the offender herein as law and conscience will suffer you thereunto, so that this poor man may have some redress thereby. Requiring you furthermore henceforward to redress all such offences within my said liberties, upon like informations, according to your discreet and politic wisdom in that behalf, as you shall think most necessary from time to time. And in thus doing you shall not alonely do unto me singular pleasure, but also thereby be sure of me to shew at all times that pleasure I may. Thus fare you well. From my manor of Otford, the xix. day of July.
+[of which coming to the king's hearing, instructions at length (after several articles had. been put up]
 
-To mine especial friend my lord of Burgavenny.
+[were sent down from him to make a surrender of against each other in tliat time, which for brevity]
 
-## XXXII. To the Dean of the Arches
+[their liberties," In pursuance of these instructions I omit) confirmed all the ancient privileges and]
 
-MR Dean, I greet you well. And where I am informed by one James Bulstrode, Hari. M*S. that he hath divers witness, which could make manifest depositions concerning the matter Copy.' * of variance in matrimony between him and one Edwardes, whose said witness as yet you have not examined, ne will not, as he reporteth, unless you have some knowledge from me therein : I will therefore, in case it be not repugnant or prejudicial to the course of the law, that you take all manner of depositions, as well for the one part as for the other, to the intent the knowledge of the truth may the more openly appear in this behalf. And thus fare you well. From my manor of Otford, the xxi. day of July.
+[the university surrendered their privileges both regal liberties of the university, and commanded all his]
 
-## XXXIII. To the Dean of the Arches
+[and papal. “Soon after, or about that time, the subjects, particularly the mayor and burghers of]
 
-MR Dean, I greet you well. And where as well the matter in controversy between Hari. MSS. Thomas Perry and one Benbowe, as also the matter between James Bulstrode and one Cc4py.f' 2 *' b' Edwardes, stand undetermined, the parties with importune suit always calling unto me thereupon, and the term almost now at an end : i[n] consideration thereof, and foras much as I am not assured what day is most convenient to appoint the said parties to be here before me, having your assistance therewithal ; I will therefore, that ye appoint both day and time in that behalf, willing you further to warn Doctor Townsende to be here with you, so that he may still continue with me in the vacation time. And further, that you appoint either party to bring with them their learned counsel, to the intent we make the more speed therein. Over this I advertise you, that where you desire to know my
+[burgesses surrendered up their chiefest privileges, Oxford, to observe, keep, and in no wise infringe]
 
-[4 " Accordingly I find, in the forementioned manuscript book of sales of kings' lands, that Thomas, archbishop of Canterbury, did, in the first year of king Edward VI., partly by purchase, and partly by exchange of other lands, procure divers lands of the king. He obtained the rectory of Whalley, Blackbourn, and Rochdale, in the county of Lancaster, lately belonging to the monastery or abbey of Whalley in the same county ; and divers other lands and tenements in the counties of Lan caster, Surrey, London, Bangor. And this partly in consideration of king Henry VIII. his promise, and in performance of his will ; and partly in ex change for the manor and park of May field in the county of Sussex, and divers other lands and tene ments in the counties of Middlesex, Hertford, Kent, Buckingham, and York." Strype's Mem. of Abp. Cranmer, Vol. I. p. 403. Ed. Oxon. 1840.]
+[(though not all, as from several complaints is ap. them.” Wood's Annals, A.D. 1532. ]]
+
+[parent,) together with an obligation, whereby they [? Elizabeth Barton. Vid. Confutation of Un-]
+
+[stood bound to abide the word or decision of the written Verities, p. 65.]]
+
+[king. After he had retained them some time in his]
+
+## XXXI. To Lord Abergavenny-"
+
+IN my right hearty wise I commend me unto your lordship, &c. And where I am informed by divers of my tenants of Mayfield", that there be certain ancient franchises and liberties thereunto belonging, which hitherto hath been always quietly maintained by my predecessors; notwithstanding, as they do again report, there is one William Smythe hath enterprised to infringe the said liberties, in serving of a supplicavit to one John Kydder tenant there: in consideration thereof, I heartily desire you, forasmuch as I am myself ignorant of such liberties, that you will execute and provide such condign punishment for the offender herein as law and conscience will suffer you thereunto, so that this poor man may have some redress thereby. Requiring you furthermore henceforward to redress all such offences within my said liberties, upon like informations, according to your discreet and politic wisdom in that behalf, as you shall think most necessary from time to time. And in thus doing you shall not alonely do unto me singular pleasure, but also thereby be sure of me to shew at all times that pleasure I may. Thus fare you well. From my manor of Otford, the xix. day of July. To mine especial friend my lord of
+
+## DBurgavenny. XXXII. To the Dean of the Arches
+
+Mn Dean, I greet you well. And where I am informed by one James Bulstrode, that he hath divers witness, which could make manifest depositions concerning the matter of variance in matrimony between him and one Edwardes, whose said witness as yet you have not examined, ne will not, as he reporteth, unless you have some knowledge from me therein: I will therefore, in case 1t be not repugnant or prejudicial to the course of the law, that you take all manner of depositions, as well for the one part as for the other, to the intent the knowledge of the truth may the more openly appear in this behalf. And thus fare you well. From my manor of Otford, the xxi. day of July.
+
+## Xnxniii to the Dean of the Arches
+
+Mn Dean, I greet you well. And where as well the matter in controversy between Thomas Perry and one Benbowe, as also the matter between James Bulstrode and one Edwardes, stand undetermined, the parties with importune suit always calling unto me thereupon, and the term almost now at an end: i[mn] consideration thereof, and forasmuch as I am not assured what day is most convenient to appoint the said parties to be here before me, having your assistance therewithal; I will therefore, that ye appoint both day and time in that behalf, willing you further to warn Doctor Townsende to be here with you, so that he may still continue with me in the vacation time. And further, that you appoint either party to bring with them their learned counsel, to the intent we make the more speed therein. Over this I advertise you, that where you desire to know my
+
+[[ Vid. p. 64, ». 2.] other lands and tenements in the counties of Lan- [ Accordingly I find, in the forementioned caster, Surrey, London, Bangor. And this partly]
+
+[manuscript book of sales of kings’ lands, that in consideration of king Henry VIII. his promise,]
+
+[Thomas, archbishop of Canterbury, did, in the first and in performance of his will; and partly in ex-]
+
+[year of king Edward VI., partly by purchase, and change for the manor and park of Mayfield in the]
+
+[partly by exchange of other lands, procure divers county of Sussex, and divers other lands and tene-]
+
+[lands of the king. He obtained the rectory of ments inthe counties of Middlesex, Hertford, Kent,]
+
+[Whalley, Blackbourn, and Rochdale, in the county Buckingham, and York." Strype's Mem. of Abp.]
+
+[of Lancaster, lately belonging to the monastery or Cranmer, Vol, I. p. 403. Ed. Oxon. 1840.]]
+
+[abbey of Whalley in the same county; and divers]
 
 mind, whether you shall make privy Mr Chancellor and Pottkyns in the matter which you wrote to me of; my mind is in that behalf, that you shall shew nothing to them thereof, but keep the same to yourself until your next resort unto me, when you shall know further of my mind therein. And thus fare you well. From my manor of Otford, the xxii. day of July.
 
 ## XXXIV. To Dr Bell
 
-Hari. MSS. I HEARTILY commend me unto you : and forasmuch as ye heretofore promised me that copy." I should have a determinate answer of you, as touching the taking to farm of your benefice beside Southwell called Normanton for a kinsman of mine, and that the time which ye appointed to give the same is now past : I desire you therefore, that ye without any further delay will send me now by my servant, this bearer, a final answer in this behalf. And where ye before made a stop herein, because of your promise which ye made to master Basset, I assure you, he hath assigned and remitted unto me his interest and title in the same, like as I shall plainly shew you by his letters, what time soever ye shall require to see them. Thus fare ye well. From my manor of Otford, the xxiili day of July.
+I nzAnTILY commend me unto you: and forasmuch as ye heretofore promised me that I should have a determinate answer of you, as touching the taking to farm of your benefice beside Southwell called Normanton for a kinsman of mine, and that the time which ye appointed to give the same is now past: I desire you therefore, that ye without any further delay will send me now by my servant, this bearer, a final answer in this behalf. And where ye before made a stop herein, because of your promise which ye made to master Basset, I assure you, he hath assigned and remitted unto me his interest and title in the same, like as I shall plainly shew you by his letters, what time soever ye shall require to see them. Thus fare ye well. From my manor of Otford, the xxiiti day of July.
 
 To master Dr Bell be this delivered.
 
-## XXXV. To Dr Bell
+## Xxxyv. To Dr Bell
 
-Hari. MSS. IN my right hearty wise I commend me unto you. And even so thank you for
-
-Copy. your benevolent kindness, which for my sake ye have shewed unto this bearer my kinsman, requiring you hereunto, as ye have begun so to proceed with the same, in all such his matters and affairs as he shall have hereafter to do with you. And foras much as ye be so good to grant unto him a lease of your benefice, I require you as in that behalf to let him enjoy it as shortly as you may conveniently, trusting also that you will thereunto extend and enlarge your conscience, for granting sufficient years therein. And look what pleasure or commodity on my behalf I can do for you, ye may be sure of me to accomplish the same from time to time, £c.
+IN my right hearty wise I commend me unto you. And even so thank you for 39 your benevolent kindness, which for my sake ye have shewed unto this bearer my kinsman, requiring you hereunto, as ye have begun so to proceed with the same, in all such his matters and affairs as he shall have hereafter to do with you. And forasmuch as ye be so good to grant unto him a lease of your benefice, I require you as in that behalf to let him enjoy it as shortly as you may conveniently, trusting also that you will thereunto extend and enlarge your conscience, for granting sufficient years therein. And look what pleasure or commodity on my behalf I can do for you, ye may be sure of me to accomplish the same from time to time, &c.:
 
 To the same.
 
 ## XXXVI. To Dr Claybroke and Dr Bassett
 
-Hnri. MSS. I HEARTILY commend me unto you : likewise thanking you for this bearer my kins-
+I uEARTILY commend me unto you: likewise thanking you for this bearer my kinsman, to whom as I understand you be especial friend, in such matters and causes as he hath to do with you, requiring you also in my name and behalf to give condign thanks unto the vicars chorals at Southwell for the same. And if I may do unto you or them any pleasure, ye shall always have me ready to that lieth in me the best I can, &c.
 
-Copy. man, to whom as I understand you be especial friend, in such matters and causes as he hath to do with you, requiring you also in my name and behalf to give condign thanks unto the vicars chorals at Southwell for the same. And if I may do unto you or them any pleasure, ye shall always have me ready to that lieth in me the best I can, &c.
+To doctor Claybroke and doctor Bassett.
 
-To doctor Claylroke and doctor Bassett.
+## XXXVII. To the Duchess of Norfolk"
 
-## XXXVII. To the Duchess of Norfolk 1
+ΜΆΡΑΜ, in my most hearty wise I commend me unto your ladyship: and so certify ^^ you, that I have received your letter concerning the permutation of the benefice of
 
-itsr.. MADAM, in my most hearty wise I commend me unto your ladyship : and so certify you, that I have received your letter concerning the permutation of the benefice of
+[[! Probably the duchess dowager, who was rine Howard," Vid. Jenkyns’ Remains of Abp.]
 
-[' " Probably the duchess dowager, who was | rine Howard." Vid. Jenkyns' Remains of Abp. afterwards attainted of misprision of treason, for conj Cranmer, Vol. I. p. (17) and Burnet's Hist, of Recealing the misconduct of her granddaughter, Cathaj format. Vol. 1. p. fi'2(J. Ed. Oxon. 18-!). J
+[afterwards attainted of misprision of treason, for con- Cranmer, Vol. I. p. 47, and Burnet's Hist. of Re-]
 
-Cheving unto your chaplain, Mr Molinex, wherein I was ever minded to satisfy your desire so much as in me was ; but forsomueh as the said Mr Baschirche2 changed his mind, and that he hath resigned the said benefice unto another man3, your ladyship's further request now is, to have the next grant of the said benefice of Cheving, when it shall be by any manner way void, promising therefore the resignation of a benefice of the king's patronage, named Curremalet in Somersetshire, to whomsoever I shall name the same. Truly I am right well contented to apply unto your mind therein, although this said benefice of Cheving is well worth forty marks, which is much more than the eighteen pounds. And where you wrote, that after so many times sent to know my mind herein, as yet you have no word thereof : surely I commanded my servant Creke to inform you after what condition the said benefice was resigned ; as knoweth Almighty Jesus, who I beseech to preserve your good ladyship. From my manor of Otford, the xxiii. day of July, [1533.]
+[cealing the misconduct of her granddaughter, Catha- format. Vol. I. p. 626. Ed. Oxon. 1829. ]]
 
-To the right honouralle and my very good lady the duchess of Northfolk.
+— — Cheving unto your chaplain, Mr Molinex, wherein I was ever minded to satisfy your desire so much as in me was; but forsomuch as the said Mr Baschirche changed his mind, and that he hath resigned the said benefice unto another man?, your ladyship’s further request now is, to have the next grant of the said benefice of Cheving, when it shall be by any manner way void, promising therefore the resignation of a benefice of the king’s patronage, named Curremalet in Somersetshire, to whomsoever I shall name the same. Truly I am right well contented to apply unto your mind therein, although this said benefice of Cheving is well worth forty marks, which is much more than the eighteen pounds. And where you wrote, that after so many times sent to know my mind herein, as yet you have no word thereof: surely I commanded my servant Creke to inform you after what condition the said benefice was resigned; as knoweth Almighty Jesus, who I beseech to preserve your good ladyship. From my manor of Otford, the xxii. day of July, [1533.]
 
-## XXXVIII. To Lord Arundel
+To the right honourable and my very good
 
-IN my right hearty wise I commend me unto your good lordship, &c. And where I Hari. MSS. am credibly informed of a certain composition concluded between my predecessors and copy, yours, concerning the game and other liberties in the forest of Arundell, for the number of thirteen bucks or stags in summer, and for so many does or hinds in winter, which (as is more plainly specified) are yearly due unto the archbishop of Canterbury's larder, within his manor of Slyndon4 ; in consideration hereof, and forasmuch as the store of my other parks and games are now, by reason of this last vacation, utterly wasted and decayed, whereby I am at this season destitute of venison, both for myself and my friends ; and so am thereby also now constrained more effectually to require of you this my said duty herein ; I most heartily desire your lordship, that I may have these my said bucks or stags at your pleasure at this time. And hereafter when my game is better increased and replenished, I shall be as glad again to accomplish your requests in such like matters from time to time, &c.
+lady the duchess of Northfolk.
 
-To my very singular good lord, my lord of Arundell.
+## Xxnviii. To Lord Arundel
 
-## XXXIX. The Duke of Norfolk to Cranmer
+IN my right hearty wise I commend me unto your good lordship, &c. And where I am credibly informed of a certain composition concluded between my predecessors and yours, concerning the game and other liberties in the forest of Arundell, for the number of thirteen bucks or stags in summer, and for so many does or hinds in winter, which (as is more plainly specified) are yearly due unto the archbishop of Canterbury's larder, within his manor of Slyndon; in consideration hereof, and forasmuch as the store of my other parks and games are now, by reason of this last vacation, utterly wasted and decayed, whereby I am at this season destitute of venison, both for myself and my friends; and so am thereby also now constrained more effectually to require of you this my said duty herein; I most heartily desire your lordship, that I may have these my said bucks or stags at your pleasure at this time. And hereafter when my game is better increased and replenished, I shall be as glad again to aecomplish your requests in such like matters from time to time, &c.
 
-MY lord, in my right hearty manner I commend me unto you : signifying unto the Hari. MSS. same that the king's pleasure is, that ye do send unto me, with all speed and celerity, ropy. all such books and writings as ye have in your custody, sealed or subscribed with the hands of learned men, for the justifying of his highness' great cause ; and that with the said books and writings ye do send also all such manner process in form authentic, as hath been made by you touching his grace's said cause. From Grenwich, the vth5 day of September, [1533.]
+To my very singular good lord, my
 
-Yours, T. NORFOLKE. To my lord of Canterbury his grace.
+## lord of Arundell. XXXIX. The Duke of Norfolk to Cranmer
 
-[2 Probably sir Thomas Baschurche, a priest, sometime secretary to archbishop Warham.]
+My lord, in my right hearty manner I commend me unto you: signifying unto the same that the king's pleasure is, that ye do send unto me, with all speed and celerity, all such books and writings as ye have in your custody, sealed or subscribed with the hands of learned men, for the justifying of his highness’ great cause; and that with the said books and writings ye do send also all such manner process in form authentic, as hath been made by you touching his grace's said cause, From Grenwich, the vth? day of September, [1533.]
 
-[3 Viz. Richard Astall, collated to Chevening the loth of Oct. 1533. Vid. Cranmer's Register.]
+**Yours, T.** Nonrorkr.
 
-[4 Vid. Letter XXIV. p. 250. n. l.J
+To my lord of Canterbury his grace.
 
-[• The court of Henry VIII. was at this time at Greenwich, where the accouchment of Anne Boleyn was expected. The documents referred to above were probably considered necessary to esta blish the validity of his marriage with Anne Boleyn, and consequently the legitimacy of her child.]
+[[^ Probably sir Thomas Baschurche, a priest, at Greenwich, where the accouchment of Anne]
 
-## XL. To the Duke of Norfolk
+[sometime secretary to archbishop Warham.] Boleyn was expected. The documents referred to [ὁ Viz. Richard Astall, collated to Chevening above were probably considered necessary to esta-]
 
-^Y ^or(^' m my Tl$lt hrarty manner I commend me unto your good lordship: certifying the same, that this present Sunday1 I have caused to be delivered unto master Cromewell all such books and writings as have come to my hands concerning the king's grace's great cause, according to the said Mr Cromewell's request, made unto me therein in his said grace's behalf. And as for all manner process had and made in the said matter, they be remaining in the hands of my chancellor, to be reduced in authentic form according to the order of the law for such a process. And for this intent I have sent one of my secretaries to bring them unto you with all celerity he can.
+[the 15th of Oct, 1533. Vid. Cranmer's Register.] blish the validity of his marriage with Anne [ Vid. Letter XXIV. p. 250. n. 1.] Boleyn, and consequently the legitimacy of her [^ The court of Henry VIII. was at this time child.]]
+
+## To the Duke of Norfolk
+
+My lord, in my right hearty manner I commend me unto your good lordship: ^ eertifying the same, that this present Sunday I have caused to be delivered unto master Cromewell all such books and writings as have come to my hands concerning the king's grace's great cause, according to the said Mr Cromewell's request, made unto me therein in his said grace's behalf. And as for all manner process had and made in the said matter, they be remaining in the hands of my chancellor, to be reduced in authentic form according to the order of the law for such a process. And for this intent I have sent one of my secretaries to bring them unto you with all celerity he can. [1533.]
 
 To my lord of Norfolk his grace.
 
-Harl. MSS. 6148. f. 31. Copy.
+## XLI. To Rosell-
 
-## XLI. To Rosell 2
+Bnornrn Rosell, in my right hearty wise I commend me unto you, and in like wise to my sister your bedfellow, &c. And where I understand that your son is very apt to learn and given to his book, I will advise you therefore that ye suffer not him to lose his time; but either that ye set him forth to school at Southwell, or else send him hither unto me, that at the least between us he utterly lose not his youth, &c. Further, I pray you, have me commended unto your father and mother. And thus fare ye well. From my manor of Otford, &c.
 
-BROTHER Rosell, in my right hearty wise I commend me unto you, and in like wise to my sister your bedfellow, &c. And where I understand that your son is very apt to learn and given to his book, I will advise you therefore that ye suffer not him to lose his time; but either that ye set him forth to school at Southwell, or else send him hither unto me, that at the least between us he utterly lose not his youth, &c. Further, I pray you, have me commended unto your father and mother. And thus fare ye well. From my manor of Otford, &c.
+## XLII. To his Chancellor
 
-Harl. MSS. 0148. f. 31. Copy.
-
-## XLII. To His Chancellor
-
-MASTER Chancellor, I commend me unto you : and so will that, according to the due form and manner of my licence in that behalf, you do admit into the arches this bringer, Mr doctor Cave, a civilian, in as ample manner and condition as shall be most convenient both for his state and degree therein. And thus fare you well, &c.
+Master Chancellor, I commend me unto you: and so will that, according to the due " form and manner of my licence in that behalf, you do admit into the arches this bringer, Mr doctor Cave, a civilian, in as ample manner and condition as shall be most convenient both for his state and degree therein. And thus fare you well, &c.
 
 To master chancellor.
 
-Harl. MSS. 6148. f. 31. Copy.
+## XLII. To the Dean of the Arches
 
-## XLIII. To the Dean of the Arches
+Master dean, I commend me unto you, &c., signifying the same, that inasmuch as I have admitted this bearer, Mr doctor Cave, for one of the arches, I will that you in like condition and effect do consider and take the same from time to time accordingly, &c. To master dean.
 
-MASTER dean, I commend me unto you, &c., signifying the same, that inasmuch as I have admitted this bearer, Mr doctor Cave, for one of the arches, I will that you in like condition and effect do consider and take the same from time to time accordingly, &c. To master dean.
+## Aliv. To Dr Trygonell
 
-Harl. MSS. HI 48. f. 31. Copy.
+Iv my right hearty wise I commend me unto you, &c., and so in like manner require the same to go unto my lord chancellor?, and that in my name, not alonely to desire his lordship to shew his lawful favour unto master Hutton, of London, grocer, in
 
-## XLIV. To Dr Trygonell
+[[' Sept. 7th, 1533, on which day queen Anne Nottinghamshire. Strype's Mem. of Abp. Cran-]
 
-IN my right hearty wise I commend me unto you, &c., and so in like manner require the same to go unto my lord chancellor3, and that in my name, not alonely to desire his lordship to shew his lawful favour unto master Hutton, of London, grocer, in f1 Sept. 7th, 1533, on which day queen Anne Boleyn was delivered of her daughter Elizabeth. Burnet's Hist, of Reformat. Vol. I. p. 264. Ed. Oxon. 1829.]
+[Boleyn was delivered of her daughter Elizabeth. mer, Vol. II. p. 602. Ed. Oxon. 1840. Todd’s Life]
 
-[2 Dorothy, sister of the archbishop, was married to Harold Rosell, Esq. of Radclifre on Trent, in
+[Burnet's Hist. of Reformat. Vol. I. p. 264. Ed. of Abp. Cranmer, Genealogy of the archbishop's]
 
-Nottinghamshire. Strype's Mem. of Abp. Cranmer, Vol. II. p. f)02. Ed. Oxon. 1840. Todd's Life of Abp. Cranmer, Genealogy of the archbishop's family.]
+[Oxon. 1829.] family.]]
 
-[3 Sir Thomas Audeley. Vid. Letter XIV. p. 240. w. 3.] his matter which I wrote unto you of before, but also ye will so instruct and ripe him therein, that he need not, for lack of information, be doubtful in that behalf ; and in thus doing I will be as ready to shew unto you like pleasure when you shall require the same. Thus fare you well, &c.
+[[? Dorothy, sister of the archbishop, was married [? Sir Thomas Audeley. Vid. Letter XIV. p.]
 
-To Mr doctor Trygonell.
+[to Harold Rosell, Esq. of Radcliffe on Trent, in 246, x, 3.]]
+
+. his matter which I wrote unto you of before, but also ye will so instruct and ripe him therein, that he need not, for lack of information, be doubtful in that behalf; and in thus doing I will be as ready to shew unto you like pleasure when you shall require the same. Thus fare you well, &c. To Mr doctor Trygonell.
 
 ## XLV. To Browgh
 
-I COMMEND me unto you, &c. For certain causes Amoving] me reasonably hereunto, Hari. MM. I charge you to be with me at Otford upon Saturday next ensuing. At your coming copy you shall know more of my mind. From my manor of Otford, &c.
-
-To master Browgh.
+I comMEND me unto you, &c. For certain causes [moving] me reasonably hereunto, I charge you to be with me at Otford upon Saturday next ensuing. At your coming you shall know more of my mind. From my manor of Otford, &c. To master Browgh.
 
 ## XLVI. To John Flemyng
 
-I DO commend me unto you, &c. and so will, for divers considerations me moving Hari. MSS.
+I po commend me unto you, &c. and so will, for divers considerations me moving
 
-. (i!48 f 29 b hereunto, that ye do repair immediately after the sight hereof unto me, at my manor copy. ' of Otford, or where by chance I shall be else. At which time you shall know further of my mind in such matters as I have to do with you. From my manor of Otford, the xviith day of September.
+## 
 
-To sir John Flemyng, curate of St Nicolas parish in BristolL
+hereunto, that ye do repair immediately after the sight hereof unto me, at my manor of Otford, or where by chance I shall be else. At which time you shall know further of my mind in such matters as I have to do with you. Irom my manor of Otford, the xviith day of September. To sir John Flemyng, curate of St Nicolas
+
+**parish in.** Bristoll.
 
 ## XLVII. To Crumwell
 
-RIGHT worshipful master Crumwell, in my hearty wise I commend me to you : and state Pan-r where I am credibly informed of a matter afore my lord chancellor depending, between ceiianeous John Broke, plaintiff of the one party, and Richarde Mares and other, defendants of the Temp. Hen. other, wherein hath been used marvellous delays by the means of contrary parts and their series, y()i. counsel, I pray you to be for my sake good master unto the said Broke, and to such as be Holograph. of his counsel in the furtherance of his right ; and also to speak effectuously in your own name to my lord chancellor to make a speedy end in this matter. For this doing ye shall have me at all times ready to shew such pleasure as shall lie in me ; and I pray you to remember my kinsman, John Padley, sanctuary man in Westminster. From Otford, the xxiiith day of September.
+Ricur worshipful master Crumwell, in my hearty wise I commend me to you: and
 
-Your assured,
+## 
 
-## Thomas Cantuar
+where I am credibly informed of a matter afore my lord chancellor depending, between John Broke, plaintiff of the one party, and Richarde Mares and other, defendants of the. other, wherein hath been used marvellous delays by the means of contrary parts and their counsel, I pray you to be for my sake good master unto the said Broke, and to such as be of his counsel in the furtherance of his right; and also to speak effectuously in your own name to my lord chancellor to make a speedy end in this matter. For this doing ye shall have me at all times ready to shew such pleasure as shall lie in me; and I pray you to remember my kinsman, John Padley, sanctuary man in Westminster. From Otford, the xxiiith day of September.
 
-To the right icorshipful and my very loving friend master Crumwell, one of the king's graces most honourable council.
+## Your assured
 
-IN my right hearty wise I commend me unto you, &c. And where I am credibly Hari. MSS. informed that this bearer, my well beloved servant4, A. B. hath a full grant of Mr A5. Copy.'
+**Tuomas CANTUAR.** To the right worshipful and my very loving
 
-[4 Thomas Abberforde.]
+friend master Crumwell, one of the king's
 
-[5 Richard Astall, parson of Cheveninj. Vid. Letter XXX VI I. j). 2o«rt.] ft'KANMEW, II. ] '
+graces most honourable council.
 
-258 LETTERS. [l-ilM.
+## XLViH. To—
 
-to be the farmer of his parsonage with you ; and forasmuch as my said servant, intending for his most surety and profit to abide thereupon, supposeth by reason he is destitute of a convenient mansion for that behalf, that he cannot more expediently bestow himself and his household, if he might thereunto obtain your favour, than with you : in consideration hereof, and forasmuch as your vacant houses be now most apt for him that shall be farmer of the said parsonage, I heartily require you to owe unto him your lawful favour herein, and that the rather at this mine instance, which I were loth you should consider, in case I thought it should not be more for your commodity in this your solace, than his profit. From my manor of Otford, the iide day of October.
+IN my right hearty wise I commend me unto you, &c. And where I am credibly informed that this bearer, my well beloved servant', A. B. hath a full grant of Mr A”.
 
-To the parson ' of
+[[ Thomas Abberforde.] [^ Richard Astall, parson of Chevening. Vid. Letter XXXV II. p. 255.] [ CRANMER, 11. ] 17]
 
-## XLIX. To the Prioress and Convent of Wilton
+to be the farmer of his parsonage with you; and forasmuch as my said servant, intending for his most. surety and profit to abide thereupon, supposeth by reason he is destitute of a convenient mansion for that behalf, that he cannot more expediently bestow himself and his household, if he might thereunto obtain your favour, than with you: in consideration hereof, and forasmuch as your vacant houses be now most apt for him that shall be farmer of the said parsonage, I heartily require you to owe unto him your lawful favour herein, and that the rather at this mine instance, which I were loth you should consider, in case I thought it should not be more for your commodity in this your solace, than his profit. From my manor of Otford, the ii^ day of October.
 
-Hari. MSS. IN mv rio-ht hearty wise I commend me unto vou : and where I am advertised bv
+To the parson of Che vening ].
 
-H14ft fllh*' *
+**XLIX.** TO THE PRIORESS AND CONVENT OF WILTON.
 
-Copy. your authentic letters unto me, addressed by this bearer, sir Robert F., how desirous ye are, for the zeal ye bear unto the good order of your religion, to have an election2 of an abbess, whereunto by those your said letters you move and also require of me aid concerning the same : this is to signify unto you hereby, that inasmuch as I perceive, that this your suit doth as well proceed of your mere and own free wills, without provocation of other men's suits, as of the love and zeal ye bear unto your said religion, I will, (the king's grace's pleasure knowQn] therein,) do that licth in me to do ; and owe unto you my lawful favour from time to time, &c.
+samy right hearty wise I commend me unto you: and where I am advertised by ^ your authentic letters unto me, addressed by this bearer, sir Robert F., how desirous ye are, for the zeal ye bear unto the good order of your religion, to have an election of an abbess, whereunto by those your said letters you move and also require of me aid concerning the same: this is to signify unto you hereby, that inasmuch as I perceive, that this your suit doth as well proceed of your mere and own free wills, without provocation of other men's suits, as of the love and zeal ye bear unto your said religion, I will, (the king's grace's pleasure know[n] therein,) do that lieth in me to do; and owe unto you my lawful favour from time to time, &c.
 
-To my ic ell beloved sister and sisters the prioress and convent of the monastery of Wilton.
+To my well beloved sister and sisters the
 
-L. TO n«i. MSS. WELLBELOVED, I greet you well, &c. your supplication by this bearer I have received, cl4py.f' 3I' b) whereby I perceive your griefs, which to redress some part after your mind (the king's grace's pleasure known therein) I shall be as glad to do and accomplish, as any that hath been in such a room as God now hath called me unto. From my manor of Otford, the vth day of October, &c.
+prioress and convent of the monastery
 
-## LI. To Gresiiam
+of Wilton.
 
-Hari. MSS. MASTER Gresham3, I heartily commend me unto you: thanking you for your credit copy. ' ' unto master Gerves for me ; and also for your letter, where I am now more ascertained of my day, which I understand is past, than I was before ; by reason whereof I am not even now in a very readiness to accomplish your mind herein ; notwithstanding wherefore
+## To
 
-[J Dr Jenkyns suggests that there seems to be the present instance Cecil Bodenham appears to an error here, since the parson is spoken of in the i have been successful; who, when the convent was letter as a third person. Remains of Abp. Cran- ' afterwards dissolved, was pensioned with the prioress mer, Vol. I. p. 53.] and thirty-one nuns. Vid. State Papers, Vol. I.
+WeLLBeLOVED, I greet you well, &c. your supplication by this bearer I have received, PP whereby I perceive your griefs, which to redress some part after your mind (the king's grace's pleasure known therein) I shall be as glad to do and accomplish, as any that hath been in such a room as God now hath called me unto. From my manor of Otford, the vth day of October, &c.
 
-[2 Henry VIII. and \Volsey had a dispute rep. 313, et sqq. ; Hari. MSS. Vol. III. p. 58; Willis'
+## To Gresham
 
-specting the appointment of an abbess of Wilton, j Hist, of Abbeys, Vol. II. App. p. 29. J the latter having successfully supported Isabella [3 Dr Jenkyns thinks this may have been either
+Master Gresham, I heartily commend me unto you: thanking you for your credit " unto master Gerves for me; and also for your letter, where I am now more ascertained of my day, which I understand is past, than I was before; by reason whereof I am not even now in a very readiness to accomplish your mind herein; notwithstanding wherefore
 
-Jordayn, the prioress, in opposition to the wishes ; Sir Richard the father, or Sir John the uncle, of the of Henry and Anne Boleyn. The convent had been | celebrated Sir Thomas Gresham, who were both badly regulated, and was much in need of being ! opulent merchants in the city of London. Remains reformed, which several of the nuns resisted. In of Abp. Cranmer, Vol. I. p. 54.]
+[[! Dr Jenkyns suggests that there seems to be the present instance Cecil Bodenham appears to]
 
-I trust you shall be in no danger, for shortly I will send to the said master Gervcs to require of him a little respite unto my next audit at Lambeth, which will not be long unto, and then I trust to satisfy him, and be glad to do for you as great pleasure by the grace of God, &c. From Otford the vith day of October.
+[an error here, since the parson is spoken of in the have been successful; who, when the convent was]
 
-## LII. To Lord Rochford 4
+[letter as a third person. Remains of Abp. Cran- afterwards dissolved, was pensioned with the prioress]
 
-MY lord, in my right hearty wise I commend me unto your good lordship : and Hari. MSS. where this bringer P. M. sueth unto me to write unto you in his favour, that you would Copy. be so good lord unto him, as to move my lord of Northfolke at your request to prefer the same to my lord of Richmonde's5 service to the room of a secretary, which, as I perceive, is now void : in consideration hereof, and forasmuch that at your request I took his brother6 to my service, whose diligence and fidelity I do now much esteem, I heartily require your lordship to tender this his said suit ; and that the rather at this my request ye do therein the more effectually, as your discreet wisdom in that behalf doth think best for his furtherance : for I myself have this confidence in him, that by reason he is brother unto my said servant, he will do no less diligent service unto my said lord of Richmond than his brother doth now unto me ; as knoweth God, who preserve you, my good lord Rocheford. From my manor of Otford the vith day of October, &c.
+[mer, Vol. I. p. 53.] and thirty-one nuns. Vid. State Papers, Vol. I.]
 
-To my very singular good lord, my lord of Rocheforde, $c.
+[[? Henry VIIl. and Wolsey had a dispute re- p. 313, et sqq.; Harl. MSS. Vol. III. p. 58; Willis’]
 
-## LIII. To Collman 7
+[specting the appointment of an abbess of Wilton, Hist. of Abbeys, Vol. 11: App. p. 29.]]
 
-MASTER Collman, I commend me unto you, &c. praying you, as my trust and fidelity Hari. MSS is in the same, to proceed in making of a sale in Buchurste of such woods as shall be c04"y r 'Mb( thought most best by your discretion for my profit, according to such informations as my officers made unto you at their last being at Canterbury ; and in thus doing you shall at this time do me pleasure. And for your further surety herein, this my writing shall be a sufficient warrant for you at all times in this behalf, &c. vii. day of October. To Mr Collman at Canterbury.
+[the latter having successfully supported Isabella [? Dr Jenkyns thinks this may have been either]
 
-LIT. TO PUS CHANCELLOR,
+[Jordayn, the prioress, in opposition to the wishes Sir Richard the father, or Sir John the uncle, of the]
 
-MASTER chancellor, I greet you well. And forasmuch as I am credibly informed Hari. MSS. that the nomination of a vicar unto the vicarage of Withbroke in the diocese of Coventry copy f' ''*' and Lichfield belongcth unto me in the vacation of the bishop there8, which said nomination I have given unto the prior of Coventry, [I will that] ye do dispatch the said prior according to your form devised by the law in that behalf, and as you shall think most convenient, &c.
+[of Henry and Anne Boleyn. The convent had been celebrated Sir Thomas Gresham, who were both]
 
-To master chancellor.
+[badly regulated, and was much in need of being opulent merchants in the city of London. Remains]
 
-[4 Brother of Anne Boleyn.J ffl Henry Fitzroy, a natural son of Henry VlII.J
+[reformed, which several of the nuns resisted. In of Abp. Cranmer, Vol. I. p. 54.]]
 
-[8 Probably Rafe IMorice, the archbishop's secre tary, in whom he had great confidence. Vid. Strype's Mem. of Abp. Cranmer, Vol. I. pp. 97, IJfj, 394 ; Vol. II. pp. 611, 1054. Ed. Oxon. 1840.]
+-— — ] trust you shall be in no danger, for shortly I will send to the said master Gerves to require of him a little respite unto my next audit at Lambeth, which will not be long unto, and then I trust to satisfy him, and be glad to do for you as great pleasure by the grace of God, &c. From Otford the vith day of October.
 
-[7 John Colman was, in 1535, the archbishop's bailiff' for Wyngham and its dependencies. Valor.
+## LII. To Lord Rochford
 
-[8 Geoffrey Blythe, bishop of Coventry and Lichfield, died the latter end of 1533. Rowland Lee, his successor, was elected the 10th of Jan. 1534, consecrated the 19th of April, and the tem poralities restored to him the fith of May following. Le Neve, Fasti, p. 125. Ed. Lond. 171fi. See below, Letter LXXXIL]
+My lord, in my right hearty wise I commend me unto your good lordship: and where this bringer P. M. sueth unto me to write unto you in his favour, that you would be so good lord unto him, as to move my lord of Northfolke at your request to prefer the same to my lord of Richmonde's service to the room of a secretary, which, as I perceive, is now void: in consideration hereof, and forasmuch that at your request I took his brother? to my service, whose diligence and fidelity I do now much esteem, I heartily require your lordship to tender this his said suit; and that the rather at this my request ye do therein the more effectually, as your discreet wisdom in that behalf doth think best for his furtherance: for I myself have this confidence in him, that by reason he is brother unto my said servant, he will do no less diligent service unto my said lord of Richmond than his brother doth now unto me; as knoweth God, who preserve you, my good lord Rocheford. From my manor of Otford the vith day of October, &c.
 
-## LV. To the Curate of Sundridge
+To my very singular good lord, my lord
 
-MSS. I COMMEND me unto you, &c. And where I am advertised by this bringer, John f. 32, b. perg^ ^.jj.^ for ]ac], Of a banns asking you defer the same from solemnizing of his matri mony, the default whereof he reporteth was Qin] one, who in his absence for him should have given money to the clerk for the intimation thereof: I will therefore that you make1 no further lets or impediments herein, advertising the same, that forasmuch as in con sidering the premises there appeareth in his behalf no coven or deceit, I am content at this time to dispense with him. From Otford, &c.
+of Rocheforde, &.
 
-To the curate of Sunriche.
+## LII. To Collman'
 
-## LVI. To the Prior of Christ's Church, Canterbury
+Lr MasrzER Collman, I commend me unto you, &c. praying you, as my trust and fidelity is in the same, to proceed in making of a sale in Buchurste of such woods as shall be thought most best by your discretion for my profit, according to such informations as my officers made unto you at their last being at Canterbury; and in thus doing you shall at this time do me pleasure. And for your further surety herein, this my writing shall be a sufficient warrant for you at all times in this behalf, &c. vii. day of October. To Mr Collman at Canterbury.
 
-?i4» fM:fl'h. BROTHER prior, in my right hearty wise I commend me unto you : heartily thanking copy. yOU for y0ur good and kind token which I have received by your brothern and mine, not deserved as yet; nevertheless you should have done me much more greater pleasure, if you had lent it me full of gold, not for any pleasure or delectation that I have in the thing, but for the contentation of such as I am indebted and dangered unto ; which I assure you hath grieved me more of late, than any worldly thing hath done a great season : in this I am bold to shew you my necessity, thinking of good congruence I might in such lawful necessity be more bolder of you, and you likewise of me, than to attempt or prove any foreign friends. Wherefore, trusting in your benevolence and of all my brethren for the premises, I shall so recompense the same again, according as ye shall be well contented and pleased withal. Thus fare ye well.
+## LIV. To his Chancellor
+
+MasTER chancellor, I greet you well. — And forasmuch as I am credibly informed that the nomination of a vicar unto the vicarage of Withbroke in the diocese of Coventry and Lichfield belongeth unto me in the vacation of the bishop there, which said nomination I have given unto the prior of Coventry, [T will that] ye do dispatch the said prior according to your form devised by the law in that behalf, and as you shall think most convenient, &c. To master chancellor. [^ Brother of Anne Boleyn. Eccles. ] [> Henry Fitzroy, a natural son of Henry V1II.] [? Geoffrey Blythe, bish f Covent l [? Probably Rafe Morice, the archbishop's secre- Lichfield, died καὶ later ip el 1533, Rowland tary, in whom he had great confidence Vid. Lee, his successor, was elected the 10th of Jan. Strype's Mem. of Abp Cranmer, Vol. 1. pp 97,176, 1534, consecrated the 19th of April, and the tem. 394; Vol. IT pp. 611, 1034 Ed Oxon. 1849. ] poralities restored to him the 6th of May following. f John Cohiran was, in 1535, the archbishop's Le Neve, Fasti. p.125. Ed. Lond. 1716. See bailiff for Wyngham and its dependencies. Valor. below, Letter LXXXII.]
+
+17—2
+
+## To the Curate of Sundridge
+
+I commeND me unto you, &c. And where I am advertised by this bringer, John
+
+**33.** Pers, that for lack of a banns asking you defer the same from solemnizing of his matrimony, the default whereof he reporteth was [in] one, who in his absence for him should have given money to the clerk for the intimation thereof: I will therefore that you make no further lets or impediments herein, advertising the same, that forasmuch as in considering the premises there appeareth in his behalf no coven or deceit, I am content at this time to dispense with him. From Otford, &c. To the curate of Sunriche.
+
+**LVI.** TO THE PRIOR OF CHRIST'S CHURCH, CANTERBURY.
+
+DROTHER prior, in my right hearty wise I commend me unto you: heartily thanking you for your good and kind token which I have received by your brothern and mine, not deserved as yet; nevertheless you should have done me much more greater pleasure, if you had lent it me full of gold, not for any pleasure or delectation that I have in the thing, but for the contentation of such as I am indebted and dangered unto; which I assure you hath grieved me more of late, than any worldly thing hath done a great season: in this I am bold to shew you my necessity, thinking of good congruence I might in such lawful necessity be more bolder of you, and you likewise of me, than to attempt or prove any foreign friends. Wherefore, trusting in your benevolence and of all my brethren for the premises, I shall so recompense the same again, according as ye shall be well contented and pleased withal. Thus fare ye well.
 
 To my brother the prior of Christ's Church in Canterbury.
 
-## LVII. To the Parson of Chevening 1
+## LVII. To the Parson of Chevening'
 
-i-M8'fM-«Sb MASTER Astall, I commend me unto you. And where you were contented that & :«. copy, i should have the farm2 of your parsonage of Chevening for one of my servants, which then I minded unto my servant Abberforde, supposing you would not have exacted of him, ne charged the same further for the yearly rent and revenues thereof, than was wont to be paid; yet, that notwithstanding, as I am informed, ye be not contented and agreeable to take xvi". yearly therefore of him, which, as I hear say, is xls. more than was accustomed to be paid before master Milles had raised the same ; but thereunto also you would have him stand charged, over and besides the xvi11. with iiii11. more, which amounteth every year to the sum of xx11 : sir, I much marvel that you will desire thus far to exceed, in this uncertain world, from the accustomed rent thereof; I had thought you would rather have minished the old exaction than now to increase the same. I trust, therefore, you will not so hardly regard my first request herein ; but am sure, after the most simple manner, ye will accomplish your said promise to me in this behalf. For in case my friend cannot somewhat likely have a living thereby, I had rather he were without it than have it. And what ye intend to do herein, I require you to send me an answer thereof by this bringer. Thus fare you well. From my manor of Otford the viii. day of October.
+Master Astall I commend me unto you. And where you were contented that [ should have the farm? of your parsonage of Chevening for one of my servants, which then I minded unto my servant Abberforde, supposing you would not have exacted of him, ne charged the same further for the yearly rent and revenues thereof, than was wont to be paid; yet, that notwithstanding, as I am informed, ye be not contented and agreeable to take xvi". yearly therefore of him, which, as I hear say, is xl. more than was accustomed to be paid before master Milles had raised the same; but thereunto also you would have him stand charged, over and besides the xvi". with iii". more, which amounteth every year to the sum of xx": sir, I much marvel that you will desire thus far to exceed, in this uncertain world, from the accustomed rent thereof; I had thought you would rather have minished the old exaction than now to increase the same. 1 trust, therefore, you will not so hardly regard my first request herein; but am sure, after the most simple manner, ye will accomplish your said promise to me in this behalf. For in case my friend cannot somewhat likely have a living thereby, I had rather he were without it than have it. And what ye intend to do herein, I require you to send me an answer thereof by this bringer. Thus fare you well. From my manor of Otford the viii. day of October.
 
-To the new parson of Chcvenyng, Mr A.
+To the new parson of Chevenyng, Mr A.
 
-f1 Vid. Letters XXXVII. XLVI1I. pp. 2,15, , archbishop to farm benefices, which was distinct 2fi8.j from fee farming, which was afterwards introduced
+[[ Vid. Letters XXXVII. XLVIII. pp. 255, archbishop to farm benefices, which was distinct]
 
-[- It was a common practice in the times of the as a permanent commutation.]
+[259.. from fee farming, which was afterwards introduced [2 It was a common practice in the times of the as a permanent commutation.]
 
-## LVIII. To Dr Downes 3
+## LVIII. To Dr Downes?
 
-IN my right hearty wise I commend me unto you : and forasmuch as heretofore I had Hari. MSS. a promise made unto me by doctor4 Bennett, (whose soul God pardon,) for the farm of §Jy- , his prebend in Southwell, for a kinsman of mine named John Thorpe ; which said promise I doubted not herein should have taken good effect in case death had not prevented the same : in consideration hereof, and inasmuch as by the death of the said doctor Benett, the collation of it belongeth unto my lord your master5, I heartily pray you, that if it be yours or any of my lord's chaplains, ye will be so good unto my said kinsman as to grant him, at this my request, to have the farm thereof, doing as other reasonably will do. And this if you can bring to pass to succeed accordingly, I will be both bound for tho payment of the money thereof, and also shew unto you and yours like pleasure, &c. ix. day of October.
+Ix my right hearty wise I commend me unto you: and forasmuch as heretofore I had a promise made unto me by doctor Bennett, (whose soul God pardon,) for the farm of his prebend in Southwell, for a kinsman of mine named John Thorpe; which said promise I doubted not herein should have taken good effect in case death had not prevented the same: in consideration hereof, and inasmuch as by the death of the said doctor Benett, the collation of it belongeth unto my lord your master?, I heartily pray you, that if it be yours or any of my lord's chaplains, ye will be so good unto my said kinsman as to grant him, at this my request, to have the farm thereof, doing as other reasonably will do. And this if you can bring to pass to succeed accordingly, I will be both bound for the payment of the money thereof, and also shew unto you and yours like pleasure, &cix. day of October.
 
-To Mr doctor Dowries.
+To Mr doctor Downes.
 
-## LIX. To a Park-Keeper
+## LIX. To a Park-keeper
 
-I COMMEND me unto you : and where upon certain communication had with this Hari. MSS. bearer, Master Roger Herman, I have assigned unto the same vi. loads of wood, to co^!' ^' b' be delivered out of that my park called Corell's Wood, within that your office ; I will and command you therefore, that you suffer him to carry the same, when he shall require it to be delivered and appointed unto him, of such waste wood as shall be meet for fuel, to the intent the timber or young spring be not wasted thereby. And for your surety herein this my letter shall be unto you a sufficient warrant and dis charge. The x. day.
+I comMEND me unto you: and where upon certain communication had with this
 
-To the keeper of my parks, called CoreUs Wood.
+## y
 
-## LX. To the Dean of the Arches
+bearer, Master Roger Herman, I have assigned unto the same vi. loads of wood, to be delivered out of that my park called Corell's Wood, within that your office; I will and command you therefore, that you suffer him to carry the same, when he shall require it to be delivered and appointed unto him, of such waste wood as shall be meet for fuel, to the intent the timber or young spring be not wasted thereby. And for your surety herein this my letter shall be unto you a sufficient warrant and discharge. The x. day.
 
-MASTER Dean, I greet you well. And where you advise me (upon the suit of Hari. MSS. Edwardes6 unto you) to grant a new commission to the same, for the examination &"X.f' (5'P of certain witness, you know very well how aforetime I granted both parties to have commissions in that behalf, at which season the said Edwardes regarded it not. And now forasmuch (by all likelihood) as he, perceiving what the other witness hath deposed, would hereby find some way to delay and prolong the matter; Sir, herein I signify unto you, that I am nothing willing thereunto : for on this manner of granting com missions we shall spend another year in waste, and be no more nearer the °matter than we be now. And where you write unto me that master Bedell7 hath such business, that he cannot intend to examine the witness concerning the matter in vari ance between the abbot of Tiltey8 and my lord of London's chaplain, and so thereby you stay in making out the commission; I will that you appoint master Trygonell to be jointly with Mr Doctor Oliver, instead of Mr Bedell, in the said commission. The xi. day.
+To the keeper of my parks, called Corell's Wood.
+
+## To the Dean of the Arches
+
+Master Dean, 1 greet you well And where you advise me (upon the suit of Edwardes unto you) to grant a new commission to the same, for the examination of certain witness, you know very well how aforetime I granted both parties to have commissions in that behalf, at which season the said Edwardes regarded it not. And now forasmuch (by all likelihood) as he, perceiving what the other witness hath deposed, would hereby find some way to delay and prolong the matter; Sir, herein I signify unto you, that I am nothing willing thereunto: for on this manner of granting commissions we shall spend another year in waste, and be no more nearer the matter than we be now And where you write unto me that master Bedell” hath such business, that he cannot intend to examine the witness concerning the matter in variance between the abbot of Tiltey and my lord of London's chaplain, and so thereby you stay in making out the commission; I will that you appoint master Trygonell to be jointly with Mr Doctor Oliver, instead of Mr Bedell, in the said commission. The xi. day.
 
 To the dean of the Arches.
 
-[3 Chancellor of the church of York, and one of the divines employed in compiling The Institution of a Christian Man.]
+[[? Chancellor of the church of York, and one of State Papers, Vol. I. p. 337.]]
 
-[4 Dr William Benett succeeded Gardiner, A.D. 1.529, as Henry VIII.'s ambassador at Rome, and died abroad in the autumn, A.D. 1533. Burnet's Hist. of Reformat. Vol. III. p. 158. Ed. Oxon. 1840;
+[the divines employed in compiling The Institution [^ The archbishop of York.]]
 
-State Papers, Vol. I. p. 33J.J
+[of a Christian Man.] [6 Vid. Letters XXXII. XXXIII. p. 253.]]
 
-[5 The archbishop of York.]
+[[ Dr William Benett succeeded Gardiner, A.D. [7 Vid. Letter XIV. p. 244, n.5.]]
 
-[7 Vid. Letter XIV. p. 244, n.5.]
+[1529, as Henry VIII.'s ambassador at Rome, and [ An abbey of white monks in Essex, near]
 
-[8 An abbey of white monks in Essex, near Dunmow. Tanner's Notit. Monast. Essex, xlii. Tiltey. Ed. Lond. 178/.]
+[died abroad in the autumn, A.D. 1533. Burnet's Hist. Dunmow. Tanner's Notit. Monast. Essex. xlii.]
+
+[of Reformat. Vol. III. p. 138. Ed. Oxon. 1840; Tiltey. Ed. Lond. 1787.]]
 
 ## LXI. To Stapleton
 
-Hari. MSS. IN my right hearty wise I commend me unto you : signifying to the same, that
+IN my right hearty wise I commend me unto you: signifying to the same, that I am right glad to hear such good report of you as I do, as well in that ye be so effectuously minded and given to see your pastoral cure discharged by your continual preaching and teaching, as also in confirming the same by your good conversation, example of living, and charitable behaviour towards your neighbours; whereunto I exhort you in Christ's behalf to go forward and proceed, as ye have hitherto right well begun. And where also I am advertised, that by your both good provision, and provident wisdom, there is a free school maintained with you for the virtuous bringing up of youth; I heartily require you, inasmuch as with this bearer I send now unto you my sisters son, named Thomas Rosell’, apt (as I suppose) to learning, that ye will at this my attemptation and request do so much as to see him ordered and instruct in such doctrine as shall be convenient both for his age and capacity. And for those your pains in so doing I will always be ready to shew unto you like pleasure. Thus fare you well. From my manor of Otford, the xiith day of October.
 
-Copy.' I am right glad to hear such good report of you as I do, as well in that ye be so effectuously minded and given to see your pastoral cure discharged by your continual preaching and teaching, as also in confirming the same by your good conversation, example of living, and charitable behaviour towards your neighbours ; whercunto I exhort you in Christ's behalf to go forward and proceed, as ye have hitherto right well begun. And where also I am advertised, that by your both good provision, and provident wisdom, there is a free school maintained with you for the virtuous bring ing up of youth; I heartily require you, inasmuch as with this bearer I send now unto you my sister's son, named Thomas Rosell1, apt (as I suppose) to learning, that ye will at this my attemptation and request do so much as to sec him ordered and instruct in such doctrine as shall be convenient both for his age and capacity. And for those your pains in so doing I will always be ready to shew unto you like plea sure. Thus fare you well. From my manor of Otford, the xiith day of October.
-
-To master Stapleton^ parson of Byngham.
+To master Stapleton, parson of Byngham.
 
 ## LXII. To Rosell
 
-Hari. MSS. BROTHER, I right heartily commend me unto you, and in like wise unto my sister Copy. ' your bcdfellowT, &c. And where of late I wrote to you, that ye should send your son to school unto Southwell, supposing at that time that those parties had been clear from sickness, so it is as I am now advertised that they die there. In consideration thereof, and forasmuch as I am credibly informed that master Stapleton, parson of Bingham, hath by his provision set up a free school in his parish, of whose good name and conversation I hear much report worthy of commendation and praise ; I will therefore advise you that forthwith you send your said son thither unto school, to the intent the said master Stapleton may have the governance of him, to whom I have written a letter in that behalf. The xii. day [of October]. To my right well-beloved brother, Mr Rosell.
+Broruer, I right heartily commend me unto you, and in like wise unto my sister your bedfellow, &c. And where of late I wrote to you, that ye should send your son to school unto Southwell, supposing at that time that those parties had been clear from sickness, so it is as I am now advertised that they die there. In consideration thereof, and forasmuch as I am credibly informed that master Stapleton, parson of Bingham, hath by his provision set up a free school in his parish, of whose good name and conversation I hear much report worthy of commendation and praise; I will therefore advise you that forthwith you send your said son thither unto school, to the intent the said master Stapleton may have the governance of him, to whom I have written a letter in that behalf. The xii. day [of October].
+
+To my right well-beloved brother, Mr Rosell.
 
 ## Postscripta
 
-Hari MSS. I commend me unto you, and where I am uncertified of the deliverance of a
-
-Co4pyf' ;(4' b' letter sent to you, and dated the xth day of this present month, the intent and purport whereof was, that (for divers causes reasonably me moving,) you should repair unto me at Otford, which now inasmuch as I am in doubt of the deliverance thereof, [I] will eftsoons that you with all speed and celerity at the sight hereof do accomplish that my said intent. And at your coming you shall know further of my mind in this behalf. From my manor of Otford2.
+I commend me unto you, and where I am uncertified of the deliverance of a?^ letter sent to you, and dated the xth day of this present month, the intent and purport whereof was, that (for divers causes reasonably me moving,) you should repair unto me at Otford, which now inasmuch as I am in doubt of the deliverance thereof, [I7] will eftsoons that you with all speed and celerity at the sight hereof do accomplish that my said intent. And at your coming you shall know further of my mind in this behalf. From my manor of Otford.
 
 ## LXIII. To Crumwell
 
-state Paper RIGHT worshipful master Crumwell, in my right hearty wise I commend me to ceUaaeoos you : and likewise pray you to have my friend Mr Newman3 in your good remeniTemiPHen brance for Mr Benett's advowsonage, so that it may please you to call the same out
+Ruaur worshipful master Crumwell, in my right hearty wise I commend me to Mis-.. 3 you: and likewise pray you to have my friend Mr Newman? in your good remembrance for Mr Benett's advowsonage, so that it may please you to call the same out IX. Original
 
-VIII. Third series. Vol. IX.
+**[! Vid.** Letter XLI. p. 256.] some such summons as is contained in that letter. [? This postsctipt stands here in the original Remains of Abp. Cranmer, Vol. I. p. 51.] MSS. Dr Jenkyns thinking it out of its place has [3 Vid. Letters IV. LX. LXXVII. CLIII.
 
-Holograph. [' Vid. Letter X LI. p. 256.] | some such summons as is contained in that letter.
+[inserted it after the Letter to Browgh (supra, p. pp. 237, 261, 269, 309.]]
 
-[2 This postscript stands here in the original Remains of Abp. Oanmer, Vol. I. p. 51.]
+[257), supposing that it must clearly have followed]
 
-MSS. Dr Jenkyns thinking it out of its place has inserted it after the Letter to Browgh (supra, p. 257), supposing that it must clearly have followed
+of Mr Benett's kinsman's hands, and to send the same unto me by my secretary, this bearer, whom I do send unto you purposely at this time for that matter. And at such time as I may shew you any pleasure, I pray you to be as bold upon me. From my manor at Otford, the xviith day of October.
 
-[3 Vid. Letters IV. LX. LXXV1I. CLIII. pp. 237, 261, 26U, 309.] of Mr Bcnett's kinsman's hands, and to send the same unto me by my secretary, this bearer, whom I do send unto you purposely at this time for that matter. And at such time as I may shew you any pleasure, I pray you to be as bold upon me. From my manor at Otford, the xviith day of October.
+## Your own assured
 
-Your own assured
+Tromas CANTUAR.
 
-## Thomas Cantuar
+To the Right worshipful and my very loving
 
-To the Right worshipful and iny very loving friend Mr Crumwell, of the king's grace's most honourable council.
+friend Mr Crumwell, of the king's graces
 
-## (LXIV. To the Bishop of Hereford 4
+most honourable council.
 
-IN my right hearty wise I commend me unto you, &c. And forasmuch as I Hari. MSS.
+## LXIV. To the Bishop of Hereford"
 
-understand, by a supplication to me delivered by this bearer, the parson of , that BritwhMu '
+IN my right hearty wise I commend me unto you, &c. And forasmuch as I nan. understand, by a supplication to me delivered by this bearer, the parson of ——, that heretofore, through the procuration of one Mr Robert ap David Lloyd, your receiver, the same hath persuaded divers of this comiplaintiff’s parish, not alonely to withdraw their tithes and oblations, but thereunto by the said David Lloyd's sinister and misreport to you caused his benefice to be sequestrate, and the sequestration thereof committed to certain temporal men; amonges whom one named Howell Abowan, after he had received the fruits thereof, did so waste and consume them, that when the sequestration was relaxed, and this said complaintiff restored again, he could not, ne yet cannot obtain of the said Abowan any restitution of his said fruits; and where also after that time you made a final determination between this complaintiff and his parishioners concerning the said tithes and other misorders, which for a certain time was well observed and took right good effect, whereupon it was thought that all things should have grown to a quietness; yet now, that notwithstanding, the said David Lloyd hath (as this complaintiff reporteth) renewed the said variance, whereby as well his tithes is now withdrawn again, contrary to your former determination, as also — — —— denied him for the reformation thereof, against all right and equity: in consideration of the premises, and inasmuch as you in your diocese ought, before all other, to see justice ministered, I exhort you, and thereunto require the same, the rather at this my instance and request, to see your foresaid determination concerning these matters of variance to be executed with justice; for this complaintiff requireth of you none other favour in this behalf, but according to your determination he may enjoy the effect thereof. And surely loth were I to take on me the redressing of any such griefs within your diocese, unless for fault of justice I must be constrained thereunto: but herein I doubt not that your discretion and wisdom will suffer any such enormities to be unreformed, when the verity and truth of them shall be patified and made open unto you. Thus fare you well. From my manor of Otford the xvii. day of October.
 
-heretofore, through the procuration of one Mr Robert ap David Lloyd, your receiver, bc' the same hath persuaded divers of this complaintifFs parish, not alonely to withdraw their tithes and oblations, but thereunto by the said David Lloyd's sinister and misreport to you caused his benefice to be sequestrate, and the sequestration thereof committed to certain temporal men ; amonges whom one named Ho well Abowan, after he had received the fruits thereof, did so waste and consume them, that when the seques tration was relaxed, and this said complaintiff restored again, he could not, ne yet cannot obtain of the said Abowan any restitution of his said fruits; and where also after that time you made a final determination between this complaintiff and his parishioners concerning the said tithes and other misorders, which for a certain time was well observed and took right good effect, whereupon it was thought that all things should have grown to a quietness; yet now, that notwithstanding, the said David Lloyd hath (as this complaintiff reporteth) renewed the said variance, whereby as well his tithes is now withdrawn again, contrary to your former determination, as also denied him for the reformation thereof, against all right and equity : in consideration of the premises, and inasmuch as you in your diocese ought, before all other, to see justice ministered, I exhort you, and thereunto require the same, the rather at this my instance and request, to see your foresaid determination concerning these matters of variance to be executed with justice ; for this complaintiff requireth of you none other favour in this behalf, but according to your determination he may enjoy the effect thereof. And surely loth were I to take on me the redressing of any such griefs within your diocese, unless for fault of justice I must be constrained thereunto : but herein I doubt not that your discretion and wisdom will suffer any such enormities to be unreformed, when the verity and truth of them shall be patified and made open unto you. Thus fare you well. From my manor of Otford the xviii. day of October.
+To the bishop of Harwarde.
 
-To the bishop of Haricarde.
+## LXV. To Pallgrave
 
-## LXV. To Pallgrave 5
+I po commend me unto you: signifying to the same, that inasmuch as you write unto me, as well for the agreement of the fruits of your benefice of St Dunston's
 
-I DO commend me unto you : signifying to the same, that inasmuch as you write Harli Mss
+[[ Charles Booth, who died May 5, a.p. 1535, [? John Pawlesgrave was instituted to the rec-]
 
-unto me, as well for the agreement of the fruits of your benefice of St Dunston's G1
+[and was succeeded by Edward Fox, a friend of the tory of St Dunstan's, the 3rd of October, 1533.]
 
-[4 Charles Booth, who died May 5, A.D. 1535, and was succeeded by Edward Fox, a friend of the f5 John Pawlesgrave was instituted to the rec tory of St Dunstan's, the 3rd of October, 1533.
+[archbishop. Vid. Strype's Mem. of Abp. Cran- Newcourt, Repertorium, Vol. I. p. 334." Ed. Lond.]
 
-archbishop. Vid. Strype's Mem. of Abp. CranNewcourt, Repertorium, Vol. I. p. 331. Ed. Lond. mer, Vol. I. p. 53. Ed. Oxon. 1840; Le Neve's | 1708.] Fasti, pp. 110, 11. Ed. Lond. 1716.]
+[mer, Vol. I. p. 53. Ed. Oxon. 1840; Le Neve's 1708.]]
 
-concerning the last quarter in the vacation time, as also for the oblations offered there upon your church holiday, I will that you, for a final determination herein, do resort unto Pottekyns, to know your end, to whom I have committed the ordering of all such matters belonging unto me: for you may right well consider, that I am neither skilled herein, nor that it is convenient for me to meddle in such causes ; and yet not doubting but that mine officer will minister justice unto all parties accordingly. And where you say also, that you are not able to pay further out of hand so much money, but thereunto requireth days of payment for the same : Sir, as touching that, I suppose you may better bear your necessity than I may mine, considering both my great charges hitherto, and how I am thereby at this season compelled to prove all the friends that I can make, for the satisfying of such sums as be now due to be paid ; and yet I think not the contrary but that I shall lack much for the accom plishment of the same. Therefore I reckon you will rather endanger yourself to your friends than now to require any such commodity of me, being so far behind hand.
+[Fasti. pp. 110, 11. Ed. Lond. 1715.]]
 
-To master Pallyravc, parson of St Dounstoris in the East at London.
+concerning the last quarter in the vacation time, as also for the oblations offered there upon your church holiday, I will that you, for a final determination herein, do resort unto Pottekyns, to know your end, to whom I have committed the ordering of all such matters belonging unto me: for you may right well consider, that I am neither skilled herein, nor that it is convenient for me to meddle in such causes; and yet not doubting but that mine officer will minister justice unto all parties accordingly. And where you say also, that you are not able to pay further out of hand so mnch money, but thereunto requireth days of payment for the same: Sir, as touching that, I suppose you may better bear your necessity than I may mine, considering both my great charges hitherto, and how I am thereby at this season compelled to prove all the friends that I can make, for the satisfying of such sums as be now due to be paid; and yet I think not the contrary but that I shall lack much for the accomplishment of the same. Therefore I reckon you will rather endanger yourself to your friends than now to require any such commodity of me, being so far behind hand.
+
+To master Pallgrave, parson of St Dounston's
+
+in the East at London.
 
 ## LXVI. To Lord Chancellor Audeley
 
-Hari. MSS. IN my right hearty wise I commend me unto your good lordship, &c. And where copy.' I am advertised by this bearer, doctor Maye, my vicar-general within the diocese of Ely ', that by reason that doctor Clyff2 and other keepeth away from him the records and registers belonging unto his office, he cannot in divers matters and causes minister justice accordingly ; and forasmuch also as there is none other convenient way or means, neither by the course of the law spiritual nor temporal, for the obtaining of them, as I am in this behalf informed; I heartily require your good lordship, that you will at this mine instance cause a sergeant of arms to call the parties which have the custody of the said registers before you, to the intent they may shew reasonable causes why they ought not to deliver them : and in thus doing you shall both help to aid justice, and do also unto me singular pleasure, which to recompense I will be at all times ready and glad. This said bringer can further instruct your lordship in this, to whom I pray you to give credence. Thus fare you well. From my manor at Otford, the xxiiiith day of October.
+IN my right hearty wise I commend me unto your good lordship, &c. And where I am advertised by this bearer, doctor Maye, my vicar-general within the diocese of Ely’, that by reason that doctor Clyff? and other keepeth away from him the records and registers belonging unto his office, he cannot in divers matters and causes minister justice accordingly; and forasmuch also as there is none other convenient way or means, neither by the course of the law spiritual nor temporal, for the obtaining of them, as I am in this behalf informed; I heartily require your good lordship, that you will at this mine instance cause a sergeant of arms to call the parties which have the custody of the said registers before you, to the intent they may shew reasonable causes why they ought not to deliver them: and in thus doing you shall both help to aid justice, and do also unto me singular pleasure, which to recompense I will be at all times ready and glad. This said bringer can further instruct your lordship in this, to whom I pray you to give credence. Thus fare you well. From my manor at Otford, the xxiiüth day of October.
 
 To my Lord Chancellor.
 
-Harl. MSS. «I4«. f. 35. Copy.
+## LXVI. To
 
-I GREET you well. And where this bearer, my friend master Chesewryght, one of the king's chaplains, hath the benefice of Wisbeche given unto him, within the diocese of Ely, whose suit unto me is for the agreement of the fruits thereof now
+I cnEET you well And where this bearer, my friend master Chesewryght, one of the king’s chaplains, hath the benefice of Wisbeche given unto him, within the diocese of Ely, whose suit unto me is for the agreement of the fruits thereof now
 
-[' Nic. West, bishop of Ely, died April 28th, A. D. 1533, whom Thomas Goodrich succeeded, having been elected March 17th, and consecrated April 19th, A.D. 1534. Le Neve's Fasti. DrMay, as the archbishop's vicar-general, seems to have governed the diocese in the interval. There were two Doctors May, brothers, and both eminent men. Dr William May, who is probably the person here mentioned, visited the diocese of Norwich as Cranmer's commissary A.D. 1534, was one of the divines engaged in drawing up the " Institution of a Christian Man," became dean of St Paul's, A.D. 1554, was deprived under Mary, and in the reign of Elizabeth was restored to his deanery, and after-wards nominated to the archbishoprick of York, but died before his consecration. Strype's Mem. of Abp. Cranmer, Vol. I. pp. 41, 77, 209; Annals of Reformat. Vol. I. part v. pp. 75, 230, 287, 306. Ed. Oxon. 1824; Life of Abp. Parker, Vol. I. pp. 128, 171, 2. Ed. Oxon. 1821 ; Life of Abp. Grindal, p. 56. Dr John May was master of Catharine Hall, Cambridge, and A.D. 1577 bishop of Carlisle. Strype's Life of Abp. Parker, Vol. I. p. 177; Annals of Reformat. Vol. II. Part II. pp. 52, 3. Ed. Oxon. 1840.]
+[[! Nic. West, bishop of Ely, died April 28th, wards nominated to the archbishoprick of York,]
 
-[2 Probably Dr Cliff', chanter of York and dean of Chester.]
+[A.D. 1533, whom Thomas Goodrich succeeded, but died before his consecration. Strype's Mem.]
 
-in the vacation time, I will, that inasmuch as I can little skill in that behalf, that you, with master Pottkyns, order the matter according to your discretions with favour. And thus fare you well, &c.
+[having been elected March 17th, and consecrated of Abp. Cranmer, Vol. I. pp. 41, 77, 209; Annals]
 
-## LXVIII. To His Chancellor
+[April 19th, A.D. 1534. Le Neve's Fasti, Dr May, of Reformat. Vol. I. part v. pp. 75, 230, 287, 306.]
 
-MASTER Chancellor, I greet you well. And forasmuch as this bringer, the vicar Hari. MSS. of Milton, complaineth and findeth himself aggrieved, as well for that he is overcopy. X' b' charged for the king's subsidy3, as also for an acre of glebe land withholden from him; which injuries the abbot of St Austin's4 doth enforce him to sustain, both con trary to an ancjent composition, and also the act of the parliament favouring him in that behalf: I will that you, in consideration hereof, examine his said composition, and thereupon send me word how you think the matter standeth, to the intent I may see a redress in that behalf.
+[as the archbishop's vicar-general, seems to have Ed. Oxon. 1824; Life of Abp. Parker, Vol. I. pp.]
 
-MY especial good lord, I most heartily commend me unto your lordship. Your Hari. MSS. loving letter by your servant I have received, whereby I perceive your request therein ; copy. ' which to accomplish I would be as glad as any man living, if it might stand both with my ordinary power and my honesty withal : for I fear me I have gone and proceeded so far already by way of promise herein, that conveniently I cannot fulfil your desire in that behalf, whereof I am right sorry ; and yet notwithstanding I will promise you to do that I may therein, as it shall be well known to you hereafter.
+[governed the diocese in the interval. There were 128,171,2. Ed. Oxon. 1821; Life of Abp. Grin-]
 
-IN my right hearty wise I commend me unto you. And where I am advertised Hari. MSS. by master dean of Lincoln's5 letters of your toward mind that you bear unto my c04py.f' *' kinsman and servant Henry Bingham0, for his preferment unto the office of the auditorship of the church of Lincoln, now being in your hands and disposition ; to whom, as I understand, in that behalf ye could be right well content to declare your con venient favour, in case you had not made a former grant unto a kinsman of your own; which notwithstanding, as I do again perceive, your mind is to entreat your said kinsman to relinquish his interest therein: Sir, for this your gentle and favour able behaviour hitherto towards my said kinsman, I heartily give unto you condign thanks therefore; requiring the same, that now, the rather at this mine instance and request, ye will as well on your behalf as also for the obtaining the good will of your said kinsman,, accomplish your intended purpose herein; and in so doing I shall be at all times ready to acquit and recompense the same accordingly.
+[two Doctors May, brothers, and both eminent men. dal, p. 56. Dr John May was master of Catharine]
 
-[3 Probably the subsidy granted by Convocation A. D. 1523, consisting of the half of all spiritual benefices, to be levied in five years. Vid. Wilkins' Concilia, Vol. III. p. 699. Ed. Lond. 173J.]
+[Dr William May, who is probably the person here Hall, Cambridge, and A.D. 1577 bishop of Carlisle.]
 
-[4 John Sturvey, alias Essex, abbot of St Augustin's, Canterbury.]
+[mentioned, visited the diocese of Norwich as Cran- Strype’s Life of Abp. Parker, Vol. 1. p. 177;]
 
-[5 George Heneage succeeded to the deanery of Lincoln 1528, and died 1548. Le Neve's Fasti, p.
+[mer's commissary A.D. 1534, was one of the divines Annals of Reformat. Vol. 11. Part II. pp. 52, 3.]
 
-146\. Ed. Lond. 1716. The James Mallet, mentioned by Dr Jenkyns, was not dean, but precentor.J
+[engaged in drawing up the Institution of a Chris- Ed. Oxon. 1840.]]
 
-[6 Probably the Bingham who is mentioned in the articles preferred against the archbishop, A. D. 1543, as having married Cranmer's sister whilst her former husband was living. Vid. Strype's Mem. of Abp. Cranmer, Vol. I. p. 168. Ed. Oxon. 1840.]
+[tian Man," became dean of St Paul's, A.D. 1554, [? Probably Dr Cliff, chanter of York and dean]
 
-Harl. MSS. (i!48. f. 36. Copy.
+[was deprived under Mary, and in the reign of of Chester.]]
 
-IN my right hearty wise I commend me unto you. And where I am advertised by my servant Jefere Eton, that you by your deed obligatory did stand bound in xh. to one Thomas Eton his brother, late deceased, to pay to him lxvis. viiid. yearly, unto such time that he were advanced to some spiritual promotion of the clear value of viii1'. by the year, over and above all charges and reprises ; which said Thomas Eton then afterward for a time exercised the room of the officialship in Exeter ; whereupon you denied the payment of the said pension or annuity, contrary to the right and order of the temporal law, as I am informed by learned counsel : therefore and inasmuch as my said servant, now being sole executor unto his brother, must accomplish and perform his testament, I require you, and that the rather at this mine instance and request, that ye will either now pay unto the same all such sums of money, which in the name of a pension or annuity were heretofore due unto the said Thomas Eton his brother, or else to conclude some reasonable agreement with him therefore, to the intent he need not any further attempt the law in this behalf.
+[Elizabeth was restored to his deanery, and after.]
 
-## LXXII. The Earl of Essex 1 to Cranmer
+i in the vacation time, I will, that inasmuch as I can little skill in that behalf, that you, with master Pottkyns, order the matter according to your discretions with favour. And thus fare you well, &c.
 
-Hari. MSS. MY very good lord, in my right hearty manner I commend me unto your grace; and copy. ' ' where it hath pleased you to write unto me in favour of one Richard Stansby, that is to admit him favourably to his declaration against a bill of complaint offered to me against him, so that if he were found faultless of such things as be surmised in the said complaint, he might with my favour enjoy such as conscience would require ; or else, if he be found faulty, that then upon his submission I would weigh the matter with some charitable favour, the sooner at your request : my Lord, so it is, that there is no such complaint offered to me against the said Richard Stansby, wherefore I might accomplish your said request. But the said Stansby was of late my baily, and also my copyholder of certain lands in Bilston, in Suffolk, for the favour that of long time I did bear unto him, until that now of late, at my court holden at Bilston foresaid, as well his dissimulate and cloaked untruth in misusing of his office both as against me and my tenants there, as his misdemeaning of his copyhold against the customs used within the said manor, was by the whole homage presented. Wherefore I have seized into my hands his said copyhold, according to right, conscience, and custom, and have also deprived him of his office, intending never hereafter to bear him no such favour, that he shall have any thing of me more than right and conscience shall require ; praying your grace so to be contented therewith, nothing doubting the same, if your grace knew the said mis demeanours. And what pleasure I may shew to any other person at your request hereafter, I shall be glad to do the same, as our Lord knovveth; who have you in his blessed tuition. The xiii. day of October.
+## LXVIII. To his Chancellor
+
+Master Chancellor, I greet you well. And forasmuch as this bringer, the vicar of Milton, complaineth and findeth himself aggrieved, as well for that he is overcharged for the king's subsidy?, as also for an acre of glebe land withholden from him; which injuries the abbot of St Austin's doth enforce him to sustain, both contrary to an ancjent composition, and also the act of the parliament favouring him in that behalf: I will that you, in consideration hereof, examine his said composition, and thereupon send me word how you think the matter standeth, to the intent I may see a redress in that behalf.
+
+## LXIX. To
+
+Mv especial good lord, I most heartily commend me unto your lordship. Your loving letter by your servant I have received, whereby I perceive your request therein; which to accomplish I would be as glad as any man living, if it might stand both with my ordinary power and my honesty withal: for I fear me I have gone and proceeded so far already by way of promise herein, that conveniently I cannot fulfil your desire in that behalf, whereof I am right sorry; and yet notwithstanding I will promise you to do that I may therein, as it shall be well known to you hereafter.
+
+## LXX. To
+
+IN my right hearty wise I commend me unto you. And where I am advertised by master dean of Lincoln's? letters of your toward mind that you bear unto my kinsman and servant Henry Bingham, for his preferment unto the office of the auditorship of the church of Lincoln, now being in your hands and disposition; to whom, as I understand, in that behalf ye could be right well content to declare your convenient favour, in case you had not made a former grant unto a kinsman of your own; which notwithstanding, as I do again perceive, your mind is to entreat your said kinsman to relinquish his interest therein: Sir, for this your gentle and favourable behaviour hitherto towards my said kinsman, I heartily give unto you condign thanks therefore; requiring the same, that now, the rather at this mine instance and request, ye will as well on your behalf as also for the obtaining the good will of your said kinsman, accomplish your intended purpose herein; and in so doing I shall be at all times ready to acquit and recompense the same accordingly.
+
+[[? Probably the subsidy granted by Convocation 146. Ed. Lond. 1716. 'The James Mallet, men-]
+
+[A.D. 1523, consisting of the half of all spiritual tioned by Dr Jenkyns, was not dean, but pre-]
+
+[benefices, to be levied in five years. Vid. Wilkins’ centor.]]
+
+[Concilia, Vol. III. p. 699. Ed. Lond. 1737.] [$ Probably the Bingham who is mentioned in [^ John Sturvey, alias Essex, abbot of St Au- the articles preferred against the archbishop, 4. p.]
+
+[gustin's, Canterbury.] 1543, as having married Cranmer's sister whilst her [^ George Heneage succeeded to the deanery of former husband was living. Vid. Strype's Mem.]
+
+[Lincoln 1528, and died 1548. Le Neve's Fasti. p.! of Abp. Cranmer, Vol. I. p. 168. Ed. Oxon. 1840.]]
+
+## Lnni. To
+
+IN my right hearty wise I commend me unto you. And where I am advertised by my servant Jefere Eton, that you by your deed obligatory did stand bound in x". to one Thomas Eton his brother, late deceased, to pay to him lxvi. viii’. yearly, unto such time that he were advanced to some spiritual promotion of the clear value of viii". by the year, over and above all charges and reprises; which said Thomas Eton then afterward for a time exercised the room of the officialship in Exeter; whereupon you denied the payment of the said pension or annuity, contrary to the right and order of the temporal law, as I am informed by learned counsel: therefore and inasmuch as my said servant, now being sole executor unto his brother, must accomplish and perform his testament, I require you, and that the rather at this mine instance and request, that ye will either now pay unto the same all such sums of money, which in the name of a pension or annuity were heretofore due unto the said Thomas Eton his brother, or else to conclude some reasonable agreement with him therefore, to the intent he need not any further attempt the law in this behalf.
+
+## LXXII. The Earl of Essex' to Cranmer
+
+My very good lord, in my right hearty manner I commend me unto your grace; and where it hath pleased you to write unto me in favour of one Richard Stansby, that is to admit him favourably to his declaration against a bill of complaint offered to me against him, so that if he were found faultless of such things as be surmised in the said complaint, he might with my favour enjoy such as conscience would require; or else, if he be found faulty, that then upon his submission I would weigh the matter with some charitable favour, the sooner at your request: my Lord, so it is, that there is no such complaint offered to me against the said Richard Stansby, wherefore I might accomplish your said request. But the said Stansby was of late my baily, and also my copyholder of certain lands in Bilston, in Suffolk, for the favour that of long time I did bear unto him, until that now of late, at my court holden at Bilston foresaid, as well his dissimulate and cloaked untruth in misusing of his office both as against me and my tenants there, as his misdemeaning of his copyhold against the customs used within the said manor, was by the whole homage presented. Wherefore I have seized into my hands his said copyhold, according to right, conscience, and custom, and have also deprived him of his office, intending never hereafter to bear him no such favour, that he shall have any thing of me more than right and conscience shall require; praying your grace so to be contented therewith, nothing doubting the same, if your grace knew the said misdemeanours. And what pleasure I may shew to any other person at your request hereafter, I shall be glad to do the same, as our Lord knoweth; who have you in his blessed tuition. The xiii. day of October.
 
 By my lord of Essex.
 
 ## LXXIII. To the Earl of Essex
 
-Hari. MSS. ^ my right hearty wise I commend me unto your good lordship. These be to
+IN my right hearty wise I commend me unto your good lordship. These be to advertise you, that I have received your letters dated at Stansted the xiii. day of October. Whereby I perceive that you intend not to do any wrong to Richard Stansby, not- [ Henry Bouchier, “in whom that line (i. e. of word." The earldom of Essex was afterwards given the earldom of Essex) was extinct, who had been a to Crumwell, with all that fell to the crown by reasevere persecutor, falling from his horse, and break- son of the former earl dying without heirs. Burnet’s ing his neck, died without being able to speak one Hist. of Reformat. Vol. 111. p. 276. Ed. Oxon. 1829.]
 
-2 37. f Copy!' advertise you, that I have received your letters dated at Stansted the xiii. day of October.
+withstanding any complaint or presentment made against him, which is my very trust, and the rather at my request. Wherefore eftsoons I will desire you to be so good lord unto him, that two well learned men and indifferent may have the hearing of all matters, that your lordship is informed that he hath misordered himself against you. And so be it, that the said Stansby by any such misdemeanour hath not forfeit any of his land or copyhold, then I trust your lordship will be contented that he may enjoy his lands and copyhold according to right and conscience. And if the said two indifferent learned men shall reasonably think that he hath misordered himself in any point, the same Richard Stansby shall humbly require you to be his good lord, and shall to his small power make such amends for his offences, as shall be by the said two learned men thought reasonable. Trusting that in this his age ye will the rather be good lord unto him, and have herein the less regard to his negligence. Which to recompense I doubt not but that you shall have now no less good service of him, than ever you had of the same here- 4... tofore; and of my behalf such pleasure and commodity as you shall at any time require of me accordingly.
 
-Whereby I perceive that you intend not to do any wrong to Richard Stansby, not-
+## An answer to the same by my lord. LXXIV. To Certain Gentlemen in Hertfordshire
 
-[! Henry Bouchier, "in whom that line (i. e. of the earldom of Essex) was extinct, who had been a severe persecutor, falling from his horse, and break ing his neck, died without being able to speak one word." The earldom of Essex was afterwards given to Cruvnwell, with all that fell to the crown by rea son of the former earl dying without heirs. Burnet's Hist, of Reformat. Vol. III. p. 2JH. Ed.Oxon.lB2'J.j
+IN my right hearty wise I commend me unto you. And where this bringer, Thomas Y: Em. els. — Wiggynton, one of my tenants of Tring, hath offered unto me a supplication concerning such injuries and wrongs as he is compelled to sustain, by reason that certain unadvised persons, whose names are comprised in the said supplication, hath unjustly, as he reporteth, both slandered and spoiled him of his goods and good name; and by cause it 15 against reason to give credence to one party, the other parties not heard; and also, forasmuch as the matter also being in a place so far distant from me, that I cannot call the parties and witness before me without their intolerable charges: I require you, forasmuch as you being as well justices of the peace as also dwelling nigh there, to whom
 
-withstanding any complaint or presentment made against him, which is my very trust, and the rather at my request. Wherefore eftsoons I will desire you to be so good lord unto him, that two well learned men and indifferent may have the hearing of all matters, that your lordship is informed that he hath misordered himself against you. And so be it, that the said Stansby by any such misdemeanour hath not forfeit any of his land or copyhold, then I trust your lordship will be contented that he may enjoy his lands and copyhold according to right and conscience. And if the said two indifferent learned men shall reasonably think that he hath misordered himself in any point, the same Richard Stansby shall humbly require you to be his good lord, and shall to his small power make such amends for his offences, as shall be by the said two learned men thought reasonable. Trusting that in this his age ye will the rather be good lord unto him, and have herein the less regard to his negligence. Which to recompense I doubt not but that you shall have now no less good service of him, than ever you had of the same here tofore ; and of my behalf such pleasure and commodity as you shall at any time require of me accordingly2.
+[[? The earl of Essex, not having paid attention wise [be] answerable to the same, but have lately]
 
-An answer to the same ly my lord.
+[to this or any other letters, at length provoked the sent to the lands and grounds in variance certain]
 
-## LXXIV. To Certain Gentlemen in Hertfordshire
+[following peremptory order from Henry VIII. persons unknown; which being there assembled]
 
-IN my right hearty wise I commend me unto you. And where this bringcr, Thomas iiari. MSS. Wiggynton, one of my tenants of Tring, hath offered unto me a supplication concerning Copy. ' 3( such injuries and wrongs as he is compelled to sustain, by reason that certain unadvised persons, whose names are comprised in the said supplication, hath unjustly, as he reporteth, both slandered and spoiled him of his goods and good name; and by cause it is against reason to give credence to one party, the other parties not heard ; and also, forasmuch as the matter also being in a place so far distant from me, that I cannot call the parties and witness before me without their intolerable charges : I require you, forasmuch as you being as \vell justices of the peace as also dwelling nigh there, to whom f. 37, b.
+[MSS. “By the King. have forcibly kept the possession of the same, in-]
 
-[2 The earl of Essex, not having paid attention to this or any other letters, at length provoked the following peremptory order from Henry VIII. MSS. "By the King.
+[f 37, b “To our right trusty and right wellbeloved tending to cast out the goods of our said subject cousin and counsellor, the earl of Essex. therein; being to the evil example of other, in case]
 
-•( To our right trusty and right wellbeloved cousin and counsellor, the earl of Essex.
+[Right trusty and right wellbeloved cousin, we it should be suffered, as we be informed; whereof]
 
-" Right trusty and right wellbeloved cousin, we greet you well. And where upon complaint made unto us by our subject Richard Stansby for putting him out of certain copyholds, lands, and tenements, in your town of Bylston, which he and his ancestors have holden of you and your ancestors many years, it was thought by our council upon the examination of the matter to be reasonable, that our said subject should be restored to the possession of the said cus tomary lands and tenements, paying his rents and ser vices to you for the same, as hath been accustomed, till such time as the cause of seizure thereof were examined by our said council, and an order therein taken as to justice and equity should appertain ; and that afterward our right trusty and right wellbeloved counsellor, sir Thomas Audeley, knight, our chan cellor of England, and other of our counsellors, have directed unto you their several loving letters, ad vertising you of the mind of the residue of our council in the premises, and advising you rather of yourself, upon the humble suit of our said subject, to restore him accordingly, than it should be done by any order of compulsion ; which notwithstanding, ye, neither following their wholesome admonitions, nor yet the mind and order of our said council, will not in any wise [be] answerable to the same, but have lately sent to the lands and grounds in variance certain persons unknown; which being there assembled have forcibly kept the possession of the same, in tending to cast out the goods of our said subject therein ; being to the evil example of other, in case it should be suffered, as we be informed ; whereof we do not a little marvel : We let you to wit, that forasmuch as it belongeth unto us to minister right justice and equity to every of our subjects, and willing the order and decrees of our council to be lirmly obeyed and observed without violation, do signify unto you the premises ; and not doubting that ye, being of such authority and one of our council, will conform yourself to observe and ensue such orders as is or shall be taken by our said coun cil, without giving evil examples to other persons, or otherwise to give us occasion to compel you ; which of necessity we must do, if after such pro ceeding ye thus attempt us ; seeing it standeth not with good congruence nor our prerogative, that the process and orders made by us and our council, or by our writs in causes of justice, should be resisted by any of our subjects, by colour of any manner liberty or franchise. And therefore we will and command you to take good respect to yourself in this behalf, and to follow the orders of our council there in, as ye will answer unto us at your peril in that behalf, and as you tender our pleasure. Veven un der our signet, at our manor of Westminster the x\vi. day of March."]
+[greet you well. And where upon complaint made we do not a little marvel: We let you to wit, that]
 
-[1533- the administration of justice the rather belongeth, that you will take the pains to peruse this said supplication, and thereto to see such justice ministered, as shall be thought convenient according to law and good conscience, to the intent this poor man need not any further to complain unto me or any other for the same.
+[unto us by our subject Richard Stansby for putting forasmuch as it belongeth unto us to minister right]
+
+[him out of certain copyholds, lands, and tenements, justice and equity to every of our subjects, and]
+
+[in your town of Bylston, which he and his ancestors willing the order and decrees of our council to be]
+
+[have holden of you and your ancestors many years, firmly obeyed and observed without violation, do]
+
+[it was thought by our council upon the examination signify unto you the premises; and not doubting]
+
+[of the matter to be reasonable, that our said subject that ye, being of such authority and one of our]
+
+[should be restored to the possession of the said cus- council, will conform yourself to observe and ensue]
+
+[tomary lands and tenements, paying hisrents and ser- such orders as is or shall be taken by our said coun-]
+
+[vices to you for the same, as hath been accustomed, cil, without giving evil examples to other persons,]
+
+[till such time as the cause of seizure thereof were or otherwise to give us occasion to compel you;]
+
+[examined by our said council, and an order therein which of necessity we must do, if after such pro-]
+
+[taken as to justice and equity should appertain; and ceeding ye thus attempt us; seeing it standeth not]
+
+[that afterward ourright trusty and right wellbeloved with good congruence nor our prerogative, that the]
+
+[counsellor, sir Thomas Audeley, knight, our chan- process and orders made by us and our council, or]
+
+[cellor of England, and other of our counsellors, have by our writs in causes of justice, should be resisted]
+
+[directed unto you their several loving letters, ad- by any of our subjects, by colour of any manner]
+
+[vertising you of the mind of the residue of our council liberty or franchise. And therefore we will and]
+
+[in the premises, and advising you rather of yourself, command you to take good respect to yourself in this]
+
+[upon the humble suit of our said subject, to restore behalf, and to follow the orders of our council there-]
+
+[him accordingly, than it should be done by any order in, as ye will answer unto us at your peril in that]
+
+[of compulsion; which notwithstanding, ye, neither behalf, and as you tender our pleasure. Yeven un-]
+
+[following their wholesome admonitions, nor yet the der our signet, at our manor of Westminster the]
+
+[mind and order of our said council, will not in any xxvi. day of March.”]
+
+the administration of justice the rather belongeth, that you will take the pains to peruse this said supplication, and thereto to see such justice ministered, as shall be thought convenient according to law and good conscience, to the intent this poor man need not any further to complain unto me or any other for the same.
 
 To certain gentlemen in Hartefordshire.
 
-## LXXV. To the Archdeacon of Canterbury 1
+## LXXV. To the Archdeacon of Canterbury
 
-"i4H'fMIf'b MASTER archdeacon, in my right hearty wise I commend me unto you. And where c°pyI am informed by my servant John Creake 2, that the farm of your parsonage of Hayes is already, or else shortly like to be void, I heartily require you, at this mine instance, that you will grant to him the preferment thereof, whensoever the same shall next happen to be void, he finding you sufficient sureties for the payment thereof, and thereto giving you as much as any other reasonably will give. And what you intend to do herein, I require you to advertise me by this bearer, or as shortly as you may con veniently. And if there be any pleasure that I may do for you again, you may be sure to be bold of me accordingly.
+Master archdeacon, in my right hearty wise I commend me unto you. And where I am informed by my servant John Creake, that the farm of your parsonage of Hayes is already, or else shortly like to be void, I heartily require you, at this mine instance, that you will grant to him the preferment thereof, whensoever the same shall next happen to be void, he finding you sufficient sureties for the payment thereof, and thereto giving you as much as any other reasonably will give. And what you intend to do herein, I require you to advertise me by this bearer, or as shortly as you may conveniently. And if there be any pleasure that I may do for you again, you may be sure to be bold of me accordingly.
 
 To the archdeacon of Canterbury.
 
-Cotton MSS. Cleop. E. vi. f. 234. b. Original.
+## LXXVI. To Boner?
 
-Burnet'sHist. of Reformat. App. Vol. III. Bookii. No. 24. p. (52. Ed. Oxon.
+[[ William Warham, the nephew of archbishop Boner, desiring him, together with Gardiner, to]
 
-## LXXVI. To Boner 3
+[Warham, who parted with the archdeaconry of consult together, and to intimate his appeal in the]
 
-IN my right hearty manner I commend me to you. So it is, (as ye know right well,) I stand in dread, lest our holy father the pope do intend to make some manner of preju dicial process against me and my church. And therefore, having probable conjectures thereof, I have provoked4 from his holiness to the general council, according as the king's highness5 and his council have advised me to do : which my provocation6 and a procuracy under my seal I do send unto you herewith, desiring you right heartily to have me commended to my lord of Winchester7; and with his advice and counsel to intimate the said provocation, after the best manner that his lordship and you shall think most expedient for me. I am the bolder thus to write unto you, because the king's highness
+[Canterbury, and the provostship of Wingham by best manner they could think expedient for him."]
 
-[l William Warham, the nephew of archbishop Warham, who parted with the archdeaconry of Canterbury, and the provostship of Wingham by cession (March, A.D. 1534) in favour of Edmund t'ranmer, brother of the archbishop, and had a pen sion of £(50 per annum allowed him, during his life, from the archdeaconry, and £2Q per annum out of Wingham, by his successor. Strype's Mem. of Abp. Cranmer, Vol. I. p. 24. Ed. Oxon. 1840 ; Le Neve's Fasti, p. 13.]
+[cession (March, A.D. 1534) in favour of Edmund Strype's Mem. of Abp. Cranmer, Vol. I. p. 3l.]
 
-[2 Vid. Letters XVIII. XXXVII. pp. 248, 255.]
+[Cranmer, brother of the archbishop, aud had a pen- Burnet says that Cranmer sent the instrument with]
 
-[3 " I find moreover, that the archbishop of Can terbury at this time, suspecting the pope would pro ceed against him, by the advice of our king made his appeal also to the council ; which he desired our agents to intimate to the pope. The success where of yet doth not appear in our records." Kennel's Hist, of England, Vol. II.; Lord Herbert's Life of Henry VIII. p. 170. Boner was at this time Henry VIII. 's agent to pope Clement VII., and " had made his appeal from the pope to the next general council lawfully called." By the king and council's advice, Cranmer "soon after did the same; sending his appeal with his proxy, under his seal, to
+[sion of £60 per annum allowed him, during his life, a warrant to execute it to Crumwell, that it might]
 
-Boner, desiring him, together with Gardiner, to consult together, and to intimate his appeal in the best manner they could think expedient for him." Strype's Mem. of Abp. Cranmer, Vol. I. p. 31. Burnet says that Cranmer sent the instrument with a warrant to execute it to Crumwell, that it might be sent to the bishop of Winchester, to get it to be intimated to the pope in the best manner that could be thought of;" but he gives no authority for his assertion. Burnet's Hist, of Reformat. Vol. III. p. ItiO. It is not probable that the archbishop's appeal was ever presented, since Boner, in a lengthy letter to Henry VIII., dated Nov. 13th, nine days pre viously to that of the archbishop above, states that the pope had gone towards Rome from Marseilles, Nov. 12th, and that he was leaving for Lyons, Nov. 13th, the day on which his letter is dated, probably with a view to his return home. Vid. Boner's letter to the king, in Burnet's Hist, of Reformat. Vol. III. Part ii. App. Book u. No. 23. pp. 49-62.]
+[from the archdeaconry, and £20 per annum out of be sent to the bishop of Winchester, to get it to be]
 
-[4 I have appealed, Strype.] f5 As his highness, Ibid.]
+[Wingham, by his successor. Strype's Mem. of intimated to the pope in the best manner that could]
 
-[6 Which my appeal, Ibid.J
+[Abp. Cranmer, Vol. I. p. 24. Ed. Oxon. 1840; Le be thought of;" but he gives no authority for his]
 
-[7 Stephen Gardiner, at this time at Marseilles as ambassador from Henry VIII. to Francis I.] commanded8 me thus to do, (as ye shall I trust further perceive by his grace's letters9,) nothing doubting in your goodness, but at this mine own desire ye will be contented to take this pains, though his highness shall percase forget to write unto you therein : which your pains and kindness if it shall lie in me in time to come to recompense, I will not forget it, with God's grace ; who preserve you as myself. From Lambeth, the xxiid day10 of November, [1533].
+[Neve's Fasti. p. 13.] assertion. Burnet's Hist. of Reformat. Vol. III. p. [? Vid. Letters XVIII. XXXVII. pp. 248, 160. It is not probable that the archbishop's appeal]
 
-## Thomas Cantuar
+[255.] was ever presented, since Boner, in a lengthy letter [? I find moreover, that the archbishop of Can- to Henry VIIL, dated Nov. 13th, nine days pre-]
+
+[terbury at this time, suspecting the pope would pro- viously to that of the archbishop above, states that]
+
+[ceed against him, by the advice of our king made the pope had gone towards Rome from Marseilles,]
+
+[his appeal also to the council; which he desired our Nov. 12th, and that he was leaving for Lyons, Nov.]
+
+[agents to intimate to the pope. The success where- 13th, the day on which his letter is dated, probably]
+
+[of yet doth not appear in our records." Kennet's with a view to his return home. Vid. Boner's letter]
+
+[Hist. of England, Vol. II.; Lord Herbert's Life of to the king, in Burnet's Hist. of Reformat. Vol.]
+
+[Henry VIII. p. 170. Boner was at this time III. Part 11. App. Book 11. No. 23. pp. 49-62.]]
+
+[Henry VIII.'s agent to pope Clement VII., and (^ I have appealed, Strype.]]
+
+[“had made his appeal from the pope to the next [^ As his highness, Ibid.]]
+
+[general council lawfully called." By the king and [?^ Which my appeal, Ibid.]]
+
+[council's advice, Cranmer soon after did the same; [7 Stephen Gardiner, at this time at Marseilles]
+
+[sending his appeal with his proxy, under his seal, to as ambassador from Henry VIII. to Francis I.]]
+
+commanded me thus to do, (as ye shall I trust further perceive by his grace’s letters?) nothing doubting in your goodness, but at this mine own desire ye will be contented to take this pains, though his highness shall percase forget to write unto you therein: which your pains and kindness if it shall lie in me in time to come to recompense, I will not forget it, with God's grace; who preserve you as myself. From Lambeth, the xxiid day of November, [1533].
+
+TuowAS CANTUAR.
 
 ---
 [[Cranmer MW 29 Letters I–XIV|← 29. Letters I–XIV]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 31 Letters LXXVII–CVI|31. Letters LXXVII–CVI →]]
+
