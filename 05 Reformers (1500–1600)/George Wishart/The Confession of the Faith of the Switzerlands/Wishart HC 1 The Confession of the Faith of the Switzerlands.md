@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - george-wishart
 ---
-
 # 1. The Confession of the Faith of the Switzerlands
 
 burned in Scotlanly the
@@ -29,7 +28,7 @@ THE Canonycall or holy Scrypture, whiche is the Worde of God, taught and gyven b
 
 The interpretacion, or exposicion of this holy wrytte, ought and shuld be sought out of it selfe, so that it shulde be the owne interpretour,! the rule of charite and faythe hauynge gouernaunce.
 
-**III.** OF MANNES TRADICIONS.
+## **III.** of Mannes Tradicions
 
 As to other thynges, of Tradicions of men, howe bewtifull and how moch receyued soeuer they be, what so euer tradicions withdraweth us and stoppeth us fro the Scripture, of such do we an-
 
@@ -79,7 +78,7 @@ And so this pestiferous infection whiche men calleth Originall, hathe infecte an
 
 Wherfore we attribute so free wyll to man as we whiche wyttynge and wyllynge to do good, fele experience of euyll. Also euyll trewly we maye-do of oure owne wyll, but to enbrace and folowe good (except we be elluminat, styred up and mounted, by the grace of Chryst) we maye not: for, God is he whiche worketh in us bothe to wyll, to performe, and to accomplyshe for his owne good wyll sake;" and of God commeth our helth and saluacion, but of our selfe commeth perdicion.
 
-**X.** OF THE ETERNALL MYNDE OF GOD TO RESTORE MAN.
+## **X.** of the Eternall Mynde of God to Restore Man
 
 And howbeit that through his fault man was subjecte unto dampnacion, and aleo was runne under the juste indingnacion of (rod to take vengeaunce of hym, yet God the father neuer seaced to take a mercyfull cure ouer hym: The whiche thynge is manifest not onely of the fyrst promyses and the whole lawe, whiche as it is holy and good, teaching us the wyll of God, ryghtuousnes, and truthe, so worketh it wrath and storeth up synne within us, and slacketh it not, and that not through any faulte of it selfe, but
 
@@ -159,7 +158,7 @@ The chefe and pryncypall offyce of this ministracion is to preache repentaunce a
 
 18 THE CONFESSION OF FAITH meanes compell and reproue the fautie and vicious; and to exclude from the churche them that stereth to farre, and that by a godly consente and agrement of them whiche are chosen of the ministers and magistrates for correcyon, or to ponyshe them by any other waye conuenient and profytable meanes, so longe untyll they come to a mendement, and so be safe: for this is the returnynge of the churche agayne, for one suche citezen of Chryst, yf he acknowlage and confesse his erroure with conuerted mynde and lyfe, for all this doctryne seketh and wylleth, that we requyre wyllynge and helthefull correccion, exhilarite, or comforte all godly by a newe studdy of godlynes.
 
-**XX.** OF THE POWER OR STRENGTHE OF SACRAMENTES.
+## **XX.** of the Power or Strengthe of Sacramentes
 
 There i8 twayne whiche are named in the Church of God Sacramentes, Baptyme, and Howslynge:' these be tokens of secrete thynges, that is, of godly and spirituall thynges, of whiche thynges they take the name, are not of naked sygnes,! but they are of sygnes and verities together. For in Baptisme the water is the sygne, but the thynge and verytie is regeneracyon, and adopcion in the people of God. Inthe Howslynge? and Thankes gyuynge, the bread and the wyne are sygnes, but the thynge and veritie is the communion of the body of our Lorde; helthe and saluacion founde, and remyssyon of synnes; the which are receyuyed by faythe, even as the sygnes and tokens are receyued by the bodely mouth. Wherfore, we affyrme the Sacramentes not onely to be badges and tokens of Christian societie,?.but to be also sygnes of the grace - of God, by the whiche the ministers worketh withe God, to the ende that the promyse bryngeth the worke to passe; but so as le aforesayde of the ministracion of the worde, that all the same powre be ascribed to the Lorde.
 
@@ -267,4 +266,3 @@ It was our pleasure to use these wordes at this present tyme, that we myght decl
 
 ---
 [[Library/protestant reformers/George Wishart/The Confession of the Faith of the Switzerlands/confession-index|Contents]]
-

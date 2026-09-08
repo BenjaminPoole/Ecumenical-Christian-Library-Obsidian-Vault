@@ -10,10 +10,7 @@ written: "1545"
 tags:
   - calvin-treatises
 ---
-
 # 3. Of Prayer
-
-## Of Prayer
 
 **M.** As the second part of Divine Worship, which consists in service and obedience, has been sufficiently discussed, let us now proceed to the third part. S. We said it was invocation, by which we flee to God in any necessity.
 
@@ -273,4 +270,3 @@ us, were we not aided by the help of God. For both our mind, from its native van
 
 ---
 [[Calvin Catechism 2 Of the Law|← 2. Of the Law]] · [[Library/protestant reformers/John Calvin/Treatises/Catechism of the Church of Geneva/catechism-of-geneva-index|Contents]] · [[Calvin Catechism 4 Of the Word of God|4. Of the Word of God →]]
-

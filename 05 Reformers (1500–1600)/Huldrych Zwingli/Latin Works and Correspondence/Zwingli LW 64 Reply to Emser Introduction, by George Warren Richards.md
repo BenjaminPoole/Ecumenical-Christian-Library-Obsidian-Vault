@@ -11,16 +11,13 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 64. Reply to Emser: Introduction, by George Warren Richards
 
 I doubt not that there are in it many things that will greatly offend certain weaklings, but let these reflect that Paul sometimes spoke as a child [ef. I Cor. 13], and let them consider whether they may not themselves still be perhaps over weak. All that I have said, I have said to the glory of Godand for the benefit of the commonwealth of Christ and the good of the conscience.
 
 Thanks be to God!
 
-^ II
-
-## Reply to Emser Introduction by George Warren Richards
+## ^ II
 
 ai 1523 Zwingli published a Latin tract entitled, De Canone Misse Huldrychi Zuinglii Epichiresis, “An Essay on the (Canon of the Mass.” He speaks of it as “my confutation of the Canon of the Mass." He wrote it in four days (August 25-29), though not without careful study and serious thought on the subject “for several years" before he began to write. Emser was sufficiently provoked by it to publish an answer with the title: Canonis Misse contra Huldricum Zuinglium Defensio (1524), “Defense of the Canon of the Mass against Huldreich Zwingli." The author, contrary to custom, did not send a copy of this tract to Zwingli, who accordingly chides him for attacking him treacherously “from the rear" and without giving him “any warning." “You did not, as a Christian especially ought, give any warning; you sent no herald with a demand for satisfaction; and you attacked suddenly, not in front but from the rear, one who suspected no such thing."
 
@@ -216,4 +213,3 @@ In his concluding paragraph Zwingli bids adieu to Emser in words that are far fr
 
 ---
 [[Zwingli LW 63 Commentary on True and False Religion Epilogue|← 63. Commentary on True and False Religion]] · [[Library/protestant reformers/Huldrych Zwingli/Latin Works and Correspondence/latin-works-index|Contents]] · [[Zwingli LW 65 Reply to Emser Address to Emser|65. Reply to Emser Address to Emser →]]
-

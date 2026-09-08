@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 76. Decade 5, Sermon 10, Part 3
 
 I will not allege testimonies out of the law and the prophets, (although they exist there in large abundance,) but only from the writings of the evangelists and apostles, which teach with one accord that unto them that believe sins are forgiven freely for Christ's sake. The Baptist, our Lords forerunner, points the finger to the Lord Jesus Christ himself, and cries: “Behold the Lamb of God, which taketh away the sin of the world.” For the apostle John has ᾿ ii. said: “The blood of the Son of God cleanseth us from all sin. For A he is the propitiation for our sins; and not for ours only, but also for the sins of the whole world.” Nay, the Lord Jesus himself tes- tifies of these things, and says: “As Moses lifted up the serpent in
@@ -82,7 +81,7 @@ Receive then these my labours with indulgence, and take them in good part. They 
 
 With all his heart,
 
-: HENRY BULLINGER.
+## : Henry Bullinger
 
 Zurich, 1 March, 1549.
 
@@ -288,4 +287,3 @@ Pack, a lewd person, ii. 69. Paul 11., ii. 268. Palestines, iv. 480. Paul IIL., 
 
 ---
 [[Bullinger Dec 75 Decade 5, Sermon 10, Part 2|← 75. Decade 5, Sermon 10, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 77 Decade 5, Sermon 10, Part 4|77. Decade 5, Sermon 10, Part 4 →]]
-

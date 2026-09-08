@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 26. Defensio: Liber Secundus
 
 Quartum, in quo sacerdotes papistici ab apertissimo verbo divino dissentiunt, est, quod dicant se Christum quotidie pro remissione peccatorum nostrorum offerre, et mortis Christi merita per missas suas distribuere et applicare. At prophet, apostoli et evangeliste pradicant, Christum ipsum suo ipsius corpore sacrificium pro nobis in cruce fecisse, cujus vulneribus zgritudines omnes sanarentur, et peccata re-
 
 ## mitterentur: hoc nullus unquam sacerdos, nec homo, nec creatura ulla fecerat, preter Christum solum, nec is quidem ssepius quam semel. Hujus etiam oblationis beneficium aliis distribuere nemo mortalis potest, sed fide cuique sua (quemadmodum propheta ait) a Christo accipiendum est
 
-[FINIS LIBRI PRIMI,]
+## [Finis Libri Primi,]
 
 ## Liber Secundus. Contra Transubstantiationem. Caput
 
@@ -259,9 +258,9 @@ Eodem modo in baptismo aqua natura communis mutatur: ad communem enim naturam aq
 
 Itaque praecipuum doctorum testimonium (quod illi firmissimum erroris sui presidium existimant) facile intelligitur, quam parum pro illis faciat. Sed ad meliorem sententize Cypriani explicationem, haud inutile fuerit locum illius, supra capite quinto citatum, animadvertere.
 
-CAPUT XII.
+## Caput XII
 
-CHRYSOSTOMI SENTENTIA A PAPISTIS AD TRANSUBSTANTIATIONEM
+## Chrysostomi Sententia a Papistis Ad Transubstantiationem
 
 ## Depravata
 
@@ -379,4 +378,3 @@ His in responsionibus nihil absurdum aut ineptum est, nihil dictum vel contra sa
 
 ---
 [[Cranmer LS 25 Defensio Liber Primus, De Sacramento|← 25. Defensio Liber Primus, De Sacramento]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 27 Defensio Liber Tertius, De Praesentia Christi in|27. Defensio Liber Tertius, De Praesentia →]]
-

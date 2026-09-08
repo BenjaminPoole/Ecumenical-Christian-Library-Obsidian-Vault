@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 1. Dedications and Prefaces, Part 1
 
 **ADVERTISEMENT.** ἃ THEG One of the Parker Society’s objects, as stated in the first of its Laws, is the printing, as may appear desirable, of some of the Early English translations of the Foreign Reformers.” Accordingly, the re-publishing of the English Version of the Decades of Bullinger was announced, as in the contemplation of the Council of the Society, in a List which was appended to the Second Annual Report; and the first volume is now, at length, presented to the subscribers. The edition, which is here reprinted, is that of 1587, which scarcely differs at all, in any material respects, from the former edition of 1584, and very little from that of 1577; but any important variations between the translation and the original Latin are carefully specified in the notes. The Version was made, as stated in the title-page, “by H. I. Student in Divinitie,”— a person,” according to Strype’s testimony, “of eminency in the Church!.”
@@ -300,7 +299,7 @@ WE believe in one God, the Father Almighty, maker of of all things visible and i
 
 [Eccl. Lib. 1. ὁ. 8. ed. Reading. Cantab. 1720. P.]]
 
-THE CREED OF THE COUNCIL HELD AT CONSTANTIN-OPLE, TAKEN OUT OF A CERTAIN COPY WRITTEN IN GREEK! AND LATINZ
+## The Creed of the Council Held at Constantin-Ople, Taken out of a Certain Copy Written in Greek! and Latinz
 
 I BELIEVE? in one God, the Father Almighty, maker of heaven and earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, born of his Father before all worlds, light of light, very God of very God, begotten, not made, being of the same sub-
 
@@ -372,7 +371,7 @@ I BELIEVE? in one God, the Father Almighty, maker of heaven and earth, and of al
 
 stance with the Father, by whom all things were made: who for us men, and for our salvation, came down from heaven, and was incarnate by the Holy Ghost and the virgin Mary, and was made man. He was also crucified for us under Pontius Pilate. He suffered and was buried: and he rose the third day, according to the scriptures. And he ascended into heaven, and sitteth on the right hand of God the Father: and he shall come again with glory to judge the quick and the dead; whose kingdom shall have no end. And (I believe) in the Holy Ghost, the Lord and giver of life, who, proceeding from the Father, is to be worshipped and glorified to- gether with the Father and the Son; who spake by the prophets: in one catholic and apostolic church. I confess one baptism for the remission of sins. I look for the resurrection of the dead; and the life of the world to come.
 
-THE CONFESSION OF FAITH MADE BY THE SYNOD
+## The Confession of Faith Made by the Synod
 
 ## At Ephesus
 
@@ -432,7 +431,7 @@ To this confession Cyril addeth these words: “When we had read these holy word
 
 [μία πίστις, ἕν βάπτισμα,) ἐδοξάσαμεν τὸν τῶν ὅλων Σωτῆρα Θεόν’ ἀλ-]
 
-A CONFESSION OF FAITH MADE BY THE COUNCIL OF CHALCEDON, TAKEN OUT OF THE BOOK OF
+## A Confession of Faith Made by the Council of Chalcedon, Taken out of the Book Of
 
 ## Isidore
 
@@ -678,4 +677,3 @@ As we have learned of the holy fathers, that the Father, and the Son, and the Ho
 
 ---
 [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 2 Dedications and Prefaces, Part 2|2. Dedications and Prefaces, Part 2 →]]
-

@@ -10,10 +10,7 @@ written: "1545"
 tags:
   - calvin-treatises
 ---
-
 # 5. Of the Sacraments
-
-## Of the Sacraments
 
 **M.** Is there no other medium, as it is called, than the Word by which God may communicate himself to us?
 
@@ -261,4 +258,3 @@ from communicating, unless in addition to it there was a legitimate investigatio
 
 ---
 [[Calvin Catechism 4 Of the Word of God|← 4. Of the Word of God]] · [[Library/protestant reformers/John Calvin/Treatises/Catechism of the Church of Geneva/catechism-of-geneva-index|Contents]]
-

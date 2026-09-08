@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 22. The Disputations at Oxford, Part 1
 
 [oT MESE E US NS a fe ROT SUE Rm REN ER. το MORE en ER d Sen gira EPA] Ws EC SERA ii PRIA TNT Wg on Loss S CE A 1 I SIM ALS RARI. Pru D iE Ray E Ae. M LUA S aa Re Aw ΔῈ ^ ba ς Feel ς si ra ARR TE iy A aL ) GR TENN i PILE RATS Say - LEMÓ- rubo act TOO YA ILS EE oe EI SS Beater Ἐν RS a ar RN ἐπ τ']
@@ -45,7 +44,7 @@ ui um aras Ba RI E CU. E d Ne e V ST VES TN " MESES S en es NE e (E em 5 τ ers 
 
 [Py Eu p ru Cn C Bg To de i0 2 1073 NE Du. acc E j]
 
-HOW THOMAS CRANMER, ARCHBISHOP, BISHOP RIDLEY, AND
+## How Thomas Cranmer, Archbishop, Bishop Ridley, And
 
 ## Latimer, Were Sent Down to Oxford to Dispute, with the Order and Manner, and All Other Circumstances, unto the Said Disputation, and Also to Their Condemnation, Appertaining
 
@@ -127,7 +126,7 @@ Chedsey:— Christ, when he spake these words, “This is my body,” spake of t
 
 sitting there on high, to read openly to the people; which he promised to do. But Popes. it was not the first promise that such papists have broken.
 
-AN EXPLICATION OF CRANMER UPON THE AFORESAID
+## An Explication of Cranmer upon the Aforesaid
 
 ## Conclusions, Exhibited in Writing"
 
@@ -699,4 +698,3 @@ Weston:— Ergo, Christ, being born, gave us his flesh. That is, made Crammer:�
 
 ---
 [[Cranmer LS 21 Matters Wherein the Bishop of Winchester Varied from|← 21. Matters Wherein the Bishop of]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 23 The Disputations at Oxford, Part 2|23. The Disputations at Oxford, Part 2 →]]
-

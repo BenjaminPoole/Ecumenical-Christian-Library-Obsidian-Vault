@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 34. Letters CLXXVIII–CXCIV
 
 I beseech your grace to pardon me of my long and tedious writing; for I could not otherwise set the matter forth plain. And I most heartily thank your grace for the stag which your grace sent unto me from Windsor forest: which, if your grace knew for how many causes it was welcome unto me, and how many ways it did me service, I am sure you would think it much the better bestowed. Thus our Lord have your highness always in his preservation and governance. From Ford, the xxvi. day of August, [1536.]
@@ -637,11 +636,11 @@ Scire adhuc desideras, ecquid munus tuum gratum fuerit? Age dicam, non qua ipse 
 
 De me hoc tibi persuadeto, te amo ex animo venerorque, et dignum judico cui ob insignem eruditionem cum pari morum probitate conjunctam omnes boni bene faciant. Atque utinam voluntati mez erga te propense facultas responderet! Tunc profecto, mi Capito, sentires, quanti te facio. Interim te rogo, ut hoc munusculum a me boni consulas, parum [parvum] quidem si ad merita tua respiciatur, sed profecto non contemnendum, si vel animus meus dantis, vel sumtus necessarii et multiplices, quibus propemodum vel supra facultates oneror, rite considerentur. Quod superest, oro, ut hunc amicum meum Thomam Tybaldum, qui hasce ad te perfert, mea causa, quantum potes, foveas et adjuves. Vale.
 
-**T.** CANTUARIEN.
+## **T.** Cantuarien
 
 ## [translation.]
 
-**T.** CANTUAR.
+## **T.** Cantuar
 
 ## Edward Fox, bishop of Hereford, A. 1535. He died 1538.]
 
@@ -815,4 +814,3 @@ pp. Flanders. Requiring your lordship, if I may be so admonish every man to read
 
 ---
 [[Cranmer MW 33 Letters CLI–CLXXVII|← 33. Letters CLI–CLXXVII]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 35 Letters CXCVIII–CCXVI|35. Letters CXCVIII–CCXVI →]]
-

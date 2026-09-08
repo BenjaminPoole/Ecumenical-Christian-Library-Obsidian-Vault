@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 27. Defensio: Liber Tertius, De Praesentia Christi in Sacramento
 
 Quis enim alius hujus antichristian discipline finis esse potest, quam subdola
 
 ## quadam astutia Christianos a vero Christi cultu gravissimam perniciosissimam omnium idololatriam, que unquam antehac excogitatz fuerant, abducere? Quod in consequenti oratione mea planius demonstrabo
 
-[FINIS LIBRI SECUNDI.]
+## [Finis Libri Secundi.]
 
 ## Liber Tertius. Quemadmodum Christus in Sacramento Prjesens Sit. Caput Primum
 
@@ -209,7 +208,7 @@ Quod si nihil antiquum habent, quod pro se afferant, sed ipsi sibi ipsis sua fid
 
 ## Caput
 
-PANEM ESSE CORPUS CHRISTI, ET VINUM SANGUINEM, SIMILITER EDERE CHRISTI CORPUS, ET BIBERE ILLIUS SANGUINEM, SUNT FORM/E LO-QUENDI FIGURAT/E.
+## Panem Esse Corpus Christi, Et Vinum Sanguinem, Similiter Edere Christi Corpus, Et Bibere Illius Sanguinem, Sunt Form/E Lo-Quendi Figurat/E
 
 His ita constitutis, necessario efficitur, hanc loquendi formam esse figuratam. Si enim proprie et simpliciter loquamur, minime verum est, panem esse Christi corpus, et vinum sanguinem., Christi enim corpus anima, vita, sensu et ratione est preditum; at panis anime, vitz, sensus, rationis est expers.
 
@@ -609,4 +608,3 @@ Jam vero cum papistarum errores tum de transubstantiatione, tum de reali,
 
 ---
 [[Cranmer LS 26 Defensio Liber Secundus|← 26. Defensio Liber Secundus]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 28 Defensio Liber Quartus, De Perceptione Corporis et|28. Defensio Liber Quartus, De Perceptione →]]
-

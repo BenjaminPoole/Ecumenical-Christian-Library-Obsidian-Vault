@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 26. Decade 3, Sermon 3, Part 1
 
 ## Hope and Manifold Consolation of the Faithful. The Third Sermon
@@ -32,7 +31,7 @@ First of all, it is requisite to lay before our eyes and reckon up the several k
 
 **[5 miseriee, Lat.** without any epithet. ]
 
-[BULLINGER, 11] 8
+## [Bullinger, 11] 8
 
 tily disposed, maliciously bent, disobedient and unthankful to father and mother; and lastly, care and continual grief in sundry sorts for sundry things, which never cease to vex our minds. For no man can in never so long a bead-row! reckon up all the evils whereunto miserable mankind is woefully endangered, and every moment tormented. New miseries rise up every day, of which our elders did never hear; and they are appointed to be felt and suffered of us, who with our new and never heard of sins do daily deserve new and never seen punishments, when as otherwise the miseries, which our forefathers felt, had been enough and sufficient to have plagued us all. ὁ But now with these evils, as well the good and godly with worshippers of God, as the wicked contemners of his name, are troubled and put in ure: yea, the saints are through all? their life time afflicted and vexed, when as contrarily the wicked abound with all kinds of joy and delightful pleasures: whereupon it cometh, that great temptations and complaints arise in the minds of the godly. The wicked do gather by their happy state and pleasant life, that God doth like their religion, and accept their manner of dealing, whereby they are confirmed and grounded in their errors. And on the other side the godly, by reason of the miseries which they have long suffered, do revolt from godliness, and turn to the ungodly, because they think that the state of the wicked is far better than theirs, Now it is good to know, and severally to learn, all this out of the scriptures. That the godly are and have been afflicted, as well as the wicked, since the beginning of the world, it is manifest to be seen in the example of Abel and Cain: for, as the one was pitifully slain of the other for his sincere worshipping of God, so was the other for the murder made a vagabond, not daring for fear to abide in any place to take his rest in. Jacob, surnamed Israel, is read to have been vexed with many calamities. The same is reported also of the Egyptians, while they persecuted the Israelites. Saul was vexed, and David afflicted. The Lord our Saviour, with his disciples, bare the cross of grief and trouble: again, on the other side, the Jews, who cruelly persecuted Christ and his disciples, were horribly destroyed,
 
@@ -508,4 +507,3 @@ The saints, I confess, in their calamities do feel grief and many discommodities
 
 ---
 [[Bullinger Dec 25 Decade 3, Sermon 2|← 25. Decade 3, Sermon 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 27 Decade 3, Sermon 3, Part 2|27. Decade 3, Sermon 3, Part 2 →]]
-

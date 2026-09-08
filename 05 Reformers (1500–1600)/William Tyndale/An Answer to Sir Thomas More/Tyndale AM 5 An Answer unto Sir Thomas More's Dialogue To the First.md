@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 5. An Answer unto Sir Thomas More's Dialogue: To the First Book
 
 [3 Thenceforward.] [ This well-known tale first appeared in Sir Thomas More's Dia-]
@@ -23,7 +22,7 @@ tags:
 
 that the building of them and such like, through the false faith that we have in them, is the decay of all the havens in England, and of all the cities, towns, highways, and shortly of the whole commonwealth. For since these false monsters crope up into our consciences, and robbed us of the knowledge of our Saviour Christ, making us believe in such pope-holy and works, and to think that there was none other way unto heaven, we have not ceased to build them abbeys, cloisters, e, colleges, chauntries, and cathedral churches with high steeples, striving and envying one another who should do most. And as for the deeds that pertain unto our neighbours and unto the commonwealth, we have not regarded at all, as things which seemed no holy works, or such as God would not once look upon. And therefore we left them unseen to, until they were past remedy, or past our power to remedy them; inas- much as our slow bellies, with their false blessings, had juggled away from us that wherewith they might have been holpen in due séason. So that the silly poor man (though he had haply no wisdom to express his mind, or that he durst not, or that Master More fashioneth his tale as he doth other men's, to jest out the truth,) saw that neither Goodwin sands, nor any other cause alleged, was the decay of Sandwich haven, so much as that the people had no lust to maintain the commonwealth, for blind devotion which they have to popeholy works.
 
-THE SOLUTIONS AND ANSWERS UNTO M. MORE'S
+## The Solutions and Answers unto M. More's
 
 ## First Book
 
@@ -651,4 +650,3 @@ When the great multitude, that be called and not chosen, Cain, Ishmael, Esau, an
 
 ---
 [[Tyndale AM 4 An Answer unto Sir Thomas More's Dialogue Foundational|← 4. An Answer unto Sir Thomas More's]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 6 An Answer unto Sir Thomas More's Dialogue To the Second|6. An Answer unto Sir Thomas More's →]]
-

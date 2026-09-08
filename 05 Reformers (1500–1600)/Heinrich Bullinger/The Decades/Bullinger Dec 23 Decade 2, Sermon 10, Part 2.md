@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 23. Decade 2, Sermon 10, Part 2
 
 we not ashamed of such superstition!?” Thus much saith Hierome. And it is evident, that even at this day this vice is especially received among our wealthy and religious men. οἱ But the end of christian fastings are, that the church, or sinner, should submit and humble themselves before the Lord, that the flesh should be obedient and subject to the spirit, that the flesh should not hinder the sinner to work righteousness, and that the intent and mind of him that prayeth should be the more earnestly bent toward God. For fasting is of the number of those works which of themselves are not absolute and perfect, but have another meaning, for which they are ordained to another end and purpose: therefore fasting is a certain help to the prayers and virtues of godly men. Whereupon in the prophets we find, that the fastings of the Jews displeased the Lord: for they did nought else but fast alone; that is, they did at a certain and appointed time abstain from their usual manner of eating, but they restrained not themselves from sin and wickedness, but let their flesh have the bridle at will, when as indeed they should have ceased to have pampered it, that thereby it being the weaker, the spirit might be the stronger to do and fulfil all sort of good works. And therefore saith the Lord: I have not chosen such a manner of fasting;” and the rest, as it followeth in the fifty-eighth chapter of Esay, and in the seventh and eighth chapters of Zachary’s prophecy.
@@ -142,7 +141,7 @@ I have again, my brethren, passed beyond the appointed time of an ordinary sermo
 
 10 2 1 hee hanc 138 2 8 reyis regio -Ξ -- 12 lationis latronis 202 1 2 ine sine
 
-[ADDENDA.]
+## [Addenda.]
 
 [15 note 7 line ὃ παθόντα, ---. 12 ἢ τρεπτὸν.]
 
@@ -298,23 +297,23 @@ g if] αν ἢ
 
 FR ty γον Lu 5545 ΩΝ as 4 ἀρ ἐμένα
 
-[ὩΣ]
+## [Ὡς]
 
 [OD Ne rs]
 
-[Ξ ἘΠ]
+## [Ξ Ἐπ]
 
 [adie FILE]
 
 [gis]
 
-[SEP]
+## [Sep]
 
-[ἌΜΕ]
+## [Ἄμε]
 
-[ἜΛΡΕ]
+## [Ἔλρε]
 
-[ΓΝ]
+## [Γν]
 
 [1114]
 
@@ -328,9 +327,9 @@ FR ty γον Lu 5545 ΩΝ as 4 ἀρ ἐμένα
 
 [cs Ez]
 
-[ER Ξ]
+## [Er Ξ]
 
-[FRI]
+## [Fri]
 
 [523 3 = fs a)]
 
@@ -352,7 +351,7 @@ VII.—That, after the commentement of the proceedings, no rule shall be made or
 
 VIII.—Donations and Legacies will be thankfully received; the amount of which shall be expended by the Council in supplying copies of the publications to clerical, or other libraries, destitute of funds to purchase the same, and for such other purposes, connected with the objects of the Society, as the Council may determine.
 
-FOLLOWING NAMES, AMONG OTHERS, ARE IN THE
+## Following Names, Among Others, Are in The
 
 ## Of Subscribers to the Parker Society. Most Gracious Majesty Adelaide, Queen Dowager. His Royal Highness the Prince Albert. His Majesty the King of Prussia. Her Royal Highness the Duchess of Kent
 
@@ -418,7 +417,7 @@ FOLLOWING NAMES, AMONG OTHERS, ARE IN THE
 
 The Right Honourable the Lord Chief Justice of Ireland.—The Right Honourable Lord Justice Clerk, Scotland.—The Honourable Mr. Justice Jackson, The Chevalier Bunsen.—The Right Honourable Henry Goulburn, M.P. for the University of Cambridge.—The Right Honourable W. E. Gladstone, M.P. for the University of Oxford, ἄο. The Very Reverend the Deans of Chester, Durham, Gloucester, Manchester, Norwich, Peterborough, Salisbury, and Winchester.—The Deans and Chapters of Lichfield, Worcester, Limerick, Raphoe, Tuam, &c. The Very Reverend the Deans of Clogher, Cloyne, Connor, Cork, Derry, Cashel, Elphin, Emly, St. Patrick, Ossory, Kildare, and Kilmacdaugh. The Honourable and Worshipful T. W. Law, Chancellor of Bath and Wells. —The Worshipful H. Raikes, Chancellor of Chester, E. T. M. Phillips, Α Chancellor of Gloucester, F. R. Sandys, Chancellor of Ossory, Marsham Argles, Chancellor of Peterborough, and J. N. Woodroffe, Chancellor of Cork. The Venerable Archdeacons Berners, Bevan, Brown, Buckle, Davys, Hare, Hill, Hodson, Hoare, Law, Mac Donald, Philpot, Spooner, C. Thorp, Henry Williams, William Williams of New Zealand, R. J. Wilberforce. The Venerable Archdeacons Bell, Beresford, Creery, Digby, Mant, Monsell, Oldfield, Power, Stopford, Strean, Stuart, Verschoyle, and St. George. Reverend Dr. Plumtre, Master of University Coll., Oxford, and Vice Chancellor of the University.—Reverend Dr. Phelps, Master of Sidney Sussex Coll. Cambridge.—Reverend Dr. Philpot, Master of Catherine Hall, Cambridge. —Reverend Dr. Archdall, Master of Emmanuel Coll. Cambridge.—Reverend Dr. Tatham, Master of St. John’s Coll. Cambridge.—Reverend Dr. Symons, Warden of Wadham Coll. Oxford.—Reverend Dr. Fox, Provost of Queen’s Coll. Oxford.—Reverend Dr. Cotton, Provost of Worcester Coll. Oxford.—Reverend Dr. Jeune, Master of Pembroke Coll. Oxford.—Reverend Dr. Thackeray, Provost of King’s Coll. Cambridge. —Reverend Dr. Ainslie, Master of Pembroke Hall, Cambridge.—Reverend Dr. French, Master of Jesus Coll. Cambridge.—Dr. King, President of Queens’ Coll. Cambridge.—Reverend Dr. Webb, Master of Clare Hall, Cambridge.—Reverend Dr. Cramer, Principal of New Inn Hall, Oxford.—Reverend E. Cardwell, Principal of St. Alban’s Hall, Oxford. The Reverend Dr. Sadleir, Provost of Trinity Coll. Dublin.—The Venerable Archdeacon Thorp, Warden of the University of Durham.—The Very Reverend Dr. Lee, Principal of the University of Edinburgh.—Reverend J. Wheeler, President of the University of Vermont, U.S.—Reverend Dr. Hawtrey.—Reverend Dr. Williamson, late Head Master of Westminster School.—Reverend Dr. Tait, Head Master of Rugby School, &c., &c. LiBrAriES.—The Royal Library, Berlin.—Balliol Coll. Oxford.—Gonville and (Caius, Pembroke, and Queens’ Coll. Cambridge.—Wadham, and Worcester Coll. Oxford.—Trinity Coll. Dublin.— University of Edinburgh.—King’s Coll. London.—Advocates’ Library, and Library of the Writers to the Signet, Edinburgh.—St. Bees’ Coll.—Cathedrals of Chester and Cashel.—The London Institution.—The London Library.—The Chetham Library, Manchester; and many other Collegiate, Public, and School Libraries, &c.
 
-THE COUNCIL AND OFFICERS FOR 1849-50.
+## The Council and Officers for 1849-50
 
 ## President
 
@@ -810,4 +809,3 @@ re yg.
 
 ---
 [[Bullinger Dec 22 Decade 2, Sermon 10, Part 1|← 22. Decade 2, Sermon 10, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 24 Decade 3, Sermon 1|24. Decade 3, Sermon 1 →]]
-

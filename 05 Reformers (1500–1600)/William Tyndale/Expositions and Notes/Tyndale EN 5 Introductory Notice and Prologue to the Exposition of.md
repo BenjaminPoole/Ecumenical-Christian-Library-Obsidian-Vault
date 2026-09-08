@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 5. Introductory Notice and Prologue to the Exposition of the First Epistle of St John
 
 [1 Old English for pierce.]]
@@ -21,7 +20,7 @@ he consenteth to the flesh, and before he be born again in Christ, is called sou
 
 ## The Exposition First Epistle of Saint John, William Tyndale
 
-[IN THE YEAR OF OUR LORD 1531. SEPTEMB.]
+## [In the Year of Our Lord 1531. Septemb.]
 
 ## oF Epistle of Saint John
 
@@ -219,4 +218,3 @@ And first, understand that all the epistles that the apostles wrote are the gosp
 
 ---
 [[Tyndale EN 4 Exposition of Matthew V, VI, and VII The Seventh Chapter|← 4. Exposition of Matthew V, VI, and VII]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 6 Exposition of the First Epistle of St John Chapter I|6. Exposition of the First Epistle of St →]]
-

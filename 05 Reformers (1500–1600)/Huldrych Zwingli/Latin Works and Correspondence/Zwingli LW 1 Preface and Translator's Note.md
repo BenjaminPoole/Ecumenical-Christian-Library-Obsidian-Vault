@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 1. Preface and Translator's Note
 
 I A m Tah MM ANY AM m sd NAME ECT M WARES) Nn MT ha Ahi ha icy A i a AM aa BF o n τῇ M H ‘ hi md nV. ἐ VPN Hoe TU i ΠΝ ion m" br A Ni J ( E Yn t E νο M, M Ni m h i Hd " NO, on JR e ru TO rbi Jn PRA AN λ) oy fie "n NT AN NR WEN MN D mu i NM, T fun ν on MA IL) ra MON Perd MM AXE na EM Hymen n NY th ks n M ON! UR To DON a na qM Nt T SU n TUN hdi M TEM ARAM EVE d NAM AID [9 PER Iur Riv A IRE NU ᾿ PUN n TR ER DEM A TUM M ANM, i MO Au! LO MOL. LU ig rs A MORS g Su v y^P A M Noni LUE. 2 TI "nd A mo MA Ἰὰ 9 A UA VH) TUR LUV {i an Md INN A t Vag m 0 Al ἐν Mon A AW M? TUAM ARN) UT 3 HOM Nate a ἦν UA; MA AT " AM A I TAY a RA n MM Wa m RYAN rite wh UM T y whl i mw M H! dT NOM DER μιῇ nn n NEM MEM i Y ΛΜ A. RODA Lata SETA POUR Ms STATE hu n j ARTE rh NU SORA RING dd Ast qun JO YAT VENTA ACR j We qu πε "n ΠΝ Ο EN d d Non OR Ev YE J "y MA WI TUN Y jo AN MN LOST M m S! s VU μ' M P in E Wi rr Ὁ ^ 4 fe pn pl ut Ma i LM CADCM M Tela DONA fs! PN Mud d hy MN y! is i T i ἡ DL y des vi RUM PX UT ha ue Ios INE el! j HA MA VM Ἢ PCM VAT RR f^ " Ur GU a A Ay Tr Sd, CUL ES coi RENE il " ARD TA pat RIEN JUAN AUN A MER MD DE VOR ERAS MO LET VPN i ol LO y hu TA TEES Vi oe D NI LOU Am I I AX ANN iw if πη οη vin J » MD du tU WEN A i RAI M AD VU TONY Y ' NUS: Iu 133 T. "Wu ΝΔῚ ΝΗ TOM i Ce Ma i ΠΗ Fgh thy) bul POE ma SE ERAS A VAT uf OL MED Yn và BON Re vH RE Id ἢ DATE Ure LEM eT AMAN ΕΝ M M RU DN n Ug ep m j PO EY 2 Ji n A a M m LA EA M ἢ n MOS ji j Mae jl i oi A M ni o bi ἢ Vn M y? Wm DA COEM fO LN A n NUT js hh Ir ὧν Mt A UTR NAR VU aN UN jh Ἦ RATS n M ἡ ho DAIS OU TURN RN d "n MM ARI: hu ἡ t A a pne Nur n n Ἦ ὴ pred M. oon ἣν ΠΝ {τὴ ATA AN I Na E NA ra V" Pl " UNA i Du Mat MW Ns TAREA. a, SR M " Ν᾿ nC MEE:
@@ -370,7 +369,7 @@ Since work was begun by me on this volume therehas come into my hands the Rev. D
 
 Preface xi the selections are in Latin, but there are also translationsfrom the German, and some of the matter is in its original English. The section devoted to Zurich affairs is to be highly commended. Almost all the Latin matter will be found in this andsubsequent volumes, translated, whilein English Kidd gives the items from Egli's Actensammlung relative to the punishment of those who broke the Lenten fast in 1522, the street fighting which ensued, and the defence of Froschauer before the magistrates, all of which are referred to in this volume's special introduction to the sermon ''On the choice of foods." But much other illustrative material will; be welcomed by the student.
 
-SAMUEL MACAULEY JACKSON.
+## Samuel Macauley Jackson
 
 NEW YORK,
 
@@ -380,7 +379,7 @@ New ati ὁ ERI AE a fad) VOTUM nw REA
 
 ! Ὶ i! n M ἘΝ V P 2 it " Y hi SEMEN) SALUS 3X AT i ^ IU M AY "A nh M ya ] Ni Bs TM aM PS M nd Ἢ Zu RM if nm. TUM p 231 In TALM t; Dil VAT hU UNS da UK ON in AUR ἣν AN n ἡ) ἂν A NIS NON Ig. "ud by ire he " Ms ν p T IL ia 1 PA iS oh N ^ M 3!, n ὶ: PS ANM AN OU us s EA n5. EN MS D CRM NM ZA M ἮΝ ho M A i it " D i "" » An hi M NUN, NA WR aen AN d POM Lh ΜΗ NAT Ἢ i ARM ir Lege aA IL AM MEAN ty "ON T X RTI! SERA n " i ^N n i Ne ANM Ὧν hib ἮΝ T j hi li r; i i i hi mh TR NA P Tu AI NM Ἂ ΟΕ WA Wy REALE Ait. AM a4 UL Men Lom TN UMS zu i P \ ἢ ἐγ i! " TM Ne 1v rd mu iH AN AES iy Dy m ANA] NA QUAM 0A P Mr f. 3 χὰ Ἂν UN PHA MUN TAM Cs C π Ron M TM Ω ΨΥ gh anny d DB VN M {π ΝΑ ‘ OON NA BO HAT PON δΥ he ἄν" MO SUME DAT T D, Jub M "n MM ἀ evan it AE dy f Ή QV IAN UA TA beh n^i PT PR i, NS Hn n ἡ 2 Dia wet 1M E ΜῊ x A patil "moa RIA AR S SA A i ΤᾺ FO LAUS EAS MAPA NUN Te HU. / ν 4 n n ANNIS n (RE ΠΝ TUA A Dy AS b [ A LI er MOL DANA ACA I LAS " HM LS d TON MA "A TA qum ἵν Ἦν ' 1 i "n il ji fol 5 M n os M » "n A d " ἐν [^ Ae
 
-[LANEY]
+## [Laney]
 
 ## Translation
 
@@ -402,7 +401,7 @@ peu » ἜΠΕΑ oy uL tua 5 diee om M rop pp onder puo ee 2, D 72 rs sieerien B
 
 [ὃ ἐμ μόνω]
 
-IET UST NE
+## Iet Ust Ne
 
 ## 
 
@@ -420,7 +419,7 @@ THE MISSING DIALOGUES.:;; s
 
 ## The Labyrinth.::: Uso Transcript of the Pauline Epistles. xiii
 
-PAGE
+## Page
 
 ## A Christian Song Written by Huldreich Zwingli When He Was Attacked by the Pestilence (1519). VII Advice of One Who Desires with his Whole Heart That Due Consideration Be Paid Both to the Dignity of the Pope and to the Peaceful Development of
 
@@ -446,4 +445,3 @@ Both MEARNS A ν CE (ANA BRAUER VER, US Ρ Ὁ ἥν NOS A ALAS ἡ MAN n Ww χ�
 
 ---
 [[Library/protestant reformers/Huldrych Zwingli/Latin Works and Correspondence/latin-works-index|Contents]] · [[Zwingli LW 2 The Original Life of Zwingli, by Oswald Myconius|2. The Original Life of Zwingli, by Oswald →]]
-

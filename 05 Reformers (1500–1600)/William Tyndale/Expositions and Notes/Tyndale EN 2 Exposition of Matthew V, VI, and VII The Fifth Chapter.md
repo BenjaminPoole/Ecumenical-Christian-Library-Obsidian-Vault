@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 2. Exposition of Matthew V, VI, and VII: The Fifth Chapter
 
 Go to then, and desire God to print this profession in thine heart, and to increase it daily more and more; that thou mayest be full shapen like unto the image of Christ, in knowledge and love, and meek thyself, and creep low by the ground, and cleave fast to the rock of this profession, and tie to thy ship this anchor of faith in Christ's blood with the cable of love, to cast it out against all tempests; and so set wp thy sail, and get thee to the main sea of God's word. And read here the words of Christ with this exposition following, and thou shalt see the law, faith, and works, restored each to his right use and true meaning; and thereto, the clear difference between the spiritual regiment and the temporal; and shalt have an entrance and open way into the rest of all the scripture. Wherein, and in all other things, the Spirit of verity guide thee and thine understanding. So be it?.
@@ -217,7 +216,7 @@ Finally, salt, which is the true understanding of the law, of faith, and of the 
 
 And what if the doctrine be not true salt? Verily then is it to be trodden under foot: as must all wearish and unsavoury ceremonies which have lost their significations, and not only teach not, and are become unprofitable and do no more service to man; but also have obtained authority as God in the heart of man, that man serveth them, and putteth in them the trust and confidence that he should put in God his maker through Jesus Christ his redeemer. Are the institutions of man better than God's? Yea, are God's ordimanees better now than in the old time? The prophets trod [4 Used by Ascham for sour. Johnson's Dict. weerish.]
 
-[TYNDALE, 11] 9
+## [Tyndale, 11] 9
 
 under foot, and defied the temple of God, and the sacrifices of God, and all ceremonies that God had ordained, with fastings and prayings, and all that the people perverted and committed idolatry with. We have as strait a commandment, to salt and rebuke all ungodliness, as had the prophets. Will they then have their ceremonies honourably spoken of? Then let them restore them to the right use, and put the salt of the true meaning and significations of them to them again. But as they be now used, none that loveth Christ can speak honourably of them. What true christian man can give honour to that that taketh all honour from Christ? Who can give honour to that that slayeth the soul of his brother, and robbeth his heart of that trust and confidence, which he should give to his Lord that hath bought him with his blood? "Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick, and so giveth it light to all that are in the house. Let your light so shine before men, that they may see your good works, and praise your Father that is in heaven. Christ goeth forth and describeth the office of an apostle and true preacher by another likeness; as he called them before the salt of the earth, even so here the light of the world: signifying thereby that all the doctrine, all the wisdom, and high knowledge of the world,— whether it were philosophy of natural conclusions, of manners and virtue, or of laws of righteousness, —whether it were of the holy seripc ture and of God himself,—was yet but a darkness, until the doctrine of his apostles came; that is to say, until the knowledge of Christ came, how that he is the sacrifice for our sins, our satisfaction, our peace, atonement and redemption, our life thereto, and resurrection. Whatsoever holiness, wisdom, virtue, perfectness, or righteousness, is in the world among men, howsoever perfect and holy they appear; yet is all damnable darkness, except the right knowledge of Christ's blood be there first, to justify the heart, before all other holiness.
 
@@ -487,4 +486,3 @@ v. 43—48.] MATTHEW V, Vl. VII. "1 in thy mind against the children of thy peop
 
 ---
 [[Tyndale EN 1 Prologue to the Exposition of Matthew V, VI, and VII|← 1. Prologue to the Exposition of Matthew]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 3 Exposition of Matthew V, VI, and VII The Sixth Chapter|3. Exposition of Matthew V, VI, and VII →]]
-

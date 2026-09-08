@@ -135,3 +135,4 @@ I would like the doctors to tell me what the Roman Church stands for in the pass
 ---
 [[Hus Letter 28 Letter XXVII. To the Same (April 1413)|← 28. Letter XXVII. To the Same (April 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 30 Letter XXIX. To the Same (1413)|30. Letter XXIX. To the Same (1413) →]]
 
+

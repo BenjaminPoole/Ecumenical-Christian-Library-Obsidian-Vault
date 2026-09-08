@@ -9,7 +9,6 @@ written: "1541"
 tags:
   - calvin-treatises
 ---
-
 # Short Treatise on the Lord's Supper
 
 ## Short Treatise the Supper of Our Lord, its True Institution, Benefit, and Utility
@@ -56,7 +55,7 @@ God cannot come into our remembrance without letting us see that our condemnatio
 
 We are then already in the gulf] if God does not in mercy draw us out of it. Moreover, what hope of resurrection can we have while considering our flesh, which is only rottenness and corruption? Thus in regard to the soul, as well as the body, we are more than miserable if we remain within ourselves, and this misery cannot but produce great sadness and anguish of soul. Now our heavenly Father, to succour us in this, gives us the Supper as a mirror, in which we may contemplate our Lord Jesus Christ, crucified to take away our faults and offences, and raised again to deliver us from corruption and death, restoring us to a celestial immortality.
 
-**9.** THE SUPPER INVITES US TO THE PROMISES OF
+## **9.** the Supper Invites Us to the Promises Of
 
 ## Salvation
 
@@ -68,7 +67,7 @@ We can therefore say, that in it the Lord displays to us all the treasures of hi
 
 us in all the blessings and riches of our Lord Jesus. Let us recollect, then, that the Supper is given us as a mirror in which we may contemplate Jesus Christ crucified in order to deliver us from eondemnation, and raised again in order to procure for us righteousness and eternal life. It is indeed true that this same grace is offered us by the gospel, yet as in the Supper we have more ample certainty, and fuller enjoyment of it, with good cause do we recognise this fruit as coming from it.
 
-**11.** JESUS CHRIST IS THE SUBSTANCE OF THE
+## **11.** Jesus Christ Is the Substance of The
 
 ## Sacraments
 
@@ -90,7 +89,7 @@ of the cup that we are to drink it, and that it is his blood. This is expressly 
 
 Now, if it be asked whether the bread is the body of Christ and the wine his blood, we answer, that the bread and the wine are visible signs, which represent to us the body and blood, but that this name and title of body and blood is given to them because they are as it were instruments by which the Lord distributes them to us. This form and manner of speaking is very appropriate. For as the communion which we have with the body of Christ is a thing incomprehensible, not only to the eye but to our natural sense, it is there visibly demonstrated to us. Of this we have a striking example in an analogous case. Our Lord, wishing to give a visible appearance to his Spirit at the baptism of Christ, presented him under the form of a dove. St. John the Baptist, narrating the fact, says, that he saw the Spirit of God descending. If we look more closely, we shall find that he saw nothing but the dove, in respect that the Holy Spirit is in his essence invisible. Still, knowing that this vision was not an empty phantom, but a sure sign of the presence of the Holy Spirit, he doubts not to say that he saw it, (John i. 32)) because it was represented to him according to his capacity.
 
-**15.** THE SACRAMENT IS REPRESENTED BY VISIBLE
+## **15.** the Sacrament Is Represented by Visible
 
 ## Signs
 
@@ -102,7 +101,7 @@ then that the bread is called the body, since it not only represents but also pr
 
 Hence when we see the visible sign we must consider what it represents, and by whom it has been given us. The bread is given us to figure the body of Jesus Christ, with command to eat it, and it is given us of God, who is certain and immutable truth. If God cannot deceive or lie, it follows that it accomplishes all which it signifies. We must then truly receive in the Supper the body and blood of Jesus Christ, since the Lord there represents to us the communion of both. Were it otherwise, what could be meant by saying, that we eat the bread and drink the wine as a sign that his body is our meat and his blood our drink? If he gave us only bread and wine, leaving the spiritual reality behind, would it not be under false colours that this ordinance had been instituted?
 
-**17.** THE INTERNAL SUBSTANCE IS CONJOINED WITH
+## **17.** the Internal Substance Is Conjoined With
 
 ## The Visible Signs
 
@@ -124,7 +123,7 @@ observe charity and brotherly love toward all. For seeing we have been made memb
 
 Let us come to the third point which we proposed at the commencement of this treatise, viz, the legitimate use, which consists 1n reverently observing our Lord's institution. Whoever approaches the sacrament with contempt or indifference, not caring much about following when the Lord calls him, perversely abuses, and in abusing pollutes it. Now to pollute and contaminate what God has so highly sanctified, is intolerable blasphemy. Not without cause then does St. Paul denounce such heavy condemnation on all who take it unworthily. (1 Cor. xi. 29.) For if there is nothing in heaven nor on earth of greater price and dignity than the body and blood of the Lord, it is no slight fault to take it inconsiderately and without being well prepared. Hence he exhorts us to examine ourselves carefully, in order to make the proper use of it. When we understand what this examination should be, we shall know the use after which we are inquiring.
 
-**21.** THE MANNER OF EXAMINING OURSELVES.
+## **21.** the Manner of Examining Ourselves
 
 Here it is necessary to be well on our guard. For as we cannot be too diligent in examining ourselves as the Lord enJoins, so, on the other hand, sophistical doctors have brought poor consciences into perilous perplexity, or rather into a horrible Gehenna, requiring I know not what examination, which it 1s not possible for any man to make. To rid ourselves of all these perplexities, we must reduce the whole, as I have already said, to the ordinance of the Lord, as the rule which, if we follow it, will not allow us to err. In following it, we have to examine whether we have true repentance in ourselves, and true faith in our Lord Jesus Christ. These two things are so conjoined, that the one cannot subsist without the other. 22. TO PARTICIPATE IN THE BLESSINGS OF CHRIST, WE
 
@@ -132,7 +131,7 @@ Here it is necessary to be well on our guard. For as we cannot be too diligent i
 
 If we consider our life to be placed in Christ, we must acknowledge that we are dead in ourselves. If we seek our strength in him, we must understand that in ourselves we are weak. If we think that all our felicity is in his grace, we must understand how miserable we are without it. If we have our rest in him, we must feel within ourselves only disquietude and torment. Now such feelings cannot exist without producing, first, dissatisfaction with our whole life; secondly, anxiety and fear; lastly, a desire and love of righteousness. For he who knows the turpitude of his sin and the wretchedness of his state and condition while alienated from God, is so ashamed that he is constrained to be dissatisfied with himself, to condemn himself, to sigh and groan in great sadness. Moreover, the justice of God immediately presents itself and oppresses the wretched conscience with keen anguish, from not seeing any means of escape, or having any thing to answer in defence. When under such a conviction of our misery we get a taste of the goodness of God, it is then we would wish to regulate our conduct by his will, and renounce all our bygone life, in order to be made new creatures in him.
 
-**23.** THE REQUISITES OF WORTHY COMMUNION.
+## **23.** the Requisites of Worthy Communion
 
 Hence if we would worthily communicate in the Lord’s Supper, we must with firm heart-felt reliance regard the Lord Jesus as our only righteousness, life, and salvation, receiving and accepting the promises which are given us by him as sure and certain, and renouncing all other confidence, so that distrusting ourselves and all creatures, we may rest fully in him, and be contented with his grace alone. Now as that cannot be until we know how necessary it is that he come to our aid, it is of importance to have a deep-seated conviction of our own misery, which will make us hunger and thirst after him. And, in fact, what mockery would it be to go in search of food when we have no appetite? Now to have a good appetite it is not enough that the stomach be empty, it must also be in good order and capable of receiving its food. Hence it follows that our souls must be pressed with famine and have a desire and ardent longing to be fed, in order to find their proper nourishment in the Lord’s Supper.
 
@@ -144,7 +143,7 @@ Moreover, it is to be observed that we cannot desire Jesus Christ without aspiri
 
 And while this must be general in every part of our life, it must be specially so in respect of charity, which is, above all other virtues, recommended to us in this sacrament: for which reason it is called the bond of charity. For as the bread which is there sanctified for the common use of all 1s composed of several grains so mixed together that they cannot be distinguished from each other, so ought we to be united together in indissoluble friendship. Moreover, we all receive there one body of Christ. If then we have strife and discord among ourselves, it is not owing to us that Christ Jesus is not rent in pieces, and we are therefore guilty of sacrilege, as if we had done it. We must not, then, on any account, presume to approach if we bear hatred or rancour against any man living, and especially any Christian who is in the unity of the Church. In order fully to comply with our Lord's injunction, there 1s another disposition which we must bring. lt is to confess with the mouth and testify how much we are indebted to our Saviour, and return him thanks, not only that his name may be glorified in us, but also to edify others, and instruct them, by our example, what they ought to do.
 
-**26.** ALL MEN IMPERFECT AND BLAMEWORTHY.
+## **26.** All Men Imperfect and Blameworthy
 
 But as not à man will be found upon the earth who has made such progress in faith and holiness, as not to be still very defective in both, there might be a danger that.several good consciences might be troubled by what has been said, did we not obviate it by tempering the injunctions which we have given in regard both to faith and repentance. It is a perilous mode of teaching which some adopt, when they require perfect reliance of heart and perfect penitence, and exclude all who have them not. For in so doing they exclude all without excepting one. Where is the man who can boast that he is not stained by some spot of distrust? that he is not subject to some vice or infirmity? Assuredly the faith which the children of God have is such that they have VOL. IT. M
 
@@ -160,7 +159,7 @@ When we feel within ourselves a strong dislike and hatred of all sin, proceeding
 
 of the Supper, notwithstanding of the remains of infirmity which we carry in our flesh. Nay, if we were not weak, subject to distrust and an imperfect life, the sacrament would be of no use to us, and it would have been superfluous to institute it. Seeing, then, it is a remedy which God has given us to help our weakness, to strengthen our faith, increase our charity, and advance us in all holiness of life, the use becomes the more necessary the more we feel pressed by the disease; so far ought that to be from making us abstain. For if we allege as an excuse for not coming to the Supper, that we are still weak in faith or integrity of life, it is as if a man were to excuse himself from taking medicine because he was sick. See then how the weakness of faith which we feel in our heart, and the imperfections which are in our life, should admonish us to come to the Supper, as a special remedy to correct them. Only let us not come devoid of faith and repentance. The former is hidden in the heart, and therefore conscience must be its witness before God. The latter is manifested by works, and must therefore be apparent in our life.
 
-**29.** TIMES OF USING THE SUPPER.—PROPRIETY OF
+## **29.** Times of Using the Supper.—propriety Of
 
 ## Frequent Communion
 
@@ -168,7 +167,7 @@ As to the time of using it, no certain rule can be prescribed for all. For there
 
 which constrains him to abstain. Although we have no express commandment specifying the time and the day, it should suffice us to know the intention of our Lord to be, that we should use it often, if we would fully experience the benefit which accrues from it.
 
-**30.** IMPROPRIETY OF ABSTAINING ON FRIVOLOUS
+## **30.** Impropriety of Abstaining on Frivolous
 
 ## Grounds.—pretended Unworthiness in Ourselves
 
@@ -186,7 +185,7 @@ The third class have no semblance of plausibility. The spiritual bread is not gi
 
 but rather, that having had some taste of its sweetness, we may long for it the more, and use it when it is offered to us. This we explained above. So long as we remain in this mortal life, Jesus Christ is never communicated in such a way as to satiate our souls, but wills to be our constant nourishment.
 
-**33.** FOURTH GENERAL DIVISION.—ERRORS ON THE
+## **33.** Fourth General Division.—errors on The
 
 ## Supper
 
@@ -220,13 +219,13 @@ The second error which the devil has sown to corrupt this holy ordinance, is in 
 
 that the nature of the sacrament requires, that the material bread remain as a visible sign of the body.
 
-**40.** FROM THE NATURE OF A SACRAMENT THE SUBSTANCE
+## **40.** from the Nature of a Sacrament the Substance
 
 ## Of the Visible Sign Must Remain
 
 It is a general rule in all sacraments that the signs which we see must have some correspondence with the spiritual thing which is figured. Thus, as in baptism, we are assured of the internal washing of our souls when water is given us as an attestation, its property being to cleanse corporal pollution; so in the Supper, there must be material bread to testify to us that the body of Christ is our food. For otherwise how could the mere colour of white give us such a figure? We thus clearly see how the whole representation, which the Lord was pleased to give us in condescension to our weakness, would be lost if the bread did not truly remain. The words which our Lord uses imply as much as if he had said: Just as man is supported and maintained in his body by eating bread, so my flesh is the spiritual nourishment by which souls are vivified. Moreover, what would become of the other similitude which St. Paul employs? As several grains of corn are mixed together to form one bread, so must we together be one, because we partake of one bread. If there were whiteness only without the substance, would it not be mockery to speak thus? Therefore we conclude, without doubt, that this transubstantiation is an invention forged by the devil to corrupt the true nature of the Supper.
 
-**^41.** FALSE OPINION OF THE BODILY PRESENCE OF CHRIST
+## **^41.** False Opinion of the Bodily Presence of Christ
 
 ## In the Supper
 
@@ -234,7 +233,7 @@ Out of this fantasy several other follies have sprung. Would to God they were on
 
 blood are conjoined with the signs, still it cannot be denied that this opinion has been received by great and small in the Popish Church, and that it is cruelly maintained in the present day by fire and sword, that Jesus Christ is contained under these signs, and that there we must seek him. Now to maintain that, it must be confessed either that the body of Christ is without limit, or that it may be in different places. In saying this we are brought at last to the point, that it is a mere phantom. To wish then to establish such a presence as 1s to enclose the body within the sign, or to be joined to it locally, is not only a reverie, but a damnable error, derogatory to the glory of Christ, and destructive of what we ought to hold in regard to his human nature. For Seripture everywhere teaches us, that as the Lord on earth took our humanity, so he has exalted it to heaven, withdrawing it from mortal condition, but not changing its nature.
 
--.42. THE BODY OF OUR SAVIOUR IN HEAVEN THE SAME
+## -.42. The Body of Our Saviour in Heaven the Same
 
 ## As That Which He Had on Earth
 
@@ -258,13 +257,13 @@ Our Lord having commanded his disciples to eat the bread sanctified in his body,
 
 said, when he delivered to all the people what he had received of the Lord—that each should eat of this bread and drink of this cup? Besides, who told them that our Lord gave the Supper to his apostles as priests? The words import the opposite, when he commands them to do after his example. (Luke xxii. 19.) Therefore he delivers the rule which he wishes to be always observed in his Church; and so it was anciently observed until Antichrist, having gained the upper hand, openly raised his horns against God and his truth to destroy it totally. We see then that it is an intolerable perversion thus to divide and rend the sacrament, separating the parts which God has joined.
 
-**47.** THE BUFFOONERY OF THE POPE IN REGARD TO
+## **47.** the Buffoonery of the Pope in Regard To
 
 ## The Supper
 
 To get to an end, we shall embrace under one head what might otherwise have been considered separately. This head 1s, that the devil has introduced the fashion of celebrating the Supper without any doctrine, and for doctrine has substituted ceremonies partly inept and of no utility, and partly dangerous, having proved the cause of much mischief. To such an extent has this been done, that the Mass, which in the Popish Church is held to be the Supper, is, when well explained, nothing but pure apishness and buffoonery. I call it apishness, because they there counterfeit the Lord's Supper without reason, just as an ape at random and without discernment imitates what he sees done.
 
-**48.** THE WORD OUGHT ALWAYS TO ACCOMPANY THE
+## **48.** the Word Ought Always to Accompany The
 
 ## Sacraments
 
@@ -278,7 +277,7 @@ It is true, indeed, that the sacrifices under the Old Testament were performed w
 
 With good cause our Lord ordained the Jewish form for a time, intending that it should one day come to an end and be abrogated. Not having then given such clearness of doctrine, he was pleased that the people should be more exercised in figures to compensate for the defect. But since Jesus Christ has been manifested in the flesh, doctrine having been much more clearly delivered, ceremonies have diminished. As we have now the body, we should leave off shadows. To return to the ceremonies which are abolished, is to repair the vail of the temple which Jesus Christ rent by his death, and so far obscure the brightness of his gospel.. Hence we see, that such a multitude of ceremonies in the Mass is a form of Judaism quite contrary to Christianity. I mean not to condemn the ceremonies which are subservient to decency and publie order, and increase the reverence for the sacrament, provided they are sober and suitable. But such an abyss without end or limit is not at all tolerable, seeing that it has engendered a thousand superstitions, and has in a manner stupified the people without yielding any edification.
 
-**51.** THE DEATH AND PASSION OF OUR LORD THE
+## **51.** the Death and Passion of Our Lord The
 
 ## Perfect and Only Sacrifice
 
@@ -286,13 +285,13 @@ Hence also we see how those to whom God has given the knowledge of his truth sho
 
 appear there for us, and intercede in virtue of his sacrifice. Moreover, they will readily grant, that the benefit of his death is communicated to us in the Supper, not by the merit of the act, but because of the promises which are given us, provided we receive them in faith. Secondly, they should on no account grant that the bread is transubstantiated into the body of Jesus Christ, nor the wine into his blood, but should persist in holding that the visible signs retain their true substance, in order to represent the spiritual reality of which we have spoken. Thirdly, they ought also to hold for certain, that the Lord gives us in the Supper that which he signifies by it, and, consequently, that we truly receive the body and blood of Jesus Christ. Nevertheless they will not seek him as if he were enclosed under the bread, or attached locally to the visible sign. So far from adoring the sacrament, they will rather raise their understandings and their hearts on high, as well to receive Jesus Christ, as to adore him.
 
-**52.** VIEW OF ENLIGHTENED CHRISTIANS IN REGARD
+## **52.** View of Enlightened Christians in Regard
 
 ## To the Supper
 
 Hence they will despise and condemn as idolatrous all those superstitious practices of carrying about the sacrament in pomp and procession, and building tabernacles in which to adore it. For the promises of our Lord extend only to the uses which he has authorized. Next, they will hold that to deprive the people of one of the parts of the sacrament, viz., the cup, is to violate and corrupt the ordinance of the Lord, and that to observe it properly it must be administered in all its integrity. Lastly, they will regard it as a superfluity, not only useless but dangerous, and not at all suitable to Christianity, to use so many ceremonies taken from the Jews contrary to the simplicity which the Apostles left us, and that it is still more perverse to celebrate the Supper with mimicry and buffoonery, while no doctrine is stated, or rather all doctrine is buried, as if the Supper were a kind of magical trick.
 
-[VOL. II. N]
+## [Vol. II. N]
 
 53. LAST DIVISION.—RECENT DISPUTES ON THE SUPPER. To have done, it 1s necessary to come to the last principal point, viz, the contention which has arisen in our time in regard to this matter. Now, as it 1s an unhappy businessthe devil no doubt, having stirred it up to impede, nay altogether to interrupt the course of the gospel—so far am I from taking pleasure in referring to it, that I could wish the remembrance of it were altogether abolished. Nevertheless, as I see many good consciences troubled, because they do not know to what side to turn, I shall only say as much as may seem necessary to show them how they ought to decide. ^ 54. GOD SOMETIMES ALLOWS HIS OWN PEOPLE
 
@@ -300,13 +299,13 @@ Hence they will despise and condemn as idolatrous all those superstitious practi
 
 First, I beseech all believers, in the name of God, not to be too much scandalized at the great difference which has arisen among those who ought to be a kind of leaders in bringing back the light of truth. For it is no new thing for the Lord to leave his servants in some degree of ignorance, and suffer them to have debate among themselves—not to leave them for ever, but only for a time to humble them. And indeed had every thing till now turned out to a wish without any disturbance, men might possibly have forgotten themselves, or the grace of God might have been less known than it ought. Thus the Lord has been pleased to take away all ground of glorying from men, in order that he might alone be glorified. Moreover, if we consider in what an abyss of darkness the world was when those who have shared this controversy began to bring back the truth, we shall not wonder that they did not know every thing at the beginning. The wonder rather is, that our Lord in so short a time enlightened them that they were themselves able to escape and draw others out of that sink of error in which they had been so long immersed. But no better course can be taken than to show how matters have proceeded, because this will make it appear that people have not so much cause to be scandalized at it as is commonly supposed.
 
-\ 55. HISTORY OF THE CONTROVERSY ON THIS SUBJECT
+## \ 55. History of the Controversy on This Subject
 
 ## Among the Reformers.—luther
 
 When Luther began to teach, he took a view of the subJect which seemed to imply, that in regard to the corporal presence in the Supper he was willing to leave the generally received opinion untouched; for while condemning transubstantiation, he said that the bread was the body of Christ, inasmuch as it was united with him. Besides, he added similitudes which were somewhat harsh and rude; but he was in a manner compelled to do so, as he could not otherwise explain his meaning. For it is difficult to give an explanation of so high à matter without using some impropriety of speech.
 
-**'56.** VIEWS OF ZUINGLIUS AND (ECOLOMPADIUS.
+## **'56.** Views of Zuinglius and (Ecolompadius
 
 On the other hand arose Zuinglius and (Ecolompadius, who, considering the abuse and deceit which the devil had employed in establishing such a carnal presence of Christ as had been taught and held for more than six hundred years, thought it unlawful to disguise their sentiments, since that view implied an execrable idolatry, in that Jesus Christ was worshipped as enclosed in the bread. Now, as it was very difficult to remove this opinion, which had been so long rooted in the hearts of men, they applied all their talents to bring it into discredit, showing how gross an error it was not to recognise what is so clearly declared in Scripture touching the ascension of Jesus Christ, that he has been received in his humanity into heaven, and will remain there until he descend to judge the world. Meantime, while engrossed with this point, they forgot to show what presence of. Jesus Christ ought to be believed in the Supper, and what communion of his body and blood 1s there received.
 
@@ -332,4 +331,3 @@ debased as to be enclosed under some corruptible elements; and, on the other han
 
 ---
 [[Library/protestant reformers/John Calvin/Treatises/treatises-index|Contents]]
-

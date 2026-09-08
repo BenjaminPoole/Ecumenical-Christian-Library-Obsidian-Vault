@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 40. Letters CCXCVIII–CCCXIII
 
 ## CCXCVIII. To Melancthon
@@ -637,7 +636,7 @@ If you be loth to depart for slandering of God's word’, remember, that Christ,
 
 Wherefore I exhort you, as well by Christ's commandment as by the example of him and his apostles, to withdraw yourself from the malice of your and God's enemies, into some place where God is most truly served?: which is no slandering of the truth, but a preserving of yourself to God and the truth, and to the society and comfort of Christ's little flock. And that you will do, do it with speed, lest by your own folly you fall into the persecutors hands. And the Lord send his Holy Spirit to lead and guide you, wheresoever you go! And all that be godly will say, Amen.
 
-**T.** CRANMER.
+## **T.** Cranmer
 
 ## CCCXII. To the Lords of the Council
 
@@ -865,4 +864,3 @@ Theprotes. yet, whole Christ remaineth, and feedeth the receiver unto eternal li
 
 ---
 [[Cranmer MW 39 Letters CCLXXX–CCXCVII|← 39. Letters CCLXXX–CCXCVII]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 41 Letters CCCXV–CCCXVII|41. Letters CCCXV–CCCXVII →]]
-

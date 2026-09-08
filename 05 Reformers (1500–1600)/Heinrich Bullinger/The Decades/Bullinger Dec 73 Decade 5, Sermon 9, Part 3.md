@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 73. Decade 5, Sermon 9, Part 3
 
 But here the faithful do tremble, who are as it were privy to their own imperfection and infirmity; for they do not find these things to be so perfect in their minds, as otherwise they know a just perfection requireth. Satan cometh, and he casteth in many and great stays, to the intent he may draw us back from the celebration of the supper. Therefore we say, if any man suppose that none is to be admitted to the supper but he that is purged from all sin and infirmity, surely he shall drive away and exclude all men, how many soever live in this world; nay, he shall altogether deprive them of the Lords supper, as not to be any longer for sinful men but for angels. We must remember, that this examination resteth within his own bounds, and that God here also, as everywhere else, doth use this clemency and mercy {owards us. He knoweth our weakness and corruption, and with us can bear our infirmities. The Israelites under king Ezechias, being not fully cleansed, took part of the paschal lamb; but the king prayed, and said: “The Lord, who is good, will have mercy upon all men that with all their heart seek after the God of the fathers, and will not impute it unto them that they are not sanctified.” And hereunto is added in the holy history, in 2 Chron. xxx. chap.: “And the Lord heard Ezechias, and he was pleased with the people.” The worthiness, which is inquired for by exact examination, is no absolute perfection, but a will and mind instructed by God, which humbly acknowledgeth its own unworthiness, and therefore humbly prayeth for increase of faith and charity, and? all perfection in Christ only. At that first supper the apostles were Christ's guests,
@@ -78,10 +77,9 @@ Thus much have I said hitherto of the most holy supper of our Lord Jesus Christ,
 
 never to be broken!. Whereupon the thing itself and our salvation requireth, that we be circumspect, and give no place to the tempter; but agreeing altogether in Christ, and being joined into one body by faithful celebrating of the supper, we may love one another, and give everlasting thanks to our Redeemer and Lord Christ; to whom be praise and glory now and for ever. Amen. Amen. 41 OF CERTAIN INSTITUTIONS OF THE CHURCH OF GOD. OF SCHOOLS. OF ECCLESIASTICAL GOODS, AND THE USE AND ABUSE OF THE SAME. OF CHURCHES AND HOLY INSTRUMENTS OF CHRISTIANS. OF THE ADMONITION AND CORRECTION OF THE MINISTERS OF THE CHURCH, AND OF THE WHOLE CHURCH. OF MATRIMONY. OF
 
-**WIDOWS.** OF VIRGINS. OF MONKS. WHAT
+## **Widows.** of Virgins. Of Monks. What
 
 ## The Church of Christ Determineth Concerning the Sick; and of Funerals and Burials. The Tenth Sermon
 
 ---
 [[Bullinger Dec 72 Decade 5, Sermon 9, Part 2|← 72. Decade 5, Sermon 9, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 74 Decade 5, Sermon 10, Part 1|74. Decade 5, Sermon 10, Part 1 →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 71. Decade 5, Sermon 9, Part 1
 
 must constantly and valiantly ficht against Satan. Α5 often therefore as we remember we are baptized with Christ's baptism, so often are these things put into our minds, and we admonished of our duty. But the apostle handleth this matter more at large in the sixth chapter of his epistle to the Romans; where he expressly maketh mention, that we by baptism are made the grafts of Christ, that is to say, that we might grow out of him as branches out of the vine, and feel in our minds and bodies both the death and resurrection of Christ. For since we are endued with the Spirit of Christ
@@ -22,7 +21,7 @@ must constantly and valiantly ficht against Satan. Α5 often therefore as we rem
 
 20
 
-[BULLINGER, 1V.]
+## [Bullinger, 1v.]
 
 This hath many names, even as hath the feast of passover, ig and is instituted in the place thereof. In old time it was called!, The passing over, or, the Lord's passover; which was indeed a memorial of the passover, also a remembrance, sign, solemnity, a festival or holy day, a meeting together, or an holy assembly, an observation or worshipping? a ceremony and sacrifice of passover, a sacrifice or offering, of which we have spoken in place convenient. This is called by St Paul the apostle “the Lord’s supper,” because this ceremony was instituted by the Lord in his last supper, and because therein is offered UNtO us the spiritual banquet. The same Paul termeth it “the Lord's table,” and that doubtless for none other causes. BY the same Paul it is also called the communion; not so much for that we have communion or fellowship with Christ, and he with us, as that we being many are one bread and of ONE body, which do partake of the same bread. Luke calleth it “breaking of bread,” naming the whole by a part. And it is evident, that our forefathers of old gave not unto the receivers of the Lord's supper a morsel, but that they brake the bread amongst themselves. In time past firm leagues were performed by breaking of bread. It is called also a memorial and remembrance of the Lord's passion; for the Lord said: Do this in the remembrance of me.” It is named a thanksgiving, because when we celebrate the Lord’s supper, we thank him for all his benefits, and especially for his death, by the which we are redeemed. It is called also a token and a mystery, and a sacrament of the body and blood of the Lord. Our forefathers did term it by this word, synaxis. ~~ Synaais is a joining together, a knitting, a closing, or an agreement. For the church is joined and united unto Christ in the holy supper by a most strait league: and to conclude, the members themselves are therewith joined very fast together. Furthermore, it is called an assembly of saints, an holy company, and a gathering together; for in the old
 
@@ -366,7 +365,7 @@ Now forasmuch as we have hitherto discussed certain circumstances or questions, 
 
 But [by] this word communion I mean, the society, conjunction, or partaking of the Lord Christ, by the which through his Spirit he doth wholly knit and join himself to us, and we are made partakers of him by faith, and are coupled unto him: so that, being by him delivered from sin and death, we may live in him, being made heirs of everlasting life; and that he may live in us and be wholly ours, as we be wholly his. Neither do we say that the communion of the Lord’s body 28
 
-[BULLINGER, 1V.]
+## [Bullinger, 1v.]
 
 and blood is anything else. For by his body which was delivered over to death for us, and by his blood which was shed for the remission of our sins, it is come to pass, that we, being purged from our sins, are made his members; and he now quickeneth us and sustaineth us, as food which giveth life: whereupon we are also said to eat and drink him as the meat and drink of life. The promise therefore, whereof we made mention even now, is none other than the word of God, which declareth unto us that life is in Christ only: for Christ delivered his body to the death, and shed his blood, for the remission of sins, that we, believing in him, may have life everlasting. But this promise and communion of Christ is not now first of all given in the supper, or by the supper. For the Lord our God, immediately after the creation of the world, promised life and remission of sins unto Adam and his seed through Christ; and afterward reneweth the same promise with Noe, Abraham, Moses, and David, and the other fathers. And that the fathers did communicate with Christ and were partakers of his goodness, Paul the apostle, with the whole scripture, is a witness. But this so great goodness happened not to the fathers only. For the promise was made unto us also, and the communion of Christ was conveyed unto us, and is conveyed particularly unto every one of us in holy baptism, and also in the manifest preaching of the gospel. Moreover, we receive the same by faith, by which we are joined to Christ, and are made his members. Thereforeas we are not void and without Christ before the supper, but are quickened by him and made his members or partners; so in the very action or celebration of the supper the promise is renewed unto us, and we renew and continue that fellowship which we have in Christ by the body and blood of Christ spiritually, truly participating his life and all his good gifts through faith. And by this means we eat the Lord’s body, and drink his blood. Moreover, the Lord doth visibly declare and seal unto us that spiritual communion and promise of life, made through Christ, by visible signs, to wit, the banquet of bread and wine, joined to his word or promise; namely, that it is a quickening bread and drink; and that we (having [} So also ed. 1584: but ed. 1577, renewed: renovavit, Lat.]
 
@@ -406,4 +405,3 @@ should contend that the Lord’s words are simply to be understood, without inte
 
 ---
 [[Bullinger Dec 70 Decade 5, Sermon 8, Part 2|← 70. Decade 5, Sermon 8, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 72 Decade 5, Sermon 9, Part 2|72. Decade 5, Sermon 9, Part 2 →]]
-

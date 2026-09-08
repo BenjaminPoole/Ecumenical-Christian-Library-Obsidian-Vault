@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 52. Decade 4, Sermon 8
 
 ## To Be Worshipped, and of his Divine Power. The Eighth Sermon
@@ -168,7 +167,7 @@ Furthermore, touching the proceeding of the Holy Ghost from the Father and the S
 
 20
 
-[BULLINGER, IIL]
+## [Bullinger, IIL]
 
 also? In which question the Latinists seem to disagree very much from the Grecians. The question is also asked, What manner of proceeding this is? We, omitting many curious questions, will briefly declare those things unto you which are wholesome and agreeable with the holy scriptures. For who shall be able to canvass out all the questions of curious men, and all the bold and unclean thoughts of idle heads, without offence to good men, and especially of the simple hearers?
 
@@ -552,10 +551,9 @@ Thus far, not without trembling, we have entreated of sum the most holy mystery 
 
 ping this Unity in trinity and Trinity in unity. And let us keep in mind and acknowledge this distinction or division most manifestly declared in the scriptures, and the unity also commended unto us with exceeding great diligence. For in the scripture the beginning of doing and the flowing fountain and well-spring of all things is attributed to the Father; wisdom, counsel, and the very dispensation in doing things is ascribed to the Son; and the force and effectual power of working is assigned to the Holy Ghost. Howbeit, let us take heed lest through the distinction we separate the unity of the substance of God; for there is but one God in whom those properties are. It is but one fire, though there be three things seen in it, light, brightness, and heat. For these rise together, and cease all at once. The light goeth not before the brightness, neither the brightness before the heat. And though one thing be attributed to the light, another thing to the brightness, and a third thing to the heat; yet they work unseparably. Therefore when we read that God created the world, we understand that the Father from whom are all things, by the Son by whom are all things, in the Holy Ghost in whom are all things, created the world. And when we read that the Son became flesh, suffered, died, and rose again for our salvation, we believe that the Father and the Holy Ghost, though they were not partakers of his incarnation and passion, yet notwithstanding that they wrought that our salvation by the Son, whom we believe never to have been separated from them. And when sins are said to be forgiven in the Holy Ghost, we believe tha this benefit and all other benefits of our blessedness are unseparably given and bestowed upon us from one, only, true, living, and everlasting God, who is the Father, the Son, and the Holy Ghost. To whom be praise and thanksgiving for ever and ever. Amen.
 
-OF GOOD AND EVIL SPIRITS; THAT IS, OF THE HOLY ANGELS OF GOD, AND OF DEVILS OR EVIL
+## Of Good and Evil Spirits; That Is, of the Holy Angels of God, and of Devils or Evil
 
 ## Spirits; and of Their Operations. The Ninth Sermon
 
 ---
 [[Bullinger Dec 51 Decade 4, Sermon 7|← 51. Decade 4, Sermon 7]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 53 Decade 4, Sermon 9, Part 1|53. Decade 4, Sermon 9, Part 1 →]]
-

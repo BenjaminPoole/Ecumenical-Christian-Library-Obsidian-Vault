@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 60. Decade 5, Sermon 2, Part 2
 
 faithful, who both can and will always be present to the whole congregation of saints, of all ages, and dispersed throughout the whole world; hear her prayers and requests, and moreover send her succour in all things: and briefly, who is able perfectly to govern the whole church, and both provide for! and bring to pass all her matters, and that in all things. But this privilege, as I think, thou canst give to no creature without blasphemy and sacrilege: only therefore Christ, perfect God and man, is and remaineth the only head of the church. Those that acknowledge the pope of Rome to be the head of the church militant either know not what they do and say, or willingly and wittingly do blaspheme the Son of God, whom they will not have to reign over his church alone.
@@ -82,12 +81,11 @@ Since these things are thus, brethren, there is no cause holy why any man should
 
 ## [1 hodie, Lat. omitted: at this day.]
 
-OF THE MINISTRY, AND THE MINISTERS OF GOD'S WORD; WHEREFORE AND FOR WHAT END THEY ARE INSTITUTED OF GOD. THAT THE ORDERS GIVEN BY CHRIST
+## Of the Ministry, and the Ministers of God's Word; Wherefore and for What End They Are Instituted of God. That the Orders Given by Christ
 
-UNTO THE CHURCH IN TIMES PAST WERE
+## Unto the Church in Times Past Were
 
 ## Equal. Whence and How the Pre-rogative of Ministers Sprang, and of the Supremacy of the Bishop of Rome, the Third Sermon
 
 ---
 [[Bullinger Dec 59 Decade 5, Sermon 2, Part 1|← 59. Decade 5, Sermon 2, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 61 Decade 5, Sermon 3|61. Decade 5, Sermon 3 →]]
-

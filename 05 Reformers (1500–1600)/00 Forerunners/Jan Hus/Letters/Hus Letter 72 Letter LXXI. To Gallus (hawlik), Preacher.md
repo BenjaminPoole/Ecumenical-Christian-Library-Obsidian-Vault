@@ -31,3 +31,4 @@ In these last days the thoughts of Hus turned once more to his old friend and co
 ---
 [[Hus Letter 71 Letter LXX. To the Same ( June 21, 1415)|← 71. Letter LXX. To the Same ( June 21, 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 73 Letter LXXII. To Master Christian (June 22, 1415)|73. Letter LXXII. To Master Christian (June →]]
 
+

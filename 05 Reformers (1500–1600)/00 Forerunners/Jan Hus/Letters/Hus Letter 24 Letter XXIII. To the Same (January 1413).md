@@ -35,3 +35,4 @@ by the excommunication they themselves pronounce. And seeing that there is a mul
 ---
 [[Hus Letter 23 Letter XXII. To the Same (December 25, 1412)|← 23. Letter XXII. To the Same (December 25]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 25 Letter XXIV. To the Same (January 1413)|25. Letter XXIV. To the Same (January 1413) →]]
 
+

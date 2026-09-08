@@ -33,3 +33,4 @@ in hope a servant of Jesus Christ, from the hope of Whom the devil could never, 
 ---
 [[Hus Letter 70 Letter LXIX. To his Friends in Constance (After June|← 70. Letter LXIX. To his Friends in]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 72 Letter LXXI. To Gallus (hawlik), Preacher|72. Letter LXXI. To Gallus (hawlik) →]]
 
+

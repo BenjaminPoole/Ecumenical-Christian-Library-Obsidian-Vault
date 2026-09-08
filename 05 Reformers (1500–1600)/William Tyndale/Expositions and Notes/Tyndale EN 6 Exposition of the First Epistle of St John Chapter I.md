@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 6. Exposition of the First Epistle of St John: Chapter I
 
 **[1 P.** C. L. has is.] [2 So P. C. L. Day has at their.]
@@ -27,7 +26,7 @@ Which article whosoever not only believeth, but also believeth in it, the same i
 
 [4 So Tyndale's translation of John i. 12.] 10
 
-[TYNDALE, 11.]
+## [Tyndale, 11.]
 
 of which is spoken, John vi. “The words which I speak are T spirit and life, and the flesh profiteth not at all;" meaning of the fleshly eating of his body, and fleshly drinking of his = blood. There is therefore great difference between believing = that there is a God, and that Christ is God and man; and to believe in God and Christ, God and man, and in the promises of mercy that are in him. The first is common to good and bad, and unto the devils also, and is called an historical faith and belief. The second is proper unto the sons of Godand is their life, as it is written, “The righteous liveth by — faith;" that is, in putting his trust, confidence, and whole hope in the goodness, mercy and help of God, in all adversities, LI bodily and ghostly, and all temptations, and even in sin and — hell?, how deep soever he be fallen therein. But as he which feeleth not his disease can long for no health, even so it is impossible for any man to believe in Christ's blood, except Moses have had him first in cure, and with his law have robbed him of his righteousness, and con- ——— demned him unto everlasting death, and have shewed him under what damnation they are in by birth in Adam, and how all their deeds (appear they never so holy) are yet but damnable sin, because they can refer nothing unto the glory of God, but seek themselves, their own profit, honour and glory: so that repentance toward the law must go before this belief; and he which repenteth not, but consenteth unto the life of sin, hath no part in this faith. i our And when John calleth Christ the everlasting life that was Ἷ with the Father, he signifieth that Christ is our life; as after 2 in the epistle, and in the first also of his gospel, saying, “In ——— him was life.” For until we receive life of Christ by faith, We are dead, and can be but dead, as saith John iii, “He that believeth not in the Son, can see no life, but the wrath of God abideth upon him." Of which wrath we are heirs by birth, gait Paul, (Eph. ii.) Of which wrath we are ignorant, until the law be published; and walk quietly after our lusts, and love God wickedly, that he should be content therewith, and maintain us therein, contrary unto his godly and righteous nature. But as soon as the law (whose nature is to utter sin, Rom. iih, —
 
@@ -97,4 +96,3 @@ wondereth at his glorious works, a cunning workman, that hath a clear judgment, 
 
 ---
 [[Tyndale EN 5 Introductory Notice and Prologue to the Exposition of|← 5. Introductory Notice and Prologue to the]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 7 Exposition of the First Epistle of St John Chapter II|7. Exposition of the First Epistle of St →]]
-

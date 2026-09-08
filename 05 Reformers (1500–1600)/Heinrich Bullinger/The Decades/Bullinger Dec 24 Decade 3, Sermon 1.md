@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 24. Decade 3, Sermon 1
 
 ## The Third Decade of Sermons, Written by Henry Bullinger. Of the Fourth Precept of the Second Table, Which Is in Order the Eighth of the Ten Com-mandments, Thou Shalt Not Steal. Of the Owning and Possessing of Proper Goods, and of the Right and Law-ful Getting of the Same; Against Sundry Kinds; of Theft. The First Sermon
@@ -190,7 +189,7 @@ Re ae TE -
 
 [6 See Vol 1. p. 197.]
 
-[BULLINGER, 1.
+## [Bullinger, 1
 
 largely, that thereby ye may the better understand the Lord’s commandment, Thou shalt not steal,” and more perfectly perceive what kinds and sorts of theft there be.
 
@@ -380,10 +379,9 @@ Another sort of thieves there is, which we call felons; and those be they which 
 
 Thus much hitherto have I spoken, my brethren, touching the sundry kinds of theft, of the just and lawful getting of goods, and also of the proper owning of peculiar riches. OF THE. LAWEUL.USE.OF.EARTHLY GOODS; THAT IS, ~ HOW WE MAY RIGHTLY POSSESS, AND LAWFULLY
 
-SPEND, THE WEALTH THAT IS RIGHTLY AND
+## Spend, the Wealth that Is Rightly And
 
 ## Justly Gotten: Of Restitution, the Second Sermon
 
 ---
 [[Bullinger Dec 23 Decade 2, Sermon 10, Part 2|← 23. Decade 2, Sermon 10, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 25 Decade 3, Sermon 2|25. Decade 3, Sermon 2 →]]
-

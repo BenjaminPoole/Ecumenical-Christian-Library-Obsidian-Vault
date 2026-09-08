@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 23. The Disputations at Oxford, Part 2
 
 Here you have falsified Hilary; for you have set vero sub mysterio for vere sub mys- Thus far ἐπ δὰ. »... their talk terio, we receive truly under a mystery." Hilary thrice reporteth vere sub mysterio, English. and you interpret it twice vere sub mysterio, but the third time you have vero for vere. seeingMaster Cranmer:—Assuredly I am not guilty of any deceit herein. It may be that the mee ^ vene copy which I followed had sub vero mysterio, i.e. under a true mystery;" although and put they touching the sense it differeth little. God I call to witness, I have alway hated bes] falsifying; and if you had leisure and lust to hear false citations, I could recite unto irt ater you six hundred. 1o find a knot
@@ -557,7 +556,7 @@ At which saying, all the doctors gently put off their caps.
 
 [Cranmer, Tom, IV. p.74.] "]
 
-A NOTE CONCERNING DR CRANMER IN HIS DISPUTATION.
+## A Note Concerning Dr Cranmer in His Disputation
 
 [Foxe, Acts, &c., 1684, Vol. III. p. 839.—See before, p. 414.]
 
@@ -827,4 +826,3 @@ which is taken of the fruit of the earth, and con- Christ's body, 225; when he s
 
 ---
 [[Cranmer LS 22 The Disputations at Oxford, Part 1|← 22. The Disputations at Oxford, Part 1]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 24 Index|24. Index →]]
-

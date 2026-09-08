@@ -57,3 +57,4 @@ Salute? one another and comfort one another in the grace of God the Father and o
 ---
 [[Hus Letter 18 Letter XVII. To the Same (October 1412)|← 18. Letter XVII. To the Same (October 1412)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 20 Letter XIX. To the Same (October 1412)|20. Letter XIX. To the Same (October 1412) →]]
 
+

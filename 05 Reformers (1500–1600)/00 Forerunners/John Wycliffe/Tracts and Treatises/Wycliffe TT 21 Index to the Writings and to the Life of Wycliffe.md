@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 21. Index to the Writings and to the Life of Wycliffe
 
 [Mes. ^ gabbing. earthquake.]
@@ -821,7 +820,7 @@ Wycliffe, summoned before the convoca- Wycliffe, his expectation of a divine tio
 
 Mm. o» PA eeu oe. mv we.
 
-book 1 ander ^ pne ud NEW YORK "m
+## book 1 ander ^ pne ud NEW YORK "m
 
 epeReN Co pP^ This hail a" a A m — Á ce css
 
@@ -837,4 +836,3 @@ mm MN
 
 ---
 [[Wycliffe TT 20 VIII. Confession on the Eucharist, Delivered to the|← 20. VIII. Confession on the Eucharist]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]]
-

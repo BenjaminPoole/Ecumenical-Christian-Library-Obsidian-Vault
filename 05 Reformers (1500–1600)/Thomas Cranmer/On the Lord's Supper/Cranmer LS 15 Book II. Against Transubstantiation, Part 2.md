@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 15. Book II. Against Transubstantiation, Part 2
 
 But as you speak of substances and accidents against scripture, sense, reason, experience, and all learning, so do you also speak manifestly against yourself. For you say, that “every thing that is must have a substance wherein it is stayed, and that every natural visible thing is of two parts, of substance and accidents;" and yet by. your transubstantiation you leave no substance at all, to stay the accidents of the bread and wine. 9)
@@ -229,7 +228,7 @@ For now the author must say the change in man’s soul by baptism, to be there m
 
 And then is that evasion taken away, which this author useth in another place, of sacramental change, which should be in the outward part of the visible creatures to the use of signification. This author noteth the age of Ewmissene, and I mote withal, how plainly he writeth for confirmation of the catholic teaching, who indeed, because of his amcient amd - plain writing for declaration of the matter in form of teaching without contention, is one - whose authority the church hath much in allegation used to the conviction of such as have impugned the sacrament, either in the truth of the presence of Christ's very body, or tram- - substantiation; for the speaking of the inward change doth point as it were the change of 3 the substance of bread, with resembling thereunto the soul of man changed in baptism. This one author, not being of any reproved, and of so many approved, and by this in the alle- - gation after this manner corrupt, might suffice for to conclude all brabbling against the P sacrament.
 
-CANTERBURY.
+## Canterbury
 
 **287.** Where I have corrupted Emissene, let the reader be judge. But when Emissene Tuming. speaketh godly of the alteration, change, and turning of a man from the congregation of the wicked unto the congregation of Christ, which he calleth “the body of the church," and from the child of death unto the child of God, this must be made a matter of scoffing, to turn light fellows out of the chancel into the body of the church.” Such trifling now-a-days becometh gaily well” godly bishops. What if in the stead o “turning” I had said “skipt over,” as the word /ransiluisti signifieth, which, although peradventure the books be false and should be #ramsisti, I have translated “turning?” should I have so escaped a mock, trow you? You would then have said, he that so doth, goeth not out of the chancel door into the body of the church, but skippeth over the stalls. But that Emissene meant of turning is clear, as well by the words that go before, as those which go after; which I refer to the judgment of the indifferent reader.
 
@@ -311,7 +310,7 @@ Chrysostom speaketh in this place of wine; as, Cyprian did before, against those
 
 [cante gratia, mediante sacerdote, liberatus est qui-! j]
 
-CANTERBURY
+## Canterbury
 
 The first place of Chrysostom by me alleged, you say, toucheth not the doctrine of transubstantiation." But you rehearse but a piece of Chrysostom’s words. For he saith not only that Christ used wine, but also drank wine in the mysteries, and the very wine of the grape. And how could then the wine be transubstantiate, except it were transubstantiate after it was drunken?
 
@@ -433,4 +432,3 @@ And this one place is sufficient at full to answer whatsoever you can bring ο�
 
 ---
 [[Cranmer LS 14 Book II. Against Transubstantiation, Part 1|← 14. Book II. Against Transubstantiation]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 16 Book II. Against Transubstantiation, Part 3|16. Book II. Against Transubstantiation →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 28. VI. A Short and Clear Exposition of the Christian Faith
 
 ## 
@@ -386,7 +385,7 @@ Majesty in boorish fashion. The situation demanded it. Zurich.
 
 **᾿ H.** ZwINGLI.
 
-APPENDIX ON THE EUCHARIST AND MASS
+## Appendix on the Eucharist and Mass
 
 There are some things which in the above exposition I touched upon lightly; these I will now treat of in a fuller exposition. And I shall especially prove that the Papists depart from truth when they proclaim that they offer Christ for sin in the Mass. For as He offered Himself once on the cross and again to the Father in heaven, so He won and obtained remission of sins and the joy of everlasting happiness, and he who boasts that he offers Him to the Father can in no way more completely reject or deny Christ. This I shall try to make clear as follows: First, I ask the opponent, who among men offered up Christ when He was hung upon the cross? They can only answer that no man offered Him up; He was offered up by Himself. To this the prophets, Christ Himself, and His apostles bare witness. He was offered up, because He Himself willed it. “No man taketh my life from me,” and “I have power to lay it down, and I have power to take it again” [John 10:18]. “I lay down my life for my sheep” [John 10:15], and “The bread that I will give is my flesh, which I will give for the life of the world” [John 6: 51]. Through the eternal Spirit He offered Himself up unspotted unto God.
 
@@ -560,4 +559,3 @@ Our Council, therefore, having heard what was brought before them pro and con fr
 
 ---
 [[Zwingli LW 27 V. Reproduction from Memory of a Sermon on the|← 27. V. Reproduction from Memory of a Sermon]] · [[Library/protestant reformers/Huldrych Zwingli/Latin Works and Correspondence/latin-works-index|Contents]] · [[Zwingli LW 29 Additional Notes|29. Additional Notes →]]
-

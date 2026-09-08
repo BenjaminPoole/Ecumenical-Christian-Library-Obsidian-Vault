@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 30. Letters XV–LXXVI
 
 Finally, I here send unto you a bill for the bank of four ducats de largo, which sum I would you should not take it up before you have need thereof, and therefore I send it for your commodity and necessity; for it 1s none of the king's graces money, nor his said grace knoweth nothing thereof, but aloncly of my benevolence to serve your purpose, in case, as I said, you should lack the same. And thus fare ye well. From my manor of Croydon, the xvii. day of June, [1533.]
@@ -165,7 +164,7 @@ Over this, I most heartily desire you at this mine instance to further all that 
 
 To my especial friend, master Cromwell.
 
-**XXX.** TO THE PRIORESS OF ST SEPULCHRES, CANTERBURY.
+## **XXX.** to the Prioress of St Sepulchres, Canterbury
 
 SisrER prioress, in my hearty wise I commend me unto you. And so likewise will 35 b- that you do repair unto me to my manor of Otford, and bring with you your nun which was some time at Courteupstrete, against Wednesday next coming: and that ye fail not herein in any wise. Thus fare you well. From our manor of Otford, &c. [1533.]
 
@@ -361,7 +360,7 @@ to be the farmer of his parsonage with you; and forasmuch as my said servant, in
 
 To the parson of Che vening ].
 
-**XLIX.** TO THE PRIORESS AND CONVENT OF WILTON.
+## **XLIX.** to the Prioress and Convent of Wilton
 
 samy right hearty wise I commend me unto you: and where I am advertised by ^ your authentic letters unto me, addressed by this bearer, sir Robert F., how desirous ye are, for the zeal ye bear unto the good order of your religion, to have an election of an abbess, whereunto by those your said letters you move and also require of me aid concerning the same: this is to signify unto you hereby, that inasmuch as I perceive, that this your suit doth as well proceed of your mere and own free wills, without provocation of other men's suits, as of the love and zeal ye bear unto your said religion, I will, (the king's grace's pleasure know[n] therein,) do that lieth in me to do; and owe unto you my lawful favour from time to time, &c.
 
@@ -427,7 +426,7 @@ I commeND me unto you, &c. And where I am advertised by this bringer, John
 
 **33.** Pers, that for lack of a banns asking you defer the same from solemnizing of his matrimony, the default whereof he reporteth was [in] one, who in his absence for him should have given money to the clerk for the intimation thereof: I will therefore that you make no further lets or impediments herein, advertising the same, that forasmuch as in considering the premises there appeareth in his behalf no coven or deceit, I am content at this time to dispense with him. From Otford, &c. To the curate of Sunriche.
 
-**LVI.** TO THE PRIOR OF CHRIST'S CHURCH, CANTERBURY.
+## **LVI.** to the Prior of Christ's Church, Canterbury
 
 DROTHER prior, in my right hearty wise I commend me unto you: heartily thanking you for your good and kind token which I have received by your brothern and mine, not deserved as yet; nevertheless you should have done me much more greater pleasure, if you had lent it me full of gold, not for any pleasure or delectation that I have in the thing, but for the contentation of such as I am indebted and dangered unto; which I assure you hath grieved me more of late, than any worldly thing hath done a great season: in this I am bold to shew you my necessity, thinking of good congruence I might in such lawful necessity be more bolder of you, and you likewise of me, than to attempt or prove any foreign friends. Wherefore, trusting in your benevolence and of all my brethren for the premises, I shall so recompense the same again, according as ye shall be well contented and pleased withal. Thus fare ye well.
 
@@ -751,4 +750,3 @@ TuowAS CANTUAR.
 
 ---
 [[Cranmer MW 29 Letters I–XIV|← 29. Letters I–XIV]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 31 Letters LXXVII–CVI|31. Letters LXXVII–CVI →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 54. Decade 4, Sermon 9, Part 2
 
 For though it be certain that Satan is not cast out by the power of Satan; yet one giveth place to another for a time, to this end, that they may the more easily deceive men, and obtain a kingdom. Christ truly and the apostle Paul foretold, that even the last times should be wonderfully bewitched with deceitful signs and powers. Most evident places touching that thing are extant in Matthew xxiv. 2 Thessalonians ii. chapter. More might be spoken, dearly beloved, and that at large, concerning the operations or workings of the devil; but I trust these things being gathered together in brevity are sufficient, and give occasion to muse of higher things.
@@ -46,8 +45,7 @@ Genezaret at Gadaral, and destroy them, but by the Lord’s permission. St Augus
 
 armour, saith: “Take unto you the whole armour of God, that ye may be able to resist in the evil day, and, having finished all things, to stand fast. Stand therefore, having your loins girt about with the truth, and having on the breast-plate of righteousness, and your feet shod that you may be prepared to the gospel of peace; above all things taking the shield of faith, wherewith you may quench all the fiery darts of that wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God, praying always in all prayers and supplication in the spirit?” &e. Whereunto that also belongeth, which the same apostle witnesseth: “God doth not suffer us to be tempted above that we are able to bear, but shall with the temptation make a way to escape.” Let us therefore reverence this God; let us beseech him, that through his power and might we may overcome. Amen.
 
-OF THE REASONABLE SOUL OF MAN; AND OF HIS
+## Of the Reasonable Soul of Man; And of His
 
 ---
 [[Bullinger Dec 53 Decade 4, Sermon 9, Part 1|← 53. Decade 4, Sermon 9, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 55 Decade 4, Sermon 10, Part 1|55. Decade 4, Sermon 10, Part 1 →]]
-

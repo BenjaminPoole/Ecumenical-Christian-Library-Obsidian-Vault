@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 1. Front Matter: Title Pages and Advertisement
 
-TRACTS AND TREATISES JOHN DE WYCLIFFE, D.D.
+*Tracts and Treatises John De Wycliffe, D.d*
 
 vos
 
@@ -25,13 +24,13 @@ Gr ~~” The ch 2 ou oq Vf Gn ro
 
 ## Hin Established MDCCCXLIV
 
-[FOR REPRINTING A SERIES OF THE MORE SCARCE AND VALUABLE TRACTS]
+## [For Reprinting a Series of the More Scarce and Valuable Tracts]
 
-[AND TREATISES OF THE EARLIER REFORMERS, PURITANS, AND]
+## [And Treatises of the Earlier Reformers, Puritans, And]
 
-[NONCONFORMISTS OF GREAT BRITAIN.]
+## [Nonconformists of Great Britain.]
 
-TRACTS AND TREATISES DE WYCLIFFE, D.D.
+## Tracts and Treatises De Wycliffe, D.d
 
 ## Selections and Translations his Manuscripts, and Latin Works
 
@@ -57,15 +56,15 @@ It may be expedient to state in conclusion, that while the present volume is, in
 
 Nearly five centuries have passed away since Wycliffe flou-
 
-Book II.—WycLiPFE's LATIN TREATISE, TRIALOGUS.
+## Book II.—WycLiPFE's LATIN TREATISE, TRIALOGUS
 
 ## Section I. Some Account of the First, Second, and Third Trialogus
 
-[SECTION II.]
+## [Section II.]
 
-[CHAPTERS TRANSLATED FROM THE FOURTH BOOK OF THE TRIALOGUS RELATING]
+## [Chapters Translated from the Fourth Book of the Trialogus Relating]
 
-[TO THE DOCTRINES OF THE SACRAMENTS, THE HIERARCHY, AND THE RELIGIOUS]
+## [To the Doctrines of the Sacraments, the Hierarchy, and the Religious]
 
 [ORDERS. Page]
 
@@ -89,4 +88,3 @@ Book II.—WycLiPFE's LATIN TREATISE, TRIALOGUS.
 
 ---
 [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 2 Facts and Observations Concerning the Life of Wycliffe|2. Facts and Observations Concerning the →]]
-

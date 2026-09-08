@@ -113,3 +113,4 @@ The following letter of Hus was written in the summer of 1412. To which writing,
 ---
 [[Hus Letter 13 Letter XII. To the People of Pilsen (March 1412)|← 13. Letter XII. To the People of Pilsen]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 15 Letter XIV. To the Monks of Dolein (Summer 1412)|15. Letter XIV. To the Monks of Dolein →]]
 
+

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 8. An Answer unto Sir Thomas More's Dialogue: To the Fourth Book
 
 And when he maketh so great “difficulty and hardness in Paul's epistles;" I say, it is impossible to understand either Peter or Paul, or aught at all in the scripture, for him that denieth the justifying of faith in Christ's blood. And again, it is impossible to understand in the scripture more than a Turk, for whosoever hath not the law of God written in his heart, to fulfil it: of which point, and of true faith too, I fear me that you are void and empty, with all your spiritualty, whose defender ye have taken upon you to be, for to mock out the truth for lucre and vantage.
@@ -573,7 +572,7 @@ And when he allegeth St James, it is answered him in the Mammon!; and St Augusti
 
 James expoundeth himself. For he saith in the first chapter, God, which begat us with his own will, with the word of truth:" which word of truth is his promise of mercy and forgiveness in our Saviour Jesus; by which he begat us, gave us life, and made us a new creature through a fast faith. And James goeth and rebuketh the opinion and false faith of them that think it enough to be saved by, if they believe that there is but one God, and that Christ was born of a virgin, and a thousand things which a man may believe, and yet not believe in Christ, to be saved from sin through him. And that James speaketh of another faith than at the beginning, appeareth by his ensample. The devils have faith, saith he: yea, but the devils have no faith that can repent of evil, or to believe in Christ to be saved through him, or that can love God, and work his will of love. Now Paul speaketh of a faith that is in Christ's blood, to be saved thereby; which worketh immediately, through love of the benefit received. And James, at the beginning, speaketh of a faith that bideth trying, saying, The trying of your faith worketh," or causeth, patience;” but the faith of the devils will bide no trying, for they will not work God's will, because they love him not. And in like manner is it of the faith of them that repent not, or that think themselves without sin: for except a man feel out of what danger Christ hath delivered him, he cannot love the work. And therefore James saith right, that no such faith, that will not work, can justify a man.’
 
-A EGRE
+## A Egre
 
 [miseth, but also to every truth that he telleth his church, by writing]
 
@@ -841,4 +840,3 @@ EC wo TOTIS Y E. AE τα 1 3 TU νον e x EM o" PN Rs. « x x κὺ " " í o s 
 
 ---
 [[Tyndale AM 7 An Answer unto Sir Thomas More's Dialogue To the Third|← 7. An Answer unto Sir Thomas More's]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 9 Introductory Notice to the Supper of the Lord|9. Introductory Notice to the Supper of →]]
-

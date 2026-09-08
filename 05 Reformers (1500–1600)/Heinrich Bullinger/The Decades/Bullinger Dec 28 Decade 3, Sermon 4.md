@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 28. Decade 3, Sermon 4
 
 ## Not Speak False Witness Against Thy Neighbour: And, Thou Shalt Not Covet Thy Neighbour’s House, the Fourth Sermon
@@ -158,10 +157,9 @@ To God, our Lord and most prudent lawgiver, be all praise and thanks for ever an
 
 [y [2 et noxias, Lat. omitted: and hurtful.]]
 
-OF THE CEREMONIAL LAW OF GOD, BUT ESPECIALLY OF THE PRIESTHOOD, TIME, AND PLACE, AP-
+## Of the Ceremonial Law of God, but Especially of the Priesthood, Time, and Place, Ap-
 
 ## Pointed for the Ceremonies. The Fifth Sermon
 
 ---
 [[Bullinger Dec 27 Decade 3, Sermon 3, Part 2|← 27. Decade 3, Sermon 3, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 29 Decade 3, Sermon 5, Part 1|29. Decade 3, Sermon 5, Part 1 →]]
-

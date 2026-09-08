@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 9. Decade 1, Sermon 7
 
 ## Contained in the Apostles’ Creed. The Seventh Sermon
@@ -108,7 +107,7 @@ The last thing that is to be noted now in this second article is, that we call t
 
 [8 Dominus redemptoris et assertoris vocabulum est.—Erasm. Colloq. Inquisit. de Fide. Opp. Lugd. Bat. 1703. Tom. 1. col. 729.]
 
-[BULLINGER.
+## [Bullinger
 
 Paul, where he saith: “Ye are bought with a price: become not (therefore) the servants of men.” And St Peter saith: “Ye are redeemed, not with geld and silver, but with the precious blood of the unspotted Lamb?” Moreover, Christ is called Lord in respect of his divine power and nature, by which all things are in subjection to the Son of God. And for because this word “Lord” is of a very ample signification, as that which containeth both the divine nature and majesty, we see that the apostles in their writings use it very willingly. Paul to the Corinthians saith: Although there be many lords, yet have we but one Lord Jesus Christ, by whom all things are, and we by him?3.”
 
@@ -222,4 +221,3 @@ Let us now give praise to the grace of God, and thanks to the Son of God: to who
 
 ---
 [[Bullinger Dec 8 Decade 1, Sermon 6|← 8. Decade 1, Sermon 6]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 10 Decade 1, Sermon 8|10. Decade 1, Sermon 8 →]]
-

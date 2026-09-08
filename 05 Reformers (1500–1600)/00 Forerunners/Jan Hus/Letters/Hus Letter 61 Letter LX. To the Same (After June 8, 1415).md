@@ -33,3 +33,4 @@ The Lord is with me as a mighty warrior. “The Lord is my light and my salvatio
 ---
 [[Hus Letter 60 Letter LIX. To the Same (June 9 or 10, 1415)|← 60. Letter LIX. To the Same (June 9 or 10]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 62 Letter LXI. To Henry Skopek De Duba (June 9, 1415)|62. Letter LXI. To Henry Skopek De Duba →]]
 
+

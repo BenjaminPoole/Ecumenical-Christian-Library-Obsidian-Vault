@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 8. Decade 1, Sermon 6
 
 ## Without the Law and Works. The Sixth Sermon
@@ -174,10 +173,9 @@ Ye have heard, dearly beloved, that true faith is the justification of the churc
 
 [6 Heb. xi. 35—38.] [7 John xvi. 33.] [8 Hee fulcit, &c., Lat. This (faith) is the prop, &e.] [9 Rom. xiii. 10.] [10 1 John v. 1.] [11 beatificationem, Lat. ]]
 
-OF THE FIRST ARTICLES OF THE CHRISTIAN FAITH
+## Of the First Articles of the Christian Faith
 
 ## Contained in the Apostles’ Creed. The Seventh Sermon
 
 ---
 [[Bullinger Dec 7 Decade 1, Sermon 5|← 7. Decade 1, Sermon 5]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 9 Decade 1, Sermon 7|9. Decade 1, Sermon 7 →]]
-

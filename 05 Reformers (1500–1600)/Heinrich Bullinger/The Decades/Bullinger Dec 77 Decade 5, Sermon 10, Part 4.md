@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 77. Decade 5, Sermon 10, Part 4
 
-[BULLINGER, 1V.]
+*[Bullinger, 1v.]*
 
 hardens the heart of, ii. 381; drowned 41; two kinds of, b.; absolute, in the Red sea, iv. 329. limited, 42; of ordination, 43; to Pharaohs, the, ii. 13. teach, 44; to administer the sacraPharisees, iv. 12, 180, 184. ments, to judge of doctrines, to call Pherecydes, iii. 385. a council, 45; to dispose of the affairs Philemon, ii. 22,: of the church, 46. Phileni, i. 278. Powers, a name of angels, iii. 338. Philip, the deacon, ii. 22; iii. 278; iv. Pray, we must, iv. 167; why they that 310, 311, 383, 396; an evangelist, pray do not always receive that they iv. 105; baptized in a field, 365. ask, 170; not with the mouth only, Philip, king of Macedon, ii. 219. but with the heart, 180; when we Philippi, the jailor of, iv. 366. must, 183; in what tongue, 188; how Philistines, the, iv. 295; god of, i. 224. we must, 201; toward what part of Philosophers, the patriarchs of heretics, the world we must, 500. ii. 407; iii. 124. Prayer, iii. 32; for the dead, 395; usePhebe, iv. 107. less, 399; for faithful pastors, iv. 158; Phoroneus, ii. 219. whatit is, 163; definition of, 7b.; priPhotinus, iii. 267. vate, 164; public, 164, 183; objections Pight, pitched, iv. 96. against, 168, 169; who must be called Pillars, Peter, James, and John, iv. 123. on in, 171; what things provoke men Pindar, iii. 385. to, 174; our minds must be lifted up Pitho, or Sunada, iv. 265. to heavenly things in, 178; must proPity, foolish, 1, 353. ceed from love, 179; we must require Plato, i. 50; ii. 219, 393; iv. 480; his no unworthy thing for God to grant, opinion of the soul, iii. 335. and contrary to his laws, 181; we Platonists’ opinion of the soul, iii. 374. must continue in, ib.; set hours for, Pleasure, allowed, not excluded by 183; the place of, ib.; the force or necessity, ii. 55. virtue of, 244; sacrament of, 247. Pleasures, granted, i. 420. Prayer, the Lord's, iv. 206-220; whether Plebani, iv. 116. we be tied to, 203. Pledges, ii. 36, 228. Prayers, of angels, iii. 219. Ploughing, on the sabbath, i. 265. Prayers, kinds of, iv. 164; are necessary, Plurality, of benefices, iv. 144. 169; God is moved with, 170; of Poland, iv, 189. Jacob and Moses, 224; of Samuel and Poll, plunder, ii. 47. Nehemiah, 225; of Paul and Silas, Polycarpus, i. 248; iv. 31, 57, 58; mar. 226; of saints, 539. tyrdom of, ii. 103. Preaching of the word, a mark of the Polygamy, against, i. 404. church, iv. 17, 18; power of, 40; of Pompey, iii. 18, the gospel, called the mystery of the Pontius Pilate, i. 134; iii. 14, 23. kingdom, 237. Poor, the, ii. 225; care of, iv. 157, 497; Predestinate to life, who is, iii. 187; the not to be defrauded of their portion, drawing of the, 189. 495. Predestination, of God, iii. 185. Pope, the, iv. 118; power and preroga- Presbyter, iv. 106. tives of, iii. 118; a god on earth, iv. Presuls, iv. 118. 72; not the head of the church, 86; is Priest of God, iii. 226. Melchizedek, 118; supreme head of Priesthood, the, ii. 130; beginning of], the church, 119; not to be judged, ib.; abrogated, 262; of Christ, iii. ib.; the laws of, to be received as 285; is unchangeable, 216, 287; of from the mouth of Peter, ἐδ.; the au- Christians, 290. thority of, greater than of the saints, Priests, the, certain degrees among, ii. ib.; has one consistory with God, ἐν.; 132; raiment of, 133-135; meaning cannot be brought in order by any of the apparel of, 137; office of, 139; man, ib.; hath no fellow, 120; hath must teach and bless, ἐδ.; must sacriall laws within his breast, b.; there fice and minister sacraments, 141; is a general council where he is, ib.; carry the tabernacle and its vessels, hath both swords, #b.; is above the ib.; appointed to serve in war, 142; emperor, ib.; can depose the emperor, judge causes, ἐδ.; the stipends and ib.; may take away privileges, ib.; is dwellings of, 143. lord of lords, ib. is the ordinary of Priests in the christian church, iv. 107. all men, ib.; that every man be sub- Priests, parish,iv.9; of Rome, the filthy ject to, is of necessity of salvation, life of, 69; regular and secular, 116. 2b.; has a heavenly power, and alter- Primates, iv, 117. eth the nature of things, 121; is anti- Princes, have dealt in religion, i. 330; christ, 122. have appointed orders for religion, Popes, poisoned, ii. 110, 331. Power, ecclesiastical, iv. 38; of conse- Principalities, a name of angels, iii. 338. cration, 39; of the keys, 39, 44: of Priscilliauists, ii. 363; iv. 410, jurisdiction, of preaching, of judicial Priscillianus’ opinion of the soul, iii. correction, to receive, 40; what it is, 914,
 
@@ -318,7 +317,7 @@ ERRATA. VOLUME 1. 17, line 13, for prophets: in read prophets 22, 28, "in read 7
 
 148, note 2,,, ἢῦ.,, Epist. LVI. VOLUME III. 131, note 3, for spiritalibus read spiratilibus. 02, line7,,, Job read Joh. VOLUME 1V. xvr. line 28, for numeros read nummos. XXX. gy 1,» Novalis, “ὄνου 10: 4219, note 3,,, 259 read 258. 17921ὅ,.» SE S272, 202, 282,, 2, » 274 » “210. 992,00, 6,8, 3658, 360. DELENDA. VOLUME 1V. Page xxviii, line 14, dele ADDENDA.
 
-[VOLUME L]
+## [Volume L]
 
 [Page 10, note 2. Non videtur pratereundum, quod Eusebius hasce epistolas (i.e. Dionysii) eatholicas vocet: forte, quia in ecclesiis piorum solite sint legi, sicut Clementis.—Centuriat. Magd. Cent. 11. cap. 10.]
 
@@ -374,7 +373,7 @@ Even previous, however, to the introduction of these “Orders” into the Upper
 
 The Parker Society,
 
-INSTITUTED A.D. 1840.
+## Instituted A.d. 1840
 
 ## For the Publication of the Works of the Fathers and Early Writers Reformed English Church. Presented to the General Meeting, May
 
@@ -446,7 +445,7 @@ In reference to future proceedings, the Council have to announce that two more v
 
 ξῷ ΤΣ μ᾿
 
-ἘΞ ΕΣ ΕΕΙ ' LARRY: ΕΗ
+## Ἐξ Ες Εει ' Larry: Εη
 
 RHE Gud ΕΠ J. = UHH πὰ go
 
@@ -468,7 +467,7 @@ Eh: ΐ Π ELE: Ξὲ: a) LER
 
 [375%]
 
-[LITE]
+## [Lite]
 
 [Figg]
 
@@ -484,7 +483,7 @@ Eh: ΐ Π ELE: Ξὲ: a) LER
 
 [Ta δ]
 
-[ST Ξ]
+## [St Ξ]
 
 [ar 3]
 
@@ -532,7 +531,7 @@ IV.—That the accounts of the receipt and expenditure of the Society shal be ex
 
 [Council may determine.]
 
-NAMES, AMONG OTHERS, ARE IN THE
+## Names, Among Others, Are in The
 
 ## Of Subscribers to the Parker Society, his Royal Highness the Prince Albert. His Majesty the King of Prussia. Her Royal Highness the Duchess of Kent
 
@@ -676,7 +675,7 @@ ER 6 MEMBERS OF THE PARKER SOCIETY. The Right Honourable the Lord Chief Justice 
 
 [Manchester; and many other Collegiate, Public, and School Libraries, ἄς.]
 
-THE COUNCIL AND OFFICERS FOR 1852-53.
+## The Council and Officers for 1852-53
 
 ## President. The Honourable the Earl of Shaftesbury. Treasurer. Walter Farquhar, Bart. Council
 
@@ -698,7 +697,7 @@ Wirtriam ΤΉΟΜΑΒ, Esq., at the Office of the Parker Society, 33, Southampto
 
 **Messrs.** HERRIES, FARQUHAR, AND Co., No. 16, St. James's Street.
 
-[REGULATIONS FOR DELIVERY OF THE BOOKS PUBLISHED BY THE SOCIETY.]
+## [Regulations for Delivery of the Books Published by the Society.]
 
 [1 They will be delivered, free of expense, at the office, or within three miles of the]
 
@@ -766,4 +765,3 @@ Whitgift, 2nd Vol.; and, probably, Archbishop Parker's Correspondence.
 
 ---
 [[Bullinger Dec 76 Decade 5, Sermon 10, Part 3|← 76. Decade 5, Sermon 10, Part 3]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]]
-

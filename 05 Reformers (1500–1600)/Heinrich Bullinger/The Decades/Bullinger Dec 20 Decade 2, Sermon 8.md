@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 20. Decade 2, Sermon 8
 
 ## It Be Lawful for a Magistrate to Kill the Guilty: Wherefore, When, How, and What the Magistrate Must Punish: Whether He May Punish Offenders in Religion or No. The Eighth Sermon
@@ -342,14 +341,13 @@ Hitherto I have rehearsed the words of St Augustine's answer to the objections o
 
 I see my hope doth fail me, wherein I thought that I could have been able in this sermon to have made an end of all that I had to say touching the magistrate. But I perceive that here I must stay, unless I should go on, dearly beloved, and be too tedious unto you all. I mean to-morrow, therefore, to add the rest that is yet behind. Make ye your humble prayers unto the Lord upon your knees, and then depart in peace. de quo jam diximus, omnes in regno suo positos a blasphemando Deo lege terribili prohibendo. In hoc ergo serviunt Domino reges, in quantum sunt reges, cum ea faciunt ad serviendum illi, quze non possunt facere nisi reges. Cum itaque nondum reges Domino servirent temporibus apostolorum, sed adhuc meditarentur inania adversus eum et adversus Christum ejus, ut prophetarum preedicta omnia complerentur, non utique tunc possent impietates legibus prohiberi, sed potius exerceri. Sic enim ordo temporum volvebatur, ut et Judi occiderent praedicatores Christi, putantes se officium Deo facere, sicut preedixerat Christus; et gentes fremerent adversus Christianos, et omnes potentia (patientia) martyrum vinceret. Postea vero quam ceepit impleri quod scriptum est, Et adorabunt eum omnes reges terrae, omnes gentes servient illi; quis mente sobrius regibus dicat, ‘ Nolite curare in regno vestro a quo tueatur (teneatur) vel oppugnetur ecclesia Domini vestri: non ad vos pertineat in regno vestro, quis velit esse sive religiosus sive sacrilegus.. Cur enim, cum datum sit divinitus homini liberum arbitrium, adulteria legibus puniantur, et sacrilegia permittantur? An fidem non servare levius est animam Deo, quam feeminam viro? Aut si ea, que non contemptu sed ignorantia religionis committuntur, mitius vindicanda, numquid ideo negligenda sunt? Melius est quidem (quis dubitaverit?) ad Deum colendum doctrina homines duci, quam peenze timore vel dolore compelli. Sed non quia isti meliores sunt, ideo illi, qui tales nen sunt, negligendi sunt. Multis enim profuit, quod experimentis probavimus, prius timore vel dolore cogi, ut postea possint doceri, ant quod jam verbis didicerant opere sectari.—Opp. Tom. 11. fol. 42. P.]
 
-[24 [BULLINGER. ]]
+## [24 [Bullinger. ]]
 
-OF WAR; WHETHER IT BE LAWFUL FOR A MAGISTRATE TO MAKE WAR. WHAT THE SCRIPTURE TEACHETH
+## Of War; Whether It Be Lawful for a Magistrate to Make War. What the Scripture Teacheth
 
-**TOUCHING WAR.** WHETHER A CHRISTIAN MAN
+## **Touching War.** Whether a Christian Man
 
 ## May Bear the Office of a Magistrate. And of the Duty of Subjects. The Ninth Sermon
 
 ---
 [[Bullinger Dec 19 Decade 2, Sermon 7|← 19. Decade 2, Sermon 7]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 21 Decade 2, Sermon 9|21. Decade 2, Sermon 9 →]]
-

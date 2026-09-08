@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 11. Decade 1, Sermon 9
 
 ## Tained in the Apostles Creed. The Ninth Sermon
@@ -328,10 +327,9 @@ Illa quidem actio, vel potius quies, atque otium quale futurum sit, si verum vel
 
 12.2
 
-OF THE LOVE OF GOD AND OUR NEIGHBOUR.
+## Of the Love of God and Our Neighbour
 
 ## The Tenth Sermon
 
 ---
 [[Bullinger Dec 10 Decade 1, Sermon 8|← 10. Decade 1, Sermon 8]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 12 Decade 1, Sermon 10|12. Decade 1, Sermon 10 →]]
-

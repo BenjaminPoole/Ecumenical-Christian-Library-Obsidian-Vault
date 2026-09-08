@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 17. V. Answer of Wycliffe to Richard the Second
 
 [meritorious. ^ ignorant or lay. tithes. security. much, / profit.]
@@ -21,7 +20,7 @@ Christ for his endless mercy help his priests and common people to beware of Ant
 
 [nevertheless. condemn. + lymbs or deceits.]
 
-ANSWER OF WYCLIFFE TO RICHARD THE SECOND, AS TOUCHING THE RIGHT AND TITLE OF THE KING AND THE POPE.
+## Answer of Wycliffe to Richard the Second, as Touching the Right and Title of the King and the Pope
 
 IN relation to the following document, Fox, the martyrologist, writes:— “It was demanded, whether the kingdom of England may lawfully, in case of necessity, for its own defence, detain and keep back the treasure of the kingdom, that it be not carried away to foreign and strange nations, the pope himself demanding and requiring the same, under pain of censure, and by virtue of obedience.".
 
@@ -47,4 +46,3 @@ Here lordship and dominion is plainly forbidden to the apostles, and darest thou
 
 ---
 [[Wycliffe TT 16 IV. Why Poor Priests Have No Benefices|← 16. IV. Why Poor Priests Have No Benefices]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 18 VI. Letter of Wycliffe in Excuse to Pope Urban VI|18. VI. Letter of Wycliffe in Excuse to →]]
-

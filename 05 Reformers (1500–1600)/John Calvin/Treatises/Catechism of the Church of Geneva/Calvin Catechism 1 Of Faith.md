@@ -10,7 +10,6 @@ written: "1545"
 tags:
   - calvin-treatises
 ---
-
 # 1. Of Faith
 
 Master.—What is the chief end of human life?
@@ -275,7 +274,7 @@ That his blood is a laver by which our souls are cleansed from all stains. Lastl
 
 **M.** Does it give any delight to our conscience that Christ will one day be the judge of the world?
 
-**VOL.** II. D
+## **Vol.** II. D
 
 S. Indeed singular delight. For we know assuredly that he will come only for our salvation. M. We should not then tremble at this judgment, so as to let it fill us with dismay? S. No, indeed; since we shall only stand at the tribunal of a judge who is also our advocate, and who has taken us under his faith and protection. M. Let us come now to the third partS. It relates to faith in the Holy Spirit. M. What do we learn by it? S. The object is to let us know that God, as he hath redeemed and saved us by his Son, will also by his Spirit make ' us capable of this redemption and salvation. M. How? S. As we have purification in the blood of Christ, so our consciences must be sprinkled by it in order to be washed. (1 Peter 1. 2; 1John i. 7.)
 
@@ -415,4 +414,3 @@ S. So indeed it is; and hence the whole doctrine of the gospel is comprehended u
 
 ---
 [[Calvin Catechism To the Reader|← To the Reader]] · [[Library/protestant reformers/John Calvin/Treatises/Catechism of the Church of Geneva/catechism-of-geneva-index|Contents]] · [[Calvin Catechism 2 Of the Law|2. Of the Law →]]
-

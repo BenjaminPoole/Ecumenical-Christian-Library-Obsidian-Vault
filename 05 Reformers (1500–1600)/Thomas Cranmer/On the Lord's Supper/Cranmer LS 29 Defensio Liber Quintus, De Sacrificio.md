@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 29. Defensio: Liber Quintus, De Sacrificio
 
 ## Christi
@@ -33,7 +32,7 @@ Atque alio loco de veteri testamento ait, “abrogatum illud et deletum fuisse, 
 
 Atque hoc sacrificium eam vim habet, ut minime necesse sit illud quasi solenne. quot- annis renovare, quemadmodum antistites veteris testamenti faciebant: quorum sacrificia, etiam szpius facta, nullius momenti aut utilitatis erant, (quia tum sacerdotes ipsi qui offerebant, peccatores fuerant, tum sanguinem animantium rationis expertium, et non suum offerebant;) cum Christi sacrificium semel factum ad omnem @ternitatem valeat.
 
-**CAPUT III.** Ζ
+## **Caput III.** Ζ
 
 ## Duo Esse Genera Sacrificiorum
 
@@ -155,7 +154,7 @@ gratiarum actionis esse intelligebant; qua ratione non minus populus quam sacerd
 
 ## Caput XVII
 
-CAUS/E ET RATIONES QUIBUS PAPISTIC/E MISS/E IN ECCLESIAM DEI
+## Caus/E Et Rationes Quibus Papistic/E Miss/E in Ecclesiam Dei
 
 ## Insinuarunt
 
@@ -189,4 +188,3 @@ omnem seculorum i
 
 ---
 [[Cranmer LS 28 Defensio Liber Quartus, De Perceptione Corporis et|← 28. Defensio Liber Quartus, De Perceptione]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]]
-

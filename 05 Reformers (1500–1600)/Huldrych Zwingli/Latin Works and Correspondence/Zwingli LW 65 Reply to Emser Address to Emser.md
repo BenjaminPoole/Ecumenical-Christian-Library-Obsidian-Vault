@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 65. Reply to Emser: Address to Emser
 
-REPLY OF HULDREICH ZWINGLI TO JEROME EMSER DEFENDER OF THE CANON OF THE MASS
+*Reply of Huldreich Zwingli to Jerome Emser Defender of the Canon of the Mass*
 
 ## (August 20, 1524)
 
@@ -94,4 +93,3 @@ Therefore surrender your mind as a captive to the obedience of God, not of men o
 
 ---
 [[Zwingli LW 64 Reply to Emser Introduction, by George Warren Richards|← 64. Reply to Emser Introduction, by George]] · [[Library/protestant reformers/Huldrych Zwingli/Latin Works and Correspondence/latin-works-index|Contents]] · [[Zwingli LW 66 Reply to Emser The Church|66. Reply to Emser The Church →]]
-

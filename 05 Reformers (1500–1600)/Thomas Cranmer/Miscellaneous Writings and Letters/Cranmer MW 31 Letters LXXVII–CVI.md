@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 31. Letters LXXVII–CVI
 
 ## LXXVII. To Crumwell
@@ -217,7 +216,7 @@ Broraer Prior, I do right heartily commend me unto you. And so likewise desire
 
 [1727—30. So also Le Neves Fasti, pp. 122, 341. ᾿]
 
-**LXXXV.** TO HIS CHANCELLOR AND DEAN OF THE ARCHES.
+## **LXXXV.** to His Chancellor and Dean of the Arches
 
 I cowwEND me unto you. And whereas the commissary of my jurisdiction in Calice writeth unto me as well concerning my visitation there, as also for mine advice in an unlawful matrimony now depending before him; wherein it seemeth, that he hath further proceeded in that behalf than peradventure he ought, as you may partly conjecture by this his letter herein inclosed: I require you therefore, that inasmuch as these matters before specified are more largely declared in his said letter, that you, according to the effect of them, with all celerity do send me your advice what is most expedient to be done, touching the ready expedition hereof. Thus fare you well. From my manor of Ford, the xxvii. day of December.
 
@@ -363,7 +362,7 @@ My lord, in my right hearty wise I commend me unto you: and so likewise desire t
 
 To my lord of Rochester.
 
-**XCVI.** TO THE WARDEN OF ALL SOULS' COLLEGE, OXFORD.
+## **XCVI.** to the Warden of All Souls' College, Oxford
 
 Master warden, in my right hearty wise I commend me unto you. And where at your last being with me at Lameheth I desired your good will in a farm of yours, the name whereof at that time I could not readily call unto my remembrance; so it is, as I am advertised, that the same is named Les Wydon in Northamptonshire?: which forasmuch as the years and term thereof shall be shortly expired, I heartily require you, that at this mine instance and request ye will, as effectually as you may, move the rest of your company to accomplish this my said suit, so that by yours and their agreement I may obtain the next lease that shall be granted in that behalf for a special friend of mine, paying in every condition as much as any other reasonably will give for the same; for the which I will at all times be ready to shew both to you and them like pleasure accordingly, &c.
 
@@ -387,7 +386,7 @@ To the warden of All Souls’ college in
 
 [colleges. ] [7 Lois Weedon, near 'Towcester.]]
 
-XCVII. TO THE INHABITANTS OF HADLEIGH.
+## XCVII. To the Inhabitants of Hadleigh
 
 IN my right hearty wise I commend me unto you. And sorry I am to hear there is lack of charity, and also be many grudges amongst you, you all being christian men, which should be of such charity and unity as if ye were but one body. And to the intent ye should be so, and that ye should the rather be induced to concord, and specially against this good time', I have desired this bearer, master Hughe Vaghan, to take the pain to come unto you now with these my letters, and to exhort you all in my name and on my behalf, and most specially in the name of our Lord, that you and every of you put away such grudges? as ye have one against another, and become lovers together as children of God ought to do: (for whosoever is out of charity, do what he will, it is not acceptable in the sight of God; and how can he love God that hateth his christian brother, which is the creature of God?) so to continue in charity here in this world together as the sons of one Father, our Lord in heaven, that ye may be beloved of him after in heaven.
 
@@ -795,4 +794,3 @@ IN my most hearty wise I commend me unto you. And so likewise desire you to be g
 
 ---
 [[Cranmer MW 30 Letters XV–LXXVI|← 30. Letters XV–LXXVI]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 32 Letters CVII–CL|32. Letters CVII–CL →]]
-

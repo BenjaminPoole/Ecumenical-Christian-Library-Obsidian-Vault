@@ -39,3 +39,4 @@ Such, then, is the mercy that comes to you from
 ---
 [[Hus Letter 24 Letter XXIII. To the Same (January 1413)|← 24. Letter XXIII. To the Same (January 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 26 Letter XXV. To the Synod of Prague (February 1413)|26. Letter XXV. To the Synod of Prague →]]
 
+

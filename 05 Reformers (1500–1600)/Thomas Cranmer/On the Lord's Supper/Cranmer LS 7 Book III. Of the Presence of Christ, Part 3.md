@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 7. Book III. Of the Presence of Christ, Part 3
 
 ## 3
@@ -327,7 +326,7 @@ The matter of the book, from thence unto the fifty-sivth leaf, touching the bein
 
 heaven and not in earth, is out of purpose superfluous. The article of our creed that Christ ascended to heaven, and sitteth on the right hand of his Father, hath been and is most constantly believed of true christian men, which the true faith of Christ's real presence in the sacrament doth mot touch or impair. Nor Christ being whole God and man in the sacrament, is thereby either out of heaven, or to be said conversant in earth, because the conversation is not earthly, but spiritual and godly, being the ascension of Christ, the end of his conversation in earth; and therefore all that reasoning of the author is clearly void, to travail to prove that is not denied, only for a sleight to make it seem às though it were denied.
 
-CANTERBURY.
+## Canterbury
 
 Here is such a sleight used by you, as is worthy to be noted of all men. For I go not only about to prove in this place only that Christ, as concerning his human nature, is in heaven, (which I know you deny not,) but I prove also that he is so in heaven, that he is not in earth, which you utterly deny, and it is the chief point in contention between us. But by this craft of appeaching me of sleight, that I go about to prove that thing which you deny not, (which is untrue,) you have used such a sleight, that you pass over eight leaves of my book together, wherein I prove that Christ, as concerning his corporal presence, is not here in earth, and you answer not one word to any of my arguments. And I pray thee note, good reader, what a strange manner of sleight this is, to pass over eight leaves together clearly unanswered, and that in the chief point that is in variance between us, under pretence that I use sleight, where in deed I use none, but prove plainly that Christ is not bodily in heaven and in earth, both at one time. If he had but touched mine arguments glancing by them, it had been somewhat: but utterly to fly away, and not once to touch them, I think thou wilt judge no small sleight and craft therein. And methink in good reason, the matter ought to be judged against him for default of answer, who being present answereth nothing at all to the matter whereof he is accused; seeing that the law saith: Qui tacet, consentire videtur.
 
@@ -735,4 +734,3 @@ The third is, that you say “the speech of Christ is noted figurative in respec
 
 ---
 [[Cranmer LS 6 Book III. Of the Presence of Christ, Part 2|← 6. Book III. Of the Presence of Christ]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 8 Book III. Of the Presence of Christ, Part 4|8. Book III. Of the Presence of Christ →]]
-

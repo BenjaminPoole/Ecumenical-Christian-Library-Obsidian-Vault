@@ -57,3 +57,4 @@ In the following letter Hus defines more clearly than he had done for the “Fat
 ---
 [[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|← 69. Letter LXVIII. To the Same (Middle of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 71 Letter LXX. To the Same ( June 21, 1415)|71. Letter LXX. To the Same ( June 21, 1415) →]]
 
+

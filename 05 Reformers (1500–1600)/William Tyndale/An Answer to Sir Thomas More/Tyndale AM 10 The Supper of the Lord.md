@@ -10,10 +10,7 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 10. The Supper of the Lord
-
-## The Supper of the Lord
 
 Wnurw Christ saw those gluttons, seeking their bellies, flocking so fast unto him, after his wonted manner (the occasion taken, to teach and preach unto them, of the things now moved) he said, “Verily, verily, I say unto you, ye seek me not because ye have seen my miracles, but because ye have eaten of the loaves and were well filled." But as for me, I am not come into this world only to fill men's bellies, but to feed and satisfy their souls. Ye take great pains to follow me for the meat of your bellies; but, O sluggards, work, take pains, and labour rather to get that meat that shall never perish. For this meat that ye have sought of me hitherto, perisheth with your bellies; but the meat that I shall give you, is spiritual, and may not perish, but abideth for ever, giving life everlasting. For my Father hath consigned and confirmed me, with his assured testimony, to be that assured saving health and earnest-penny of everlasting life.” When the Jews understood not what Christ meant, bidding them to work and labour for that meat that Should never perish,” they asked him, What shall we do, " that we might work the works of God?”—supposing that he had spoken of some outward work required of them. Wherefore Jesus answered, saying, Even this is the work of God, to believe and trust in him whom the Father hath sent." Lo, here may ye see that work of God which he requireth of us, even to believe in Christ. Also consider again what this meat is, whieh he bade them here prepare and seek for, saying, Work, take pains, and seek for that meat, ὅσο" and thou shalt see it none other meat than the belief in Christ: wherefore he concludeth, that this meat so often mentioned, is faith; ii. Οὗ the which meat (saith the prophet) the just liveth. Faith in him is therefore the meat which Christ prepareth and dresseth so purely; pouldering! and spicing it with spiritual allegories in all this chapter following, to give us everlasting life through it. n Then said the Jews unto him, What token doest thou, — whereby we might know that we should believe in thee?
 
@@ -393,7 +390,7 @@ But here might some of them object and tell Paul, Sir, we come hither hungry and
 
 17
 
-[TYNDALE, 111]
+## [Tyndale, 111]
 
 If any man be so hungry, let him eat somewhat at home,” and so delay his hunger, that he may the better tarry for the poor, “lest ye come together unto your condemnation. And as for other things, I shall dispose and set in order when 1 come.” These other things were concerning this supper, and such as were out of frame among them; which, if ye read the whole epistle, are easy to see, and that they were no necessary truths for their salvation: for all such truths Paul had preached them before, and written them too. Neither were these othér things Lent fast; the assumption of our lady; hallowing of boughs, bells, and ashes; hallowing of vestments, and creeping to the cross, with such other unwritten vanities, as M. More listeth to jest and trifle out the truth.
 
@@ -557,4 +554,3 @@ If any man tell you, Lo! here is Christ, or there is he, believe him not; for th
 
 ---
 [[Tyndale AM 9 Introductory Notice to the Supper of the Lord|← 9. Introductory Notice to the Supper of]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 11 Introductory Notice to the Exposition of Tracy's|11. Introductory Notice to the Exposition →]]
-

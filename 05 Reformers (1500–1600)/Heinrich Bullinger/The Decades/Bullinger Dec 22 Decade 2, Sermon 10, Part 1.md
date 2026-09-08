@@ -11,10 +11,9 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 22. Decade 2, Sermon 10, Part 1
 
-COMMANDMENTS: THOU SHALT NOT COMMIT
+*Commandments: Thou Shalt Not Commit*
 
 ## Adultery of Wedlock; Against All Intemperance; of Continency. The Tenth Sermon
 
@@ -580,4 +579,3 @@ But neither public nor private fastings can abide to be enforced: for they will 
 
 ---
 [[Bullinger Dec 21 Decade 2, Sermon 9|← 21. Decade 2, Sermon 9]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 23 Decade 2, Sermon 10, Part 2|23. Decade 2, Sermon 10, Part 2 →]]
-

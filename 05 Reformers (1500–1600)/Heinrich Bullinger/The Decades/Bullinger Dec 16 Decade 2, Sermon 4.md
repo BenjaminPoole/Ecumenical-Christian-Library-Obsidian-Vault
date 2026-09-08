@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 16. Decade 2, Sermon 4
 
 ## Sabbath-day. The Fourth Sermon
@@ -64,7 +63,7 @@ Now, this ease or rest is not commanded in respect of itself, (for idleness alwa
 
 [5 Quod caret alterna requie durabile non est, Lat.—Ovid. Ep. 1v. 89.]
 
-[BULLINGER.]
+## [Bullinger.]
 
 Wherefore the bountiful Lord, whose mind is to preserve his creatures, doth teach a way to keep them, and doth diligently provide, that his creatures be not too much afflicted by the hard handling or covetousness of their owners. Moses in Deuteronomy addeth the pitiful affection of mercy, saying: “Remember, that once thou thyself wast a servant in the land of Egypt!” Charity, therefore, and civil humanity do crave a measure to be kept, so that we do not with endless labours overlade and weary our household servants, Moreover, it is manifest, that the good man of the house? by planting godliness in his family, doth not a little advance and set forward his private profit and own commodity: for wicked servants are for the most part pickers and deceitful; whereas, on the other side, the godly are faithful, whom in his absence he may trust to govern his house. In the reckoning up of the household also is mention made of beasts and cattle; which is done, not so much because their owner is a man and ought therefore to use them remissly and moderately, as for because beasts cannot be laboured without the working hand of man to guide them: so then men are drawn from the solemnizing of the sabbath-day by helping their cattle. Wherefore, to the intent that they should not be drawn aside, we are here precisely commanded to allow our cattle that resting time. oid Last of all, the Lord doth add his own example, whereby he teacheth us to keep holy the sabbath-day. Because,” saith he, “in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: therefore the Lord blessed the seventh day, and hallowed it.” The Lord our God wrought six days in creating heaven and earth, the sea, and all that in them is; and the seventh day he rested, and ordained that to be an appointed time for us to rest in. On the seventh day we must think of the works that God did in the six days: the children of God must call to remembrance what and how great benefits they have received the whole week, for which they must thank God, for which they must praise God, and by which they must learn God. We
 
@@ -178,4 +177,3 @@ briefly as I could, the first table of God's commandments, wherein we have very 
 
 ---
 [[Bullinger Dec 15 Decade 2, Sermon 3|← 15. Decade 2, Sermon 3]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 17 Decade 2, Sermon 5|17. Decade 2, Sermon 5 →]]
-

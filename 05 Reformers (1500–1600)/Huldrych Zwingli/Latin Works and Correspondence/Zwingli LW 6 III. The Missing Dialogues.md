@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 6. III. The Missing Dialogues
 
 the same spirit that I have written, and grant me indulgence, for in the space of three hours it certainly was not vouchsafed unto me to write more elaborately and more fully.
-
-## III the Missing Dialogues
 
 ΓΟ ΞΞΕΝ CES in the Zwingli Correspondence show that Zwingli wrote at least two Dialogues which were passed among his friends in manuscript, and which were perhaps intended by him for publication. But there is no evidence that they were ever put in print, at all events no copy either in manuscript or print is extant. Of the nature of the first we cannot even conjecture. In the letter of Johannes Dingnauer to Zwingli, dated Dec. 6, 1514, occur these words: 'But what the learned among us think of your Dialogue, and especially that unique most learned specimen of all learned men, Erasmus of Rotterdam, you will hear when we meet." (In Schuler and {Schulthess ed., vii., 9; in Egli, Finsler and Koehler ed., vii., 20 sq.) Five years later we have several allusions to a Dialogue entitled ''The Pest," and which was suggested by Zwingli's experiences with that scourge. The first reference occurs in the letter of Kaspar Hedio to Zwingli, dated Dec. 10, 1519: “The second question that you ask relates to The Pest. The word pest was of evil significance till you made it a word to which a good meaning can be attached, for the pest which wretchedly distresses miserable mortals is indeed bad, but 'The Pest of Zwingli is good." (In Schuler and Schulthess ed., vii., 100; in Egli, Finsler and Koehler ed., vii., 237 sq.). The second reference is in Zwingli's letter to Oswald Myconius, dated Dec. 31, 1519: "As to my Pest about which you wanted to be informed (in your second letter, I think)—I
 
@@ -24,4 +21,3 @@ wish that it and every sickness mentioned in it were extinct. When Hedio wrote m
 
 ---
 [[Zwingli LW 5 II. Account of the Engagements between the French and|← 5. II. Account of the Engagements between]] · [[Library/protestant reformers/Huldrych Zwingli/Latin Works and Correspondence/latin-works-index|Contents]] · [[Zwingli LW 7 IV. The Labyrinth|7. IV. The Labyrinth →]]
-

@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 9. Introductory Notice to the Supper of the Lord
 
-[2 M NL,]
+*[2 M Nl,]*
 
-[CEREREM AM]
+## [Cererem Am]
 
 [Title of Original Edition.]
 
@@ -177,4 +176,3 @@ The present editor has collated Day’s folio reprint of 1573 with the Lambeth c
 
 ---
 [[Tyndale AM 8 An Answer unto Sir Thomas More's Dialogue To the Fourth|← 8. An Answer unto Sir Thomas More's]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 10 The Supper of the Lord|10. The Supper of the Lord →]]
-

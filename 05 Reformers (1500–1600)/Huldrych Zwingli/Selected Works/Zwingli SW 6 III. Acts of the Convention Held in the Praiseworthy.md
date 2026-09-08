@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 6. III. Acts of the Convention Held in the Praiseworthy City of Zurich on The, Part 3
 
 Secondly, since Sir Vicar pretends that human ordinance and teaching are to be held, this also is not written in the Gospel; he refers to St. Paul to the Thessalonians, where he writes: Therefore, brethren, stand fast and hold the traditions which ye have been taught, whether by word or our epistle.” I say Paul did not speak, teach, write or instruct in anything except what the Lord had ordered him. For he testifies everywhere, - and also proves it to be true, to have written or preached naught except the Gospel of Christ, which God had promised before in the Scriptures of His Son through the prophets.
@@ -110,7 +109,7 @@ light, the life of all believers. Therefore one evidently sees that spiritually 
 
 You interpret the Scriptures thus according to your judgment, another interprets them another way; hence there must always be people who decide these things and declare the correct meaning of the Scriptures, as this is symbolized by the wheels of Ezekiel.
 
-ZWINGLI.:
+## Zwingli
 
 I do not understand the Scriptures differently than it is interpreted by means of the Spirit of God; there is no need of human judgment.f We know that the ordinance of God is spiritual, Rom. vii. 14, and is not to be explained by the reasoning of man in the flesh. For the corporal man in the flesh does not understand the things which are of the Spirit of God. 1 Cor. ii. 14. Therefore I do not wish to have or accept a man as judge of the Scriptures.
 
@@ -240,7 +239,7 @@ f ut C - J " dr ΓΙ nu. πων: a “ry Ἐν τ. ὡς «! és. ry - LN ΞΥ. 
 
 **0.** is icd Elo e Do. T Fe d: -— E ^M ὦ
 
-[9 P - ΠῚ E]
+## [9 P - Πὶ E]
 
 [MN e I. s 4: ἃ]
 
@@ -254,7 +253,7 @@ f ut C - J " dr ΓΙ nu. πων: a “ry Ἐν τ. ὡς «! és. ry - LN ΞΥ. 
 
 [ES LA n.: - à b IN a]
 
-[LJ ^ "]
+## [Lj ^ "]
 
 [1 » T - Wiese E DO NEY ua m]
 
@@ -576,7 +575,7 @@ THE FIRST ZURICH DISPUTATION. IIS XXXVI. All that the spiritual so-called state 
 
 **XLVI.** Hence it must always follow that church-song and outcry without devoutness, and only for reward, is seeking either fame before the men or gain.
 
-: ABOUT OFFENCE.
+## : About Offence
 
 **XLVII.** Bodily death a man should suffer before he offend or scandalize a Christian. EE
 
@@ -630,7 +629,7 @@ E," 2 wa) a 2: # 9 i: Yrs! «ni uM ] 3 ": " 4 = - ΝΜ 4 " I T "T xuialet 5n'-. 
 
 [Ca - os]
 
-[== LI À]
+## [== LI À]
 
 [ML ' t VL]
 
@@ -722,8 +721,7 @@ LT 4 vtT e -1 i [1], 0 Ie «d AL 4 τ. Ct ze a m^ T ^ A - pig 4 μι - νν E �
 
 [4 I Ue ᾿ - D]
 
-IV. ORDINANCE AND NOTICE. HOW MATTERS CON-CERNING MARRIAGE SHALL BE CONDUCTED IN “THE C1TY OF ZURICH.:
+## IV. Ordinance and Notice. How Matters Con-Cerning Marriage Shall Be Conducted in “the C1ty of Zurich
 
 ---
 [[Zwingli SW 5 III. Acts of the Convention Held in the Praiseworthy|← 5. III. Acts of the Convention Held in the]] · [[Library/protestant reformers/Huldrych Zwingli/Selected Works/selected-works-index|Contents]] · [[Zwingli SW 7 IV. Ordinance and Notice. How Ma|7. IV. Ordinance and Notice. How Ma →]]
-

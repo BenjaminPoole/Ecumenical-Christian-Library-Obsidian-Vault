@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 37. Decade 3, Sermon 9, Part 2
 
 This will yet be made a great deal more manifest, if we call to remembrance and do consider, that the apostles had to deal with two kinds of men: the one sort whereof did affirm, [61 Pet. i. 15, 16, in omni conversatione, Lat.]
@@ -316,10 +315,9 @@ Thus much had I hitherto to say touching the nature or property, cause, end, and
 
 Be TT Eo Noh 358 THE THIRD DECADE. [sera OF SIN, AND OF THE KINDS THEREOF; TO WIT, OF
 
-ORIGINAL AND ACTUAL SIN, AND OF SIN AGAINST
+## Original and Actual Sin, and of Sin Against
 
-THE HOLY GHOST: AND LASTLY, OF THE
+## The Holy Ghost: And Lastly, of The
 
 ---
 [[Bullinger Dec 36 Decade 3, Sermon 9, Part 1|← 36. Decade 3, Sermon 9, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 38 Decade 3, Sermon 10, Part 1|38. Decade 3, Sermon 10, Part 1 →]]
-

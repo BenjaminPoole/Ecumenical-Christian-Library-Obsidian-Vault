@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 2. Dedications and Prefaces, Part 2
 
 “substance, (so) is our confession, believing the Trinity in the difference of persons, and openly professing the unity in the Godhead; neither confound we the persons, nor divide the substance. We say, that the Father is made or begotten of none: we affirm, that the Son is not made, but begotten of the Father: and we profess that the Holy Ghost is neither created nor begotten, but proceeding from the Father and the Son. And (we confess) that the Lord himself Jesus Christ the Son of God, and the maker of all things, begotten of the substance of his Father before all the worlds, came down from his Father in the latter times for the redemption of the world, who (nevertheless) never ceased to be with the Father. For he was incarnate by the Holy Ghost and the glorious virgin Mary the holy mother of God, and of her was born alone the same Lord Jesus Christ, one in the Trinity, being perfect (man) in soul and body, taking on man without sin, being still what he was, taking to him what he was not: touching his Godhead equal with the Father, (and) inferior to his Father touching his manhood, having in one person the property of two natures. For (there are) in him two natures, God and man: and yet not two Sons or two Gods, but the same (God and man) one person in both natures, who
@@ -300,7 +299,7 @@ We worship and confess God, not three Gods, but the Father, the Son, and the Hol
 
 The Son in the last time came down from the Father to save us and to fulfil the scriptures, who (nevertheless) never ceased to be with the Father. And he was conceived by the Holy Ghost, and born of the virgin: he took upon him flesh, and soul, and sense; that is, he took on him very man, neither lost he what he was, but began to be what he was not; so yet that, in respect of his own properties, he is perfect God; and in respect of ours, he is very man. For he which was God is born man; and he which is born man, doth work miracles as God; and he that worketh miracles as God, doth die as a man; and he that dieth as man, doth rise again as God: who in the same flesh, wherein he was born and sufad dexteram ejus in gloria, quam semper habuit et habet. In hujus morte et sanguine credimus emundatos nos; et ab eo resuscitandos die novissimo in hac carne qua nunc vivimus. Et habemus spem nos consecuturos premium boni meriti, aut penam pro peccatis seterni supplicii. Haec lege, haec crede, heec retine; huic fidei animam tuam subjuga; et vitam consequeris et premium a Christo.—Hieronym. Opp. ed. Par. 1693-1706. Tom. v. col. 122.]
 
-[BULLINGER.]
+## [Bullinger.]
 
 fered and died and rose again, did ascend to the Father, and sitteth at his right hand in the glory which he always had, and yet still hath. By whose death and blood we believe that we are cleansed; and that at the latter day we shall be raised up again by him in this flesh wherein we now live. And we hope that we shall obtain a reward for our good deeds; or else the pain of everlasting punishment for our sins. Read this, believe this, hold this, submit thy soul to this faith, and thou shalt obtain life and a reward at Christ's hand. St Peter, bishop of Alexandria, taught and believed the very same with the blessed Athanasius and Damasus, as it may be gathered out of the thirty-seventh chapter of the seventh book, and the fourteenth chapter of the eighth book, of the Tripartite history. THE IMPERIAL DECREE FOR THE CATHOLIC FAITHSZ TAKEN OUT OF THE TRIPARTITE HISTORY. Lib. 1x. Cap. 7.
 
@@ -350,10 +349,9 @@ doctrine, be punished first by God’s after that by punishment according to min
 
 [Ix. cap. 7. ap. Cassiodor. Opp. Rotomag. 1679. p. 334.]]
 
-[SERM.
+## [Serm
 
 ## The First Decade of Sermons, Written by Henry Bullinger. Of the Word of God; the Cause of It; and How, and by Whom, It Was Revealed to the World. First Sermon
 
 ---
 [[Bullinger Dec 1 Dedications and Prefaces, Part 1|← 1. Dedications and Prefaces, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 3 Decade 1, Sermon 1|3. Decade 1, Sermon 1 →]]
-

@@ -71,3 +71,4 @@ Item, if a hearing shall be granted to me, ask that after it is granted the King
 ---
 [[Hus Letter 44 Letter XLIII. To Peter Mladenowic|← 44. Letter XLIII. To Peter Mladenowic]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 46 Letter XLV. To the Same (February 1415)|46. Letter XLV. To the Same (February 1415) →]]
 
+

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 50. Decade 4, Sermon 6
 
 ## The Selfsame Son Is True Man; Consubstantial with Us: And Therefore True God and Man, Abiding in: Two Unconfounded Natures, and in One Undivided Person. The Sixth Sermon
@@ -554,7 +553,7 @@ l 272 THE FOURTH DECADE. [sErRM. him depart from them. But who dare deny that th
 
 And since it is without controversy, that this faith and doctrine from Christ’s time even unto our age hath flourished in the holy church of God, and against innumerable assaults of Satan and heretics hath remained most stedfast; and the selfsame is delivered and confirmed by testimonies of scripture and consents? of holy councils; I exhort you, dearly beloved, that, calling on the name of Christ, you may persevere and continue in the same doctrine, and being joined by true faith and obedience to Christ, very God and man, you may give continual thanks, worshipping him that reigneth for ever.
 
-OF CHRIST, KING AND PRIEST; OF HIS ONLY AND
+## Of Christ, King and Priest; Of His Only And
 
 EVERLASTING KINGDOM AND PRIESTHOOD;
 
@@ -562,4 +561,3 @@ EVERLASTING KINGDOM AND PRIESTHOOD;
 
 ---
 [[Bullinger Dec 49 Decade 4, Sermon 5, Part 2|← 49. Decade 4, Sermon 5, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 51 Decade 4, Sermon 7|51. Decade 4, Sermon 7 →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 57. Decade 5, Sermon 1, Part 1
 
 ## The Fifth Decade of Sermons, Written by Henry Bullinger. Of the Holy Catholic Church; What It Is, How Far It Extendeth, by What Marks It Is Known, from Whence It Springeth, How It Is Maintained and Preserved, Whe-ther It May Err. Also of the Power and Studies of the Church. The First Sermon
@@ -146,7 +145,7 @@ Now forasmuch as we have said that the church militant upon earth is marked by G
 
 whereby it may be known in this world; it followeth next that we should speak of those outward marks of the church of God. And there are two special and principal marks, the sincere preaching of the word of God, and the lawful partaking of the sacraments of Christ: where as some add unto these the study of godliness and unity, patience in affliction, and the calling on the name of God by Christ; but we include them in these twain that we have set down. St Paul writing to the Ephesians saith: “Christ gave himself for the congregation, that he might sanctify it, and cleanse it in the fountain of water through the word.” Ye have in this testimony of the apostle the marks of the church, to wit, the word and the sacrament, by the which Christ maketh to himself a church. For with his grace he calleth, with the blood of Christ he purifieth; that which he sheweth? by his word to be received by faith, and sealeth with sacraments, that the faithful should doubt of nothing touching their salvation obtained through Christ. And these things truly do properly belong unto the faithful and the holy members. Whereas hypocrites are not purified, the fault lieth in themselves, and not in God or his holy ministry: they are surely [9 id quod annunciat, Lat.: which thing he proclaims.]
 
-[BULLINGER, 1V.] 2
+## [Bullinger, 1v.] 2
 
 sanctified visibly, whereupon they are counted holy amongst men; and these things do improperly belong unto them. St Peter in this point differeth not a whit from St Paul, who when he preached the word of God to the people of Jerusalem, and they demanding what they should do, Peter answereth: “Repent, and be ye every one baptized in the name of Jesus Christ for the remission of sins.” St Peter therefore joined baptism with doctrine, the sacrament with the word. Which thing he had learned of our Saviour himself in the gospel written by St Matthew, saying: Teach ye all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.” So that ye read in the Acts no other mysteries of the word and sacraments of the church than are recited! in these words, “They continued in the doctrine of the apostles, and in doing almsdeeds?, and in breaking of bread, and prayer:” where ye may see the supper of the Lord, another sacrament, adjoined to the sacrament of baptism, also the desire and study of unity and love, and the calling upon the name of God.
 
@@ -300,7 +299,7 @@ The last thing that is to be noted is this; that the Lord God not only of old an
 
 [6 quam doctrina veritatis et pietatis sincera et simplici, Lat.]
 
-[BULLINGER, 1V.] "
+## [Bullinger, 1v.] "
 
 ii. when writing to the Thessalonians he saith: “Our exhortation was not by deceit, nor by uncleanness, nor by guile. But as we were allowed of God that the gospel should be committed unto us, even so we speak; not as they that please men, but God, which trieth our hearts. Neither yet did we ever use flattering words, as ye know; nor coloured covetousness, God is record; neither sought we praise of men,” ὅθ. Wherefore he is greatly deceived and mad, that thinketh the church can either be gathered together, or being gathered can be maintained and preserved, with practices, that is to say, with crafty counsels and subtle deceits of men. It is truly said of the common people, that “the same is overthrown again by man’s wisdom, which was first built by man’s wisdom.” Besides this, the Lord himself doth remove force and arms from the building of the church, since he forbids his disciples the use of sword; and unto Peter, ready prest to fight, saith, Put "up thy sword into the scabbard.” Neither do we ever read that any were sent of the Lord as soldiers, which with armed force should bring the world in subjection; but rather the ii. Scripture witnesseth the great enemy of God, Antichrist, shall be destroyed with the breath of God’s mouth, Wherefore there is no doubt that all those things which are read in divers places of the prophets, and chiefly in the twelfth of Zachary, concerning wars to be made against all nations by the apostles and apostolical men, ought to be figuratively expounded. For the apostles, according to their manner, fight as apostles; not with spear, sword, and bow of carnal warfare, but of spiritual. The apostolical sword is the word of God. Yet in the mean time no man denieth but that the weapons of carnal or corporal warfare have been profitable sometime to apostolical men and to the church, and do good even at this day. No man denieth that God doth oftentimes use the help of soldiers and magistrates in defending the church against the wicked and tyrants: yea, rather all men will confess, that a good and godly magistrate oweth a duty? toward the church of God. For not without great cause the Worthy? prophet of God, Isay, calleth “kings nursing fathers, and queens narsing mothers.” Paul, being oppressed of the Jews in the temple of Jerusalem for preaching of the gospel
 
@@ -350,4 +349,3 @@ They call that the power of consecration, whereby a. A. priest being rightly ord
 
 ---
 [[Bullinger Dec 56 Decade 4, Sermon 10, Part 2|← 56. Decade 4, Sermon 10, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 58 Decade 5, Sermon 1, Part 2|58. Decade 5, Sermon 1, Part 2 →]]
-

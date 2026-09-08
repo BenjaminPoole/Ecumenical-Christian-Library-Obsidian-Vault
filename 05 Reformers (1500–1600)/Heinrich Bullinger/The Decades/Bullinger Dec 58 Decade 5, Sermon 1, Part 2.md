@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 58. Decade 5, Sermon 1, Part 2
 
 only in the pope, having respect to the whole universal church. For it belongeth only to the pope to appoint rulers and prelates in the ecclesiastical hierarchy, because it was said to him, “Feed my sheep.” Moreover they say, that all jurisdiction ecclesiastical doth come from the pope to the inferior rulers either mediately or immediately: in which things authority is limited at his pleasure that hath the fulness of power; for a bishop hath authority only in his diocese, of and a curate in his parish, ὅσο, Power of apostleship or preaching the word of God they call the authority of preaching, which the Lord had given to his disciples, saying: “Go ye into all the world, preaching the gospel to all creatures.” But doctors in these days affirm, that none ought to be sent to preach but only by Peter, that is, his successor, mediately or immediately, &e. They say that the power of judicial correccor. tion was given to Peter by God, to whom he said, “If thy brother shall offend or trespass against thee, &c:” for the words of the Lord are known well enough in St Matthew, cap. xviii. They say therefore that God gave authority unto priests not only of excommunicating, but also of determining, judging, and establishing commandments, laws, and canons; because in that place it is said, “” Whatsoever ye bind upon earth, it shall be bound in heaven.” To conclude; they say the power and authority to receive things necessary for this life, in reward of their spiritual labours, was given by these words of the Lord: “Eating and drinking such as they have.”
@@ -84,10 +83,9 @@ to the Lord our God, who through his beloved
 
 @f THAT THERE IS ONE CATHOLIC CHURCH: THAT WITHOUT THE CHURCH THERE IS NO LIGHT OR SAL-VATION. AGAINST SCHISMATICS. WHEREFORE
 
-WE DEPART FROM THE UPSTART CHURCH OF
+## We Depart from the Upstart Church Of
 
 ## Rome. That the Church of God Is the House, Vineyard, and Kingdom of God; and the Body, Sheep-fold, and Spouse of Christ; a Mother and a Vrgin. The Second Sermon
 
 ---
 [[Bullinger Dec 57 Decade 5, Sermon 1, Part 1|← 57. Decade 5, Sermon 1, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 59 Decade 5, Sermon 2, Part 1|59. Decade 5, Sermon 2, Part 1 →]]
-

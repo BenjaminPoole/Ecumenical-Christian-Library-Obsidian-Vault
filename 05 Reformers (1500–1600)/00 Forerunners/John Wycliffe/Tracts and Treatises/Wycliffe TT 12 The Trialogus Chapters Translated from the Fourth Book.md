@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 12. The Trialogus: Chapters Translated from the Fourth Book, on the Sacraments, the Hierarchy, and the Religious Orders, Part 3
 
 The sixth and the worst abuse of the friars consists in their pretended confessions, by means of which they affect, with numberless artifices of blasphemy, that they can purify those whom they confess, and make then clean from all pollution in the eyes of God, through this assumed power of Antichrist,—setting aside the commandments and satisfaction of our Lord. Thus, in their eagerness to participate in the gain of their master the devil, they drag but too many down to hell. For if the conversation of the just is seen to be in heaven, by the uprightness
@@ -55,7 +54,7 @@ In what relates to gain, though it may eavour of manifest heresy, these men labo
 
 ## XXX
 
-WHETHER TEMPORAL LORDS MAY AND SHOULD ASSIST AND DEPEND THEIR
+## Whether Temporal Lords May and Should Assist and Depend Their
 
 ## People Against the Friars
 
@@ -77,4 +76,3 @@ Now let not the friars longer declare us wanting in charity, because we take up 
 
 ---
 [[Wycliffe TT 11 The Trialogus Chapters Translated from the Fourth Book|← 11. The Trialogus Chapters Translated from]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 13 I. A Treatise of John Wycliffe against the Orders of|13. I. A Treatise of John Wycliffe against →]]
-

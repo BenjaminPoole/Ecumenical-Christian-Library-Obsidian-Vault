@@ -77,3 +77,4 @@ As to your proposed change of benefice. It seems to me in all conscience you sho
 ---
 [[Hus Letter 27 Letter XXVI. To Master Christian Prachaticz|← 27. Letter XXVI. To Master Christian]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 29 Letter XXVIII. To the Same (April 1413)|29. Letter XXVIII. To the Same (April 1413) →]]
 
+

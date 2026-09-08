@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 11. Marginal Notes on the First Twenty-One Chapters of St Matthew's Gospel
 
-E NOTES OR GLOSSES
+*E Notes or Glosses*
 
 ## On Saint Matthew's Gospel. 1525. Aimo [introductory Notice
 
@@ -207,4 +206,3 @@ at 3Lonbon, by Anthony Scoloker and divellpnge wpthout Cemple-barre Sabop ventes
 
 ---
 [[Tyndale EN 10 Exposition of the First Epistle of St John Chapter V|← 10. Exposition of the First Epistle of St]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 12 Introductory Notice and Preface to the Practice of|12. Introductory Notice and Preface to the →]]
-

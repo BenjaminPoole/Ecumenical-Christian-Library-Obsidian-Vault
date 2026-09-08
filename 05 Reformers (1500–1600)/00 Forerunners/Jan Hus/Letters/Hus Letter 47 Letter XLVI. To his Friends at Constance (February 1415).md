@@ -59,3 +59,4 @@ The following letter is dated by Palacky as March 4, 1415, reckoning eight weeks
 ---
 [[Hus Letter 46 Letter XLV. To the Same (February 1415)|← 46. Letter XLV. To the Same (February 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 48 Letter XL. Vii. to John of Chlum|48. Letter XL. Vii. to John of Chlum →]]
 
+

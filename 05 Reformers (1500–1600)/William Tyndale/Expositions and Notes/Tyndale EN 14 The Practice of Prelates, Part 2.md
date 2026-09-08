@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 14. The Practice of Prelates, Part 2
 
 uer: re ας 282 THE PRACTICE OF PRELATES.
@@ -175,7 +174,7 @@ And the promises and testament, which the sacrament of Christ's body and blood d
 
 [ete.—Th. Aquin. Opusc. f. 231. Lugd. 1562.] 19—2]
 
-CE AL E T 292 THE PRACTICE OF PRELATES. T
+## Ce Al E T 292 the Practice of Prelates. T
 
 And in like manner, whosoever defendeth his traditions, — decrees, and privileges, him he made a saint also for his labour, ἢ were his living never so contrary unto the scripture; as ] Thomas of Canterbury!, with many other like, whose life was j like Thomas cardinal's?, but not Christ's; neither is Thomas. cardinal’s life anything, save a counterfeiting of St Thomas of — Canterbury. Thomas Becket was first seen? in merchandise E - temporal; and then, to learn spiritual merchandise, he gat P. him to Theobald archbishop of Canterbury; which sent him I divers times to Rome about business of holy church. And r1 when Theobald had spied his activity, he shore him deacon?, E! lest he should go back; and made him archdeacon of Canterbury, and upon that presented him to the king. And the king made him his chancellor, in which office he passed the I pomp and pride of Thomas cardinal, as far as the one's shrine passeth the other's tomb in glory and riches. And after that
 
@@ -773,4 +772,3 @@ After that my lord cardinal with More, his sworn secretary, and the bishop of Lo
 
 ---
 [[Tyndale EN 13 The Practice of Prelates, Part 1|← 13. The Practice of Prelates, Part 1]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 15 The Practice of Prelates, Part 3|15. The Practice of Prelates, Part 3 →]]
-

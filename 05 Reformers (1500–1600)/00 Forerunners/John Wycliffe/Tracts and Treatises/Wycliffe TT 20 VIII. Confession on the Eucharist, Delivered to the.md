@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 20. VIII. Confession on the Eucharist, Delivered to the Delegates at Oxford, 1382
 
-CONFESSION ON THE EUCHARIST,
+*Confession on the Eucharist*
 
 ## Delivered to the Delegates at Oxford, in 1382
 
@@ -25,4 +24,3 @@ For before that the fiend, the father of lesynges was loosened, was never this g
 
 ---
 [[Wycliffe TT 19 VII. Confession of Wycliffe Concerning the Eucharist|← 19. VII. Confession of Wycliffe Concerning]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 21 Index to the Writings and to the Life of Wycliffe|21. Index to the Writings and to the Life →]]
-

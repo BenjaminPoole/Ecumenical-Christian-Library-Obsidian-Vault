@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 19. Questions with Answers by the Bishops of Worcester, Chichester, and Hereford
 
-SOME QUESTIONS, WITH ANSWERS MADE TO THEM BY THE BISHOPS OF WORCESTER', CHICHESTER: AND
+*Some Questions, with Answers Made to Them by the Bishops of Worcester', Chichester: And*
 
 ## The Question
 
@@ -97,4 +96,3 @@ If you cannot tell what or wherein the acts of John can profit Thomas, being so 
 
 ---
 [[Cranmer MW 18 Questions Concerning Some Abuses of the Mass|← 18. Questions Concerning Some Abuses of the]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 20 Articles to be Inquired of within the Diocese of|20. Articles to be Inquired of within the →]]
-

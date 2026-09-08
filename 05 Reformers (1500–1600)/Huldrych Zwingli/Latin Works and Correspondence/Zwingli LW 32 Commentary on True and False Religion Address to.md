@@ -11,12 +11,9 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 32. Commentary on True and False Religion: Address to Francis I
 
 “Thanks be to God Lancaster, Pa., January, 1929.
-
-COMMENTARY ON TRUE AND FALSE RELIGION
 
 ## (March, 1525)
 
@@ -112,4 +109,3 @@ determine to correct our ways according to the word of the gospel.
 
 ---
 [[Zwingli LW 31 Commentary on True and False Religion Introduction, by|← 31. Commentary on True and False Religion]] · [[Library/protestant reformers/Huldrych Zwingli/Latin Works and Correspondence/latin-works-index|Contents]] · [[Zwingli LW 33 Commentary on True and False Religion To the Reader|33. Commentary on True and False Religion →]]
-

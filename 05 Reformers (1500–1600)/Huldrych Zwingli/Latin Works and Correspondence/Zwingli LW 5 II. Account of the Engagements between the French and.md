@@ -14,9 +14,7 @@ tags:
 
 # 5. II. Account of the Engagements between the French and the Swiss near Ravenna and Pavia
 
-## It
-
-AccouNT BY HULDREICH ZWINGLI OF THE ENGAGEMENTS BETWEEN THE FRENCH AND THE SWISS HARD BY RAVENNA AND PAVIA AND IN OTHER PLACES, AND OF THE CONVENTION AT BADEN IN SWITZERLAND, IN THE YEAR I5I2
+*Account by Huldreich Zwingli of the engagements between the French and the Swiss hard by Ravenna and Pavia and in other places, and of the Convention at Baden in Switzerland, in the year 1512*
 
 ## (Autumn 1512)
 

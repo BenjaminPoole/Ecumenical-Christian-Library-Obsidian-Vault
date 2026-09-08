@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 14. II. A Complaint of John Wycliffe, Exhibited to the King and Parliament
 
-A COMPLAINT OF JOHN WYCLIFFE, EXHIBITED TO THE KING AND PARLIAMENT.
+*A Complaint of John Wycliffe, Exhibited to the King and Parliament*
 
-A COMPLAINT OF JOHN WYCLIFFE, EXHIBITED TO
+## A Complaint of John Wycliffe, Exhibited To
 
 ## The King and Parliament
 
@@ -103,4 +102,3 @@ God, for his mercy, stir these priests to preach the Gospel life, and beware of 
 
 ---
 [[Wycliffe TT 13 I. A Treatise of John Wycliffe against the Orders of|← 13. I. A Treatise of John Wycliffe against]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 15 III. Wycliffe's Wycket|15. III. Wycliffe's Wycket →]]
-

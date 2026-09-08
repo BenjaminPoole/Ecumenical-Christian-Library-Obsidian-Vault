@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 3. Exposition of Matthew V, VI, and VII: The Sixth Chapter
 
 [! That is, they bought the gross produce of the tribute; and overcharged the people in the collection of it.]
@@ -69,9 +68,9 @@ But our hirelings have no God’s word, but trust in the multitude of words, len
 
 6
 
-[TYNDALE, 11.]
+## [Tyndale, 11.]
 
-[ἘΠῚ]
+## [Ἐπὶ]
 
 be converted unto thy Lord God; and not to run wild as the ungodly do, which know not the benefits of God, and therefore be unthankful to obey his commandments.
 
@@ -401,4 +400,3 @@ up a tyrant, and continueth him in prosperity, it is to be a scourge to wicked s
 
 ---
 [[Tyndale EN 2 Exposition of Matthew V, VI, and VII The Fifth Chapter|← 2. Exposition of Matthew V, VI, and VII]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 4 Exposition of Matthew V, VI, and VII The Seventh Chapter|4. Exposition of Matthew V, VI, and VII →]]
-

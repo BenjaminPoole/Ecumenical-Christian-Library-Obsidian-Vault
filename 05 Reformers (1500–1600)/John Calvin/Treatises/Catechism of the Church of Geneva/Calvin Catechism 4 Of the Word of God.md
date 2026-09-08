@@ -10,10 +10,7 @@ written: "1545"
 tags:
   - calvin-treatises
 ---
-
 # 4. Of the Word of God
-
-## Of the Word of God
 
 **M.** The order already adopted by us requires that we now consider the fourth part of divine worship.
 
@@ -67,4 +64,3 @@ himself in the daily reading of it, and all should be especially careful to atte
 
 ---
 [[Calvin Catechism 3 Of Prayer|← 3. Of Prayer]] · [[Library/protestant reformers/John Calvin/Treatises/Catechism of the Church of Geneva/catechism-of-geneva-index|Contents]] · [[Calvin Catechism 5 Of the Sacraments|5. Of the Sacraments →]]
-

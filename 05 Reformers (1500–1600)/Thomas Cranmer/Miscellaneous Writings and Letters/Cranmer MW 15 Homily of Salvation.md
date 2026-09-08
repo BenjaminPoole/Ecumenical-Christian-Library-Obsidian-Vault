@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 15. Homily of Salvation
 
 Being bound by my function to lay these things before your royal highness, the one as a reward, if you fulfil; the other as a judgment from God, if you neglect them; yet I openly declare before the living God, and before these nobles of the land, that I have no commission to denounce your majesty deprived, if your highness miss in part, or in whole, of these performances, much less to draw up indentures between God and your majesty, or to say you forfeit your crown with a
@@ -20,8 +19,6 @@ clause, for the bishop of Rome, as have been done by your majesty's pre-
 ## decessors, king John, and his son Henry of this land. The Almighty God of his mercy let the light of his countenance shine upon your majesty, grant you a prosperous and happy reign, defend you and save you; and let your subjects say, Amen! God save the king
 
 [[^ Josias, Ibid.] [? Presidents, F. and F] [? There was no king, that turned, Ibid. ]]
-
-## Homily of Salvation"
 
 Because all men be sinners and offenders against God, and breakers of his law and commandments, therefore can no man by his own acts, works, and deeds (seem they never so good) be justified and made righteous before God; but every man of necessity is constrained to seek for another righteousness, or justification, to be received at God's own hands, that is to say, the remission, pardon?, and forgiveness of his sins and trespasses in such things as he hath offended. And this justification or righteousness, which we so receive by God's mercy and Christ's merits, embraced by faith, is taken, accepted, and allowed of God for our perfect and full justification.
 
@@ -181,5 +178,3 @@ Therefore, to conclude, considering the infinite benefits of God, shewed and exh
 
 ---
 [[Cranmer MW 14 Speech at the Coronation of Edward VI, 1547|← 14. Speech at the Coronation of Edward VI]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 16 Homily of Faith|16. Homily of Faith →]]
-
-

@@ -79,3 +79,4 @@ the end Stanislas was forced to recant” With Stanislas, though less prominent 
 ---
 [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 2 Letter I. To Archbishop Zbinek (June 30, 1408)|2. Letter I. To Archbishop Zbinek (June →]]
 
+

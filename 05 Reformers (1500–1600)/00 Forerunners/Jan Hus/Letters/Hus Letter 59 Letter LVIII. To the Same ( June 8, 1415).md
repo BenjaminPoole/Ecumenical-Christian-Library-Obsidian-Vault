@@ -59,3 +59,4 @@ unfairly altered my deposition as to the gloss of the edict, as indeed you heard
 ---
 [[Hus Letter 58 Letter LVII. To his Friends in Constance ( June 7, 1415)|← 58. Letter LVII. To his Friends in]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 60 Letter LIX. To the Same (June 9 or 10, 1415)|60. Letter LIX. To the Same (June 9 or 10 →]]
 
+

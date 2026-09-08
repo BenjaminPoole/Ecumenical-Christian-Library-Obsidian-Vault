@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 35. Letters CXCVIII–CCXVI
 
 [[ i. e. Cranmer, Latimer, and Shaxton.] [t “Grafton was a member of the Grocer's Company in London."]]
@@ -85,7 +84,7 @@ To my very singular good lord, my,
 
 peculiars, to the intent that the said act of convocation may from henceforth be put in due exercise, according to the purport and effect of the same. Thus fare you well. At Ford, the 16th day of September. [1537.]
 
-**T.** CANTUARIEN.
+## **T.** Cantuarien
 
 ## CCI. To Crumwell
 
@@ -337,7 +336,7 @@ good lord, my lord privy seal.
 
 I commEND me unto you. And whereas I understand that (by reason of bloodshed lately committed within your church by William Guston upon one Robert a Wood) you be in doubt whether that you may lawfully celebrate divine service there: I do signify unto you that, upon due examination of the manner and circumstance thereof, I do find therein no lawful impediment whereby you may have cause to abstain from your said divine service, but that you may exercise the same as it hath been heretofore accustomed; which I will and command you to do, this said chance notwithstanding. Thus fare you well. At Ford, the 11 day of November. [1537.]
 
-**T.** CANTUARIEN’.
+## **T.** Cantuarien’
 
 To my wellbéloved doctor Snede, vicar of Rye,
 
@@ -561,4 +560,3 @@ good lord, my lord privy seal.
 
 ---
 [[Cranmer MW 34 Letters CLXXVIII–CXCIV|← 34. Letters CLXXVIII–CXCIV]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 36 Letters CCXVII–CCXLII|36. Letters CCXVII–CCXLII →]]
-

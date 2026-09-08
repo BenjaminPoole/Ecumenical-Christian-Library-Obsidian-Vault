@@ -31,3 +31,4 @@ The letter is undated; nevertheless it contains some evidence of time. The last 
 ---
 [[Hus Letter 68 Letter LXVII. To the father|← 68. Letter LXVII. To the father]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 70 Letter LXIX. To his Friends in Constance (After June|70. Letter LXIX. To his Friends in →]]
 
+

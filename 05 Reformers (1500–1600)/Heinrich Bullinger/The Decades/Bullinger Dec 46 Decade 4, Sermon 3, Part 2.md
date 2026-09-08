@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 46. Decade 4, Sermon 3, Part 2
 
 selves, but that which from the beginning even till then the ecclesiastical tradition taught, and prudent Christians did evidently set forth.” And so forth. 2
@@ -188,10 +187,9 @@ trinity of the almighty God? He of old among the Israelites was stricken through
 
 God grant that we may truly know, and religiously worship, the high, excellent, and mighty God, even so, and such, as himself? is. For hitherto I have, as simply, sincerely, and briefly as I could, discoursed of the ways and means how to know God, which is in substance one, and three in persons: and yet we acknowledge and do freely confess, that in all this treatise hitherto there is nothing spoken worthy of or comparable to his unspeakable majesty. For the eternal, excellent, and mighty God is greater than all majesty, and than all the eloquence of all men; so far am I from thinking that I by my words do in one jot come near unto his excellency. But I do humbly beseech the most merciful Lord, that he will vouchsafe of his inestimable goodness and liberality to enlighten in us all the understanding of our minds with sufficient knowledge of his name, through Jesus Christ our Lord and Saviour. Amen.
 
-THAT GOD IS THE CREATOR OF ALL THINGS, AND
+## That God Is the Creator of All Things, And
 
-GOVERNETH ALL THINGS BY HIS PROVIDENCE:
+## Governeth All Things by His Providence
 
 ---
 [[Bullinger Dec 45 Decade 4, Sermon 3, Part 1|← 45. Decade 4, Sermon 3, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 47 Decade 4, Sermon 4|47. Decade 4, Sermon 4 →]]
-

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 13. I. A Treatise of John Wycliffe against the Orders of Friars
 
 [Quantum sufficit ut malignum quemcunque in conventu suo deducat ad nihilum.]
@@ -19,7 +18,7 @@ tags:
 
 The following Treatise Against the Orders of Begging Friars,” and the next, intitled "A Complaint to the King and Parliament,” were printed in Oxford in 1608, edited by Dr. James; and they are now reprinted from that volume
 
-AGAINST THE ORDERS OF FRIARS.
+## Against the Orders of Friars
 
 ## Chapter I. Friars' Orders Perfecter Than Christ's
 
@@ -49,7 +48,7 @@ Also friars say, that if a man be once professed to their religion, he may never
 
 ## Chapter
 
-NO PREACHING WITHOUT LICENCE OF THEIR SOVEREIGN, HOW BAD SOEVER.
+## No Preaching without Licence of Their Sovereign, How Bad Soever
 
 Also friars say, if a man be professed to their holy order, he shall not preach freely and generally the Gospel of Christian men, without licence of his sovereign, for virtue of obedience, be his sovereign never so cursed a man of life, and uncunning of God's law, and enemy to Christian men's souls, and, in case, a foul devil of hell; though this man professed having received of God never so much cunning of God's law, and power, and will to work after this cunning—and so this man shall needs be damned for misspending of God's treasure. For since God's law says, that he is out of charity that helps not his brother with bodily alms, if he may be in his need; much more is he out of charity that
 
@@ -67,7 +66,7 @@ livehode.? And the same teaches Benet to his monks, and S. Bernard to his friars
 
 ## Chapter
 
-FRIARS DRAW ALL ALMS FROM POOR AND NEEDY MEN, TO MAINTENANCE OF
+## Friars Draw All Alms from Poor and Needy Men, to Maintenance Of
 
 ## Their Sinful and Superfluous Order
 
@@ -75,13 +74,13 @@ Also friars say, that it is needful to leave the commandment of Christ, of givin
 
 [living. LI must. hinder or prevent.]
 
-**CHAPTER VII.** TRADITIONS OF FRIARS PREFERRED BEFORE CHRIST'S COMMANDMENTS.
+## **Chapter VII.** Traditions of Friars Preferred Before Christ's Commandments
 
 Also friars charge more breaking of their own traditions, than the breaking of the commandments of God. For a friar shall more be punished for breaking of one of them, than for breaking of God's hests. For breaking of God's hests is not charged of them, and in this they show how they love their own worship more than God's, and thus they take to themselves the worship that is appropriate to God, and so be blasphemers and heretics, and so they charge more their bodily habit than charity and other virtues. For if a friar leave bodily habit to the which he is not bound by God's law, he is holden apostate, and sharply pursued, sometime to prison, and sometime to the death, although he serve better God without his habit, than therein: but though he trespass against charity by impatiency, and false leasings, or pride, or covetousness, it is little or nought charged; but rather praised, if it bring them worldly muck.
 
 ## Chapter VIII
 
-FRIARS GREAT HYPOCRITES, AS POOR AS CHRIST IN SHOW, AS SUMPTUOUS AS
+## Friars Great Hypocrites, as Poor as Christ in Show, as Sumptuous As
 
 ## Lords and Prelates in Deed
 
@@ -93,7 +92,7 @@ Also friars feign them as hypocrites, to keep straitly the Gospel and poverty of
 
 ## Chapter
 
-THEIR STEALING OF CHILDREN AND ENTICING OF THEM TO THEIR ORDER.
+## Their Stealing of Children and Enticing of Them to Their Order
 
 Also friars draw children from Christ's religion into their private order, by hypocrisy, leasings, and stealing. For they tell that their order is more holy than any other, and that they shall have higher degree in bliss, than other men that be not therein, and say that men of ' their order shall never come to hell, but shall deem other men with Christ at dooms-day: and so they steal children from father and mother, sometimes such as be unable to the order, and sometimes such as should sustain their father and mother by commandment of God. And thus they be blasphemers, taking upon them full counsel in doutouse^ things, that be not expressly commanded nor forbidden in Holy Writ; since such counsel is appropried? to the Holy Ghost. And thus they be therefore curaed of God, as the Pharisees were cursed of Christ, to whom he says thus: Woe be to you, scribes and Pharisees, that be writers of law, and men of singular religion, that compass about the water and the land to make a man of your religion, and when he is made of your religion, ye make him double more a child of hell. And since he that steals an ox or a cow is damnable by God's law and man's also: much more he that steals a man's child, that is better than all earthly goods, and draws him to the less perfect order. And though this singular order were more perfect than Christ's, yet he wrote never whether it be to damnation of the child, for he wot not to what state God hath ordained him, and so blindly they did against Christ's ordinance.
 
@@ -101,7 +100,7 @@ Also friars draw children from Christ's religion into their private order, by hy
 
 [Judge. 7 doubtful. 4 appropriated.]
 
-AGAINST THE ORDERS OF FRIARS. R27
+## Against the Orders of Friars. R27
 
 ## Chapter Curates Defrauded of Their Duties by Means of Friars
 
@@ -109,7 +108,7 @@ Also friars, for pride and covetousness, draw from curates their office and sacr
 
 ## Chapter
 
-FRIARS COME IN UNDER THE NAME OF SAINTS, AND FORSAKE THE RULE.
+## Friars Come in Under the Name of Saints, and Forsake the Rule
 
 Also friars come in under the name of saints, and forsake the saints’ rule, and live and put their own errors to the saints; and so slander both them and God. For if men speak of Francis, he used and taught much meekness, poverty, and penance: and Minors now use the contrary. For they make statutes of their own will, and them they keep fast, and make men to ween that Francis made them. But preachers say that Dominic founded them, and then he kept Austin's rule, since he was a canon before; for else he was apostate, if Austin's rule were good.
 
@@ -129,7 +128,7 @@ Also capped friars, that be called masters of divinity, have their chamber and s
 
 ## Chapter XIV
 
-GREAT FLATTERERS OF THE PEOPLE, NEITHER REPROVING NOR REMOVING
+## Great Flatterers of the People, Neither Reproving nor Removing
 
 ## Their Sins from Among Them
 
@@ -139,7 +138,7 @@ take this office, and do it not, they be cause of damnation of the people. For i
 
 ## Chapter
 
-HOW MUCH AND HOW OFT THEY DECEIVE AND COZEN THE LAY PEOPLE BY
+## How Much and How Oft They Deceive and Cozen the Lay People By
 
 ## Their Letters of Fraternity
 
@@ -151,7 +150,7 @@ appropriate to God, and so they be blasphemers; for they pass bishops, popes, an
 
 ## Chapter XVI
 
-FRIARS PERVERT THE RIGHT FAITH OF THE SACRAMENT OF THE ALTAR, BY
+## Friars Pervert the Right Faith of the Sacrament of the Altar, By
 
 ## Making It to Be an Accident Without Subject
 
@@ -163,7 +162,7 @@ The bread that we break is the communication of the Lord's body; and St. Austin 
 
 ## Chapter XVII
 
-THEIR EXCESS IN BUILDING OF GREAT CHURCHES AND COSTLY HOUSES AND
+## Their Excess in Building of Great Churches and Costly Houses And
 
 ## Cloisters
 
@@ -193,7 +192,7 @@ Also friars praise more their rotten habit, than the worshipful body of our Lord
 
 ## Chapter XXI
 
-FBIARS BEG WITHOUT NEED, WHEN THE POOR WANT, WITHOUT REMORSE.
+## Fbiars Beg without Need, When the Poor Want, without Remorse
 
 Also friare beg without need for their own rich sect, and not for their poor bed-ridden men that may not go and have no man to send for their lifelode; but rather draw rich men's alms from such poor men. And therefore charity is outlawed among them, and so is God: and leasings,4 and covetousness and fiends be inhabited among them; for they deceive men in their alms to make costly houses, not to harbour poor men, but lords and mighty men; and teach men to suffer God's temple, that be health. 5 certainly. livelihood or living. 4 lies.
 
@@ -201,7 +200,7 @@ poor men, to perish for default; and thus they be traitors to God, and his rich 
 
 ## Chapter XXII
 
-FRIARS REPROVE NOT THEIR BRETHREN AS THE GOSPEL WILLETH, BUT AS
+## Friars Reprove Not Their Brethren as the Gospel Willeth, but As
 
 ## Themselves Will
 
@@ -211,7 +210,7 @@ Friars also keep not correption of the Gospel against their brethren that trespa
 
 ## Chapter XXIII
 
-FRIARS LAWLESS BEGGING THE KING AND THE MIGHTY ONES OF THE LAND TO MAINTAIN THEIR SECT, BEGGING THEIR ALMS, AND BEGGARING THE WHOLE LAND.
+## Friars Lawless Begging the King and the Mighty Ones of the Land to Maintain Their Sect, Begging Their Alms, and Beggaring the Whole Land
 
 Also friars make our land lawless; for they lead clerks and namely rule prelates, and lords, and ladies, and commons also; and they be not ruled by God's law, nor laws of the church, nor laws of the king. For they gloze God's law as they like, and be exempt from bishops and other ordinaries, and lead the bishops of Rome as they like. And men say they be not liege men to the king, nor subject to his laws. For though they steal men's children, it is said there goes no law upon them, and that seems well; for they rob the king'sliege men by false begging of sixty thousand marks by year, as men doubt reasonably, and yet they be not punished therefore. And the lawless friars, by their false ruling, make our land lawless; for they let clerks, lords, and commons, to know the truth of Holy Writ, and make them to pursue true men to the death, for they teach the commandments of God, and cry to the people the foul sins of false friars. And thus falseness is maintained, and false men be raised to great estates, and truth is put on back, and true men be pursued, yea to prisoning, to loss of all their goods, and to sharp judgment, for as much as they would destroy sin that was openly and cursedly done, and in point for to foredo our land. And of this ruling be friars most guilty, for they lead prelates, lords, and ladies, justices, and other men by confession, and tell them not speedily their sins. For if they tell them their sins, and they would not amend them, the friars that be their confessors should lead them up as Christ and Paul teach; but they do not thus, for then they should leese? winning and favour of the world. And thus for love of money and welfare of their body, they lead our land out of the law of God and all righteousness.
 
@@ -219,7 +218,7 @@ Also friars make our land lawless; for they lead clerks and namely rule prelates
 
 ## Chapter XXIV
 
-FRIARS NO PEACE-MAKERS, BUT MAKE-BATES, STRIVERS THEMSELVES, AND
+## Friars No Peace-Makers, but Make-Bates, Strivers Themselves, And
 
 ## Stirrers Up of Others to Wars and Dissensions
 
@@ -227,7 +226,7 @@ Also friars be irregular procurators of the fiend, to make and maintain wars on 
 
 [following. Jose. help. 4 true or well. truth or certainty. / hinder. lies or pretences. 4 certainly.! hindering.]
 
-CHAPTER XXV.
+## Chapter XXV
 
 ## Judas's Children Selling Christ, and All for Money
 
@@ -247,13 +246,13 @@ Also friars be most rebel against the teaching of Christ's Gospel, and most out 
 
 ## Chapter XXVIII
 
-THE HOLY SCRIPTURES ACCUSED BY THESE UNHOLY MEN OF FALSEHOOD.
+## The Holy Scriptures Accused by These Unholy Men of Falsehood
 
 Also friars teach and maintain, that Holy Writ is false; and so they put falseness upon our Lord Jesus Christ, and on the Holy Ghost, and on all the blessed Trinity. For since God Almighty taught, confirms, and maintains Holy Writ, if this writing be false, then God is false, and maintainer of error and falseness; but certes" then he is no God: yet know we never that any sect would say that laws of their God were false, and therewith believe on the same God: but this despite do these blasphemers to the Holy Trinity. Alas! who may suffer this blasphemy, that Christ, in whom is all treasure of wit, wisdom, and truth, could not, or would not, say true words and sentence; but sinful fools have true manner of speaking, contrary to the speech of our Lord Jesus Christ? For if this be, sinful fools, yea in case devils of hell, be wiser and truer than is Jesus Christ. And when this cursed ground is sought, it stands in this error,—For I am master of vanity and of heresy, misunderstand the words of God, therefore they be false. - But these heretics should know, that it sues of their cursed ground, that God is the most false thing in earth or heaven or in hell! Why? for men falsely understand most falseness of him. And thus might each pagan or Saracen make our God false, as he liked. But why say they that Holy Writ is false? for they be wont so much to leasings^ and falseness, that they take falseness for truth. As men say, a man may so long be nourished little and little by venom, that he weens it be wholesome, meet, and good. Also Holy Writ damns their foul hypocrisy, begging covetousness, and other sins, and therefore they say that it is false, to colour by their falseness. Also Holy Writ praises much Christ's religion, and tells how new sects, full of hypocrisy and covetousness, shall come and deceive Christian men, and bids them know them by their covetousness and hypocrisy; and therefore they say, as Satan’s clerks, that Holy Writ is false.
 
 ## certainly. follows. lies. 4 supposes
 
-242 A TREATISE OF JOHN WYCLIFFE
+## 242 a Treatise of John Wycliffe
 
 ## Chapter XXIX. How Strongly Wedded to Their Rotten Habit
 
@@ -261,7 +260,7 @@ Friars also be stronglier wedded with their rotten habit against the freedom of 
 
 ## Chapter XXX
 
-THE POPE'S DISPENSATION, OR COMMANDMENT OF THE SUPERIOR, MORE
+## The Pope's Dispensation, or Commandment of the Superior, More
 
 ## Regarded Than Christ's Commandment
 
@@ -273,7 +272,7 @@ AGAINST THE ORDERS OF FRIARS. R43 freedom of the Gospel, and live thereafter as 
 
 ## Chapter XXXI
 
-THEIR USURY, SIMONY, COVETOUSNESS, EXTORTION, RAPINE, AND THEFT.
+## Their Usury, Simony, Covetousness, Extortion, Rapine, and Theft
 
 Also friars be receit"^ and a swallow of simony, of usury, of extortions, of ravines and of theft, and a nest or hoard of mammon's treasure. For though men live in simony, they will not counsel them, and charge them in shrift^ to resign their benefice, but comfort them to hold it still, and bring them much dirt thereof, and they will undertake for their sin. And so of usurers they charge them not speedily to make restitution, but rather colour this sin to be partner of this winning; and 80 of other robbery, they receive it privily, and so maintain and colour thefts in their theft, where other liege men should be punished therefore, and so they be more covetous than the wicked Jews that bought Christ; for they would not take the money of Judas and do it to their money nor treasure, for it, was the price of Christ's blood; for Christ was sold and trayed to death for that money. But friars will receive money gotten by as great sins or more, to make great houses and great feasts to lords, and not buy a field to bury in pilgrims as the Jews did; but rather lay it up in their treasure, to meintain wrongs against their curates and other poor men, by false plea at Rome, and merchandise in England.
 
@@ -285,7 +284,7 @@ Friars also cry loud that poor priests be heretics; for they teach by God's law 
 
 ## Chapter XXXIII
 
-FRIARS LIKE THIEVES COMING INTO THE CHURCH BY THE WINDOW, NOT BY
+## Friars Like Thieves Coming into the Church by the Window, Not By
 
 ## The Door
 
@@ -295,7 +294,7 @@ Also friars be thieves, both night thieves and day thieves, entering into the ch
 
 meekly the worship of God, and profit of Christian men's souls; and this thing they must do, if they come in by Christ; but they choose, and find a new order less perfect and profitable, than is that that Christ made himself; and so they make division in priesthood against the commandment of God; and since they be not grounded on Christ and his law, they must needs be drawn up, and the ordinance of Christ must stand in his cleanness and perfection.
 
-CHAPTER XXXIV.
+## Chapter XXXIV
 
 ## Bind Their Novices to Impossible Things
 
@@ -325,15 +324,15 @@ Friars also be worse enemies, and slayers of men's soul, than is the cruel fiend
 
 ## Chapter XXXVIII
 
-THEY PERSUADE MEN TO RECKON MORE OF THEIR ANATHEMAS, THAN OF
+## They Persuade Men to Reckon More of Their Anathemas, than Of
 
-**GOD'S CURSE.** '
+## **God's Curse.** '
 
 Also friars lead, and nourish our prelates, our lords and commons, in great blasphemy against God. For they teach all this people to reck ^ less of the most rightful curse of God, than by the wrong curse of sinful man, though he be a damned devil; for they call the curse of God, the less curse; and the curse of sinful man, the more curse. For though a man be never so cursed of God for pride, envy, covetousness, or avowtery, or any other, this is not charged, nor pursued, neither of prelate, nor lord, nor commons; but if a man withstand once the citation of a sinful prelate, yea, after the commandment of God, then he shall be cursed, and prisoned, after forty days; and all men shall go upon him, though they may be pursued for truth of the Gospel, and be blessed of God. And thus sinful men's doom,^ and in case of the fiends, is more dread and magnified, than is the rightful doom^ of God Almighty.
 
 ## Chapter XXXIX
 
-FRIARS' HERESY IN AFFIRMING THE WICKED TO BE MEMBERS OF CHRIST'S
+## Friars' Heresy in Affirming the Wicked to Be Members of Christ's
 
 ## Church
 
@@ -345,7 +344,7 @@ all men and women in earth, or in purgatory, that shall be saved, and no more. F
 
 ## Chapter
 
-ARROGATING UNTO THEMSELVES GLORY DUE UNTO OTHER MEN, AND SOMETIMES
+## Arrogating unto Themselves Glory Due unto Other Men, and Sometimes
 
 ## Unto God Himself
 
@@ -359,7 +358,7 @@ Friars yet highen, yet falsely, themselves above Christ. For where Christ bids t
 
 ## Chapter XLII
 
-CHRIST'S RULE NO SUFFICIENT WARRANT FOR THEM TO BE RULED RY.
+## Christ's Rule No Sufficient Warrant for Them to Be Ruled Ry
 
 Also friars falsely enhance themselves above Christ and his apostles. For they will not be payed” with Christ's rule in the Gospel to teach truly the Gospel, and have meat and drink freely of a good man and devout to God, nor be assayed? with food and hylling^ as Christ and his apostles were, but they rob curates of their office and ghostly worship,, and let? them to know God's law, by holding books from them, and withdrawing of their vantages, by which they should have books and learn. And also they rob lords of their rents, and some by more hypocrisy take free annual rents of lords’ coffers, and they rob the commons of their lifelode? by hypocrisy and false begging, damned by God's law. And thus at the beginning they feign them most poor of all clerks, but at the last they pass all other in great houses, and costly libraries, and great feasts, and many other prides and covetousnesses,
 
@@ -401,7 +400,7 @@ Friars also show and witness in themselves Antichrist's miracles, right as Lazar
 
 ## adulterers. plead
 
-R54 A TREATISE OF JOHN WYCLIFFE
+## R54 a Treatise of John Wycliffe
 
 ## Chapter XLVIII. Spiritual Impurity of Friars
 
@@ -415,7 +414,7 @@ Friars also be most privy and subtle procurators of simony and foul winning and 
 
 ## Chapter
 
-FRIARS MOST PERILOUS ENEMIES TO HOLY CHURCH AND TO ALL OUR LAND.
+## Friars Most Perilous Enemies to Holy Church and to All Our Land
 
 Yet friars be most perilous enemies to holy church and all our land; for they let curates of their office, and spend commonly and needless sixty thousand marks by year, that they rob falsely of the poor people. For if curates did their office in good life and true preaching as they be holden upon pain of damning in hell, there were clerks enough of bishops, parsons, and other priests; and in case over money to the people; and yet not two hundred years agone, there was no friar, and then was our land plenteous of cattle and men, and they were then stronger of complexion to labour than now, and then were clerks enough. And now be many thousand of friars in England, and the old curates stand still unamended, and among all sin is more increased, and the people charged by sixty thousand marks by year, and therefore it must needs fail, and so friars suffer curates to live in sin so that they may rob the people and live in their lusts. For if curates did well their office, friars were superfluous, and our land should be discharged of many thousand marks, and then the people should better pay their rents to lords, and dimes and offerings to curates, and much flattering and nourishing of sin should be destroyed, and good life and peace and charity should reign among Christian men: and so when all the ground is sought friars say thus indeed, Let old curates wax rotten in sin, and let them not do their office by God's law, and we will live in lusts so long, and waste vainly and needlessly sixty thousand marks by year of the poor commons of the land, and so at the last make dissension between them, and their children for dimes and offerings that we will get privily to us by hypocrisy, and make dissension between lords and their commons. For we will maintain lords to live in their lusts, extortions, and other sins, and the commons in covetousness, lechery, and other deceits, with false swearing and many guiles. And also the curates in their damnation for leaving of their ghostly office, and so be procurators of the fiend, for to draw all men to hell; thus they do indeed, however they feign in hypocrisy of pleasing of words.
 
@@ -429,4 +428,3 @@ God for his endless mercy and charity make very peace and charity among Christia
 
 ---
 [[Wycliffe TT 12 The Trialogus Chapters Translated from the Fourth Book|← 12. The Trialogus Chapters Translated from]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 14 II. A Complaint of John Wycliffe, Exhibited to the King|14. II. A Complaint of John Wycliffe →]]
-

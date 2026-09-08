@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 19. Decade 2, Sermon 7
 
 ## And Whether He May Make Laws and Ordinances in Cases of Religion. The Seventh Sermon
@@ -296,12 +295,11 @@ I am now again compelled to end my Sermon before the matter be finished. That wh
 
 [[2.4 Tim. 3.1, 2.)]
 
-OF JUDGMENT, AND THE OFFICE OF TIE JUDGE; THAT CHRISTIANS ARE NOT FORBIDDEN TO JUDGE: OF
+## Of Judgment, and the Office of Tie Judge; That Christians Are Not Forbidden to Judge: Of
 
-REVENGEMENT AND PUNISHMENT: WHETHER
+## Revengement and Punishment: Whether
 
 ## It Be Lawful for a Magistrate to Kill the Guilty: Wherefore, When, How, and What the Magistrate Must Punish: Whether He May Punish Offenders in Religion or No. The Eighth Sermon
 
 ---
 [[Bullinger Dec 18 Decade 2, Sermon 6|← 18. Decade 2, Sermon 6]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 20 Decade 2, Sermon 8|20. Decade 2, Sermon 8 →]]
-

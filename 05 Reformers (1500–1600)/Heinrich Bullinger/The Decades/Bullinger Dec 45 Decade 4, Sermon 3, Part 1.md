@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 45. Decade 4, Sermon 3, Part 1
 
 ## The Other Eight Sermons of the Fourth Decade, Written by Henry Bullinger. Of God; of the True Knowledge of God, and of the Diverse Ways How to Know Him; That God Is One in Substance, and Three in Persons. The Third Sermon
@@ -350,7 +349,7 @@ Now let us see how God (according to his promise made) did exhibit himself to be
 
 10
 
-[BULLINGER, IIL]
+## [Bullinger, IIL]
 
 hidden, the figure of God, that is, the shape of a man which God took upon him, did pass by before him: and when as now the back of the figure was toward Moses, so that he could no more see the face thereof, the Lord took his hand away, and Moses beheld the hinder parts of the same’. Whereby he gathered that God should once, that is to say, in the hinder times of the world, be incarnate and? revealed to the world. Of which revelation we will hereafter speak somewhat more. And when the Lord was once gone past, he cried, and as his promise was, so in a certain catalogue he reckoned up his names, whereby, as in a shadow, he did declare his nature. For he said, Jehovah, Jehovah, God, merciful and gracious, long-suffering, and abounding in goodness and truth; keeping mercy in store for thousands, forgiving wickedness, transgression, and sin: and yet not suffering the wicked to escape unpunished, visiting the wickedness of the fathers upon the children and children’s children, unto the third and fourth generation.” What else is this than if he What God is. had said “1 am the uncreated essence, being of myself from before all beginning, which giveth being to all things, and keepeth all things in being; I am a strong and almighty God; I do not abuse my might, for I am gentle and merciful; I love my creatures, and man especially, on whom I do wholly yearn in the bowels of love and mercy; I am rich and bountiful, and ready at all times to help my creatures; I do freely, without recompence, give all that I bestow; I am long-suffering, and not irritable to anger, and hasty to revenge, as mankind is; I am no niggard or envious, as wealthy men in the world are wont to be; I am most liberal and bountiful, rejoicing to be divided among my people, and to heap up benefits upon the faithful: Moreover, I am true and faithful; I deceive no man, I lie in nothing; what 1 promise, that I stand to, and faithfully perform it: Neither do I nor can I so waste my riches3, that all at length is spent, and I myself drawn dry; for I keep good turns in store for a thousand generations, so that although the former age did live never so wealthily with my riches, yet they that come and are born even until the very end of the world shall nevertheless find in me so much as shall suffice
 
@@ -476,4 +475,3 @@ Basilius Magnus wrote a learned epistle to his brother Gregory about the differe
 
 ---
 [[Bullinger Dec 44 Decade 4, Sermon 2, Part 2|← 44. Decade 4, Sermon 2, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 46 Decade 4, Sermon 3, Part 2|46. Decade 4, Sermon 3, Part 2 →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 18. Decade 2, Sermon 6
 
 ## Commandments, Thou Shalt Not Kill: And of the Magistrate. The Sixth Sermon
@@ -84,7 +83,7 @@ But now, how foul and detestable an offence murder is, that proceedeth of malice
 
 20
 
-**[BULLINGER.** ]
+## **[Bullinger.** ]
 
 Do not thou cruelly destroy the image of God. Thou angerest thy Maker, when thou killest his image. Consider with thyself, that thou art sorry for an image of brass. Now it is evident to all men what difference there is betwixt a thing that is dead, and that which hath life and a reasonable soul. Moreover, it is an easy matter instead of one brasen image to set up more: but it is unpossible to restore one hair to them that once are slain.” Finally, murder is clean contrary to the nature of man. For man cherisheth himself, and flesh destroyeth not itself, but preserveth and nourisheth itself so much as it may. But all we men, as many as live, are of one lump, and of the same substantial flesh: and to kill a man therefore is against man’s nature. Furthermore, all men are the children of one father, of one stock, and of the same progeny: murder therefore is directly against civil humanity, and is a plague that reigns among men. And doth not the Lord our Redeemer also require charity of all men, which must so abound, that we may not stick to die for our neighbour? To kill our neighbour, therefore, is flatly repugnant to christian religion. And take this by the way too; that the blood of man, shed by murder, crieth out of the earth to heaven for revengement: for to Cain, when he had slain his brother, it was said, “The voice of thy brother’s blood crieth out of the
 
@@ -316,10 +315,9 @@ The rest that is yet behind to be spoken touching the magistrate I mean to defer
 
 [1 a Deo inventum atque traditum, Lat. ]]
 
-OF THE OFFICE OF THE MAGISTRATE? WHETHER THE CARE OF RELIGION APPERTAIN TO HIM OR NO,
+## Of the Office of the Magistrate? Whether the Care of Religion Appertain to Him or No
 
 ## And Whether He May Make Laws and Ordinances in Cases of Religion. The Seventh Sermon
 
 ---
 [[Bullinger Dec 17 Decade 2, Sermon 5|← 17. Decade 2, Sermon 5]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 19 Decade 2, Sermon 7|19. Decade 2, Sermon 7 →]]
-

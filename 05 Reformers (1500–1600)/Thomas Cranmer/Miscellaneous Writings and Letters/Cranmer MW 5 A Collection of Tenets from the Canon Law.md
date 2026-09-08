@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 5. A Collection of Tenets from the Canon Law
 
 testament and the new; which is able sufficiently to instruct thee in all
@@ -28,8 +27,6 @@ Dist. 22. Omnes". De Major. et obedient.: Solite?. — Extrav. De majorit. et ob
 Hx that knowledgeth not himself to be under the bishop of Rome, and that the Hist bishop of Rome is ordained by God to have primacy over all the world, is an heretic, Book and cannot be saved, nor is not of the flock of Christ.
 
 **Dist.** 10. De sententia. excommunicationis: Noverit". 25. q. 1: Omne".
-
-829.
 
 Princes laws, if they be against the canons and decrees of the bishop of Rome, be of no force nor strength.
 
@@ -423,5 +420,3 @@ A penitent man can bave no remission of his sins, but by supplication of the pri
 
 ---
 [[Cranmer MW 4 A Confutation of Unwritten Verities, Part 3|← 4. A Confutation of Unwritten Verities]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 6 Substance of a Speech on the Authority of the Pope and|6. Substance of a Speech on the Authority →]]
-
-

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 29. Letters I–XIV
 
 ## I. To the Right Honourable, and My Singular Good Lord, My Lord of Wiltshire?
@@ -487,7 +486,7 @@ graces most honourable council.
 
 [[ Demore: sojourn, dwell. Lat. demoror.] [ CRANMER, 11. ] i]
 
-**XI.** TO KING HENRY VIII. WR RES
+## **XI.** to King Henry VIII. Wr Res
 
 PLease it your highness to be advertised, that your grace’s great matter is now Drought to a final sentence, to be given upon Friday now next ensuing. And because He every day in the next week! shall be ferial, except Friday and Saturday, therefore I cannot assign any shorter time ad audiendam sententiam, than in the said Friday: at which time I trust so to endeavour myself further in this behalf, as shall become me to do, to the pleasure of Almighty God, and the mere truth of the matter. From Dunstable, the 17th of May, [1533.]
 
@@ -749,4 +748,3 @@ Other news have we none notable, but that one Fryth?, which was in the Tower in 
 
 ---
 [[Cranmer MW 28 Appeal at His Degradation|← 28. Appeal at His Degradation]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 30 Letters XV–LXXVI|30. Letters XV–LXXVI →]]
-

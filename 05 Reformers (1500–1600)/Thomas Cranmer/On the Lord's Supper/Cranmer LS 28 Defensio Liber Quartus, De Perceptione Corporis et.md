@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 28. Defensio: Liber Quartus, De Perceptione Corporis et Sanguinis Christi
 
 corporali et naturali presentia Christi in sacramento, satis (ut arbitror)
 
 ## confutati sint, (quz duo pracipuis erant, qua nobis in hoc opere proposuimus;) tempus esse videtur, tertio errore papistarum, qui vera manducalione potatione est corporis sanguinis Christi, verba faciamus
 
-[FINIS LIBRI TERTII.]
+## [Finis Libri Tertii.]
 
 ## Liber Quartus. Perceptione Corporis Sanguinis Christi in Sacramento. Caput Primum
 
@@ -195,7 +194,7 @@ CAPUT XI EXHORTATIO AD VERAM CHRISTI IN SACRAMENTO VENERATIONEM. Onwzs itaque ad
 
 et sanguinem Christi percipere.!
 
-[LIBRI QUARTI FINIS. ]]
+## [Libri Quarti Finis. ]]
 
 ## Liber Quintus
 
@@ -205,4 +204,3 @@ y DE OBLATIONE ET SACRIFICIO SERVATORIS
 
 ---
 [[Cranmer LS 27 Defensio Liber Tertius, De Praesentia Christi in|← 27. Defensio Liber Tertius, De Praesentia]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 29 Defensio Liber Quintus, De Sacrificio|29. Defensio Liber Quintus, De Sacrificio →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 12. Decade 1, Sermon 10
 
 ## The Tenth Sermon
@@ -156,10 +155,9 @@ Jesus; who, being in the form of God, thought it no robbery to be equal with God
 
 **[2 Phil.** ii. 1—11.]
 
-[THE END OF THE FIRST DECADE OF SERMONS.]
+## [The End of the First Decade of Sermons.]
 
 ## The Second Decade of Sermons, Written by Henry Bullinger. Of Laws, and of the Law of Nature, Then of the Laws of Men. The First Sermon
 
 ---
 [[Bullinger Dec 11 Decade 1, Sermon 9|← 11. Decade 1, Sermon 9]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 13 Decade 2, Sermon 1|13. Decade 2, Sermon 1 →]]
-

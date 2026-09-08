@@ -51,3 +51,4 @@ I should like to speak to the King at least once before I am condemned; for I ca
 ---
 [[Hus Letter 45 Letter XLIV. To John of Chlum|← 45. Letter XLIV. To John of Chlum]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 47 Letter XLVI. To his Friends at Constance (February 1415)|47. Letter XLVI. To his Friends at →]]
 
+

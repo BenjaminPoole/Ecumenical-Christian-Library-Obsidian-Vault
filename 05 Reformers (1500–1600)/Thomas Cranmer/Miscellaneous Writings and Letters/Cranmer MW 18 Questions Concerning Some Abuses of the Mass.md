@@ -10,14 +10,13 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 18. Questions Concerning Some Abuses of the Mass
 
-^ 1 TQ!
+*^ 1 Tq!*
 
-QUESTIONS
+## Questions
 
-PUT CONCERNING SOME ABUSES
+## Put Concerning Some Abuses
 
 ## With the Answers' That Were Made by Many Bishops and Quest. 1
 
@@ -99,4 +98,3 @@ When the reservation of the sacrament and the hanging up of The reservation of t
 
 ---
 [[Cranmer MW 17 Homily of Good Works Annexed unto Faith|← 17. Homily of Good Works Annexed unto Faith]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 19 Questions with Answers by the Bishops of Worcester|19. Questions with Answers by the Bishops →]]
-

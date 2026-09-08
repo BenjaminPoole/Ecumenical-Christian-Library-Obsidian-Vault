@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 28. Appeal at His Degradation
 
 ## Lappeal at his Degradation
@@ -59,8 +58,7 @@ This appeal being put up to the bishop of Ely, he said, My lord, our commission 
 
 [Prayer, Exhortation and Confession of Dr Cranmer this edition, pp. xxiii—xxix.]
 
-LETTERS: OF
+## Letters: Of
 
 ---
 [[Cranmer MW 27 Examination before Brokes, 1555|← 27. Examination before Brokes, 1555]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 29 Letters I–XIV|29. Letters I–XIV →]]
-

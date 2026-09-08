@@ -10,10 +10,9 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 11. Introductory Notice to the Exposition of Tracy's Testament
 
-THE TESTAMENT OF WILLIAM TRACY EXPOUNDED.
+*The Testament of William Tracy Expounded*
 
 ## [introductory Notice
 
@@ -33,4 +32,3 @@ Thou shalt understand, most dear reader, that after William Tyndale was so Judas
 
 ---
 [[Tyndale AM 10 The Supper of the Lord|← 10. The Supper of the Lord]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 12 The Testament of William Tracy, Esquire|12. The Testament of William Tracy, Esquire →]]
-

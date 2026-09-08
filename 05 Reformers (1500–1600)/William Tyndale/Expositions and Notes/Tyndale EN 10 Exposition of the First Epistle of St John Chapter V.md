@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 10. Exposition of the First Epistle of St John: Chapter V
 
 To love a man's neighbour in God is a sure rule to know that we love God: and not to love him is a sure token that we love not God; and to hate our neighbour is to hate God. For to love God is to do his commandments; as Christ saith, Ye are my lovers, if ye do those things which I have como manded you.” And the commandment is, to love our neighbours: then he that loveth not his neighbour loveth not God. And likewise to hate the commandment is to hate God that commanded it: and the commandment is to love our neighbours: he then that hateth his brother, whom God biddeth him love, hateth God.
@@ -43,7 +42,7 @@ Christ came with three witnesses, water, blood, and Spirit.
 
 He ordained the sacrament of baptism, to be his witness unto us. And he ordained the sacrament of his blood, to be his witness unto us. And he poureth his Spirit into the hearts of his, to testify and to make them feel that the testimony of two sacraments are true. And the testimony of these [4 So D., but P. C. L. has that when he had gotten him in, &c.]
 
-[TYNDALE, 11.] 14
+## [Tyndale, 11.] 14
 
 three is, as it after followeth, that we have everlasting life in the Son of God. And these three are one full witness; sufficient at the most that the law requireth, which saith two doc- or three, at the most, is one full sufficient witness. But, alas! we are not taught to take the sacraments for witnesses, but for image-service, and to offer! the work of them to Go with such a mind as the old heathen offered sacrifices of beasts unto their gods: so that whatsoever testifieth unto us that we have everlasting life in Christ, that mouth have they stopped with a leavened maunchet of their pharisaieal glosses. If we receive the witness of men, the witness of God is greater. For this is the witness that God hath borne of his Son.
 
@@ -159,8 +158,7 @@ v. 21.] FIRST EPISTLE OF ST JOHN. 225 "X caused half England to be slain up, and
 
 " This much I have said because of them that deceive you, to give you an occasion to judge the spirits. popish clergy with what he accounted the guilt of deposing Richard 11., and of transferring the crown to the house of Lancaster, when the hereditary right had devolved to the house of York.]
 
-[15 [TYNDALE, 1]]
+## [15 [Tyndale, 1]]
 
 ---
 [[Tyndale EN 9 Exposition of the First Epistle of St John Chapter IV|← 9. Exposition of the First Epistle of St]] · [[Library/protestant reformers/William Tyndale/Expositions and Notes/expositions-index|Contents]] · [[Tyndale EN 11 Marginal Notes on the First Twenty-One Chapters of St|11. Marginal Notes on the First Twenty-One →]]
-

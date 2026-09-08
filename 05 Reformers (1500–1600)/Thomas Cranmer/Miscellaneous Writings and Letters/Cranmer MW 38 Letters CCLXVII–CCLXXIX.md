@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 38. Letters CCLXVII–CCLXXIX
 
 ## CCLXVII. To Crumwell
@@ -399,7 +398,7 @@ Moreover, I most heartily thank your lordship for your wine, which I trust to re
 
 Your assured,:
 
-**T.** CANTUARIEN.
+## **T.** Cantuarien
 
 And as concerning my lady Baynton's request, you write that you are content that she shall have the college’, and not to meddle with Cobham hall: I pray, my lord, to send your mind herein to him that hath the ordering of that house and your affairs there; for
 
@@ -735,8 +734,7 @@ I beseech your majesty, that I may be a suitor unto the same for your cathedral 
 
 their lands daily, and, as it is said, by your majesty’s commandment. But this I am sure, that other men have gotten their best lands, and not your majesty. Wherefore this is mine only suit, that when your majesty's pleasure shall be to have any of their lands, that they may have some letter from your majesty to declare your majesty's pleasure, without the which they be sworn that they shall make no alienation; and that the same alienation be not made at other men's pleasures, but only to your majesty's use. For now every man that list to have any of their lands, makes suit to get it into your majesty's hands; not that your majesty should keep the same, but, by sale or gift from your majesty, to translate it from your grace's cathedral church unto themselves.
 
-**T.** CANTUARIEN.
+## **T.** Cantuarien
 
 ---
 [[Cranmer MW 37 Letters CCXLIII–CCLXVI|← 37. Letters CCXLIII–CCLXVI]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 39 Letters CCLXXX–CCXCVII|39. Letters CCLXXX–CCXCVII →]]
-

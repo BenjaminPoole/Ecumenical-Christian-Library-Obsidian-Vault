@@ -12,10 +12,6 @@ tags:
 
 # A SAINT INDEED
 
-A
-
-## SAINT INDEED
-
 *Keep thy heart with all diligence; for out of it are the issues of life*--Prov. iv. 23.
 
 The heart of man is his worst part before it be regenerate, and the best afterwards: it is the seat of principles, and fountain of actions. The eye of God is, and the eye of a Christian ought to be, principally fixed upon it.

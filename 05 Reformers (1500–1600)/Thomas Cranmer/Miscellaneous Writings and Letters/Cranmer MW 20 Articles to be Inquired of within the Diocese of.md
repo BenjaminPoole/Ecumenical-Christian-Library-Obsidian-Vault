@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 20. Articles to be Inquired of within the Diocese of Canterbury, 1548
 
-TO BE INQUIRED OF IN THE VISITATIONS TO BE HAD WITHIN THE DIOCESE OF CANTERBURY, IN THE SECOND YEAR OF THE REIGN
+*To Be Inquired of in the Visitations to Be Had within the Diocese of Canterbury, in the Second Year of the Reign*
 
-OF OUR DREAD SOVEREIGN LORD, EDWARD THE SIXTH, BY
+## Of Our Dread Sovereign Lord, Edward the Sixth, By
 
 ## The Grace of God King of England, France, and Ireland, Defender of the Faith, and in Earth of the Church of England, and Also of Ireland, the Supreme Head
 
@@ -249,4 +248,3 @@ Item, Whether you know any that keep in their houses undefaced any abused or fei
 
 ---
 [[Cranmer MW 19 Questions with Answers by the Bishops of Worcester|← 19. Questions with Answers by the Bishops]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 21 Articles of Inquiry, 1550|21. Articles of Inquiry, 1550 →]]
-

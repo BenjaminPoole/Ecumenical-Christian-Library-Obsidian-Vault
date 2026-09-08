@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - william-tyndale
 ---
-
 # 7. An Answer unto Sir Thomas More's Dialogue: To the Third Book
 
 [Scotus examines the question, Utrum beata virgo fuerit concepta in]
@@ -195,7 +194,7 @@ In the end of the second chapter he bringeth in Eutychus, that fell out at a win
 
 In the third chapter he saith, that “Bilney’s judges, (which he yet nameth not, for fear of slandering them) were indifferent.” Nay, they that take rewards be not indifferent: for rewards and gifts blind the eyes of the seeing, and pervert the words of the righteous" (Deut. xvi) Now all they that be shorn take great rewards to defend pilgrimages, purgatory, and praying unto saints: even the third part, I trow, of all Christendom. For all they have, they have received in the name of purgatory and of saints; and 10
 
-[TYNDALE, 111]
+## [Tyndale, 111]
 
 is on that foundation be all their bishopricks, abbeys, colleges, and cathedral churches built. If they be indifferent judges, they must be made servants, and do service as their duty is. And when they have done a quarter's service, then give them wages, as right is: unto every man that laboureth in Christ's harvest a sufficient living, and no more; and that in the name of his labour, and not of saints, and so forth. And then they shall be more indifferent judges, when there cometh no vantage to judge more on one side than another.
 
@@ -467,7 +466,7 @@ And what a number brought up idly, unto twenty and above, then put their heads i
 
 . Also some live chaste at twenty-four, which same burn at 11
 
-[TYNDALE, 111]
+## [Tyndale, 111]
 
 thirty. And that to be true, daily experience teacheth, and good natural causes there be.
 
@@ -627,4 +626,3 @@ Tyndale:—They be lawyers ordained of the pope, and can no more skill of the sc
 
 ---
 [[Tyndale AM 6 An Answer unto Sir Thomas More's Dialogue To the Second|← 6. An Answer unto Sir Thomas More's]] · [[Library/protestant reformers/William Tyndale/An Answer to Sir Thomas More/answer-index|Contents]] · [[Tyndale AM 8 An Answer unto Sir Thomas More's Dialogue To the Fourth|8. An Answer unto Sir Thomas More's →]]
-

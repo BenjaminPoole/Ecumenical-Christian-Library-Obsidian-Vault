@@ -109,3 +109,4 @@ to suffer, because the Saviour saith: Rejoice and be glad, because great is your
 ---
 [[Hus Letter 3 Letter II. To the Nuns of a Certain Convent|← 3. Letter II. To the Nuns of a Certain]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 5 Letter IV. To Master Zawissius (Autumn 1408)|5. Letter IV. To Master Zawissius (Autumn →]]
 
+

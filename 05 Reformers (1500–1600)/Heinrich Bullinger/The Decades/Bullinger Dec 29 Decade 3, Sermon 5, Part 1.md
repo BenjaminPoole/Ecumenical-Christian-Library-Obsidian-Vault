@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 29. Decade 3, Sermon 5, Part 1
 
 ## Pointed for the Ceremonies. The Fifth Sermon
@@ -84,7 +83,7 @@ into not all and every one, but the chiefest ceremonies, and those which are mor
 
 [6 rather, of the law that has been abrogated: legis abrogate, Lat. ] [6 temerarii, Lat. Shittle or shuttle; light, volatile, giddy. Richard-son’s Dict. in voe.]
 
-[BULLINGER, 11.
+## [Bullinger, 11
 
 and an excellent thing to construe Homer and Virgil allegorically; in divine ceremonies only foolish heads are persuaded that no profit or wisdom lieth secretly hidden: when indeed, in all the world again, there is nothing more profitable, more pleasant, more fine, more excellent, or more full of wisdom in allegorical types, than the ceremonies are that God hath ordained. For in them are the mysteries of Christ and his catholic church very finely, plainly, and notably described. of Now, in reckoning up and touching these several cere-... monies, I will chiefly follow the very natural order. Ceremonies do appertain to the ecclesiastical worship of God. Therefore it is necessary that there should be persons appointed in the church to be the masters, or rather public ministers, of those ceremonies, to exercise and put them in practice, as the Lord ordained them. It is necessary also, that there be a certain place and time appointed, wherein and when God should be especially worshipped rather than at another place or season. Moreover, the holy rites, that is, the very ceremonies, must be appointed and certainly numbered, that the worshippers of God may know what and how great the honour js that they are bound to give unto him. And first of all, I mean to say somewhat of the persons, that is, the priests or Levites; referring still the hearers to the reading of the holy Bible, wherein the whole is fully contained and largely described.
 
@@ -370,4 +369,3 @@ therefore is, to give man a time of recreation, and biddeth his servants to be m
 
 ---
 [[Bullinger Dec 28 Decade 3, Sermon 4|← 28. Decade 3, Sermon 4]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 30 Decade 3, Sermon 5, Part 2|30. Decade 3, Sermon 5, Part 2 →]]
-

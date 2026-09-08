@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 10. Book III. Of the Presence of Christ, Part 6
 
 What shall I say to this so manifest untruth, but that it confirmeth that I have in other observed, how there was never one of them that I have read writing against the sacrament, but hath in his writings said somewhat so evidently in the matter, or out of the matter, diserepant from truth, as might be a certain mark to judge the quality of his spirit?
@@ -329,7 +328,7 @@ Not that the bread and wine have or can have any holiness in them, but: - that t
 
 [Christi. Ambros. de Sacramentis, Lib. 1v. cap. iv. [5 Of Christ's own words, 1551, and Orig. ed.]]
 
-[: [CRANMER. ] 1]
+## [: [Cranmer. ] 1]
 
 or can be the body and blood of Christ, but that they represent the very body and blood of Christ, and the holy food and nourishment which we have by him. And so they be called by the names of the body and blood of Christ, as the sign, token, and figure is called by the name of the very thing which it sheweth and signifieth.
 
@@ -447,4 +446,3 @@ This author noteth in Chrysostom two places, and bringeth them forth: and in han
 
 ---
 [[Cranmer LS 9 Book III. Of the Presence of Christ, Part 5|← 9. Book III. Of the Presence of Christ]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 11 Book III. Of the Presence of Christ, Part 7|11. Book III. Of the Presence of Christ →]]
-

@@ -45,3 +45,4 @@ I notieed Baron Wenzel de Duba in tears while he was speaking to me. Lord Mysska
 ---
 [[Hus Letter 51 Letter L. To his Friends|← 51. Letter L. To his Friends]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 53 Letter LII. To the Same (March 24, 1415)|53. Letter LII. To the Same (March 24, 1415) →]]
 
+

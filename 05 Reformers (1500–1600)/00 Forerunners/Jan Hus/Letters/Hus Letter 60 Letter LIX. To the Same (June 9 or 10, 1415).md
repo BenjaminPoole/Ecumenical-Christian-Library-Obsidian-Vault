@@ -101,3 +101,4 @@ The following letter is dated by Palacky as written before the trial. The whole 
 ---
 [[Hus Letter 59 Letter LVIII. To the Same ( June 8, 1415)|← 59. Letter LVIII. To the Same ( June 8]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 61 Letter LX. To the Same (After June 8, 1415)|61. Letter LX. To the Same (After June 8 →]]
 
+

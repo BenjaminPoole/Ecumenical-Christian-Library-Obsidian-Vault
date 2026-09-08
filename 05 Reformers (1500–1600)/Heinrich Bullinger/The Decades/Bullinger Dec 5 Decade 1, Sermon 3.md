@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 5. Decade 1, Sermon 3
 
 ## The Third Sermon
@@ -124,10 +123,9 @@ Thus much hitherto have I said touching the sense and exposition of God’s word
 
 men and ages to lead their lives by: therefore ought it ν ΡΥ iiterpretation to be “applied to all ages and men of all ' sorts. For even our God himself did by Moses in many words expound and apply to his people the law, which he gave and published in Mount Sina. Furthermore, it was a solemn use among the ancient prophets first to read, and then by expositions to apply, God’s law to the people. Our Lord Jesus Christ himself expounded the scriptures. The same did the apostles also. "The word of God therefore \J ought to be expounded." As for those which would not have it expounded, their meaning is, because they would sin freely, without controlling or punishment. But whereas the scripture doth admit an exposition, it doth not yet admit any exposition whatsoever: for that which savoureth of man’s imagination it utterly rejecteth. For as by the Spirit of God the scripture was revealed, so by the same Spirit it is requisite to expound it. There are therefore certain rules to expound the word of God religiously by the very word of God itself: that is, so to expound it, that the exposition disagree not with the articles of our faith, nor be contrary to charity towards God and our neighbour; but that it be thoroughly surveyed, and grounded upon that which went before and followeth after, by diligent weighing of all the circumstances, and laying together of the places. And chiefly it is requisite, that the heart of the interpreter be godly bent, willing to plant virtue and pluck up vice by (the roots, and finally, always ready evermore to pray to the Lord, that he will vouchsafe to illuminate our minds, that God’s name may in all things be glorified. For his is the glory, honour, and dominion, for ever and ever. Amen.
 
-OF TRUE FAITH; FROM WHENCE IT COMETH; THAT IT IS AN ASSURED BELIEF OF THE MIND, WHOSE ONLY STAY IS UPON GOD AND HIS WORD.
+## Of True Faith; From Whence It Cometh; That It Is an Assured Belief of the Mind, Whose Only Stay Is upon God and His Word
 
 ## The Fourth Sermon
 
 ---
 [[Bullinger Dec 4 Decade 1, Sermon 2|← 4. Decade 1, Sermon 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 6 Decade 1, Sermon 4|6. Decade 1, Sermon 4 →]]
-

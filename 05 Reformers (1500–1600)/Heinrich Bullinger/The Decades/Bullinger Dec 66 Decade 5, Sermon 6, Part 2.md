@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 66. Decade 5, Sermon 6, Part 2
 
 oelists use the word of blessing or thanksgiving indifferently. For where Mark hath εὐλογήσας, that is to say, blessing,” Matthew, Luke, and Paul have εὐχαριστήσας, that is to say, “giving thanks;” which word Mark also using a little after writeth: “And when he had took the cup,” εὐχαριστήσας, that is, “when he had given thanks, he gave to them.” To bless therefore is, as the apostles themselves do interpret it, to give thanks, since that they put the one for the other. The diligent reader may sce them? also in that place of Paul, which is 1 Cor. x. cap.; which place we will fully and wholly entreat of in that which followeth. Our adversaries therefore have not as yet proved out of the scriptures, that to bless is as much as to change the things; or that by words, pronunciation or reciting of words, the things themselves signified are brought to, or made present3. The ancient writers, truly, made mention of a mystical blessing, but in a far other sense than these consecrators. Of true consecration we will speak anon; and will confute also in another place whatsoever things they have brought concerning blessing or consecrating of baptism. Now we will make an end of that which we began. Words of themselves were instituted of God to this end, to signify; and by signifying to bear witness, and to admonish: neither have they beside any hidden force to change the natures of things, or to cause the things themselves to be corporally present; neither do we read that holy men ever used them after this manner: therefore they sin and deceive men, which otherwise use them than they were instituted. Aurel. Augustine acknowledgeth? the very same thing, who in in. his Encliridion ad Laurent. Capit. 22, saith: “And verily fence words to this purpose are instituted, not that men should deceive one another by them, but by the which one might make another to know his meaning: therefore to use words unto deceit, and not to that end whereunto they were ordained, is sin.” The same Aurelius Augustinus, gathering a
@@ -440,10 +439,9 @@ teachers of the church, not to think that they ought therefore to speak obscurel
 
 THAT WE MUST REASON REVERENTLY OF SACRAMENTS; THAT THEY DO NOT GIVE GRACE? NEITHER HAVE GRACE INCLUDED IN THEM. AGAIN, WHAT THE VIRTUE AND LAWFUL END AND USE OF SACRAMENTS IS.
 
-THAT THEY PROFIT NOT WITHOUT FAITH;
+## That They Profit Not without Faith
 
 ## That They Are Not3 Superfluous to the Faithful; and That They Do Not Depend upon the Worthi-ness or Unworthiness of the Minister. The Seventh Sermon
 
 ---
 [[Bullinger Dec 65 Decade 5, Sermon 6, Part 1|← 65. Decade 5, Sermon 6, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 67 Decade 5, Sermon 7, Part 1|67. Decade 5, Sermon 7, Part 1 →]]
-

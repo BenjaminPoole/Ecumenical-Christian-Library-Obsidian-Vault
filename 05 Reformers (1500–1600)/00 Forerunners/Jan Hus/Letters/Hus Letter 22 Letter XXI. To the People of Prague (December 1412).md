@@ -53,3 +53,4 @@ conformed, would be glad in your love to see me a neighbour, so to speak, to you
 ---
 [[Hus Letter 21 Letter XX. To the Faithful Bohemians (December 1412)|← 21. Letter XX. To the Faithful Bohemians]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 23 Letter XXII. To the Same (December 25, 1412)|23. Letter XXII. To the Same (December 25 →]]
 
+

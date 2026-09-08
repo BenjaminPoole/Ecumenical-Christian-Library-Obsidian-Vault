@@ -65,3 +65,4 @@ The after career of Jerome must be briefly told. He retracted his recantation, a
 ---
 [[Hus Letter 76 Letter LXXV. To his Bohemian Friends (June 25, 1415)|← 76. Letter LXXV. To his Bohemian Friends]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 78 Letter LXXVII. To the Same (June 27, 1415)|78. Letter LXXVII. To the Same (June 27 →]]
 
+

@@ -9,12 +9,11 @@ written: "1543"
 tags:
   - calvin-treatises
 ---
-
 # The Necessity of Reforming the Church
 
 ## The Necessity of Reforming the Church. To the Most Invincible Emperor Charles
 
-AND THE MOST ILLUSTRIOUS PRINCES AND OTHER ORDERS, NOW HOLDING
+## And the Most Illustrious Princes and Other Orders, Now Holding
 
 ## A Diet of the Empire at Spires, a Humble Exhortation Seriously to Undertake the Task of Restoring the Church
 
@@ -532,7 +531,7 @@ But be the issue what it may, we will never repent of having begun, and of havin
 
 Christian man to say, and what all who are true to this holy profession will subscribe:—We will die, but in death even be conquerors, not only because through it we shall have a sure passage to a better life, but because we know that our blood will be as seed to propagate the Divine truth which men now despise.
 
-PATERNAL ADMONITION
+## Paternal Admonition
 
 ## Roman Pontiff, Paul Iii., Most Invincible Emperor, Charles Chastising Him, Both Because He Had Been Too Indulgent to the Lutherans
 
@@ -544,10 +543,9 @@ AND ALSO BECAUSE HE HAD ASSUMED SOME AUTHORITY IN CALLING A COUNCIL,
 
 This ApxoxrTION, as well for other reasons as for containing a remarkable specimen of Pontifical zeal, is every way worthy of being read by all. The opportunity ought to have been sooner afforded; but mysteries of this description do not instantly come into the hands of those whose interest or inclination it is to publish them; and, therefore, if this treasure appears later than was to have been wished, the reader will pardon the delay.
 
-LETTER OF POPE PAUL IIL
+## Letter of Pope Paul IIL
 
 ## To the Emperor Charles Subject
 
 ---
 [[Library/protestant reformers/John Calvin/Treatises/treatises-index|Contents]]
-

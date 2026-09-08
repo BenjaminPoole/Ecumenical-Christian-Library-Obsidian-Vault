@@ -65,3 +65,4 @@ Holy Father; and the cardinals, together with the others, affirmed that very sam
 ---
 [[Hus Letter 29 Letter XXVIII. To the Same (April 1413)|← 29. Letter XXVIII. To the Same (April 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 31 Letter XXX. To the Same (April 1413)|31. Letter XXX. To the Same (April 1413) →]]
 
+

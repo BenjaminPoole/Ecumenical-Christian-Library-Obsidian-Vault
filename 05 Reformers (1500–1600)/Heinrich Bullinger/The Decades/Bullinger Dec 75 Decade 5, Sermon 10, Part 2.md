@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 75. Decade 5, Sermon 10, Part 2
 
 Hereby I would declare nothing else but only that all men should understand, that monkery was devised by man’s invention, not delivered unto the church of Christ by the apostles; and that at the first it seemed to be tolerable, but afterward became altogether intolerable. How unprofitable it is to the commonwealth, experience itself teacheth. And whosoever knoweth not that it is quite repugnant to true religion, knowethnothing. They
@@ -148,11 +147,11 @@ R Bly yw Lat eal - ι La - ab 2 y are. » ier NE: 5} ΙΣ Maa [τ APPENDIX. 1. �
 
 [Sal } a]
 
-1 TO THE MOST ILLUSTRIOUS PRINCE AND LORD, HENRY GREY, MARQUIS OF DORSET, BARON FERRERS, OF
+## 1 to the Most Illustrious Prince and Lord, Henry Grey, Marquis of Dorset, Baron Ferrers, Of
 
-GROBY, HARRINGTON, BONVILLE AND ASTLY; ONE
+## Groby, Harrington, Bonville and Astly; One
 
-OF THE PRIVY COUNCIL OF HIS MOST SERENE
+## Of the Privy Council of His Most Serene
 
 ## Majesty, the King, and of the Famous Kingdom of England; Henry Bullin-ger Wisheth Grace and Peace from God the Father Through Our Lord Jesus Christ
 
@@ -518,4 +517,3 @@ For whoso acknowledges his sins and confesses them to God from the heart, he mus
 
 ---
 [[Bullinger Dec 74 Decade 5, Sermon 10, Part 1|← 74. Decade 5, Sermon 10, Part 1]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 76 Decade 5, Sermon 10, Part 3|76. Decade 5, Sermon 10, Part 3 →]]
-

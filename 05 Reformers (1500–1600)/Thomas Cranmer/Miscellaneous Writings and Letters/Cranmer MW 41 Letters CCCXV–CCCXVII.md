@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 41. Letters CCCXV–CCCXVII
 
 **CCCXV.** TO QUEEN MARY? Certain Let- I LeArNED by doctor Martin, that at the day of your majesty’s coronation you took queen, &. an oath of obedience to the pope of Rome, and the same time you took another oath Lene of the to. this realm, to maintain the laws, liberties, and customs of the same. And if your ixi Lana. majesty did make an oath to the pope, I think it was according to the other oaths D Ac, Which he useth to minister to princes; which is, to be obedient to him, to defend his and Monu- person, to maintain his authority, honour, laws, lands, and privileges. And if it be so, 1, 3. Ea (which I know not but by report, then I beseech your majesty to look upon your Contradic- oath made to the crown and realm, and to expend and weigh the two oaths together, queen's ^ to see how they do agree, and then to do as your grace's conscience shall give you: for I both tote" am surely persuaded that willingly your majesty will not offend, nor do against your conthepopein^ science for nothing. But I fear me that there be contradictions in your oaths, and that iFoxe] those which should have informed your grace thoroughly, did not their duties therein. And if your majesty ponder the two oaths diligently, I think you shall perceive you were deceived; and then your highness may use the matter as God shall put in your heart. Furthermore, I am kept here from company of learned men, from books, from counsel, from pen and ink, saving at this time to write unto your majesty; which all were necessary for a man being in my case. Wherefore I beseech your majesty, that I may have such of these as may stand with your majesty's pleasure. And as for mine appearance at Rome, if your majesty will give me leave, I will appear there: and I trust that God shall put in my mouth to defend his truth there as well as here. But I refer it wholly to your majesty's pleasure’. [Sept. 1555.]
@@ -71,7 +70,7 @@ Est et alia appellationis causa, quod cum Romam vocatus sim illic dicturus causa
 
 ## [translation.]
 
-A LETTER OF DOCTOR CRANMER, ARCHBISHOP OF CANTERBURY, TO A LAWYER
+## A Letter of Doctor Cranmer, Archbishop of Canterbury, to a Lawyer
 
 ## For the Drawing Up of his Appeal"
 
@@ -155,4 +154,3 @@ After my very hearty commendations. Where I understand that you have very fortun
 
 ---
 [[Cranmer MW 40 Letters CCXCVIII–CCCXIII|← 40. Letters CCXCVIII–CCCXIII]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 42 Appendix I–XII|42. Appendix I–XII →]]
-

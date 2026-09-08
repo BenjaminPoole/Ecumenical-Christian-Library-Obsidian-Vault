@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 33. Decade 3, Sermon 7. Of the Judicial Laws of God
 
 ## Of the Judicial Laws of God. The Seventh Sermon
@@ -118,7 +117,7 @@ Moreover, that in effect is a kind of appeal, where Moses doth so often bid the 
 
 15
 
-[BULLINGER, IL]
+## [Bullinger, IL]
 
 Of lawful wedlock, against incestuous and unprofitable marriages, and also of the degrees of consanguinity and affinity, there are exquisite precepts as well in the eighteenth chapter of Leviticus, as also in other places of the books of Moses. Verily, where lawful marriages are not, there is no matrimony: therefore the children that are so born are counted bastards; neither is there for them any dowries or inheritance. and The Lord in many places of his law doth charge parents to bring up their children honestly, and to instruct them in the fear of God. Among the rest he saith: “The words which I command thee this day thou shalt shew unto thy children, and shalt talk of them when thou art at home in thine house, and as thou walkest by the way, and when thou liest down, and when thou risest up. And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets betwixt thine eyes; and thou shalt write them upon the posts of thine house, and upon thy gates, &ec.”
 
@@ -212,4 +211,3 @@ Thus much have I spoken hitherto, by the help of God, concerning his holy laws. 
 
 ---
 [[Bullinger Dec 32 Decade 3, Sermon 6, Part 2|← 32. Decade 3, Sermon 6, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 34 Decade 3, Sermon 8, Part 1|34. Decade 3, Sermon 8, Part 1 →]]
-

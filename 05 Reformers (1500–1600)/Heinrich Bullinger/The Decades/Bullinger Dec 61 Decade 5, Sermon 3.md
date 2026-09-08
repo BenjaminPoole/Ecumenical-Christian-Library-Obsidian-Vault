@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 61. Decade 5, Sermon 3
 
 ## Equal. Whence and How the Pre-rogative of Ministers Sprang, and of the Supremacy of the Bishop of Rome, the Third Sermon
@@ -510,12 +509,11 @@ We have almost gone further than we determined: therefore, that we may draw to a
 
 [cap. 13, fol. 137. Tigur, 1538.] [ auctoritatem, Lat.] (5 fundare, Lat.]]
 
-OF CALLING UNTO THE MINISTRY OF THE WORD OF GOD. WHAT MANNER OF MEN, AND AFTER WHAT
+## Of Calling unto the Ministry of the Word of God. What Manner of Men, and After What
 
-FASHION, MINISTERS OF THE WORD MUST BE
+## Fashion, Ministers of the Word Must Be
 
 ## Ordained in the Church. Of the Keys of the Church. What the Office of Them Is That Be Ordained. Of the Manner of Teaching the Church; and of the Holy Life of the Pastors. The Fourth Sermon
 
 ---
 [[Bullinger Dec 60 Decade 5, Sermon 2, Part 2|← 60. Decade 5, Sermon 2, Part 2]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 62 Decade 5, Sermon 4|62. Decade 5, Sermon 4 →]]
-

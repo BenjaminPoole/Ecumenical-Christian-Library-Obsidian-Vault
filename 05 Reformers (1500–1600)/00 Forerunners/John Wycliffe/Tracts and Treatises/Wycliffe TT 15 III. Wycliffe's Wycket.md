@@ -10,12 +10,11 @@ tags:
   - protestant-reformers
   - john-wycliffe
 ---
-
 # 15. III. Wycliffe's Wycket
 
 ## hindering
 
-WYCKLIFFE'S WYCKETT, WHICH HE MADE IN KING RICHARD'S DAYS
+## Wyckliffe's Wyckett, Which He Made in King Richard's Days
 
 ## The Second
 
@@ -107,12 +106,11 @@ days I shall raise it again;" which words were fulfilled in his rising again fro
 
 [Present edition. the Scripture references, which are similarly marked, have been added in the]
 
-WHY POOR PRIESTS HAVE NO BENEFICES.
+## Why Poor Priests Have No Benefices
 
-WHY POOR PRIESTS HAVE NO BENEFICES.
+## Why Poor Priests Have No Benefices
 
 ## Chapter the First
 
 ---
 [[Wycliffe TT 14 II. A Complaint of John Wycliffe, Exhibited to the King|← 14. II. A Complaint of John Wycliffe]] · [[Library/protestant reformers/John Wycliffe/Tracts and Treatises/tracts-index|Contents]] · [[Wycliffe TT 16 IV. Why Poor Priests Have No Benefices|16. IV. Why Poor Priests Have No Benefices →]]
-

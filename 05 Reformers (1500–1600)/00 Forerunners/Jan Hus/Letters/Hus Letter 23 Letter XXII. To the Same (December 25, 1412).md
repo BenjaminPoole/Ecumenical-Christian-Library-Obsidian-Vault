@@ -37,3 +37,4 @@ Son is given to us, all-wise and gracious, that there may be glory to God in the
 ---
 [[Hus Letter 22 Letter XXI. To the People of Prague (December 1412)|← 22. Letter XXI. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 24 Letter XXIII. To the Same (January 1413)|24. Letter XXIII. To the Same (January 1413) →]]
 
+

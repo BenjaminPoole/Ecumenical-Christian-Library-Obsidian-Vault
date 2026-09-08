@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - huldrych-zwingli
 ---
-
 # 4. III. Acts of the Convention Held in the Praiseworthy City of Zurich on The, Part 1
 
 Einsiedeln, Switzerland, Fuly 2d, 1522.
@@ -568,7 +567,7 @@ To this Master Ulrich answered as folows: Dear brethren in Christ, it doubtlessl
 
 case that is so, and is really found to be in Scripture (as the Vicar also asserts to have convinced the imprisoned priest), I also will gladly, as an ignorant man, submit to instruction where I have erred.
 
-ANSWER OF THE VICAR TO THE WORDS OF MASTER ULRICH.
+## Answer of the Vicar to the Words of Master Ulrich
 
 DEAR Sirs: [566 very well that the game is going beyond me. I said before that I was present not to dispute, but as the representative of my gracious Lord to speak kindly if any dissension arose on account of the disputation. Thus I very well see things are going with me as the wise man said, the foolish are easily caught in their words, but it is perhaps the fault of my folly that I undertook to speak not as a wise man. Since I have been summoned to answer by Master Ulrich, I will say that some hundreds of years ago it happened, my dear sirs, that heresy and dissension arose in the Church, the causes and beginners of which were Novatians, Montanists, Sabellians, Ebionites, Marcionites and others, under whose false teachings and error many articles like these of our times were planted in men, and by their teachings many believing folk went astray. Among these some asserted that praying to the dear saints and their intercession, as also of the mother of Godand that purgatory, too, did not exist, but were man's invention, and the like. In order to close up such misleading roads and ways of error many pious bishops and fathers met in many places, at one time in Asia, then in Africa, then somewhere in Greece, that they might hold synods and councils, and to avoid and stop heresy and such things. And afterward constitutiones (that is, ordinances and decisions) were made, prescribed and commanded about those matters by the holy fathers and the popes that such (heretical views) should not be held, having been rejected by the Christian Church. And although this was firmly and irrevocably ratified a long time ago by decrees of the popes and bishops, and considered wrong in Christian churches, still later schisms, dissenting parties and sects have sprung up in
 
@@ -664,4 +663,3 @@ and were saved, though they did not hold to the intercession of the saints, and 
 
 ---
 [[Zwingli SW 3 II. Petition of Certain Preachers of Switzerland to the|← 3. II. Petition of Certain Preachers of]] · [[Library/protestant reformers/Huldrych Zwingli/Selected Works/selected-works-index|Contents]] · [[Zwingli SW 5 III. Acts of the Convention Held in the Praiseworthy|5. III. Acts of the Convention Held in the →]]
-

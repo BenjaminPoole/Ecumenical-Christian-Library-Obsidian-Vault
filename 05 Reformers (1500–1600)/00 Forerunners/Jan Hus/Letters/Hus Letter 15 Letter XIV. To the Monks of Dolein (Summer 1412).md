@@ -117,3 +117,4 @@ The date of Hus's exile, and therefore of the following letter, is somewhat unce
 ---
 [[Hus Letter 14 Letter XIIL. To Ladislaus, King of Poland (June 10|← 14. Letter XIIL. To Ladislaus, King of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 16 Letter XV. To Masters Martin and Nicolas|16. Letter XV. To Masters Martin and Nicolas →]]
 
+

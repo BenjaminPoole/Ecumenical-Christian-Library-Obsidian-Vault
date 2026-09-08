@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 36. Letters CCXVII–CCXLII
 
 ## CCXVII. To
@@ -37,7 +36,7 @@ ArrER most hearty commendations to your lordship: forasmuch as I am informed, th
 
 his room; for I am about, through the help of such friends as I have in those parties, to procure that the said prior shall willingly resign the same into the king's hands. Thus Almighty God preserve your lordship! From Ford, the viith day of March. [1538.] Your own assured ever,
 
-**T.** CANTUARIEN.
+## **T.** Cantuarien
 
 ## CCXVIII. To Crumwell
 
@@ -101,7 +100,7 @@ My very singular good Lord, in my right hearty wise I commend me unto you. And ^
 
 Your own assured ever,
 
-**T.** CANTUARIEN.
+## **T.** Cantuarien
 
 To my very singular good lord, my
 
@@ -549,7 +548,7 @@ good lord, my lord privy seal.
 
 [The following is the letter above referred to:
 
-JOHN BUTLER, COMMISSARY AT CALAIS, TO CRANMER.] 4
+## John Butler, Commissary at Calais, to Cranmer.] 4
 
 IN most humble wise please it your grace to be advertised, that Adam Damlippe, bearer hereof, is purposely come over to declare his mind unto your grace. For it is perceived that certain, which favour nothing the truth, would gladly hinder him, if it were in their power, that he should neither teach nor preach the word of God; as in their large writing, not only against him, but also against other persons; which their writing will not be justified no more than was their false suggestion, saying, that there was in Cales which openly and manifestly did deny Christ. Their saying is now, that here are certain which deny Christ to be put in the sacrament of the altar. I trust they shall take little honour of their so writing. This bearer will declare more unto your grace. I will not write what I have seen, but I marvel that men will write of malice; saving that they utter what they are from within forth. God send them a better spirit!
 
@@ -967,4 +966,3 @@ Your lordship knoweth full well, that hitherto he hath had very small preferment
 
 ---
 [[Cranmer MW 35 Letters CXCVIII–CCXVI|← 35. Letters CXCVIII–CCXVI]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 37 Letters CCXLIII–CCLXVI|37. Letters CCXLIII–CCLXVI →]]
-

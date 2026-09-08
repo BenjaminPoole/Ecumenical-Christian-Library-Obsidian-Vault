@@ -9,7 +9,6 @@ written: "1539"
 tags:
   - calvin-treatises
 ---
-
 # Reply by John Calvin to Cardinal Sadolet's Letter
 
 ## Reply by Calvin to Cardinal Sadolet’s Letter. John Calvin to James Sadolet, Cardinal,—health
@@ -220,7 +219,7 @@ The Lord grant, Sadolet, that you and all your party may at length perceive, tha
 
 Basle, September 1, 1539.
 
-ARTICLES OF SACRED
+## Articles of Sacred
 
 ## Of Paris, to Matters of Faith Controverted; the Antidote
 
@@ -230,4 +229,3 @@ Mis " TUE e PLANCHE ma LS a Jo, aan s T ERANT RT NNUS MUMIN TRIN: IS 0 ron M: e 
 
 ---
 [[Sadolet Letter to Geneva|← Sadolet's Letter to Geneva]] · [[Library/protestant reformers/John Calvin/Treatises/Reply to Sadoleto/reply-to-sadoleto-index|Contents]]
-

@@ -10,7 +10,6 @@ tags:
   - protestant-reformers
   - thomas-cranmer
 ---
-
 # 5. Book III. Of the Presence of Christ, Part 1
 
 ## of my book is changed with-
@@ -19,7 +18,7 @@ out ground or reason.
 
 ## The end of the first book
 
-: THE
+## : The
 
 ## Confutation of the Third Book
 
@@ -169,7 +168,7 @@ And where you say, that in the belief of this mystery is great benefit and conso
 
 [ Ours, 1581.] [ Vide supra, p. 56.]
 
-[IH]
+## [Ih]
 
 and no further, and there he tarrieth not in that sort, but departeth away from us by and by again, what great benefit or comfort, I pray you, is such a corporal presence unto us? And yet this is the teaching of all the papists, although you seem to vary from them in this last point, of Christ's sudden departure. But when the matter shall be throughly answered, I ween you will agree with the rest of the papists, that as concerning his carnal presence, Christ departeth from us, at the least when the forms of bread and wine be altered in the stomach. And then, I pray you, declare what comfort and benefit we have by this carnal presence, which by and by is absent, and tarrieth not with us? Such comfort have weak and sick consciences at the papists’ hands, to tell them that Christ was with them, and now he is gone^ from them. Nevertheless, in the belief of this mystery, (if it be understanded according to God's word,) is great benefit and consolation; but to believe your addition unto God's word, is neither benefit nor wisdom.
 
@@ -329,7 +328,7 @@ learned man. For who heard ever before this time that an adjective was referre t
 
 What forehead, I pray you, is so hardened, that can utter this among them that know any thing of the learning of Christ's church? In which it is a most common distinction, that there is three manner of eatings of Christ's body amd blood: ome spiritual only, which is man- here affirmed in the second part of “we say,” wherein the author and his say as the church saith: another eating is both sacramentally and spiritually, which is when men worthily communicate in the supper: the third is sacramentally only, which i$ by men unworthy, who eat and drink in the holy supper to their condemnation only. And the learned men in Christ's church say, that the ignorance and want of observation of these three mammer of eatings causeth the error in the understanding of the scriptures and such fathers sayings, as have written of the sacrament. And when the church speaketh of these three mammer of. eatings, what an impudency is it to say, that the church teacheth good men only to eat the body of Christ and drink his blood, when they receive the sacrament, being the truth otherwise; and yet a diversity there is of eating spiritually only, and eating spiritually and sacramentally, because in the supper they wrecewe his very flesh amd! blood indeed, with the effects of all graces and gifts to such as recewe it spiritually and worthily; whereas out of the supper, when we eat only spiritually by faith, God that worketh without his sacraments, as seemeth. to him, doth relieve those that believe and trust in him, and suffereth them mot to be destitute of that is necessary for them, whereof we may mot presume contemming the sacrament, but ordinarily seek God, where he hath ordered himself to be sought, and there to assure. ourself of his covenants and promises, which be most certainly annexed to his sacraments, whereunto we ought to give most certain trust and confidence: wherefore to teach the spiritual sa- “manducation to be equal with the spiritual manducation and sacramental also, that i$ to. diminish the effect of the institution of the sacrament, which no christian man ought to do.
 
-CANTERBURY.
+## Canterbury
 
 Who is so ignorant that hath read any thing at all, but he knoweth that distinction.of three eatings? But no man that is of learning and judgment, understandeth the three diverse eatings in such sort as you do, but after this manner: that some eat only the sacrament of Christ's body, but not the very body itself; some eat his body and not the sacrament; and some eat the sacrament and body both together. The sacrament (that is to say, the bread) is corporally eaten and chewed with the teeth in the mouth: the very body is eaten and chewed with faith in the spirit. ^ Ungodly men, when they receive the sacrament, they chew in their mouths, like unto Judas, the sacramental bread, but they eat not the celestial bread, which is Christ. Faithful christian people, such as be Christ's true disciples, continually from time to time record in their minds the beneficial death of our Saviour Christ, chewing it by faith in the cud of their spirit, and digesting it in their hearts, feeding and com-
 
@@ -361,4 +360,3 @@ ef quantity wheresoever it be? And where I set forth these comparisons to shew �
 
 ---
 [[Cranmer LS 4 Book I. Of the Sacrament, Part 2|← 4. Book I. Of the Sacrament, Part 2]] · [[Library/protestant reformers/Thomas Cranmer/On the Lord's Supper/cranmer-lords-supper-index|Contents]] · [[Cranmer LS 6 Book III. Of the Presence of Christ, Part 2|6. Book III. Of the Presence of Christ →]]
-

@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - jan-hus
 ---
-
 # 16. Letter XV. To Masters Martin and Nicolas
 
 **XV.** To Masters MangrIN AND Nrconas MiLrcziN
@@ -54,7 +53,7 @@ Therefore, let us humbly pray that it may please Almighty God to instruct us how
 
 [fairest decision, in default of others.’]
 
-Part III.—Letters Written during the Exile
+## Part III.—Letters Written during the Exile
 
 ## of Hus (September 1412—August 1414)
 
@@ -206,4 +205,3 @@ the first part of the letter, passing into a fighting spirit towards the close. 
 
 ---
 [[Hus Letter 15 Letter XIV. To the Monks of Dolein (Summer 1412)|← 15. Letter XIV. To the Monks of Dolein]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 17 Letter XVI. To the People of Prague (October 1412)|17. Letter XVI. To the People of Prague →]]
-

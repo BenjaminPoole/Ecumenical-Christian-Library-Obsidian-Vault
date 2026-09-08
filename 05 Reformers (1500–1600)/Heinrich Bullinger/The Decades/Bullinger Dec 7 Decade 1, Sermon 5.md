@@ -11,7 +11,6 @@ tags:
   - protestant-reformers
   - heinrich-bullinger
 ---
-
 # 7. Decade 1, Sermon 5
 
 ## The Virtue Thereof Is. The Fifth Sermon
@@ -92,10 +91,9 @@ believe in the Lord, that he hath given himself to death for us. Whereupon John 
 
 At this present, dearly beloved, ye must remember, that there is but one true faith, that is, the christian faith. For although there be said to be many faiths, that is, religions; yet notwithstanding there is only but one true and undoubted faith. And that doth increase, and again decrease, in some men. As for those in whom it is rightly and godly observed, in them it sheweth forth sundry virtues. For it bringeth with it true wisdom; finally, it quickeneth, and maketh us blessed and happy indeed. To God, the Father, the author of all goodness and of our felicity, be all praise and glory, through Jesus Christ our Lord, for ever and ever. Amen.
 
-THAT THE FAITHFUL ARE JUSTIFIED BY FAITH
+## That the Faithful Are Justified by Faith
 
 ## Without the Law and Works. The Sixth Sermon
 
 ---
 [[Bullinger Dec 6 Decade 1, Sermon 4|← 6. Decade 1, Sermon 4]] · [[Library/protestant reformers/Heinrich Bullinger/The Decades/decades-index|Contents]] · [[Bullinger Dec 8 Decade 1, Sermon 6|8. Decade 1, Sermon 6 →]]
-
