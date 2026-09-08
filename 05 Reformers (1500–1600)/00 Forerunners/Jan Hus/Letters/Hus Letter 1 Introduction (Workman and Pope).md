@@ -5,93 +5,77 @@ translator: "H. B. Workman and R. M. Pope (1904)"
 work: "The Letters of John Hus"
 chapter: 1
 year: "1408-1415"
-source: "archive.org lettersofjohnhus00husjuoft, tr. Workman & Pope (1904); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+source: "re-OCR'd from archive.org page images (eng+lat), The Letters of John Hus (Workman & Pope, 1904)"
 written: "1408-1415"
 tags:
   - protestant-reformers
   - jan-hus
 ---
+
 # 1. Introduction (Workman and Pope)
-
-The Leonard Library
-
-Wptlillt College
-
-Shelf No. Register No
-
-## Letters Of
-
-JOHN HUS. WITH INTRODUCTIONS AND EXPLANATORY NOTES by Herbert B. Workman, M.A.
-
-Principal of Westminster Training College, Author of "The Age of Wyclif " and "The Age of Hus "
-
-and R. Martin Pope, M.A.
-
-## London: Hodder and Stoughton, 27 Paternoster Row 1904
-
-' Veritas semper vincit, cum hcec sit ipsius proprietor et natura, ut, QUO magis obscuratur, eo magis illuccscit, etquo magis deprimitur, eo magis elevatur"
-
-DOCUMENTA, p. 39, INFRA, p. 95
-
-'Scio, quod vincit qui occiditur"
-
-DOCUMENTA, p. 62, INFRA, p. 133
-
-Printed by Hcutll, Walton, & Viney, Ld., London and Ayltibwy,
-
-THE translation of The Letters of Hus in the present volume, though both authors are jointly responsible for the form in which it is now presented, is almost wholly the work of Mr. Pope. The Life, Introduc tions, Collation of Texts, Chronological Arrange ment, and Notes have been contributed by Mr. "Workman, who is solely responsible for this portion of the book.
-
-The Letters of Hus have never yet been adequately translated into English. The only extant translation is one by Mackenzie, published in Edinburgh in 1846. This is a rendering, not of the original, but of the French of Bonnechose's edition of the Letters. Un fortunately Bonnechose's work is based upon the very imperfect edition of 1558 — Historia et Monumenta J. Hus et Hieron. Pragensis (also with different pagination and some additional matter, 1715).1 No translation has hitherto been attempted from the text
-
-1 This is the edition usually cited by us in the notes and elsewhere as Man. or Monumenta. We give always the pagination of the 1558 edition, which will also be found in the margin of the 1715 edition. The text of the Monumenta is that used by all historians, including Neander, before Palacky. As the Monumenta incorporates the whole of the Epistola Piissimce (infra, p. 2), we have not thought it needful to give the readings of this earlier and less complete edition.
-
-vi PREFACE of Palacky, wliicli is not only more complete but also has the merit of presenting the letters in their approximate chronological arrangement. In Bonnechose's collection, where the order of the edition he used is strictly followed, early letters often come at the end, and the letters of the two captivities are sadly confused. Sometimes also simple expressions have proved a stumbling-block to Bonnechose, e.g., the word stubam (infra, p. 152). The Czech of his edition (Nuremberg, 1558), which is, so to speak, the Czech of Frankfort-atte-Bowe, is left severely alone ; for no Palacky had as yet made it intelligible. An instance will be found on p. 206.
-
-The text we have chiefly followed is the great edition of Palacky (Documenta Mag. Joannis Hus, vitam, doctrinam, causam in Constantiensi Concilia acta/ni Ulustrantia Ed. Fr. Palacky : Regni Bohemice Historiographus, Prague, 1869) — usually cited by us in our notes as Doc., or, where questions of text are con cerned, as P. The readings, however, that are to be found in Hofler's Geschichtschreiber der husitischen Bewegung in Bohmen (in the " Fontes rerum Austriacarum," Vienna, 1865, 8 vols.) — cited as Hofler or H. — seem to us in some cases to be preferable. The two editions have been collated — so far, that is, as readings are concerned which would make an essential difference in translation. A few of these differences, as also a few of the readings of the Monumenta, are indicated in the notes. In spite of the severe criticism to which Palacky subjected the
-
-PREFACE vii
-
-Geachichtschreiber in his Geschichte des Russitenihums (1869), Hofler's text is one of considerable value, and contains many letters that had not previously been published. For the translation of the few Czech letters, we have depended entirely on J. Kvicala's Latin rendering in Palacky, carefully compared with Hofler's German translation in the Geschichtschreiber.
-
-The Letters of Hus present not a few difficulties to the translator. First of all, there is the nervousness, terseness, and rapidity of his style, especially in the letters of the Trial. Allusions which would be plain to his correspondents have often, by the lapse of time, become obscure. In such cases it is not easy to give a rendering which is intelligible, or which escapes the tendency to a loose paraphrase. La. certain other cases Hus deliberately wrote obscurely in order to escape the consequences of the capture of his correspondence. Another difficulty, apart from the occasional corruptness of the text, arises from his Latinity. It goes without saying that the style lacks classical grace and correctness l and, as com pared with the earlier mediaeval writers such as Anselm or John of Salisbury, or such later curialists as Dietrich of Niem, it is full of pitfalls for the unwary. In our judgment, the Latin of "Wyclif is the Latin of one who had ceased to think in that language ; the Latin of Hus, though apparently more
-
-1 E.g., the use of »e and sibi, the conjunctions quia and et (conjunctive and disjunctive), are a source of much perplexity to those unfamiliar with the Latinity of the later Middle Ages. For the Latin of Wyclif, see some excellent remarks by Dr. Poole, De Civ. Dom., i. xviii.-xix.
-
-viii PREFACE natural, is not that of a scholar, but is rather of the colloquial order, which tends to fall into a rugged and homely patois. There are also a few isolated words that, so far as we can discover, have escaped the notice of lexicographers. These we have indicated in the notes.
-
-The constant quotations in the letters from the Fathers, the Vulgate, and other sources have given us no small difficulty. As regards the Vulgate, Hus differs very widely from the present ClementineSextine text. In the lack of data it has been impossible to decide to what extent the difference is due to a faulty memory, or to the use by Hus of manuscripts somewhat differing from the Paris recension that was the standard of his time. As a matter of fact, the quotations of Hus from the Scriptures are generally only verbally accurate in the few letters for which we must depend alone on the doctored text of the Monumenta or Epistola Piissimce. In turning the Vulgate into English we have generally quoted the Douai-Eheims version.
-
-The quotations from the Fathers have proved an even greater, difficulty. Hus's knowledge of these authors was not first hand, nor will the student deem it sufficient to indicate the original source. The question must always be faced, What was the connecting link between Hus and the original ? Loserth, in his valuable monograph (Wyclif and Hus, 1884), established the deep dependence of Hus upon the great English Reformer. We are inclined to
-
-PEEFACE ix think that our notes will establish an equal depend ence of Hus upon the great mediaeval text-book, Gratian's Decretum* and in some cases where Loserth held that the Bohemian was copying the Englishman, we suspect that both were copying from Gratian. The tracking out of these quotations has involved hours of labour — how many hours can only be guessed by those who have attempted a similar task themselves. In the two or three cases where our toil has been useless, we must plead the excuse of Dr. Johnson, "Ignorance, madam, sheer ignor ance," urging in our defence, however, that Hus's quotations themselves are sometimes so inaccurate that even others better qualified would not be without difficulty in marking their source.
-
-The critic will note that whereas in his notes to the Letters Mr. Workman gives authorities for his statements, no authorities are given for any statements in the introductions. The reason for the difference is that this is an edition of the Letters, not a Life of Hus. "We have only sketched such portions of the life of the great Bohemian Reformer as may be needful for the elucidation of the Letters. For the sources of any statements as to the life of Hus, or in connection with the Council of Constance, we must refer the reader to Mr. Workman's Age of Hus? and especially to the
-
-1 In oar quotations in the notes we have always used the edition of Migne.
-
-2 The Dawn of the Reformation : vol. L, The Age of Wyclif; vol. ii., The Age of Hut.
-
-x PREFACE bibliographies it contains of both ancient and modern works.
-
-In the chronological arrangement of the Letters we have in the main followed Palacky. In the cases where we have differed from him we have tried to indicate our reasons. In Appendix B the student will find tables adjusting the different numbering of the letters in this translation and in Palacky, and also giving the dates according to Palacky. In some cases, as the notes will show, the data for determining the chronology of a letter are very slight, often amounting to little more than a general impression impossible to put into words, and which possibly would appeal differently to different minds.
-
-In lieu of an index we have provided a full table of Contents, and a tolerably complete system of cross references in the notes.
-
-This edition of the Letters of Bus, though we trust it may be of some service to the more serious student, is intended primarily for the general reader. Our object is to make Hus himself, the man as he lived and laboured, more real ; to present a portrait of the Reformer, such as letters alone can give, painted by the subject himself. Here and there the reader may possibly feel out of touch. He may complain that there is too much of the sound of a trumpet, the voice of words, and echoes of struggles long since dead. To some extent this is true of the letters written during the
-
-PREFACE xi exile (Part III.). The reader approaching the study of Hus for the first time would, perhaps, do well to begin these Letters in the middle, with the journey to Constance (Part IV.), and read on to the final scene. "We are much mistaken if, in this case, he will not receive such an interest in the author of that immortal series of letters written in prison, that he gladly turns back to the less fascinating, because more polemical, earlier portion. After all, a man's death cannot be understood apart from his life ; and the remarkable picture given us of Hus in the prison of the Inquisition at Constance ought not to be isolated from the rest. Only by the study of the whole of the letters can we understand the whole man in all his strength and tenderness, and, we may add, his weakness. We are not without hopes also that this fragment of soul-history — for such the last letters of Hus undoubtedly present to us — may com mend itself to some, not merely from the narrower standpoint of history, but from the larger outlook of that unity and continuity of spiritual experience throughout all ages which, under different forms and in diverse manners, is yet the manifestation and working of the one Lord and Giver of Life.
-
-WESTMINSTER, November 1903.
-
-## Contejnts
 
 ## Introduction
 
-LUTHER'S DISCOVERY or Hus ; EDITIONS OP THE Letters ; THE VALUE OF THE Lettert ; THE JUDGMENT OF CBEIGHTON . . 1-4
+The Letters of Hus have long been recognised by the best judges as one of the world’s spiritual treasures. The discovery of Hus, if we may so express it, forms more than once a landmark in the spiritual development of Luther.
 
-## Letters Written Before the Death of Archbishop Zbinek
+When I was a tyro at Erfurt, we read, ‘I found in the library of the convent a volume of The Sermons of John Hus. When I read the title I had a great euriosity to know what doctrines that heresiarch had propagated, since a volume like this in a public library had been saved from the fire. On reading I was overwhelmed with astonishment. I could not understand for what cause they had burnt so great a man, who explained the Scriptures with so much gravity and skill. But as the very name of Hus. was held in so great abomination that I imagined. the sky would fall and the sun be darkened if I made honourable mention of him, I shut the book and went away with no little indignation. This, however, was my comfort, that perhaps Hus had written these things before he fell into heresy. For as yet I knew not what was done at the Council of Constance (Mon. Hus. vol. i. Preface).
 
-EARLY LIFE OF Hus; CAREER AT THE UNIVERSITY; PREACHER AT THE BETHLEHEM ; THE NEW NATIONALISM ; INFLUENCE OF WYOLIF ; THE FORTY-FIVE ARTICLES ; REALISTS AND NOMINALISTS; Hus is DRIFTING; Hus AND ZBINEK; EARLY FRIENDSHIP . . 5-12
+Some years later, in February 1529, after pondering the matter over with Melancthon, Luther was driven to write to Spalatin: ‘I have hitherto taught
+
+and held all the opinions of Hus without knowing it. With a like unconsciousness has Staupitz taught them. We are all of us Hussites without knowing it. I do not know what to think for amazement.’ In this letter Luther was probably referring to his reading of the controversial works of Hus, especially his De Ecclesia. Shortly afterwards, however, he came across a copy of the Letters. At once he perceived their value, not merely in their bearing on the expected Council convoked for Mantua, which subsequently met at Trent in 1542, but for the larger outlook of spiritual life. He took immediate steps for bringing them before the German public. In 1536 and 1537 no less than three different editions in Latin and three editions in German, each of them with a preface by Luther, issued from the presses of Wittenberg and Leipzig. The most important of these editions is that entitled Epistole Qwedam Piissimee et LEruditissime, printed at Wittenberg by John Lufft in 1537, an edition which now forms the sole extant source of many of the letters of Hus. In his preface to this volume Luther is not backward in his praises of the Letters. Observe,’ he writes, how firmly Hus clung in his writings and words to the doctrines of Christ; with what courage he struggled against the agonies of death; with what patience and humility he suffered every indignity, and with what greatness of soul he at last confronted a cruel death in defence of the truth; doing all these things alone before an imposing assembly of the great ones of the earth, like a lamb in the midst of lions and wolves. If such a man is to be regarded as a heretic, no person under the sun can be looked
+
+on as a true Christian. By what fruits then shall we recognise the truth, if it is not manifest by those with which John Hus was so richly adorned?'
+
+Luther is not alone in his judgment. The Letters of Hus, in the verdict of Bishop Creighton, “give us à touching picture of simple, earnest piety rooted on & deep consciousness of God's abiding presence. These letters show us neither a fanatic nor a passionate party leader, but a man of childlike spirit, whose one desire was to discharge faithfully his pastoral duties, and to do all things as in the sight of God and not of man."! Other testimonies to the value of this series of letters could easily be adduced, but would add nothing to the decision of the great Reformer and the modern Historian.
+
+We may safely assert that in the years to come The Letters of Hus wil form the only part of his voluminous writings that will be read even by students. For the works of Hus, as Loserth has shown, are for the most part mere copies of Wychf, oftentimes whole sections of the great Englishman's writings transferred bodily, without alteration or acknowledgment. The very titles are not original; their parade of learning, which deceived Luther, is completely borrowed, when not from Wyclif, from Gratian and other recognised medieval handbooks. The Englishman Stokes was right when at Constance he bluntly asked: Why do you glory in these writings, falsely labelling them your own, since after all they belong not to you but Wyeclif, in whose steps you are following?’ To the same end was the taunt of his former friend, Andrew Brod:
+
+[Creighton, Papacy, ii, 22. Creighton refers especially to the Letters]
+
+[in Part III., which some may think the least interesting of all,]
+
+Was Wyeclif crucified for us? were we baptised in his name?’
+
+The case is otherwise with Hus's Letters, eightytwo! of which have escaped the ravages of Time. For if the controversial works of Hus have contributed little to the intellectual heritage of mankind, his Letters have enriched for ever our moral outlook. The preservation of these letters we owe for the most part to the care of Peter Mladenowic, the secretary of John of Chlum. They form a priceless memorial of one of the truest hearted of the. sons of God. His later correspondence especially, his letters from exile and prison, show John Hus to be one of the chosen few who exalt humanity. Though undoubtedly the last letters are the most interesting, inasmuch as in them the personal note reaches its highest, yet in the whole series there is nothing that is unworthy, little that is tedious. Bishop Creighton is correct in his judgment: “Everything Hus writes is the result of his own souls experience, is penetrated with a deep moral earnestness, illuminated with a boldness and a selfforgetfulness that breathes the spirit of the cry, Let God be true and every man a liar” In the belief that a wider acquaintance with The Letters of Hus will lead to a general endorsement of this verdict, we have translated into English these priceless human documents.
+
+[! Of these, sixty-six—one of which, however, is spurious—are to]
+
+[be found in the Monwmenta, and were translated by Bonnechose and]
+
+[Mackenzie; nine were first printed by Hofler; the rest were discovered]
+
+[and edited at different times by Pez, Erben, and Palacky.]
+
+. Part L—Letters Written Before the Death of
+
+## Archbishop Zbinek (June 30, 1408—September 28, 1411)
+
+Jomx or HusiNEcz—a name which he abbreviated, except in formal documents, into the more familiar Hus—was the child of poor peasants in Husinecz, a village of Bohemia not far from the Bavarian frontier. The date of his birth is uncertain, but is usually accepted, on somewhat doubtful evidence, as 1369. Round the childhood of Hus there gathered in later years the usual tales with which fond memory strives to fill the gaps of ignorance. Some of these have a suspicious resemblance to similar tales concerning Luther; others are manifestly coined from the fact that in Czech the word hus, or husca, means goose "—etymologically, of course, it is the same word—a play on the name which we shall meet with again and again in the Letters. Of the brothers and sisters of Hus we know nothing. In the sons of a brother he showed a touching interest in his last days (infra, p. 236).
+
+On entering the University of Prague Hus supported himself, as Luther at Erfurt, by singing in the churches and by menial services. His piety at this time, though sincere, was of the usual type. In 1392 we find Hus, following in this matter the lead of Stiekna (infra, p. 121, n.), parting with his last four groschen to a seller of indulgences at the Wyschehrad—a suburb of Prague—'so that there
+
+remained only dry bread for his support. In one of 3 the intensely subjective epistles of his last year (infra, T p. 150) Hus reproached himself with his youthful 3 levity, especially the time he wasted in chess, and E his inability to lose a game without anger. Such X reproaches, as in the case of Cromwell, Bunyan, and. the Puritans in general, are rather the evidence of à tender conscience than of any real depravity of heart. —
+
+In 1396 Hus took his Masters degree in Arts and two years later began to deliver lectures as a 3 public teacher. In 1401 he was made dean of the = faculty of philosophy,andinthefollowing year became. the rector of the University, a position he occupied L3 for about six months to the end of April 1408. » Nevertheless, his achievements at the University = were in nowise remarkable. Though he read the larger part of the course necessary for the degree a in Divinity, in 1394, graduating as Bachelor, and in 1401 lecturing on Peter Lombard's Sentences, he never incepted as doctor,! while the wide know- 1 ledge that appears in his writings is but borrowed learning. Among his teachers at the University we may note with interest the name of Stanislas of = Znaim, in later years his bitter foe. & In 1400 Hus obtained priest's orders; his object, he tells us, was the comfortable life led by the E: clergy. Two years later (March 14, 1402) he was ^ appointed preacher at the Chapel of the Holy 9 Innocents of Bethlehem. To this church a dwel- E ling-room was attached, from which a staircase led ES direct to the pulpit. This appointment gave Hus = his opportunity. The Bethlehem Chapel in Prague x —a vast building destroyed by the Jesuits in 1786 — Bee infra, p. 140: note on ' Baccalareus formatus." 3
+
+—had been erected and endowed (May 24, 1391) by two wealthy laymen, on the condition that its rector should be a secular, and preach every Sunday and festival exclusively in the Czech language. Thus the Chapel—'Bethlehem, which is, being interpreted, house of bread, because there the common people should be refreshed with the bread of preaching’—was both the product and expression of the new consciousness of Czech nationalism, and of the recent religious revival. Not only the Bethlehem, but almost everything else in Prague, University included, was new. The whole town was seething with a new life, with a quickened interest in religion, and with the fierce determination of the Czechs to throw off all bondage to the Germans, and, if possible, -assert their own supremacy. Of all this the movement led by Hus was but one phase and outlet. For from the first Hus flung himself with passionate earnestness into the national movement. The Czechs, he cried in one of his sermons, in this part are more wretched than dogs or snakes, for a dog defends the couch on which he lies, and if another dog tries to drive him away he fights with him. A snake does the same. But we let the Germans oppress us, and occupy all the offices, without complaint.
+
+In addition to the new consciousness of Czech nationalism, a new determination to resist the German pressure, and the new revival of religion brought about by the labours of Miliez of Kremsier, Conrad of Waldhausen, and Mathias of Janow, the student will discern a third factor in the life of Hus. This was his making acquaintance with the works of Wyclif. The precise year in which the
+
+writings of the great English heresiarch were introduced into Bohemia cannot now be determined, and for our present purpose is not material. Suffice that in the Fall of 1401 Jerome of Prague, who in 1398 had obtained his licentiate at the University of Prague, and permission to go abroad, came back y from Oxford, bringing with him copies of Wyeclif’s 1 Dialogue and Trialogue, together with some other à lesser works. All these Jerome had written out i with his own hand. ' Young men and students, t he said in a publie disputation, ‘ who did not study — the books of Wyclif would never find the true root of knowledge. With this conviction he introduced a the works to John Christian of Prachaticz and John E Hus. Hus was, however, already acquainted with t the purely philosophical treatises of Wyclif. Of i this we have evidence in the five tractates of Wyolif 1 now in the Royal Library at Stockholm, written Bg out by Hus with his own hand in 1398’ and Y carried off by the Swedes in 1648 as part of the 4 spoils of the Bohemian War.. Before long the strife over Wyclif had broken out 3 in Bohemia. In April 1403 Hus ceased to be the "i rector of the University, and Walter Harrasser, 3 a German, was elected in his place. On May 28, i 1403, the new rector, at the instance of the chapter of Prague—for the archbishopric at this time was E: still vacant—issued an order forbidding any discussion of the twenty-four articles from Wiyeclif’s works 1 already condemned in England at the famous Blackfriars or Earthquake Synod (May 21, 1382). To these were further added twenty-one articles i extracted by Hiibner, a Silesian master. The pro- x hibition remained a dead letter, though, as we shall
+
+see in the Letters, these forty-five articles played mo small part at Constance. The whole affair, in fact, seems to have been an attempt by the German Nominalists to score over the Czech Realists, who for their part contented themselves with protesting, somewhat unfairly, that the condemned propositions —at any rate, the additions of Hiibner—were not to be found in Wyclif. The struggle as yet was chiefly one of the Schools; for at Prague the constant fight of Czech and Teuton had passed into a struggle of philosophical creeds. Whatever the one “nation” espoused, the other condemned. The Germans had embraced Nominalism—of itself a sufficient reason for the Czechs to become uncompromising Realists and to rally to the defence of so thorough-going a Realist as Wyclif.
+
+The leader of the Czech Realists at this time would appear to have been Stanislaus of Znaim, from whose teaching in the University Hus acknow-. ledges that he had learned much. In a squib of the times we read:—
+
+Wyclif, the son of the Devil, begat Stanislaus of Znaim,
+
+who begat Peter of Znaim, and Peter of Znaim begat
+
+Stephen Palecz, and Stephen Palecz begat Hus. In the controversy on the forty-five articles Stanislaus defended the incriminated doctrines with warmth: Let him who likes rise up and attack; I am willing to defend He spoke so haughtily that some of the senior doctors left the congregation.’ Shortly afterwards he published a tractate, De Remanentia Panis, and argued boldly in the schools’ on the side of Wyclif. Stanislaus’s tractate was pronounced heretical by the Saxon master, Ludolph Meistermann e —9ne of the leaders in the Secession of 1409. In
+
+the end Stanislas was forced to recant” With Stanislas, though less prominent and pronounced, E 1 Stephen Palecz was closely associated. In the: 3 Church, as on the stage, one man in his time E plays many parts. 3 Among these Realists or Wiyclifists we must 2 already reckon John Hus. In a Taborite document £ we read: These books of the evangelical doctor, - as is known from credible witnesses, opened the - 3 eyes of Master John Hus of blessed memory, whilst = reading and re-reading the same in connection with = = his adherents’ At one time it would seem he had — shrunk back from Wyclifs theological teaching, = though welcoming his philosophical positions. “Oh, = Wyclif, Wyclif he had cried in a Czech sermon, = making use of an untranslatable pun, “how you = will make our heads to waggle (zwikles)" But this = dread was fast disappearing. P 3 Hitherto any part that Hus may have taken in the controversy over Wyclif had been political rather ~~ = than religious. But in 1408 circumstances arose E 1 which compelled Hus, in spite of himself, to place. = himself at the head of the Bohemian Lollards, = though he probably still deceived himself by imagin- = ing that they were but Czech Realists. This con- = tinued unconsciousness of whither he was drifting, = together with the drift itself, is brought out very = clearly in the first letter of Hus preserved for us, Lj written in the early summer of 1408. From this point we shall leave the Letters, as far as possible, 2 to tell their own story, adding only such connecting = narratives and notes as may be needful to bind = together these living fragments into an intelligible — — whole. - ees
 
 ---
 [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 2 Letter I. To Archbishop Zbinek (June 30, 1408)|2. Letter I. To Archbishop Zbinek (June →]]
+
