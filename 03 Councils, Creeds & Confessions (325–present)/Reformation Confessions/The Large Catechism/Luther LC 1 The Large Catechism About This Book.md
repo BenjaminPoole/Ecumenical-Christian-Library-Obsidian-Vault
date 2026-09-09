@@ -14,15 +14,7 @@ tags:
 
 # 1. The Large Catechism About This Book
 
-#### From the Christian Classics Ethereal Library
-
-## The Large Catechism
-
-### By
-
-## Martin Luther
-
-#### Copyright 2010 Christian Classics Ethereal Library (CCEL)
+*By Martin Luther*
 
 ---
 [[Library/protestant reformers/Martin Luther/The Large Catechism/large-catechism-index|Contents]] · [[Luther LC 2 Short Preface of Dr. Martin Luther|2. Short Preface of Dr. Martin Luther →]]

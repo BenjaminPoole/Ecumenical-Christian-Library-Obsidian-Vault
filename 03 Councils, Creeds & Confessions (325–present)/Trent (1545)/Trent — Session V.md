@@ -16,7 +16,7 @@ tags:
 
 # Session V
 
-## Celebrated on the seventeenth day of the month of June, in the year MDXLVI.
+Celebrated on the seventeenth day of the month of June, in the year MDXLVI.
 
 ## DECREE CONCERNING ORIGINAL SIN
 

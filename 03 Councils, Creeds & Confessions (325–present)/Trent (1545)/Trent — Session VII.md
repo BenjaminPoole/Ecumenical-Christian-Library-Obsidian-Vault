@@ -101,9 +101,7 @@ No one shall be assumed unto the government of Cathedral churches, but one that 
 
 No one, by whatsoever dignity, grade, or pre-eminence distinguished, shall presume, in contravention of the institutes of the sacred canons, to accept and to hold at the same time several Metropolitan, or Cathedral, churches, whether by title, or in commendam, or under any other name whatsoever; seeing that he is to be accounted exceedingly fortunate whose lot it is to rule one church well and fruitfully, and unto the salvation of the souls committed to him. But as to those who now hold several churches contrary to the tenor of the present decree, they shall be bound, retaining the one which they may prefer, to resign the rest, within six months if they are at the free disposal of the Apostolic See, in other cases within the year; otherwise those churches, the one last obtained only excepted, shall be from that moment deemed vacant.
 
-## Chapter III
-
-Benefices shall be conferred solely on capable individuals.
+### CHAPTER III. Benefices shall be conferred solely on capable individuals.
 
 Inferior Ecclesiastical Benefices, especially such as have the cure of souls, shall be conferred on persons worthy and capable, and who can reside on the spot and exercise personally the said cure; in accordance with the Constitution of Alexander IIl., in the Council of Lateran, which begins, Quia nonnulli; and that other of Gregory X., published in the General Council of Lyons, which begins, Licet Canon. A collation, or provision, made otherwise, shall be wholly annulled: and let the ordinary collator know, that he will himself incur the penalties set down in the Constitution of the General Council (of Lateran), which begins, Grave nimis.
 
@@ -111,9 +109,7 @@ Inferior Ecclesiastical Benefices, especially such as have the cure of souls, sh
 
 Whosoever shall for the future presume to accept, or to retain at the same time several cures, or otherwise incompatible Ecclesiastical Benefices, whether by way of union for life, or in perpetual commendam, or under any other name or title whatsoever, in contravention of the appointment of the sacred Canons, and especially of the Constitution of Innocent III., beginning, De multa, shall be ipso jure deprived of the said benefices, according to the disposition of the said constitution, and also by virtue of the present Canon.
 
-## Chapter V
-
-The holders of several Benefices with cure of souls shall exhibit their dispensations to the Ordinary, who shall provide the churches with a Vicar, assigning a suitable portion of the fruits.
+### CHAPTER V. The holders of several Benefices with cure of souls shall exhibit their dispensations to the Ordinary, who shall provide the churches with a Vicar, assigning a suitable portion of the fruits.
 
 The Ordinaries of the places shall strictly compel all those who hold several cures, or otherwise incompatible, Ecclesiastical Benefices to exhibit their dispensations; and they shall otherwise proceed according to the Constitution of Gregory X., published in the General Council of Lyons, beginning Ordinarii, which (Constitution) this holy Synod thinks ought to be renewed, and doth renew; adding further, that the said Ordinaries are by all means to provide, even by deputing fit vicars and by assigning a suitable portion of the fruits, that the cure of souls be not in any way neglected, and that the said benfices be nowise defrauded of the services due to them: no appeals, privileges, or exemptions whatsoever, even with a commission of special judges, and inhibitions from the same, being of avail to any one in the matters aforenamed.
 
@@ -169,7 +165,7 @@ We, by the providence of God, presiding over the government of the universal Chu
 
 Given at Rome, at St. Peter's, in the year of the Lord's Incarnation MDXLVII, on the eighth of the calends of March, in the eleventh year of our Pontificate.
 
-## Fab. Bish. Of Spol. B. Motta
+Fab. Bish. Of Spol. B. Motta
 
 ---
 [[Trent — Session VI|← Session VI]] · [[Trent (1545)|Contents]] · [[Trent — Session VIII|Session VIII →]]

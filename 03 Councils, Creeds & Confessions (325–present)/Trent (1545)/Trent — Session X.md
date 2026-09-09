@@ -21,7 +21,7 @@ Celebrated at Bologna on the second day of the month of June, MDXLVII.
 
 Although this sacred and holy, oecumenical and general Synod hath decreed, that the Session which was to have been celebrated, in this illustrious city of Bologna, on the twenty-first day of the month of April last, on the subject of the Sacraments and of Reformation, in accordance with the decree promulgated in public Session in the city of Trent, should be deferred and prorogued to this present day, for certain reasons, and especially on account of the absence of some of the Fathers, who it was hoped would in a short time be present; wishing, however, even yet to deal kindly with those who have not come, the same sacred and holy Synod, lawfully assembled in the Holy Ghost, the same cardinals of the holy Roman Church, and Legates of the Apostolic See, presiding therein, resolves and decrees, that the said Session, which It had decreed to celebrate on this the second day of the month of June of this present year 1547, be deferred and prorogued, and It doth hereby defer and prorogue it, to the Thursday after the feast of the Nativity of the Blessed Virgin Mary, which will be the fifteenth of September next; for the expediting of the aforesaid and other matters; yet so, however, that the prosecution of the discussion and examination, as well of those things which relate to dogmas, as of those which regard reformation, shall not meanwhile be suspended; and that the said holy Synod freely may and can, at Its will and pleasure, even in a private congregation, abridge or prorogue the said term.
 
-## On the fourteenth day of September, MDXLVII, in a general Congregation held at Bologna, the Session, which was to have been held on the following day, was prorogued during the good pleasure of the sacred Council.
+On the fourteenth day of September, MDXLVII, in a general Congregation held at Bologna, the Session, which was to have been held on the following day, was prorogued during the good pleasure of the sacred Council.
 
 ## BULL FOR THE RESUMPTION OF THE COUNCIL OF TRENT, UNDER THE SOVEREIGN PONTIFF, JULIUS III
 
@@ -31,7 +31,7 @@ Whereas, in order to remove the dissensions touching our religion, which for a l
 
 Given at Rome, at St. Peter's, in the year MDXLVIII of our Lord's Incarnation, on the eighteenth of the calends of December, in the first year of our Pontificate.
 
-## M. Cardinal Crescen. Rom. Amaseus
+M. Cardinal Crescen. Rom. Amaseus
 
 ---
 [[Trent — Session IX|← Session IX]] · [[Trent (1545)|Contents]] · [[Trent — Session XI|Session XI →]]

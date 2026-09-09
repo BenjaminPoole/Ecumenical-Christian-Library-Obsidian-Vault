@@ -15,7 +15,7 @@ tags:
 ---
 # Sessions 10 to 12
 
-*Session 10*
+## Session 10
 
 4 May 1515
 

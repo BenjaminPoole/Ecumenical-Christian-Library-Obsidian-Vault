@@ -18,7 +18,7 @@ tags:
 
 ## ON THE MOST HOLY SACRAMENTS OF PENANCE AND EXTREME UNCTION
 
-## Doctrine on the Sacrament of Penance.
+### Doctrine on the Sacrament of Penance.
 
 The sacred and holy, oecumenical and general Synod of Trent, -lawfully assembled in the Holy Ghost, the same Legate and Nuncios of the holy Apostolic See presiding therein, --although, in the decree concerning Justification, there has been, through a certain kind of necessity, on account of the affinity of the subjects, much discourse introduced touching the sacrament of Penance; nevertheless, so great, in these our days, is the multitude of various errors relative to this sacrament, that it will be of no small public utility to have given thereof a more exact and full definition, wherein, all errors having been, under the protection of the Holy Ghost, pointed out and extirpated, Catholic truth may be made clear and resplendent; which (Catholic truth) this holy Synod now sets before all Christians to be perpetually retained.
 

@@ -13,7 +13,7 @@ tags:
 
 The Incarnation, the life of Christ, and the sacraments (Baptism, Confirmation, Eucharist, Penance).
 
-Up: [[Summa Theologiae|Summa Theologiae]] · [[Thomas Aqinus project/Thomas Aquinas|Thomas Aquinas]]
+Up: [[Summa Theologiae|Summa Theologiae]] · [[Thomas Aquinas|Thomas Aquinas]]
 
 ## Questions
 
