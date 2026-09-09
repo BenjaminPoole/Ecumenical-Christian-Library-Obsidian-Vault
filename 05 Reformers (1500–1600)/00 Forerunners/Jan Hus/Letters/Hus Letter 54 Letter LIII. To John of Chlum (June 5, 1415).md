@@ -55,3 +55,8 @@ grace of recantation, by the putting in of the letter which he had left at Pragu
 ---
 [[Hus Letter 53 Letter LII. To the Same (March 24, 1415)|← 53. Letter LII. To the Same (March 24, 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 55 Letter LIV. To his Friends at Constance ( June 5, 1415)|55. Letter LIV. To his Friends at Constance →]]
 
+
+
+
+
+

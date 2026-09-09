@@ -12,15 +12,7 @@ tags:
 
 # Posthumous sermons
 
-## series published for the first time
-
-## in MDCCCLIV
-
-## Also
-
-## three discourses,
-
-## published in 1798.
+*series published for the first time in MDCCCLIV. Also three discourses, published in 1798.*
 
 
 ---

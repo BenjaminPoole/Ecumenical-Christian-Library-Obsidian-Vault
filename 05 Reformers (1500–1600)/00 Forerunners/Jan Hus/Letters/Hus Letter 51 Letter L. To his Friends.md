@@ -73,3 +73,8 @@ we learn from an anonymous letter of April 2, provisions in Constance ran very s
 ---
 [[Hus Letter 50 Letter XLIX. To the Same (March 6, 1415)|← 50. Letter XLIX. To the Same (March 6, 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 52 Letter LI. To his Friends After the Pope's Flight|52. Letter LI. To his Friends After the →]]
 
+
+
+
+
+

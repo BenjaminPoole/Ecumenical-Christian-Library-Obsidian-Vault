@@ -10,7 +10,7 @@ written: "1742–1747 (Brainerd's diary); edited and published by Edwards, 1749"
 tags:
   - jonathan-edwards
 ---
-## PREFACE.
+# PREFACE.
 
 THERE are two ways of representing and recommending true religion and virtue to the world; the one, by doctrine and precept; the other, by instance and example; both are abundantly used in the *Holy Scriptures*. Not only are the grounds, nature, design, and importance of religion clearly exhibited in the doctrine of scripture its exercise and practice plainly delineated, and abundantly enforced, in its commands and counsels but there we have many excellent *examples* of religion, in its power and practice, set before us, in the histories both of the Old and New Testament.
 
@@ -46,13 +46,11 @@ It is fit the reader should be aware, that what Mr. Brainerd wrote in his *diary
 
 But a few days before his death, he ordered some part of his *diary* to be destroyed, which renders the account of his life the less complete. And there are some parts of his *diary* here left out for brevity’s sake, that would, I am sensible, have been a great advantage to the history, if they had been inserted; particularly the account of his wonderful successes among the Indians; which for substance is the same in his private *diary* with that which has already been made public, in the *journal* he kept by order of the society in Scotland, for their information. That account, I am of opinion, would be more entertaining and more profitable, if it were published as it is written in his *diary*, in connexion with his secret religion and the inward exercises of his mind, and also with the preceding and following parts of the story of his life. But because that account has been published already, I have therefore omitted that part. However, this defect may in a great measure be made up to the reader, by the public *journal.* But it is time to end this preface, that the reader may be no longer detained from the history itself.
 
-## Jonathan Edwards
+*Jonathan Edwards.*
 
 N. B. Those parts of the following *Life and Diary* which are not in turned commas, are the words of the *publisher*, President Edwards. They contain the *substance* of Mr. Brainerd’s Diary for the time specified. By this mode, needless repetitions were prevented.
 
-### THE
-
-# LIFE AND DIARY OF DAVID BRAINERD.
+# THE LIFE AND DIARY OF DAVID BRAINERD.
 
 ---
 

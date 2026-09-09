@@ -24,7 +24,7 @@ My dear brother; *The Lord of heaven*, that has carried me through many trials, 
 
 I am your affectionate brother,
 
-## David Brainerd
+*David Brainerd.*
 
 ---
 

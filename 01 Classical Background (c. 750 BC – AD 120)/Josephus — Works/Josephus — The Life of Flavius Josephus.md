@@ -21,7 +21,9 @@ By Flavius Josephus
 
 Translated by William Whiston
 
-1. The family from which I am derived is not an ignoble one, but hath
+## Section 1
+
+The family from which I am derived is not an ignoble one, but hath
 descended all along from the priests; and as nobility among several
 people is of a different origin, so with us to be of the sacerdotal
 dignity, is an indication of the splendor of a family. Now, I am not
@@ -50,7 +52,9 @@ down the genealogy of my family as I have found it described [2] in the
 public records, and so bid adieu to those who calumniate me [as of a
 lower original].
 
-2. Now, my father Matthias was not only eminent on account of his
+## Section 2
+
+Now, my father Matthias was not only eminent on account of his
 nobility, but had a higher commendation on account of his righteousness,
 and was in great reputation in Jerusalem, the greatest city we have. I
 was myself brought up with my brother, whose name was Matthias, for
@@ -78,7 +82,9 @@ being now nineteen years old, and began to conduct myself according to
 the rules of the sect of the Pharisees, which is of kin to the sect of
 the Stoics, as the Greeks call them.
 
-3. But when I was in the twenty-sixth year of my age, it happened that
+## Section 3
+
+But when I was in the twenty-sixth year of my age, it happened that
 I took a voyage to Rome, and this on the occasion which I shall now
 describe. At the time when Felix was procurator of Judea there were
 certain priests of my acquaintance, and very excellent persons they
@@ -101,7 +107,9 @@ as possible, to entreat her to procure that the priests might be set at
 liberty. And when, besides this favor, I had obtained many presents from
 Poppea, I returned home again.
 
-4. And now I perceived innovations were already begun, and that there
+## Section 4
+
+And now I perceived innovations were already begun, and that there
 were a great many very much elevated in hopes of a revolt from the
 Romans. I therefore endeavored to put a stop to these tumultuous
 persons, and persuaded them to change their minds; and laid before their
@@ -114,7 +122,9 @@ said with vehement exhortation, because I foresaw that the end of such a
 war would be most unfortunate to us. But I could not persuade them; for
 the madness of desperate men was quite too hard for me.
 
-5. I was then afraid, lest, by inculcating these things so often, I
+## Section 5
+
+I was then afraid, lest, by inculcating these things so often, I
 should incur their hatred and their suspicions, as if I were of our
 enemies' party, and should run into the danger of being seized by them,
 and slain; since they were already possessed of Antonia, which was the
@@ -130,7 +140,9 @@ away, still hoping that Gessius [Florus] would not be long ere he
 came, and that with great forces, and so put an end to these seditious
 proceedings.
 
-6. But, upon his coming and fighting, he was beaten, and a great many
+## Section 6
+
+But, upon his coming and fighting, he was beaten, and a great many
 of those that were with him fell. And this disgrace which Gessius [with
 Cestius] received, became the calamity of our whole nation; for those
 that were fond of the war were so far elevated with this success, that
@@ -155,7 +167,9 @@ the Jewish war. I only mention them now, because I would demonstrate to
 my readers, that the Jews' war with the Romans was not voluntary, but
 that, for the main, they were forced by necessity to enter into it.
 
-7. So when Gessius had been beaten, as we have said already, the
+## Section 7
+
+So when Gessius had been beaten, as we have said already, the
 principal men of Jerusalem, seeing that the robbers and innovators had
 arms in great plenty, and fearing lest they, while they were unprovided
 of arms, should be in subjection to their enemies, which also came to
@@ -169,7 +183,9 @@ had [than to be kept there]; for that it had been resolved, That those
 our best men should always have their arms ready against futurity; but
 still so, that they should wait to see what the Romans would do.
 
-8. When I had therefore received these instructions, I came into
+## Section 8
+
+When I had therefore received these instructions, I came into
 Galilee, and found the people of Sepphoris in no small agony about their
 country, by reason that the Galileans had resolved to plunder it, on
 account of the friendship they had with the Romans, and because they
@@ -181,7 +197,9 @@ which is a city of Phoenicia, as often as they pleased; though I still
 found the inhabitants of Tiberias ready to take arms, and that on the
 occasion following:--
 
-9. There were three factions in this city. The first was composed of men
+## Section 9
+
+There were three factions in this city. The first was composed of men
 of worth and gravity; of these Julius Capellus was the head. Now he, as
 well as all his companions, Herod the son of Miarus, and Herod the son
 of Gamalus, and Compsus the son of Compsus; [for as to Compsus's brother
@@ -230,7 +248,9 @@ the villages that belonged to Gadara and Hippos on fire; which
 villages were situated on the borders of Tiberias, and of the region of
 Scythopolis.
 
-10. And this was the state Tiberias was now in. But as for Gischala,
+## Section 10
+
+And this was the state Tiberias was now in. But as for Gischala,
 its affairs were thus:-- When John, the son of Levi, saw some of the
 citizens much elevated upon their revolt from the Romans, he labored to
 restrain them, and entreated them that they would keep their allegiance
@@ -243,7 +263,9 @@ enraged, that he armed all his men, and joined battle with the people
 forementioned; and rebuilt Gischala after a manner better than before,
 and fortified it with walls for its future security.
 
-11. But Gamala persevered in its allegiance to the Romans, for the
+## Section 11
+
+But Gamala persevered in its allegiance to the Romans, for the
 reason following:-- Philip, the son of Jacimus, who was their governor
 under king Agrippa, had been unexpectedly preserved when the royal
 palace at Jerusalem had been besieged; but, as he fled away, had fallen
@@ -321,7 +343,9 @@ have elsewhere related. But still Philip kept possession of the citadel
 of Gamala, and of the country adjoining to it, which thereby continued
 in their allegiance to the Romans.
 
-12. Now, as soon as I was come into Galilee, and had learned this state
+## Section 12
+
+Now, as soon as I was come into Galilee, and had learned this state
 of things by the information of such as told me of them, I wrote to the
 sanhedrim at Jerusalem about them, and required their direction what I
 should do. Their direction was, that I should continue there, and that,
@@ -354,7 +378,9 @@ from Bethmaus, and went into the Upper Galilee. But Jesus and his party
 slew all the Greeks that were inhabitants of Tiberias, and as many
 others as were their enemies before the war began.
 
-13. When I understood this state of things, I was greatly provoked,
+## Section 13
+
+When I understood this state of things, I was greatly provoked,
 and went down to Tiberias, and took all the care I could of the royal
 furniture, to recover all that could be recovered from such as had
 plundered it. They consisted of candlesticks made of Corinthian brass,
@@ -394,7 +420,9 @@ if I had forbidden him, I should have been stoned by them. When I had
 therefore permitted this to be done by John, he gained vast sums of
 money by this his knavery.
 
-14. But when I had dismissed my fellow legates, and sent them back to
+## Section 14
+
+But when I had dismissed my fellow legates, and sent them back to
 Jerusalem, I took care to have arms provided, and the cities fortified.
 And when I had sent for the most hardy among the robbers, I saw that it
 was not in my power to take their arms from them; but I persuaded the
@@ -413,7 +441,9 @@ causes; and with their approbation it was that I gave my sentences,
 while I endeavored not to mistake what justice required, and to keep my
 hands clear of all bribery in those determinations.
 
-15. I was now about the thirtieth year of my age; in which time of life
+## Section 15
+
+I was now about the thirtieth year of my age; in which time of life
 it is a hard thing for any one to escape the calumnies of the envious,
 although he restrain himself from fulfilling any unlawful desires,
 especially where a person is in great authority. Yet did I preserve
@@ -432,7 +462,9 @@ unacquainted with those that do as they ought to do, delivered me still
 out of the hands of these my enemies, and afterwards preserved me when I
 fell into those many dangers which I shall relate hereafter.
 
-16. Now the multitude of the Galileans had that great kindness for me,
+## Section 16
+
+Now the multitude of the Galileans had that great kindness for me,
 and fidelity to me, that when their cities were taken by force, and
 their wives and children carried into slavery, they did not so deeply
 lament for their own calamities, as they were solicitous for my
@@ -447,7 +479,9 @@ should procure him what necessaries soever he should stand in need of.
 Now at this time my abode was in a village of Galilee, which is named
 Cans.
 
-17. But when John was come to the city of Tiberias, he persuaded the men
+## Section 17
+
+But when John was come to the city of Tiberias, he persuaded the men
 to revolt from their fidelity to me, and to adhere to him; and many
 of them gladly received that invitation of his, as ever fond of
 innovations, and by nature disposed to changes, and delighting in
@@ -474,7 +508,9 @@ reproach, and that they would then justly be suspected by those that
 should be their governors hereafter, as if they were not likely to be
 faithful to them neither.
 
-18. But before I had spoken all I designed, I heard one of my own
+## Section 18
+
+But before I had spoken all I designed, I heard one of my own
 domestics bidding me come down, for that it was not a proper time to
 take care of retaining the good-will of the people of Tiberias, but to
 provide for my own safety, and escape my enemies there; for John had
@@ -488,7 +524,9 @@ been carried [out of the crowd] upon the back of one Herod of Tiberias,
 and guided by him down to the lake, where I seized a ship, and got into
 it, and escaped my enemies unexpectedly, and came to Tarichese.
 
-19. Now, as soon as the inhabitants of that city understood the
+## Section 19
+
+Now, as soon as the inhabitants of that city understood the
 perfidiousness of the people of Tiberias, they were greatly provoked at
 them. So they snatched up their arms, and desired me to be their leader
 against them; for they said they would avenge their commander's cause
@@ -510,7 +548,9 @@ do, while the Romans expected no other than that we should destroy one
 another by our mutual seditions. And by saying this, I put a stop to the
 anger of the Galileans.
 
-20. But now John was afraid for himself, since his treachery had proved
+## Section 20
+
+But now John was afraid for himself, since his treachery had proved
 unsuccessful. So he took the armed men that were about him, and removed
 from Tiberias to Gischala, and wrote to me to apologize for himself
 concerning What had been done, as if it had been done without his
@@ -519,7 +559,9 @@ disadvantage. He also added oaths and certain horrible curses upon
 himself, and supposed he should be thereby believed in the points he
 wrote about to me.
 
-21. But now another great number of the Galileans came together again
+## Section 21
+
+But now another great number of the Galileans came together again
 with their weapons, as knowing the man, how wicked and how sadly
 perjured he was, and desired me to lead them against him and promised me
 that they would utterly both him and Gischala. Hereupon I professed that
@@ -530,7 +572,9 @@ intended, which was to put an end to these troubles without bloodshed;
 and when I had prevailed with the multitude of the Galileans to let me
 do so, I came to Sepphoris.
 
-22. But the inhabitants of this city having determined to continue in
+## Section 22
+
+But the inhabitants of this city having determined to continue in
 their allegiance to the Romans, were afraid of my coming to them, and
 tried, by putting me upon another action, to divert me, that they might
 be freed from the terror they were in. Accordingly, they sent to Jesus,
@@ -569,7 +613,9 @@ to get those whom he had formerly had with him together again. But I
 threatened the inhabitants of Sepphoris, that, if they would not leave
 off their ungrateful treatment of me, I would punish them sufficiently.
 
-23. At this time it was that two great men, who were under the
+## Section 23
+
+At this time it was that two great men, who were under the
 jurisdiction of the king [Agrippa] came to me out of the region of
 Trachonius, bringing their horses and their arms, and carrying with them
 their money also; and when the Jews would force them to be circumcised,
@@ -582,7 +628,9 @@ the multitude, I provided for the men that were come to us whatsoever
 it was they wanted, according to their usual way of living, and that in
 great plenty also.
 
-24. Now king Agrippa sent an army to make themselves masters of the
+## Section 24
+
+Now king Agrippa sent an army to make themselves masters of the
 citadel of Gamala, and over it Equieulus Modius; but the forces that
 were sent were not allow to encompass the citadel quite round, but lay
 before it in the open places, and besieged it. But when Ebutius the
@@ -619,7 +667,9 @@ custody of Scythopolis intrusted to his care by the enemy; and when
 I had hindered him from doing any further mischief to Tiberias, I set
 myself to make provision for the affairs of Galilee.
 
-25. But when John, the son of Levi, who, as we before told you, abode at
+## Section 25
+
+But when John, the son of Levi, who, as we before told you, abode at
 Gischala, was informed how all things had succeeded to my mind, and
 that I was much in favor with those that were under me, as also that the
 enemy were greatly afraid of me, he was not pleased with it, as thinking
@@ -644,7 +694,9 @@ privately watch for a proper opportunity to lay snares for me; and
 indeed I thereby came into the greatest danger, on the occasion
 following.
 
-26. There were some bold young men of the village of Dabaritta, who
+## Section 26
+
+There were some bold young men of the village of Dabaritta, who
 observed that the wife of Ptolemy, the king's procurator, was to make
 a progress over the great plain with a mighty attendance, and with some
 horsemen that followed as a guard to them, and this out of a country
@@ -673,7 +725,9 @@ been plundered, and to send it to him; and I threatened that I would
 order them to be put to death by way of punishment, if they discovered
 this my command to any other person.
 
-27. Now, when all Galilee was filled with this rumor, that their country
+## Section 27
+
+Now, when all Galilee was filled with this rumor, that their country
 was about to be betrayed by me to the Romans, and when all men were
 exasperated against me, and ready to bring me to punishment, the
 inhabitants of Tarichee did also themselves suppose that what the young
@@ -694,7 +748,9 @@ which your commander-in-chief is going to betray; hate him therefore on
 both these accounts, and bring the man who hath acted thus insolently,
 to his deserved punishment."
 
-28. When he had said this, and the multitude had openly applauded him
+## Section 28
+
+When he had said this, and the multitude had openly applauded him
 for what he had said, he took some of the armed men, and made haste
 away to the house in which I lodged, as if he would kill me immediately,
 while I was wholly insensible of all till this disturbance happened; and
@@ -723,7 +779,9 @@ as soon as I should own to them that I kept the money for the king, it
 would be looked on as a confession of my treason, and they should then
 be allowed to kill me.
 
-29. When, therefore, silence was made by the whole multitude, I spake
+## Section 29
+
+When, therefore, silence was made by the whole multitude, I spake
 thus to them: "O my countrymen! I refuse not to die, if justice so
 require. However, I am desirous to tell you the truth of this matter
 before I die; for as I know that this city of yours [Tarichee] was a
@@ -742,7 +800,9 @@ credit to what I promised, and returned every one to his own home. So I
 escaped the forementioned danger, beyond all my hopes, and returned to
 my own house, accompanied with my friends, and twenty armed men also.
 
-30. However, these robbers and other authors of this tumult, who were
+## Section 30
+
+However, these robbers and other authors of this tumult, who were
 afraid, on their own account, lest I should punish them for what they
 had done, took six hundred armed men, and came to the house where I
 abode, in order to set it on fire. When this their insult was told me, I
@@ -761,7 +821,9 @@ the house more armed men than they had themselves; so they ran away
 immediately, while I, by the use of this stratagem, escaped this their
 second treacherous design against me.
 
-31. But there were still some that irritated the multitude against me,
+## Section 31
+
+But there were still some that irritated the multitude against me,
 and said that those great men that belonged to the king ought not to
 be suffered to live, if they would not change their religion to the
 religion of those to whom they fled for safety: they spake reproachfully
@@ -793,7 +855,9 @@ in the country that was under my jurisdiction. However, they escaped at
 length, and king Agrippa forgave them their offenses. And this was the
 conclusion of what concerned these men.
 
-32. But as for the inhabitants of the city of Tiberias, they wrote to
+## Section 32
+
+But as for the inhabitants of the city of Tiberias, they wrote to
 the king, and desired him to send them forces sufficient to be a guard
 to their country; for that they were desirous to come over to him: this
 was what they wrote to him. But when I came to them, they desired me to
@@ -833,7 +897,9 @@ to take a master with them, and follow him to the city of Tiberias. I
 also myself went on board one of those ships, with my friends, and the
 seven armed men already mentioned, and sailed for Tiberias.
 
-33. But now, when the people of Tiberias perceived that there were no
+## Section 33
+
+But now, when the people of Tiberias perceived that there were no
 forces come from the king, and yet saw the whole lake full of ships,
 they were in fear what would become of their city, and were greatly
 terrified, as supposing that the ships were full of men on board; so
@@ -853,7 +919,9 @@ complied readily with this proposal, and sent me the men forementioned,
 I put them on board a ship, and sent them away to Tarichese; and ordered
 them to be kept in prison.
 
-34. And by this stratagem it was that I gradually got all the senate of
+## Section 34
+
+And by this stratagem it was that I gradually got all the senate of
 Tiberias into my power, and sent them to the city forementioned, with
 many of the principal men among the populace, and those not fewer
 in number than the other. But when the multitude saw into what great
@@ -873,7 +941,9 @@ of his hands, it was with difficulty that I granted it. So, in order to
 prevent the loss of both his hands, he willingly took his sword, and cut
 off his own left hand; and this put an end to the sedition.
 
-35. Now the men of Tiberias, after I was gone to Taricheae, perceived
+## Section 35
+
+Now the men of Tiberias, after I was gone to Taricheae, perceived
 what stratagem I had used against them, and they admired how I had put
 an end to their foolish sedition, without shedding of blood. But now,
 when I had sent for some of those multitudes of the people of Tiberias
@@ -894,7 +964,9 @@ death]. When I had said this to them during supper time, I in the
 morning ordered Justus, and all the rest that were in prison, to be
 loosed out of it, and sent away.
 
-36. But before this, it happened that Philip, the son of Jacimus, went
+## Section 36
+
+But before this, it happened that Philip, the son of Jacimus, went
 out of the citadel of Gamala upon the following occasion: When Philip
 had been informed that Varus was put out of his government by king
 Agrippa, and that Equieulus Modius, a man that was of old his friend and
@@ -916,7 +988,9 @@ possible care that none of his subjects should be guilty of making any
 innovation. Accordingly, upon these directions from the king, he made
 haste to do what he was commanded.
 
-37. Now there was one Joseph, the son of a female physician, who excited
+## Section 37
+
+Now there was one Joseph, the son of a female physician, who excited
 a great many young men to join with him. He also insolently addressed
 himself to the principal persons at Gamala, and persuaded them to revolt
 from the king; and take up arms, and gave them hopes that they should,
@@ -938,7 +1012,9 @@ Japha, and Mount Tabor. [15] I also laid up a great quantity of corn
 in these places, and arms withal, that might be for their security
 afterward.
 
-38. But the hatred that John, the son of Levi, bore to me, grew now
+## Section 38
+
+But the hatred that John, the son of Levi, bore to me, grew now
 more violent, while he could not bear my prosperity with patience. So
 he proposed to himself, by all means possible, to make away with me;
 and built the walls of Gischala, which was the place of his nativity. He
@@ -967,7 +1043,9 @@ high priests and of the rulers of the people bore witness that I had
 acted like an excellent general, and that it was the work of ill men to
 accuse one against whom they had nothing to say.
 
-39. When Simon heard Ananus say this, he desired that the messengers
+## Section 39
+
+When Simon heard Ananus say this, he desired that the messengers
 would conceal the thing, and not let it come among many; for that he
 would take care to have Josephus removed out of Galilee very quickly. So
 he called for John's brother, [Simon,] and charged him that they should
@@ -991,7 +1069,9 @@ unacquainted with the practices of their country; but if, besides these,
 they should say, they loved me because I was a priest, they should
 reply, that two of these were priests also.
 
-40. Now, when they had given Jonathan and his companions these
+## Section 40
+
+Now, when they had given Jonathan and his companions these
 instructions, they gave them forty thousand [drachmae] out of the public
 money: but when they heard that there was a certain Galilean that then
 sojourned at Jerusalem, whose name was Jesus, who had about him a band
@@ -1010,7 +1090,9 @@ They also wrote to John to make all ready for fighting me, and gave
 orders to the inhabitants of Sepphoris, and Gabara, and Tiberins, to
 send auxiliaries to John.
 
-41. Now, as my father wrote me an account of this, [for Jesus the son of
+## Section 41
+
+Now, as my father wrote me an account of this, [for Jesus the son of
 Gamala, who was present in that council, a friend and companion of mine,
 told him of it,] I was very much troubled, as discovering thereby that
 my fellow citizens proved so ungrateful to me, as, out of envy, to give
@@ -1032,7 +1114,9 @@ I staid with them, they supposed that they should suffer no harm. So
 they all came into the great plain, wherein I lived, the name of which
 was Asochis.
 
-42. But wonderful it was what a dream I saw that very night; for when I
+## Section 42
+
+But wonderful it was what a dream I saw that very night; for when I
 had betaken myself to my bed, as grieved and disturbed at the news that
 had been written to me, it seemed to me, that a certain person stood by
 me, [18] and said, "O Josephus! leave off to afflict thy soul, and
@@ -1050,7 +1134,9 @@ entreaties, they compelled me to take an oath, that I would stay
 with them: they also cast abundance of reproaches upon the people of
 Jerusalem, that they would not let their country enjoy peace.
 
-43. When I heard this, and saw what sorrow the people were in, I was
+## Section 43
+
+When I heard this, and saw what sorrow the people were in, I was
 moved with compassion to them, and thought it became me to undergo the
 most manifest hazards for the sake of so great a multitude; so I let
 them know I would stay with them. And when I had given order that five
@@ -1070,7 +1156,9 @@ a distance; for when Placidus perceived that I was earnest to come to
 a battle, he was afraid, and avoided it. Yet did he not remove from the
 neighborhood of Ptolemais.
 
-44. About this time it was that Jonathan and his fellow legates came.
+## Section 44
+
+About this time it was that Jonathan and his fellow legates came.
 They were sent, as we have said already, by Simon, and Ananus the high
 priest. And Jonathan contrived how he might catch me by treachery;
 for he durst not make any attempt upon me openly. So he wrote me the
@@ -1125,7 +1213,9 @@ Placidus, who hath a mind to go up into Galilee; and this I do here at
 Chabolo. Do you therefore, on the receipt of this epistle, come hither
 to me. Fare you well."
 
-45. When I had written thus, and given the letter to be carried by
+## Section 45
+
+When I had written thus, and given the letter to be carried by
 the soldier, I sent along with him thirty of the Galileans of the best
 characters, and gave them instructions to salute those ambassadors,
 but to say nothing else to them. I also gave orders to as many of those
@@ -1167,7 +1257,9 @@ and villages in Galilee; I will come to any of them which you please,
 excepting Gaburn and Gischala; the one of which is John's native city,
 and the other in confederacy and friendship with him."
 
-46. When Jonathan and his partners had received this letter, they wrote
+## Section 46
+
+When Jonathan and his partners had received this letter, they wrote
 me no more answers, but called a council of their friends together; and
 taking John into their consultation, they took counsel together by what
 means they might attack me. John's opinion was, that they should write
@@ -1194,7 +1286,9 @@ the roads that led from this country to the city Jerusalem, and gave him
 charge to lay hold of such as traveled with letters about them, to keep
 the men in bonds upon the place, but to send me the letters.
 
-47. When I had laid these commands upon them, I gave them orders, and
+## Section 47
+
+When I had laid these commands upon them, I gave them orders, and
 bid them take their arms and bring three days' provision with them, and
 be with me the next day. I also parted those that were about me into
 four parts, and ordained those of them that were most faithful to me to
@@ -1218,7 +1312,9 @@ got the letters, which were full of reproaches and lies; and I intended
 to fall upon these men, without saying a word of these matters to any
 body.
 
-48. Now, as soon as Jonathan and his companions heard of my coming, they
+## Section 48
+
+Now, as soon as Jonathan and his companions heard of my coming, they
 took all their own friends, and John with them, and retired to the house
 of Jesus, which indeed was a large castle, and no way unlike a citadel;
 so they privately laid a band of armed men therein, and shut all the
@@ -1245,7 +1341,9 @@ I appeared, there was immediately an acclamation made to me by the whole
 multitude, and a cry in my commendation by them, who confessed their
 thanks was owing to me for my good government of them.
 
-49. When Jonathan and his companions heard this, they were in fear of
+## Section 49
+
+When Jonathan and his companions heard this, they were in fear of
 their own lives, and in danger lest they should be assaulted by the
 Galileans on nay account; so they contrived how they might run away.
 But as they were not able to get off, for I desired them to stay, they
@@ -1275,7 +1373,9 @@ them. And I further conjure you, O Galileans! to hide no part of the
 truth, but to speak before these men as before judges, whether I have in
 any thing acted otherwise than well."
 
-50. While I was thus speaking, the united voices of all the people
+## Section 50
+
+While I was thus speaking, the united voices of all the people
 joined together, and called me their benefactor and savior, and attested
 to my former behavior, and exhorted me to continue so to do hereafter;
 and they all said, upon their oaths, that their wives had been preserved
@@ -1291,7 +1391,9 @@ delivered them up voluntarily; for I was not willing that my enemies
 should know any thing of the guards I had set, lest they should be
 afraid, and leave off writing hereafter.
 
-51. When the multitude heard these things, they were greatly provoked
+## Section 51
+
+When the multitude heard these things, they were greatly provoked
 at Jonathan, and his colleagues that were with him, and were going to
 attack them, and kill them; and this they had certainly done, unless
 I had restrained the anger of the Galileans, and said, that "I forgave
@@ -1310,7 +1412,9 @@ multitude to follow me to the village Sogane, which was twenty furlongs
 off Gabara; and by using this stratagem, I so managed myself, as not to
 appear to begin a civil war amongst them.
 
-52. But when I was come near Sogane, I caused the multitude to make a
+## Section 52
+
+But when I was come near Sogane, I caused the multitude to make a
 halt, and exhorted them not to be so easily provoked to anger, and to
 the inflicting such punishments as could not be afterwards recalled: I
 also gave order, that a hundred men, who were already in years, and were
@@ -1332,7 +1436,9 @@ conducted the old men as far as the bounds of Galilee, and set guards in
 the roads, that it might not be easily known by any one that these men
 were gone. And when I had thus done, I went and abode at Japha.
 
-53. Now Jonathan and his colleagues, having failed of accomplishing what
+## Section 53
+
+Now Jonathan and his colleagues, having failed of accomplishing what
 they would have done against me, sent John back to Gischala, but went
 themselves to the city of Tiberias, expecting it would submit itself to
 them; and this was founded on a letter which Jesus, their then governor,
@@ -1359,7 +1465,9 @@ However, they desired me to lodge some where else, because the next day
 was the sabbath, and that it was not fit the city of Tiberias should be
 disturbed [on that day].
 
-54. So I suspected nothing, and went away to Tarichese; yet did I withal
+## Section 54
+
+So I suspected nothing, and went away to Tarichese; yet did I withal
 leave some to make inquiry in the city how matters went, and whether any
 thing was said about me: I also set many persons all the way that led
 from Tarichese to Tiberias, that they might communicate from one to
@@ -1394,7 +1502,9 @@ design to remove me out of the city, under the pretense of the want of
 extraordinary assistance, while they might dispose the city to be my
 enemy.
 
-55. As for myself, although I knew of their design, yet did I comply
+## Section 55
+
+As for myself, although I knew of their design, yet did I comply
 with what they proposed, lest the people of Tiberias should have
 occasion to suppose that I was not careful of their security. I
 therefore went out; but, when I was at the place, I found not the least
@@ -1426,7 +1536,9 @@ very much disorder, because they had not done what they had designed
 to do, on account of my stratagem, which was opposite to their
 undertakings.
 
-56. Now there was one whose name was Ananias [a wicked man he was, and
+## Section 56
+
+Now there was one whose name was Ananias [a wicked man he was, and
 very mischievous]; he proposed that a general religious fast [23] should
 be appointed the next day for all the people, and gave order that at the
 same hour they should come to the same place, without any weapons, to
@@ -1447,7 +1559,9 @@ our enemies. I also myself took my breastplate, and girded on my sword,
 so that it might be, as far as it was possible, concealed, and came into
 the Proseucha.
 
-57. Now Jesus, who was the ruler, commanded that they should exclude all
+## Section 57
+
+Now Jesus, who was the ruler, commanded that they should exclude all
 that came with me, for he kept the door himself, and suffered none but
 his friends to go in. And while we were engaged in the duties of
 the day, and had betaken ourselves to our prayers, Jesus got up, and
@@ -1469,7 +1583,9 @@ a greater rage against the men, I said, "But if I have not done well in
 paying our ambassadors out of the public stock, leave off your anger at
 me, for I will repay the twenty pieces of gold myself."
 
-58. When I had said this, Jonathan and his colleagues held their peace;
+## Section 58
+
+When I had said this, Jonathan and his colleagues held their peace;
 but the people were still more irritated against them, upon their openly
 showing their unjust ill-will to me. When Jesus saw this change in file
 people, he ordered them to depart, but desired the senate to stay; for
@@ -1490,7 +1606,9 @@ swords, and threatened to smite them, if they offered any violence to
 me. The people also took up stones, and were about to throw them at
 Jonathan; and so they snatched me from the violence of my enemies.
 
-59. But as I was gone out a little way, I was just upon meeting John,
+## Section 59
+
+But as I was gone out a little way, I was just upon meeting John,
 who was marching with his armed men. So I was afraid of him, and turned
 aside, and escaped by a narrow passage to the lake, and seized on a
 ship, and embarked in it, and sailed over to Tarichese. So, beyond my
@@ -1509,7 +1627,9 @@ determination; whereupon they were prevailed on. At which time, also,
 John, when the snares he had laid did not take effect, returned back to
 Gischala.
 
-60. Now, in a few days, those ambassadors whom he had sent, came back
+## Section 60
+
+Now, in a few days, those ambassadors whom he had sent, came back
 again and informed us, that the people were greatly provoked at Ananus,
 and Simon the son of Gamaliel, and their friends; that, without any
 public determination, they had sent to Galilee, and had done their
@@ -1528,7 +1648,9 @@ Jonathan and his colleagues to return home. So I immediately sent them
 the letter, and bid him that carried it to inquire, as well as he could,
 how they intended to act [on this occasion.]
 
-61. Now, when they had received that letter, and were thereby greatly
+## Section 61
+
+Now, when they had received that letter, and were thereby greatly
 disturbed, they sent for John, and for the senators of Tiberias, and for
 the principal men of the Gabarens, and proposed to hold a council,
 and desired them to consider what was to be done by them. However, the
@@ -1547,7 +1669,9 @@ the other two [Simon and Joazar] should be left behind to tarry at
 Tiberins. They also took along with them a hundred soldiers for their
 guard.
 
-62. However, the governors of Tiberias took care to have their city
+## Section 62
+
+However, the governors of Tiberias took care to have their city
 secured with walls, and commanded their inhabitants to take their arms.
 They also sent for a great many soldiers from John, to assist them
 against me, if there should be occasion for them. Now John was at
@@ -1579,7 +1703,9 @@ decent bier for me, and, standing about it, they mourned over me in the
 way of jest and sport; and I could not but be myself in a pleasant humor
 upon the sight of this madness of theirs.
 
-63. And now being desirous to catch Simon by a wile, and Joazar with
+## Section 63
+
+And now being desirous to catch Simon by a wile, and Joazar with
 him, I sent a message to them, and desired them to come a little way out
 of the city, and many of their friends to guard them; for I said I
 would come down to them, and make a league with them, and divide the
@@ -1611,7 +1737,9 @@ occasion of what had happened; and I promised that I would send him safe
 and secure to Jerusalem, and withal would give him provisions for his
 journey thither.
 
-64. But on the next day, I brought ten thousand armed men with me, and
+## Section 64
+
+But on the next day, I brought ten thousand armed men with me, and
 came to Tiberias. I then sent for the principal men of the multitude
 into the public place, and enjoined them to tell me who were the authors
 of the revolt; and when they told me who the men were, I sent them bound
@@ -1633,7 +1761,9 @@ severer punishment upon them, unless they produced before us whatsoever
 they had plundered; and when a great many spoils were brought together,
 I restored to every one of Tiberias what they claimed to be their own.
 
-65. And now I am come to this part of my narration, I have a mind to say
+## Section 65
+
+And now I am come to this part of my narration, I have a mind to say
 a few things to Justus, who hath himself written a history concerning
 these affairs, as also to others who profess to write history, but have
 little regard to truth, and are not afraid, either out of ill-will or
@@ -1770,7 +1900,9 @@ of attestation to what was true, as all that read histories may do. And
 so much shall be said concerning Justus [24] which I am obliged to add
 by way of digression.
 
-66. Now, when I had settled the affairs of Tiberias, and had assembled
+## Section 66
+
+Now, when I had settled the affairs of Tiberias, and had assembled
 my friends as a sanhedrim, I consulted what I should do as to John.
 Whereupon it appeared to be the opinion of all the Galileans, that
 I should arm them all, and march against John, and punish him as the
@@ -1791,7 +1923,9 @@ metropolis of Tyre; and when John saw that he had been outwitted by my
 stratagem, he continued afterward in his own country, and was in great
 fear of me.
 
-67. But about this time it was that the people of Sepphoris grew
+## Section 67
+
+But about this time it was that the people of Sepphoris grew
 insolent, and took up arms, out of a confidence they had in the strength
 of their walls, and because they saw me engaged in other affairs also.
 So they sent to Cestius Gallus, who was president of Syria, and desired
@@ -1825,7 +1959,9 @@ report to be believed, I pretended to be in fear as well as they.
 Thus were the inhabitants of Sepphoris unexpectedly preserved by this
 contrivance of mine.
 
-68. Nay, indeed, Tiberias had like to have been plundered by the
+## Section 68
+
+Nay, indeed, Tiberias had like to have been plundered by the
 Galileans also upon the following occasion:-- The chief men of the
 senate wrote to the king, and desired that he would come to them, and
 take possession of their city. The king promised to come, and wrote a
@@ -1841,7 +1977,9 @@ desired leave of me to go down and utterly destroy it; for they bore
 the like ill-will to the people of Tiberias, as they did to those of
 Sepphoris.
 
-69. When I heard this, I was in doubt what to do, and hesitated by what
+## Section 69
+
+When I heard this, I was in doubt what to do, and hesitated by what
 means I might deliver Tiberias from the rage of the Galileans; for
 I could not deny that those of Tiborias had written to the king, and
 invited him to come to them; for his letters to them, in answer thereto,
@@ -1864,7 +2002,9 @@ Tiberias was in danger of being utterly destroyed a second time, it
 escaped the danger by my skillful management, and the care that I had
 for its preservation.
 
-70. About this time it was that Justus, the son of Pistus, without
+## Section 70
+
+About this time it was that Justus, the son of Pistus, without
 my knowledge, ran away to the king; the occasion of which I will here
 relate. Upon the beginning of the war between the Jews and Romans, the
 people of Tiberias resolved to submit to the king, and not to revolt
@@ -1883,7 +2023,9 @@ therefore much afraid of me, lest at length my passion should come to
 extremity; so he went to the king, as supposing that he would dwell
 better and more safely with him.
 
-71. Now, when the people of Sepphoris had, in so surprising a manner,
+## Section 71
+
+Now, when the people of Sepphoris had, in so surprising a manner,
 escaped their first danger, they sent to Cestius Gallus, and desired him
 to come to them immediately, and take possession of their city, or else
 to send forces sufficient to repress all their enemies' incursions
@@ -1912,7 +2054,9 @@ both that which led to Cana, and that which led to the fortress Gamala,
 that he might hinder their inhabitants from getting provisions out of
 Galilee.
 
-72. As soon as I had gotten intelligence of this, I sent two thousand
+## Section 72
+
+As soon as I had gotten intelligence of this, I sent two thousand
 armed men, and a captain over them, whose name was Jeremiah, who raised
 a bank a furlong off Julias, near to the river Jordan, and did no
 more than skirmish with the enemy; till I took three thousand soldiers
@@ -1936,7 +2080,9 @@ concern for me. I therefore sent for the physicians, and while I was
 under their hands, I continued feverish that day; and as the physicians
 directed, I was that night removed to Taricheee.
 
-73. When Sylla and his party were informed what happened to me, they
+## Section 73
+
+When Sylla and his party were informed what happened to me, they
 took courage again; and understanding that the watch was negligently
 kept in our camp, they by night placed a body of horsemen in ambush
 beyond Jordan, and when it was day they provoked us to fight; and as we
@@ -1946,7 +2092,9 @@ and made them run away; so they slew six men of our side. Yet did they
 not go off with the victory at last; for when they heard that some armed
 men were sailed from Taricheae to Juli, they were afraid, and retired.
 
-74. It was not now long before Vespasian came to Tyre, and king Agrippa
+## Section 74
+
+It was not now long before Vespasian came to Tyre, and king Agrippa
 with him; but the Tyrians began to speak reproachfully of the king,
 and called him an enemy to the Romans. For they said that Philip, the
 general of his army, had betrayed the royal palace and the Roman forces
@@ -1975,7 +2123,9 @@ Jews. However, it will, I think, be fit for me to add now an account of
 those actions of my life which I have not related in that book of the
 Jewish war.
 
-75. For when the siege of Jotapata was over, and I was among the Romans,
+## Section 75
+
+For when the siege of Jotapata was over, and I was among the Romans,
 I was kept with much Care, by means of the great respect that Vespasian
 showed me. Moreover, at his command, I married a virgin, who was from
 among the captives of that country [25] yet did she not live with me
@@ -2012,7 +2162,9 @@ of them; so he immediately commanded them to be taken down, and to have
 the greatest care taken of them, in order to their recovery; yet two of
 them died under the physician's hands, while the third recovered.
 
-76. But when Titus had composed the troubles in Judea, and conjectured
+## Section 76
+
+But when Titus had composed the troubles in Judea, and conjectured
 that the lands which I had in Judea would bring me no profit, because a
 garrison to guard the country was afterward to pitch there, he gave me
 another country in the plain. And when he was going away to Rome, he

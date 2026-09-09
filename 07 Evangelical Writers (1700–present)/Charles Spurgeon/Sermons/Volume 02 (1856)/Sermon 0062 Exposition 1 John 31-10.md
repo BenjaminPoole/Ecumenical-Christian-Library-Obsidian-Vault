@@ -17,8 +17,6 @@ tags:
 
 *New Park Street Pulpit* · Sermon No. 62
 
-> Exposition: 1 John 3:1-10
-
 *“Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.*
 
 *“Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him, for we shall see him as he is.”*

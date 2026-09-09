@@ -18,70 +18,6 @@ tags:
 
 ---
 
-## Rhesus
-
-                           THE ATHENIAN DRAMA
-                           FOR ENGLISH READERS
-
-  A Series of Verse Translations of the Greek Dramatic Poets, with
-                   Commentaries and Explanatory Notes.
-
-              Crown 8vo, cloth, gilt top, 7s. 6d. each net.
-                   Each Volume Illustrated from ancient
-                      Sculptures and Vase-Painting.
-
-AESCHYLUS: _The Orestean Trilogy._ By Prof. G. C. Warr. With an
-  Introduction on _The Rise of Greek Tragedy_, and 13 Illustrations.
-
-SOPHOCLES: _OEdipus Tyrannus_ and _Coloneus_, and _Antigone_. By Prof.
-  J. S. Phillimore. With an Introduction on _Sophocles and his
-  Treatment of Tragedy_, and 16 Illustrations.
-
-EURIPIDES: _Hippolytus_; _Bacchae_; _Aristophanes' 'Frogs.'_ By
-  Prof. Gilbert Murray. With an Appendix on _The Lost Tragedies
-  of Euripides_, and an Introduction on _The Significance of the Bacchae
-  in Athenian History_, and 12 Illustrations.          [_Fifth Edition._
-
-## Also Uniform with the Above
-
-THE HOMERIC HYMNS. A New Prose Rendering by Andrew Lang, with Essays
-  Critical and Explanatory, and 14 Illustrations.
-
-## The Plays of Euripides
-
-   Translated into English Rhyming Verse, with Explanatory Notes,
-                        by Prof. Gilbert Murray.
-
- _Hippolytus._                     14th Thousand. }
- _Bacchae._                        10th Thousand. } Paper Covers, 1s.
- _The Trojan Women._               11th Th.       }   each net.
- _Electra._                        11th Thousand. }
- _Medea._                           8th Thousand. } Also crown 8vo,
- _Iphigenia in Tauris._             6th Th.       }   cloth, gilt top,
- _The Frogs of Aristophanes._      10th Thousand. }   2s. each net.
- _OEdipus Tyrannus of Sophocles._  12th Thousand. }
-
-[Illustration]
-
-                                   THE
-                                 RHESUS
-                                   OF
-                                EURIPIDES
-
-                             GILBERT MURRAY
-                         LL.D., D. Litt., F.B.A.
-          REGIUS PROFESSOR OF GREEK IN THE UNIVERSITY OF OXFORD
-
-                                 LONDON
-                      GEORGE ALLEN & COMPANY, LTD.
-                         44 & 45 RATHBONE PLACE
-                                  1913
-
-                         [All rights reserved]
-
-                  Printed by Ballantyne, Hanson & Co.
-                  At the Ballantyne Press, Edinburgh
-
 ## Introduction
 
 This short play needs rather a long introduction. It has had the bad
@@ -322,7 +258,7 @@ _It is a cloudy but moonlight night on the plain before Troy.         [vv. 1-10]
 _All is silence; then a noise outside. Enter tumultuously a band
     of Trojan Pickets._
 
-## Various Voices
+Various Voices.
 
 (_The dash -- in these passages indicates a new speaker._)
 
@@ -346,19 +282,19 @@ _All is silence; then a noise outside. Enter tumultuously a band
     Do men come prowling in the night
     Across my quarters? Come! Speak out.
 
-## Leader
+Leader.
 
     A picket, Lord.
 
-## Hector
+Hector.
 
                       In such a rout?
 
-## Leader
+Leader.
 
     Be not afraid, Lord.
 
-## Hector
+Hector.
 
                         I am not.
     Is there an ambush? No? Then what,
@@ -383,7 +319,7 @@ Who's for Sarpêdon and the Lycians?--None                            [vv. 29-54
   Ho, Trojans of the hornèd bow!
       String, string! For need is nigh.
 
-## Hector
+Hector.
 
   Ha, silence there! . . .
                       First words of fear,
@@ -439,12 +375,12 @@ Their crouching shoulders till the gangways splash
 With blood, or teach them, fettered leg and arm,
 To dig the stiff clods of some Trojan farm.
 
-## Leader
+Leader.
 
 My Prince, thy words run fast. Nor thou nor I
 Have knowledge yet that the Greeks mean to fly.
 
-## Hector
+Hector.
 
 What makes them light their beacons? Tell me, what?
 
@@ -452,15 +388,15 @@ What makes them light their beacons? Tell me, what?
 
 God knows! And, for my part, I like it not.
 
-## Hector
+Hector.
 
 What, feared? Thou wouldst be feared of everything!
 
-## Leader
+Leader.
 
 They never lit such light before, O King.
 
-## Hector
+Hector.
 
 They never fled, man, in such wild dismay.
 
@@ -468,26 +404,26 @@ They never fled, man, in such wild dismay.
 
 'Twas all thy work.--Judge thou, and we obey.
 
-## Hector
+Hector.
 
 My word is simple. Arm and face the foe.
 
                              [_A sound of marching without._
 
-## Leader
+Leader.
 
 Who comes? Aeneas, and in haste, as though
 Fraught with some sudden tiding of the night.
 
                   _Enter_ AENEAS.
 
-## Aeneas
+Aeneas.
 
 Hector, what means it? Watchers in affright
 Who gather shouting at thy doors, and then
 Hold midnight council, shaking all our men?
 
-## Hector
+Hector.
 
 To arms, Aeneas! Arm from head to heel!
 
@@ -496,15 +432,15 @@ To arms, Aeneas! Arm from head to heel!
 What is it? Tidings? Doth the Argive steal
 Some march, some ambush in the day's eclipse?
 
-## Hector
+Hector.
 
 'Tis flight, man! They are marching to the ships.
 
-## Aeneas
+Aeneas.
 
 How know'st thou?--Have we proof that it is flight?
 
-## Hector
+Hector.
 
 They are burning beacon-fires the livelong night.
 They never mean to wait till dawn. Behind
@@ -516,7 +452,7 @@ Dark to their ships--unmooring from our coast.
 
 God guide them!--Why then do you arm the host?
 
-## Hector
+Hector.
 
 I mean to lame them in their climbing, I
 And my good spear, and break them as they fly.
@@ -524,7 +460,7 @@ Black shame it were, and folly worse than shame,
 To let these spoilers go the road they came
 Unpunished, when God gives them to us here.
 
-## Aeneas
+Aeneas.
 
 Brother, I would thy wit were like thy spear!
 But Nature wills not one man should be wise
@@ -578,7 +514,7 @@ Shipward and plan to escape, one trumpet call
 Shall warn thee, and I wait no more, but fall
 On camp and hulls, or ever dawn can rise.
 
-## Aeneas
+Aeneas.
 
 Aye, haste and send him. Now thy plans are wise,
 And when need comes I am with thee, sword by sword.
@@ -595,7 +531,7 @@ Alone, to save our allies and our land?
 
             [_A lean dark man pushes forward from the back._
 
-## Dolon
+Dolon.
 
 I, Prince!--I offer for our City's sake
 To go disguised to the Greek ships, to make
@@ -608,38 +544,38 @@ Dolon the Wolf! A wise wolf and a true!
 Thy father's house was praised when first I knew
 Troy: this shall raise it twofold in our eyes.
 
-## Dolon
+Dolon.
 
 'Tis wise to do good work, but also wise
 To pay the worker. Aye, and fair reward
 Makes twofold pleasure, though the work be hard.
 
-## Hector
+Hector.
 
 So be it: an honest rule. Do thou lay down
 What guerdon likes thee best--short of my crown.
 
-## Dolon
+Dolon.
 
 I care not for thy crowned and care-fraught life.
 
-## Hector
+Hector.
 
 Wouldst have a daughter of the King to wife?
 
-## Dolon
+Dolon.
 
 I seek no mate that might look down on me.
 
-## Hector
+Hector.
 
 Good gold is ready, if that tempteth thee.
 
-## Dolon
+Dolon.
 
 We live at ease and have no care for gold.
 
-## Hector
+Hector.
 
 Well, Troy hath other treasures manifold.
 
@@ -647,43 +583,43 @@ Well, Troy hath other treasures manifold.
 
 Pay me not now, but when the Greeks are ta'en.
 
-## Hector
+Hector.
 
 The Greeks! . . . Choose any save the Atridae twain.
 
-## Dolon
+Dolon.
 
 Kill both, an it please thee. I make prayer for none.
 
-## Hector
+Hector.
 
 Thou wilt not ask for Ajax, Îleus' son?
 
-## Dolon
+Dolon.
 
 A princely hand is skilless at the plough.
 
-## Hector
+Hector.
 
 'Tis ransom, then? . . . What prisoner cravest thou?
 
-## Dolon
+Dolon.
 
 I said before, of gold we have our fill.
 
-## Hector
+Hector.
 
 For spoils and armour . . . thou shalt choose at will.
 
-## Dolon
+Dolon.
 
 Nail them for trophies on some temple wall.
 
-## Hector
+Hector.
 
 What seeks the man? What prize more rich than all?
 
-## Dolon
+Dolon.
 
 Achilles' horses!                    [_Murmurs of surprise._
                   Yes, I need a great
@@ -701,7 +637,7 @@ To Peleus.--None the less, since I have stirred
 Hopes, I will baulk them not. I pledge my word,
 Achilles' steeds, a rare prize, shall be thine.
 
-## Dolon
+Dolon.
 
 I thank thee.--'Tis indeed a prize more fine
 Than all in Troy.--Grudge me not that; there be
@@ -718,7 +654,7 @@ Guerdons abundant for a Prince like thee.
     Thou drinkest to the full this night
     The cup of man's imaginings.
 
-## Dolon
+Dolon.
 
     [_He stands waiting a moment looking out into the dark._
 
@@ -730,16 +666,16 @@ Then, forward to the ships of Argolis!
 
 What other raiment wilt thou need than this?
 
-## Dolon
+Dolon.
 
 A garb for work, for night; a thieving guise.
 
-## Leader
+Leader.
 
 'Tis good to learn the wisdoms of the wise.
 What will thy wrapping be?
 
-## Dolon
+Dolon.
 
                                A grey wolf's hide
 Shall wrap my body close on either side;
@@ -751,7 +687,7 @@ On four feet by the trenches and around
 The ship-screen. When it comes to empty ground
 It stands on two.--That is the plan, my friend!
 
-## Leader
+Leader.
 
 Now Maian Hermes guide thee to thy end
 And home safe! Well he loves all counterfeit . . .
@@ -813,14 +749,14 @@ I shall be here, and blood upon my hand.
     Mount Ida has entered a_ SHEPHERD _who goes to_ HECTOR's _door and
     calls. The Guards seeing him return to their places._
 
-## Shepherd
+Shepherd.
 
 Ho, Master!
                                 [_Enter_ HECTOR _from tent_.
 I would it ofttimes were my luck to share
 As goodly news with thee as now I bear.
 
-## Hector
+Hector.
 
 What dulness hangs about these shepherds! Block,
 Com'st thou to us with tidings of thy flock
@@ -829,7 +765,7 @@ Thou know'st my house; thou know'st my father's.
     There
 Tell all about thy lucky lambs.--Now go.
 
-## Shepherd
+Shepherd.
 
 Dull wits, we shepherds! Aye, 'twas alway so.
 Yet still, there is some good news to be told.
@@ -840,35 +776,35 @@ A truce there to thy gossip of the fold!
 Our dealings are of war, of sword and spear.
                                           [_He turns to go._
 
-## Shepherd
+Shepherd.
 
 Aye; so were mine. That is what brought me here.
                                  [HECTOR's _manner changes_.
 A chief comes yonder, leading a great band
 Of spears, with help to thee and all the land.
 
-## Hector
+Hector.
 
 From whence? How do his name and lineage run?
 
-## Shepherd
+Shepherd.
 
 He comes from Thrace, the River Strymon's son.
 
-## Hector
+Hector.
 
 Rhesus! Not Rhesus, here on Trojan soil?
 
-## Shepherd
+Shepherd.
 
 Thou hast guessed. That eases me of half my toil.
 
-## Hector
+Hector.
 
 What makes he there towards Ida? All astray
 Thus from the plain and the broad waggon-way!
 
-## Shepherd
+Shepherd.
 
 I know not rightly, though one well may guess.
 'Tis hard to land at night, with such a press
@@ -924,21 +860,21 @@ His words are.--He comes early to the feast;
 Where was he when the hunters met the beast?
 Where, when we sank beneath the Argive spear?
 
-## Leader
+Leader.
 
 Well may'st thou mock and blame thy friend. Yet here
 He comes with help for Troy. Accept him thou.
 
-## Hector
+Hector.
 
 We are enough, who have held the wall till now.
 
-## Leader
+Leader.
 
 Master, dost think already that our foe
 Is ta'en?
 
-## Hector
+Hector.
 
              I do. To-morrow's light will show.
 
@@ -946,19 +882,19 @@ Is ta'en?
 
 Have care. Fate often flings a backward cast.
 
-## Hector
+Hector.
 
 I hate the help that comes when need is past . . .
 Howbeit, once come, I bid him welcome here
 As guest--not war-friend; guest to share our cheer.
 The thanks are lost, he might have won from us.
 
-## Leader
+Leader.
 
 My general, to reject an ally thus
 Must needs make hatred.
 
-## Shepherd
+Shepherd.
 
                            The mere sight of those
 I saw would sure cast fear upon our foes.
@@ -973,7 +909,7 @@ Bid Rhesus welcome, as war-friend to Troy.
 [_Exit_ SHEPHERD; HECTOR _returns to his tent, amid the joy of the
     soldiers_.
 
-## Chorus
+Chorus.
 
     Now Adrasteia be near and guard
     Our lips from sin, lest the end be hard!
@@ -1020,7 +956,7 @@ _Enter_ RHESUS _in dazzling white armour, followed by his_         [vv. 379-395]
     his golden shield. The_ CHORUS _break into a shout of
     "All Hail!"_
 
-## Leader
+Leader.
 
       All hail, great King! A whelp indeed
         Is born in Thracia's lion fold,
@@ -1029,7 +965,7 @@ _Enter_ RHESUS _in dazzling white armour, followed by his_         [vv. 379-395]
       And hark the pride of bells along
         The frontlet of that targe's hold.
 
-## Chorus
+Chorus.
 
         A God, O Troy, a God and more!
       'Tis Ares' self, this issue strong
@@ -1038,7 +974,7 @@ _Enter_ RHESUS _in dazzling white armour, followed by his_         [vv. 379-395]
 
                 _Re-enter_ HECTOR.
 
-## Rhesus
+Rhesus.
 
 Lord Hector, Prince of Ilion, noble son
 Of noble sires, all hail! Long years have run
@@ -1047,7 +983,7 @@ To see thy fortunes firm and thine array
 Camped at the foe's gate. Here am I to tame
 That foe for thee, and wrap his ships in flame.
 
-## Hector
+Hector.
 
 Thou child of Music and the Thracian flood,
 Strymonian Rhesus, truth is alway good
@@ -1126,7 +1062,7 @@ Need move, nor turn the buckler in his hand.
 Alone my late-comers will turn the tide
 And smite your Greeks, for all their bitter pride.
 
-## Chorus
+Chorus.
 
 [_The Trojan soldiers, who have been listening with delight, here break
     out in irrepressible applause._
@@ -1145,7 +1081,7 @@ Or face thy lance? May I but stand that day
     Broken beneath thy steel,
 And once in blood his many murders pay!
 
-## Rhesus
+Rhesus.
 
 Yea, more atonement thou shalt take from me
 For this slow help.--May Adrasteia see
@@ -1164,27 +1100,27 @@ Untrembling, I would thank my gods! To seek
 Argos and sack the cities of the Greek--
 'Twere not such light work as thou fanciest.
 
-## Rhesus
+Rhesus.
 
 These Greeks that face thee, are they not their best?
 
-## Hector
+Hector.
 
 We seek not better. These do all we need.
 
-## Rhesus
+Rhesus.
 
 When these are beaten, then, we have done the deed.
 
-## Hector
+Hector.
 
 Lose not thy path watching a distant view.
 
-## Rhesus
+Rhesus.
 
 Thou seem'st content to suffer, not to do?
 
-## Hector
+Hector.
 
 I have a kingdom large by mine own right. . . .
 
@@ -1192,7 +1128,7 @@ I have a kingdom large by mine own right. . . .
 To ground the targe and stablish thine array?
 Right, left, or midmost in the allies? Say.
 
-## Rhesus
+Rhesus.
 
 'Twould please me best to fight these Greeks alone.
 Yet, if 'twould irk thine honour not to have thrown
@@ -1203,20 +1139,20 @@ Set us to face Achilles and his men.
 
 Achilles? Nay, his spear ye cannot meet.
 
-## Rhesus
+Rhesus.
 
 How so? Fame said he sailed here with the fleet.
 
-## Hector
+Hector.
 
 He sailed, and he is here. But some despite
 'Gainst the great King now keeps him from the fight.
 
-## Rhesus
+Rhesus.
 
 Who next to him hath honour in their host?
 
-## Hector
+Hector.
 
 Next, to my seeming, Ajax hath the most,
 Or Diomede.--But Odysseus is a tough
@@ -1263,7 +1199,7 @@ Prosper, he should be nearing us by now.
     have been below, come forward sleepily from the camp fire,
     and sit watching by_ HECTOR's _tent_.
 
-## Chorus
+Chorus.
 
     Say, whose is the watch? Who exchanges
       With us? The first planets to rise
@@ -1272,13 +1208,13 @@ Prosper, he should be nearing us by now.
     And the Eagle is risen and ranges
         The mid-vault of the skies.
 
-## Another
+Another.
 
     No sleeping yet! Up from your couches
       And watch on, the sluggards ye are!
     The moon-maiden's lamp is yet burning.
 
-## Third Guard
+Third Guard.
 
     Oh, the morning is near us, the morning!
     Even now his fore-runner approaches,
@@ -1288,22 +1224,22 @@ Prosper, he should be nearing us by now.
 
     Who drew the first night-watch?
 
-## Another
+Another.
 
                                       'Twas one
     Koroibos, called the Mygdon's Son.
 
-## The Guard
+The Guard.
 
     And after?
 
-## The Other
+The Other.
 
                  The Mount Taurus men
     Had second watch: from them again
     The Mysians took it. We came then.
 
-## A Guard
+A Guard.
 
     'Tis surely time. Who will go tell
     The fifth watch? 'Tis the Lycians' spell
@@ -1318,13 +1254,13 @@ Prosper, he should be nearing us by now.
     Most changeful and old and undying
       The nightingale calls.
 
-## Another
+Another.
 
     And on Ida the shepherds are waking
       Their flocks for the upland. I hear
     The skirl of a pipe very distant.
 
-## Another
+Another.
 
     And sleep, it falls slow and insistent.
     'Tis perilous sweet when the breaking
@@ -1335,16 +1271,16 @@ Prosper, he should be nearing us by now.
     Why have we still no word nor sign
     Of that scout in the Argive line?
 
-## Another
+Another.
 
     I know not; he is long delayed.
 
-## Another
+Another.
 
     God send he trip not on the blade
     Of some Greek in an ambuscade!
 
-## Another
+Another.
 
     It may be. I am half afraid.
 
@@ -1360,12 +1296,12 @@ Prosper, he should be nearing us by now.
     dull leather armour_, DIOMEDE _carrying at his belt_ DOLON's
     _wolf-skin and mask_.
 
-## Odysseus
+Odysseus.
 
 Diomede, hist!--A little sound of arms
 Clanking. . . or am I full of void alarms?
 
-## Diomede
+Diomede.
 
 No. 'Tis some horse tied to the chariot rail
 That clanks his chain.--My heart began to fail
@@ -1373,15 +1309,15 @@ A moment, till I heard the horse's champ.
 
             [_They steal on further, keeping in the shadow._
 
-## Odysseus
+Odysseus.
 
 Mind--in that shade--the watchers of the camp.
 
-## Diomede
+Diomede.
 
 I keep in shadow, but I am staring hard.
 
-## Odysseus
+Odysseus.
 
 Thou know'st the watchword, if we stir some guard?
 
@@ -1392,7 +1328,7 @@ Phoebus. 'Twas the last sign that Dolon gave.
 [_They creep forward in silence to the entrance of_ HECTOR's
     _tent_.
 
-## Odysseus
+Odysseus.
 
 Now, forward!
 
@@ -1400,29 +1336,29 @@ Now, forward!
 
                 God! All empty as the grave!
 
-## Diomede
+Diomede.
 
 Yet Dolon told us Hector's couch was made
 Just here. For none but him I drew this blade.
 
-## Odysseus
+Odysseus.
 
 What means it? To some ambush is he gone?
 
-## Diomede
+Diomede.
 
 Maybe, to work some craft on us at dawn.
 
-## Odysseus
+Odysseus.
 
 He is hot with courage when he is winning, hot.
 
-## Diomede
+Diomede.
 
 What must we do, Odysseus?--He was not
 Laid where we thought him, and our hopes are lost.
 
-## Odysseus
+Odysseus.
 
 Back to our own ship-rampart at all cost!
 The God who gave him victory saves him still.
@@ -1433,17 +1369,17 @@ We cannot force Fortune against her will.
 Could we not find Aeneas? Or the bed
 Of Paris the accurst, and have his head?
 
-## Odysseus
+Odysseus.
 
 Go by night searching through these lines of men
 For chiefs to kill? 'Twere death and death again.
 
-## Diomede
+Diomede.
 
 But to go empty back--what shame 'twill be!--
 And not one blow struck home at the enemy!
 
-## Odysseus
+Odysseus.
 
 How not one blow? Did we not baulk and kill
 Dolon, their spy, and bear his tokens still?
@@ -1452,14 +1388,14 @@ Dost think the whole camp should be thine to quell?
 [DIOMEDE _takes_ DOLON's _wolf-mask off his belt and hangs
     it in_ HECTOR's _tent, then turns_.
 
-## Diomede
+Diomede.
 
 Good. Now for home! And may the end be well!
 
 [_As they turn there appears at the back a luminous and
     gigantic shape, the Goddess_ ATHENA.
 
-## Athena
+Athena.
 
 What make ye, from these sleepers thus to part
 Desponding and with sorrow-wounded heart
@@ -1476,14 +1412,14 @@ Him slay, and all is won. Let Hector's head
 Sleep where it lies and draw unvexèd breath;
 Another's work, not thine, is Hector's death.
 
-## Odysseus
+Odysseus.
 
 Most high Athena, well I know the sound
 Of that immortal voice. 'Tis ever found
 My helper in great perils.--Where doth lie
 Rhesus, mid all this host of Barbary?
 
-## Athena
+Athena.
 
 Full near he lies, not mingled with the host
 Of Troy, but here beyond the lines--a post
@@ -1495,7 +1431,7 @@ Their master slain, take these to thine own hearth,
 A wondrous spoil; there hides not upon earth
 A chariot-team of war so swift and fair.
 
-## Odysseus
+Odysseus.
 
 Say, Diomede, wilt make the men thy share,
 Or catch the steeds and leave the fight to me?
@@ -1506,27 +1442,27 @@ I take the killing, thou the stablery:
 It needs keen wit and a neat hand. The post
 A man should take is where he helpeth most.
 
-## Athena
+Athena.
 
 Behold, 'tis Paris, hasting there toward
 This tent. Methinks he knoweth from the guard
 Some noise of prowling Argives hither blown.
 
-## Diomede
+Diomede.
 
 Comes he alone or with his guards?
 
-## Athena
+Athena.
 
                                        Alone;
 Toward Hector's quarters, as I deem, he plies
 His message. He hath heard some tale of spies.
 
-## Diomede
+Diomede.
 
 Then he shall be the first dead Trojan!
 
-## Athena
+Athena.
 
                                            No;
 Beyond the ordainèd end thou canst not go.
@@ -1555,7 +1491,7 @@ We know not if a mere thief or a spy.
            [ATHENA _becomes visible again, but seems changed
                 and her voice softer_.
 
-## Athena
+Athena.
 
 Have comfort thou! Doth not the Cyprian's eye
 Mark all thy peril and keep watch above
@@ -1579,7 +1515,7 @@ Talk much, and they who saw, or might have seen,                   [vv. 659-676]
 Can give no sign nor token. It had been
 My purpose to find Hector where he lay.
 
-## Athena
+Athena.
 
 Fear nothing. All is well in Troy's array.
 Hector is gone to help those Thracians sleep.
@@ -1590,7 +1526,7 @@ Thy word doth rule me, Goddess. Yea, so deep
 My trust is, that all thought of fear is lost
 In comfort, and I turn me to my post.
 
-## Athena
+Athena.
 
 Go. And remember that thy fortunes still
 Are watched by me, and they who do my will
@@ -1617,19 +1553,19 @@ Ha! Ha!--At them! At them! After them! Down with them!--Where are they?
 
 Who is that fellow? Look! That yonder!
 
-## A Man
+A Man.
 
                   Rascal thieves, the sort that crawl
 And vex an army in the dark!
 
-## Captain
+Captain.
 
            Ho, this way! Follow! This way all!
 
                [_They pursue_ ODYSSEUS _and_ DIOMEDE; _catch
                    them and bring them back_.
 
-## A Man
+A Man.
 
     I have them! I have caught them!
 
@@ -1641,7 +1577,7 @@ Whence comest thou? What art thou? Say; what captain and what company?
 
 'Tis not for thee to know. This day thou diest for thy knavery!
 
-## Captain
+Captain.
 
 Stop! Give the watchword quick, before I have thy body on my pike.
 
@@ -1649,7 +1585,7 @@ Stop! Give the watchword quick, before I have thy body on my pike.
 
 Halt every man and have no fear!
 
-## Captain
+Captain.
 
             Come, gather round. Be quick to strike.
 
@@ -1657,17 +1593,17 @@ Halt every man and have no fear!
 
 'Twas thou that killed King Rhesus!
 
-## Captain
+Captain.
 
         No: 'tis I that kill the man that killed . . .
 
         [_Flies at_ ODYSSEUS, _but other men hold him back_.
 
-## Odysseus
+Odysseus.
 
 Hold back all!
 
-## Voices
+Voices.
 
                  No more holding back!
 
@@ -1675,20 +1611,20 @@ Hold back all!
 
                     What, strike an ally in the field?
 
-## Captain
+Captain.
 
 Then give the watchword!
 
-## Odysseus
+Odysseus.
 
                             Phoebus.
 
-## Captain
+Captain.
 
       Right. Ho, every man hold back his spear!--
 Then know'st thou where the men are gone?
 
-## Odysseus
+Odysseus.
 
            We saw them running, somewhere here.
 
@@ -1699,11 +1635,11 @@ Then know'st thou where the men are gone?
 
 Off every one upon their track!
 
-## A Man
+A Man.
 
                         Or should we rouse the army?
 
-## Captain
+Captain.
 
                                                  No;
 To stir the allies in the night and make more panic!
@@ -1713,7 +1649,7 @@ To stir the allies in the night and make more panic!
     form the Chorus have hastened back. The two Greeks are presently
     seen crossing at the back in a different direction._
 
-## Chorus
+Chorus.
 
        Who was the man that passed?
          Who, that, so madly bold.
@@ -1741,7 +1677,7 @@ Odysseus surely!--That is thy belief?--
   Whose prowess? Say!--Odysseus.--Nay,
 Praise not the secret stabbing of a thief!
 
-## Chorus
+Chorus.
 
          He came once, of old,
            Up thro' the city throng,
@@ -1773,27 +1709,27 @@ Who came by night into the lines unchecked.
     heard during the last few lines, now grows into articulate
     words._
 
-## Voice
+Voice.
 
     Woe, woe!
     The burden of the wrath of fate!
 
-## Guards
+Guards.
 
     Ha, listen! Wait.
     Crouch on the ground; it may be yet
     Our man is drawing to the net.
 
-## Voice
+Voice.
 
     Woe, woe!
     The burden of the hills of Thrace!
 
-## Leader
+Leader.
 
     An ally? None of Hellene race.
 
-## Voice
+Voice.
 
     Woe, woe!
     Yea, woe to me and woe to thee,
@@ -1815,7 +1751,7 @@ Blurreth mine eyes; I cannot see thee right.
     We woke and there was nought to see,
         But our own misery.
 
-## Leader
+Leader.
 
 I cannot hear him right; it sounds as if
 The Thracians were surprised or in some grief.
@@ -1823,7 +1759,7 @@ The Thracians were surprised or in some grief.
 [_There enters a wounded man, walking with difficulty; he is the
     Thracian Charioteer who came with_ RHESUS.
 
-## Thracian
+Thracian.
 
     The army lost and the king slain,
     Stabbed in the dark! Ah, pain! pain!
@@ -1832,12 +1768,12 @@ The Thracians were surprised or in some grief.
     In shame together let us lie
     Who came to save, and failed and died.
 
-## Leader
+Leader.
 
 This needs no surmise: 'tis disaster plain
 That comes. He speaketh of some ally slain.
 
-## Thracian
+Thracian.
 
 Disaster, yea: and with disaster shame,
 Which lights Disaster to a twofold flame
@@ -1892,7 +1828,7 @@ Those dead men went to death I cannot know,
 Nor by whose work. But this I say; God send
 'Tis not foul wrong wrought on us by a friend.
 
-## Leader
+Leader.
 
 Good charioteer of that ill-fortuned king,
 Suspect us not. 'Tis Greeks have done this thing.
@@ -1901,7 +1837,7 @@ The foul deed, and thy sorrows are his own.
 
     _Enter_ HECTOR _in wrath, with a band of Guards_.
 
-## Hector
+Hector.
 
 Ye workers of amazement! Have your eyes
 No sight? Ye watch and let these Argive spies
@@ -1937,7 +1873,7 @@ Bury me here alive! I ask no pardon.
 [HECTOR _is standing over him ready to strike when the_
     CHARIOTEER _speaks_.
 
-## Thracian
+Thracian.
 
 Why threaten them? Art thou a Greek to blind
 My barbarous wit so nimbly, in a wind
@@ -1979,40 +1915,40 @@ I fear him; yea, fear in mine own despite,
 Lest Dolon may have crossed him in the night
 And perished; 'tis so long he cometh not.
 
-## Thracian
+Thracian.
 
 I know not who Odysseus is, nor what.
 I know it was no Greek that wounded us.
 
-## Hector
+Hector.
 
 To think thus pleasures thee? Well, have it thus.
 
-## Thracian
+Thracian.
 
 Home, home! To die at home and rest my head!
 
-## Hector
+Hector.
 
 Nay, die not, friend. We have enough of dead.
 
-## Thracian
+Thracian.
 
 How can I live? Lost, and my master slain.
 
-## Hector
+Hector.
 
 My house will shelter thee and heal thy pain.
 
-## Thracian
+Thracian.
 
 Thy house? Will murderers' nursing give me peace?
 
-## Hector
+Hector.
 
 Still the same tale! This man will never cease.
 
-## Thracian
+Thracian.
 
 My curse rest--not on Hector, but on those
 Who stabbed us, as thou say'st.--Ah, Justice knows!
@@ -2030,7 +1966,7 @@ Branches, they make due burial for our slain.
     _and goes off bearing him: another departs with the message
     to Troy_.
 
-## Chorus
+Chorus.
 
       Back from the heights of happiness,
       Back, back, to labour and distress
@@ -2051,7 +1987,7 @@ Branches, they make due burial for our slain.
 
             [_The Guards hide their heads in their mantles._
 
-## Muse
+Muse.
 
 Nay, look your fill, ye Trojans. It is I,
 The many-sistered Muse, of worship high
@@ -2071,12 +2007,12 @@ His father besought him to stay, but he went in
     Ah, woe is me for thee, thou dear face,
         My belovèd and my son!
 
-## Leader
+Leader.
 
 Goddess, if tears for such as thee may run
 In our low eyes, I weep for thy dead son.
 
-## Muse
+Muse.
 
   I say to thee: Curse Odysseus,
       And cursèd be Diomede!
@@ -2130,12 +2066,12 @@ I wreathe him in my arms; I wail his wrong
 Alone, and ask no other mourner's song.
                            [_She weeps over_ RHESUS.
 
-## Leader
+Leader.
 
 Hector, thou hearest. We were guiltless here,
 And falsely spake that Thracian charioteer.
 
-## Hector
+Hector.
 
 Always I knew it. Had we any need
 Of seers to tell this was Odysseus' deed?
@@ -2150,7 +2086,7 @@ And burn about it gifts beyond compare
 Of robes and frankincense. To Troy's relief
 He came in love and parteth in great grief.
 
-## Muse
+Muse.
 
 My son shall not be laid in any grave
 Of darkness; thus much guerdon will I crave
@@ -2181,7 +2117,7 @@ Not love, not bear love's children to the tomb.
 
          [_The_ VISION _rises through the air and vanishes_.
 
-## Leader
+Leader.
 
 The dead man sleepeth in his mother's care;
 But we who battle still--behold, the glare
@@ -2206,7 +2142,7 @@ _During the following lines_ HECTOR _goes to his tent to get
     a word. Then he puts on his helmet, takes his shield and spear,
     and follows the Guards as they march off._
 
-## Chorus
+Chorus.
 
     The Chief hath spoken: let his will
       Be law, ye Trojans.--Raise the cry
@@ -2564,61 +2500,6 @@ firmness and courage. The stage direction is of course purely
 conjectural. If Diomedes left some sign of Dolon's death for Hector to
 see, as he probably must have done, then Hector must at some time or
 other see it. If so, this seems to be the place.
-
-## The End
-
-Printed by Ballantyne, Hanson & Co.
-Edinburgh & London
-
-## _By the Same Author_
-
-## Published by William Heinemann
-
-HISTORY OF ANCIENT GREEK LITERATURE. 1897. 6s.
-
-CARLYON SAHIB: A Play. 1899. 1s. 6d.
-
-ANDROMACHE: A Play. 1900. 1s. 6d.
-
-Published by the Clarendon Press
-
-EURIPIDIS FABULAE: Brevi Adnotatione Critica Instructae, Vols. I. II.
-    and III. 1901-1909. Third Edition. From 3s. each.
-
-THE RISE OF THE GREEK EPIC. Second Edition. 1911. 7s. 6d. net.
-
-FOUR STAGES OF GREEK RELIGION. 1913. 6s.
-
-NEFREKEPTA: An Egyptian Story Done into Verse. 1910. 4s. 6d. net.
-
-Published by George Allen & Co., Ltd.
-
-EURIPIDES: Hippolytus; Bacchae; Aristophanes' 'Frogs.' With an Appendix
-on _The Lost Tragedies of Euripides_ and an Introduction on _The
-Significance of the Bacchae in Athenian History_, and 12 Illustrations.
-Crown 8vo, cloth, gilt top, 7s. 6d. net.
-
-_Also separately_
-
-PLAYS: Translated into English Rhyming Verse, with Explanatory Notes.
-
-HIPPOLYTUS.                    }
-BACCHAE.                       }
-THE TROJAN WOMEN.              }
-ELECTRA.                       } Paper Covers, 1s. each net.
-MEDEA.                         } Also crown 8vo, cloth, gilt top,
-IPHIGENIA IN TAURIS.           }     2s. each net.
-THE FROGS OF ARISTOPHANES.     }
-OEDIPUS TYRANNUS OF SOPHOCLES. }
-
-The line numbers refer to the lines in the original Greek text, not to
-the lines as translated.
-
-The following change was made to the original text:
-Page 26: changed whv to why
-
-Other than the addition of missing periods, minor variations in spelling
-and punctuation have been preserved.
 
 ---
 

@@ -12,19 +12,7 @@ tags:
 
 # Two Short Catechisms wherein the Principles of the Doctrine of Christ are Unfolded and Explained
 
-## Two
-
-## Short Catechisms:
-
-## wherein the
-
-## Principles of the Doctrine of Christ
-
-## are
-
-## unfolded and explained.
-
-## Proper for all persons to learn before they be admitted to the sacrament of the Lord’s supper; and composed for the use of all congregations in general.
+*Proper for all persons to learn before they be admitted to the sacrament of the Lord’s supper; and composed for the use of all congregations in general.*
 
 “Come, ye children, hearken to me; I will teach you the fear of the Lord,” Ps. xxxiv. 11
 

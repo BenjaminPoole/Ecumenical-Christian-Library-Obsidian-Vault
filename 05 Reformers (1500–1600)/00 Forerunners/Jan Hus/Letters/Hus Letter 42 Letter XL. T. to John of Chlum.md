@@ -36,3 +36,8 @@ masters to plead his case. But the defence of a prisoner was a thing absolutely 
 [[Hus Letter 41 Letter XL. To the People of Prague (January 19, 1415)|← 41. Letter XL. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 43 Letter XLIL. To the Same (February 1415)|43. Letter XLIL. To the Same (February 1415) →]]
 
 
+
+
+
+
+

@@ -24,7 +24,7 @@ I am your very unworthy brother,
 
 And humble servant,
 
-## David Brainerd
+*David Brainerd.*
 
 ---
 

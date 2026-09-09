@@ -9,7 +9,7 @@ epub_file: "works1.i.xxv.html"
 tags:
   - jonathan-edwards
 ---
-### CHAPTER XXV.
+# CHAPTER XXV.
 
 ## Concluding Remarks
 

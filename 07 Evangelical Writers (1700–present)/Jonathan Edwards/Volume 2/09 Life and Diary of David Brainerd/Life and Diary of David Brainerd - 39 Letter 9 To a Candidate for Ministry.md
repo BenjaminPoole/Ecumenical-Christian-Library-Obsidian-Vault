@@ -24,7 +24,7 @@ And now, “I commend you to the grace of God;” earnestly desiring that a plen
 
 Your sincerely affectionate dying friend,
 
-## David Brainerd
+*David Brainerd.*
 
 P. S. I am now, at the dating of this letter, considerably recovered from what I was when I wrote it; it having lain by me some time, for want of an opportunity of conveyance; it was written in Boston. I am now able to ride a little, and so am removed into the country: but have no more expectation of recovering than when I wrote, though I am a little better for the present; and therefore I still subscribe myself,
 

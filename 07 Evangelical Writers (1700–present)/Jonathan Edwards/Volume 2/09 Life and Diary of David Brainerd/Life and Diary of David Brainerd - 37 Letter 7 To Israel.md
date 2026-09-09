@@ -22,7 +22,7 @@ I had determined to make you and my other friends in New England a visit this fa
 
 Your affectionate loving brother,
 
-## David Brainerd
+*David Brainerd.*
 
 ---
 

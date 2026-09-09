@@ -34,7 +34,7 @@ I long to see you, that I may say much more to you than I now can for your benef
 
 I am your affectionate loving brother,
 
-## David Brainerd
+*David Brainerd.*
 
 ---
 

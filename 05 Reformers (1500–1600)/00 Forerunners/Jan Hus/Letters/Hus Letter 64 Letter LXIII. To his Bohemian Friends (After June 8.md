@@ -25,3 +25,8 @@ confusion will be great if that promise is unfulfilled.! But methinks his word i
 ---
 [[Hus Letter 63 Letter LXIL. To a Friend (June 9, 1415)|← 63. Letter LXIL. To a Friend (June 9, 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 65 Letter LXIV. To All the People of Bohemia|65. Letter LXIV. To All the People of →]]
 
+
+
+
+
+

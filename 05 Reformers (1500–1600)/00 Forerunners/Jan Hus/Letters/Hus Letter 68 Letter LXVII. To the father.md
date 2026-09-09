@@ -47,3 +47,8 @@ Hus in his reply was uncompromising in his rejection of the basket which the “
 ---
 [[Hus Letter 67 Letter LXVI. To Master Martin, his Disciple (June 16|← 67. Letter LXVI. To Master Martin, his]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|69. Letter LXVIII. To the Same (Middle of →]]
 
+
+
+
+
+

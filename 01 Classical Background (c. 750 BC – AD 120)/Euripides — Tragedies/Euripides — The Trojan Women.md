@@ -18,69 +18,7 @@ tags:
 
 ---
 
-## The Trojan Women
-
-                          THE ATHENIAN DRAMA
-                         FOR ENGLISH READERS
-
-              A Series of Verse Translations of the Greek
-                 Dramatic Poets, with Commentaries and
-                          Explanatory Notes.
-
-            =Crown 8vo, cloth, gilt top, 7s. 6d. each net.
-                  Each Volume Illustrated from ancient
-                     Sculptures and Vase-Painting.=
-
-AESCHYLUS: _The Orestean Trilogy._ By Prof. G. C. WARR. With an
-    Introduction on _The Rise of Greek Tragedy_, and 13 Illustrations.
-
-SOPHOCLES: _Oedipus Tyrannus_ and _Coloneus_, and _Antigone_. By Prof.
-    J. S. PHILLIMORE. With an Introduction on _Sophocles and his Treatment
-    of Tragedy_, and 16 Illustrations.
-
-EURIPIDES: _Hippolytus_; _Bacchae_; _Aristophanes' 'Frogs.'_ By Prof.
-    GILBERT MURRAY. With an Appendix on _The Lost Tragedies of Euripides_,
-    and an Introduction on _The Significance of the Bacchae in Athenian
-    History_, and 12 Illustrations. [_Second Edition._
-
-## Also Uniform with the Above
-
-THE HOMERIC HYMNS. A New Prose Rendering by ANDREW LANG, with Essays
-    Critical and Explanatory, and 14 Illustrations.
-
-## The Plays of Euripides
-
-Translated into English Rhyming Verse, with Explanatory Notes, by Prof.
-    GILBERT MURRAY. Crown 8vo, cloth, 2s. each net.
-
-                       _The Trojan Women._
-                  _Electra._      [_In the Press._
-
-_Hippolytus._ Third Edition. } Paper Covers, Impl.
-_Bacchae._                   } 16mo, 1s. each net.
-
-## The
-
-## Trojan Women
-
-                                OF
-
-## Euripides
-
-           EMERITUS PROFESSOR OF GREEK IN THE UNIVERSITY
-                 OF GLASGOW; SOMETIME FELLOW OF
-                      NEW COLLEGE, OXFORD
-
-                              LONDON
-               GEORGE ALLEN, 156, CHARING CROSS ROAD
-                               1905
-
-                      [All rights reserved]
-
-                Printed by BALLANTYNE HANSON & CO.
-                     At the Ballantyne Press
-
-## Introductory Note
+Introductory Note.
 
 Judged by common standards, the _Troädes_ is far from a perfect play; it
 is scarcely even a good play. It is an intense study of one great
@@ -198,7 +136,7 @@ _The scene represents a battlefield, a few days after the battle.
 _It is the dusk of early dawn, before sunrise. The figure of the
      god_ POSEIDON _is dimly seen before the walls_.
 
-## Poseidon
+Poseidon.
 
 Up from Aegean caverns, pool by pool
 Of blue salt sea, where feet most beautiful
@@ -260,7 +198,7 @@ Ye shining towers and mine own citadel;
 Broken by Pallas, Child of God, or still
 Thy roots had held thee true.
 
-## Pallas
+Pallas.
 
                               Is it the will
 Of God's high Brother, to whose hand is given
@@ -268,97 +206,97 @@ Great power of old, and worship of all Heaven,
 To suffer speech from one whose enmities
 This day are cast aside?
 
-## Poseidon
+Poseidon.
 
                           His will it is:
 Kindred and long companionship withal,
 Most high Athena, are things magical.
 
-## Pallas
+Pallas.
 
 Blest be thy gentle mood!--Methinks I see
 A road of comfort here, for thee and me.
 
-## Poseidon
+Poseidon.
 
 Thou hast some counsel of the Gods, or word
 Spoken of Zeus? Or is it tidings heard
 From some far Spirit?
 
-## Pallas
+Pallas.
 
                           For this Ilion's sake,
 Whereon we tread, I seek thee, and would make
 My hand as thine.
 
-## Poseidon
+Poseidon.
 
                       Hath that old hate and deep
 Failed, where she lieth in her ashen sleep?
 Thou pitiest her?
 
-## Pallas
+Pallas.
 
                     Speak first; wilt thou be one
 In heart with me and hand till all be done?
 
-## Poseidon
+Poseidon.
 
 Yea; but lay bare thy heart. For this land's sake
 Thou comest, not for Hellas?
 
-## Pallas
+Pallas.
 
                                 I would make
 Mine ancient enemies laugh for joy, and bring
 On these Greek ships a bitter homecoming.
 
-## Poseidon
+Poseidon.
 
 Swift is thy spirit's path, and strange withal,
 And hot thy love and hate, where'er they fall.
 
-## Pallas
+Pallas.
 
 A deadly wrong they did me, yea within
 Mine holy place: thou knowest?
 
-## Poseidon
+Poseidon.
 
                           I know the sin
 Of Ajax, when he cast Cassandra down . . .
 
-## Pallas
+Pallas.
 
 And no man rose and smote him; not a frown
 Nor word from all the Greeks!
 
-## Poseidon
+Poseidon.
 
                               And 'twas thine hand
 That gave them Troy!
 
-## Pallas
+Pallas.
 
                       Therefore with thee I stand
 To smite them.
 
-## Poseidon
+Poseidon.
 
                     All thou cravest, even now
 Is ready in mine heart. What seekest thou?
 
-## Pallas
+Pallas.
 
 An homecoming that striveth ever more
 And cometh to no home.
 
-## Poseidon
+Poseidon.
 
                           Here on the shore
 Wouldst hold them or amid mine own salt foam?
 
-## Pallas
+Pallas.
 
 When the last ship hath bared her sail for home!
   Zeus shall send rain, long rain and flaw of driven
@@ -371,7 +309,7 @@ Till dead men choke Euboea's curling bay.
 So Greece shall dread even in an after day
 My house, nor scorn the Watchers of strange lands!
 
-## Poseidon
+Poseidon.
 
 I give thy boon unbartered. These mine hands
 Shall stir the waste Aegean; reefs that cross
@@ -392,7 +330,7 @@ The ancient dead; yourselves so soon to die!      [_Exit_ POSEIDON.
 
 _The day slowly dawns_: HECUBA _wakes_.
 
-## Hecuba
+Hecuba.
 
     Up from the earth, O weary head!
       This is not Troy, about, above--
@@ -478,7 +416,7 @@ _The day slowly dawns_: HECUBA _wakes_.
 [_The door of one of the huts on the right opens, and the Women steal
     out severally, startled and afraid._
 
-## First Woman
+First Woman.
 
                                                [_Strophe_ 1.
     How say'st thou? Whither moves thy cry,
@@ -502,13 +440,13 @@ HECUBA.
     Nay, child, I know not. Dreams are these,
           Fears of the hope-forsaken.
 
-## First Woman
+First Woman.
 
   Awake, O daughters of affliction, wake
   And learn your lots! Even now the Argives break
               Their camp for sailing!
 
-## Hecuba
+Hecuba.
 
     Ah, not Cassandra! Wake not her
       Whom God hath maddened, lest the foe
@@ -522,7 +460,7 @@ HECUBA.
 [_One of the huts on the left is now open, and the rest of the_ CHORUS
     _come out severally_. _Their number eventually amounts to fifteen._
 
-## Fourth Woman
+Fourth Woman.
 
                                            [_Antistrophe_ 1.
     Out of the tent of the Greek king
@@ -550,13 +488,13 @@ FIFTH WOMAN.
 HECUBA.      Peace, child: wait thy doom.
           Our lots are near the trying.
 
-## Fourth Woman
+Fourth Woman.
 
     Argos, belike, or Phthia shall it be,
     Or some lone island of the tossing sea,
             Far, far from Troy?
 
-## Hecuba
+Hecuba.
 
       And I the agèd, where go I,
         A winter-frozen bee, a slave
@@ -567,7 +505,7 @@ HECUBA.      Peace, child: wait thy doom.
         The threshold of a master's door,
           I that was Queen in Troy!
 
-## A Woman to Another
+A Woman to Another.
 
                                                [_Strophe_ 2.
     And thou, what tears can tell thy doom?
@@ -603,7 +541,7 @@ ANOTHER.
     To bow to Menelaus' hand,
       That wasted Troy with war!
 
-## A Woman
+A Woman.
 
                                            [_Antistrophe_ 2.
     They told us of a land high-born,
@@ -631,7 +569,7 @@ ANOTHER.
     With gold of fountains spirit-haunted
         Homes of true men and brave!
 
-## Leader
+Leader.
 
     But lo, who cometh: and his lips
       Grave with the weight of dooms unknown:
@@ -643,81 +581,81 @@ ANOTHER.
 
 [TALTHYBIUS, _followed by some Soldiers, enters from the left_.
 
-## Talthybius
+Talthybius.
 
 Thou know'st me, Hecuba. Often have I crossed
 Thy plain with tidings from the Hellene host.
 'Tis I, Talthybius. . . . Nay, of ancient use
 Thou know'st me. And I come to bear thee news.
 
-## Hecuba
+Hecuba.
 
         Ah me, 'tis here, 'tis here,
 Women of Troy, our long embosomed fear!
 
-## Talthybius
+Talthybius.
 
 The lots are cast, if that it was ye feared.
 
-## Hecuba
+Hecuba.
 
           What lord, what land. . . . Ah me,
 Phthia or Thebes, or sea-worn Thessaly?
 
-## Talthybius
+Talthybius.
 
 Each hath her own. Ye go not in one herd.
 
-## Hecuba
+Hecuba.
 
 Say then what lot hath any? What of joy
 Falls, or can fall on any child of Troy?
 
-## Talthybius
+Talthybius.
 
 I know: but make thy questions severally.
 
-## Hecuba
+Hecuba.
 
             My stricken one must be
 Still first. Say how Cassandra's portion lies.
 
-## Talthybius
+Talthybius.
 
 Chosen from all for Agamemnon's prize!
 
-## Hecuba
+Hecuba.
 
         How, for his Spartan bride
 A tirewoman? For Helen's sister's pride?
 
-## Talthybius
+Talthybius.
 
 Nay, nay: a bride herself, for the King's bed.
 
-## Hecuba
+Hecuba.
 
 The sainted of Apollo? And her own
         Prize that God promisèd
 Out of the golden clouds, her virgin crown? . . .
 
-## Talthybius
+Talthybius.
 
 He loved her for that same strange holiness.
 
-## Hecuba
+Hecuba.
 
         Daughter, away, away,
         Cast all away,
 The haunted Keys, the lonely stole's array
 That kept thy body like a sacred place!
 
-## Talthybius
+Talthybius.
 
 Is't not rare fortune that the King hath smiled
 On such a maid?
 
-## Hecuba
+Hecuba.
 
                   What of that other child
 Ye reft from me but now?
@@ -726,54 +664,54 @@ Ye reft from me but now?
 
 Polyxena? Or what child meanest thou?
 
-## Hecuba
+Hecuba.
 
 The same. What man now hath her, or what doom?
 
-## Talthybius
+Talthybius.
 
 She rests apart, to watch Achilles' tomb.
 
-## Hecuba
+Hecuba.
 
 To watch a tomb? My daughter? What is this? . . .
 Speak, Friend? What fashion of the laws of Greece?
 
-## Talthybius
+Talthybius.
 
 Count thy maid happy! She hath naught of ill
 To fear . . .
 
-## Hecuba
+Hecuba.
 
           What meanest thou? She liveth still?
 
-## Talthybius
+Talthybius.
 
 I mean, she hath one toil that holds her free
 From all toil else.
 
-## Hecuba
+Hecuba.
 
                     What of Andromache,
 Wife of mine iron-hearted Hector, where
         Journeyeth she?
 
-## Talthybius
+Talthybius.
 
 Pyrrhus, Achilles' son, hath taken her.
 
-## Hecuba
+Hecuba.
 
         And I, whose slave am I,
 The shaken head, the arm that creepeth by,
         Staff-crutchèd, like to fall?
 
-## Talthybius
+Talthybius.
 
 Odysseus, Ithaca's king, hath thee for thrall.
 
-## Hecuba
+Hecuba.
 
   Beat, beat the crownless head:
   Rend the cheek till the tears run red!
@@ -792,12 +730,12 @@ Odysseus, Ithaca's king, hath thee for thrall.
   Mine is the crown of misery,
   The bitterest day of all our days.
 
-## Leader
+Leader.
 
 Thy fate thou knowest, Queen: but I know not
 What lord of South or North has won my lot.
 
-## Talthybius
+Talthybius.
 
 Go, seek Cassandra, men! Make your best speed,
 That I may leave her with the King, and lead
@@ -817,7 +755,7 @@ Its burden! . . . Open! Open quick! Such death
 Were bliss to them, it may be: but 'twill bring
 Much wrath, and leave me shamed before the King!
 
-## Hecuba
+Hecuba.
 
 There is no fire, no peril: 'tis my child,
 Cassandra, by the breath of God made wild.
@@ -826,7 +764,7 @@ Cassandra, by the breath of God made wild.
     wreathed like a Priestess, a great torch in her hand_. _She is singing
     softly to herself and does not see the Herald or the scene before her._
 
-## Cassandra
+Cassandra.
 
                                                  [_Strophe._
           Lift, lift it high:
@@ -892,12 +830,12 @@ Cassandra, by the breath of God made wild.
           For him that is doomed of old
             To be lord of me!
 
-## Leader
+Leader.
 
 O hold the damsel, lest her trancèd feet
 Lift her afar, Queen, toward the Hellene fleet!
 
-## Hecuba
+Hecuba.
 
 O Fire, Fire, where men make marriages
 Surely thou hast thy lot; but what are these
@@ -914,7 +852,7 @@ Answer the music of these bridal cries!
 
 [_She takes the torch and gives it to one of the women._
 
-## Cassandra
+Cassandra.
 
 O Mother, fill mine hair with happy flowers,
 And speed me forth. Yea, if my spirit cowers,
@@ -1060,7 +998,7 @@ On these that slay us now, and all their seed!
 [_She goes out, followed by_ TALTHYBIUS _and the Soldiers_: HECUBA,
     _after waiting for an instant motionless, falls to the ground_.
 
-## Leader of Chorus
+Leader of Chorus.
 
 The Queen, ye Watchers! See, she falls, she falls,
 Rigid without a word! O sorry thralls,
@@ -1070,7 +1008,7 @@ A woman, and so old? Raise her again!
 [_Some women go to_ HECUBA, _but she refuses their aid and speaks
     without rising_.
 
-## Hecuba
+Hecuba.
 
 Let lie . . . the love we seek not is no love . . .
 This ruined body! Is the fall thereof
@@ -1125,7 +1063,7 @@ Happy, believe not ere the last day fall!
 
        *       *       *       *       *
 
-## Chorus
+Chorus.
 
                                                  [_Strophe._
   O Muse, be near me now, and make
@@ -1175,7 +1113,7 @@ Marvelling at that mountain Thing
   All night broad-flashing, flung their glare
     On laughing eyes and slumber-laden.
 
-## A Maiden
+A Maiden.
 
   I was among the dancers there
     To Artemis, and glorying sang
@@ -1204,7 +1142,7 @@ Marvelling at that mountain Thing
 [_As the song ceases a chariot is seen approaching from the town, laden
     with spoils. On it sits a mourning Woman with a child in her arms._
 
-## Leader
+Leader.
 
     Lo, yonder on the heapèd crest
       Of a Greek wain, Andromachê,
@@ -1219,7 +1157,7 @@ Marvelling at that mountain Thing
       Aye, richly thy new lord shall crown
     The mountain shrines of Thessaly!
 
-## Andromache
+Andromache.
 
                                                [_Strophe_ 1.
       Forth to the Greek I go,
@@ -1234,7 +1172,7 @@ HEC. Children!
 AND.       No more, no more
         To aid thee: their strife is striven!
 
-## Hecuba
+Hecuba.
 
                                            [_Antistrophe_ 1.
       Troy, Troy is gone!
@@ -1247,7 +1185,7 @@ AND.    Sing for the Great City,
         That falleth, falleth to be
           A shadow, a fire departed.
 
-## Andromache
+Andromache.
 
                                                [_Strophe_ 2.
         Come to me, O my lover!
@@ -1255,7 +1193,7 @@ HEC.    The dark shroudeth him over,
       My flesh, woman, not thine, not thine!
 AND.    Make of thine arms my cover!
 
-## Hecuba
+Hecuba.
 
                                            [_Antistrophe_ 2.
         O thou whose wound was deepest,
@@ -1281,7 +1219,7 @@ AND.  God's wrath for Paris, thy son, that he died not long ago:
         So Love hath laid his yoke
           On the neck of Troy!
 
-## Hecuba
+Hecuba.
 
                                            [_Antistrophe_ 3.
         O mine own land, my home,
@@ -1299,53 +1237,53 @@ HEC. A desolate Mother we leave, O children, a City of scorn:
         But the dead hath lost his pain
           And weeps no more.
 
-## Leader
+Leader.
 
 How sweet are tears to them in bitter stress,
 And sorrow, and all the songs of heaviness.
 
-## Andromache
+Andromache.
 
 Mother of him of old, whose mighty spear
 Smote Greeks like chaff, see'st thou what things are here?
 
-## Hecuba
+Hecuba.
 
 I see God's hand, that buildeth a great crown
 For littleness, and hath cast the mighty down.
 
-## Andromache
+Andromache.
 
 I and my babe are driven among the droves
 Of plundered cattle. O, when fortune moves
 So swift, the high heart like a slave beats low.
 
-## Hecuba
+Hecuba.
 
 'Tis fearful to be helpless. Men but now
 Have taken Cassandra, and I strove in vain.
 
-## Andromache
+Andromache.
 
 Ah, woe is me; hath Ajax come again?
 But other evil yet is at thy gate.
 
-## Hecuba
+Hecuba.
 
 Nay, Daughter, beyond number, beyond weight
 My evils are! Doom raceth against doom.
 
-## Andromache
+Andromache.
 
 Polyxena across Achilles' tomb
 Lies slain, a gift flung to the dreamless dead.
 
-## Hecuba
+Hecuba.
 
 My sorrow! . . . 'Tis but what Talthybius said:
 So plain a riddle, and I read it not.
 
-## Andromache
+Andromache.
 
 I saw her lie, and stayed this chariot;
 And raiment wrapt on her dead limbs, and beat
@@ -1357,17 +1295,17 @@ My breast for her.
 The wickedness! My child. My child! Again
 I cry to thee. How cruelly art thou slain!
 
-## Andromache
+Andromache.
 
 She hath died her death, and howso dark it be,
 Her death is sweeter than my misery.
 
-## Hecuba
+Hecuba.
 
 Death cannot be what Life is, Child; the cup
 Of Death is empty, and Life hath always hope.
 
-## Andromache
+Andromache.
 
 O Mother, having ears, hear thou this word
 Fear-conquering, till thy heart as mine be stirred
@@ -1428,12 +1366,12 @@ The hope that others have. Nor will I tell
 The lie to mine own heart, that aught is well
 Or shall be well. . . . Yet, O, to dream were sweet!
 
-## Leader
+Leader.
 
 Thy feet have trod the pathway of my feet,
 And thy clear sorrow teacheth me mine own.
 
-## Hecuba
+Hecuba.
 
 Lo, yonder ships: I ne'er set foot on one,
 But tales and pictures tell, when over them
@@ -1464,79 +1402,79 @@ Is this that cometh, with new words to speak?
 [_Enter_ TALTHYBIUS _with a band of Soldiers_. _He comes forward slowly
     and with evident disquiet._
 
-## Talthybius
+Talthybius.
 
 Spouse of the noblest heart that beat in Troy,
 Andromache, hate me not! 'Tis not in joy
 I tell thee. But the people and the Kings
 Have with one voice . . .
 
-## Andromache
+Andromache.
 
                     What is it? Evil things
 Are on thy lips!
 
-## Talthybius
+Talthybius.
 
                 'Tis ordered, this child . . . Oh,
 How can I tell her of it?
 
-## Andromache
+Andromache.
 
                           Doth he not go
 With me, to the same master?
 
-## Talthybius
+Talthybius.
 
                                   There is none
 In Greece, shall e'er be master of thy son.
 
-## Andromache
+Andromache.
 
 How? Will they leave him here to build again
 The wreck? . . .
 
-## Talthybius
+Talthybius.
 
             I know not how to tell thee plain!
 
-## Andromache
+Andromache.
 
 Thou hast a gentle heart . . . if it be ill,
 And not good, news thou hidest!
 
-## Talthybius
+Talthybius.
 
                                   'Tis their will
 Thy son shall die. . . . The whole vile thing is said
 Now!
 
-## Andromache
+Andromache.
 
         Oh, I could have borne mine enemy's bed!
 
-## Talthybius
+Talthybius.
 
 And speaking in the council of the host
 Odysseus hath prevailed--
 
-## Andromache
+Andromache.
 
                           O lost! lost! lost! . . .
 Forgive me! It is not easy . . .
 
-## Talthybius
+Talthybius.
 
                             . . . That the son
 Of one so perilous be not fostered on
 To manhood--
 
-## Andromache
+Andromache.
 
                 God; may his own counsel fall
 On his own sons!
 
-## Talthybius
+Talthybius.
 
                   . . . But from this crested wall
 Of Troy be dashed, and die. . . . Nay, let the thing
@@ -1611,7 +1549,7 @@ Your galleys' benches! . . .
 To the bridal. . . . I have lost my child, my own!
                             [_The soldiers close round her._
 
-## Leader
+Leader.
 
 O Troy ill-starred; for one strange woman, one
 Abhorrèd kiss, how are thine hosts undone!
@@ -1628,7 +1566,7 @@ TALTHYBIUS (_bending over_ ANDROMACHE _and gradually taking the Child
   These charges, one of duller mould,
     And nearer to the iron than I!
 
-## Hecuba
+Hecuba.
 
   O Child, they rob us of our own,
     Child of my Mighty One outworn:
@@ -1648,7 +1586,7 @@ TALTHYBIUS (_bending over_ ANDROMACHE _and gradually taking the Child
 
        *       *       *       *       *
 
-## Chorus
+Chorus.
 
                                                [_Strophe_ 1.
   In Salamis, filled with the foaming
@@ -1738,7 +1676,7 @@ TALTHYBIUS (_bending over_ ANDROMACHE _and gradually taking the Child
     followed by a bodyguard of Soldiers_. _He is a prey to violent and
     conflicting emotions._
 
-## Menelaus
+Menelaus.
 
 How bright the face of heaven, and how sweet
 The air this day, that layeth at my feet
@@ -1768,7 +1706,7 @@ Fair breezes, my long ships shall bear her home.
 
 [_The Soldiers go to force open the door of the second hut on the left._
 
-## Hecuba
+Hecuba.
 
 Thou deep Base of the World, and thou high Throne
 Above the World, whoe'er thou art, unknown
@@ -1783,7 +1721,7 @@ To all that breathes and dies.
                       Ha! who is there
 That prayeth heaven, and in so strange a prayer?
 
-## Hecuba
+Hecuba.
 
 I bless thee, Menelaus, I bless thee,
 If thou wilt slay her! Only fear to see
@@ -1798,7 +1736,7 @@ And these that lie around, do they not know?
     _between them. She comes through them, gentle and unafraid: there is
     no disorder in her raiment._
 
-## Helen
+Helen.
 
 King Menelaus, thy first deed might make
 A woman fear. Into my chamber brake
@@ -1813,18 +1751,18 @@ Forth for my life or death?
 That scrupled for thee. All, all with one will
 Gave thee to me, whom thou hast wronged, to kill!
 
-## Helen
+Helen.
 
 And is it granted that I speak, or no,
 In answer to them ere I die, to show
 I die most wronged and innocent?
 
-## Menelaus
+Menelaus.
 
                               I seek
 To kill thee, woman; not to hear thee speak!
 
-## Hecuba
+Hecuba.
 
 O hear her! She must never die unheard,
 King Menelaus! And give me the word
@@ -1833,14 +1771,14 @@ Away from thee, in Troy, thou knowest not.
 The whole tale set together is a death
 Too sure; she shall not 'scape thee!
 
-## Menelaus
+Menelaus.
 
                     'Tis but breath
 And time. For thy sake, Hecuba, if she need
 To speak, I grant the prayer. I have no heed
 Nor mercy--let her know it well--for her!
 
-## Helen
+Helen.
 
 It may be that, how false or true soe'er
 Thou deem me, I shall win no word from thee.
@@ -1914,13 +1852,13 @@ A stamp that God hath burned, of slavery!
 As one set above gods, inviolate,
 'Tis but a fruitless longing holds thee yet.
 
-## Leader
+Leader.
 
 O Queen, think of thy children and thy land,
 And break her spell! The sweet soft speech, the hand
 And heart so fell: it maketh me afraid.
 
-## Hecuba
+Hecuba.
 
 Meseems her goddesses first cry mine aid
 Against these lying lips! . . . Not Hera, nay,
@@ -1999,13 +1937,13 @@ Of Justice. Slay this woman, and upraise
 The law for evermore: she that betrays
 Her husband's bed, let her be judged and die.
 
-## Leader
+Leader.
 
 Be strong, O King; give judgment worthily
 For thee and thy great house. Shake off thy long
 Reproach; not weak, but iron against the wrong!
 
-## Menelaus
+Menelaus.
 
 Thy thought doth walk with mine in one intent.
 'Tis sure; her heart was willing, when she went
@@ -2023,12 +1961,12 @@ Behold, mine arms are wreathed about thy knees;
 Lay not upon my head the phantasies
 Of Heaven. Remember all, and slay me not!
 
-## Hecuba
+Hecuba.
 
 Remember them she murdered, them that fought
 Beside thee, and their children! Hear that prayer!
 
-## Menelaus
+Menelaus.
 
 Peace, agèd woman, peace! 'Tis not for her;
 She is as naught to me.
@@ -2037,20 +1975,20 @@ Ye ministers, and tend her to the shore . . .
 And have some chambered galley set for her,
 Where she may sail the seas.
 
-## Hecuba
+Hecuba.
 
                           If _thou_ be there,
 I charge thee, let not her set foot therein!
 
-## Menelaus
+Menelaus.
 
 How? Shall the ship go heavier for her sin?
 
-## Hecuba
+Hecuba.
 
 A lover once, will alway love again.
 
-## Menelaus
+Menelaus.
 
 If that he loved be evil, he will fain
 Hate it! . . . Howbeit, thy pleasure shall be done.
@@ -2068,7 +2006,7 @@ Wilder of wing and loathèd more than she!
 
        *       *       *       *       *
 
-## Chorus
+Chorus.
 
                  _Some Women._
 
@@ -2161,7 +2099,7 @@ Thronèd in the fire-cloud, where a City, near to die,
 [TALTHYBIUS, _followed by one or two Soldiers and bearing the child_
     ASTYANAX, _dead, is seen approaching_.
 
-## Leader
+Leader.
 
   Ah, change on change! Yet each one racks
       This land with evil manifold;
@@ -2170,7 +2108,7 @@ Thronèd in the fire-cloud, where a City, near to die,
   Our prince, whom bitter Greeks this hour
   Have hurled to death from Ilion's tower.
 
-## Talthybius
+Talthybius.
 
 One galley, Hecuba, there lingereth yet,
 Lapping the wave, to gather the last freight
@@ -2214,7 +2152,7 @@ Our oars at last to beat the homeward sea!
 [_He goes out with his Soldiers, leaving the body of the Child in_
     HECUBA's _arms_.
 
-## Hecuba
+Hecuba.
 
 Set the great orb of Hector's shield to lie
 Here on the ground. 'Tis bitter that mine eye
@@ -2282,7 +2220,7 @@ By any strength hath his own fortune won.
 [_During these lines several Women are seen approaching with garlands
     and raiment in their hands._
 
-## Leader
+Leader.
 
 Lo these, who hear thee raiment harvested
 From Ilion's slain, to fold upon the dead.
@@ -2290,7 +2228,7 @@ From Ilion's slain, to fold upon the dead.
 [_During the following scene_ HECUBA _gradually takes the garments and
     wraps them about the Child_.
 
-## Hecuba
+Hecuba.
 
 O not in pride for speeding of the car
 Beyond thy peers, not for the shaft of war
@@ -2303,7 +2241,7 @@ One woman, loathed of God, hath broke the door
 And robbed thy treasure-house, and thy warm breath
 Made cold, and trod thy people down to death!
 
-## Chorus
+Chorus.
 
                  _Some Women._
 
@@ -2313,7 +2251,7 @@ Made cold, and trod thy people down to death!
               Dead here, our prince to be,
                   And lord of the land?
 
-## Hecuba
+Hecuba.
 
 Glory of Phrygian raiment, which my thought
 Kept for thy bridal day with some far-sought
@@ -2325,7 +2263,7 @@ Undying with the dead, and lordlier there
 Than all the gold Odysseus' breast can bear,
 The evil and the strong!
 
-## Chorus
+Chorus.
 
                  _Some Women._
 
@@ -2346,7 +2284,7 @@ The evil and the strong!
 [_During these lines_ HECUBA, _kneeling by the body, has been performing
     a funeral rite symbolically staunching the dead Child's wounds_.
 
-## Hecuba
+Hecuba.
 
                       I make thee whole;
     I bind thy wounds, O little vanished soul.
@@ -2357,7 +2295,7 @@ The evil and the strong!
 
 [_She bows her head to the ground and remains motionless and unseeing._
 
-## Chorus
+Chorus.
 
               Beat, beat thine head:
                 Beat with the wailing chime
@@ -2365,18 +2303,18 @@ The evil and the strong!
               Beat and bleed for the dead.
               Woe is me for the dead!
 
-## Hecuba
+Hecuba.
 
 O Women! Ye, mine own . . .
 
 [_She rises bewildered, as though she had seen a vision._
 
-## Leader
+Leader.
 
                             Hecuba, speak!
 Thine are we all. Oh, ere thy bosom break . . .
 
-## Hecuba
+Hecuba.
 
 Lo, I have seen the open hand of God;
 And in it nothing, nothing, save the rod
@@ -2400,7 +2338,7 @@ That dream, we living and our vanity!
     presently flames of fire and dim forms are seen among the ruins of the
     City._
 
-## Chorus
+Chorus.
 
                  _Some Women._
 
@@ -2436,7 +2374,7 @@ O ancient woman most unfortunate,
 Follow: Odysseus' men be here, and wait
 To guide thee. . . . 'Tis to him thou go'st for thrall.
 
-## Hecuba
+Hecuba.
 
 Ah, me! and is it come, the end of all,
 The very crest and summit of my days?
@@ -2457,7 +2395,7 @@ My Troy, mine own, take me to die with thee!
 
 [_She springs toward the flames, but is seized and held by the Soldiers._
 
-## Talthybius
+Talthybius.
 
 Back! Thou art drunken with thy miseries,
 Poor woman!--Hold her fast, men, till it please
@@ -2466,7 +2404,7 @@ Chosen from all and portioned. Lose her not!
 
 [_He goes to watch over the burning of the City. The dusk deepens._
 
-## Chorus
+Chorus.
 
                  _Divers Women._
 
@@ -2503,44 +2441,44 @@ O stormy battlements that red fire hath riven,
 [_A new thought comes to_ HECUBA; _she kneels and beats the earth with
     her hands_.
 
-## Hecuba
+Hecuba.
 
                                                  [_Strophe._
 O Earth, Earth of my children; hearken! and O mine own,
   _Ye_ have hearts and forget not, _ye_ in the darkness lying!
 
-## Leader
+Leader.
 
 Now hast thou found thy prayer, crying to them that are gone.
 
-## Hecuba
+Hecuba.
 
 Surely my knees are weary, but I kneel above your head;
 Hearken, O ye so silent! My hands beat your bed!
 
-## Leader
+Leader.
 
         I, I am near thee;
         I kneel to thy dead to hear thee,
 Kneel to mine own in the darkness; O husband, hear my crying!
 
-## Hecuba
+Hecuba.
 
 Even as the beasts they drive, even as the loads they bear,
 
-## Leader
+Leader.
 
                   (Pain; O pain!)
 
-## Hecuba
+Hecuba.
 
 We go to the house of bondage. Hear, ye dead, O hear!
 
-## Leader
+Leader.
 
               (Go, and come not again!)
 
-## Hecuba
+Hecuba.
 
           Priam, mine own Priam,
             Lying so lowly,
@@ -2549,7 +2487,7 @@ We go to the house of bondage. Hear, ye dead, O hear!
           See'st thou the thing I am?
           Know'st thou my bitter stress?
 
-## Leader
+Leader.
 
           Nay, thou art naught to him!
           Out of the strife there came,
@@ -2559,22 +2497,22 @@ We go to the house of bondage. Hear, ye dead, O hear!
 
 [_The fire and smoke rise constantly higher._
 
-## Hecuba
+Hecuba.
 
                                              [_Antistrophe._
 O high houses of Gods, belovèd streets of my birth,
   Ye have found the way of the sword, the fiery and blood-red river!
 
-## Leader
+Leader.
 
 Fall, and men shall forget you! Ye shall lie in the gentle earth.
 
-## Hecuba
+Hecuba.
 
 The dust as smoke riseth; it spreadeth wide its wing;
 It maketh me as a shadow, and my City a vanished thing!
 
-## Leader
+Leader.
 
       Out on the smoke she goeth,
       And her name no man knoweth;
@@ -2582,25 +2520,25 @@ And the cloud is northward, southward; Troy is gone for ever!
 
 [_A great crash is heard, and the Wall is lost in smoke and darkness._
 
-## Hecuba
+Hecuba.
 
 Ha! Marked ye? Heard ye? The crash of the towers that fall!
 
-## Leader
+Leader.
 
                     All is gone!
 
-## Hecuba
+Hecuba.
 
 Wrath in the earth and quaking and a flood that sweepeth all,
 
-## Leader
+Leader.
 
                 And passeth on!
 
 [_The Greek trumpet sounds._
 
-## Hecuba
+Hecuba.
 
         Farewell!--O spirit grey,
             Whatso is coming,
@@ -2609,7 +2547,7 @@ Wrath in the earth and quaking and a flood that sweepeth all,
         Forth where the new long day
         Dawneth to slavery!
 
-## Chorus
+Chorus.
 
         Farewell from parting lips,
         Farewell!--Come, I and thou,
@@ -3063,38 +3001,6 @@ where Charlemagne is called forth on a fresh quest:
 
     "Deus," dist li Reis, "si penuse est ma vie!"
     Pluret des oilz, sa barbe blanche tiret. . . .
-
-Printed by BALLANTYNE, HANSON & CO.
-Edinburgh & London
-
-## By the Same Author
-
-## History of Ancient Greek Literature
-
-ANDROMACHE: A Play.
-
-CARLYON SAHIB: A Play.
-
-THE EXPLOITATION OF INFERIOR RACES, IN ANCIENT AND MODERN TIMES: An
-    Essay in "Liberalism and the Empire."
-
-EURIPIDIS FABULAE: Brevi Adnotatione Critica Instructae, Vols. I. and II.
-
-EURIPIDES: Hippolytus; Bacchae; Aristophanes' 'Frogs.' Translated into
-    English verse.
-
-The following changes were made to the original text:
-
-Page 57: Gesperrt emphasis changed to italics. "_She_" for "S h e".
-Page 58: similarly "_thee_" for "t h e e"
-Page 59: similarly "_She_" for "S h e".
-Page 62: similarly "_thou_" for "t h o u".
-Page 76: similarly "_Ye_" for "Y e" and "_ye_" for "y e".
-
-Page 91: changed "fire-brand's" to "firebrand's" to match referenced text.
-    "P. 57, l. 922, The firebrand's image.]"
-
-Minor punctuation changes made.
 
 ---
 

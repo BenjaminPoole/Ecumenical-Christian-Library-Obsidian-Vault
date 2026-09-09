@@ -73,3 +73,8 @@ The same night Hus wrote as follows to his friends in Constance. He realised cle
 ---
 [[Hus Letter 57 Letter LVI. To Peter Mladenowic (June 6, 1415)|← 57. Letter LVI. To Peter Mladenowic (June]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 59 Letter LVIII. To the Same ( June 8, 1415)|59. Letter LVIII. To the Same ( June 8 →]]
 
+
+
+
+
+

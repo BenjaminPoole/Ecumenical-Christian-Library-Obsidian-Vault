@@ -152,3 +152,8 @@ Husinecz, alias Hus?" To which the said Lord Nicholas answered, not of compulsio
 [[Hus Letter 32 Letter XXXI. To Master John Sybart in the University of|← 32. Letter XXXI. To Master John Sybart in]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 34 Letter XXXIII. To Sigismund (September 1, 1414)|34. Letter XXXIII. To Sigismund (September →]]
 
 
+
+
+
+
+

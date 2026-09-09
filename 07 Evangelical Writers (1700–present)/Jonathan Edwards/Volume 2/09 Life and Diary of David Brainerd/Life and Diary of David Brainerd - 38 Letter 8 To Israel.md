@@ -28,7 +28,7 @@ Oh, my dear brother, flee fleshly *lusts*, and the enchanting *amusements*, as w
 
 Your affectionate dying brother,
 
-## David Brainerd
+*David Brainerd.*
 
 [^430]: Mr. Brainerd afterwards had greater satisfaction concerning the state of his brother’s soul, by much opportunity of conversation with him before his death.
 

@@ -43,3 +43,8 @@ This letter, without date, is attributed by Palacky to June 5, presumably early 
 ---
 [[Hus Letter 55 Letter LIV. To his Friends at Constance ( June 5, 1415)|← 55. Letter LIV. To his Friends at Constance]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 57 Letter LVI. To Peter Mladenowic (June 6, 1415)|57. Letter LVI. To Peter Mladenowic (June →]]
 
+
+
+
+
+

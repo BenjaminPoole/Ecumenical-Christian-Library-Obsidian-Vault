@@ -25,3 +25,8 @@ The following letter is of great interest historically, as throwing light upon t
 ---
 [[Hus Letter 62 Letter LXI. To Henry Skopek De Duba (June 9, 1415)|← 62. Letter LXI. To Henry Skopek De Duba]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 64 Letter LXIII. To his Bohemian Friends (After June 8|64. Letter LXIII. To his Bohemian Friends →]]
 
+
+
+
+
+

@@ -23,3 +23,8 @@ Note that they had spread it abroad in several quarters that they wanted to dest
 ---
 [[Hus Letter 48 Letter XL. Vii. to John of Chlum|← 48. Letter XL. Vii. to John of Chlum]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 50 Letter XLIX. To the Same (March 6, 1415)|50. Letter XLIX. To the Same (March 6, 1415) →]]
 
+
+
+
+
+

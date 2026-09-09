@@ -80,475 +80,7 @@ pedantry and his loyalty.
 
 ## Letters Gaius Plinius Caecilius Secundus
 
-I -- To SEPTITTUS
-
-II -- To ARRIANUS
-
-III -- To VOCONIUS ROMANUS
-
-IV -- To CORNELIUS TACITUS
-
-V -- To POMPEIUS SATURNINUS
-
-VI -- To ATRIUS CLEMENS
-
-VII -- To FABIUS JUSTUS
-
-VIII -- To CALESTRIUS TIRO
-
-IX -- To SOCIUS SENECIO
-
-X -- To JUNSUS MAURICUS
-
-XI -- To SEPTITIUS CLARUS
-
-XII -- To SUETONIUS TRANQUILLUS
-
-XIII -- To ROMANUS FIRMUS
-
-## XIV -- to Cornelius Tacitus
-
-XV -- To PATERNUS
-
-XVI -- To CATILIUS SEVERUS [27]
-
-XVII -- To VOCONIUS ROMANUS
-
-XVIII -- To NEPOS
-
-XIX -- To AVITUS
-
-XX -- To MACRINUS
-
-XXI -- To PAISCUS
-
-XXII -- To MAIMUS
-
-XXIII -- To GALLUS
-
-XXIV -- To CEREALIS
-
-XXV -- To CALVISIUS
-
-XXVI -- To CALVISIUS
-
-XXVII -- To BAEBIUS MACER
-
-XXVIII -- To ANNIUS SEVERUS
-
-XXIX -- To CANINIUS RUFUS
-
-XXX -- To SPURINNA AND COTTIA[53]
-
-XXXI -- To JULIUS GENITOR
-
-XXXII -- To CATILIUS SEVERUS
-
-XXXIII -- To ACILIUS
-
-XXXIV -- To NEPOS
-
-XXXV -- To SEVERUS
-
-XXXVI -- To CALVISIUS RUFUS
-
-XXXVII -- To CORNELIUS PRISCUS
-
-XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
-
-XXXIX -- To ATTIUS CLEMENS
-
-XL -- To CATIUS LEPIDUS
-
-XLI -- To MATURUS ARRIANUS
-
-XLII -- To STATIUS SABINUS
-
-XLIII -- To CORNELIUS MINICIANUS
-
-XLV -- To ASINIUS
-
-XLVI -- To HISPULLA
-
-XLVII -- To ROMATIUS FIASIUS
-
-XLVIII -- To LICINIUS SURA
-
-XLIX -- To ANNIUS SEVERUS
-
-L -- To TITIUS ARISTO
-
-LI -- To NONIUS MAXIMUS
-
-LII -- To DOMITIUS APOLLINARIS
-
-LIII -- To CALVISIUS
-
-LIV -- To MARCELLINUS
-
-LV -- To SPURINNA
-
-LVI -- To PAULINUS
-
-LVII -- To RUFUS
-
-LVIII -- To ARRIANUS
-
-LIX -- To CALPURNIA[88]
-
-LX -- To CALPURNIA
-
-LXI -- To PRISCUS
-
-LXII -- To ALBINUS
-
-LXIII -- To MAXIMUS
-
-LXIV -- To ROMANUS
-
-LXV -- To TACITUS
-
-LXVI -- To CORNELIUS TACITUS
-
-LX VII -- To MACER
-
-LXVIII -- To SERVIANUS
-
-LXIX -- To SEVERUS
-
-LXX -- To FABATUS
-
-LXXI -- To CORNELIANUS
-
-LXXII -- To MAXIMUS
-
-LXXIII -- To RESTITUTUS
-
-LXXIV -- To CALPURNIA[111]
-
-LXXV -- To MACRINUS
-
-LXXVI -- To TUSCUS
-
-LXX VII -- To FABATUS (HIS WIFE'S GRANDFATHER)
-
-LXXVIII -- To CORELLIA
-
-LXXIX -- To CELER
-
-LXXX -- To PRISCUS
-
-LXXXI -- To GEMINIUS
-
-LXXXII -- To MAXIMUS
-
-LXXXIII -- To SURA
-
-LXXXIV -- To SEPTITIUS
-
-LXXXV -- To TACITUS
-
-LXXX VI -- To SEPTITIUS
-
-LXXXVII -- To CALVISIUS
-
-LXXX VIII -- To ROMANUS
-
-LXXXIX -- To ARISTO
-
-XC -- To PATERNUS
-
-XCI -- To MACRINUS
-
-XCII -- To RUFINUS
-
-XCIII -- To GALLUS
-
-XCIV -- To ARRIANUS
-
-XCV -- To MAXIMUS
-
-XCVI -- To PAULINUS
-
-XCVII -- To CALVISIUS
-
-XCVIII -- To ROMANUS
-
-XCIX -- To GEMINUS
-
-C -- To JUNIOR
-
-CI -- To QUADRATUS
-
-CII -- To GENITOR
-
-CIII -- To SABINIANUS
-
-CIV -- To MAXIMUS
-
-CV -- To SABINIANUS
-
-CVI -- To LUPERCUS
-
-CVII -- To CANINIUS
-
-CVIII -- To Fuscus
-
-CIX -- To PAULINUS
-
-CX -- To FUSCUS
-
-## Footnotes to the Letters of Pliny]
-
-## Correspondence with the Emperor Trajan
-
-## I -- to the Emperor Trajan[1001]
-
-II -- To THE EMPEROR TRAJAN
-
-III -- To THE EMPEROR TRAJAN
-
-IV -- To THE EMPEROR TRAJAN
-
-## V -- Trajan to Pliny
-
-VI -- To THE EMPEROR TRAJAN
-
-VII -- To THE EMPEROR TRAJAN
-
-## VIII -- Trajan to Pliny
-
-X -- To THE EMPEROR TRAJAN
-
-XI -- To THE EMPEROR TRAJAN
-
-## XII -- Trajan to Pliny
-
-XIII -- To THE EMPEROR TRAJAN
-
-XIV -- To THE EMPEROR TRAJAN
-
-## XV -- Trajan to Pliny
-
-XVI -- To THE EMPEROR TRAJAN
-
-## XVII -- Trajan to Pliny
-
-XVIII -- To THE EMPEROR TRAJAN
-
-XIX -- To THE EMPEROR TRAJAN
-
-XX -- To THE EMPEROR TRAJAN
-
-XXI -- To THE EMPEROR TRAJAN
-
-XXII -- To THE EMPEROR TRAJAN
-
-XXIII -- To THE EMPEROR TRAJAN
-
-XXIV -- To THE EMPEROR TRAJAN
-
-XXV -- To THE EMPEROR TRAJAN
-
-XXVI -- To THE EMPEROR TRAJAN
-
-XXVII -- To THE EMPEROR TRAJAN
-
-XXVIII -- To THE EMPEROR TRAJAN
-
-XXIX -- To THE EMPEROR TRAJAN
-
-XXX -- To THE EMPEROR TRAJAN
-
-## XXXI -- Trajan to Pliny
-
-XXXII -- To THE EMPEROR TRAJAN
-
-## XXXIII -- Trajan to Pliny
-
-XXXIV -- To THE EMPEROR TRAJAN
-
-## XXXV -- Trajan to Pliny
-
-XXXVI -- To THE EMPEROR TRAJAN
-
-## XXX VII -- Trajan to Pliny
-
-XXXVIII To THE EMPEROR TRAJAN
-
-## XXXIX -- Trajan to Pliny
-
-XL -- To THE EMPEROR TRAJAN
-
-## XLI -- Trajan to Pliny
-
-XLII -- To THE EMPEROR TRAJAN
-
-## XLIII -- Trajan to Pliny
-
-XLIV -- To THE EMPEROR TRAJAN
-
-## XLV -- Trajan to Pliny
-
-XLVI -- To THE EMPEROR TRAJAN
-
-## XLVII -- Trajan to Pliny
-
-XLVIII -- To THE EMPEROR TRAJAN
-
-## XLIX -- Trajan to Pliny
-
-L -- To THE EMPEROR TRAJAN
-
-## LI -- Trajan to Pliny
-
-LII -- To THE EMPEROR TRAJAN
-
-## LIII -- Trajan to Pliny
-
-LIV -- To THE EMPEROR TRAJAN
-
-## LV -- Trajan to Pliny
-
-LVI -- To THE EMPEROR TRAJAN
-
-## LVII -- Trajan to Pliny
-
-LVIII -- To THE EMPEROR TRAJAN
-
-## LIX -- Trajan to Pliny
-
-LX -- To THE EMPEROR TRAJAN
-
-## LXI -- Trajan to Pliny
-
-LXII -- To THE EMPEROR TRAJAN
-
-## LXIII -- Trajan to Pliny
-
-LXIV -- To THE EMPEROR TRAJAN
-
-## LXV -- Trajan to Pliny
-
-LXVI -- To THE EMPEROR TRAJAN
-
-LXVII -- To THE EMPEROR TRAJAN
-
-## LX VIII -- Trajan to Pliny
-
-LXIX -- To THE EMPEROR TRAJAN
-
-## LXX -- Trajan to Pliny
-
-LXXI -- To THE EMPEROR TRAJAN
-
-## LXXII Trajan to Pliny
-
-LXXIII -- To THE EMPEROR TRAJAN
-
-## LXX IV -- Trajan to Pliny
-
-LXXV -- To THE EMPEROR TRAJAN
-
-## LXXVI -- Trajan to Pliny
-
-LXXVII -- To THE EMPEROR TRAJAN
-
-## LXXVIII -- Trajan to Pliny
-
-LXXIX -- To THE EMPEROR TRAJAN
-
-## LXXX -- Trajan to Pliny
-
-LXXXI -- To THE EMPEROR TRAJAN
-
-## LXXXII -- Trajan to Pliny
-
-LXXXIII -- To THE EMPEROR TRAJAN
-
-## LXXXIV -- Trajan to Pliny
-
-LXXXV -- To THE EMPEROR TRAJAN
-
-## LXXXVI -- Trajan to Pliny
-
-LXXXVII -- To THE EMPEROR TRAJAN
-
-## LXXXVIII -- Trajan to Pliny
-
-LXXXIX -- To THE EMPEROR TRAJAN
-
-## XC -- Trajan to Pliny
-
-XCI -- To THE EMPEROR TRAJAN
-
-## XCII -- Trajan to Pliny
-
-XCIII -- To THE EMPEROR TRAJAN
-
-## XCIV -- Trajan to Pliny
-
-XCV -- To THE EMPEROR TRAJAN
-
-## XCVI -- Trajan to Pliny
-
-XCVII To THE EMPEROR TRAJAN
-
-## XCVIII -- Trajan to Pliny
-
-XCIX -- To THE EMPEROR TRAJAN
-
-## C -- Trajan to Pliny
-
-CI To THE EMPEROR TRAJAN
-
-## CII -- Trajan to Pliny
-
-CIII -- To THE EMPEROR TRAJAN
-
-## CIV -- Trajan to Pliny
-
-CV -- To TIlE EMPEROR TRAJAN
-
-## CVI -- Trajan to Pliny
-
-CVII -- To THE EMPEROR TRAJAN
-
-## CVIII -- Trajan to Pliny
-
-CIX -- To THE EMPEROR TRAJAN
-
-## CX -- Trajan to Pliny
-
-CXI -- To THE EMPEROR TRAJAN
-
-## CXII -- Trajan to Pliny
-
-CXIII -- To THE EMPEROR TRAJAN
-
-## CXIV -- Trajan to Pliny
-
-CXV -- To THE EMPEROR TRAJAN
-
-## CXVI -- Trajan to Pliny
-
-CXVII -- To THE EMPEROR TRAJAN
-
-## CXVIII -- Trajan to Pliny
-
-CXIX -- To THE EMPEROR TRAJAN
-
-## CXX -- Trajan to Pliny
-
-CXXI -- To THE EMPEROR TRAJAN
-
-## CXXII -- Trajan to Pliny
-
-## Footnotes to the Correspondence with the Emperor Trajan
-
-## Letters Gaius Plinius Caecilius Secundus
-
-I -- To SEPTITTUS
+## I -- To SEPTITTUS
 
 YOU have frequently pressed me to make a select collection of my Letters
 (if there really be any deserving of a special preference) and give them
@@ -559,7 +91,7 @@ reason to repent of your advice, nor I of my compliance: in that case, I
 may probably enquire after the rest, which at present be neglected, and
 preserve those I shall hereafter write. Farewell.
 
-II -- To ARRIANUS
+## II -- To ARRIANUS
 
 I FORESEE your journey in my direction is likely to be delayed, and
 therefore send you the speech which I promised in my former; requesting
@@ -590,7 +122,7 @@ are still, I am told, in request; if, after all, the booksellers are not
 tickling my ears. And let them; since, by that innocent deceit, I am
 encouraged to pursue my studies. Farewell.
 
-III -- To VOCONIUS ROMANUS
+## III -- To VOCONIUS ROMANUS
 
 DID YOU ever meet with a more abject and mean-spirited creature than
 Marcus Regulus since the death of Domitian, during whose reign his
@@ -687,7 +219,7 @@ he shall advise. Meanwhile I thought I owed this account to our mutual
 friendship, which gives you an undoubted right to know about not only
 all my actions but all my plans as well. Farewell.
 
-IV -- To CORNELIUS TACITUS
+## IV -- To CORNELIUS TACITUS
 
 You will laugh (and you are quite welcome) when I tell you that your old
 acquaintance is turned sportsman, and has taken three noble boars.
@@ -706,7 +238,7 @@ along with you, as well as your basket and bottle, for be assured you
 will find Minerva no less fond of traversing the hills than Diana.
 Farewell.
 
-V -- To POMPEIUS SATURNINUS
+## V -- To POMPEIUS SATURNINUS
 
 NOTHING could be more seasonable than the letter which I received from
 you, in which you so earnestly beg me to send you some of my literary
@@ -809,7 +341,7 @@ have occasioned my delay in giving this piece to the public; but I
 submit them entirely to your judgment, which I shall ever esteem as a
 sufficient sanction of my conduct. Farewell.
 
-VI -- To ATRIUS CLEMENS
+## VI -- To ATRIUS CLEMENS
 
 IF ever polite literature flourished at Rome, it certainly flourishes
 now; and I could give you many eminent instances: I will content myself,
@@ -874,7 +406,7 @@ the happiness I cannot share with them myself: on the contrary, it is a
 very sensible pleasure to me when I find my friends in possession of an
 enjoyment from which I have the misfortune to be excluded. Farewell.
 
-VII -- To FABIUS JUSTUS
+## VII -- To FABIUS JUSTUS
 
 IT is a long time since I have had a letter from you, "There is nothing
 to write about," you say: well then write and let me know just this,
@@ -885,7 +417,7 @@ I am in sober earnest. Do let me know how you are; for I cannot remain
 ignorant any longer without growing exceedingly anxious about you.
 Farewell.
 
-VIII -- To CALESTRIUS TIRO
+## VIII -- To CALESTRIUS TIRO
 
 I HAVE suffered the heaviest loss; if that word be sufficiently strong
 to express the misfortune which has deprived me of so excellent a man.
@@ -955,7 +487,7 @@ all that I have heard, and all that I have read, occur to me of
 themselves; but all these are by far too weak to support me under so
 severe an affliction. Farewell.
 
-IX -- To SOCIUS SENECIO
+## IX -- To SOCIUS SENECIO
 
 This year has produced a plentiful crop of poets: during the whole month
 of April scarcely a day has passed on which we have not been entertained
@@ -991,7 +523,7 @@ than given my attendance to these recitations of my friends, for in
 these, as in all other good offices, the obligation ceases the moment
 you seem to expect a return. Farewell.
 
-X -- To JUNSUS MAURICUS
+## X -- To JUNSUS MAURICUS
 
 You desire me to look out a proper husband for your niece: it is with
 justice you enjoin me that office. You know the high esteem and
@@ -1046,7 +578,7 @@ represented. I love the young fellow indeed (as he justly deserves) with
 all the warmth of a most ardent affection; but for that very reason I
 would not ascribe more to his merit than I know it will bear. Farewell.
 
-XI -- To SEPTITIUS CLARUS
+## XI -- To SEPTITIUS CLARUS
 
 Ah! you are a pretty fellow! You make an engagement to come to supper
 and then never appear. Justice shall be exacted;--you shall reimburse me
@@ -1071,7 +603,7 @@ freedom: only make the experiment, and if you do not ever after excuse
 yourself to your other friends, to come to me, always put me off to go
 to them. Farewell.
 
-XII -- To SUETONIUS TRANQUILLUS
+## XII -- To SUETONIUS TRANQUILLUS
 
 You tell me in your letter that you are extremely alarmed by a dream;
 apprehending that it forebodes some ill success to you in the case you
@@ -1114,7 +646,7 @@ where I was to plead, admits of no adjournment: whereas, in that where
 your case is to be heard, though no easy matter to procure one, still,
 however, it is possible. Farewell.
 
-XIII -- To ROMANUS FIRMUS
+## XIII -- To ROMANUS FIRMUS
 
 As you are my towns-man, my school-fellow, and the earliest companion of
 my youth; as there was the strictest friendship between my mother and
@@ -1292,7 +824,7 @@ length. Does it not look rather like bribery, my requiring only a short
 letter, if you agree with me; but a very long one if you should be of a
 different opinion. Farewell.
 
-XV -- To PATERNUS
+## XV -- To PATERNUS
 
 As I rely very much upon the soundness of your judgment, so I do upon
 the goodness of your eyes: not because I think your discernment very
@@ -1303,7 +835,7 @@ on your recommendation very well; all I further care about is, that they
 be honest: and for this I must depend upon their characters more than
 their countenances. Farewell.
 
-XVI -- To CATILIUS SEVERUS [27]
+## XVI -- To CATILIUS SEVERUS [27]
 
 I AM at present (and have been a considerable time) detained in Rome,
 under the most stunning apprehensions. Titus Aristo,[28] whom I have a
@@ -1366,7 +898,7 @@ but of what you intend doing too. It will be a very sensible consolation
 to me in this disturbance of mind, to be assured that yours is easy.
 Farewell.
 
-XVII -- To VOCONIUS ROMANUS
+## XVII -- To VOCONIUS ROMANUS
 
 ROME has not for many years beheld a more magnificent and memorable
 spectacle than was lately exhibited in the public funeral of that great,
@@ -1426,7 +958,7 @@ him, am speaking to him, embrace him. There are men amongst us, his
 fellow-citizens, perhaps, who may rival him in virtue; but not one that
 will ever approach him in glory. Farewell.
 
-XVIII -- To NEPOS
+## XVIII -- To NEPOS
 
 THE great fame of Isaeus had already preceded him here; but we find him
 even more wonderful than we had heard. He possesses the utmost
@@ -1486,7 +1018,7 @@ sounded far finer from the lips of its author. I am saying all this with
 a view to persuading you to hear Isaeus, if even for the mere sake of
 being able to say you have heard him. Farewell.
 
-XIX -- To AVITUS
+## XIX -- To AVITUS
 
 IT would be a long story, and of no great importance, to tell you by
 what accident I found myself dining the other day with an individual
@@ -1524,7 +1056,7 @@ to be avoided than this modern alliance of luxury with meanness; odious
 enough when existing separate and distinct, but still more hateful where
 you meet with them together. Farewell.
 
-XX -- To MACRINUS
+## XX -- To MACRINUS
 
 THE senate decreed yesterday, on the emperor's motion, a triumphal
 statue to Vestricius Spurinna: not as they would to many others, who
@@ -1618,7 +1150,7 @@ repeated them in every line of this letter: for, to show a good reason
 for what one asks is true intercession, and of the most effectual kind.
 Farewell.
 
-XXII -- To MAIMUS
+## XXII -- To MAIMUS
 
 You guessed correctly: I am much engaged in pleading before the Hundred.
 The business there is more fatiguing than pleasant. Trifling,
@@ -1684,7 +1216,7 @@ indecencies, were I to leave it just yet: however, I go there less
 frequently than I did, and am thus effecting a gradual retreat.
 Farewell.
 
-XXIII -- To GALLUS
+## XXIII -- To GALLUS
 
 You are surprised that I am so fond of my Laurentine, or (if you prefer
 the name) my Laurens: but you will cease to wonder when I acquaint you
@@ -1847,7 +1379,7 @@ to it, that to so many charms with which my little villa abounds, it
 might have the very considerable addition of your company to recommend
 it. Farewell.
 
-XXIV -- To CEREALIS
+## XXIV -- To CEREALIS
 
 You advise me to read my late speech before an assemblage of my friends.
 I shall do so, as you advise it, though I have strong scruples.
@@ -1894,7 +1426,7 @@ before you, and then decide as reason shall direct; for it is reason
 that must justify you; obedience to your commands will be a sufficient
 apology for me. Farewell.
 
-XXV -- To CALVISIUS
+## XXV -- To CALVISIUS
 
 GIVE me a penny, and I will tell you a story "worth gold," or, rather,
 you shall hear two or three; for one brings to my mind another. It makes
@@ -1955,7 +1487,7 @@ should possess double that sum. And possibly he may, if he continues to
 dictate wills for other people in this way: a sort of fraud, in my
 opinion, the most infamous of any. Farewell.
 
-XXVI -- To CALVISIUS
+## XXVI -- To CALVISIUS
 
 I NEVER, I think, spent any time more agreeably than my time lately with
 Spurinna. So agreeably, indeed, that if ever I should arrive at old age,
@@ -2019,7 +1551,7 @@ carry me beyond those bounds, produce this very letter of mine in court
 against me; and condemn me to repose, whenever I enjoy it without being
 reproached with indolence. Farewell.
 
-XXVII -- To BAEBIUS MACER
+## XXVII -- To BAEBIUS MACER
 
 IT gives me great pleasure to find you such a reader of my uncle's works
 as to wish to have a complete collection of them, and to ask me for the
@@ -2121,7 +1653,7 @@ not only excite your curiosity to read his works, but also your
 emulation to copy his example, by some attempts of a similar nature.
 Farewell.
 
-XXVIII -- To ANNIUS SEVERUS
+## XXVIII -- To ANNIUS SEVERUS
 
 I HAVE lately purchased with a legacy that was left me a small statue of
 Corinthian brass. It is small indeed, but elegant and life-like, as far
@@ -2155,7 +1687,7 @@ promise to come; but you will soon change your countenance when I add,
 only for a few days: for the same business that at present keeps me here
 will prevent my making a longer stay. Farewell.
 
-XXIX -- To CANINIUS RUFUS
+## XXIX -- To CANINIUS RUFUS
 
 I HAVE just been informed that Silius Italicus[51] has starved himself
 to death, at his villa near Naples. Ill-health was the cause. Being
@@ -2220,7 +1752,7 @@ as you have so often urged me. "Happy rivalry" when two friends strive
 in this way which of them shall animate the other most in their mutual
 pursuit of immortal fame. Farewell.
 
-XXX -- To SPURINNA AND COTTIA[53]
+## XXX -- To SPURINNA AND COTTIA[53]
 
 I DID not tell you, when I paid you my last visit, that I had composed
 something in praise of your son; because, in the first place, I wrote it
@@ -2252,7 +1784,7 @@ likeness which I am endeavouring to execute: for the truer to the
 original, the more perfect and finished it is, so much the more lasting
 it is likely to prove. Farewell.
 
-XXXI -- To JULIUS GENITOR
+## XXXI -- To JULIUS GENITOR
 
 IT is just like the generous disposition of Artemidorus to magnify the
 kindnesses of his friends; hence he praises my deserts (though he is
@@ -2295,7 +1827,7 @@ him beyond the due limits; for he, who is so free from all other errors,
 is apt to fall into just this one good-natured one, of overrating the
 merits of his friends. Farewell.
 
-XXXII -- To CATILIUS SEVERUS
+## XXXII -- To CATILIUS SEVERUS
 
 I WILL come to supper, but must make this agreement beforehand, that I
 go when I please, that you treat me to nothing expensive, and that our
@@ -2312,7 +1844,7 @@ as moderate in regard to hours as in the preparation and expense: for we
 are not of such eminent reputation that even our enemies cannot censure
 our conduct without applauding it at the same time. Farewell.
 
-XXXIII -- To ACILIUS
+## XXXIII -- To ACILIUS
 
 THE atrocious treatment that Largius Macedo, a man of praetorian rank,
 lately received at the hands of his slaves is so extremely tragical that
@@ -2354,7 +1886,7 @@ a blow with his open palm that he almost knocked him down. Thus the bath
 by a kind of gradation proved fatal to him; being first the scene of an
 indignity he suffered, afterwards the scene of his death. Farewell.
 
-XXXIV -- To NEPOS
+## XXXIV -- To NEPOS
 
 I HAVE constantly observed that amongst the deeds and sayings of
 illustrious persons of either sex, some have made more noise in the
@@ -2423,7 +1955,7 @@ over in silence. Whence I cannot but infer, what I observed at the
 beginning of my letter, that some actions are more celebrated, whilst
 others are really greater. Farewell.
 
-XXXV -- To SEVERUS
+## XXXV -- To SEVERUS
 
 I WAS obliged by my consular office to compliment the emperor[56] in the
 name of the republic; but after I had performed that ceremony in the
@@ -2487,7 +2019,7 @@ your friendship to me, and the part you take in everything that concerns
 the interest of literature, I know you would have received, had you been
 there to hear. Farewell.
 
-XXXVI -- To CALVISIUS RUFUS
+## XXXVI -- To CALVISIUS RUFUS
 
 I MUST have recourse to you, as usual, in an affair which concerns my
 finances. An estate adjoining my land, and indeed running into it, is
@@ -2533,7 +2065,7 @@ like you very carefully to consider: for, as in everything else, so,
 particularly in matters of economy, no man has more judgment and
 experience than yourself. Farewell.
 
-XXXVII -- To CORNELIUS PRISCUS
+## XXXVII -- To CORNELIUS PRISCUS
 
 I HAVE just heard of Valerius Martial's death, which gives me great
 concern. He was a man of an acute and lively genius, and his writings
@@ -2569,7 +2101,7 @@ valuable than the honour of never-fading praise? But his poems will not
 long survive their author, at least I think not, though he wrote them in
 the expectation of their doing so. Farewell.
 
-XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
+## XXXVIII -- To FABATUS (HIS WIFE'S GRANDFATHER)
 
 You have long desired a visit from your grand-daughter[62] accompanied
 by me. Nothing, be assured, could be more agreeable to either of us; for
@@ -2595,7 +2127,7 @@ May we have the happiness to find you and your daughter in good health!
 In good spirits I am sure we shall, should we get to you all safely.
 Farewell.
 
-XXXIX -- To ATTIUS CLEMENS
+## XXXIX -- To ATTIUS CLEMENS
 
 REGULUS has lost his son; the only undeserved misfortune which could
 have befallen him, in that I doubt whether he thinks it a misfortune.
@@ -2629,7 +2161,7 @@ too late. You ask me why I conjecture this? Certainly not because he
 says so himself (for a greater liar never stepped), but because there is
 no doubt that Regulus will do whatever ought not to be done. Farewell.
 
-XL -- To CATIUS LEPIDUS
+## XL -- To CATIUS LEPIDUS
 
 I OFTEN tell you that there is a certain force of character about
 Regulus: it is wonderful how he carries through what he has set his mind
@@ -2665,7 +2197,7 @@ most merrily, and straining every muscle in your throat." For so absurd
 a performance must excite laughter rather than compassion; and indeed
 the composition is as puerile as the subject. Farewell.
 
-XLI -- To MATURUS ARRIANUS
+## XLI -- To MATURUS ARRIANUS
 
 Mv advancement to the dignity of augur[65] is an honour that justly
 indeed merits your congratulations; not only because it is highly
@@ -2693,7 +2225,7 @@ man's disposal, may be conferred on me and on many others, but the
 latter it is as presumptuous to hope for as it is difficult to reach,
 being in the gift of heaven alone. Farewell.
 
-XLII -- To STATIUS SABINUS
+## XLII -- To STATIUS SABINUS
 
 YOUR letter informs me that Sabina, who appointed you and me her heirs,
 though she has nowhere expressly directed that Modestus shall have his
@@ -2713,7 +2245,7 @@ Modestus then enjoy his freedom and his legacy as fully as if Sabina had
 observed all the requisite forms, as indeed they effectually do who make
 a judicious choice of their heirs. Farewell.
 
-XLIII -- To CORNELIUS MINICIANUS
+## XLIII -- To CORNELIUS MINICIANUS
 
 [68] Have you heard--I suppose, not yet, for the news has but just
 arrived -- that Valerius Licinianus has become a professor in Sicily?
@@ -2787,7 +2319,7 @@ the public. Never, be very sure of that, will there be wanting hearers
 and readers, so long as we can only supply them with speakers and
 writers worth their attention. Farewell.
 
-XLV -- To ASINIUS
+## XLV -- To ASINIUS
 
 You advise me, nay you entreat me, to undertake, in her absence, the
 cause of Corellia, against C. Caecilius, consul elect. For your advice I
@@ -2844,7 +2376,7 @@ her adversary (whose suit may perhaps, as you say, be entirely without
 precedent, as it is against a woman) will not only excuse, but approve,
 my conduct. Farewell.
 
-XLVI -- To HISPULLA
+## XLVI -- To HISPULLA
 
 As you are a model of all virtue, and loved your late excellent brother,
 who had such a fondness for you, with an affection equal to his own;
@@ -2878,7 +2410,7 @@ imagines I really am. Accept therefore of our mutual thanks, mine, for
 your giving me her, hers for your giving her me; for you have chosen us
 out, as it were, for each other. Farewell.
 
-XLVII -- To ROMATIUS FIASIUS
+## XLVII -- To ROMATIUS FIASIUS
 
 Look here! The next time the court sits, you must, at all events, take
 your place there. In vain would your indolence repose itself under my
@@ -2892,7 +2424,7 @@ for though indeed to be the author and reviver of an example of this
 kind may be an act of severity, yet, once introduced, even lenity
 herself may follow the precedent. Farewell.
 
-XLVIII -- To LICINIUS SURA
+## XLVIII -- To LICINIUS SURA
 
 I HAVE brought you as a little present out of the country a query which
 well deserves the consideration of your extensive knowledge. There is a
@@ -2931,7 +2463,7 @@ You, who are so well qualified for the enquiry, will examine into the
 causes of this wonderful phenomenon; it will be sufficient for me if I
 have given you an adequate description of it. Farewell.
 
-XLIX -- To ANNIUS SEVERUS
+## XLIX -- To ANNIUS SEVERUS
 
 A SMALL legacy was lately left me, yet one more acceptable than a far
 larger bequest would have been. How more acceptable than a far larger
@@ -2998,7 +2530,7 @@ to be indifferent, when I think I have acted like an honour-able man,
 whether my actions meet with that approval which is in some sort their
 due. Farewell.
 
-L -- To TITIUS ARISTO
+## L -- To TITIUS ARISTO
 
 AMONG the many agreeable and obliging instances I have received of your
 friendship, your not concealing from me the long conversations which
@@ -3056,7 +2588,7 @@ recited my works in public, and not in my own house before my friends, a
 numerous appearance of whom has upon many occasions been held an honour,
 but never, surely, a reproach. Farewell.
 
-LI -- To NONIUS MAXIMUS
+## LI -- To NONIUS MAXIMUS
 
 I AM deeply afflicted with the news I have received of the death of
 Fannius; in the first place, because I loved one so eloquent and
@@ -3098,7 +2630,7 @@ Let us then, my friend, while life permits, exert all our endeavours,
 that death, whenever it arrives, may find as little as possible to
 destroy. Farewell.
 
-LII -- To DOMITIUS APOLLINARIS
+## LII -- To DOMITIUS APOLLINARIS
 
 THE kind concern you expressed on hearing of my design to pass the
 summer at my villa in Tuscany, and your obliging endeavours to dissuade
@@ -3331,7 +2863,7 @@ am sure I have not yet lost one (may the expression be allowed![77]) of
 all those I brought here with me. And may the gods continue that
 happiness to me, and that honour to my villa. Farewell.
 
-LIII -- To CALVISIUS
+## LIII -- To CALVISIUS
 
 IT is certain the law does not allow a corporate city to inherit any
 estate by will, or to receive a legacy. Saturninus, however, who has
@@ -3363,7 +2895,7 @@ the tone of voice govern and determine the sense of the speaker, whereas
 a letter, being without these advantages, is more liable to malignant
 misinterpretation. Farewell.
 
-LIV -- To MARCELLINUS
+## LIV -- To MARCELLINUS
 
 I WRITE this to you in the deepest sorrow: the youngest daughter of my
 friend Fundanus is dead! I have never seen a more cheerful and more
@@ -3408,7 +2940,7 @@ own accord the means of its cure, so a mind under the first impression
 of a misfortune shuns and rejects all consolations, but at length
 desires and is lulled by their gentle application. Farewell.
 
-LV -- To SPURINNA
+## LV -- To SPURINNA
 
 KNOWING, as I do, how much you admire the polite arts, and what
 satisfaction you take in seeing young men of quality pursue the steps of
@@ -3446,7 +2978,7 @@ excellent youths, I now figure them to myself as silently applauding and
 encouraging their pursuits, and (what is a sufficient degree of honour
 to both brothers) as recognizing their kindred. Farewell.
 
-LVI -- To PAULINUS
+## LVI -- To PAULINUS
 
 As I know the humanity with which you treat your own servants, I have
 less reserve in confessing to you the indulgence I shew to mine. I have
@@ -3489,7 +3021,7 @@ requires. I shall furnish him towards his journey with what will be
 sufficient for one of his moderate requirements, who is coming under
 your roof. Farewell.
 
-LVII -- To RUFUS
+## LVII -- To RUFUS
 
 I WENT into the Julian[83] court to hear those lawyers to whom,
 according to the last adjournment, I was to reply. The judges had taken
@@ -3532,7 +3064,7 @@ success; in consequence of which you may hear the very same conduct
 attributed to zeal or folly, to liberty or licentiousness, upon
 different several occasions. Farewell.
 
-LVIII -- To ARRIANUS
+## LVIII -- To ARRIANUS
 
 SOMETIMES I miss Regulus in our courts. I cannot say I deplore his loss.
 The man, it must be owned, highly respected his profession, grew pale
@@ -3587,7 +3119,7 @@ remains in its usual situation. The good which I enjoy grows more
 acceptable to me by its continuance; as habit renders me less sensible
 of the evils I suffer. Farewell.
 
-LIX -- To CALPURNIA[88]
+## LIX -- To CALPURNIA[88]
 
 NEVER was business more disagreeable to me than when it prevented me not
 only from accompanying you when you went into Campania for your health,
@@ -3606,7 +3138,7 @@ even twice a day: I shall be more easy, at least while I am reading your
 letters, though when I have read them, I shall immediately feel my fears
 again. Farewell.
 
-LX -- To CALPURNIA
+## LX -- To CALPURNIA
 
 You kindly tell me my absence very sensibly affects you, and that your
 only consolation is in conversing with my works, which you frequently
@@ -3619,7 +3151,7 @@ many charms? Let me receive them, however, as often as possible,
 notwithstanding there is still a mixture of pain in the pleasure they
 afford me. Farewell.
 
-LXI -- To PRISCUS
+## LXI -- To PRISCUS
 
 You know Attilius Crescens, and you love him; who is there, indeed, of
 any rank or worth, that does not? For myself, I profess to have a
@@ -3672,7 +3204,7 @@ should not) that I neglect his interest, nor that I may have occasion to
 charge you with carelessness of mine: as undoubtedly I shall not if you
 have the same regard for the latter as I have for the former. Farewell.
 
-LXII -- To ALBINUS
+## LXII -- To ALBINUS
 
 I WAS lately at Alsium,[90] where my mother-in-law has a villa which
 once belonged to Verginius Rufus. The place renewed in my mind the
@@ -3699,7 +3231,7 @@ to fear for himself what we see has happened to Verginius, whose
 eminence and distinction, while rendering such treatment more shameful,
 so, in the same way, make it more notorious? Farewell.
 
-LXIII -- To MAXIMUS
+## LXIII -- To MAXIMUS
 
 O WHAT a happy day I lately spent! I was called by the prefect of Rome,
 to assist him in a certain case, and had the pleasure of hearing two
@@ -3723,7 +3255,7 @@ virtue? May the gods still grant me the continuance of that pleasure!
 And I implore the same gods, you are my witness, to make all these who
 think me deserving of imitation far better than I am, Farewell.
 
-LXIV -- To ROMANUS
+## LXIV -- To ROMANUS
 
 You were not present at a very singular occurrence here lately: neither
 was I, but the story reached me just after it had happened. Passienus
@@ -3745,7 +3277,7 @@ friend's absurdity. You see how necessary it is for those who are
 anxious to recite their works in public to take care that the audience
 as well as the author are perfectly sane. Farewell.
 
-LXV -- To TACITUS
+## LXV -- To TACITUS
 
 YOUR request that I would send you an account of my uncle's death, in
 order to transmit a more exact relation of it to posterity, deserves my
@@ -3867,7 +3399,7 @@ vary the truth. You will pick out of this narrative whatever is most
 important: for a letter is one thing, a history another; it is one thing
 writing to a friend, another thing writing to the public. Farewell.
 
-LXVI -- To CORNELIUS TACITUS
+## LXVI -- To CORNELIUS TACITUS
 
 THE letter which, in compliance with your request, I wrote to you
 concerning the death of my uncle has raised, it seems, your curiosity to
@@ -4000,7 +3532,7 @@ action is taken less notice of than that famous one of Arria's, is not
 because it was less remarkable, but because the person who performed it
 was more obscure. Farewell.
 
-LXVIII -- To SERVIANUS
+## LXVIII -- To SERVIANUS
 
 I AM extremely glad to hear that you intend your daughter for Fuscus
 Salinator, and congratulate you upon it. His family is patrician,[97]
@@ -4019,7 +3551,7 @@ his father! and with what pleasure shall I receive from the arms of two
 such friends their children or grand-children, whom I shall claim a sort
 of right to embrace as my own! Farewell.
 
-LXIX -- To SEVERUS
+## LXIX -- To SEVERUS
 
 You desire me to consider what turn you should give to your speech in
 honour of the emperor,[98] upon your being appointed consul elect.[99]
@@ -4050,7 +3582,7 @@ to adopt the same plan as I did myself. In this, however, I am clear,
 that it was proper to offer you by way of advice the method I pursued.
 Farewell.
 
-LXX -- To FABATUS
+## LXX -- To FABATUS
 
 I HAVE the best reason, certainly, for celebrating your birthday as my
 own, since all the happiness of mine arises from yours, to whose care
@@ -4069,7 +3601,7 @@ most highly of Rufus, for he was a great friend of your son's; but of
 what use he can be to us upon this occasion, I cannot conceive; though I
 am sure he will be glad to do all he can for us. Farewell.
 
-LXXI -- To CORNELIANUS
+## LXXI -- To CORNELIANUS
 
 I RECEIVED lately the most exquisite satisfaction at Centumcellae[101]
 (as it is now called), being summoned thither by Cæsar[102] to attend a
@@ -4156,7 +3688,7 @@ of its great author,[109] and will prove of infinite benefit, by
 affording a secure retreat to ships on that extensive and dangerous
 coast. Farewell.
 
-LXXII -- To MAXIMUS
+## LXXII -- To MAXIMUS
 
 You did perfectly right in promising a gladiatorial combat to our good
 friends the citizens of Verona, who have long loved, looked up to, and
@@ -4175,7 +3707,7 @@ though they were delayed by the stormy weather, the obligation to you is
 equally the same, since it was not your fault that they were not
 exhibited. Farewell.
 
-LXXIII -- To RESTITUTUS
+## LXXIII -- To RESTITUTUS
 
 THIS obstinate illness of yours alarms me; and though I know how
 extremely temperate you are, yet I fear lest your disease should get the
@@ -4206,7 +3738,7 @@ this, not only by way of enforcing my advice by example, but also that
 this letter may be a sort of tie upon me to persevere in the same
 resolute abstinence for the future. Farewell.
 
-LXXIV -- To CALPURNIA[111]
+## LXXIV -- To CALPURNIA[111]
 
 You will not believe what a longing for you possesses me. The chief
 cause of this is my love; and then we have not grown used to be apart.
@@ -4219,7 +3751,7 @@ worn out at the bar, and in the suits of my friends. Judge you what must
 be my life when I find my repose in toil, my solace in wretchedness and
 anxiety. Farewell.
 
-LXXV -- To MACRINUS
+## LXXV -- To MACRINUS
 
 A VERY singular and remarkable accident has happened in the affair of
 Varenus,[112] the result of which is yet doubtful. The Bithynians, it is
@@ -4288,7 +3820,7 @@ as that will decide whether I may be entirely secure and easy with
 respect to Varenus, or must again renew all my trouble and anxiety upon
 his account. Farewell.
 
-LXXVI -- To TUSCUS
+## LXXVI -- To TUSCUS
 
 You desire my opinion as to the method of study you should pursue, in
 that retirement to which you have long since withdrawn. In the first
@@ -4408,7 +3940,7 @@ connections with Corellia. They are at full liberty therefore to be
 guided by interest, which in my own case I chose to sacrifice to
 friendship. Farewell.
 
-LXXVIII -- To CORELLIA
+## LXXVIII -- To CORELLIA
 
 You are truly generous to desire and insist that I take for my share of
 the estate you purchased of me, not after the rate of seven hundred
@@ -4420,7 +3952,7 @@ your character, but what is worthy of mine; and that you would suffer me
 to oppose your inclination in this single instance, with the same warmth
 that I obey it in all others. Farewell.
 
-LXXIX -- To CELER
+## LXXIX -- To CELER
 
 EVERY author has his particular reasons for reciting his works; mine, I
 have often said, are, in order, if any error should have escaped my own
@@ -4501,7 +4033,7 @@ that frequent revisals, and many consultations, must go to the
 perfecting of a performance, which one desires should universally and
 forever please. Farewell.
 
-LXXX -- To PRISCUS
+## LXXX -- To PRISCUS
 
 THE illness of my friend Fannia gives me great concern. She contracted
 it during her attendance on Junia, one of the Vestal virgins, engaging
@@ -4561,7 +4093,7 @@ under which I write this letter! But if some divine power should happily
 turn it into joy, I shall not complain of the alarms I now suffer.
 Farewell.
 
-LXXXI -- To GEMINIUS
+## LXXXI -- To GEMINIUS
 
 NUMIDIA QUADRATILLA is dead, having almost reached her eightieth year.
 She enjoyed, up to her last illness, uninterrupted good health, and was
@@ -4614,7 +4146,7 @@ its ancient dignity, lustre, and glory will again revive under
 Quadratus, who, I am persuaded, will prove as eminent an orator as
 Cassius was a lawyer. Farewell.
 
-LXXXII -- To MAXIMUS
+## LXXXII -- To MAXIMUS
 
 THE lingering disorder of a friend of mine gave me occasion lately to
 reflect that we are never so good as when oppressed with illness. Where
@@ -4634,7 +4166,7 @@ endeavoured to inculcate at the expense of many words, and even many
 volumes; that "we should try and realise in health those resolutions we
 form in sickness." Farewell.
 
-LXXXIII -- To SURA
+## LXXXIII -- To SURA
 
 THE present recess from business we are now enjoying affords you leisure
 to give, and me to receive, instruction. I am extremely desirous
@@ -4741,7 +4273,7 @@ lest, whilst I consult you in order to have my doubt settled, you should
 dismiss me in the same suspense and indecision that occasioned you the
 present application. Farewell.
 
-LXXXIV -- To SEPTITIUS
+## LXXXIV -- To SEPTITIUS
 
 You tell me certain persons have blamed me in your company, as being
 upon all occasions too lavish in the praise I give my friends. I not
@@ -4757,7 +4289,7 @@ their censure upon their friends. As for myself, they will never be able
 to persuade me I can be guilty of an excess[121] in friendship,
 Farewell.
 
-LXXXV -- To TACITUS
+## LXXXV -- To TACITUS
 
 I PREDICT (and I am persuaded I shall not be deceived) that your
 histories will be immortal. I frankly own therefore I so much the more
@@ -4826,7 +4358,7 @@ of the air, and the quiet of retirement, gives us reason to expect that
 the country will contribute as much to the restoration of his health as
 to his rest. Farewell.
 
-LXXXVII -- To CALVISIUS
+## LXXXVII -- To CALVISIUS
 
 OTHER people visit their estates in order to recruit their purses;
 whilst I go to mine only to return so much the poorer. I had sold my
@@ -4921,7 +4453,7 @@ them you will admire, while some will make you laugh; but I must correct
 myself when I say so; you are too humane, I know, to laugh upon such an
 occasion. Farewell.
 
-LXXXIX -- To ARISTO
+## LXXXIX -- To ARISTO
 
 As you are no less acquainted with the political laws of your country
 (which include the customs and usages of the senate) than with the
@@ -5105,7 +4637,7 @@ other was rejected; while the third, as it was not powerful enough to
 conquer both the others, had only to choose to which of the two it would
 yield. Farewell.
 
-XC -- To PATERNUS
+## XC -- To PATERNUS
 
 THE sickness lately in my family, which has carried off several of my
 servants, some of them, too, in the prime of their years, has been a
@@ -5135,7 +4667,7 @@ long as I would. There is a certain pleasure even in giving vent to
 one's grief; especially when we weep on the bosom of a friend who will
 approve, or, at least, pardon, our tears. Farewell.
 
-XCI -- To MACRINUS
+## XCI -- To MACRINUS
 
 Is the weather with you as rude and boisterous as it is with us? All
 here is in tempest and inundation. The Tiber has swelled its channel,
@@ -5173,7 +4705,7 @@ feels has some bounds, whereas one's apprehensions have none. For we can
 suffer no more than what actually has happened but we fear all that
 possibly could happen. Farewell.
 
-XCII -- To RUFINUS
+## XCII -- To RUFINUS
 
 The common notion is certainly quite a false one, that a man's will is a
 kind of mirror in which we may clearly discern his real character, for
@@ -5253,7 +4785,7 @@ refuse the trouble of writing to me: not only as we are all of us
 naturally fond, you know, of news, but because example has a very
 beneficial influence upon our own conduct. Farewell.
 
-XCIII -- To GALLUS
+## XCIII -- To GALLUS
 
 THOSE works of art or nature which are usually the motives of our
 travels are often overlooked and neglected if they lie within our reach:
@@ -5312,7 +4844,7 @@ account because I imagined it would not be less new, nor less agreeable,
 to you than it was to me; as I know you take the same pleasure as myself
 in contemplating the works of nature. Farewell.
 
-XCIV -- To ARRIANUS
+## XCIV -- To ARRIANUS
 
 NOTHING, in my opinion, gives a more amiable and becoming grace to our
 studies, as well as manners, than to temper the serious with the gay,
@@ -5359,7 +4891,7 @@ delay of excessive revision) will seem quite new to you. For when a
 piece has undergone various changes, it gets to look new, even in those
 very parts which remain unaltered. Farewell.
 
-XCV -- To MAXIMUS
+## XCV -- To MAXIMUS
 
 My affection for you obliges me, not indeed to direct you (for you are
 far above the want of a guide), but to admonish you carefully to observe
@@ -5422,7 +4954,7 @@ consequence of the great affection I bear you: a sentiment which I am in
 no fear of carrying beyond its just bounds: for there can be no danger
 of excess where one cannot love too well. Farewell.
 
-XCVI -- To PAULINUS
+## XCVI -- To PAULINUS
 
 OTHERS may think as they please; but the happiest man, in my opinion, is
 he who lives in the conscious anticipation of an honest and enduring
@@ -5440,7 +4972,7 @@ daily reflections, which I communicate to you, in order to renounce them
 if you do not agree with them; as undoubtedly you will, who are for ever
 meditating some glorious and immortal enterprise. Farewell.
 
-XCVII -- To CALVISIUS
+## XCVII -- To CALVISIUS
 
 I HAVE spent these several days past, in reading and writing, with the
 most pleasing tranquillity imaginable. You will ask, "How that can
@@ -5467,7 +4999,7 @@ indifference to these pleasures: and am glad to employ the leisure of
 this season upon my books, which others throw away upon the most idle
 occupations. Farewell.
 
-XCVIII -- To ROMANUS
+## XCVIII -- To ROMANUS
 
 I AM pleased to find by your letter that you are engaged in building;
 for I may now defend my own conduct by your example. I am myself
@@ -5495,7 +5027,7 @@ to them those which are wanting.--But I need not assign a reason to you;
 who, undoubtedly, will think it a sufficient one that I follow your
 example. Farewell.
 
-XCIX -- To GEMINUS
+## XCIX -- To GEMINUS
 
 YOUR letter was particularly acceptable to me, as it mentioned your
 desire that I would send you something of mine, addressed to you, to
@@ -5509,7 +5041,7 @@ character abroad which they raised at home, and I begin to flatter
 myself they have some merit, since persons of such distant countries are
 agreed in their opinion with regard to them. Farewell.
 
-C -- To JUNIOR
+## C -- To JUNIOR
 
 A CERTAIN friend of mine lately chastised his son, in my presence, for
 being somewhat too expensive in the matter of dogs and horses. "And
@@ -5527,7 +5059,7 @@ there was a time when you were so too. In exerting, therefore, the
 authority of a father, remember always that you are a man, and the
 parent of a man. Farewell.
 
-CI -- To QUADRATUS
+## CI -- To QUADRATUS
 
 THE pleasure and attention with which you read the vindication I
 published of Helvidius,[139] has greatly raised your curiosity, it
@@ -5706,7 +5238,7 @@ letter which (considering it is a letter) is as long as the defence you
 say you have read: but you must thank yourself for not being content
 with such information as that piece could afford you. Farewell.
 
-CII -- To GENITOR
+## CII -- To GENITOR
 
 I HAVE received your letter, in which you complain of having been highly
 disgusted lately at a very splendid entertainment, by a set of buffoons,
@@ -5728,7 +5260,7 @@ thing as you did to those monsters, as you call them! Let us bear
 therefore, my friend, with others in their amusements, that they, in
 return, may show indulgence to ours. Farewell.
 
-CIII -- To SABINIANUS
+## CIII -- To SABINIANUS
 
 YOUR freedman, whom you lately mentioned to me with displeasure, has
 been with me, and threw himself at my feet with as much submission as he
@@ -5757,7 +5289,7 @@ may perhaps, again have occasion to entreat you upon this account, and
 again obtain your forgiveness; supposing, I mean, his fault should be
 such as may become me to intercede for, and you to pardon. Farewell.
 
-CIV -- To MAXIMUS
+## CIV -- To MAXIMUS
 
 IT has frequently happened, as I have been pleading before the Court of
 the Hundred, that these venerable judges, after having preserved for a
@@ -5791,7 +5323,7 @@ my own, I am not afraid of incurring the censure of vanity; especially
 from you, who, whilst envying no man's reputation, are particularly
 zealous for mine. Farewell.
 
-CV -- To SABINIANUS
+## CV -- To SABINIANUS
 
 I GREATLY approve of your having, in compliance with my letter,[152]
 received again into your favour and family a discarded freedman, who you
@@ -5804,7 +5336,7 @@ same time I must advise you to be disposed for the future to pardon the
 faults of your people, though there should be none to intercede in their
 behalf. Farewell.
 
-CVI -- To LUPERCUS
+## CVI -- To LUPERCUS
 
 I SAID once (and, I think, not inaptly) of a certain orator of the
 present age, whose compositions are extremely regular and correct, but
@@ -5936,7 +5468,7 @@ provided you will immediately appoint a day when we may meet to discuss
 these matters in person: you will then either teach me to be less daring
 or I shall teach you to be more bold. Farewell.
 
-CVII -- To CANINIUS
+## CVII -- To CANINIUS
 
 I HAVE met with a story, which, although authenticated by undoubted
 evidence, looks very like fable, and would afford a worthy field for the
@@ -6055,7 +5587,7 @@ allotted to my tenants; whose rustic complaints, along with these city
 occupations, make my literary studies still more delightful to me.
 Farewell. --
 
-CIX -- To PAULINUS
+## CIX -- To PAULINUS
 
 As you are not of a disposition to expect from your friends the ordinary
 ceremonial observances of society when they cannot observe them without
@@ -6083,7 +5615,7 @@ attending you on the first day of your consulship. I shall celebrate it
 nevertheless, as much as if I were present, and pay my vows for you
 here, with all the warmest tokens of joy and congratulation. Farewell.
 
-CX -- To FUSCUS
+## CX -- To FUSCUS
 
 You are much pleased, I find, with the account I gave you in my former
 letter of how I spend the summer season at Tuscum, and desire to know
@@ -6753,7 +6285,7 @@ every prosperity worthy of your reign: to which let me add my wishes,
 most excellent Emperor, upon a private as well as public account, that
 your health and spirits may be preserved firm and unbroken.
 
-II -- To THE EMPEROR TRAJAN
+## II -- To THE EMPEROR TRAJAN
 
 You have occasioned me, Sir, an inexpressible pleasure in deeming me
 worthy of enjoying the privilege which the laws confer on those who have
@@ -6772,7 +6304,7 @@ the bounty of your generous dispensations. And indeed the pleasure of
 being a father will be so much more acceptable to me now, that I can
 enjoy it in full security and happiness.
 
-III -- To THE EMPEROR TRAJAN
+## III -- To THE EMPEROR TRAJAN
 
 THE experience, most excellent Emperor, I have had of your unbounded
 generosity to me, in my own person, encourages me to hope I may be yet
@@ -6801,7 +6333,7 @@ and at the same time to indulge an eager and, I hope, laudable ambition,
 of having it in my power to boast that your favourable regards are
 extended not only to myself, but also to my friend.
 
-IV -- To THE EMPEROR TRAJAN
+## IV -- To THE EMPEROR TRAJAN
 
 WHEN by your gracious indulgence, Sir, I was appointed to preside at the
 treasury of Saturn, I immediately renounced all engagements of the bar
@@ -6826,7 +6358,7 @@ obedience to the just requisition of that august assembly: and I have
 full confidence you will faithfully discharge the business you have
 undertaken.
 
-VI -- To THE EMPEROR TRAJAN
+## VI -- To THE EMPEROR TRAJAN
 
 HAVING been attacked last year by a very severe and dangerous illness, I
 employed a physician, whose care and diligence, Sir, I cannot
@@ -6839,7 +6371,7 @@ full privileges of a Roman citizen upon Hedia and Antonia Harmeris, the
 freedwomen of Antonia Maximilla, a lady of great merit. It is at her
 desire I make this request.
 
-VII -- To THE EMPEROR TRAJAN
+## VII -- To THE EMPEROR TRAJAN
 
 I RETURN YOU thanks, Sir, for your ready compliance with my desire, in
 granting the complete privileges of a Roman to the freedwomen of a lady
@@ -6869,7 +6401,7 @@ of Rome for your physician Harpocras, I cannot refuse you this other
 request. You must let me know to what district he belongs, that I may
 give you a letter to my friend Pompeius Planta, governor of Egypt.
 
-IX -- To THE EMPEROR TRAJAN
+## IX -- To THE EMPEROR TRAJAN
 
 I CANNOT express, Sir, the pleasure your letter gave me, by which I am
 informed that you have made my physician Harpocras a denizen of
@@ -6883,7 +6415,7 @@ earliest enjoyment of your presence, so ardently wished for here) to
 come to meet you, I beg, Sir, you would permit me to extend my journey
 as far as possible.
 
-X -- To THE EMPEROR TRAJAN
+## X -- To THE EMPEROR TRAJAN
 
 I WAS greatly obliged, Sir, in my late illness, to Posthumius Marinus,
 my physician; and I cannot make him a suitable return, but by the
@@ -6897,7 +6429,7 @@ freedmen. I further entreat you to grant the full privileges of a Roman
 to L. Satrius Abascantius, P. Caesius Phosphorus, and Pancharia Soteris.
 This request I make with the consent of their patrons.[1005]
 
-XI -- To THE EMPEROR TRAJAN
+## XI -- To THE EMPEROR TRAJAN
 
 AFTER your late sacred father, Sir, had, in a noble speech, as well as
 by his own generous example, exhorted and encouraged the public to acts
@@ -6948,7 +6480,7 @@ oppose your erecting my statue in the place you desire; though in
 general I am extremely cautious in giving any encouragement to honours
 of that kind.
 
-XIII -- To THE EMPEROR TRAJAN
+## XIII -- To THE EMPEROR TRAJAN
 
 [1009] As I am sensible, Sir, that the highest applause my actions can
 receive is to be distinguished by so excellent a prince, I beg you would
@@ -6958,7 +6490,7 @@ indulgence; that I may have the satisfaction of publicly offering up
 those vows for your prosperity, from the duty of my office, which I
 daily prefer to the gods in private, from the affection of my heart.
 
-XIV -- To THE EMPEROR TRAJAN
+## XIV -- To THE EMPEROR TRAJAN
 
 HAVING safely passed the promontory of Malea, I am arrived at Ephesus
 with all my retinue, notwithstanding I was detained for some time by
@@ -6976,7 +6508,7 @@ does concern me to know in what manner you arrive at your province. It
 is a wise intention of yours to travel either by sea or land, as you
 shall find most convenient.
 
-XVI -- To THE EMPEROR TRAJAN
+## XVI -- To THE EMPEROR TRAJAN
 
 As I had a very favourable voyage to Ephesus, so in travelling by post-
 chaise from thence I was extremely troubled by the heats, and also by
@@ -7019,7 +6551,7 @@ at Rome, and in the neighbourhood; but persons of integrity and skill in
 this art may be found, most certainly, in every province, so that they
 will not fail you if only you will make due enquiry.
 
-XVIII -- To THE EMPEROR TRAJAN
+## XVIII -- To THE EMPEROR TRAJAN
 
 THOUGH I am well assured, Sir, that you, who never omit any opportunity
 of exerting your generosity, are not unmindful of the request I lately
@@ -7031,7 +6563,7 @@ very narrow fortune, and, more than all, the felicity of your times,
 which encourages conscious virtue to claim your favour, induce him to
 hope he may experience it in the present instance.
 
-XIX -- To THE EMPEROR TRAJAN
+## XIX -- To THE EMPEROR TRAJAN
 
 I CONGRATULATE both you and the public, most excellent Emperor, upon the
 great and glorious victory you have obtained; so agreeable to the
@@ -7040,13 +6572,13 @@ success to all your designs, that, under the administration of so many
 princely virtues, the splendour of the empire may shine out, not only in
 its former, but with additional lustre.[1015]
 
-XX -- To THE EMPEROR TRAJAN
+## XX -- To THE EMPEROR TRAJAN
 
 Mv lieutenant, Servilius Pudens, came to Nicomedia,[1016] Sir, on the
 24th of November, and by his arrival freed me, at length, from the
 anxiety of a very uneasy expectation.
 
-XXI -- To THE EMPEROR TRAJAN
+## XXI -- To THE EMPEROR TRAJAN
 
 YOUR generosity to me, Sir, was the occasion of uniting me to Rosianus
 Geminus, by the strongest ties; for he was my quaestor when I was
@@ -7069,7 +6601,7 @@ possible, of rejoicing in the advancement of my quaestor, or, in other
 words, of receiving an addition to my own honours, in the person of my
 friend.
 
-XXII -- To THE EMPEROR TRAJAN
+## XXII -- To THE EMPEROR TRAJAN
 
 IT is not easy, Sir, to express the joy I received when I heard you had,
 in compliance with the request of my mother-in-law and myself, granted
@@ -7081,7 +6613,7 @@ obligations I so justly owe you, I can only have recourse to vows, and
 ardently implore the gods that I may not be found unworthy of those
 favours which you are repeatedly conferring upon me.
 
-XXIII -- To THE EMPEROR TRAJAN
+## XXIII -- To THE EMPEROR TRAJAN
 
 I RECEIVED, Sir, a dispatch from your freedman, Lycormas, desiring me,
 if any embassy from Bosporus[1017] should come here on the way to Rome,
@@ -7093,7 +6625,7 @@ Lycormas despatched hither, that you might be informed by both their
 letters of what, perhaps, it may be expedient you should be acquainted
 with at one and the same time.
 
-XXIV -- To THE EMPEROR TRAJAN
+## XXIV -- To THE EMPEROR TRAJAN
 
 I AM informed by a letter from the king of Sarmatia that there are
 certain affairs of which you ought to be informed as soon as possible.
@@ -7101,7 +6633,7 @@ In order, therefore, to hasten the despatches which his courier was
 charged with to you, I granted him an order to make use of the public
 post.[1020]
 
-XXV -- To THE EMPEROR TRAJAN
+## XXV -- To THE EMPEROR TRAJAN
 
 THE ambassador from the king of Sarmatia having remained two days, by
 his own choice, at Nicea, I did not think it reasonable, Sir, to detain
@@ -7116,7 +6648,7 @@ especially as the despatches from Lycormas, which (as I mentioned
 before) I was not willing to detain, would probably reach you some days
 sooner than this ambassador.
 
-XXVI -- To THE EMPEROR TRAJAN
+## XXVI -- To THE EMPEROR TRAJAN
 
 I RECEIVED a letter, Sir, from Apuleius, a military man, belonging to
 the garrison at Nicomedia, informing me that one Callidromus, being
@@ -7136,7 +6668,7 @@ transmitting this curiosity to you, with a small gold nugget which he
 says he brought from out of the Parthian mines. I have affixed my seal
 to it, the impression of which is a chariot drawn by four horses.
 
-XXVII -- To THE EMPEROR TRAJAN
+## XXVII -- To THE EMPEROR TRAJAN
 
 YOUR freedman and procurator,[1025] Maximus, behaved, Sir, during all
 the time we were together, with great probity, attention, and diligence;
@@ -7144,7 +6676,7 @@ as one strongly attached to your interest, and strictly observant of
 discipline. This testimony I willingly give him; and I give it with all
 the fidelity I owe you.
 
-XXVIII -- To THE EMPEROR TRAJAN
+## XXVIII -- To THE EMPEROR TRAJAN
 
 AFTER having experienced, Sir, in Gabius Bassus, who commands on the
 Pontic[1026] coast, the greatest integrity, honour, and diligence, as
@@ -7158,7 +6690,7 @@ humanity, rival each other in that glorious testimony they give of his
 conduct, both in public and in private; and I certify this with all the
 sincerity you have a right to expect from me.
 
-XXIX -- To THE EMPEROR TRAJAN
+## XXIX -- To THE EMPEROR TRAJAN
 
 NYMPHIDIUS Lupus,[1027] Sir, and myself, served in the army together; he
 commanded a body of the auxiliary forces at the same time that I was
@@ -7180,7 +6712,7 @@ Ferox and Fuscus Salinator. And I will add, Sir, that I shall rejoice in
 any accession of dignity which he shall receive as an occasion of
 particular satisfaction to myself.
 
-XXX -- To THE EMPEROR TRAJAN
+## XXX -- To THE EMPEROR TRAJAN
 
 I BEG your determination, Sir, on a point I am exceedingly doubtful
 about: it is whether I should place the public slaves[1028] as sentries
@@ -7206,7 +6738,7 @@ public slaves, they will mutually trust to each other, and by that means
 grow so much the more negligent. But my principal objection is that as
 few soldiers as possible should be withdrawn from their standard.
 
-XXXII -- To THE EMPEROR TRAJAN
+## XXXII -- To THE EMPEROR TRAJAN
 
 GABIUS BASSUS, who commands upon the frontiers of Pontica, in a manner
 suitable to the respect and duty which he owes you, came to me, and has
@@ -7229,7 +6761,7 @@ necessary. As for ourselves, the public welfare must be our only guide:
 accordingly it is incumbent upon us to take all possible care that the
 soldiers shall not be absent from their standard.
 
-XXXIV -- To THE EMPEROR TRAJAN
+## XXXIV -- To THE EMPEROR TRAJAN
 
 THE PRUSENSES, Sir, having an ancient bath which lies in a ruinous
 state, desire your leave to repair it; but, upon examination, I am of
@@ -7248,7 +6780,7 @@ Prusenses, we may comply with their request; provided, however, that no
 new tax be levied for this purpose, nor any of those taken off which are
 appropriated to necessary services.
 
-XXXVI -- To THE EMPEROR TRAJAN
+## XXXVI -- To THE EMPEROR TRAJAN
 
 I AM assured, Sir, by your freedman and receiver-general Maximus, that
 it is necessary he should have a party of soldiers assigned to him, over
@@ -7260,7 +6792,7 @@ likewise, and because it was his request, I added two of the cavalry.
 But I beg you would inform me, in your next despatches, what method you
 would have me observe for the future in points of this nature.
 
-## XXX VII -- Trajan to Pliny
+## XXXVII -- Trajan to Pliny
 
 As my freedman Maximus was going upon an extraordinary commission to
 procure corn, I approve of your having supplied him with a file of
@@ -7294,7 +6826,7 @@ legion, makes no great difference in their case; for they ought to have
 given a true account of themselves immediately, upon their being
 approved as fit for the service.
 
-XL -- To THE EMPEROR TRAJAN
+## XL -- To THE EMPEROR TRAJAN
 
 As I have your permission, Sir, to address myself to you in all my
 doubts, you will not consider it beneath your dignity to descend to
@@ -7341,7 +6873,7 @@ is, either to attend upon the public baths, cleanse the common sewers,
 or repair the streets and highways, the usual offices assigned to such
 persons.
 
-XLII -- To THE EMPEROR TRAJAN
+## XLII -- To THE EMPEROR TRAJAN
 
 WHILE I was making a progress in a different part of the province, a
 most extensive fire broke out at Nicomedia, which not only consumed
@@ -7374,7 +6906,7 @@ extinguishing fires, enjoining the owners of houses to assist in
 preventing the mischief from spreading, and, if it should be necessary,
 to call in the aid of the populace.
 
-XLIV -- To THE EMPEROR TRAJAN
+## XLIV -- To THE EMPEROR TRAJAN
 
 WE have acquitted, Sir, and renewed our annual vows[1034] for your
 prosperity, in which that of the empire is essentially involved,
@@ -7387,7 +6919,7 @@ your letter that you, together with the people under your government,
 have both discharged and renewed your vows to the immortal gods for my
 health and happiness.
 
-XLVI -- To THE EMPEROR TRAJAN
+## XLVI -- To THE EMPEROR TRAJAN
 
 THE citizens of Nicomedia, Sir, have expended three millions three
 hundred and twenty-nine sesterces[1035] in building an aqueduct; but,
@@ -7420,7 +6952,7 @@ aqueduct in question, like the preceding, should be begun, and
 afterwards left unfinished. You will let me know the result of your
 inquiry.
 
-XLVIII -- To THE EMPEROR TRAJAN
+## XLVIII -- To THE EMPEROR TRAJAN
 
 THE citizens of Nicea, Sir; are building a theatre, which, though it is
 not yet finished, has already exhausted, as I am informed (for I have
@@ -7482,7 +7014,7 @@ furnished with men of skill and ingenuity, you cannot possibly want
 architects; unless you think it the shortest way to procure them from
 Rome, when it is generally from Greece that they come to us.
 
-L -- To THE EMPEROR TRAJAN
+## L -- To THE EMPEROR TRAJAN
 
 WHEN I reflect upon the splendour of your exalted station, and the
 magnanimity of your spirit, nothing, I am persuaded, can be more
@@ -7522,7 +7054,7 @@ by giving it an opening into the sea, it should be totally drained. You
 may apply to Calpurnius Macer for an engineer, and I will also send you
 from hence some one skilled in works of this nature.
 
-LII -- To THE EMPEROR TRAJAN
+## LII -- To THE EMPEROR TRAJAN
 
 UPON examining into the public expenses of the city of Byzantium, which,
 I find, are extremely great, I was informed, Sir, that the appointments
@@ -7548,7 +7080,7 @@ I only receive the act of their senate through your hands. The governor
 of Moesia must likewise excuse them if they compliment him at a less
 expense.
 
-LIV -- To THE EMPEROR TRAJAN
+## LIV -- To THE EMPEROR TRAJAN
 
 I BEG, Sir, you would settle a doubt I have concerning your
 diplomas;[1047] whether you think proper that those diplomas the dates
@@ -7564,7 +7096,7 @@ For which reason it is an inviolable rule with me to send new
 instruments of this kind into all the provinces before they are
 immediately wanted.
 
-LVI -- To THE EMPEROR TRAJAN
+## LVI -- To THE EMPEROR TRAJAN
 
 UPON intimating, Sir, my intention to the city of Apamea,[1048] of
 examining into the state of their public dues, their revenue and
@@ -7588,7 +7120,7 @@ submit them to your examination. Their honest compliance deserves to be
 rewarded; and they may be assured the enquiry you are to make in
 pursuance of my orders shall be with a full reserve to their privileges.
 
-LVIII -- To THE EMPEROR TRAJAN
+## LVIII -- To THE EMPEROR TRAJAN
 
 THE Nicomedians, Sir, before my arrival in this province, had begun to
 build a new forum adjoining their former, in a corner of which stands an
@@ -7612,7 +7144,7 @@ difficulty with respect to the act of dedication; for the ground of a
 foreign city [1041b] is not capable of receiving that kind of
 consecration which is sanctified by our laws.
 
-LX -- To THE EMPEROR TRAJAN
+## LX -- To THE EMPEROR TRAJAN
 
 WE have celebrated, Sir (with those sentiments of joy your virtues so
 justly merit), the day of your accession to the empire, which was also
@@ -7629,7 +7161,7 @@ informed me of the zeal and affection with which you, together with the
 army and the provincials, solemnised the day of my accession to the
 empire.
 
-LXII -- To THE EMPEROR TRAJAN
+## LXII -- To THE EMPEROR TRAJAN
 
 THE debts which we are owing to the public are, by the prudence, Sir, of
 your counsels, and the care of my administration, either actually paid
@@ -7655,7 +7187,7 @@ disposed to do so, when possibly they themselves may have no opportunity
 of employing it, is by no means consistent with the justice of my
 government.
 
-LXIV -- To THE EMPEROR TRAJAN
+## LXIV -- To THE EMPEROR TRAJAN
 
 I RETURN you my warmest acknowledgments, Sir, that, among the many
 important occupations in which you are engaged you have condescended to
@@ -7701,7 +7233,7 @@ him for that purpose), I would have sent in chains to my praetorian
 prefects: [1043b] for, only to remand him back to a punishment which he
 has contumaciously eluded will by no means be a sufficient punishment.
 
-LXVI -- To THE EMPEROR TRAJAN
+## LXVI -- To THE EMPEROR TRAJAN
 
 WHEN I cited the judges, Sir, to attend me at a sessions [1044b] which I
 was going to hold, Flavius Archippus claimed the privilege of being
@@ -7768,7 +7300,7 @@ has put it in my power to bestow."
 former reigns should be confirmed, the letters of Domitian must remain
 valid."
 
-LXVII -- To THE EMPEROR TRAJAN
+## LXVII -- To THE EMPEROR TRAJAN
 
 FLAVIUS ARCHIPPUS has conjured me, by all my vows for your prosperity,
 and by your immortal glory, that I would transmit to you the memorial
@@ -7778,7 +7310,7 @@ from whom I have also received a memorial on her part. I have annexed
 them both to this letter; that by hearing, as it were, each party, you
 may the better be enabled to decide.
 
-## LX VIII -- Trajan to Pliny
+## LXVIII -- Trajan to Pliny
 
 IT is possible that Domitian might have been ignorant of the
 circumstances in which Archippus was when he wrote the letter so much to
@@ -7792,7 +7324,7 @@ against him, you should be the less disposed to hear his accusers. I
 have examined the memorial of his prosecutrix, Furia Prima, as well as
 that of Archippus himself, which you sent with your last letter.
 
-LXIX -- To THE EMPEROR TRAJAN
+## LXIX -- To THE EMPEROR TRAJAN
 
 THE apprehensions you express, Sir, that the lake will be in danger of
 being entirely drained if a communication should be opened between that
@@ -7835,7 +7367,7 @@ to pursue whichever of the schemes shall be thought most proper.
 Calpurnius Macer will furnish you, no doubt, with an engineer, as
 artificers of that kind are not wanting in his province.
 
-LXXI -- To THE EMPEROR TRAJAN
+## LXXI -- To THE EMPEROR TRAJAN
 
 A VERY considerable question, Sir, in which the whole province is
 interested, has been lately started, concerning the state [1049b] and
@@ -7854,7 +7386,7 @@ Lacedaemonians: but I have not transmitted them to you, as they were not
 correct (and some of them too of doubtful authenticity), and also
 because I imagine the true copies are preserved in your archives.
 
-## LXXII Trajan to Pliny
+## LXXII -- Trajan to Pliny
 
 THE question concerning children who were exposed by their parents, and
 afterwards preserved by others, and educated in a state of servitude,
@@ -7868,7 +7400,7 @@ who assert their right of freedom upon this footing should be allowed;
 without obliging them to purchase their liberty by repaying the money
 advanced for their maintenance.[1051]
 
-LXXIII -- To THE EMPEROR TRAJAN
+## LXXIII -- To THE EMPEROR TRAJAN
 
 HAVING been petitioned by some persons to grant them the liberty
 (agreeably to the practice of former proconsuls) of removing the relics
@@ -7879,7 +7411,7 @@ that in cases of this nature it is usual at Rome to apply to the college
 of priests, to consult you, who are the sovereign of that sacred order,
 as to how you would have me act in this case.
 
-## LXX IV -- Trajan to Pliny
+## LXXIV -- Trajan to Pliny
 
 IT will be a hardship upon the provincials to oblige them to address
 themselves to the college of priests whenever they may have just reasons
@@ -7888,7 +7420,7 @@ will be better you should follow the example of the governors your
 predecessors, and grant or deny them this liberty as you shall see
 reasonable.
 
-LXXV -- To THE EMPEROR TRAJAN
+## LXXV -- To THE EMPEROR TRAJAN
 
 I HAVE enquired, Sir, at Prusa, for a proper place on which to erect the
 bath you were pleased to allow that city to build, and I have found one
@@ -7927,7 +7459,7 @@ it is not sufficiently clear by your letter whether the temple in the
 centre of the colonnade-court was actually dedicated to Claudius or not;
 for if it were, it is still consecrated ground.[1052]
 
-LXXVII -- To THE EMPEROR TRAJAN
+## LXXVII -- To THE EMPEROR TRAJAN
 
 I HAVE been pressed by some persons to take upon myself the enquiry of
 causes relating to claims of freedom by birth-right, agreeably to a
@@ -7945,7 +7477,7 @@ doubt, I shall be able to judge whether it is proper you should take
 upon yourself the enquiry of causes relating to claims of freedom by
 birth-right.
 
-LXXIX -- To THE EMPEROR TRAJAN
+## LXXIX -- To THE EMPEROR TRAJAN
 
 JULIUS LARGUS, of Ponus[1054] (a person whom I never saw nor indeed ever
 heard his name till lately), in confidence, Sir, of your distinguishing
@@ -7967,7 +7499,7 @@ imagine he had known you perfectly well. You will consider then what
 will most tend to perpetuate his memory, under the circumstances of the
 respective cities, and make your option accordingly.
 
-LXXXI -- To THE EMPEROR TRAJAN
+## LXXXI -- To THE EMPEROR TRAJAN
 
 You acted agreeably, Sir, to your usual prudence and foresight in
 ordering the illustrious Calpurnius Macer to send a legionary centurion
@@ -7997,7 +7529,7 @@ officers, with an account of the particular misdemeanour you shall find
 they have been guilty of; but if the delinquents should be on their way
 to Rome, inform me by letter.
 
-LXXXIII -- To THE EMPEROR TRAJAN
+## LXXXIII -- To THE EMPEROR TRAJAN
 
 BY a law of Pompey's[1058] concerning the Bithynians, it is enacted,
 Sir, that no person shall be a magistrate, or be chosen into the senate,
@@ -8037,7 +7569,7 @@ function of a magistrate, cannot, upon pretence that in point of years
 they were competent to the office, legally be elected into the senate of
 their several communities.
 
-LXXXV -- To THE EMPEROR TRAJAN
+## LXXXV -- To THE EMPEROR TRAJAN
 
 WHILST I was despatching some public affairs, Sir, at my apartments in
 Prusa, at the foot of Olympus, with the intention of leaving that city
@@ -8096,7 +7628,7 @@ the public works which he has finished; as it is a case in which the
 interest of the city is concerned, and as Dion neither ought nor, it
 seems, does refuse to submit to the examination.
 
-LXXXVII -- To THE EMPEROR TRAJAN
+## LXXXVII -- To THE EMPEROR TRAJAN
 
 THE Niceans having, in the name of their community, conjured me, Sir, by
 all my hopes and wishes for your prosperity and immortal glory (an
@@ -8114,7 +7646,7 @@ and Epimachus, my freedman (having duly weighed every argument that
 shall be alleged against the claim), determine as shall appear most
 equitable.
 
-LXXXIX -- To THE EMPEROR TRAJAN
+## LXXXIX -- To THE EMPEROR TRAJAN
 
 MAY this and many succeeding birthdays be attended, Sir, with the
 highest felicity to you; and may you, in the midst of an uninterrupted
@@ -8127,7 +7659,7 @@ YOUR wishes, my dearest Secundus, for my enjoyment of many happy
 birthdays amidst the glory and prosperity of the republic were extremely
 agreeable to me.
 
-XCI -- To THE EMPEROR TRAJAN
+## XCI -- To THE EMPEROR TRAJAN
 
 THE inhabitants of Sinope[1062] are ill supplied, Sir, with water, which
 however may be brought thither from about sixteen miles' distance in
@@ -8148,7 +7680,7 @@ For I have no manner of doubt that the Sinopian colony ought to be
 supplied with water; provided their finances will bear the expense of a
 work so conducive to their health and pleasure.
 
-XCIII -- To THE EMPEROR TRAJAN
+## XCIII -- To THE EMPEROR TRAJAN
 
 THE free and confederate city of the Amiseni[1063] enjoys, by your
 indulgence, the privilege of its own laws. A memorial being presented to
@@ -8166,7 +7698,7 @@ are employed, not for the purpose of riot and faction, but for the
 support of the indigent. In other cities, however, which are subject to
 our laws, I would have all assemblies of this nature prohibited.
 
-XCV -- To THE EMPEROR TRAJAN
+## XCV -- To THE EMPEROR TRAJAN
 
 SUETONIUS TRANQUILLUS, Sir, is a most excellent, honour-able, and
 learned man. I was so much pleased with his tastes and disposition that
@@ -8277,7 +7809,7 @@ pardoned upon his repentance. Anonymous informations ought not to be
 received in any sort of prosecution. It is introducing a very dangerous
 precedent, and is quite foreign to the spirit of our age.
 
-XCIX -- To THE EMPEROR TRAJAN
+## XCIX -- To THE EMPEROR TRAJAN
 
 THE elegant and beautiful city of Amastris,[1070] Sir, has, among other
 principal constructions, a very fine street and of considerable length,
@@ -8314,7 +7846,7 @@ provincials seconded you, with the most joyful unanimity, in those vows
 which you paid and renewed to the immortal gods for my preservation and
 prosperity.
 
-CIII -- To THE EMPEROR TRAJAN
+## CIII -- To THE EMPEROR TRAJAN
 
 WE have celebrated, with all the warmth of that pious zeal we justly
 ought, the day on which, by a most happy succession, the protection of
@@ -8328,7 +7860,7 @@ I WAS extremely well pleased to be informed by your letter that you had,
 at the head of the soldiers and the provincials, solemnised my accession
 to the empire with all due joy and zeal.
 
-CV -- To THE EMPEROR TRAJAN
+## CV -- To THE EMPEROR TRAJAN
 
 VALERIUS PAULINUS, Sir, having bequeathed to me the right of
 patronage[1071] over all his freedmen, except one, I intreat you to
@@ -8347,7 +7879,7 @@ the freedom of the city to such of his freedmen for whom you requested
 it, and have directed the patent to be registered: I am ready to confer
 the same on the rest, whenever you shall desire me.
 
-CVII -- To THE EMPEROR TRAJAN
+## CVII -- To THE EMPEROR TRAJAN
 
 P. ATTIUS AQUILA, a centurion of the sixth equestrian cohort, requested
 me, Sir, to transmit his petition to you, in favour of his daughter. I
@@ -8363,7 +7895,7 @@ request, I have conferred upon his daughter the freedom of the city of
 Rome. I send you at the same time the patent, which you will deliver to
 him.
 
-CIX -- To THE EMPEROR TRAJAN
+## CIX -- To THE EMPEROR TRAJAN
 
 I REQUEST, Sir, your directions with respect to the recovering those
 debts which are due to the cities of Bithynia and Pontus, either for
@@ -8385,7 +7917,7 @@ other creditors, it must be maintained; but, where no such privilege
 prevails, it is not just I should establish one, in prejudice of private
 property.
 
-CXI -- To THE EMPEROR TRAJAN
+## CXI -- To THE EMPEROR TRAJAN
 
 THE solicitor to the treasury of the city of Amisis instituted a claim,
 Sir, before me against Julius Piso of about forty thousand
@@ -8413,7 +7945,7 @@ transacted in this affair so long ago as twenty years; for I would be no
 less attentive to secure the repose of every private man than to
 preserve the treasure of every public community.
 
-CXIII -- To THE EMPEROR TRAJAN
+## CXIII -- To THE EMPEROR TRAJAN
 
 THE Pompeian law, Sir, which is observed in Pontus and Bithynia, does
 not direct that any money for their admission shall be paid in by those
@@ -8441,7 +7973,7 @@ is to follow the particular laws of each city; and I also think that the
 censors ought to make the sum less for those who are chosen into the
 senate contrary to their inclinations than for the rest.
 
-CXV -- To THE EMPEROR TRAJAN
+## CXV -- To THE EMPEROR TRAJAN
 
 THE Pompeian law, Sir, allows the Bithynians to give the freedom of
 their respective cities to any person they think proper, provided he is
@@ -8472,7 +8004,7 @@ seats, to whatever city they may belong; in all future elections,
 however, to pursue the directions of the Pompeian law: for to give it a
 retrospective operation would necessarily introduce great confusion.
 
-CXVII -- To THE EMPEROR TRAJAN
+## CXVII -- To THE EMPEROR TRAJAN
 
 IT is customary here upon any person taking the manly robe, solemnising
 his marriage, entering upon the office of a magistrate, or dedicating
@@ -8496,7 +8028,7 @@ appointed you to your present government, fully relying upon your
 prudence, and in the persuasion that you would take proper measures for
 regulating the manners and settling the peace of the province.
 
-CXIX -- To THE EMPEROR TRAJAN
+## CXIX -- To THE EMPEROR TRAJAN
 
 THE athletic victors, Sir, in the Iselastic[1076] games, conceive that
 the stipend you have established for the conquerors becomes due from the
@@ -8532,7 +8064,7 @@ any new arrangements which has been made relating to these games, they
 are not called upon to return the recompense which they received prior
 to such alteration.
 
-CXXI -- To THE EMPEROR TRAJAN
+## CXXI -- To THE EMPEROR TRAJAN
 
 I HAVE hitherto never, Sir, granted an order for post-chaises to any
 person, or upon any occasion, but in affairs that relate to your

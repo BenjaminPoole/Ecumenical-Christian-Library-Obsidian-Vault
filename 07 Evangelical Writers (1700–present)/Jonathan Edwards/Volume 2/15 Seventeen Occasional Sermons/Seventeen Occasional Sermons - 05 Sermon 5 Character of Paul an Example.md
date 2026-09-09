@@ -11,7 +11,7 @@ tags:
   - jonathan-edwards
 ---
 
-## SERMON V. [^589]
+# SERMON V. [^589]
 
 philippians iii. 17.
 

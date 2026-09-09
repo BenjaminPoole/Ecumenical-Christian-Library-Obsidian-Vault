@@ -24,7 +24,7 @@ I remain
 
 Your affectionate brother,
 
-## David Brainerd
+*David Brainerd.*
 
 ---
 

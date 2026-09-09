@@ -37,3 +37,8 @@ From the conclusion of the following letter to Chlum we see that Hus had heard b
 ---
 [[Hus Letter 54 Letter LIII. To John of Chlum (June 5, 1415)|← 54. Letter LIII. To John of Chlum (June 5]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 56 Letter LV. To John of Chlum (June 6, 1415)|56. Letter LV. To John of Chlum (June 6 →]]
 
+
+
+
+
+

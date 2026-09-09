@@ -54,7 +54,7 @@ Some perhaps may suppose, that it looks too much like *Pharisaism,* when persons
 
 It cannot be objected against what is proposed in the *Memorial,* that it would look like affecting singularity, and open distinction from others in extraordinary religion, like the *Pharisees* of old: because it is evident the very design of the *Memorial* is not to promote singularity and distinction, but as much as possible to avoid and prevent it. The end of the *Memorial* is not to limit the thing proposed, that it may be practised only by a few, in distinction from the generality; but on the contrary to make it as general among professing Christians as possible. Some had complied with the extraordinary duty proposed, and therein had been distinguished from others, for two years, before the *Memorial* was published; and they were more distinguished than they desired; and therefore sent abroad this *Memorial,* that the practice might be more spread, and become more general, that they might be less distinguished. What they evidently seek, is to bring to pass as general a compliance as possible of Christians of all denominations, *entreating, that the desire of concurrence and assistance, contained in the* Memorial, *may by no means be understood as restricting to any particular denomination or party, or those who me of such or such opinions about any former instances of remarkable religious concern*; *but to be extended to all, who shall vouchsafe any attention to the proposal, and have at heart the interest of vital Christianity, and the power of godliness*: *and who, however differing about other**things, are convinced of the importance of fervent prayer, to promote that common interest, and of scripture persuasives, to promote such prayer.*
 
-# sect. iii
+# SECT. III.
 
 That such agreement is premature, answered.
 
@@ -170,7 +170,7 @@ And as to *this particular method,* proposed to promote union in extraordinary p
 
 God speedily and wonderfully heard and answered those who were united in that extraordinary prayer, in suddenly scattering those black clouds which threatened the nation and the protestant interest with ruin, at that time; in bringing about, in so remarkable a manner, that happy change in the state of affairs in the nation, which was after the queen’s death, by bringing in King *George* the First, just at the time when the enemies of the religion and liberties of the nation had ripened their designs to be put in speedy execution. And we see in the beginning of this extract, that what is proposed, is mentioned as being no new thing, but that God’s people in *Great Britain* had *formerly* been called upon to the like duty, and had complied, not without *success.* Such agreements have several times been proposed in *Scotland,* before this which is now proposed to us; there was a proposal published for this very practice, in the year 1732, and another in 1735. So that it appears this objection of *novelty* is built on a mistake.
 
-## Sect. VI
+# SECT. VI.
 
 Concluding considerations.
 

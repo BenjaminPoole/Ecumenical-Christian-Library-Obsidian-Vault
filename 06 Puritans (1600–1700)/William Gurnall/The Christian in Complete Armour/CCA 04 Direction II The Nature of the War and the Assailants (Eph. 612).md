@@ -165,7 +165,7 @@ Is it wisdom? The same grave that covers thy body, shall bury all that—the wis
 [^7]: *Amphora coepit*
 [^8]: *Nostris peccatis fortes sunt barbari.*
 [^9]: *Arma prœlusoria.*
-[^10]: B,4D"FµÎH �<2B4<@H.
+[^10]: πειρασμὸς ἀνθρώπινος.
 [^11]: *Inter arma silent leges. — Cic. Mil. 4. 10.*
 [^12]: *Christiani ad leones.*
 [^13]: *Non irascitur equo, sed equiti, quantum potest agit ut equitem percutiat, equum possideat; sic contra malos homines agendum, non contra illos, sed illum qui illos instigat, ut dum diabolus vincitur, infelices quos ille possidet liberentur.*

@@ -112,7 +112,7 @@ I am, Sir,
 
 Your obedient, humble servant,
 
-## David Brainerd
+*David Brainerd.*
 
 *From the Forks of Delaware*, *inPennsylvania*, *Nov.* 5, 1744.
 

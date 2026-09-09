@@ -32,6 +32,8 @@ is Respectfully Inscribed
 by
 —The Translator—
 
+## Chapter I
+
 The State of Greece from the earliest Times to the Commencement of the
 Peloponnesian War
 

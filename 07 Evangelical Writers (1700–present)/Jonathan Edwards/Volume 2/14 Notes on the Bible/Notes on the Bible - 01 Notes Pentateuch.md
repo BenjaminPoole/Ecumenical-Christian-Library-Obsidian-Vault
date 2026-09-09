@@ -11,7 +11,7 @@ tags:
   - jonathan-edwards
 ---
 
-## THE PENTATEUCH WRITTEN BY MOSES.
+# THE PENTATEUCH WRITTEN BY MOSES.
 
 That the Pentateuch was written by Moses, is the voice of all antiquity. It has been all along, even to this day, the received opinion of both Jews and Christians, that Moses, being commanded and inspired by God, wrote those books, which are called the Pentateuch, except only some particular passages, which were inserted afterwards by a divine direction, for the better understanding of the history.
 

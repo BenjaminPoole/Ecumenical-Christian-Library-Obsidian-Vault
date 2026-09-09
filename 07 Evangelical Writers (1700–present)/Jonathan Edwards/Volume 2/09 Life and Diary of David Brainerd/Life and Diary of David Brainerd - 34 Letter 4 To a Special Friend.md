@@ -24,7 +24,7 @@ I have much that I could willingly communicate to you, which I must omit, till P
 
 Your obliged friend and servant,
 
-## David Brainerd
+*David Brainerd.*
 
 ---
 

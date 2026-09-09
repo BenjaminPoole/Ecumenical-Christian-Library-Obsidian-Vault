@@ -16,7 +16,7 @@ The following Sermons were not transcribed with any view to a publication in thi
 
 The reader cannot be insensible of the disadvantages attending all posthumous works, especially sermons, which are generally prepared only for the next sabbath, and for a particular congregation, and often in great haste, and amidst many avocations. Yet if in these sermons he shall find the most important truths exhibited, and pressed home on the conscience with that pungency which tends to awaken, convince, humble, and edify; if he shall find that serious strain of piety which, in spite of himself, forces upon him a serious frame of mind; if in the perusal he cannot but be ashamed and alarmed at himself, and in some measure feel the reality and weight of eternal things; if at least he, like Agrippa, shall be almost persuaded to be a Christian;—I presume he will not grudge the time requisite to peruse what is now offered him. These, if I mistake not, are the great ends to be aimed at in all sermons, whether preached or printed, and are ends which can never be accomplished by those modern fashionable discourses which are delivered under the name of sermons, but really are mere harangues on such moral subjects as have been much better handled by Cicero, Seneca, or the Spectator, and contain very little more of the gospel than is to be found in the heathen philosophers. That the important ends now mentioned may be indeed accomplished by this publication to every reader is the sincere desire of the public’s humble servant,
 
-## Jonathan Edwards
+*Jonathan Edwards.*
 
 *New-Haven,* Dec. 21, 1779.
 

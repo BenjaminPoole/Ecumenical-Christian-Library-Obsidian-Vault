@@ -32,3 +32,8 @@ Let me inform you that my enemies have given an utterly false translation in Lat
 [[Hus Letter 40 Letter XXXIX. To the Faithful Bohemians (November 16|← 40. Letter XXXIX. To the Faithful Bohemians]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 42 Letter XL. T. to John of Chlum|42. Letter XL. T. to John of Chlum →]]
 
 
+
+
+
+
+

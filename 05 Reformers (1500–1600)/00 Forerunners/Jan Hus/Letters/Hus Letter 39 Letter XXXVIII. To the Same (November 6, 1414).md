@@ -100,3 +100,8 @@ alleged! against our master. They cut the matter short by coming to our master t
 [[Hus Letter 38 Letter XXXVII. To the Same (November 4, 1414)|← 38. Letter XXXVII. To the Same (November 4]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 40 Letter XXXIX. To the Faithful Bohemians (November 16|40. Letter XXXIX. To the Faithful Bohemians →]]
 
 
+
+
+
+
+

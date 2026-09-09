@@ -13,14 +13,6 @@ tags:
 ---
 # 1. Translator's Introduction (David Schaff), Part 1
 
-Preeentcb to
-
-£be Xibrarp of tbe
-
-^Hnivereit^ of Goronto ©ertram 1R. 3)avis from tbc boofca of tbe late Xionel Davfs, Ik.C.
-
-Digitized by the Internet Archive in 2009 https://archive.org/details/deecclesiachurchOOhusjuoft
-
 ## — His Life, Teachings, and Death — After Five Hundred Years
 
 By DAVID S. SCHAFF, D.D.

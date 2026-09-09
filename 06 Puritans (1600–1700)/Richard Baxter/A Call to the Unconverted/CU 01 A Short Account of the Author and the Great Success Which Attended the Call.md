@@ -12,16 +12,6 @@ tags:
 
 # A Short Account of the Author and the Great Success Which Attended the Call When First Published
 
-## A SHORT
-
-## ACCOUNT
-
-## OF
-
-## THE AUTHOR;
-
-## AND
-
 *The great Success which attended the CALL when first published*.
 
 IT may be proper to prefix an account of this book given by Mr. Baxter himself, which was found in his study after his death, in his own words:
