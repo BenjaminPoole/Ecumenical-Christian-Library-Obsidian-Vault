@@ -7,11 +7,17 @@ tags:
 
 # The Puritan Library
 
-A digital library of the English Puritans and their spiritual heirs. All texts are in the public domain, drawn from the [Christian Classics Ethereal Library](https://ccel.org) and [Project Gutenberg](https://www.gutenberg.org), and formatted for Obsidian.
+A digital library of the English Puritans and their spiritual heirs. All texts are in the public domain, drawn from the [Christian Classics Ethereal Library](https://ccel.org), [Project Gutenberg](https://www.gutenberg.org), the [Text Creation Partnership](https://textcreationpartnership.org) and page scans read afresh, and formatted for Obsidian.
 
 Most works are given in modern spelling. The seventeenth-century works of **John Owen**, **Bunyan**, **Watson**, **Baxter**, **Scougal**, **Flavel**, and **Gurnall** come from the CCEL editions; **Charnock** is from Project Gutenberg; and the **confessional standards** are taken from Philip Schaff's *Creeds of Christendom* (with the Scripture proof-texts omitted).
 
-*48 works · 1151 notes across 10 authors.*
+Sixteen further works have since been added, from two other kinds of source.
+
+**Sibbes**, **Brooks**, **Alleine**, Flavel's *Mystery of Providence* and Turretin's *Atonement of Christ* were read again from the page images of nineteenth-century printings, and so are in modern spelling like the rest.
+
+**Perkins**, **Burroughs**, **Burgess**, **Ames** and Watson's three remaining treatises come from the [Text Creation Partnership](https://textcreationpartnership.org), which had the first editions *keyed by hand* from the page images and proofread rather than scanned. Those five keep the spelling and punctuation of their own century, and mark with […] the few words the transcribers could not read.
+
+*64 works · 1,594 notes across 18 authors.*
 
 ## John Owen
 
@@ -71,6 +77,9 @@ Author index: **[[Thomas Watson|Thomas Watson]]**
 - **[[A Body of Divinity|A Body of Divinity]]** — Sermons on the Westminster Shorter Catechism. (44 notes)
 - **[[A Divine Cordial|A Divine Cordial]]** — An exposition of Romans 8:28 — all things work together for good. (11 notes)
 - **[[The Art of Divine Contentment|The Art of Divine Contentment]]** — An exposition of Philippians 4:11 on Christian contentment. (15 notes)
+- **[[The Doctrine of Repentance|The Doctrine of Repentance]]** — Repentance taken apart into its six ingredients, and then pressed home. (17 notes)
+- **[[The Godly Man's Picture|The Godly Man's Picture]]** — Twenty-four characteristical signs of a man that shall go to heaven. (36 notes)
+- **[[The Mischief of Sin|The Mischief of Sin]]** — On Psalm 106:43: how sin brings a person, and a nation, low. (1 note)
 
 ## Richard Baxter
 
@@ -97,6 +106,7 @@ John Flavel (1627–1691), minister of Dartmouth, was a tender and experimental 
 Author index: **[[John Flavel|John Flavel]]**
 
 - **[[Keeping the Heart|Keeping the Heart]]** — On the great work of keeping the heart in every condition of life. (25 notes)
+- **[[The Mystery of Providence|The Mystery of Providence]]** — What providence has performed for the saints, and what it asks of them in return. (25 notes)
 
 ## William Gurnall
 
@@ -113,6 +123,66 @@ Stephen Charnock (1628–1680), Presbyterian divine of London, is chiefly rememb
 Author index: **[[Stephen Charnock|Stephen Charnock]]**
 
 - **[[The Existence and Attributes of God|The Existence and Attributes of God]]** — Fourteen discourses on the being and attributes of God. (16 notes)
+
+## William Perkins
+
+William Perkins (1558–1602), fellow of Christ's College and lecturer at Great St Andrew's in Cambridge, is the father of the English Puritan tradition — the elder to whom nearly everyone else in this section owes a method.
+
+Author index: **[[William Perkins|William Perkins]]**
+
+- **[[The Art of Prophesying|The Art of Prophesying]]** — The first Protestant manual of preaching in English: read the text, give the sense, gather the doctrine, apply it to the seven kinds of hearer. (14 notes)
+
+## Richard Sibbes
+
+Richard Sibbes (1577–1635), preacher at Gray's Inn and master of St Catharine's Hall, Cambridge, was called "the sweet dropper" for the tenderness of his preaching. *The Bruised Reed* was the book that turned Richard Baxter.
+
+Author index: **[[Richard Sibbes|Richard Sibbes]]**
+
+- **[[The Bruised Reed and Smoking Flax|The Bruised Reed and Smoking Flax]]** — On Matthew 12:20: that Christ deals gently with weak and failing faith. (28 notes)
+
+## Jeremiah Burroughs
+
+Jeremiah Burroughs (1599–1646), preacher at Stepney and Cripplegate and one of the five Dissenting Brethren of the Westminster Assembly, pressed the sweetest subjects in the plainest words.
+
+Author index: **[[Jeremiah Burroughs|Jeremiah Burroughs]]**
+
+- **[[The Rare Jewel of Christian Contentment|The Rare Jewel of Christian Contentment]]** — Eleven sermons on Philippians 4:11, and the classic Puritan treatment of contentment. (13 notes)
+- **[[A Treatise of Earthly-Mindedness|A Treatise of Earthly-Mindedness]]** — On Philippians 3:19: what it is to mind earthly things, and how the heart is got free. (8 notes)
+- **[[An Heavenly Conversation|An Heavenly Conversation]]** — Its companion, on Philippians 3:20: the saints as citizens of heaven. (22 notes)
+- **[[Of Walking with God|Of Walking with God]]** — On Genesis 5:24, printed with the two treatises above. (9 notes)
+
+## Thomas Brooks
+
+Thomas Brooks (1608–1680), of St Margaret's, Fish Street Hill, stayed in London through the plague and the Fire after his ejection. He writes in short, hammered sentences and piles image on image.
+
+Author index: **[[Thomas Brooks|Thomas Brooks]]**
+
+- **[[Precious Remedies Against Satan's Devices|Precious Remedies Against Satan's Devices]]** — Satan's devices named one at a time, with the remedy against each. (37 notes)
+
+## Joseph Alleine
+
+Joseph Alleine (1634–1668), ejected from Taunton and imprisoned for going on preaching, died at thirty-four and left one book, which sold in numbers no other Puritan work matched.
+
+Author index: **[[Joseph Alleine|Joseph Alleine]]**
+
+- **[[An Alarm to the Unconverted|An Alarm to the Unconverted]]** — What conversion is not, what it is, and why it cannot be put off. (9 notes)
+
+## Anthony Burgess
+
+Anthony Burgess (d. 1664), vicar of Sutton Coldfield, sat in the Westminster Assembly and preached to it. He wrote at length and against everybody, but always to a pastoral end.
+
+Author index: **[[Anthony Burgess|Anthony Burgess]]**
+
+- **[[Spiritual Refining|Spiritual Refining]]** — A treatise of grace and assurance in a hundred and twenty sermons: the true signs of grace, the false ones, and grace under every name Scripture gives it. (121 notes)
+- **[[Vindiciae Legis|Vindiciae Legis]]** — Twenty-nine lectures vindicating the moral law and the covenants against the Antinomians. (32 notes)
+
+## William Ames
+
+William Ames (1576–1633) was Perkins' pupil, driven out of England for nonconformity, and professor of theology at Franeker. His *Medulla* was the textbook of New England divinity for a century.
+
+Author index: **[[William Ames|William Ames]]**
+
+- **[[The Marrow of Sacred Divinity|The Marrow of Sacred Divinity]]** — His systematic theology in two books, faith and observance; the 1642 English translation of the *Medulla Theologiae*. (63 notes)
 
 ## Westminster Assembly
 
@@ -131,20 +201,13 @@ Author index: **[[Savoy Assembly|Savoy Assembly]]**
 
 - **[[The Savoy Declaration|The Savoy Declaration]]** — The Congregational adaptation of the Westminster Confession (1658). (2 notes)
 
-## Not yet included
+## Francis Turretin
 
-These frequently-requested titles are not yet in the library because no clean, public-domain English text could be found — the only public-domain scans are illegible black-letter OCR, and the readable modern reprints remain in copyright.
+Francis Turretin (1623–1687), professor at Geneva for thirty-four years, was the last great systematiser of Reformed orthodoxy, and the theologian the English Puritans' heirs read. He is not an English Puritan; he is kept here with them.
 
-- **The Bruised Reed** — *Richard Sibbes.* Only survives as 1631/1635 black-letter EEBO scans; the readable modern reprints are in copyright.
-- **The Rare Jewel of Christian Contentment** — *Jeremiah Burroughs.* The public-domain scan (archive.org `rarejewelchrist00burrgoog`) is unreadable black-letter OCR; modern reprints are in copyright.
-- **A Treatise of Earthly-Mindedness** — *Jeremiah Burroughs.* No clean public-domain digital text found (black-letter originals only).
-- **Precious Remedies Against Satan's Devices** — *Thomas Brooks.* Available only inside a 19th-century Complete Works scan whose OCR carries pervasive errors.
-- **An Alarm to the Unconverted** — *Joseph Alleine.* The public-domain scans (e.g. the 1816 edition) are poor Google OCR; clean reprints are in copyright.
-- **The Godly Man's Picture** — *Thomas Watson.* No clean public-domain text; available scans are borrow-restricted or OCR-noisy.
-- **The Doctrine of Repentance** — *Thomas Watson.* Only an in-copyright reprint EPUB and borrow-restricted scans were found.
-- **The Mischief of Sin** — *Thomas Watson.* Only borrow-restricted scans with no extractable text were found.
-- **The Mystery of Providence** — *John Flavel.* Available only within a 19th-century Whole Works scan with noisy OCR (Flavel's *Keeping the Heart* is included).
-- **The Art of Prophesying** — *William Perkins.* Only early black-letter editions are in the public domain.
-- **Spiritual Refining; Vindiciæ Legis** — *Anthony Burgess.* Only 17th-century black-letter EEBO scans exist.
-- **The Marrow of Theology** — *William Ames.* The public-domain text is the Latin *Medulla*; the standard English translation is in copyright.
-- **Institutes of Elenctic Theology** — *Francis Turretin.* The public-domain text is the Latin original; the complete English translation is in copyright.
+Author index: **[[Francis Turretin|Francis Turretin]]**
+
+- **[[The Atonement of Christ|The Atonement of Christ]]** — Locus XIV of the *Institutio*, on the satisfaction of Christ, in James R. Willson's translation. (8 notes)
+
+## Missing Works
+What remains genuinely unavailable in English is the *rest* of Turretin: the complete *Institutio Theologiae Elencticae* exists in the public domain only in its original Latin, George Musgrave Giger's complete translation having been published in 1992.

@@ -1,0 +1,45 @@
+---
+title: "To the Ingenuous Readers"
+author: "John Flavel"
+work: "The Mystery of Providence"
+section: 1
+source: "re-OCR'd from the 1840 Presbyterian Board of Publication edition (archive.org divineconductorm00flav)"
+written: "1678"
+tags:
+  - puritans
+  - john-flavel
+---
+
+# To the Ingenuous Readers
+
+There are two ways whereby the blessed God condescends to manifest himself to men—his word and his works. Of the written word, we must say, No words like these were ever written since the beginning of time, which can, as one speaks, take life and root in the soul; yea, doth it as really as the seed doth in the ground, and are fitted to be engrafted and naturalized there, so as no coalition in nature can be more real than this, James 1. 21. This is the most transcendent and glorious medium of manifestation: God hath magnified his word above all his name, Psal. exxxviil. 2.
+
+However, the manifestations of God by his works, whether of creation or providence, have their value and glory; but the prime glory and excellency of his providential works consist in this, that they are the very fulfilling and real accomplishments of his written word. By a wise and heedful attendance hereunto, we might learn the excellent art of clearing the mysterious occurrences of Providence, by reducing them to the written word, and there lodge them as effects in their proper causes. And, doubtless, this is one of the rarest efforts men could use against atheism, to show, not only how providences concur in a most obvious tendency to confirm this great conclusion, Thy word is truth; but how it sometimes extorts also the confession of a God, and the truth of his word, from those very tongues which have boldly denied it.
+
+ischylus, the Persian, relating their discomfiture by the Grecian army, makes this notable observation: When the Grecian forces hotly pursued us,” saith he, “and we must needs venture over the great water Strymon, then frozen, but beginning to thaw; when a hundred to one we had all died for it, with mine eyes [ then saw many of those gallants whom I had heard before maintain, there was no God, every one upon their knees, with eyes and hands lifted up, begging hard for help and mercy, and entreating that the ice might hold until they got over.”
+
+Many thousand seals hath providence forced the very enemies of God to set to his truth, which greatly tends to our confirmation therein; but especially to see how the word and providences of God do enlighten each other, and how the Scriptures contain all those events, both great and small, which are disposed by providence in their seasons, and how, not only the promises of the word are in the general faithfully fulfilled to the church, in all her exigencies and distresses, but, in particular, to every member of it; they being all furnished by Providence with multitudes of experiences to this use and end. Oh how useful are such observations!
+
+And as the profit and use, so the delight and pleasure resulting from the observation of Providence, are exceedingly great, and it will doubtless be a part of our entertainment in heaven, to view, with transporting delight, how the designs and methods were laid to bring us thither; and what will be a part of our blessedness in heaven, may be well allowed to be a prime ingredient in our heaven upon earth. To search for pleasure among the due observations of Providence, is to search for water in the ocean; for Providence does not only ultimately design to bring you to heaven, but as intermediate thereunto, to bring, by this means, much of heaven into your souls in the way thither.
+
+How great a pleasure is it to discern how the most wise God is providentially steering all to the port of his own praise and his people’s happiness, whilst the whole world is busily employed in managing the sails, and tugging at the oars, with quite an opposite design and purpose! To see how they promote his design by opposing it, and fulfil his will by resisting it, enlarge his church by scattering it, and make their rest come the more sweet to their souls, by making their condition so restless in the world. This is pleasant to observe in general: but to record and note its particular designs upon ourselves, with what profound wisdom, infinite tenderness, and incessant vigilance it hath managed all that concerns us from first to last, is ravishing and transporting.
+
+Oh what a history might we compile of our own experiences, whilst, with a melting heart, we trace the footsteps of Providence all along the way it hath led us to this day; and set our remarks upon its more eminent performances for us, in the several stages of our lives!
+
+Here it prevented, and there it delivered; here it directed, and there it corrected; in this it grieved, and in that it relieved. Here was the poison, and there the antidote. This providence raised a dismal cloud, and that dispelled it again; this straitened, and that enlarged; here a want, and there a supply; this relation withered, and that springing up in its room. Words cannot express the high delights and gratifications a gracious heart may find in such employment as this.
+
+Oh what a world of rarities are to be found in Providence! The blind, heedless world makes nothing of them: they cannot find one sweet bit, where a gracious soul would make a rich feast Plutarch relates very exactly how Timoleon was miraculously delivered from the conspiracy of two murderers, by their meeting in the very nick of time a certain person, who, to revenge the death of his father, killed one of them, just as they were ready to give T'imoleon the fatal blow, though he knew nothing of the business, and so Timoleon escaped the danger. And what did this wonderful work of Providence, think you, yield the relater? Why, though he was one of the most learned and ingenious among the heathen sages, yet all he made of it was only this, The spectafor,” says he, wondered greatly at the artifice and contrivance which fortane uses.” This is all he could see in it. Had a spiritual and wise Christian had the dissecting and anatomizing of such a work of Providence, what glory would it have yielded to God! what comfort and encouragement 10 the soul! The bee makes a sweeter meal upon one single flower, than the ox doth upon the whole meadow, where thousands of them grow.
+
+O reader! if thy heart be spiritual, and well stocked with experience; if thou hast recorded the ways of Providence towards thee, and wilt but allow thyself time to reflect upon them; what a life of pleasure mayest thou live! What a heaven upon earth doth this way lead thee into! T will not here tell thee what I have met with in this path, lest it should seem to savour of too much vanity. "There are some delights and enjoyments in the Christian life, which are, and must be confined to the heart of the individual. But try it thyself, taste and see, and thou wilt need no other inducement; thine own experience will be the most powerful oratory to persuade thee to the study and search of Providence.
+
+Histories are usually read with delight: when once the fancy is caught, a man knows not how to disengage himself from it. 1am greatly mistaken, if the history of our own lives, if it were well drawn up, and distinctly perused, would not be the pleasantest history that ever we read in our lives.
+
+The ensuing treatise is an essay to that purpose, in which thou wilt find some remarks set upon Providence in its passage through the several stages of our life. But, reader, thou only art able to compile the history of Providence for thyself, because the memorials that furnish it are only in thine own hands. However, here thou mayest find a pattern and general rules to direct thee in that great and difficult work, which is the very end and design of this manual.
+
+I have not had much regard to the dress and ornament in which this discourse is to go abroad, for T am debtor both to the strong and weak, the wise and foolish; and, in all my observation, I have not found that ever God hath made much use of laboured periods, rhetorical flowers, and elegancies to improve the power of religion in the world. Yea, I have observed how Providence hath sometimes rebuked good men, when, upon other subjects, they have too much affected those pedantic fooleries, in withdrawing from them its usual aids, and exposing them to shame; and much more may it do so, when itself is the subject.
+
+Reader, if thy stomach be nice and squeamish, and nothing will relish with thee, but what is spruce and elegant, there are stores of such compositions in the world, upon which thou mayest even surfeit thy curious fancy; meantime there will be found some that will bless God for what thou despisest, and make many a sweet meal upon what thou loathest.
+
+I will add no more, but my hearty prayers, that Providence will direct this treatise to such hands, in such seasons, and so bless and prosper its design, that God may have glory, thou mayest have benefit, and myself comfort in the success thereof, who am,
+
+## Thine and the church’s servant, in the hand of Providence, John Flavel
