@@ -1,0 +1,100 @@
+---
+title: "Letter 28. To the Abbots Assembled at Soissons"
+author: "Bernard of Clairvaux"
+work: "Some Letters of Saint Bernard"
+section: 28
+translator:
+  - "Samuel J. Eales"
+year: "1904"
+written: "1119–1153"
+source: "https://ccel.org/ccel/bernard/letters"
+tags:
+  - medieval
+  - bernard-of-clairvaux
+---
+
+# Letter 28. To the Abbots Assembled at Soissons
+
+## LETTER XXVIII (*circa*A.D. 1130)
+
+### To the Abbots Assembled at Soissons
+[^1]
+
+Bernard urges the abbots zealously to
+perform the duty for which they had met. He recommends to them a great desire of
+spiritual progress, and begs them not to be delayed in their work if lukewarm
+and lax persons should perhaps murmur.
+
+To the Reverend Abbots met in the name of the Lord in Chapter
+at Soissons, brother Bernard,
+Abbot of Clairvaux, the servant of their Holiness,
+health and prayer that they may see, establish, and observe the things which are
+right.
+
+1. I greatly regret that my occupations prevent me from being
+present at your meeting—at least, in body. For neither distance nor a crowd of
+cares are able to banish my spirit, which prays for you, feels with you, and
+rests among you. No, I repeat, I cannot be wanting in the assembly of the
+saints, nor can distance of place nor absence of body altogether separate me
+from the congregation and the counsels of the righteous, in which, not the
+traditions of men are obstinately upheld or superstitiously observed; but
+diligent and humble inquiry is made what is the good and acceptable and perfect
+will of God (Rom. xii. 2).
+All my desires carry me where you are; I am with you by devotion, by friendship,
+by similarity of sentiment, and partaking of your zeal.
+
+2. That those who now applaud you may not hereafter ridicule
+you as having assembled to no purpose (which God forbid!), strive, I beseech
+you, to make your conduct holy and your resolutions good, for too good they
+cannot be. Grant that you
+may be too just or even too wise, yet it is plain that
+you cannot be good beyond measure. And indeed I read: *Do not carry justice to
+excess* (Eccles. vii.
+17, Vulg.). I read: *Be not wiser than is befitting* (Rom. xii. 3,
+Vulg.). But is it ever said: Do not carry goodness to excess? or, Take care not
+to be too good? No one can be more good than it behoves him to be. Paul was a
+good man, and yet he was not at all content with his state; he reached forward
+gladly to the things that were before, forgetting those that were behind (Phil. iii.
+23), and striving to become continually better than himself. It is only God
+who does not desire to become better than He is, because that is not possible.
+
+3. Let those depart both from me and from You who say: We do
+not desire to he better than our fathers; declaring themselves to be the sons of
+lukewarm and lax persons, whose memory is in execration, since they have eaten
+sour grapes, and their children’s teeth are set on edge. Or if they pretend that
+their fathers were holy men, whose memory is blessed, let them imitate their
+sanctity, and not defend, as laws instituted by them, the indulgences and
+dispensations which they have merely endured. Although holy Elias says, *I am not better than my fathers*
+(2
+Kings xix. 4), yet he has not said that he did not wish to be. Jacob saw
+upon the ladder Angels ascending and descending (Gen. xxviii.
+12); but was any one of them either sitting, or standing still? It was not
+for angels to stand still on the uncertain rounds of a frail ladder; nor can
+anything remain fixed in the same condition during the uncertain period of this
+mortal life. Here have we no continuing
+city; nor do we yet possess, but always seek for, that
+which is to came. Of necessity you either ascend or descend, and if you try to
+stand still you cannot but fall. It may be held as certain that the man is not
+good at all who does not wish to be better; and where you begin not to care to
+make advance in goodness there also you leave off being good.
+
+4. Let those depart both from me and from you who call good
+evil and evil good. If they call the pursuit of righteousness evil, what good
+thing will be good in their eyes? The Lord once spoke a single word, and the
+Pharisees were scandalized (S. Matt. xv. 12). But now these new
+Pharisees are scandalized not even at a word, but at silence. You plainly see
+then that they seek only the occasion to attack you. But leave them alone; they
+be blind leaders of the blind. Take thought for the salvation of the little
+ones, not of the murmurs of the evil-disposed. Why do you so much fear to give
+scandal to those who are not to be cured unless you become sick with them? It is
+not even desirable to wait to see whether your resolutions are pleasing to all
+of you in all respects, otherwise you will determine upon little or no good. You
+ought to consult not the views, but the needs of all; and faithfully to draw
+them towards God, even although they be unwilling, rather than abandon them to
+the desires of their heart. I commend myself to your holy prayers.
+
+[^1]: This was one of the first general Chapters held by the Black Monks (as they are called) in the province of Rheims. It seems that its cause and occasion was the Apology addressed by Bernard to Abbot William, who was the prime mover in calling together this assembly, after the example of the Cluniacs and Cistercians, that they might re-establish the observance of the Rule which was being let slip. It was held without doubt at S. Medard under the Abbot Geoffrey, to whom Letter 66 was addressed. He was Bishop of Châlons-sur-Marne when Peter the Venerable spoke of him thus (B. ii. Ep. 43): “It is he who first spread the divine Order of Cluny through the whole of France, who was its author and propagator; and, far more, it was he who expelled ‘the old dragon’ from his resting-places in so many monasteries, and who roused monks from their torpor.” Innocent II, determined that these general Chapters should be held every year in future.
+
+
+---
+[[BL 27 Letter 27. To the Same|← Letter 27. To the Same]] · [[Some Letters of Saint Bernard|Contents]] · [[BL 29 Letter 29. To Henry, King of England|Letter 29. To Henry, King of England →]]

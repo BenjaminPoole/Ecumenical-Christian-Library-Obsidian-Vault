@@ -1,0 +1,27 @@
+---
+title: "Chapter 34. How he can express the created world by his Word"
+author: "Anselm of Canterbury"
+work: "Monologium"
+section: 35
+translator:
+  - "Sidney Norton Deane"
+  - "James Gardiner Vose"
+year: "1903"
+written: "1076"
+source: "https://ccel.org/ccel/anselm/basic_works"
+tags:
+  - medieval
+  - anselm-of-canterbury
+---
+
+# Chapter 34. How he can express the created world by his Word
+
+BUT how can objects so different as the creative and the created being be expressed by one Word, especially since that Word itself is coeternal with him who expresses them, while the created world is not coeternal with him? Perhaps, because he himself is supreme Wisdom and supreme Reason, in which are all things that have been created; just as a work which is made after one of the arts, not only when it is made, but before it is made, and after it is destroyed, is
+always in respect of the art itself nothing else than what that art is.
+
+Hence, when the supreme Spirit expresses himself, he expresses all created beings. For, both before they were created, and now that they have been created, and after they are decayed or changed in any way, they are ever in him not what they are in themselves, but what this Spirit himself is. For, in themselves they are mutable beings, created according to immutable reason; while in him is the true first being, and the first reality of existence, the more like unto
+which those beings are in any way, the more really and excellently do they exist. Thus, it may reasonably be declared that, when the supreme Spirit expresses
+himself, he also expresses whatever has been created by one and the same Word.
+
+---
+[[MON 34 Chapter 33. He utters himself and what he creates by a single consubstantial|← Chapter 33. He utters himself and what he creates by a single consubstantial]] · [[Monologium|Contents]] · [[MON 36 Chapter 35. Whatever has been created is in his Word and knowledge, life and|Chapter 35. Whatever has been created is in his Word and knowledge, life and →]]

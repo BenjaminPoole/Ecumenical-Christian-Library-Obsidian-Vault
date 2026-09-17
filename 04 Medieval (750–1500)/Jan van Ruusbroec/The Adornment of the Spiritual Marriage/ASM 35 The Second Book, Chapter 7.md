@@ -1,0 +1,28 @@
+---
+title: "The Second Book, Chapter 7"
+author: "Jan van Ruusbroec"
+work: "The Adornment of the Spiritual Marriage"
+section: 35
+translator:
+  - "C. A. Wynschenk Dom"
+year: "1916"
+written: "c. 1335"
+source: "https://ccel.org/ccel/ruysbroeck/adornment"
+tags:
+  - medieval
+  - jan-van-ruusbroec
+---
+
+# The Second Book, Chapter 7
+
+### OF THE THIRD COMING OF OUR LORD
+
+The third way in which our Lord comes inwardly is by an inward stirring or touch in the unity of the spirit, wherein are the higher powers of the soul; wherefrom they flow forth, and to which they return again, and with which they always remain united in the bonds of love and through the natural unity of the spirit. In this coming consists the highest and most interior condition of the inward life; and by it the unity of the spirit is adorned in many ways.
+
+Now, in each coming, Christ desires of us a special going out of ourselves, toward a life that shall accord with the way of His coming. And therefore He says in ghostly wise within our hearts at each coming: Go ye out in your lives and in your practices in the way in which My graces and My gifts shall urge you. For according to the manner and way in which the Spirit of God urges, and drives, and draws, and streams into us, and stirs us; in this way we must go out and
+progress in our inward practices, if we are to become perfect. But if we withstand the Spirit of God by a life that does not accord with it, we lose that inward urge, and then the virtues will depart from us.
+
+These are the three comings of Christ, in inward exercises. We will now explain and set forth each coming separately. Attend therefore with diligence; for he who never has himself felt or experienced this he shall not easily understand it.
+
+---
+[[ASM 34 The Second Book, Chapter 6|← The Second Book, Chapter 6]] · [[The Adornment of the Spiritual Marriage|Contents]] · [[ASM 36 The Second Book, Chapter 8|The Second Book, Chapter 8 →]]

@@ -7,7 +7,7 @@ tags:
 
 # The Puritan Library
 
-A digital library of the English Puritans and their spiritual heirs. All texts are in the public domain, drawn from the [Christian Classics Ethereal Library](https://ccel.org), [Project Gutenberg](https://www.gutenberg.org), the [Text Creation Partnership](https://textcreationpartnership.org) and page scans read afresh, and formatted for Obsidian.
+A digital library of the English Puritans and their spiritual heirs. All texts but one are in the public domain, drawn from the [Christian Classics Ethereal Library](https://ccel.org), [Project Gutenberg](https://www.gutenberg.org), the [Text Creation Partnership](https://textcreationpartnership.org) and page scans read afresh, and formatted for Obsidian.
 
 Most works are given in modern spelling. The seventeenth-century works of **John Owen**, **Bunyan**, **Watson**, **Baxter**, **Scougal**, **Flavel**, and **Gurnall** come from the CCEL editions; **Charnock** is from Project Gutenberg; and the **confessional standards** are taken from Philip Schaff's *Creeds of Christendom* (with the Scripture proof-texts omitted).
 
@@ -17,7 +17,9 @@ Sixteen further works have since been added, from two other kinds of source.
 
 **Perkins**, **Burroughs**, **Burgess**, **Ames** and Watson's three remaining treatises come from the [Text Creation Partnership](https://textcreationpartnership.org), which had the first editions *keyed by hand* from the page images and proofread rather than scanned. Those five keep the spelling and punctuation of their own century, and mark with […] the few words the transcribers could not read.
 
-*64 works · 1,594 notes across 18 authors.*
+**Wilhelmus à Brakel** is the one exception to the public domain: his *Christian’s Reasonable Service* exists in English only in Bartel Elshout’s translation of 1992–95, which Reformation Heritage Books holds the copyright of and whose four volumes the publisher’s own seminary distributes free as PDFs. It is taken from those.
+
+*65 works · 1,709 notes across 19 authors.*
 
 ## John Owen
 
@@ -208,6 +210,14 @@ Francis Turretin (1623–1687), professor at Geneva for thirty-four years, was t
 Author index: **[[Francis Turretin|Francis Turretin]]**
 
 - **[[The Atonement of Christ|The Atonement of Christ]]** — Locus XIV of the *Institutio*, on the satisfaction of Christ, in James R. Willson's translation. (8 notes)
+
+## Wilhelmus à Brakel
+
+Wilhelmus à Brakel (1635–1711), minister of Rotterdam and “Father Brakel” to the Dutch Reformed, was the great popular divine of the Dutch Second Reformation — the Netherlands’ own Puritanism, whose English authors he read and translated. His *Christian’s Reasonable Service* (1700) goes through the whole of Reformed doctrine and ends every chapter in its practice. He is not an English Puritan; he is kept here with them.
+
+Author index: **[[Wilhelmus à Brakel|Wilhelmus à Brakel]]**
+
+- **[[The Christian's Reasonable Service|The Christian's Reasonable Service]]** — The complete four volumes of Bartel Elshout’s translation: doctrine of God, man, Christ, the church, salvation and the last things, the Ten Commandments, the Christian graces, the Lord’s Prayer, and the appendix on the covenant of grace in both Testaments. (115 notes)
 
 ## Missing Works
 What remains genuinely unavailable in English is the *rest* of Turretin: the complete *Institutio Theologiae Elencticae* exists in the public domain only in its original Latin, George Musgrave Giger's complete translation having been published in 1992.

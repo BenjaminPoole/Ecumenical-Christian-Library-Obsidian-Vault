@@ -1,0 +1,26 @@
+---
+title: "Chapter 77. What is living, and what dead faith"
+author: "Anselm of Canterbury"
+work: "Monologium"
+section: 78
+translator:
+  - "Sidney Norton Deane"
+  - "James Gardiner Vose"
+year: "1903"
+written: "1076"
+source: "https://ccel.org/ccel/anselm/basic_works"
+tags:
+  - medieval
+  - anselm-of-canterbury
+---
+
+# Chapter 77. What is living, and what dead faith
+
+HENCE, with however great confidence so important a truth is believed, the faith will be useless and, as it were, dead, unless it is strong and living through love. For, that the faith which is accompanied by sufficient love is by no means idle, if an opportunity of operation offers, but rather exercises itself in an abundance of works, as it could not do without love, may be proved from this fact alone, that, since it loves the supreme Justice, it can scorn nothing
+that is just, it can approve nothing that is unjust. Therefore, seeing that the fact of its operation shows that life, without which it could not operate, is inherent in it; it is not absurd to say that operative faith is alive, because it has the life of love without which it could not operate; and that idle faith is not living, because it lacks that life of love, with which it would not be idle.
+
+Hence, if not only he who has lost his sight is called blind, but also he who ought to have sight and has it not, why cannot, in like manner, *faith without love* be called *dead*; not because it has lost its life, that is, love; but because it has not the life which it ought always to have? As that faith, then, which operates through love is recognised as living, so that which is idle, through contempt, is proved to be dead. It may, therefore, be said
+with sufficient fitness that living faith believes *in* that *in* which we ought to believe; while dead faith merely believes that which ought to be believed.
+
+---
+[[MON 77 Chapter 76. We should believe in Father and Son and in their Spirit equally|← Chapter 76. We should believe in Father and Son and in their Spirit equally]] · [[Monologium|Contents]] · [[MON 79 Chapter 78. The supreme Being may in some sort be called Three|Chapter 78. The supreme Being may in some sort be called Three →]]

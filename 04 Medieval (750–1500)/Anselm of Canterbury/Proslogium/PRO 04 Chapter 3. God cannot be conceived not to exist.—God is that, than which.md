@@ -1,0 +1,27 @@
+---
+title: "Chapter 3. God cannot be conceived not to exist.—God is that, than which nothing greater can be conceived.—That which can be conceived not to exist is not God"
+author: "Anselm of Canterbury"
+work: "Proslogium"
+section: 4
+translator:
+  - "Sidney Norton Deane"
+  - "James Gardiner Vose"
+year: "1903"
+written: "1077–1078"
+source: "https://ccel.org/ccel/anselm/basic_works"
+tags:
+  - medieval
+  - anselm-of-canterbury
+---
+
+# Chapter 3. God cannot be conceived not to exist.—God is that, than which nothing greater can be conceived.—That which can be conceived not to exist is not God
+
+AND it assuredly exists so truly, that it cannot be conceived not to exist. For, it is possible to conceive of a being which cannot be conceived not to exist; and this is greater than one which can be conceived not to exist. Hence, if that, than which nothing greater can be conceived, can be conceived not to exist, it is not that, than which nothing greater can be conceived. But this is an irreconcilable contradiction. There is, then, so truly a being than which
+nothing greater can be conceived to exist, that it cannot even
+be conceived not to exist; and this being thou art, O Lord, our God.
+
+So truly, therefore, dost thou exist, O Lord, my God, that thou canst not be conceived not to exist; and rightly. For, if a mind could conceive of a being better than thee, the creature would rise above the Creator; and this is most absurd. And, indeed, whatever else there is, except thee alone, can be conceived not to exist. To thee alone, therefore, it belongs to exist more truly than all other beings, and hence in a higher degree than all others. For, whatever
+else exists does not exist so truly, and hence in a less degree it belongs to it to exist. Why, then, has the fool said in his heart, there is no God (Psalms xiv. 1), since it is so evident, to a rational mind, that thou dost exist in the highest degree of all? Why, except that he is dull and a fool?
+
+---
+[[PRO 03 Chapter 2. Truly there is a God, although the fool hath said in his heart|← Chapter 2. Truly there is a God, although the fool hath said in his heart]] · [[Proslogium|Contents]] · [[PRO 05 Chapter 4|Chapter 4 →]]

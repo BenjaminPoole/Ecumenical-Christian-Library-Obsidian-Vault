@@ -1,0 +1,62 @@
+---
+title: "Chapter 4"
+author: "Bonaventure"
+work: "The Life of Christ"
+section: 4
+translator:
+  - "W. H. Hutchings"
+year: "1881"
+written: "c. 1260"
+source: "https://archive.org/details/TheLifeOfChristBySBonaventure"
+tags:
+  - medieval
+  - bonaventure
+---
+# Chapter 4
+
+Concerning tije Incarnation of Cfm'st.
+
+After that “ the fulness of time ” 1 was come, and the Sovereign Trinity had deliberated on the means of providing for the recovery of mankind, by the Incarnation of the Word, on account of the great love with which He loved 2 the human race ; moved by His mercy (the heavenly spirits, too, eagerly desiring it) Almighty God, when the Blessed Virgin had returned to Nazareth, summoned the Archangel Gabriel. Imagine him thus addressed : — “ Go to our most beloved 1 Gal. iv. 4. * Eph. ii. 4.
+
+IO
+
+“ THE MESSAGE OF AN ANGEL:
+
+daughter, Mary, who is espoused to Joseph, and above all creatures most dear to Us ; and tell her that My Son ‘ greatly desires her beauty * and hath chosen her to be His mother. And desire her to receive Him joyfully, because through her instrumentality I have decreed that the salvation of the whole human race should be effected, and I will remember their offence against Me no more.”
+
+Give your attention to this point, and remember what I said to you in the beginning ; viz., learn in all that is said and done, to imagine yourself to be actually present. Here you can conceive of God, as far as may be, as a pure Spirit ; regard Him at any rate as a great King, seated on His high Throne, having a benign, kind, and fatherly look, longing to reconcile us to Himself or to be reconciled to us, and saying these words ; Gabriel at the same time with bright and cheerful face, with bended knees, with downcast and reverential look, listening attentively to the message of his Lord. Then Gabriel, rising brightly and exultingly, speeds away from the heavenly regions, and quick as thought appears in human guise before the Virgin Mary, who was in the inner chamber of her little dwelling. But although his flight was so rapid, that God who is omnipresent had preceded him, for he found the Holy Trinity there when he came.
+
+For you should know that the great Work of the Incarnation was the Work of the Whole Trinity, although the Person of the Son Alone became incarnate. As when one puts on a coat, and two standing at the sides help him, and hold the sleeves of the coat. Here then be very attentive, and as if present at the mystery itself, consider all that is said and done. O what material for meditation may not now be found in that humble dwelling, where such persons are present, and such actions are accomplished ! For although the Holy Trinity is everywhere present, yet in this place and at this time you may regard Him as especially present, by reason of His
+
+ANNUNCIATION OF THE BLESSED VIRGIN n
+
+singular operation. The angel Gabriel, then, the faithful friend of the Bridegroom, having entered, we may represent him to ourselves as thus addressing the Virgin Mary : “Hail ! highly favoured, the Lord is with thee ; blessed art thou among women.” 1 But she being disturbed, made no reply. Her disturbance was not from guilty confusion, nor from the angelic apparition, for with such sights she is supposed to have been familiar, but according to the words of the Evangelist, “ she was troubled at his saying,” as she considered the novelty of this salutation — so different from his accustomed mode of greeting her. When in this salutation she saw that she was in three ways commended, the lowly Virgin could not but be disturbed. For she was commended because she was full of grace, because the Lord was with her, and as blessed above all women; but the humble cannot hear commendation without shame and confusion of face. She was troubled then from a virtuous and proper bashfulness. Moreover, she was somewhat afraid to give credence to what had been told her ; not that she distrusted the angel's veracity, but because it is the mark of the humble, not to examine their virtues but to dwell on their defects, that so they may make continual progress by reputing their virtue to be little, and their defects very great. As therefore a prudent, cautious, fearful, and bashful maid, she was silent. For what could she have answered? Learn, then, from her example to love silence and quietness, for it is a virtue of great price and utility. The angel twice had spoken before she made any reply, for talkativeness in a maiden is an abomination. Then the angel, understanding the cause of her doubt, said, “ Fear not, Mary,” nor be abashed by the praises I have declared to you, for they are true ; for thou art not only full of grace, but art to be an instrument for restoring grace to all mankind, and hast found
+
+1 S. Luke i. 28.
+
+## 12 “ Behold the Handmaid of the Lord .”
+
+favour with God. For behold, thou shalt conceive, and bring forth the Son of the Highest, Who hath chosen thee for His mother, and Who will save all who trust in Him. Then she replied, not, however, admitting or denying the praises which were bestowed on her, but wishing to be informed concerning the manner of the mystery, about which she was much in doubt, whether she should cease to be a virgin. Therefore she inquired of the angel, “How shall this be” — perhaps she had dedicated her virginity most firmly to her God — " seeing I know not a man ? ” 1 And the angel said, “It shall be done through the operation of the Holy Ghost, who shall fill thee in a singular manner, and thou shalt conceive by His power, and thy virginity be preserved; and therefore thy son shall be called the Son of God. For nothing is impossible with Him. Thy cousin Elizabeth hath also conceived a son in her old age through the power of God, and this is the sixth month with her who was barren.”
+
+Here regard yourself in the Presence of God, and consider how the Three Persons of the Blessed Trinity awaited the answer and consent of Their beloved child, lovingly and complacently beholding her bashful demeanour and expression. See, too, how diligently and wisely the angel induces her, ordering his words, standing with reverent posture before the Virgin, with calm and placid countenance, faithfully fulfilling his embassy, and attentively listening to the words of her reply, that he may be able to convey them, and in this wonderful work to carry out the will of God. And how did she stand, reverently and humbly, and with bashful look, receiving the angel’s unexpected message without elation or thought of self ! And when she heard these great tidings about herself, such as none other ever heard, she ascribed the whole to Divine grace. Learn, then, from 1 S. Luke i. 34.
+
+“ BE IT UNTO ME ACCORDING TO THY WORD.” 13
+
+her example to be modest and humble, because without these virginity is of little value. With great prudence the Virgin then rejoices, and having heard the words of the angel, gives her consent. In her revelations, she is reported to have knelt with profound devotion and with clasped hands as she said, “ Behold the handmaid of the Lord ; be it unto me according to thy word.” At that instant the mystery of the Incarnation was wrought, and the Son of God took her flesh, yet remained entire in the bosom of the Father. But you can piously imagine, how the Son Himself, undertaking this laborious embassy of obedience, inclined and commended Himself to the Father, in the same instant that His soul was created and infused into the womb Of the Virgin. Being perfect Man, according to all the features of the body, but very small ; He naturally grew as others do — His Soul as to its faculties, and His Body as to its members, being perfect from the first. For He was perfect God as well as perfect man, and as wise and powerful as He is now. Gabriel then accompanied the Blessed Virgin in her act of devotion ; he knelt awhile, and then bending took his leave of her, and returning to his own country, related what had taken place, and — there was new joy there, and a new festival, and very great exultation ! But the Virgin was all inflamed, and more than usually enkindled with the love of God when she became sensible that she had conceived ; falling down on her knees we may depict her, as she gave thanks for so great a gift, humbly and devoutly beseeching God to instruct her, so that she might not fail in any of those things which she ought to do for her Son.
+
+You ought then to consider how great is this day’s solemnity, and to rejoice in your heart, and to keep it as a day of gladness. It is a day unheard of from the beginning of time until now. Such a day is devoted to the
+
+## 14 “ Behold , a Virgin Shall Conceive
+
+honour of God the Father, who made a marriage for His Son by the espousal of human nature, which to-day the Son united inseparably to Himself. To-day is also the solemnity of the Son’s nuptials, and the commencement of His life in the womb, from which He is to pass into the world. To-day is likewise sacred to the Holy Ghost, through whose wonderful and singular co-operation the work of the Incarnation was effected ; and to-day He began to show His singular kindness to mankind. To-day is also the glorious solemnity of the Blessed Virgin, who has a relation to the Father, as a daughter; to the Son, as His mother; and to the Holy Ghost as in a manner a spouse. To-day is also the Festival of the whole Heavenly Court, because the gap in their ranks began to be repaired. But more especially is this day the Festival of the human race, because salvation and redemption date from it, and the reconciliation, exaltation, and deification of humanity. On this day the Son received the new command from the Father, that He should accomplish our salvation. On this day, coming forth from the highest heaven, “ He rejoiced as a giant to run His course,” 1 and entered into the garden of the Virgin’s womb. On this day also, He was made one of us and our brother, and began to sojourn among us. To-day from Heaven the true Light descended, to remove and chase away the clouds of darkness. On this day the living bread, which giveth life unto the world, was as it were prepared for us in the vessel of the Virgin’s womb. To-day, “ the Word was made flesh, and dwelt among us.” 2 To-day, the cries and desires of Patriarchs and Prophets were heard and fulfilled. They gave what vent they could to their inexpressible longings in such words as these : “ Send ye the Lamb ; ” 8 and again : “ Drop down, ye heavens, from above ; ” 4 and again “ O that thou wouldest rend the heavens and come down ; ” 5
+
+1 Ps. xix. 5. * S. John i. 14. 8 Is. xvi. 1.
+
+4 Is. xlv. 8. V. 5 Is. xiv I.
+
+## The Journey into the Hill Country. 15
+
+and again : “ Bow Thy heavens, O Lord, and come down ; ” 1 and again : “ Show us Thy Countenance, O Lord ; ” 2 and with similar acts of desire, of which the Scriptures are full, for this day was most ardently expected. This day is the beginning and foundation of all solemnities, and the source of all our good. For hitherto the Lord had been wroth with man on account of the transgression of his first parents, but now beholding His Son made man, His anger was turned away. This day is called “the fulness of time.” You see a wonderful work and most solemn mystery accomplished, in which all is sweet, all desirable, all to be received with devotion, solemnized with transports of joy and exultation, and worthy of the deepest veneration. Meditate, then, on these things, delight and take pleasure in them ; and perhaps the Lord will grant you a deeper insight into them, etc.
+
+---
+[[LC 03 Chapter 3|← Chapter 3]] · [[The Life of Christ|Contents]] · [[LC 05 Chapter 5. f ofo tfje Ftrgtn btstteb ©Itjafort) ; anil Ijofo tj)t|Chapter 5. f ofo tfje Ftrgtn btstteb ©Itjafort) ; anil Ijofo tj)t →]]

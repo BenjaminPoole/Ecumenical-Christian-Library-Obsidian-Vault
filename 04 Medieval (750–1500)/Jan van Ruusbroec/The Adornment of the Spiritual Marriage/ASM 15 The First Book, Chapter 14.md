@@ -1,0 +1,31 @@
+---
+title: "The First Book, Chapter 14"
+author: "Jan van Ruusbroec"
+work: "The Adornment of the Spiritual Marriage"
+section: 15
+translator:
+  - "C. A. Wynschenk Dom"
+year: "1916"
+written: "c. 1335"
+source: "https://ccel.org/ccel/ruysbroeck/adornment"
+tags:
+  - medieval
+  - jan-van-ruusbroec
+---
+
+# The First Book, Chapter 14
+
+### OF THE RENUNCIATION OF SELF WILL
+
+From this obedience there springs the renunciation of one’s own will and one’s own opinion, for none can submit his own will in all things to the will of another, save the obedient man: though one may obey in outward things and yet remain self-willed.
+
+The forsaking of one’s own will causes a man to live without preference for either this or that, in doing or leaving undone, in those things which are strange and special in the saints, in their precepts and in their practice; but it makes him to live always according to the glory and the commandments of God, and the will of his prelates, and in peace with all men in his neighbourhood, so far as true prudence permits.
+
+By renouncing self-will in doing, in leaving undone, and in suffering, the material and occasion of pride are wholly cast out, and humility is made perfect in the highest degree. And God becomes the Lord of the man’s whole will; and the man’s will is so united with the will of God that he can neither will nor desire in any other way. This man has put off the old man, and has put on the new man, who is renewed and made according to the dearest will of God. Of all such
+Christ says: Blessed are the poor in spirit—that is to say, those who have renounced self-will—for theirs is the Kingdom of Heaven.[^1]
+
+[^1]: It will be seen that the description of the virtues in this section, like that of the terraces in Dante’s Purgatorio, is arranged upon a definite plan. Each virtue or group of qualities opposes one of the seven mortal sins, and is associated with one of the Beatitudes.
+
+
+---
+[[ASM 14 The First Book, Chapter 13|← The First Book, Chapter 13]] · [[The Adornment of the Spiritual Marriage|Contents]] · [[ASM 16 The First Book, Chapter 15|The First Book, Chapter 15 →]]

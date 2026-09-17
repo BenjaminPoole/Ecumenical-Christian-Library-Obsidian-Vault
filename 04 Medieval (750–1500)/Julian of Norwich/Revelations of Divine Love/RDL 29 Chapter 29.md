@@ -1,0 +1,29 @@
+---
+title: "Chapter 29"
+author: "Julian of Norwich"
+work: "Revelations of Divine Love"
+section: 29
+translator:
+  - "Grace Warrack"
+year: "1901"
+written: "c. 1393"
+source: "https://ccel.org/ccel/julian/revelations"
+tags:
+  - medieval
+  - julian-of-norwich
+---
+
+# Chapter 29
+
+### “How could all be well, for the great harm that is come by sin to the creature?”
+
+BUT in this I stood beholding things general, troublously and mourning, saying thus to our Lord in my meaning, with full great dread: *Ah! good Lord, how might all be well, for the great hurt that is come, by sin, to the creature?* And here I desired, as far as I durst, to have some more open declaring wherewith I might be eased in this matter.
+
+And to this our blessed Lord answered full meekly and with full lovely cheer, and shewed that Adam’s sin was the most harm that ever was done, or ever shall be, to the world’s end; and also He shewed that this [sin] is openly known in all Holy Church on earth. Furthermore He taught that I should behold the glorious Satisfaction[^1] : for this Amends-making is more pleasing to God and more worshipful, without comparison, than ever was the sin of Adam harmful. Then signifieth
+our blessed Lord thus in this teaching, that we should take heed to this: *For since I have made well the most harm, then it is my will that thou know thereby that I shall make well all that is less.*
+
+[^1]: 
+
+
+---
+[[RDL 28 Chapter 28|← Chapter 28]] · [[Revelations of Divine Love|Contents]] · [[RDL 30 Chapter 30|Chapter 30 →]]

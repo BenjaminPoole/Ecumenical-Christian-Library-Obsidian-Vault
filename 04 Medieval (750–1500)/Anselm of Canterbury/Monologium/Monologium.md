@@ -1,0 +1,100 @@
+---
+title: "Monologium"
+author: "Anselm of Canterbury"
+written: "1076"
+tags:
+  - medieval
+  - anselm-of-canterbury
+  - work-index
+---
+
+# Monologium
+
+*Anselm of Canterbury* — translated by Sidney Norton Deane (Open Court, 1903; reprint 1926), from [CCEL](https://ccel.org/ccel/anselm/basic_works).
+
+The earlier and longer of the two meditations (1076), written at his monks' request as *an example of meditation on the grounds of faith*. It argues from the degrees of goodness in things up to the supreme Being, then treats the divine nature, the Word, and the Trinity — reasoning throughout, as Anselm insisted, *by reason alone* and without appeal to Scripture's authority.
+
+Up: [[Anselm of Canterbury|Anselm of Canterbury]]
+
+## Contents (80)
+
+1. [[MON 01 Preface|Preface]]
+2. [[MON 02 Chapter 1. There is a being which is best, and greatest, and highest of all|Chapter 1. There is a being which is best, and greatest, and highest of all existing beings]]
+3. [[MON 03 Chapter 2. The same subject continued|Chapter 2. The same subject continued]]
+4. [[MON 04 Chapter 3. There is a certain Nature through which whatever is exists, and|Chapter 3. There is a certain Nature through which whatever is exists, and which exists through itself, and is the highest of all existing beings]]
+5. [[MON 05 Chapter 4. The same subject continued|Chapter 4. The same subject continued]]
+6. [[MON 06 Chapter 5. Just as this Nature exists through itself, and other beings through|Chapter 5. Just as this Nature exists through itself, and other beings through it, so it derives existence from itself, and other beings from it]]
+7. [[MON 07 Chapter 6|Chapter 6]]
+8. [[MON 08 Chapter 7. In what way all other beings exist through this Nature and derive|Chapter 7. In what way all other beings exist through this Nature and derive existence from it]]
+9. [[MON 09 Chapter 8. How it is to be understood that this Nature created all things from|Chapter 8. How it is to be understood that this Nature created all things from nothing]]
+10. [[MON 10 Chapter 9. Those things which were created from nothing had an existence before|Chapter 9. Those things which were created from nothing had an existence before their creation in the thought of the Creator]]
+11. [[MON 11 Chapter 10|Chapter 10]]
+12. [[MON 12 Chapter 11. The analogy, however, between the expression of the Creator and the|Chapter 11. The analogy, however, between the expression of the Creator and the expression of the artisan is very incomplete]]
+13. [[MON 13 Chapter 12. This expression of the supreme Being is the supreme Being|Chapter 12. This expression of the supreme Being is the supreme Being]]
+14. [[MON 14 Chapter 13. As all things were created through the supreme Being, so all live|Chapter 13. As all things were created through the supreme Being, so all live through it]]
+15. [[MON 15 Chapter 14. This Being is in all things, and throughout all; and all derive|Chapter 14. This Being is in all things, and throughout all; and all derive existence from it and exist through and in it]]
+16. [[MON 16 Chapter 15. What can or cannot be stated concerning the substance of this Being|Chapter 15. What can or cannot be stated concerning the substance of this Being]]
+17. [[MON 17 Chapter 16|Chapter 16]]
+18. [[MON 18 Chapter 17|Chapter 17]]
+19. [[MON 19 Chapter 18. It is without beginning and without end|Chapter 18. It is without beginning and without end]]
+20. [[MON 20 Chapter 19. In what sense nothing existed before or will exist after this Being|Chapter 19. In what sense nothing existed before or will exist after this Being]]
+21. [[MON 21 Chapter 20. It exists in every place and at every time|Chapter 20. It exists in every place and at every time]]
+22. [[MON 22 Chapter 21. It exists in no place or time|Chapter 21. It exists in no place or time]]
+23. [[MON 23 Chapter 22. How it exists in every place and time, and in none|Chapter 22. How it exists in every place and time, and in none]]
+24. [[MON 24 Chapter 23. How it is better conceived to exist everywhere than in every place|Chapter 23. How it is better conceived to exist everywhere than in every place]]
+25. [[MON 25 Chapter 24. How it is better understood to exist always than at every time|Chapter 24. How it is better understood to exist always than at every time]]
+26. [[MON 26 Chapter 25|Chapter 25]]
+27. [[MON 27 Chapter 26. How this Being is said to be substance it transcends all substance|Chapter 26. How this Being is said to be substance: it transcends all substance and is individually whatever it is]]
+28. [[MON 28 Chapter 27. It is not included among substances as commonly treated, yet it is|Chapter 27. It is not included among substances as commonly treated, yet it is a substance and an indivisible spirit]]
+29. [[MON 29 Chapter 28. This Spirit exists simply, and created beings are not comparable|Chapter 28. This Spirit exists simply, and created beings are not comparable with him]]
+30. [[MON 30 Chapter 29. His expression is identical with himself, and consubstantial with|Chapter 29. His expression is identical with himself, and consubstantial with him, since there are not two spirits, but one]]
+31. [[MON 31 Chapter 30. This expression does not consist of more words than one, but is one|Chapter 30. This expression does not consist of more words than one, but is one Word]]
+32. [[MON 32 Chapter 31|Chapter 31]]
+33. [[MON 33 Chapter 32. The supreme Spirit expresses himself by a coeternal Word|Chapter 32. The supreme Spirit expresses himself by a coeternal Word]]
+34. [[MON 34 Chapter 33. He utters himself and what he creates by a single consubstantial|Chapter 33. He utters himself and what he creates by a single consubstantial Word]]
+35. [[MON 35 Chapter 34. How he can express the created world by his Word|Chapter 34. How he can express the created world by his Word]]
+36. [[MON 36 Chapter 35. Whatever has been created is in his Word and knowledge, life and|Chapter 35. Whatever has been created is in his Word and knowledge, life and truth]]
+37. [[MON 37 Chapter 36. In how incomprehensible a way he expresses or knows the objects|Chapter 36. In how incomprehensible a way he expresses or knows the objects created by him]]
+38. [[MON 38 Chapter 37|Chapter 37]]
+39. [[MON 39 Chapter 38. It cannot be explained why they are two, although they must be so|Chapter 38. It cannot be explained why they are two, although they must be so]]
+40. [[MON 40 Chapter 39. This Word derives existence from the supreme Spirit by birth|Chapter 39. This Word derives existence from the supreme Spirit by birth]]
+41. [[MON 41 Chapter 40. He is most truly a parent, and that Word his offspring|Chapter 40. He is most truly a parent, and that Word his offspring]]
+42. [[MON 42 Chapter 41. He most truly begets, and it is most truly begotten|Chapter 41. He most truly begets, and it is most truly begotten]]
+43. [[MON 43 Chapter 42. It is the property of the one to be most truly progenitor and|Chapter 42. It is the property of the one to be most truly progenitor and Father, and of the other to be the begotten and Son]]
+44. [[MON 44 Chapter 43. Consideration of the common attributes of both and the individual|Chapter 43. Consideration of the common attributes of both and the individual properties of each]]
+45. [[MON 45 Chapter 44. How one is the essence of the other|Chapter 44. How one is the essence of the other]]
+46. [[MON 46 Chapter 45|Chapter 45]]
+47. [[MON 47 Chapter 46. How some of these truths which are thus expounded may also be|Chapter 46. How some of these truths which are thus expounded may also be conceived of in another way]]
+48. [[MON 48 Chapter 47. The Son is the intelligence of intelligence and the Truth of truth|Chapter 47. The Son is the intelligence of intelligence and the Truth of truth]]
+49. [[MON 49 Chapter 48. How the Son is the intelligence or wisdom of memory or the memory|Chapter 48. How the Son is the intelligence or wisdom of memory or the memory of the Father and of memory]]
+50. [[MON 50 Chapter 49. The supreme Spirit loves himself|Chapter 49. The supreme Spirit loves himself]]
+51. [[MON 51 Chapter 50. The same love proceeds equally from Father and Son|Chapter 50. The same love proceeds equally from Father and Son]]
+52. [[MON 52 Chapter 51. Each loves himself and the other with equal love|Chapter 51. Each loves himself and the other with equal love]]
+53. [[MON 53 Chapter 52. This love is as great as the supreme Spirit himself|Chapter 52. This love is as great as the supreme Spirit himself]]
+54. [[MON 54 Chapter 53. This love is identical with the supreme Spirit, and yet it is|Chapter 53. This love is identical with the supreme Spirit, and yet it is itself with the Father and the Son one spirit]]
+55. [[MON 55 Chapter 54. It proceeds as a whole from the Father, and as a whole from the|Chapter 54. It proceeds as a whole from the Father, and as a whole from the Son, and yet does not exist except as one love]]
+56. [[MON 56 Chapter 55. This love is not their Son|Chapter 55. This love is not their Son]]
+57. [[MON 57 Chapter 56. Only the Father begets and is unbegotten; only the son is begotten|Chapter 56. Only the Father begets and is unbegotten; only the son is begotten; only love neither begotten nor unbegotten]]
+58. [[MON 58 Chapter 57|Chapter 57]]
+59. [[MON 59 Chapter 58|Chapter 58]]
+60. [[MON 60 Chapter 59. The Father and the Son and their Spirit exist equally the one in|Chapter 59. The Father and the Son and their Spirit exist equally the one in the other]]
+61. [[MON 61 Chapter 60|Chapter 60]]
+62. [[MON 62 Chapter 61. Yet there are not three, but one Father and one Son and one Spirit|Chapter 61. Yet there are not three, but one Father and one Son and one Spirit]]
+63. [[MON 63 Chapter 62. How it seems that of these three more sons than one are born|Chapter 62. How it seems that of these three more sons than one are born]]
+64. [[MON 64 Chapter 63. How among them there is only one Son of one Father, that is, one|Chapter 63. How among them there is only one Son of one Father, that is, one Word, and that from the Father alone]]
+65. [[MON 65 Chapter 64. Though this truth is inexplicable, it demands belief|Chapter 64. Though this truth is inexplicable, it demands belief]]
+66. [[MON 66 Chapter 65. How real truth may be reached in the discussion of an ineffable|Chapter 65. How real truth may be reached in the discussion of an ineffable subject]]
+67. [[MON 67 Chapter 66. Through the rational mind is the nearest approach to the supreme|Chapter 66. Through the rational mind is the nearest approach to the supreme Being]]
+68. [[MON 68 Chapter 67. The mind itself is the mirror and image of that Being|Chapter 67. The mind itself is the mirror and image of that Being]]
+69. [[MON 69 Chapter 68. The rational creature was created in order that it might love this|Chapter 68. The rational creature was created in order that it might love this Being]]
+70. [[MON 70 Chapter 69. The soul that ever loves this Essence lives at some time in true|Chapter 69. The soul that ever loves this Essence lives at some time in true blessedness]]
+71. [[MON 71 Chapter 70. This Being gives itself in return to the creature that loves it|Chapter 70. This Being gives itself in return to the creature that loves it, that that creature may be eternally blessed]]
+72. [[MON 72 Chapter 71. The soul that despises this being will be eternally miserable|Chapter 71. The soul that despises this being will be eternally miserable]]
+73. [[MON 73 Chapter 72. Every human soul is immortal. And it is either forever miserable|Chapter 72. Every human soul is immortal. And it is either forever miserable, or at some time truly blessed]]
+74. [[MON 74 Chapter 73. No soul is unjustly deprived of the supreme good, and every effort|Chapter 73. No soul is unjustly deprived of the supreme good, and every effort must be directed toward that good]]
+75. [[MON 75 Chapter 74. The supreme Being is to be hoped for|Chapter 74. The supreme Being is to be hoped for]]
+76. [[MON 76 Chapter 75. We must believe in this Being, that is, by believing we must reach|Chapter 75. We must believe in this Being, that is, by believing we must reach out for it]]
+77. [[MON 77 Chapter 76. We should believe in Father and Son and in their Spirit equally|Chapter 76. We should believe in Father and Son and in their Spirit equally, and in each separately, and in the three at once]]
+78. [[MON 78 Chapter 77. What is living, and what dead faith|Chapter 77. What is living, and what dead faith]]
+79. [[MON 79 Chapter 78. The supreme Being may in some sort be called Three|Chapter 78. The supreme Being may in some sort be called Three]]
+80. [[MON 80 Chapter 79. This Essence itself is God, who alone is lord and ruler of all|Chapter 79. This Essence itself is God, who alone is lord and ruler of all]]

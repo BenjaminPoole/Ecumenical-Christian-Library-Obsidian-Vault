@@ -1,0 +1,25 @@
+---
+title: "The Second Book, Chapter 31"
+author: "Jan van Ruusbroec"
+work: "The Adornment of the Spiritual Marriage"
+section: 59
+translator:
+  - "C. A. Wynschenk Dom"
+year: "1916"
+written: "c. 1335"
+source: "https://ccel.org/ccel/ruysbroeck/adornment"
+tags:
+  - medieval
+  - jan-van-ruusbroec
+---
+
+# The Second Book, Chapter 31
+
+### OF ANOTHER HINDRANCE
+
+If a man thus falls into sickness and cold, he is sometimes caught by dropsy, that is to say, he has an inclination towards the outward possession of earthly things. The more such men acquire, the more they desire; for they straightway become dropsical. The belly, that is, the appetites or lusts, swells terribly, and the thirst will not be quenched. But the face of conscience and discretion becomes small and thin, for these men put hindrances against the inflow of the
+grace of God. If they thus accumulate the waters of earthly possessions about the heart, that is, if they cling to them with desire, they cannot progress in works of charity; for they are sick, they lack the inward spirit of life and breath, that is to say, they lack the grace of God and inward charity. And therefore they cannot rid themselves of the waters of earthly riches: the heart is submerged in them, and they are often choked therein and die an eternal death. But those who keep the
+waters of earthly riches far below the heart, so that they are master of their possessions and can renounce them whenever it is needful: these, though they may suffer long from inordinate inclinations, may yet be cured.
+
+---
+[[ASM 58 The Second Book, Chapter 30|← The Second Book, Chapter 30]] · [[The Adornment of the Spiritual Marriage|Contents]] · [[ASM 60 The Second Book, Chapter 32|The Second Book, Chapter 32 →]]

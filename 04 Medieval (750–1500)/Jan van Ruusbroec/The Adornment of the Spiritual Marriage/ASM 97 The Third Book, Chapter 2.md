@@ -1,0 +1,26 @@
+---
+title: "The Third Book, Chapter 2"
+author: "Jan van Ruusbroec"
+work: "The Adornment of the Spiritual Marriage"
+section: 97
+translator:
+  - "C. A. Wynschenk Dom"
+year: "1916"
+written: "c. 1335"
+source: "https://ccel.org/ccel/ruysbroeck/adornment"
+tags:
+  - medieval
+  - jan-van-ruusbroec
+---
+
+# The Third Book, Chapter 2
+
+### HOW THE ETERNAL BIRTH OF GOD IS RENEWED WITHOUT INTERRUPTION IN THE NOBILITY OF THE SPIRIT
+
+When we have thus become seeing, we can behold in joy the eternal coming of our Bridegroom; and that is the second point of which we would speak. What is this coming of our Bridegroom which is eternal? It is the new birth and a new enlightenment without interruption; for the ground from which the Light shines forth, and which is the Light itself, is life-giving and fruitful, and therefore the manifestation of the Eternal Light is renewed without ceasing in the
+hiddenness of the spirit. Behold, every creaturely work, and every exercise of virtue, must here cease; for here God works alone in the high nobility of the spirit. And here there is nothing but an eternal seeing and staring at that Light, by that Light, and in that Light. And the coming of the Bridegroom is so swift that He is perpetually coming, and yet dwelling within with unfathomable riches; and ever coming anew, in His Person, without interruption, with such new brightness that it seems
+as though he had never come before. For His coming consists, beyond time, in an eternal Now, which is ever received with new longings and new joy. Behold, the delight and the joy which this Bridegroom brings with Him in His coming are boundless and without measure, for they are Himself. And this is why the eyes with which the spirit sees and gazes at its Bridegroom, have opened so wide that they can never close again. For the spirit continues for ever to see and to stare at the secret
+manifestation of God. And the grasp of the spirit is opened so wide for the coming in of the Bridegroom, that the spirit itself becomes that Breadth Which it grasps. And so God is grasped and beheld through God; wherein rests all our blessedness. This is the second point: in which we receive, without interruption, the eternal coming of our Bridegroom in our spirit.
+
+---
+[[ASM 96 The Third Book, Chapter 1|← The Third Book, Chapter 1]] · [[The Adornment of the Spiritual Marriage|Contents]] · [[ASM 98 The Third Book, Chapter 3|The Third Book, Chapter 3 →]]

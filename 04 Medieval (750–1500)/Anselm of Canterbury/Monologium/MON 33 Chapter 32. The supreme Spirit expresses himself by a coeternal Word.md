@@ -1,0 +1,34 @@
+---
+title: "Chapter 32. The supreme Spirit expresses himself by a coeternal Word"
+author: "Anselm of Canterbury"
+work: "Monologium"
+section: 33
+translator:
+  - "Sidney Norton Deane"
+  - "James Gardiner Vose"
+year: "1903"
+written: "1076"
+source: "https://ccel.org/ccel/anselm/basic_works"
+tags:
+  - medieval
+  - anselm-of-canterbury
+---
+
+# Chapter 32. The supreme Spirit expresses himself by a coeternal Word
+
+BUT since this is true, how can what is simple Truth be the Word corresponding to those objects, of which it is not the likeness? Since every word by which an object is thus mentally expressed is the likeness of that object, if this is not the word corresponding to the objects that have been created through it, how shall we be sure that it is the Word? For every word is a word corresponding to some object. Therefore, if there were no creature, there would be no
+word.
+
+Are we to conclude, then, that if there were no creature, that Word would not exist at all, which is the supreme self-sufficient Essence? Or, would the supreme Being itself, perhaps, which is the Word still be the eternal Being, but not the Word, if nothing were ever created through that Being? For, to what has not been, and is not, and will not be, then can be no word corresponding.
+
+But, according to this reasoning, if there were never any being but the supreme Spirit, there would be no word at all in him. If there were no word in him, he would express nothing to himself; if he expressed nothing to himself, since, for him, expressing anything is the same with understanding or conceiving of it (*intelligere*), he would not understand or conceive of anything; if he understood or
+conceived of nothing, then the supreme Wisdom, which is nothing else than this Spirit, would understand or conceive of nothing; which is most absurd.
+
+What is to be inferred? For, if it conceived of nothing, how would it be the supreme Wisdom? Or, if there were in no wise anything but it, of what would it conceive? Would it not conceive of itself? But how can it be even imagined that the supreme Wisdom, at any time does not conceive of itself; since a rational mind can remember not only itself, but that supreme Wisdom, and conceive of that Wisdom and of itself? For, if the human mind could have no memory or
+concept of that Wisdom or of itself, it would not distinguish itself at all from irrational creatures, and that Wisdom from the whole created world, in silent meditation by itself, as my mind does now.
+
+Hence, that Spirit, supreme as he is eternal, is thus eternally mindful of himself, and conceives of himself after the likeness of a rational mind; nay, not after the likeness of anything; but in the first place that Spirit, and the rational mind after its likeness. But, if he conceives of himself eternally, he expresses himself eternally. If he expresses himself eternally, his Word is eternally with him. Whether, therefore, it be thought of in connection with no
+other existing being, or with other existing beings, the Word of that Spirit must be coeternal with him.
+
+---
+[[MON 32 Chapter 31|← Chapter 31]] · [[Monologium|Contents]] · [[MON 34 Chapter 33. He utters himself and what he creates by a single consubstantial|Chapter 33. He utters himself and what he creates by a single consubstantial →]]

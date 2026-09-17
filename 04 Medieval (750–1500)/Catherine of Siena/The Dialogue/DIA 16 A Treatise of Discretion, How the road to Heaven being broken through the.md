@@ -1,0 +1,26 @@
+---
+title: "A Treatise of Discretion, How the road to Heaven being broken through the disobedience of Adam, God made of His Son a Bridge by which man could pass"
+author: "Catherine of Siena"
+work: "The Dialogue"
+section: 16
+translator:
+  - "Algar Thorold"
+year: "1907"
+written: "1378"
+source: "https://ccel.org/ccel/catherine/dialog"
+tags:
+  - medieval
+  - catherine-of-siena
+---
+
+# A Treatise of Discretion, How the road to Heaven being broken through the disobedience of Adam, God made of His Son a Bridge by which man could pass
+
+“Wherefore I have told you that I have made a Bridge of My Word, of My only-begotten Son, and this is the truth. I wish that you, My children, should know that the road was broken by the sin and disobedience of Adam, in such a way, that no one could arrive at Eternal Life. Wherefore men did not render Me glory in the way in which they ought to have, as they did not participate in that Good for which I had created them, and My truth was not fulfilled. This truth is that
+I have created man to My own image and similitude, in order that he might have Eternal Life, and might partake of Me, and taste My supreme and eternal sweetness and goodness. But, after sin had closed Heaven and bolted the doors of mercy, the soul of man produced thorns and prickly brambles, and My creature found in himself rebellion against himself.
+
+“And the flesh immediately began to war against the Spirit, and, losing the state of innocence, became a foul animal, and all created things rebelled against man, whereas they would have been obedient to him, had he remained in the state in which I had placed him. He, not remaining therein, transgressed My obedience, and merited eternal death in soul and body. And, as soon as he had sinned, a tempestuous flood arose, which ever buffets him with its waves, bringing him
+weariness and trouble from himself, the devil, and the world. Every one was drowned in the flood, because no one, with his own justice alone, could arrive at Eternal Life. And so, wishing to remedy your great evils, I have given you the Bridge of My Son, in order that, passing across the flood, you may not be drowned, which flood is the tempestuous sea of this dark life. See, therefore, under what obligations the creature is to Me, and how ignorant he is, not to take the remedy which I have
+offered, but to be willing to drown.”
+
+---
+[[DIA 15 A Treatise of Discretion, How sin is more gravely punished after the Passion of|← A Treatise of Discretion, How sin is more gravely punished after the Passion of]] · [[The Dialogue|Contents]] · [[DIA 17 A Treatise of Discretion, How God induces the soul to look at the greatness of|A Treatise of Discretion, How God induces the soul to look at the greatness of →]]

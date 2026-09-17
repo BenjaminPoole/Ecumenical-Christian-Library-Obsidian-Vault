@@ -1,0 +1,23 @@
+---
+title: "A Treatise of Prayer, How after Saint Paul was drawn to the glory of the blessed, he desired to be loosened from the body, as they do, who have reached the aforesaid third and fourth states"
+author: "Catherine of Siena"
+work: "The Dialogue"
+section: 60
+translator:
+  - "Algar Thorold"
+year: "1907"
+written: "1378"
+source: "https://ccel.org/ccel/catherine/dialog"
+tags:
+  - medieval
+  - catherine-of-siena
+---
+
+# A Treatise of Prayer, How after Saint Paul was drawn to the glory of the blessed, he desired to be loosened from the body, as they do, who have reached the aforesaid third and fourth states
+
+“Paul, then, had seen and tasted this good, when I drew him up into the third heaven, that is into the height of the Trinity, where he tasted and knew My Truth, receiving fully the Holy Spirit, and learning the doctrine of My Truth, the Word Incarnate. The soul of Paul was clothed, through feeling and union, in Me, Eternal Father, like the blessed ones in Eternal Life, except that his soul was not separated from his body, except through this feeling and union. But it
+being pleasing to My Goodness to make of him a vessel of election in the abyss of Me, Eternal Trinity, I dispossessed him of Myself, because on Me can no pain fall, and I wished him to suffer for My name; therefore I placed before him, as an object for the eyes of his intellect, Christ crucified, clothing him with the garment of His doctrine, binding and fettering him with the clemency of the Holy Spirit and inflaming him with the fire of charity. He became a vessel, disposed and reformed by My
+Goodness, and, on being struck, made no resistance, but said: ’*My Lord, what do You wish me to do? Show me that which it is Your pleasure for me to do, and I will do it*.’ Which I answered when I placed before him Christ crucified, clothing him with the doctrine of My charity. I illuminated him perfectly with the light of true contrition, by which he extirpated his defects, and founded him in My charity.”
+
+---
+[[DIA 59 A Treatise of Prayer, How the soul, after she has passed through this life|← A Treatise of Prayer, How the soul, after she has passed through this life]] · [[The Dialogue|Contents]] · [[DIA 61 A Treatise of Prayer, How the soul who finds herself in the unitive state|A Treatise of Prayer, How the soul who finds herself in the unitive state →]]

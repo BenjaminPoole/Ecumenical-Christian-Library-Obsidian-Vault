@@ -1,0 +1,27 @@
+---
+title: "The Second Book, Chapter 46"
+author: "Jan van Ruusbroec"
+work: "The Adornment of the Spiritual Marriage"
+section: 74
+translator:
+  - "C. A. Wynschenk Dom"
+year: "1916"
+written: "c. 1335"
+source: "https://ccel.org/ccel/ruysbroeck/adornment"
+tags:
+  - medieval
+  - jan-van-ruusbroec
+---
+
+# The Second Book, Chapter 46
+
+### REPROVING ALL THOSE WHO LIVE ON SPIRITUAL GOODS IN AN INORDINATE MANNER
+
+Now Christ left His treasure and His revenue here on earth. These are the seven sacraments and the outward goods of Holy Church, which He has gotten through His death, and which, therefore, should be in common. And His servants, who live thereon, should therefore be in common. All those who live on alms and are in the ecclesiastical state, should be in common at least in their prayers: and especially all religious who live in cloisters and in cells. In the beginning of
+Holy Church and of our Faith, popes, bishops, and priests, were all in common; for they went out and converted the folk, and established Holy Church and our Faith, and sealed them with their blood and with their death. These men were simple and onefold, and they had steadfast peace in the unity of the spirit. And they were enlightened with godly wisdom, rich and overflowing with faith and with love towards God and towards all men. But now, notwithstanding it is become wholly otherwise; for
+those who to-day possess the heritage and the revenue which were given to those others out of love and because of their holiness, are unstable of soul, and restless, and in multiplicity; for they have altogether turned towards the world, and do not thoroughly apprehend in their ground those things and that business which they have in hand. That is why they pray with their lips, but their heart does not savour the meaning, that is to say, it does not feel the secret wonder which is hidden in
+Scripture, and in the sacraments, and in their office. And therefore they are coarse and dull, and are not enlightened by the Divine truth, and they often seek food and drink and ease of body without moderation: would to God they were at least clean of fleshly sins! As long as they live thus, they shall never be enlightened; and whereas those others were generous, and overflowing with charity, and kept nothing for themselves, these are now greedy and avaricious, and deny themselves nothing. All
+this is contrary and unlike to the saints, and to that common way of which we have spoken. I speak of the general state of things: let each prove himself, and teach and reprove himself, if needs be; and, if not, let him rejoice and rest in peace in his clean conscience, and serve and praise God, for the good of himself and of all men, and for the glory of God.
+
+---
+[[ASM 73 The Second Book, Chapter 45|← The Second Book, Chapter 45]] · [[The Adornment of the Spiritual Marriage|Contents]] · [[ASM 75 The Second Book, Chapter 47|The Second Book, Chapter 47 →]]

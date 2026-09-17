@@ -1,0 +1,29 @@
+---
+title: "Chapter 1"
+author: "Jan van Ruusbroec"
+work: "The Sparkling Stone"
+section: 2
+translator:
+  - "C. A. Wynschenk Dom"
+year: "1916"
+written: "c. 1340"
+source: "https://ccel.org/ccel/ruysbroeck/adornment"
+tags:
+  - medieval
+  - jan-van-ruusbroec
+---
+
+# Chapter 1
+
+### THROUGH THREE THINGS A MAN BECOMES GOOD
+
+Hear now three things which constitute a good man. The first, which a good man must have, is a clean conscience without reproach of mortal sin. And therefore whosoever wishes to become a good man must examine and prove himself with due discernment, from that time onward when he could first have committed sin. And from all these sins he must purge himself, according to the precept and the custom of Holy Church.
+
+The second thing which pertains to a good man is that he must in all things be obedient to God, and to Holy Church, and to his own proper convictions. And to each of these three he must be equally obedient: so shall he live without care and doubt, and shall ever abide without inward reproach in all his deeds.
+
+The third thing which behoves every good man is that in all his deeds he should have in mind, above all else, the glory of God. And if it happens that by reason of his business or the multiplicity of his works, he has not always God before his eyes, yet at least there should be established in him the intention and desire to live according to the dearest will of God.
+
+Behold, these three things, when they are possessed in this way, make a man good. And whosoever lacks any one of these three is neither good nor in the grace of God; but whenever a man resolves in his heart to fulfil these three points, how wicked soever he may have been before, in that very instant he becomes good, and is susceptible of God, and filled with the grace of God.
+
+---
+[[SS 01 Prologue|← Prologue]] · [[The Sparkling Stone|Contents]] · [[SS 03 Chapter 2|Chapter 2 →]]

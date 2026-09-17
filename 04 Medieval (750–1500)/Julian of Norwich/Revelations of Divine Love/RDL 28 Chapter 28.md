@@ -1,0 +1,41 @@
+---
+title: "Chapter 28"
+author: "Julian of Norwich"
+work: "Revelations of Divine Love"
+section: 28
+translator:
+  - "Grace Warrack"
+year: "1901"
+written: "c. 1393"
+source: "https://ccel.org/ccel/julian/revelations"
+tags:
+  - medieval
+  - julian-of-norwich
+---
+
+# Chapter 28
+
+### “Each brotherly compassion that man hath on his fellow Christians, with charity, it is Christ in him”
+
+THUS I saw how Christ hath compassion on us for the cause of sin. And right as I was afore in the [Shewing of the] Passion of Christ fulfilled with pain and compassion, like so in this [sight] I was fulfilled, in part, with compassion of all mine even-Christians—for that well, well beloved people that shall be saved. For God’s servants, Holy Church, shall be shaken in sorrow and anguish, tribulation in this world, as men shake a cloth in the wind.
+
+And as to this our Lord answered in this manner: *A great thing shall I make hereof in Heaven of endless worship and everlasting joys.*
+
+Yea, so far forth I saw, that our Lord joyeth of the tribulations of His servants, with ruth and compassion. On each person that He loveth, to His bliss for to bring [them], He layeth something that is no blame in His sight, whereby they are blamed and despised in this
+
+world, scorned, mocked,[^1] and outcasted. And this He doeth for to hinder the harm that they should take from the pomp and the vain-glory of this wretched life, and make their way ready to come to Heaven, and up-raise them in His bliss everlasting. For He saith: *I shall wholly break you of your vain affections and your vicious pride; and after that I shall together gather you, and make you mild and meek, clean and holy, by oneing to me.*
+
+And then I saw that each kind compassion that man hath on his even-Christians with charity, it is Christ in him.
+
+That same noughting that was shewed in His Passion, it was shewed again here in this Compassion. Wherein were two manner of understandings in our Lord’s meaning. The one was the bliss that we are brought to, wherein He willeth that we rejoice. The other is for comfort in our pain: for He willeth that we perceive that it shall all be turned to worship and profit by virtue of His passion, that we perceive that we suffer not alone but with Him, and see Him to be our Ground,
+and that we see His pains and His noughting passeth so far all that we may suffer, that it may not be fully thought.
+
+The beholding of this will save us from murmuring[^2] and despair in the feeling of our pains. And if we see soothly that our sin deserveth it, yet His love excuseth us, and of His great courtesy He doeth away all our blame, and beholdeth us with ruth and pity as children innocent and unloathful.
+
+[^1]: 
+
+[^2]: 
+
+
+---
+[[RDL 27 Chapter 27|← Chapter 27]] · [[Revelations of Divine Love|Contents]] · [[RDL 29 Chapter 29|Chapter 29 →]]
