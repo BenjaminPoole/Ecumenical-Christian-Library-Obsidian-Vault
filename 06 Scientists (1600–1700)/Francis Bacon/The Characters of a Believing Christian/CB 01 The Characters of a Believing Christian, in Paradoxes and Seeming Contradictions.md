@@ -13,7 +13,7 @@ tags:
 
 # The Characters of a Believing Christian, in Paradoxes and Seeming Contradictions
 
-I. AChristian is one that believes things his reason […] comprehend, he hopes for things which neither be no[…]y man alive ever saw: he labours for that which he know[…] he can never obtain, yet in the issue, his beliefe appeares not to be false, his hope makes him not ashamed, his labour is not in vain.
+I. AChristian is one that believes things his reason cannot comprehend, he hopes for things which neither be nor any man alive ever saw: he labours for that which he knoweth he can never obtain, yet in the issue, his beliefe appeares not to be false, his hope makes him not ashamed, his labour is not in vain.
 
 II. He believes three to be one, and one to be three, a Father not to be elder then his Son, a Son to be equall with his Father, and one proceeding from both to be equall with both; he believes three ersons in one nature, and two Natures in one Person.
 
@@ -79,7 +79,7 @@ XXXII. The world will sometimes account him a Saint, when GOD accounted him a hy
 
 XXXIII. His death makes not an end of him. His soule which was put into his body, is not to be perfected without his body; yet his soul is more happy, when it is separated from his body, then when it was joyned unto it. And his body though torn in pieces, burnt in ashes, ground to powder, turned to rottennesse, shall be no loser.
 
-XXXIV. His Advocate, his Surety shall be his Judge; his mortall part shall become immortall, and what was sowne in cor[…]ption, shall be raised in incorruption and glory, and a finite Creature, shall possesse an infinite happinesse.
+XXXIV. His Advocate, his Surety shall be his Judge; his mortall part shall become immortall, and what was sowne in corruption, shall be raised in incorruption and glory, and a finite Creature, shall possesse an infinite happinesse.
 
 ---
 [[The Characters of a Believing Christian|Contents]] · [[CB 02 A Confession of the Faith|A Confession of the Faith →]]

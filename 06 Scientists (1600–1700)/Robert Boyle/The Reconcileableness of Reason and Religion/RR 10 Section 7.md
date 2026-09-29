@@ -61,7 +61,7 @@ And indeed, the limitations, that Christian Religion *puts* to some of the dicta
 
 I know not, whether to all that hath been said in this *Section*. I may not add thus much further, that it sometimes happens, that those very things, which at first were propos'd to the understanding, and believ'd upon the score of Revelation, are afterward assented to by it upon the account of meer Reason. To which purpose I consider, that not any of the ancient Philosophers, nay (as far as I have read) ev'n of those that believ'd God to be the Author of the World, dream'd, that He created Matter of nothing, but only form'd the World out of praeexistent Matter, whereas Christian Divines usually teach as an Article of Faith, That, besides what they call a mediate Creation, as when Fishes were made out of the water, or *Adam*'s body was made out of the earth, there was an immediate Production of Matter it self out of nothing.
 
-[^1]: In his little Tract *de Magnetis Propri[…]tatibus*. p. m. 350.
+[^1]: In his little Tract *de Magnetis Proprietatibus*. p. m. 350.
 
 [^2]: 1 John. v. 9.
 

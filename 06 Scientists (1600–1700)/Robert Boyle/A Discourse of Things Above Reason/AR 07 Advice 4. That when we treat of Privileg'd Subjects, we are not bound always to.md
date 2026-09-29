@@ -17,7 +17,7 @@ As great a Paradox as this may at first blush appear, yet it will need little mo
 
 Pyrocles.
 
-The School-Philosophers for many Ages in the Catalogues they made of the ways of a Bodies working upon another at a distance; did not think of the true ways by which *Odors* and *Sounds* are communicated to us, and therefore had recourse to certain unintelligible things, which they were pleas'd to call *Species Intentionales*. Whereas those modern Naturalists that philosophize freely, acknowledge, that Odors are communicated by *Effl[…]viums*, exhaling from the odorous Body, and fitted to affect our Nostrils, and Sounds are transmitted to the Ear by the undulating motion which the Air is put into by the impulse of the vibrating, or otherwise agitated parts of the sonorous Body.
+The School-Philosophers for many Ages in the Catalogues they made of the ways of a Bodies working upon another at a distance; did not think of the true ways by which *Odors* and *Sounds* are communicated to us, and therefore had recourse to certain unintelligible things, which they were pleas'd to call *Species Intentionales*. Whereas those modern Naturalists that philosophize freely, acknowledge, that Odors are communicated by *Effluviums*, exhaling from the odorous Body, and fitted to affect our Nostrils, and Sounds are transmitted to the Ear by the undulating motion which the Air is put into by the impulse of the vibrating, or otherwise agitated parts of the sonorous Body.
 
 Timoth.
 

@@ -69,7 +69,7 @@ It does totally overspread both our Inward man. Outward man.
 
 1. Our *Inward man* is hereby depraved both in respect of 1. Understandings. 2. Consciences. 3. Affections. 4. Wills. 5. Memories.
 
-1. Our *Vnderstandings* are hereby become full of vanity, inconsideratenesse, ignorance;[^5] neither *knowing nor enquiring after God: Every thought, and imagination of the heart being only evil, and that continually*. So that we are *not of our selves sufficient to think any thing that is good*, (2 Cor. 3.5) being given over to a *reprobate minde, […], a minde void of judgement, not liking to retaine God in our knowledge*. (Rom. 1.28) *Becoming vain in our imaginations, having our wicked hearts darkened*.[^6] *Being wise to do evil, but foolish to that which is good. Counting the things of God foolishnesse. Being carnally minded*, which is *enmity against God. For it is not subject to the law of God, neither indeed can be*.
+1. Our *Vnderstandings* are hereby become full of vanity, inconsideratenesse, ignorance;[^5] neither *knowing nor enquiring after God: Every thought, and imagination of the heart being only evil, and that continually*. So that we are *not of our selves sufficient to think any thing that is good*, (2 Cor. 3.5) being given over to a *reprobate minde, νοῦν ἀδόκιμον, a minde void of judgement, not liking to retaine God in our knowledge*. (Rom. 1.28) *Becoming vain in our imaginations, having our wicked hearts darkened*.[^6] *Being wise to do evil, but foolish to that which is good. Counting the things of God foolishnesse. Being carnally minded*, which is *enmity against God. For it is not subject to the law of God, neither indeed can be*.
 
 Full of pride, prejudice, and contradiction against all sacred truths, setting up our own imaginations, and fleshly reasonings against the spiritual notions that are dictated to us. *Being alienated from the life of God*, (Eph. 4.18) *through the blindnesse that is in us*.
 
@@ -91,7 +91,7 @@ II. Our *outward man*,[^10] which was at first created with a kinde of divine Ma
 
 Eares *uncircumcised*, deaf unto every holy suggestion, easily open and attentive to vanities, lies, slanders.
 
-Tongues *unruly, and full of deadly poyson*, (Jam. 3.8) conteining *a world of iniquity; defiling the wh[…]le body, setting on fire the course of nature*, (Vers. 6) *being themselves set on fire of Hell*. Given to unsavory, unedifying discourses, revilings, prophanenesse, blasphemies.[^12] That which should be *our glory, the best member that we have*, is by this Original corruption, become the worst, defiling all the rest.
+Tongues *unruly, and full of deadly poyson*, (Jam. 3.8) conteining *a world of iniquity; defiling the whole body, setting on fire the course of nature*, (Vers. 6) *being themselves set on fire of Hell*. Given to unsavory, unedifying discourses, revilings, prophanenesse, blasphemies.[^12] That which should be *our glory, the best member that we have*, is by this Original corruption, become the worst, defiling all the rest.
 
 Our Throat *being as an open sepulchre; with our tongues we use deceit*, (Rom. 3.13) *the poison of aspes is under our lips*. (Vers. 14.15.16.17.18) *Our mouth is full of cursing and bitternesse; our feet are swift to shed blood; destruction, and misery are in our wayes: and the way of peace have we not known; there is no fear of God before our eyes*.
 

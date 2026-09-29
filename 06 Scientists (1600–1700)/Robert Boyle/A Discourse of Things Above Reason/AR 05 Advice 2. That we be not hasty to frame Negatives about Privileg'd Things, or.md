@@ -35,7 +35,7 @@ But Gentlemen, I would not be understood in the preceding Discourse, as if I wer
 
 Pyrocl.
 
-I shall not trouble you, *Arnobius*, to inlarge upon your last Advice, but willingly receive the […]avour of your next.
+I shall not trouble you, *Arnobius*, to inlarge upon your last Advice, but willingly receive the favour of your next.
 
 Arnob.
 

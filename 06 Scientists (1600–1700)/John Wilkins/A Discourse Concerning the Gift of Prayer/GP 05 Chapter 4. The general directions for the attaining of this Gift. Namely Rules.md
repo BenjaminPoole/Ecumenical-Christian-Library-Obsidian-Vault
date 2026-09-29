@@ -27,7 +27,7 @@ The *Rules* to this purpose are chiefly of two kindes. Namely such as concern, 1
 
 2. In regard of that *possibility* which there is of obtaining by this means help and supply. These two arguments will be of greatest efficacy to excite the affections.
 
-1. We must labour to work in our selves a true sense of our own *necessity*. A Malefactor that is presently to be sentenced, and executed· will not need any prompter to quicken his desire of pardon. Men that are in such a condition, (saith *Parisiensis) Nullum habent Doctorem*,[^1] *qui illos supp[…]icare doceat, & precari; non habent librum, quem inspitientes, accipiant inde disertitudinem illam deprecationis*) will not need any Master to teach them how to supplicate, nor any book out of which they might learn a set forme of petitioning. The apprehension of their present danger will make them both importunate and eloquent, in the desire of mercy. And thus will it be in proportion, with every one as he does apprehend his own necessity, in respect of any want, or danger. To which purpose that grace of *Humility*, will be of special advantage, which is alwayes sensible of it's own need and poverty; and the more it does receive, by so much the more does it bemoan it's own indigence.
+1. We must labour to work in our selves a true sense of our own *necessity*. A Malefactor that is presently to be sentenced, and executed· will not need any prompter to quicken his desire of pardon. Men that are in such a condition, (saith *Parisiensis) Nullum habent Doctorem*,[^1] *qui illos supplicare doceat, & precari; non habent librum, quem inspitientes, accipiant inde disertitudinem illam deprecationis*) will not need any Master to teach them how to supplicate, nor any book out of which they might learn a set forme of petitioning. The apprehension of their present danger will make them both importunate and eloquent, in the desire of mercy. And thus will it be in proportion, with every one as he does apprehend his own necessity, in respect of any want, or danger. To which purpose that grace of *Humility*, will be of special advantage, which is alwayes sensible of it's own need and poverty; and the more it does receive, by so much the more does it bemoan it's own indigence.
 
 Now, when a man has brought his heart to this temper, it will be most proper for him to lay aside all needlesse artifice, or affectation, behaving himself in his addresses unto God with the same plainnesse, and simplicity· as we use to do with men. Let him seriously consider. 1. What sins those are which (if he were now to die) would most affright his conscience. Confesse them in particular, aggravate, and bewaile them· 2. What that is he would chuse above all other things to desire of God, if he were sure to have his wish; Pardon, Grace, Perseverance, Contentment, Heaven, Protection· &c. and let him beg each of these, urging the promise to this purpose. 3. How his condition does differ from others below him. What blessing there is that he could least spare. Others, perhaps, are wretchedly ignorant, prophane, necessitous, sick, &c. whereas he is exempted, and therefore ought to give thanks for each of these enjoyments.
 
@@ -93,7 +93,7 @@ A man does not only then pray well, when his devotions are accompanied with some
 
 Thus much for the first sort of rules that concern the stirring up of our *affections*.
 
-[^1]: *De […]* cap. 26.
+[^1]: *De Rhetorica divina* cap. 26.
 
 [^2]: *Ply*. Epist lib. 2.
 

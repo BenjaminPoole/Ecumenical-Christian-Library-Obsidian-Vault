@@ -13,7 +13,7 @@ tags:
 
 # Chapter 1. Some Mistakes, about the Object of Happiness
 
-Happiness is that which all Men desire, and yet but few obtain: One reason is, because they mistake their Object, placing it in something wherein it is not to be found. Some in Bodily Pleasures, whom *Aristotle* calls […]: others in *Riches*, whom the same Author calls […]: Others in *Honour* and *Power*, whom he denominates […]: which things cannot make us happy: Because,
+Happiness is that which all Men desire, and yet but few obtain: One reason is, because they mistake their Object, placing it in something wherein it is not to be found. Some in Bodily Pleasures, whom *Aristotle* calls ἀπολαυστικοί: others in *Riches*, whom the same Author calls χρηματιστικοί: Others in *Honour* and *Power*, whom he denominates πολιτικοί: which things cannot make us happy: Because,
 
 1. They are not in our Power, but may forcibly be taken away from us; and should they continue with us during Life, at Death we must necessarily part with them.
 

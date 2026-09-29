@@ -45,7 +45,7 @@ The *Means* of our Sanctification, are principally these five.
 
 3. The *Sacraments*; That he hath not left us as strangers, without the Covenant of promise, but hath ordained visible signes and seals, to represent that to our senses, wch we ought to apprehend by our faith.
 
-4. The *Sabbaths* and publike Ordinances, that we have liberty to behold the face of God in his sanctuary, and to enquire in his Temple that amidst some outward troubles,[^3] *the bread of adversity, and the water of affliction, yet our Teachers are not removed into corners, but our eyes may see them*. (1 Sam. 3.1) That *vision does not fail* in our days, that we are not punished with *a famine of the Word*; (Am. 8.11) that *the Sun does not go down upon our Prophets*. (Mich. 3.6)
+4. The *Sabbaths* and publike Ordinances, that we have liberty to behold the face of God in his sanctuary, and to enquire in his Temple that amidst some outward troubles, (Isai 30.20) *the bread of adversity, and the water of affliction, yet our Teachers are not removed into corners, but our eyes may see them*. (1 Sam. 3.1) That *vision does not fail* in our days, that we are not punished with *a famine of the Word*; (Am. 8.11) that *the Sun does not go down upon our Prophets*. (Mich. 3.6)
 
 5. The *Communion of Saints*: for the benefit that we enjoy by their examples, counsels, experience. For all those who have been instruments of our good by their Prayers, Writings, Preaching, *&c*.
 
@@ -54,8 +54,6 @@ The *Means* of our Sanctification, are principally these five.
 [^1]: Eph. 1.7. Colos. 1.13, 14. 1 Tim. 2.6 2 Thes. 2.14. 2 Tim. 1.9.
 
 [^2]: Eph. 2.19. Col. 1.12, 13. 2 Pet. 1.3.
-
-[^3]: Isai 3[…].20.
 
 
 ---

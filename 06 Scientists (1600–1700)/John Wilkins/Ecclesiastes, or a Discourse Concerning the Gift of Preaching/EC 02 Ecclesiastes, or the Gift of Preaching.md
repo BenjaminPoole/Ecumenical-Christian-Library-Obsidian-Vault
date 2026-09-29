@@ -19,7 +19,7 @@ Now amongst all other callings, this of *Preaching*, being in many respects one 
 
 Besides all those Academical preparation s by the study of Languages, Sciences, Divinity, with which men should be qualified, and predisposed for this Calling, I say besides all these, there is a particular art of preaching, to which if Ministers did more seriously apply themselves, it would extreamly facilitate that service, making it more easie to us, and more profitable to others.
 
-There are two abilities requisite in every one that will teach and instruct another: […]. […]
+There are two abilities requisite in every one that will teach and instruct another: Σύνεσις. Ἑρμηνεία
 
 A right *understanding* of sound doctrine; and an ability to propound, confirm, and apply it unto the *edification of others*. And the first may be without (Luke 21. 15) the other. As a man may be a good *Lawyer*, and yet not a good *Pleader*; so he may be a good *Divine*, and yet not a good *Preacher*.
 
@@ -33,7 +33,7 @@ Now there are several Treatises of many learned men, both Protestants and others
 - Hen. Alsted. *Theologia Prophetica*,
 - Frid. Baldvini *Institutio ministrorum*.
 - Rich. Bernard. The faithful Shepheard.
-- Joh. Clark. *Oratoriae sacrae* […].
+- Joh. Clark. *Oratoriae sacrae* σκιαγραφία.
 - Lamb. Danaei *Methodus* S. *Scripturae in concionibus tractandae*.
 - Hen. Diest *De ratione studii Theologici*.
 - Des. Erasmi *Ecclesiastes*.
@@ -46,7 +46,7 @@ Now there are several Treatises of many learned men, both Protestants and others
 - Jo. Segobiensis *De praedicatione evangelica*.
 - Abra. Sculteti *Axiomata concionandi*.
 
-Will. Zepperus *De arte* *habendi* *conciones*. *audiend[…]*
+Will. Zepperus *De arte* *habendi* *conciones*. *audiendi*
 
 Besides these, there are above forty other Authors, who have writ particularly upon this subject, recited by *Draudius* in his *Bibliotheca classica* under the head of *Concionatorum instructio, pag*. 132. To[^1] which may be added the directions to this purpose so briefly and fully comprehended in the *Directory*, besides those many other discourses wherein these things have been largely handled on the by, though not chiefly intended. In all which, many learned men have laid down various rules, which to them according to their several *Genius's* and observations seemed most useful.
 
@@ -72,7 +72,7 @@ By *Method* I understand an Art of contriving our discourses in such a regular f
 
 2. And so for benefit of the hearers likewise, who may understand and retain a Sermon with greater case and profit, when they are before-hand acquainted with the general heads of matter that are discoursed of. 'Tis but a bad rule in *Alsteà*, where he advises to conceal, & alter the method for variety[^3] sake. *Crypsis dispositionis tollit fastidium auditoris*. This may be true of itching curious hearers, but not of such as regard their own profit and edification.
 
-An immethodical discourse (though the materials of it may be precious) is but as a *[…]eap*, full of confusion and deformity; the other, as a *Fabrick* or building, much more excellent both for *beauty* and *use*.
+An immethodical discourse (though the materials of it may be precious) is but as a *heap*, full of confusion and deformity; the other, as a *Fabrick* or building, much more excellent both for *beauty* and *use*.
 
 There might be divers kinds of Methods prescribed, according as mens own *fancies* and the variety of *subjects* and *occasions* shall require. But that which our gravest Divines by long experience have found most useful, is this of *Doctrine* and *Use*.
 
@@ -174,7 +174,7 @@ Then (if the matter be capable of it) we may farther inlarge it in its several *
 
 The Text and the Doctrine being thus opened, we should in the next place descend to the confirmation of it. Remembring always to connect these several parts by some plain and brief *transition*, that so the method may be the more perspicuous.
 
-Now here are two sorts of proofs […]. […].
+Now here are two sorts of proofs Ὅτι. Διότι.
 
 The *Quod sit*, and *Cur sit, that 'tis so*, and *why it is so*. The first is properly from *Testimony*, either Divine. Humane. *Divine Testimony* is either from some Scripture Precept. Example.
 
@@ -210,7 +210,7 @@ The cheif Rules or Canons that concerne this part are these two.
 
 2. An example hath the force of a rule. All of them *being written for our learning*. But then (1 Cor. 20. 11) we must be carefull to examine and discern whether the example be *extraordinary* or *ordinary*, according to which the application must be properly made.
 
-The Apostle tels us that the whole Scripture is given by inspiration from God, and is profitable […], *for Doctrine*, […], *for redargution*, […], *for correction*, […], *for instruction in righteousnesse, that the man of God may be perfect, being perfectly instructed in every good worke*, 2 Tim. 3. 16.
+The Apostle tels us that the whole Scripture is given by inspiration from God, and is profitable πρὸς διδασκαλίαν, *for Doctrine*, πρὸς ἔλεγχον, *for redargution*, πρὸς ἐπανόρθωσιν, *for correction*, πρὸς παιδείαν, *for instruction in righteousnesse, that the man of God may be perfect, being perfectly instructed in every good worke*, 2 Tim. 3. 16.
 
 In that place all the Uses to which Scripture may be applied, are briefly set down.
 
@@ -220,9 +220,9 @@ Application is either Doctrinall. Practicall.
 
 And this is of two kinds, Didactical. Elenctical.
 
-1. *Didacticall*, in some positive truth, […], which is commonly stiled, a Use of *Information*, and should consist of such pertinent doctrinall truths, as will most properly follow from the Observation: In the deducing of these it would be an endlesse businesse to take in all those inferences that are remote or collaterall: But we should pitch upon some few that are more principal and immediate. Where those Logical directions may be usefull, concerning the collecting, 1. Of a generall from a speciall, as *Rom*. 4. 3, 4. 2. The lesse from the greater, as *john* 10. 25. *Rom*. 8. 32. 3. The greater from the lesse. 1 *Cor*. 9. 9, 10. 4. The effect from the case. *Heb*. 2. 8. 5. The cause from the effect. *john* 6. 45. &c.
+1. *Didacticall*, in some positive truth, πρὸς διδασκαλίαν, which is commonly stiled, a Use of *Information*, and should consist of such pertinent doctrinall truths, as will most properly follow from the Observation: In the deducing of these it would be an endlesse businesse to take in all those inferences that are remote or collaterall: But we should pitch upon some few that are more principal and immediate. Where those Logical directions may be usefull, concerning the collecting, 1. Of a generall from a speciall, as *Rom*. 4. 3, 4. 2. The lesse from the greater, as *john* 10. 25. *Rom*. 8. 32. 3. The greater from the lesse. 1 *Cor*. 9. 9, 10. 4. The effect from the case. *Heb*. 2. 8. 5. The cause from the effect. *john* 6. 45. &c.
 
-2. *Elencticall*, […], in some controverted point, which is usually called a Use of *confutation*, for the refuting of such erroneous positions as do subvert the truth.
+2. *Elencticall*, πρὸς ἔλεγχον, in some controverted point, which is usually called a Use of *confutation*, for the refuting of such erroneous positions as do subvert the truth.
 
 Where it will be needlesse to raise up any old obsolete errors, as now lie dead and do not trouble the Church: but we should take notice only of such as being pertinent to the subject in hand, do most infect the present times and places wherein we live.
 
@@ -252,9 +252,9 @@ All which are further capable of many subordinate amplifications, by comparing o
 
 2. The *Directive* part, should mention the *impediments* that hinder, and such *means* or helps whereby we may be inabled to avoid and overcome any sinne. 'Tis not enough for the Physitian to inveigh against the malignity or danger of a disease, but his chief care must be, to direct unto the remedy and cure of it. And for this the prescriptions must be various, according to the severall kinds of offences. But this directive part is reducible also under the Use of Exhortation, only here is the difference, that in this place it does properly belong to *Disswasion*, in the other to *Perswasion*.
 
-2. […], or *Instruction in righteousnesse unto every good Work*, may include Consolation Exhortation.
+2. Παιδεία, or *Instruction in righteousnesse unto every good Work*, may include Consolation Exhortation.
 
-1. A Use of *Consolation* is, when we apply the comforts that arise from any doctrine unto the particular state and consciences of our hearers. This is one main end of the Scriptures, which were written for our learning, *that we through patience and comfort of the Scriptures might have* (Rom 15. 4) *hope*. And it should be the speciall care of a Minister, to attend […], unto Consolation, (as that word may signifie) like a wise Physitian[^23] to apply *Lenitives* and *Cordials*, where the condition of the Patient does require it, as well as *Corrosives* and *Purges*.
+1. A Use of *Consolation* is, when we apply the comforts that arise from any doctrine unto the particular state and consciences of our hearers. This is one main end of the Scriptures, which were written for our learning, *that we through patience and comfort of the Scriptures might have* (Rom 15. 4) *hope*. And it should be the speciall care of a Minister, to attend τῇ παρακλήσει, unto Consolation, (as that word may signifie) like a wise Physitian[^23] to apply *Lenitives* and *Cordials*, where the condition of the Patient does require it, as well as *Corrosives* and *Purges*.
 
 This Use may be amplified by these three heads. 1. By the promises that are made in Scripture. 2. By the experience of others. 3. By removing of such doubts and scruples, as an afflicted soul might suggest.
 
@@ -274,7 +274,7 @@ This Use hath two common heads of amplification, Motives, to perswade. Means, to
 
 These are the chief Uses to which Scripture may be applyed. They are frequently mentioned under more and different names, but they are all reducible to these heads: it is not necessary they should be all insisted upon in every Sermon, but only such of them as may be most *sutable* to the Text, and *seasonable* to the time and auditory.
 
-The *Conclusion* should consist of some such matter as may engage the hearers to a serious *remembrance* and *consideration* of the truths delivered, that they may revolve upon them, and be carefull to renew that impression, which has thereby been made upon their souls by conference and meditation. To which purpose, as the *milder affections*, […], do best sute with the *introduction*, which must insinuate into the love and attention of the hearers; so […], more *eager and vehement affections* will best become the *conclusion*, as supposing then that we have wonne the cause we did contend for, convinced and perswaded the auditory beyond all opposition.
+The *Conclusion* should consist of some such matter as may engage the hearers to a serious *remembrance* and *consideration* of the truths delivered, that they may revolve upon them, and be carefull to renew that impression, which has thereby been made upon their souls by conference and meditation. To which purpose, as the *milder affections*, τὰ ἤθη, do best sute with the *introduction*, which must insinuate into the love and attention of the hearers; so τὰ πάθη, more *eager and vehement affections* will best become the *conclusion*, as supposing then that we have wonne the cause we did contend for, convinced and perswaded the auditory beyond all opposition.
 
 And therefore here it will be proper to recapitulate some of the most effectuall arguments, which may leave the hearers moved and stirred up in their affections.
 
@@ -286,7 +286,7 @@ The next generall head to be insisted upon is, concerning the invention of *matt
 
 2. The pertinency of it to the text, or subject we are to treat of.
 
-The first of these must be left to the prudence of the Minister in distinguishing of times and emergencies, in applying himself to the severall conditions and necessities of his hearers; whether they are to be taught and instructed in some necessary *truth*, or to be *excited* unto some necessary *duty*; To which purpose he must consider, whether the generality of his hearers be either *ignorant* or *knowing*, whether *enemies* to Religion, or *professors* of it, whether meerly *formall*, or truly *pious*, whether more *chearfull* and zealous, or more *cold* and sluggish: According to which variety, his Doctrine and expressions must be variously suited. To use the same matter and manner in all auditories, is as if a Shoo-maker should make all his ware of an equall size for children and men, great and little, there being as much difference betwixt the inward gifts and necessities, as betwixt the outward statures. As in other invitations we carve that to the guests which is most suitable to their severall palats and appetites: So in these spirituall feasts, we should be carefull to fit our preparations unto the capacity and edification of the hearers. This is the meaning of the Holy Ghost, […], *rightly to divide the word of truth*, when like a faithfull *Steward* he does proportion his dispensations according to the exigencies of the *Family*, when like a wise *Physitian* he does fit his prescriptions according to the severall necessities of his *Patients*. This is to have *the tongue* (Luk 12. 42) *of the Learned, which knows how to speak a word in due season*.
+The first of these must be left to the prudence of the Minister in distinguishing of times and emergencies, in applying himself to the severall conditions and necessities of his hearers; whether they are to be taught and instructed in some necessary *truth*, or to be *excited* unto some necessary *duty*; To which purpose he must consider, whether the generality of his hearers be either *ignorant* or *knowing*, whether *enemies* to Religion, or *professors* of it, whether meerly *formall*, or truly *pious*, whether more *chearfull* and zealous, or more *cold* and sluggish: According to which variety, his Doctrine and expressions must be variously suited. To use the same matter and manner in all auditories, is as if a Shoo-maker should make all his ware of an equall size for children and men, great and little, there being as much difference betwixt the inward gifts and necessities, as betwixt the outward statures. As in other invitations we carve that to the guests which is most suitable to their severall palats and appetites: So in these spirituall feasts, we should be carefull to fit our preparations unto the capacity and edification of the hearers. This is the meaning of the Holy Ghost, ὀρθοτομοῦντα τὸν λόγον, *rightly to divide the word of truth*, when like a faithfull *Steward* he does proportion his dispensations according to the exigencies of the *Family*, when like a wise *Physitian* he does fit his prescriptions according to the severall necessities of his *Patients*. This is to have *the tongue* (Luk 12. 42) *of the Learned, which knows how to speak a word in due season*.
 
 2. The matter must be *pertinent and naturall* unto the subject we are to insist upon; for want of (Isay. 50. 4) skill in the invention of this, many men (especially young beginners) are very apt to complain of much drynesse and slownesse in their composures, and to take any hint of flying out into impertinent amplifications, not being able to inlarge themselves, and keep close to their Text.
 
@@ -298,7 +298,7 @@ By the first we must be prepared and directed, both in our judgments and affecti
 
 2. *Reading*. It was the Apostles advice to *Timothy*, 1 Tim. 4. 13. *Give attendance to reading*, And he sayes, that it is the study of the Scriptures, that must make *the man of God perfect, throughly furnished*, 2 Tim. 3. 17. If this were necessary in those Primitive times, when men were extraordinarily inspired with speciall gifts: much more now, when we cannot exspect any immediate infusion, but must apply our selves unto the naturall proper means of attaining any ability.
 
-3. *Meditation* and study, 1 Tim. 4. 15. *Meditate on these things*, give thy self wholly to them; […], *Be in them*, which phrase implies much intention and industry in our studies. *Demosthenes* would have such a one branded for a pernicious man to the Common-wealth, who durst propose any thing publikely which he had not before-hand seriously pondered. What impudence is it then in the great businesse of salvation, when a man appears before the Church, Angels, God himself, to discourse in a loose irreverent manner, so as to nauseat and flat the devotion, and attention of the hearers, to prostitute the esteem and authority of that sacred ordinance.[^28]
+3. *Meditation* and study, 1 Tim. 4. 15. *Meditate on these things*, give thy self wholly to them; ἐν τούτοις ἴσθι, *Be in them*, which phrase implies much intention and industry in our studies. *Demosthenes* would have such a one branded for a pernicious man to the Common-wealth, who durst propose any thing publikely which he had not before-hand seriously pondered. What impudence is it then in the great businesse of salvation, when a man appears before the Church, Angels, God himself, to discourse in a loose irreverent manner, so as to nauseat and flat the devotion, and attention of the hearers, to prostitute the esteem and authority of that sacred ordinance.[^28]
 
 Let such rash persons consider, *Qualis sit res ovile Christi, quam pulchra & Deo grata fit ovium Christi societ as, in cujus medio Dominus ille est, cui sol & luna famulantur, cui adsunt ministri ejus millia millium & decies centena millia; Quantae molis est regnum Christi erigere, & Satanae palatia demoliri, &c*.
 
@@ -519,7 +519,7 @@ Commentators upon the Books of Scripture are very numerous, and of various kinds
 - *Conrad. Pellicanus*.
 - *Piscator*.
 - *Eman. Sa*.
-- *Iacob. Tir[…]nus*.
+- *Iacob. Tirinus*.
 
 ### On the Pentateuch
 
@@ -645,12 +645,12 @@ Commentators upon the Books of Scripture are very numerous, and of various kinds
 - Tho. de Vio. Caietanus.
 - Chytraeus.
 - Io. Drusius.
-- Io. […]erus.
+- Io. Ferus.
 - Corn. à Lapide.
 - Ludo. Lavater.
 - *Jo. Mayer*.
 - * Pet. Martyr.
-- A[…]ias Montanus.
+- Arias Montanus.
 - Cosma. Magalianus.
 - Pellicanus.
 - *Rich. Rogers*.
@@ -869,7 +869,7 @@ Commentators upon the Books of Scripture are very numerous, and of various kinds
 - Io. de Pineda.
 - Fra. Sanchez.
 - Serrarius.
-- Tolle[…]arius.
+- Tollenarius.
 - Hugo de S. Victore.
 
 ### On the Canticles
@@ -1443,11 +1443,11 @@ Commentators upon the Books of Scripture are very numerous, and of various kinds
 
 - Alex. Alesius.
 - * Lud. Crocius.
-- * Claud. Espenc[…]us.
+- * Claud. Espencæus.
 - Cos. Magalianus.
 - Ad. Sasbout.
 - * Ab. Scultetus.
-- Lud. Soto-Majo[…].
+- Lud. Soto-Major.
 - ** Tho. Taylor*.
 
 ### To Philemon
@@ -1456,7 +1456,7 @@ Commentators upon the Books of Scripture are very numerous, and of various kinds
 - Brentius.
 - Danaeus.
 - ** Dan. Dyke*.
-- Fray. Fevardenti[…]
+- Fran. Fevardenti[…]
 - * Gomarus.
 - Phil. Pareus.
 - Ab. Scultetus.
@@ -1473,7 +1473,7 @@ Commentators upon the Books of Scripture are very numerous, and of various kinds
 - Fran. Ribera.
 - Sasbout.
 - Scultetus.
-- * Ludov. de Tena[…]
+- * Ludov. de Tena.
 
 ### On the 7 Canonicall Epistles
 
@@ -1598,15 +1598,15 @@ Amongst the later writers, some are eminent for their *Orthodox* sound judgments
 
 More especially our English Divines, whose abilities and genius's (when they apply themselves this way) do for the most part raise them up above the common pitch of other Writers. As may appear in the works of *Ainsworth, Ames, Baine, Byfeild, Brightman, Cartwright, Davenant, Mayer, Perkins, Sclater, Willet, &c*.
 
-Amongst the Popish Interpreters, some are more eminent for their subtilty and *rational learning* in the explaining of Scripture; such were generally those *Schoolmen* who have undertaken to comment upon it, as *Albertus M. Alexand. de Ales, Aquinas, Bonaventure, Cajetan, Carthusian, Daza, Estius, Mich-d[…] Palatio, Dominic. Soto, &c*.
+Amongst the Popish Interpreters, some are more eminent for their subtilty and *rational learning* in the explaining of Scripture; such were generally those *Schoolmen* who have undertaken to comment upon it, as *Albertus M. Alexand. de Ales, Aquinas, Bonaventure, Cajetan, Carthusian, Daza, Estius, Mich-de Palatio, Dominic. Soto, &c*.
 
 Others amongst them are eminent for *solid pious* matter, in practical things and points not controverted, as *Ferus, Iansenius, Brugensis*.
 
 Others of them are useful for their *various collections*, and observations out of former Writers, as many late Jesuits and others, as *Gorran, à Lapide, Lorinus, Maldonat, Masius, Mendoza, Pererius, Pineda, Ribera, Saimeron, Sanct. Serrarins, Tolet, &c*.
 
-Besides these Commentators upon the several *[…]ooks*, there are others that have commented upon particular parcels and *texts* of Scripture. Of which kinde the Homilies of the ancient Fathers are the first and most eminent, as those of *Augustine, Bernard, Chrysostome, Chrysologus, Gregory, &c*.
+Besides these Commentators upon the several *Books*, there are others that have commented upon particular parcels and *texts* of Scripture. Of which kinde the Homilies of the ancient Fathers are the first and most eminent, as those of *Augustine, Bernard, Chrysostome, Chrysologus, Gregory, &c*.
 
-As for the common *Postillers* they are for the most part rejected by our gravest most judicious Divines, as being generally uselesse and empty. But there are some amongst them of better esteem, as Protestants. Papists. Dr. *Boys*. *Besseus*. *Dietericus*. *Coppe[…]stenius*. *Iac. Laurentius*. *Fonseca*. *Stumphius*. *Gal. Inchino*. *Zepperus*. *Labata*. *Mussus*.
+As for the common *Postillers* they are for the most part rejected by our gravest most judicious Divines, as being generally uselesse and empty. But there are some amongst them of better esteem, as Protestants. Papists. Dr. *Boys*. *Besseus*. *Dietericus*. *Copperstenius*. *Iac. Laurentius*. *Fonseca*. *Stumphius*. *Gal. Inchino*. *Zepperus*. *Labata*. *Mussus*.
 
 To which may be added those discourses of this kinde upon occasional subjects. As,
 
@@ -1618,7 +1618,7 @@ To which may be added those discourses of this kinde upon occasional subjects. A
 >
 > *Io. Geminiani Conciones funebres*.
 >
-> A collection of English Funeral Sermons, stiled, […].
+> A collection of English Funeral Sermons, stiled, Θρηνοικος.
 
 'Tis the common opinion that amongst all such kinde of works, our English Sermons and Treatises[^35] are most elaborate and useful. It was the judgment of a very learned man, *That if the choyce and best observations, which have been made dispersedly in our English Sermons (leaving out the largenesse of exhortations and applications thereupon) had been set down in a continuance, it would be the best work in Divinity that has been written since the Apostles times*.
 
@@ -1630,7 +1630,7 @@ Thus much concerning the two first kinds of Books that tend to make a man a good
 
 Those are called *Reconcilers*, which do purposely insist upon the unfolding and reconciling of such Scriptures, as seem opposite to one another: of which kind are,
 
-- Althameri Conciliatio locorum pugnanti[…]m.
+- Althameri Conciliatio locorum pugnantium.
 - Alba in difficilioraloca.
 - Augustinus.
 - Gerardi Bergomensis. Conciliatio. V. T. cum. N.
@@ -1647,7 +1647,7 @@ Those are called *Reconcilers*, which do purposely insist upon the unfolding and
 
 In which Authors a man may justly expect to find the great difficulties of Scripture more exactly discussed and unfolded then in other Commentators.
 
-To these may be added […]uch *Criticall* discourses as do make more particular enquiry after those difficult Texts that are dispersed in severall parts of Scripture. Such are *Arnoldi Bootii Annotationes Sacrae*. *Angeli Caninii disquisitiones*. *Fulleri Miscellanea*. *Mr. Gregories* Observations upon some passages of Scripture. Mr. *Medes* Diatribe.
+To these may be added such *Criticall* discourses as do make more particular enquiry after those difficult Texts that are dispersed in severall parts of Scripture. Such are *Arnoldi Bootii Annotationes Sacrae*. *Angeli Caninii disquisitiones*. *Fulleri Miscellanea*. *Mr. Gregories* Observations upon some passages of Scripture. Mr. *Medes* Diatribe.
 
 These are the severall kinds of Treatises that do more immediately tend to the explaining of Scripture, and to make a man a good *textuary*.
 
@@ -1703,7 +1703,7 @@ Besides these Treatises of *positive* divinity there are some other Writers that
 - Barth. Riccius.
 - Jo. Rusbrochius.
 - Fran. Sales.
-- Ioh. Thaule[…]us.
+- Ioh. Thaulerus.
 - Wigelius.
 
 3. The study of *Casuists* may be very usefull for a Preacher in respect of practicall divinity. Amongst them, these are some of the most eminent.
@@ -1712,16 +1712,16 @@ Besides these Treatises of *positive* divinity there are some other Writers that
 - *Guil Amesius*.
 - *Ir. Azorius*.
 - *Frid. Baldvinus*
-- *Mart. Bona[…]ina*.
+- *Mart. Bonacina*.
 - *Lud. Candidus*.
 - BP Hall.
-- *Diana P[…]normitana*
+- *Diana Panormitana*
 - *Vincent. Filliucius*.
 - *Barth. Keckerman*.
 - Will. Perkins.
 - *Raynerus de Pisis*.
 - *Tho. Sanchez*.
-- *Greg. Sayru[…]*.
+- *Greg. Sayrus*.
 - *Silvester*.
 - *Fran. Toll[…]*.
 
@@ -1755,7 +1755,7 @@ Unto these may be subjoyned those Authors which have treated particularly of the
 - *Tho. Adams*.
 - Hen. Alsted.
 - Aquinas.
-- Augustin[…]s.
+- Augustinus.
 - *Babington*.
 - *N. Bifeild*.
 - Calvinus.
@@ -1821,9 +1821,9 @@ The second book of the Sentences does treat of the Creatures, Angels, Men, Origi
 
 The third book does speak of Christ his Incarnation, Passion, Merits, of Faith, Hope, Charity, and other graces; upon this there is Pet. de Alliaco. Io. de Rada.
 
-The fourth book does insist upon the Sacraments, Resurrection, Judgment, and state after this life. Upon this there is Adrianus. Ricardus de Media villa. Dom. […] Soto.
+The fourth book does insist upon the Sacraments, Resurrection, Judgment, and state after this life. Upon this there is Adrianus. Ricardus de Media villa. Dom. à Soto.
 
-As these books of Sentences, so the Summes of *Aquinas* are likewise made choise of by the Schoolmen as another text upon which to inlarge themselves. These are Commented upon by Rod. de Arriaga. Dominicu[…] Bannez. Fran. Cumel. Tho. à vio Cajetanus. Fran. de Lugo in primam partem. Did. Ruiz. Fran. Suarez. Greg. de Valentia. Gab. Vasquez.
+As these books of Sentences, so the Summes of *Aquinas* are likewise made choise of by the Schoolmen as another text upon which to inlarge themselves. These are Commented upon by Rod. de Arriaga. Dominicus Bannez. Fran. Cumel. Tho. à vio Cajetanus. Fran. de Lugo in primam partem. Did. Ruiz. Fran. Suarez. Greg. de Valentia. Gab. Vasquez.
 
 Particular Controversies about Discipline, are of three sorts; those that concern 1. Episcopacy. 2. Presbytery. 3. Independency.
 
@@ -1831,7 +1831,7 @@ Particular Controversies about Discipline, are of three sorts; those that concer
 
 Concerning *Presbytery*.
 
-Pro. Con. *Apollonius*. The forecited Discourses that are for Episcopacy. *Gersom Buceri Amica Collatio cum* Georg. Downham. *Issachars* Burden. The divine right of Church-government, by the *London* Ministers. A Declaration concerning Church government and Presbyteries. Mr. *Bailies* Vindication. Dr. *Bramhill* Warning against the *Scots* discipline. Answer to Dr. *Bramhill*. Mr. *Pagets* defence of Church-government Mr. *Rutherford*. Answer to the Reasons of the dissenting Brethren. The Reasons of the dissenting Brethren. *Salmasius de Apparatu ad Primatum Papae*. *Saravia de gradibus ministrorum*. *Gellius Snecanus*. *Grallae ab Anonymo*. Mr. *Gillis[…]y* Assertion of government in *Scotland*. *Matth. Sutliv. de Presbyterio*.
+Pro. Con. *Apollonius*. The forecited Discourses that are for Episcopacy. *Gersom Buceri Amica Collatio cum* Georg. Downham. *Issachars* Burden. The divine right of Church-government, by the *London* Ministers. A Declaration concerning Church government and Presbyteries. Mr. *Bailies* Vindication. Dr. *Bramhill* Warning against the *Scots* discipline. Answer to Dr. *Bramhill*. Mr. *Pagets* defence of Church-government Mr. *Rutherford*. Answer to the Reasons of the dissenting Brethren. The Reasons of the dissenting Brethren. *Salmasius de Apparatu ad Primatum Papae*. *Saravia de gradibus ministrorum*. *Gellius Snecanus*. *Grallae ab Anonymo*. Mr. *Gillispy* Assertion of government in *Scotland*. *Matth. Sutliv. de Presbyterio*.
 
 The debate concerning *Independency* is but of late years, and hath scarce been treated of in any of the learned Languages. There are these Authors For it. Against it. Amongst the Brownists, *Ainsworth, Cann. Robbinson*, in several parts of their Writings. M. *Ball*, Tryall of the grounds tending to separation. *Apollonius*. Apologeticall Narration. *Spanhemius*. *Vindiciae Clavium*. Mr. *Cottons* Keyes of the Church. M. *Edwards* Reasons: Antapology. M. *Baylies* Disswasive. The way of the Churches in N. *England*. Dt. *Stewards* Considerations. Duply. Mr. *Ioh. Goodwins* answer to the Antapology. M. *Hudson*, concerning the essence and unity of the Catholique Church. M. *Mathers* and M. *Tomsons* Answer to M. *Hearl*. M. *Hearl*. The independency on Scriptures of the independency of Churches. M. *Wells*, his Answer to M. *Rathband*. The 32 Questions. M. *Rathbands* relation of Church courses in N. *Eng*.
 
@@ -2204,7 +2204,7 @@ Nic. Byfeild, *Directions for private reading of the Scripture*.
 
 Jo. White. *The way too the tree of life, in sundry directions for our profitable reading of the Scriptures*.
 
-*A*. Things to be known and believed concerning God, in Himselfe Essence set forth in his Name, *Exod*. 3. 14. Attribiutes. First Incommunicable Simplenesse, 1 *John* 1. 5. Infinite nesse. Immensity, 1 *Kings* 8. 27. AEternity. 1 *Tim*. 1. 17. Communicable Love, Mercy, *Exod* 34. 6. Wisdome, Power, *&c*. *[…]ob* 36. 9. Arising from the first. Perfection. Glory. Blessednesse. Persons Father, Sonne, Holy Ghost, *Matth*. 28. 19. 1 *John* 5. 7. His actions and works *Immanent*, His generall coun[…]ell and decree concerning all things, *Ephes*. 1. 11. Partic. of reas. creat. Praedest. Election, *Rom*. 9. 23. Reprobation 2 *Tim*. 2. 20. *Transient*, vid. B.
+*A*. Things to be known and believed concerning God, in Himselfe Essence set forth in his Name, *Exod*. 3. 14. Attribiutes. First Incommunicable Simplenesse, 1 *John* 1. 5. Infinite nesse. Immensity, 1 *Kings* 8. 27. AEternity. 1 *Tim*. 1. 17. Communicable Love, Mercy, *Exod* 34. 6. Wisdome, Power, *&c*. *Iob* 36. 9. Arising from the first. Perfection. Glory. Blessednesse. Persons Father, Sonne, Holy Ghost, *Matth*. 28. 19. 1 *John* 5. 7. His actions and works *Immanent*, His generall counsell and decree concerning all things, *Ephes*. 1. 11. Partic. of reas. creat. Praedest. Election, *Rom*. 9. 23. Reprobation 2 *Tim*. 2. 20. *Transient*, vid. B.
 
 ##### God
 
@@ -2266,7 +2266,7 @@ Jo. Ailward.
 
 Jo. Veron. *Apology for Predestination*.
 
-*B*. The *Transient* workes of God do refer either to. *Nature* Creation generall things AEthereall, *Gen*. 1.1. Elementary, *Gen*. 1.1. particular Angels, *Coloss*. 1. 16. Men, *Gen*. 2. 7. Providence Common, in the order of Nature, *Psal*. 135. 6. Speciall in the guidance of humane affaires. Small and Great, *Mat*. 10. 29. Casuall and Neces. *Pro*. 16. 33. Evill and Good, *Amos*. […]. 6. *Grace* contriving our redemption by Christ, who in thatwork may be considered according to his *Offices* Regall, *Psal*. 110. 1. *Isa*. 9 6. Priestly, *Heb*. 5. 1. & 9. 24 Prophetical, *Isa*. 61 1. *States* Humiliation. Nativity, *Luk*. 2. 11. Incarnation, 2 *Tim*. 3. 16 Passion, 1 *Pet*. 3. 18. Exaltation. Resurrection *Act*. 2. 24 Ascension, *Eph*. 4. 8. Session, 1 *Pet*. 3. 22.
+*B*. The *Transient* workes of God do refer either to. *Nature* Creation generall things AEthereall, *Gen*. 1.1. Elementary, *Gen*. 1.1. particular Angels, *Coloss*. 1. 16. Men, *Gen*. 2. 7. Providence Common, in the order of Nature, *Psal*. 135. 6. Speciall in the guidance of humane affaires. Small and Great, *Mat*. 10. 29. Casuall and Neces. *Pro*. 16. 33. Evill and Good, *Amos*. 3. 6. *Grace* contriving our redemption by Christ, who in thatwork may be considered according to his *Offices* Regall, *Psal*. 110. 1. *Isa*. 9 6. Priestly, *Heb*. 5. 1. & 9. 24 Prophetical, *Isa*. 61 1. *States* Humiliation. Nativity, *Luk*. 2. 11. Incarnation, 2 *Tim*. 3. 16 Passion, 1 *Pet*. 3. 18. Exaltation. Resurrection *Act*. 2. 24 Ascension, *Eph*. 4. 8. Session, 1 *Pet*. 3. 22.
 
 ##### Creation
 
@@ -2360,7 +2360,7 @@ Sam: Hieron. *Useful meditations on mortality, on* Phil: 1, 2, 3.
 
 Will: Cowper, *Defiance to death*.
 
-*Divers Funeral Sermons collected into one Volume stiled* […].
+*Divers Funeral Sermons collected into one Volume stiled* Θρηνοικος.
 
 M. Byfeild, *Cure of the fear of death*.
 
@@ -2470,7 +2470,7 @@ Dr Gouge, 3. *Arrows*.
 
 Tho: Beard, *Theater of Gods judgments*.
 
-*E*. In our *restauration* there is considerable The Covenant of Grace, *Gen* 3. 15. *Gal*. 3. 2. 1. *Vocation* into foederal Communion, the administrations whereof have been various under The old Testament, Which enjoyns some things peculiar to the jews, as A Church, the *Ceremonial*; A Nation, the *Judicial* Law. Wherein the Doctrine of the Gospel is Offered more obscurely, *Heb*. 1. 1. & 10. 1. Sealed Ordinarily in the Sacrifices, *Heb*. 9. 9. Sacraments Circumcision, *Gen*. 17. 10. Passeover, *Exod*. 12[…]. Extraordinarily invarious Types, 1 *Pet*. […]. 20. 1 *Cor*. 10. 1. The New Test. Teaching more plainly, *Heb*. 1. 2. *Rom*. 16. 25, 26. Sealing in the Sacraments of Baptisme, *John* 3. 5. The Supper, 1 *Cor*. 11. *Justification*, Vide *F. Sanctification*, Vide *G*.
+*E*. In our *restauration* there is considerable The Covenant of Grace, *Gen* 3. 15. *Gal*. 3. 2. 1. *Vocation* into foederal Communion, the administrations whereof have been various under The old Testament, Which enjoyns some things peculiar to the jews, as A Church, the *Ceremonial*; A Nation, the *Judicial* Law. Wherein the Doctrine of the Gospel is Offered more obscurely, *Heb*. 1. 1. & 10. 1. Sealed Ordinarily in the Sacrifices, *Heb*. 9. 9. Sacraments Circumcision, *Gen*. 17. 10. Passeover, *Exod*. 12[…]. Extraordinarily invarious Types, 1 *Pet*. 3. 20. 1 *Cor*. 10. 1. The New Test. Teaching more plainly, *Heb*. 1. 2. *Rom*. 16. 25, 26. Sealing in the Sacraments of Baptisme, *John* 3. 5. The Supper, 1 *Cor*. 11. *Justification*, Vide *F. Sanctification*, Vide *G*.
 
 ##### The Covenant of Grace
 
@@ -2620,7 +2620,7 @@ D. Hammond.
 
 M. Wheatleys *New birth*.
 
-B[…]. Cowpers *Anatomy of a Christian*.
+Bp. Cowpers *Anatomy of a Christian*.
 
 Sam. Hieron, *old and new man: on* John 3. 6.
 
@@ -2766,7 +2766,7 @@ Joseph Beutham: *The society of the Saints*.
 
 Sam. Torshell.
 
-*K*. The first Commandement does Prohibit, Atheisme, *Heb*. 11. 6. Poluthe[…]sme, *Deut*. 6. 4. Heresie, *Tit*. 3. 10, 11. A postacy, *Heb*. 10. 26. Errors, *James* 1. 16. Injoyn Knowledge, *John* 17. 3. Remembrance, *Eccles*. 12 1: Love, *Deut*. 6. 5. Trust, *Prov*. 3. 5. Hope, *Psal*. 146. 5. Fear, *Isa*. 51. 12, 13. Gratitude, 1 *Thess*. 5. 18. Humility, *Mic*. 6. 8. Patience, *Lam*. 3. 39. Obedience, 1 *John* 5. 3.
+*K*. The first Commandement does Prohibit, Atheisme, *Heb*. 11. 6. Polutheisme, *Deut*. 6. 4. Heresie, *Tit*. 3. 10, 11. A postacy, *Heb*. 10. 26. Errors, *James* 1. 16. Injoyn Knowledge, *John* 17. 3. Remembrance, *Eccles*. 12 1: Love, *Deut*. 6. 5. Trust, *Prov*. 3. 5. Hope, *Psal*. 146. 5. Fear, *Isa*. 51. 12, 13. Gratitude, 1 *Thess*. 5. 18. Humility, *Mic*. 6. 8. Patience, *Lam*. 3. 39. Obedience, 1 *John* 5. 3.
 
 ##### Of the Moral Law in generall
 
@@ -2936,7 +2936,7 @@ M. Mason, *of the* *Christian* *fast*, *Epicures*
 
 *N*. The 4th Commandement concerning the set time of worship, its Institution, *Gen*. 2. 3. Observance, *Isa*. 58. 13 Change, *Rev*. 1. 10.
 
-*O*. The 5th Command. concerning the duties of se[…]erall relations Magistrates, 1 *Tim*. 3. 2. Subjects, *Rom*. 13. 1. Ministers, 1 *Pet*. 5. 2. People, *Heb*: 13. 17. Parents, *Ephes*. 6. 4. Children, *Ephes*: 6 1. Masters, *Coloss*. 4. 1. Servants, 1 *Pet*: 2. 18. Husband, *Ephes*. 5. 25. Wife, *Ephes*: 5. 24, 33. Noble and rich, 1 *Tim*. 6. 17. Poor, 1 *Sam*: 25. 8. Aged, *Tit*. 2. 2, 4. Young, *Levit*, 19. 32.
+*O*. The 5th Command. concerning the duties of severall relations Magistrates, 1 *Tim*. 3. 2. Subjects, *Rom*. 13. 1. Ministers, 1 *Pet*. 5. 2. People, *Heb*: 13. 17. Parents, *Ephes*. 6. 4. Children, *Ephes*: 6 1. Masters, *Coloss*. 4. 1. Servants, 1 *Pet*: 2. 18. Husband, *Ephes*. 5. 25. Wife, *Ephes*: 5. 24, 33. Noble and rich, 1 *Tim*. 6. 17. Poor, 1 *Sam*: 25. 8. Aged, *Tit*. 2. 2, 4. Young, *Levit*, 19. 32.
 
 ##### Of Oaths and Perjury
 
@@ -3025,7 +3025,7 @@ Jo: Downham, *Treatise against Anger*.
 
 M. Sym. *Lifes preservative*.
 
-Dr Donne, […].
+Dr Donne, Βιαθάνατος.
 
 ##### Scandall
 
@@ -3079,7 +3079,7 @@ Aquinas 2. 2dae.
 
 Junius, *The drunkards character*.
 
-M. Harris, *The drunkards c[…]p, on* I say 5. 11.
+M. Harris, *The drunkards cup, on* I say 5. 11.
 
 Jo: Down: *against drunkennesse*.
 
@@ -3091,7 +3091,7 @@ Peter Martyr, *de caelibatu contra* Richardum Smith. *Angl*.
 
 Jo: Down.
 
-*R*. The 8th Commandmét concerning our own, and our neighbours goods, does *Prohibit* Theft, *Levit*. 19. 13. Oppression, *Prov*. 14 31. Deceit, 1 *Thess*. 4. 6. Sacriledge, *Prov*. 20. 25. Usury, *De[…]t*. 23. 20. Bribery, *Prov*. 29. 4. Prodigality, *Luke* 15. 13. *Injoyn* Just dealing, *levit*. 25. 14. Diligence in our callings, *Eph*. 4. 28. Frugality, *John* 6. 12. Liberality, *Prov*. 11. 25. Almes, *Luke* 12. 33. Hospitality, 1 *Pet*. 4 9. Restitution, *Exo*. 22. 5. *Lev*. 6. 4. 5.
+*R*. The 8th Commandmét concerning our own, and our neighbours goods, does *Prohibit* Theft, *Levit*. 19. 13. Oppression, *Prov*. 14 31. Deceit, 1 *Thess*. 4. 6. Sacriledge, *Prov*. 20. 25. Usury, *Deut*. 23. 20. Bribery, *Prov*. 29. 4. Prodigality, *Luke* 15. 13. *Injoyn* Just dealing, *levit*. 25. 14. Diligence in our callings, *Eph*. 4. 28. Frugality, *John* 6. 12. Liberality, *Prov*. 11. 25. Almes, *Luke* 12. 33. Hospitality, 1 *Pet*. 4 9. Restitution, *Exo*. 22. 5. *Lev*. 6. 4. 5.
 
 ##### Of Sacriledge and Tythes
 
@@ -3231,7 +3231,7 @@ Tho: Goodwin: *Vanity of Thoughts*.
 
 M. Perkins: *Treatise of mans imaginations*.
 
-M. Cotton. *The Christians charge: […]n* Prov. 24. 3
+M. Cotton. *The Christians charge: on* Prov. 24. 3
 
 - Will. Fenner.
 - *The use and benefit of divine meditations*.
@@ -3247,7 +3247,7 @@ Hen. Mason.
 
 M. Burroughes.
 
-*V*. The *Gospel*, (asiti distinguished from the *Law*, which was the condition of the first Covenant) does require *Faith*, which is, Historicall, *James* 2. 19. Salvificall. […]; And here of Desertions, *Ps*. 51. 12. *Job* 6. 4. […], 2 *Pet*. 1. 10. *Repentance* The parts Search into sinne, *Lam*. 3. 40. Godly sorrow, 2 *Cor*. 7. 10. Confession, *Prov*. 28. 13. Reformation, *Isay* 1. 16, 17. Thetime, Late repentance, 2 *Thess*. 2. 10, 11.
+*V*. The *Gospel*, (asiti distinguished from the *Law*, which was the condition of the first Covenant) does require *Faith*, which is, Historicall, *James* 2. 19. Salvificall. ὀλιγοπιστία; And here of Desertions, *Ps*. 51. 12. *Job* 6. 4. πληροφορία, 2 *Pet*. 1. 10. *Repentance* The parts Search into sinne, *Lam*. 3. 40. Godly sorrow, 2 *Cor*. 7. 10. Confession, *Prov*. 28. 13. Reformation, *Isay* 1. 16, 17. Thetime, Late repentance, 2 *Thess*. 2. 10, 11.
 
 ##### Of Faith
 
@@ -3355,17 +3355,17 @@ The third and last to be insisted upon is concerning *Expression*; In which ther
 
 The *phrase* should be plain, full, wholesome, affectionate.
 
-1. It must be *plain* and naturall, not being darkened with the affectation of *Scholastic all* harshnesse, or *Rhetoricall* fluorishes. Obscurity in the discourse is an argument of ignorance in the minde. The greatest learning is to b[…] seen in the greatest plainnesse. The more clearly we understand any thing our selves, the more easily can we expound it to others. When the notion it self is good, the best way to set it off, is in the most obvious plain expression. S. *Paul* does often glory in this, that his preaching was *not in wisedome of words, or excellency of speech; not with*[^41] *inticing word: of mans wisdome, not as pleasing men, but God, who tryeth the heart*. A Minister should speak *as the oracles of God*, 1 *Pet*. 4. 11. And it will not become the Majesty of a Divine Embassage,[^42] to be garnished out with flaunting affected eloquence. How unsuitable is it to the expectation of a hungry soul, who comes unto this ordinance with a desire of spirituall comfort and instruction, and there to hear only a starched speech full of puerile worded Rhetorick? How properly may such a deceived hearer take up that of *Seneca? Quid mihi lusoria ista proponis? Non*[^43] *est jocandi locus, ad miseros vocatus es, op[…]m te laturum naufragis, captis, aegris, intentae securi subjectum pr[…]stantibus caput, quo diverteris? quid agis*? 'Tis a sign of low thoughts and designes, when a mans chief study is about the polishing of his phrase and words. *Cujuscunque orationem vides*[^44] *politam & sollicitam, scito animum in pusillis occupatum*. Such a one speaks only from his mouth, and not from his *heart*.
+1. It must be *plain* and naturall, not being darkened with the affectation of *Scholastic all* harshnesse, or *Rhetoricall* fluorishes. Obscurity in the discourse is an argument of ignorance in the minde. The greatest learning is to be seen in the greatest plainnesse. The more clearly we understand any thing our selves, the more easily can we expound it to others. When the notion it self is good, the best way to set it off, is in the most obvious plain expression. S. *Paul* does often glory in this, that his preaching was *not in wisedome of words, or excellency of speech; not with*[^41] *inticing word: of mans wisdome, not as pleasing men, but God, who tryeth the heart*. A Minister should speak *as the oracles of God*, 1 *Pet*. 4. 11. And it will not become the Majesty of a Divine Embassage,[^42] to be garnished out with flaunting affected eloquence. How unsuitable is it to the expectation of a hungry soul, who comes unto this ordinance with a desire of spirituall comfort and instruction, and there to hear only a starched speech full of puerile worded Rhetorick? How properly may such a deceived hearer take up that of *Seneca? Quid mihi lusoria ista proponis? Non*[^43] *est jocandi locus, ad miseros vocatus es, opem te laturum naufragis, captis, aegris, intentae securi subjectum præstantibus caput, quo diverteris? quid agis*? 'Tis a sign of low thoughts and designes, when a mans chief study is about the polishing of his phrase and words. *Cujuscunque orationem vides*[^44] *politam & sollicitam, scito animum in pusillis occupatum*. Such a one speaks only from his mouth, and not from his *heart*.
 
 2. It must be *full*, without empty and needlesse Tautologies, which are to be avoided in every *solid* businesse, much more in *sacred*. Our expressions should be so *close*, that they may not be *obscure*, and so *plain*, that they may not seem vain and *tedious*. To deliver things in a crude confused manner, without digesting of them by previous meditation, will nauseate the hearers, and is as improper for the edification of the minde, as raw meat is for the nourishment of the body.
 
 3. It must be sound and *wholesome*, not tainted with any *erroneous* corrupt doctrine, or the affectation[^45] of *novelty*. False opinions do many times insinuate themselves by the use of suspicious phrases. And 'tis a dangerous fault, when men cannot content themselves with *the wholesome forme of sound words*, but do altogether affect new light (1 Tim. 6, 20) and new language, which may in time destroy practicall Godlinesse and the power of Religion.
 
-[…].
+κενοφωνίας.
 
-4. It must be *affectionate* and cordiall, as proceeding from the heart, and an experimentall acquaintance with those truths which we deliver. *Quod procedit è corde redit in cor*: 'Tis a hard matter to affect others, with what we are not first affected our selves. *Praecipuum ad persuadendum est amare quod suades, Amanti pectus ipsum suggerit orationis ardorem*. 'Tis said of *Iohn* the Baptist, that *he was a burning and a shining light. Ardere prius est, Lucere posterius; Ardor mentis est, […]ux doctrinae*. This is to speak in the *evidence and demonstration of the spirit and of power*. There is a common relation to this purpose, of divers learned men, who having a great while, with much argument and strength of reason, contended with another about perswading him to be baptized, he being learned also, could still evade all their arguments. At length a grave pious man amongst them, of no note for learning, stands up and bespeaks him with some downright affectionate expressions, which wrought so effectually upon the other, that he presently submitted; yeelding this reason, *Donec audiebam rationes humanas, humanis rationibus repugnabam; caeterum simul atque audivi Spiritum loquentem, cessi Spiritui*. And 'tis storied of *Iunius*, before his conversion, that meeting once with a Country-man as he was in a journey, and falling into discourse with him about divers points of Religion, he observed the plain fellow to talk so experimentally, with so much heartinesse and affection, as made him first begin to think, that sure there was something more in those truths, then his notionall humane learning had yet discovered: which occasioned his more serious inquiry into them, and afterwards his conversion. Such great power is there in these cordiall expressions.
+4. It must be *affectionate* and cordiall, as proceeding from the heart, and an experimentall acquaintance with those truths which we deliver. *Quod procedit è corde redit in cor*: 'Tis a hard matter to affect others, with what we are not first affected our selves. *Praecipuum ad persuadendum est amare quod suades, Amanti pectus ipsum suggerit orationis ardorem*. 'Tis said of *Iohn* the Baptist, that *he was a burning and a shining light. Ardere prius est, Lucere posterius; Ardor mentis est, lux doctrinae*. This is to speak in the *evidence and demonstration of the spirit and of power*. There is a common relation to this purpose, of divers learned men, who having a great while, with much argument and strength of reason, contended with another about perswading him to be baptized, he being learned also, could still evade all their arguments. At length a grave pious man amongst them, of no note for learning, stands up and bespeaks him with some downright affectionate expressions, which wrought so effectually upon the other, that he presently submitted; yeelding this reason, *Donec audiebam rationes humanas, humanis rationibus repugnabam; caeterum simul atque audivi Spiritum loquentem, cessi Spiritui*. And 'tis storied of *Iunius*, before his conversion, that meeting once with a Country-man as he was in a journey, and falling into discourse with him about divers points of Religion, he observed the plain fellow to talk so experimentally, with so much heartinesse and affection, as made him first begin to think, that sure there was something more in those truths, then his notionall humane learning had yet discovered: which occasioned his more serious inquiry into them, and afterwards his conversion. Such great power is there in these cordiall expressions.
 
-As for the manner of composing Sermons, it will not be convenient for one that is a constant Preacher, to pen all his discourses, or to tye himself unto phrases: When we have the matter and notion well digested, the expressions of it will easily follow. Whereas to be confined unto particular words, besides the great oppression of the memory, will likewise much prejudice the operations of the understanding and affections. The *judgment* will b[…] much weakned, and the *affections* dulled, when the *memory* is overmuch burdened and vexed. A man cannot ordinarily be so much affected himself, (and consequently he cannot so easily affect others) with things that he speaks by rote; as when he takes some liberty to prosecute a matter according to his more *immediate apprehensions* of it, by which many particulars may be suggested, that were not before thought of, when he doth expatiate upon any subject, according to the workings of his owne affections, and the various alterations that may appear in the auditory. And then besides, this liberty will breed a […], such a fitting confidence, as should be in that orator, who is to have a power over the affections of others, which such a one is scarce capable of, who shall so servilely tye himself to particular words and expressions, from which he dares not vary for fear of being out.
+As for the manner of composing Sermons, it will not be convenient for one that is a constant Preacher, to pen all his discourses, or to tye himself unto phrases: When we have the matter and notion well digested, the expressions of it will easily follow. Whereas to be confined unto particular words, besides the great oppression of the memory, will likewise much prejudice the operations of the understanding and affections. The *judgment* will be much weakned, and the *affections* dulled, when the *memory* is overmuch burdened and vexed. A man cannot ordinarily be so much affected himself, (and consequently he cannot so easily affect others) with things that he speaks by rote; as when he takes some liberty to prosecute a matter according to his more *immediate apprehensions* of it, by which many particulars may be suggested, that were not before thought of, when he doth expatiate upon any subject, according to the workings of his owne affections, and the various alterations that may appear in the auditory. And then besides, this liberty will breed a παῤῥησία, such a fitting confidence, as should be in that orator, who is to have a power over the affections of others, which such a one is scarce capable of, who shall so servilely tye himself to particular words and expressions, from which he dares not vary for fear of being out.
 
 But a man cannot expect a *good habit* of preaching thus, without much study and experience. Young beginners should use themselves to a more exact and elaborate way, when a good stile and expression is first learned by penning, it will afterwards be more easily retained in discoursing.
 
@@ -3373,7 +3373,7 @@ In the elocution there are two extremities to be avoided: too much Boldnesse. Fe
 
 1. Against too much *rashnesse and boldnesse*, consider the speciall presence of God, and Angels, the solemne dignity of those sacred mysteries with which we are intrusted, the weighty businesse of saving souls. And *who can be sufficient for these* (2 Cor. 2. 16) *things*? It was a usuall saying of *Luther, Et si jam senex, & in concionando exercitus sum, tamen timeo quoties suggestum conscendo*. And he found by experience, that when he was most distrustfull of his own preparations, then were his labours accompanied with some speciall blessing and efficacy. And on the other side, when hee was most confident, then he failed most.
 
-2. Against too much *fear*, Consider, it does not become the *businesse* we are about, we should *speake the word with boldnesse*, God has promised his assistance, *that his strength shall* (Acts 4. 29) *appear in our weaknesse*, It does not become the *dignity* or excellency of our calling, we are the *Angels*, the *Ambassadors* of God, […], his (1 Cor. 3. 9) *fellow-workers*, And besides, this timerousnesse in the speaker will much hinder the efficacy and power of the word on the hearers. In brief, the most propermanner of eloquution is with modesty and gravity, which will best sute with our calling and businesse.
+2. Against too much *fear*, Consider, it does not become the *businesse* we are about, we should *speake the word with boldnesse*, God has promised his assistance, *that his strength shall* (Acts 4. 29) *appear in our weaknesse*, It does not become the *dignity* or excellency of our calling, we are the *Angels*, the *Ambassadors* of God, συνεργοὶ, his (1 Cor. 3. 9) *fellow-workers*, And besides, this timerousnesse in the speaker will much hinder the efficacy and power of the word on the hearers. In brief, the most propermanner of eloquution is with modesty and gravity, which will best sute with our calling and businesse.
 
 To conclude. The observation of these helps and directions, together with frequent diligent practise, will as farre (as Art can effect) quickly produce a good habit, and by consequence a facility.
 
@@ -3419,7 +3419,7 @@ To conclude. The observation of these helps and directions, together with freque
 
 [^21]: 64.
 
-[^22]: *Lud. de Tena Isag*. See *Ludca[…]elli Historia Apostol*.
+[^22]: *Lud. de Tena Isag*. See *Ludcapelli Historia Apostol*.
 
 [^23]: Isa. 40. 1. 1 Tim. 4. 13.
 

@@ -45,7 +45,7 @@ When we are careless in the performing of our publike duties, not with so much r
 
 When we are negligent in looking to those that are under us, who by our carelesness or connivance, may be incouraged to the Prophanation of this day.
 
-When we faile in those private duties th[…] concern the Sanctification of the Sabbath, Meditation of the Word we hear, Searching the Scriptures, to prove the truth of it, Application of it to our selves, examining our own hearts, private prayer, conference, whetting the Law upon one another, mutually exhorting and stirring up each other unto holy duties, contemplating the *creatures* and the *Providence* of God.[^2]
+When we faile in those private duties that concern the Sanctification of the Sabbath, Meditation of the Word we hear, Searching the Scriptures, to prove the truth of it, Application of it to our selves, examining our own hearts, private prayer, conference, whetting the Law upon one another, mutually exhorting and stirring up each other unto holy duties, contemplating the *creatures* and the *Providence* of God.[^2]
 
 When we are weary of the Sabbath, and *wish it were gone*,[^3] and cannot *call it a delight*.
 

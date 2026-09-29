@@ -35,13 +35,13 @@ tags:
 
 (*Jam. 2.20*) *That he would work in us such a* lively faith, *as may make us rich in good works, that we may demean our selves*, as becomes our professed subjection to the Gospel of Christ; walking worthy of that vocation wherewith we are called,[^3] *as becomes* children of the light:[^4] *Being* holy in all manner of conversation: Putting on the Lord Jesus Christ: Exercising our selves unto godlinesse: *Walking uprightly*, according to the truth of the Gospel: Diligently following every good work: *Shewing out of* a good conversation our works with meeknesse and wisdome: *That we may* adorne the doctrine of God our Saviour in all things; *Considering that* we are created in Christ Jesus unto good works, that we should walk in them: Having our conversation in heaven,[^5] walking worthy of the Lord unto all pleasing, being fruitfull in all good works. (*Gal. 1.10*) *That every one of us* who professeth the name of Christ, may depart from iniquity: *Because for* this reason was the Gospel preached to those that are dead in sin, (*2 Tim. 2.19*) that they might live according to God in the Spirit. (*1 Pet. 4.6*)
 
-*That we may* give all diligence to adde to our faith, vertue; and to vertue, knowledge;[^6] and to knowledge, temperance; and to temperance, patience; and to patience, godlinesse; and to godlinesse, brotherly kindnesse, and to brotherly kindnesse, charity; that these things being in us, and abounding, we may not be barren and unfruitful in the knowledge of our Lord Jesus Christ, *but may hereby clear up unto our selves the evidences of our calling and election*.
+*That we may* give all diligence to adde to our faith, vertue; and to vertue, knowledge; (*2 Pet. 1.5, 8·*) and to knowledge, temperance; and to temperance, patience; and to patience, godlinesse; and to godlinesse, brotherly kindnesse, and to brotherly kindnesse, charity; that these things being in us, and abounding, we may not be barren and unfruitful in the knowledge of our Lord Jesus Christ, *but may hereby clear up unto our selves the evidences of our calling and election*.
 
 *That we may* deny all ungodlinesse and worldly lusts, living soberly, (*Tit. 2.12, 13, 14*) righteously and godly in this present world, looking for that blessed hope, and that glorious appearing of the great God and our Saviour Jesus Christ, who gave himself for us, that he might redeem us from all iniquity, and purifie unto himself a peculiar people, zealous of good works: *Considering that* he shall be revealed from heaven with his mighty Angels in flaming fire, (*2 Thes. 1.7*) to take vengeance on those that obey not his Gospel, who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power, when he shall come to be glorified in his Saints, and to be admired of all them that believe in that day: (*Heb. 10.28*) *For if* he that despised *Moses* law, died without mercy, under two or three witnesses; of how much sorer punishment shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the Covenant an unholy thing, and hath done despight to the Spirit of grace?
 
 (*1 Pet. 5.10*) *That* the God of all grace, who hath called us into his eternal glory, by Christ Jesus, would make us perfect, stablish, strengthen, settle us.
 
-(*Col. 1.23*) *That we may* continue in the faith, grounded and setled, and not be moved away from the hope of the Gospel, (*Col. 2.7*) being rooted, and built up, and stablished in the faith: Laying aside every weight, and the sin that doth so easily beset us, (*Heb. 12.1, 2*) and running with patience the race that is set before us: Holding fast our profession without wavering; that we may abide in Christ, and his words may abide in us:[^7] Continuing in the things which we have learned. Being faithful unto the death, that then he may bestow upon us a crown of life.
+(*Col. 1.23*) *That we may* continue in the faith, grounded and setled, and not be moved away from the hope of the Gospel, (*Col. 2.7*) being rooted, and built up, and stablished in the faith: Laying aside every weight, and the sin that doth so easily beset us, (*Heb. 12.1, 2*) and running with patience the race that is set before us: Holding fast our profession without wavering; that we may abide in Christ, and his words may abide in us:[^6] Continuing in the things which we have learned. Being faithful unto the death, that then he may bestow upon us a crown of life.
 
 *That the* Word of Christ may dwell in us richly, in all wisdome: *That we may* grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ: *Being* filled with the fruits of righteousnesse, which are by Jesus Christ, (*Phil. 1.11*) unto the glory and praise of God: *That we may* be strong in the grace that is in Christ Jesus. (*2 Tim. 2.1*)
 
@@ -61,9 +61,7 @@ That having fought a good fight, and finished our course, and kept the faith, (*
 
 [^5]: *Eph. 2.10. Phil. 3.20*
 
-[^6]: *2 Pet. […].5, 8·*
-
-[^7]: *Heb. 10.23 John 15.7 2 Tim. 3.14. Rev. 2.10. Col 3.16. 2 Pet. 3.18*
+[^6]: *Heb. 10.23 John 15.7 2 Tim. 3.14. Rev. 2.10. Col 3.16. 2 Pet. 3.18*
 
 
 ---

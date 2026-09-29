@@ -103,7 +103,7 @@ Each of these circumstances may be otherwise more largely amplified, according t
 
 [^3]: Rom. 8.23. Gen. 3.17. Hag. 2.13.
 
-[^4]: Ps. 19.1[…]. Ezra 9.6 Ps. 40.12.
+[^4]: Ps. 19.12. Ezra 9.6 Ps. 40.12.
 
 [^5]: Kinds of sinne.
 

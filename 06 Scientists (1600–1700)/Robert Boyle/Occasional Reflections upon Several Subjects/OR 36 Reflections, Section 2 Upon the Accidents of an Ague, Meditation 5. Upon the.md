@@ -19,7 +19,7 @@ And as the same *David*, who said in his Prosperity, he should never be mov'd, s
 
 [^1]: Rom.. 8. 13.
 
-[^2]: […].
+[^2]: Θανατόω.
 
 
 ---

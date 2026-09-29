@@ -25,7 +25,7 @@ Because it is *not good that the soul should be without knowledge*,[^2] we shoul
 
 (Col. 1.9, 10)That we may be *filled with the knowledge of his will, in all wisedome, and spirituall understanding; that we may walk worthy of the Lord, unto all pleasing; being fruitfull in every good work, and increasing in the knowledge of God, that we may follow on to know the Lord*.
 
-(Hos. 6.3)That he would sanctifie to us the knowledge we have already attained, that it may not be idle, and ineffectual; but may produce in our lives answerable obedience, that we do not *with-h[…]ld any truth in unrighteousnesse*. (Rom. 1.18)
+(Hos. 6.3)That he would sanctifie to us the knowledge we have already attained, that it may not be idle, and ineffectual; but may produce in our lives answerable obedience, that we do not *with-hold any truth in unrighteousnesse*. (Rom. 1.18)
 
 That he would open our hearts to *believe* all those truths revealed in his Word; (*Belief*) that he would inable us to *take diligent heed*, (Heb. 3.12) *lest there should be in any of us an evill heart of unbelief, in departing from the living God*; That we may firmly assent unto his promises and threats; and as we do professe our selves *to believe in God, so we may be carefull to maintain good works*. (Tit. 3.8)
 

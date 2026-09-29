@@ -31,7 +31,7 @@ The first was, never to receive any thing for true, but what I evidently knew to
 
 The second, to divide every One of these difficulties, which I was to examine into as many parcels as could be, and, as was requisite the better to resolve them.
 
-The third, to lead my thoughts in order, beginning by the most simple objects, and the easiest to be known; to rise by little and little, as by steps, even to the knowledg of the most […]xt; and even supposing an Order among those which naturally doe not precede one the other.
+The third, to lead my thoughts in order, beginning by the most simple objects, and the easiest to be known; to rise by little and little, as by steps, even to the knowledg of the most mixt; and even supposing an Order among those which naturally doe not precede one the other.
 
 And the last, to make every where such exact calculations, and such generall reviews, That I might be confident to have omitted Nothing.
 

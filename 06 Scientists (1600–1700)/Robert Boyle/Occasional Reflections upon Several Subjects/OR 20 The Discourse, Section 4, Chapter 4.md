@@ -33,7 +33,7 @@ Lastly, if towards the end of Summer, or of Autumn, our Reflector, coming to vis
 
 [^1]: Luk. 19.
 
-[^2]: […].
+[^2]: Οἱ ἐν Κυρίῳ ἀποθνήσκοντες.
 
 
 ---

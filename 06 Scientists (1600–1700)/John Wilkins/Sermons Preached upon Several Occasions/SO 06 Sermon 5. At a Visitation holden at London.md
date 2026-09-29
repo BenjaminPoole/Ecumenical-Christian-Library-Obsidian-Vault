@@ -117,7 +117,7 @@ To which I shall only add this one consideration: If we of the *Clergy* would no
 
 And much less should they permit any of their *Officers*, to carry themselves with insolence towards such as are of this sacred Functoin. It cannot be but that others will despise us, when they see that we despise one another.
 
-2. The *Positive* means to this end, are, in general, all kind of virtue and goodness. But there are some things which the *Apostle* adviseth to, as having a more peculiar fitness and tendency to this purpose, […], *Whatsoever things are venerable, whatsoever things are lovely, whatsoever things are of good report, if there be any virtue, if there be any praise, […], have these things in account*, Phil. 4.8.
+2. The *Positive* means to this end, are, in general, all kind of virtue and goodness. But there are some things which the *Apostle* adviseth to, as having a more peculiar fitness and tendency to this purpose, ὅσα σεμνά, ὅσα προσφιλῆ, ὅσα εὔφημα, *Whatsoever things are venerable, whatsoever things are lovely, whatsoever things are of good report, if there be any virtue, if there be any praise, ταῦτα λογίζεσθε, have these things in account*, Phil. 4.8.
 
 Of these I shall mention only *three*.
 

@@ -15,7 +15,7 @@ tags:
 
 *I* Have been encouraged to some enlargement of this Treatise, in that part of it, which concerns the account of Books and Authors. There is here some Addition to the several kinds of them. And because it would be of excellent use, if the many choise *Treatises* upon particular subjects in divinity, were so distinctly reduced, that a man might have recourse to them upon any emergent occasion; therefore I have here attempted something to this purpose, namely, to referre them unto the several heads in the Analysis of Divinity, towards the latter end of this Book.
 
-The *Latine* or *Greck* Tracts of the ancient Fathers and other eminent Writers, are already thus reduced under several heads in *Bolduanus, Draudius, Molanus*, &c. by whose direction it is easie to finde the chief A[…]rs or Discourses in those Languages upon any particular subject.
+The *Latine* or *Greck* Tracts of the ancient Fathers and other eminent Writers, are already thus reduced under several heads in *Bolduanus, Draudius, Molanus*, &c. by whose direction it is easie to finde the chief Authors or Discourses in those Languages upon any particular subject.
 
 The like is here endeavoured for our *English* Treatises, which for their clearnesse and fulnesse in matters of practical Divinity, are generally esteemed to be of special use and eminency.
 

@@ -71,7 +71,7 @@ And lastly, for those that are neer unto us by *neighbourhood* and familiar conv
 
 [^10]: See before in the 5th Commandment. Rom. 9.3.
 
-[^11]: Psal. […]5.13, 14 Mat. 5.4. Acts 7.60.
+[^11]: Psal. 35.13, 14 Mat. 5.4. Acts 7.60.
 
 
 ---

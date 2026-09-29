@@ -23,7 +23,7 @@ That which should succeed next unto it, is *Petition*. But for the better connex
 
 3. A promise of amendment for the future; Renuing our Covenant with God by fresh resolutions of astrict and holy conversation;[^1] Professing our desire to fear his name, and to be engaged to him, by an *everlasting Covenant*, never to depart from him again. *O that my wayes were so directed*, (Psal. 119.5) *that I might keep thy Commandments* alwayes! O that thou would'st inable us *to repent and be converted; that our sins may be bletted out*, (Acts 3.19) *when the times of refreshing shall come*! It is the desire of our soules to walk more holily and humbly before thee for the future; to keep a stricter watch over our own hearts and wayes.
 
-4. A brief application unto our selves of such mercies and promises, as belong to those that believe and repent. Though we have not expressed the dutiful affections of *children*, yet God cannot renounce the tender compassions of a *Father*; and if *earthly* Parents can give good things to their children, will not *he* be much more ready to be gracious to his? *With the Lord there is mercy, and with him is plenteous redemption*.[^2] And *we have an Advocate with the Father, Jesus Christ the righteous, who is the propitiation for our sins*. He hath promised to hear, and grant the requests, that are put up in faith; that he will have respect to those of an humble and contrite heart; that those who do not hide their sins, but confesse and forsake them, shall finde mercy;[^3] That *he delighteth not in the death of a sinner, but rather that he should be converted, and live*. (Ps. 51.17) That *the sacrifices of God are a broken spirit; a broken and contrite heart he will not despise. And now, O Lord, thou art that God, and thy words be true*, (2 Sam. 7.28) *and thou hast promised such mercies unto thy servants; therefore now let it be unto us according to thy word*. We desire to lay hold on that word of promise, that thou *wilt heal our backslidings*,[^4] *and love us freely*; that thou wilt not *turn away from us, to do us gond; but wilt put thy fear into our hearts*, (Jer. 32.40) *that we shall not depart from thee. O think upon thy servants, as concerning this word of thine*,[^5] *wherein thou hast caused us to put our trust! Truly our hope is even in thee*. 'Tis the desire of our souls to seek after thee, and to come unto thee, and *thou never failest them that seek thee*: Of those *that come unto thee, thou puttest away none*.[^6] O be pleased to *establish this word of thine unto thy servants, and let them not be disappointed of their hope*!
+4. A brief application unto our selves of such mercies and promises, as belong to those that believe and repent. Though we have not expressed the dutiful affections of *children*, yet God cannot renounce the tender compassions of a *Father*; and if *earthly* Parents can give good things to their children, will not *he* be much more ready to be gracious to his? *With the Lord there is mercy, and with him is plenteous redemption*.[^2] And *we have an Advocate with the Father, Jesus Christ the righteous, who is the propitiation for our sins*. He hath promised to hear, and grant the requests, that are put up in faith; that he will have respect to those of an humble and contrite heart; that those who do not hide their sins, but confesse and forsake them, shall finde mercy; (Eze. 33.11) That *he delighteth not in the death of a sinner, but rather that he should be converted, and live*. (Ps. 51.17) That *the sacrifices of God are a broken spirit; a broken and contrite heart he will not despise. And now, O Lord, thou art that God, and thy words be true*, (2 Sam. 7.28) *and thou hast promised such mercies unto thy servants; therefore now let it be unto us according to thy word*. We desire to lay hold on that word of promise, that thou *wilt heal our backslidings*, (Hos. 14.4) *and love us freely*; that thou wilt not *turn away from us, to do us gond; but wilt put thy fear into our hearts*, (Jer. 32.40) *that we shall not depart from thee. O think upon thy servants, as concerning this word of thine*,[^3] *wherein thou hast caused us to put our trust! Truly our hope is even in thee*. 'Tis the desire of our souls to seek after thee, and to come unto thee, and *thou never failest them that seek thee*: Of those *that come unto thee, thou puttest away none*.[^4] O be pleased to *establish this word of thine unto thy servants, and let them not be disappointed of their hope*!
 
 Though *the wages of sin be death*, yet this is our comfort, that *the gift of God is eternall life, through Jesus Christ our Lord*.
 
@@ -31,15 +31,11 @@ The Scripture is very copious in other pertinent expressions for each of these h
 
 [^1]: Neh. 9.38 Chap. 10. vers. 29.
 
-[^2]: Psal. 130. […] Jo[…]. 2.1
+[^2]: Psal. 130. 1 Joh. 2.1
 
-[^3]: Ez[…]. 33.11
+[^3]: Ps. 119 49
 
-[^4]: Hos. 14.[…].
-
-[^5]: Ps. 119 49
-
-[^6]: Psal. 9.10. Joh. 6.37.
+[^4]: Psal. 9.10. Joh. 6.37.
 
 
 ---

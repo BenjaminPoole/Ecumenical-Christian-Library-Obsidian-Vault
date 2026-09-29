@@ -49,9 +49,9 @@ Our slighting, and renouncing that Covenant which we made in *Baptisme*, abusing
 
 (Before)When we have approached unto it, have we been careful *beforehand* to set any solemne time apart, for the fitting of our selves unto so holy a work? have we not been unwilling to *ransack* and *examine* the secret corners of our hearts; (1 Cor. 11.28) to finde out, and to purge out those particular bosome-sins, unto which our natures do most incline us? after a more especial manner, to excite and stir up in our selves the graces of Gods holy Spirit to renue those conditions of the *Covenant*, required on our parts, *Faith* and *Repentance*?
 
-[^8] *In the receiving* of the Sacrament, have we no[…] been too apt to slight and dis-esteem it, as if i[…] were but an empty common ceremony? have we behaved our selves with so much fear and reverence, as might become such a sacred mystery, with such spiritual joy and delight, a[…] should be in those who are fit guests for that table?
+[^8] *In the receiving* of the Sacrament, have we not been too apt to slight and dis-esteem it, as if it were but an empty common ceremony? have we behaved our selves with so much fear and reverence, as might become such a sacred mystery, with such spiritual joy and delight, as should be in those who are fit guests for that table?
 
-(After) *After the receipt of it*, have we not quickly forgotten our good resolutions, relapsed into our old sins again, not feeling or regarding and such comfort or profit as is promised to the right partaking of this ordinance? have we no[…] often *eat and drunk unworthily*? and consequently *eat and drunk judgement to our selves*?[^9] becoming *guilty of the body and blood of Christ*, doing that horrid act which we so much detested in the Jews, *crucifying again* our blessed Saviour, (Heb. 6.6) and by slighting the proffers of mercy in this Sacrament, (1 Cor. 1.17) doing as much as in us lies to *make his Passion of none effect*?
+(After) *After the receipt of it*, have we not quickly forgotten our good resolutions, relapsed into our old sins again, not feeling or regarding and such comfort or profit as is promised to the right partaking of this ordinance? have we not often *eat and drunk unworthily*? and consequently *eat and drunk judgement to our selves*?[^9] becoming *guilty of the body and blood of Christ*, doing that horrid act which we so much detested in the Jews, *crucifying again* our blessed Saviour, (Heb. 6.6) and by slighting the proffers of mercy in this Sacrament, (1 Cor. 1.17) doing as much as in us lies to *make his Passion of none effect*?
 
 [^1]: Our failings in *Prayer*.
 
@@ -67,7 +67,7 @@ Our slighting, and renouncing that Covenant which we made in *Baptisme*, abusing
 
 [^7]: The Lords Supper.
 
-[^8]: A[…].
+[^8]: Ac.
 
 [^9]: 1 Cor. 15.27. Vers. 29.
 

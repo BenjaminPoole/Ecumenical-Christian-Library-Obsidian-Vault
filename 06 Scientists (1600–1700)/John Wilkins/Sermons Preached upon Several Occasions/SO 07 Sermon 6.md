@@ -70,7 +70,7 @@ I. *Wisdom* is the art of business, directing a man in the practical affairs of 
 
 II. *Knowledge* doth concern the speculation of Nature in reference to *causes* and *effects*, the *differences* and *properties* of things.
 
-1. Concerning the *first* of these, *Solomon* tells us that *there is much grief* in it. The original word is […] which signifieth properly *indignation*; and the nature of that is a sharp anger mixed with scorn, occasioned either by contempt in persons, or disappointment in things.
+1. Concerning the *first* of these, *Solomon* tells us that *there is much grief* in it. The original word is כעס which signifieth properly *indignation*; and the nature of that is a sharp anger mixed with scorn, occasioned either by contempt in persons, or disappointment in things.
 
 2. As for *knowledge*, that *encreaseth sorrow*: Now *sorrow* is a perturbation of mind in the apprehension of some present evil, which we are not able to contest with or avoid. And least any should mistrust that these were only casual accidental concomitants, without any mutual influence, therefore he tells us that they are usually proportioned to one another, for the measure of them, and do increase together to shew their casual dependence.
 
