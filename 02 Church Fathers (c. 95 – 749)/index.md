@@ -6,7 +6,7 @@ tags:
 
 # Church Fathers
 
-English translations of the early Church Fathers (3498 works, 71 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
+English translations of the early Church Fathers (3500 works, 71 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
 
 Each note carries `written` (approximate composition date) and `earliest_ms` (earliest surviving manuscript witness, including early translations and quotation traditions) properties, plus a `#written/Nth-century` tag. These are approximate, century-level scholarly estimates compiled for orientation — verify against current scholarship before citing. Composition dates for Commodianus, the *Octavius*, Moses of Chorene, and the Diatessaron's Dura fragment are disputed; manuscript dates for several minor authors are educated estimates. Volume-heading date ranges cover core works only — items marked pseudonymous, legendary, spurious, disputed, or hagiographic are excluded (their dates still appear on the volume pages).
 
@@ -131,6 +131,8 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from other public-domain or freely available translations.
 
 - [[Retractations, Book I|Augustine, Retractations, Book I]] · [[Retractations, Book II|Book II]] — M. F. Eller, 1946 (written c. 426–427)
+- Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 187|Letter 187]] — machine translation (the English translations are in copyright)
+- Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 194|Letter 194]] — machine translation (the English translations are in copyright)
 
 
 ## Authors A–Z
@@ -146,7 +148,7 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - [[Arnobius|Arnobius]] (7)
 - [[Athanasius|Athanasius]] (73)
 - [[Athenagoras|Athenagoras]] (2)
-- [[Augustine of Hippo|Augustine of Hippo]] (836)
+- [[Augustine of Hippo|Augustine of Hippo]] (838)
 - [[Bardesanes|Bardesanes]] (1)
 - [[Barnabas|Barnabas]] (1)
 - [[Basil the Great|Basil the Great]] (319)

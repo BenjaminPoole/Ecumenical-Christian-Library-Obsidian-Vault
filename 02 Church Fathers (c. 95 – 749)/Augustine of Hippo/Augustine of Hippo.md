@@ -7,7 +7,7 @@ tags:
 
 # Augustine of Hippo
 
-836 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+838 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Acts or Disputation Against Fortunatus|Acts or Disputation Against Fortunatus]] — [[NPNF1 04|NPNF1 4]]
 - [[Against the Fundamental Epistle of Manichaeus|Against the Fundamental Epistle of Manichaeus]] — [[NPNF1 04|NPNF1 4]]
@@ -526,10 +526,12 @@ tags:
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 173|Letter 173]] — [[NPNF1 01|NPNF1 1]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 180|Letter 180]] — [[NPNF1 01|NPNF1 1]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 185|Letter 185]] — [[NPNF1 01|NPNF1 1]]
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 187|Letter 187]] — machine translation
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 188|Letter 188]] — [[NPNF1 01|NPNF1 1]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 189|Letter 189]] — [[NPNF1 01|NPNF1 1]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 191|Letter 191]] — [[NPNF1 01|NPNF1 1]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 192|Letter 192]] — [[NPNF1 01|NPNF1 1]]
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 194|Letter 194]] — machine translation
 - [[Letter 195 to St. Jerome (Jerome 141)|Letter 195 to St. Jerome (Jerome 141)]] — [[NPNF1 01|NPNF1 1]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 201|Letter 201]] — [[NPNF1 01|NPNF1 1]]
 - [[Letter 202 to St. Jerome (Jerome 143)|Letter 202 to St. Jerome (Jerome 143)]] — [[NPNF1 01|NPNF1 1]]
