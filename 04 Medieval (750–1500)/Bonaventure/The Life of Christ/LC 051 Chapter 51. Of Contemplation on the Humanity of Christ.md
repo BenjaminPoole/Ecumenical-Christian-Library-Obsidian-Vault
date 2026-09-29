@@ -1,0 +1,27 @@
+---
+title: "Chapter 51. Of Contemplation on the Humanity of Christ"
+author: "Bonaventure"
+work: "The Life of Christ"
+section: 51
+translator:
+  - "W. H. Hutchings"
+year: "1888"
+written: "c. 1260"
+source: "https://archive.org/details/TheLifeOfChristBonaventure"
+tags:
+  - medieval
+  - bonaventure
+---
+# Chapter 51. Of Contemplation on the Humanity of Christ
+
+On this point S. Bernard says, “There are two things to be purified in us; the understanding, and the heart: the understanding, that we may know ; the heart, that we may will” And again, “The understanding is depressed when it thinks of many objects, when it does not concentrate itself upon a single and distinct theme of meditation, namely upon that ‘City whose foundation is in itself/” And further on, he says, “The affections, which are influenced by the different passions of the corrupt body, can no way be appeased, I do not say healed, until the will seeks and ends towards one only object.” “It is Christ who illumines the understanding ; it is Christ who purges the heart Indeed, the Son of God is come, and has worked so many and so great miracles in the world, that He can of right exact that our minds should be drawn away from the contemplation of the things of the world, and given unceasingly to the contemplation of the marvels which He hath wrought For verily He has left us most spacious fields for our understanding to roam in, and a torrent of reflections most profound. Who, then, is sufficient to think of all that God hath provided for us, of the way He has come to us, and the help He hath brought : how His Supreme Majesty has willed to die that we may live, to serve us that we may reign, to be exiled that we may be brought back to our country, and to abase Himself to perform the meanest actions, that He may place us over all His works.” And again,[^1] “Whence shall the light of truth come, in this darkness? Whence shall charity arise, in this evil age, in this world which altogether lieth in wickedness? Who then, think you, shall enlighten our understanding, who shall inflame our hearts ? All this shall come to pass, if we will but be turned to Christ, that the veil may be taken away from our hearts.”
+
+The same author adds, “‘ A little bundle of myrrh is my well-beloved unto me; he shall lie betwixt my breasts/ And I, brethren, since the commencement of my conversion, for the mass of merits which I stand in need of, place upon my breast this little bundle which I have collected out of all the distresses and bitternesses of my God. Thus I will gather together, first, the necessities of His Infancy, then the labours which He underwent in preaching, His fatigues in joumeyings, His watchings in prayer, His temptations in fasting, His tears in compassion, the snares which are laid to entrap Him in His words, His perils amongst false brethren, injuries when spit upon, struck, derided, nailed to the Cross, and all which He endured for the salvation of the human race, which is set forth so copiously in the pages of the Gospel.”[^2] And further on, again : “To meditate upon these things,” I have said, “is true wisdom ; in these, is to be found the perfection of righteousness, the fulness of knowledge, the treasures of salvation, abundance of merit They will provide us from time to time with a drink of wholesome bitterness, a sweet unction of consolation : they will uphold me in adversity, and repress me in prosperity : they will, whilst I walk in the royal way, amid the joys and sorrows of this present life, keep me safe, and protect me on the right hand and on the left from the evils which threaten me. These sufferings conciliate to me the Judge of the world, representing Him who is terrible and powerful, as meek and lowly; portraying Him as not only placable, but friendly and merciful, kind and affectionate, who is unapproachable to princes, and terrible to the kings of the earth. Therefore these sufferings are my constant theme, as you know ; they are my constant meditation, as God knows. I have them on my lips, and in my heart, and my pen is ever writing about them ; they are, indeed, my most deep and interior philosophy — which is nothing else, but to know ‘Jesus and Him crucified.’” This suffices for the contemplation of the Humanity of Jesus, for all this book is upon it.
+
+It is not, you must know, a necessity that the Active Life should precede this species of contemplation, because it has to do with corporeal things, the actions of Christ considered as to His Humanity. It is also proposed as more familiar and as more easy not only to the more perfect, but also to beginners ; for in it, as in the Active Life, our aim is to purify ourselves from our faults and to acquire virtues ; both concur as to this purpose. But when it is laid down, that the Active Life ought to go before the Contemplative, this is true chiefly in its sublimer application, as in the contemplation on the Heavenly Court, and on the Majesty of God, which are reserved for persons of greater spiritual attainment Therefore, properly speaking, contemplation, when directed to the Humanity of Christ, is more rightly called meditation than contemplation. We will now, under the guidance of the same Saint, treat of the other kinds of contemplation.
+
+[^1]: Serm, iii. de Ascens.
+[^2]: Serm. xliii. in Cant.
+
+---
+[[LC 050 Chapter 50. Of Three Kinds of Contemplation|← Chapter 50]] · [[The Life of Christ|Contents]] · [[LC 052 Chapter 52. Of Contemplation on the Heavenly Court|Chapter 52 →]]

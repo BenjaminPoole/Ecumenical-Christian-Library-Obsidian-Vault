@@ -1,0 +1,21 @@
+---
+title: "The Discourse, Section 3, Chapter 1"
+author: "Robert Boyle"
+work: "Occasional Reflections upon Several Subjects"
+section: 11
+year: "1665"
+written: "c. 1648–1665"
+source: "EEBO-TCP A29010, keyed from the 1665 edition"
+tags:
+  - scientists
+  - robert-boyle
+---
+
+# The Discourse, Section 3, Chapter 1
+
+The third grand Advantage that may be deriv'd from the custom of making Occasional Meditations, is, That it conduces to the exercise and improvement of divers of the faculties of the mind. And this it may do upon several accounts.
+
+1. For, in the first place, it accustomes a man to an attentive observation of the Objects wherewith he is conversant. Whereas there is scarce any thing that may not prove the subject of an Occasional Meditation, so the natural propensity we have to manage well the Themes we undertake to handle, unperceivably ingages us to pry into the several attributes and relations of the things we consider, to obtain the greater plenty of particulars, for the making up of the more full and compleat Parallel betwixt the things whose resemblances we would set forth. By which means a man often comes to discover a multitnde of particulars even in obvious things, which, without such an ingagement to attention, he would never have minded, and which common beholders take no Notice of. And though it may seem, that the habit, produced by the practice of Occasional meditating, should accustom a man to heed only such Objects as are like to suggest to him devout thoughts; yet, not to mention now that I shall advertise you anon, that there is no necessity of confineing occasional meditations, to matters Devout, or Theological, I shall only represent, that, since we know not, before we have considered the particular Objects that occurr to us, which of them will, and which of them will not, afford us the subject of an Occasional Reflection, the mind will, after a while, be ingag'd to a general and habitual attention, relating to the Objects that present themselves to it. Besides, that though we should at first apply our heedfulness to circumstances of only some few sorts of Objects, yet the habit, being once acquir'd, would easily reach to others than those that first occasion'd it; as men, that by Learning to sing Anthems, are come to have critical ears, will be able to judge, much better than they could before, of the resemblances and differences of Tones in other Songs, and will take Notice of divers particularities in Voices, which would not be heeded by an unpractised Ear: And as we have made it appear, that the way of thinking we would recommend, does very much dispose men to an attentive frame of mind; so, that such a frame or disposition is a great advantage in the whole course of a man's life, will not appear improbable to him who duly considers, that since attention, like a magnifying glass, shews us, even in common Objects, divers particularities, undiscerned by those who want that advantage, it must needs make the things he is conversant with, afford the considerer much more of instruction than they obtrude upon the ordinary regardless beholder, and consequently, this exercise of the mind must prove a compendious way to Experience, and make it attainable without grey-hairs; for that, we know, consists not in the multitude of years, but of observations, from Numbers and variety of which it results: nor is there any reason, why prudence should be peculiarly ascrib'd to the Aged, except a supposition that such persons, by having liv'd long in the World, have had the opportunity of many and various occurrences to ripen their judgment; so that if one man can by his attention make, as well he may in a small compass of time, as great a number of Observations as less heedful Persons are wont to do in a longer, I see not why such a man's Experience may not be equal to his, that has liv'd longer; for it matters not much whether a man make a competent Number of Observations, in much time or in little, provided he have made them well.
+
+---
+[[OR 10 The Discourse, Section 2, Chapter 4|← The Discourse, Section 2, Chapter 4]] · [[Occasional Reflections upon Several Subjects|Contents]] · [[OR 12 The Discourse, Section 3, Chapter 2|The Discourse, Section 3, Chapter 2 →]]

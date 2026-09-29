@@ -9,7 +9,7 @@ tags:
 
 <img src="https://scx2.b-cdn.net/gfx/news/2021/publication-of-500-yea-1.jpg" width=400 height=264>
 
-Roughly 18k notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, and Evangelical writers. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
+19,331 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, and Evangelical writers. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
 
 This is the web version of the open source [Obsidian Vault](https://github.com/BenjaminPoole/Ecumenical-Christian-Library-Obsidian-Vault)
 
@@ -43,10 +43,11 @@ Each folder or author has a helpful index in the folder root. Have a look at the
 | **01 Classical Background** (c. 750 BC – AD 120) | [[Historical Works index\|Greek and Roman historians, poets, philosophers]] — Homer, Plato, Herodotus, Thucydides, Sophocles, Euripides, Demosthenes, Caesar, Livy, Tacitus, both Plinys — and Josephus | 68 |
 | **02 Church Fathers** (c. 95 – 749) | [[02 Church Fathers (c. 95 – 749)/index\|61 Fathers]], Apostolic Fathers to John of Damascus, by ANF/NPNF volume, plus the [[Didache]] and [[Venerable Bede]] | 3,618 |
 | **03 Councils, Creeds & Confessions** (325–present) | [[Church Councils\|Ecumenical and regional councils]], creeds, Reformation diets and synods, confessional documents | 300 |
-| **04 Medieval** (750–1500) | [[Library/04 Medieval (750–1500)/Thomas Aquinas/Thomas Aquinas]] — *Summa Theologiae* in five parts, *Summa Contra Gentiles* in four books | 1,085 |
+| **04 Medieval** (750–1500) | [[04 Medieval (750–1500)/index\|Medieval Scholastics]] — Ratramnus, Anselm, Abelard, Hugh of St Victor, Bernard, Bonaventure, Aquinas, Eckhart, Ruusbroec, Catherine of Siena, Julian of Norwich, Gerson, Nicholas of Cusa, Thomas à Kempis | 2,112 |
 | **05 Reformers** (1500–1600) | [[Protestant Reformers\|Luther, Calvin, Zwingli, Knox, Cranmer, Tyndale, Bullinger, Melanchthon, Beza, Hooker, Vermigli, Ursinus, Wishart]]; Wycliffe and Hus under `00 Forerunners` | 2,723 |
-| **06 Puritans** (1600–1700) | [[Puritans\|Owen, Trapp, Bunyan, Baxter, Watson, Flavel, Charnock, Gurnall, Scougal, à Brakel]] | 2,475 |
-| **07 Evangelical Writers** (1700–present) | [[Charles Spurgeon]], [[John Wesley]], [[je-index\|Jonathan Edwards]], [[JC Ryle]], [[The Fundamentals index\|The Fundamentals]] | 6,926 |
+| **06 Puritans** (1600–1700) | [[Puritans\|Owen, Trapp, Bunyan, Baxter, Watson, Flavel, Charnock, Gurnall, Scougal, à Brakel]] | 2,943 |
+| **06 Scientists** (1600–1700) | [[06 Scientists (1600–1700)/index\|The theology of the scientific revolution]] — Bacon, Galileo, Kepler, Descartes, Browne, Wilkins, Pascal, Boyle, Ray, Newton, Leibniz | 640 |
+| **07 Evangelical Writers** (1700–present) | [[Charles Spurgeon]], [[John Wesley]], [[je-index\|Jonathan Edwards]], [[JC Ryle]], [[The Fundamentals index\|The Fundamentals]] | 6,927 |
 
 # Design Philosophy
 

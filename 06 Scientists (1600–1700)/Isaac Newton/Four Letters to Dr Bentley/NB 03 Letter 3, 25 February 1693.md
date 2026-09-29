@@ -1,0 +1,43 @@
+---
+title: "Letter 3, 25 February 1693"
+author: "Isaac Newton"
+work: "Four Letters to Dr Bentley"
+section: 3
+year: "1838"
+written: "1692–1693"
+source: "https://archive.org/details/worksrichardben04newtgoog"
+tags:
+  - scientists
+  - isaac-newton
+---
+
+# Letter 3, 25 February 1693
+
+*For Mr. Bentley, at the Palace at Worcester.*
+
+Sir,
+
+Because you desire speed, I will answer your letter with what brevity I can. In the six positions you lay down in the beginning of your letter, I agree with you. Your assuming the orbis magnus 7000 diameters of the earth wide, implies the sun’s horizontal parallax to be half a minute. Flamsteed and Cassini have of late observed it to be about 10”, and thus the orbis magnus must be 21,000, or, in a rounder number, 20,000 diameters of the earth wide. Either computation, I think, will do well; and I think it not worth while to alter your numbers.
+
+In the next part of your letter you lay down four other positions, founded upon the six first. The first of these four seems very evident, supposing you take attraction so generally as by it to understand any force by which distant bodies endeavour to come together without mechanical impulse. The second seems not so clear; for it may be said, that there. might be other systems of worlds before the present ones, and others before those, and so on to all past eternity, and, by consequence, that gravity may be coeternal to matter, and have the same effect from all eternity as at present, unless you have somewhere proved that old systems cannot gradually pass into new ones; or that this system had not its original from the exhaling matter of former decaying systems, but from a chaos of matter evenly dispersed throughout all space; for something of this kind, I think you say, was the subject of your Sixth Sermon; and the growth of new systems out! of old ones, without the mediation of a divine power, seems to me apparently absurd.
+
+The last clause of the second position I like very well. It is inconceivable, that inanimate brute matter should, with-, out the mediation of something else, which is not material, operate upon and affect other matter without mutual contact, as it must be, if gravitation, in the sense of Epicurus, be essential and inherent in it. And this is one reason why I desired you would not ascribe innate gravity to me. That gravity should be innate, inherent, and essential to matter, so that one body may act upon another at a distance through a vacuum, without the mediation of any thing else, by and through which their action and force may be conveyed from one to another, is to me so great an absurdity, that I believe no man, who has in philosophical matters a competent faculty of thinking, can ever fall into it. Gravity must be caused by an agent acting constantly according to certain laws; but 4 whether this agent be material or immaterial, I have left to the consideration of my readers.
+
+Your fourth assertion, that the world could not be formed by innate gravity alone, you confirm by three arguments. But, in your first argument you seem to make a petitio principii; for whereas many ancient philosophers and others, as well theists as atheists, have all allowed that there may be worlds and parcels of matter innumerable or infinite, you deny this, by representing it as absurd as that there should be positively an infinite arithmetical sum or number, which is a contradiction in *terminis*; but you do not prove it as absurd. Neither do you prove, that what men mean by an infinite sum or number is a contradiction in nature; for a contradiction in *terminis* implies no more than an impropriety of speech. Those things which men understand by improper and contradictious phrases may be sometimes really in nature without any contradiction at all: a silver inkhorn, a paper lantern, an iron whetstone, are absurd phrases, yet the things signified thereby are really in nature. If any man should say, that a number and a sum, to speak properly, is that which may be numbered and summed, but things infinite are numberless, or, as we usually speak, innumerable and sumless, or insummable, and therefore ought not to be called a number or sum; he will speak properly enough, and your argument against him will, I fear, lose its force. And yet, if any man shall take the words number and sum in a larger sense, so as to understand thereby things which, in the proper way of speaking, are numberless and sumless, (as you seem to do, when you allow an infinite number of points in a line) I could readily allow him the use of the contradictious phrases of innumerable number or sumless sum, without inferring from thence any absurdity in the thing he means by those phrases. However, if by this or any other argument you have proved the finiteness of the universe, it follows that all matter would fall down from the outsides, and convene in the middle. Yet the matter in falling might concrete into many round masses, like the bodies of the planets, and these, by attracting one another, might acquire an obliquity of descent, by means of which they might fall, not upon the great central body, but upon the side of it, and fetch a compass about, and then ascend again by the same steps and degrees. of motion and velocity with which they descended before, much after the manner that the comets revolve about the sun; but a circular motion in concentric orbs about the sun they could never acquire by gravity alone.
+
+And though all the matter were divided at first into several systems, and every system by a divine power constituted like ours, yet would the outside systems descend towards the middlemost; so that this frame of things could not always subsist without a divine power to conserve it; which is the second argument: and to your third I fully assent.
+
+As for the passage of Plato, there is no common place from whence all the planets being let fall, and descending with uniform and equal gravities (as Galileo supposes), would, at their arrival to their several orbs, acquire their several velocities with which they now revolve in them. If we suppose the gravity of all the planets towards the sun to be of such a quantity as it really is, and that the motions of the planets are turned upwards, every planet will ascend to twice its height from the sun. Saturn will ascend till he be twice as high from the sun as he is at present, and no higher; Jupiter will ascend as high again as at present, that is, a little above the orb of Saturn; Mercury will ascend to twice his present height, that is, to the orb of Venus; and so of the rest; and then by falling down again from the places to which they ascended, they will arrive again at their several orbs with the same velocities they had at first, and with which they now revolve.
+
+But if, so soon as their motions by which they revolve are turned upwards, the gravitating power of the sun, by which their ascent is perpetually retarded, be diminished by one half, they will now ascend perpetually, and all of them at all equal distances from the sun will be equally swift. Mercury, when he arrives at the orb of Venus, will be as swift as Venus; and he and Venus, when they arrive at the orb of the earth, will be as swift as the earth; and so of the rest. If they begin all of them to ascend at once, and ascend in the same line, they will constantly, in ascending, become nearer and nearer together, and their motions will constantly approach to an equality, and become at length slower than any motion assignable. Suppose, therefore, that they ascended till they were almost contiguous, and their motions inconsiderably little, and that all their motions were at the same moment of time turned back again; or, which comes almost to the same thing, that they were only deprived of their motions and let fall at that time; they would all at once arrive at their several orbs, each with the velocity it had at first; and if their motions were then turned sideways, and, at the same time, the gravitating power of the sun doubled, that it might be strong. enough to retain them in their orbs, they would revolve in them as before their ascent. But if the gravitating power of the sun was not doubled, they would go away from their orbs into the highest heavens in parabolical lines. These things follow from my Princ. Math. lib. i. prop. 33, 34, 36, 37.
+
+I thank you very kindly for your designed present, and rest
+
+Your most humble servant to command,
+
+Is. Newton.
+
+*Cambridge, Feb. 25, 1692-3.*
+
+---
+[[NB 02 Letter 2, 17 January 1693|← Letter 2, 17 January 1693]] · [[Four Letters to Dr Bentley|Contents]] · [[NB 04 Letter 4, 11 February 1693|Letter 4, 11 February 1693 →]]

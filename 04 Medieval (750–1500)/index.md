@@ -60,7 +60,7 @@ Bonaventure (1221–1274), Franciscan minister general and regent master at Pari
 
 Author index: **[[Bonaventure|Bonaventure]]**
 
-- **[[The Life of Christ|The Life of Christ]]** — Meditations on the life of Christ from the Incarnation to the Ascension, long attributed to Bonaventure and among the most widely copied devotional books of the later Middle Ages. *(21 notes)*
+- **[[The Life of Christ|The Life of Christ]]** — Meditations on the life of Christ from the Incarnation to the Ascension, long attributed to Bonaventure and among the most widely copied devotional books of the later Middle Ages. Hutchings translates the shorter recension: the author’s Preface and a hundred chapters. *(101 notes)*
 
 ## Thomas Aquinas
 
@@ -181,7 +181,7 @@ marked public domain there and neither is.
 - **Hugh of St Victor** — *On the Sacraments* is Deferrari 1951, in copyright; his *Explanation of the
   Rule of St Augustine* (1911) is here instead.
 - **Bonaventure** — the *Itinerarium* and *Breviloquium* are Boas 1953 and Nemmers 1946, both in
-  copyright; his *Life of Christ* (Hutchings, 1881) is here instead.
+  copyright; his *Life of Christ* (Hutchings, 1881; read from the 1888 printing) is here instead.
 - **Nicholas of Cusa** — *On Learned Ignorance* is Heron 1954, in copyright; *The Vision of God*
   (Salter, 1928) is here instead.
 

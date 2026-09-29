@@ -45,4 +45,4 @@ The first beginning is for the sake of the last end. God Himself doth not rest b
 Amen.
 
 ---
-[[ECK 03 II. The Nearness of the Kingdom|← II. The Nearness of the Kingdom]] · [[Sermons|Contents]] · [[ECK 05 IV. True Hearing|IV. True Hearing →]]
+[[ECK 03 II. The Nearness of the Kingdom|← II. The Nearness of the Kingdom]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 05 IV. True Hearing|IV. True Hearing →]]

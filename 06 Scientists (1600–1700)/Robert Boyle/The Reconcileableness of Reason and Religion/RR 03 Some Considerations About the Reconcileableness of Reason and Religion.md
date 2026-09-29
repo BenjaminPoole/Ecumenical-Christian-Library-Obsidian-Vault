@@ -1,0 +1,27 @@
+---
+title: "Some Considerations About the Reconcileableness of Reason and Religion"
+author: "Robert Boyle"
+work: "The Reconcileableness of Reason and Religion"
+section: 3
+year: "1675"
+written: "1675"
+source: "EEBO-TCP A29027, keyed from the 1675 edition"
+tags:
+  - scientists
+  - robert-boyle
+---
+
+# Some Considerations About the Reconcileableness of Reason and Religion
+
+As to what you write in your Friends name, near the bottom of the first page of your Letter, perhaps I shall not mistake, if I guess, that, when He seems but to propose a *Question*, he means an *Objection*; and covertly intimates, that I, among many others, am reduc'd to that pass, that to embrace our *Religion*, we must renounce our *Reason*; and consequently, that to be a *Christian*, one must cease to be a *Man*, and much more, leave off being a *Philosopher*.
+
+What liberal Concessions soever some others have been pleas'd to make on such an Occasion as this, they do not concern me; who, being ask'd but my own Opinion, do not think my self responsible for that of others. And therefore, that I may frame my Answer so, as to meet both with the obvious sense of the Question, and the intimated meaning of Him that proposes it, I shall roundly make a *Negative* Reply, and say, *That I do not think, that a Christian, to be truly so, is oblig'd to forego his Reason; either by denying the Dictates of right Reason, or by laying aside the Vse of it*.
+
+I doubt not but this Answer is differing enough from what your Friend expects; and perhaps those Grants, that have been made by the Indulgence or Inadvertency of many persons, eminent for being Pious or Learned, may make you your self startle at this Declaration: And therefore, though you will not, I know, expect an Answer to what Objections your Friend may make, since he has express'd but what He thinks ought to be a Christian's Opinion, not what he has to object against what is so; yet, to satisfie those Scruples that you your self may retain, I shall endeavor (but with the Brevity that becomes a Letter) to acquaint you *by themselves*, with *some* of the *Positive* Inducements, that have led me to this Opinion, and *interweave some others*, in answering the chief Objections that I think likely to be made against it.
+
+And this Preamble, short as it is, will, I hope, serve to keep you from mistaking my design; which, as you may gather from what I have intimated, is not to give you the *positive* proofs of the Christian Religion (which is not here to be expected from a bare Defendant,) but to give you some *Specimens* of such general Considerations, as may probably shew, that the Matter (or Essential Doctrines) peculiar to the Christian Religion, is not so repugnant to the Principles of true Natural Philosophy, as that to believe them, a Man must cease to act like a Rational Man, any more than he would be oblig'd to do by embracing other Religions, or ev'n the Tenents that have been held without disparagement to their Intellectuals, by the meer Philosophers themselves; which last Clause I add, because I presume, you do not expect, that I should be sollicitous to vindicate the Christians belief of a Deity from being Irrational; since, besides that perhaps your Friend would think himself affronted to be dealt with as an *Atheist*, without having profess'd himself one, the Acknowledgment of a Deity blemishes the Christian's Reason no more, than it do's that of Men of all Religions, not to say of all Mankind; and imports no other contradiction to Reason, than what has been judg'd to be none at all by the Greatest, if not by all, of the Philosophers that were fam'd for being guided by Reason (without Revelation.) And I shall venture to add (upon the by) that, *as* I do not for my own part think the Atheists Philosophical Objections (if your Friend had produc'd them) to be near so considerable for weight or number, as not only those few that deny a God, but many of those that believe one, are wont to think; *so* the Christian is not reduc'd, as is imagin'd, to make the Being of a Deity a meer *Postulatum*; since, besides the Philosophical Arguments he can alledge in common with the best Champions for a Deity, he has a peculiar Historical Proof that may suffice; the Miracles perform'd by Christ and his followers being such, that if the matter of Fact can be (as it may be) well evinc'd, they will not only prove the rest of the Christian Religion, but in the first place, That there must be a God to be the Author of them.
+
+But though of the two things which my design obliges me to Endeavor the making good of, the most Natural order seems to be, that I should *first* shew, That no Precepts of Christianity do *command* a Man to lay aside his Reason in matters of Religion; and *then*, That there is nothing in the Nature of the Christian Doctrine it self that makes a Man *need* to do so; Yet I think it not amiss in treating of these two Subjects to invert the Order, and *first* consider that difficulty which is the Principal, and which your Friend and You jointly desire to have my thoughts of; namely, *Whether there be a necessity for a Christian to deny his Reason*? And *then* we shall proceed to examine, Whether, though he *need* not disclaim his Reason, it be nevertheless his *Duty* so to do?
+
+---
+[[RR 02 The Preface|← The Preface]] · [[The Reconcileableness of Reason and Religion|Contents]] · [[RR 04 Section 1|Section 1 →]]

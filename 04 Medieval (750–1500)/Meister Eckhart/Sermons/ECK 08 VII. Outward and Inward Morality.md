@@ -80,4 +80,4 @@ suffers from love he sorrows not, and his suffering is fruitful in God. Therefor
 Through the higher love the whole life of man is to be elevated from temporal selfishness to the spring of all love, to God: man will again be master over nature by abiding in God and lifting her up to God.
 
 ---
-[[ECK 07 VI. Sanctification|← VI. Sanctification]] · [[Sermons|Contents]]
+[[ECK 07 VI. Sanctification|← VI. Sanctification]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]]

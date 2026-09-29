@@ -12,4 +12,4 @@ Bonaventure of Bagnoregio (1221–1274), Franciscan, regent master at Paris alon
 
 ## Works (1)
 
-- **[[The Life of Christ|The Life of Christ]]** — Meditations on the life of Christ from the Incarnation to the Ascension, long attributed to Bonaventure and among the most widely copied devotional books of the later Middle Ages. Hutchings translates the shorter recension. (21 notes)
+- **[[The Life of Christ|The Life of Christ]]** — Meditations on the life of Christ from the Incarnation to the Ascension, long attributed to Bonaventure and among the most widely copied devotional books of the later Middle Ages. Hutchings translates the shorter recension: the author’s Preface and a hundred chapters. (101 notes)

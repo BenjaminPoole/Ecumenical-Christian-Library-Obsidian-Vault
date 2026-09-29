@@ -12,4 +12,4 @@ Meister Eckhart (c. 1260–1328), Dominican, twice regent master at Paris, provi
 
 ## Works (1)
 
-- **[[Sermons|Sermons]]** — The first English rendering of a selection of Eckhart's German sermons: the birth of the Word in the soul, detachment, and the ground of the soul where, he says, God and the soul are one. Some of these sentences were among the propositions condemned by the bull *In agro dominico* in 1329. (8 notes)
+- **[[04 Medieval (750–1500)/Meister Eckhart/Sermons|Sermons]]** — The first English rendering of a selection of Eckhart's German sermons: the birth of the Word in the soul, detachment, and the ground of the soul where, he says, God and the soul are one. Some of these sentences were among the propositions condemned by the bull *In agro dominico* in 1329. (8 notes)

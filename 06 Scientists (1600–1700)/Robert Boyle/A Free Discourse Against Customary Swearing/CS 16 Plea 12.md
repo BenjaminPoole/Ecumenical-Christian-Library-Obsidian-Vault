@@ -1,0 +1,29 @@
+---
+title: "Plea 12"
+author: "Robert Boyle"
+work: "A Free Discourse Against Customary Swearing"
+section: 16
+year: "1695"
+written: "c. 1647"
+source: "EEBO-TCP A28981, keyed from the 1695 edition"
+tags:
+  - scientists
+  - robert-boyle
+---
+
+# Plea 12
+
+There remains yet a prejudice to remove, which though very rarely the pretence of Swearers, is very often a prevalent motive to swearing, and is an evil by so much the more obstructive to these sinners reclaiming, by how much the more silently it opposes it. This is a foolish fancy that many Swearers cherish, that their Oaths make them look'd upon with a kind of admiration, as Gentlemanlike sins; and witness in them so bold and daring a courage, that it extends to a fearlessness of God himself.
+
+*Answ*. But though their blushing to own so childish a pretence, be a sufficient disproval of it; yet since, as in War, so in disputes, we consider not so much the personal strength of the adversary we attempt, as the rank he holds among those that employ him; 'twill not be amiss to remove an obstacle, made considerable by being so great a Vice's motive, and so great a motive to that Vice: Though of this sort of Swearers (as of some Savages that lurk in Rocks and Woods) it be much more difficult to obtain a Battel, than to get a Victory; and to draw them to the Field, than to give them a Defeat.
+
+Doubtless these needy Gentlemen will never tempt the admiration of Wise men upon any other score, than that of the greatness of their folly. They must be thought strangely necessitous of meriting qualities that do so meanly by their bad ones implore and court men's good opinion: And I know not whether be the greater, their impudence to expect it for the recompence of vice, or their profuseness that should squander it away on those who have no juster title to our esteem, than that by which the miserablest of Beggars pretend to our Charity, the multitude of their imperfections and wants. Wise men will make these poor and empty projects, the objects solely of their scorn and laughter; and only those that want esteem for themselves, will reward you with it; and for such peoples praises, they will but discommend you: So that that empty applause you are ambitious of, will either be impossible to be purchas'd, or not deserve to be pursued. But what, your Oaths will make men take you for a Gentleman! you are deceived, there is too little Epicurism and Chargeableness in your vice, to be affected to that Quality. 'Twas still so cheap, and now grown so common, that I wonder our Grandees, though they desist not for the sins sake, renounce it not, at least, for the Company's. Must then Vices be arguments of the possession of that dignity, that Vertue is the sole true means to purchase? I'm sure it should not be so; but grant it were, Will you pretend to Nobility, by that alone which is not the property, but the vice of Gentlemen? and entitle your self to that illustrious Quality, by that which, in God's Eye, makes them unworthy (if not divests them) of it? At that rate your pretensions would parallel his mirth, who boasted a descent from the first *Caesars*, barely upon his being (like most of them) almost deformedly Hawk Nos'd; deriving his interest in their blood, only from his sympathy with their defects.
+
+For my part, I must confess, I am not ambitious of those badges of Gentility, that Christianity delivers for the symptoms of Reprobation: Nor do I find men desirous of the Gout, though the Proverb have appropriated that disease to Rich men.
+
+But then (you think) your courage will be unquestionable: And indeed it may seem that you want not probability to prop up your hopes, since you desperately hazard the incurring of Immortal Torments, for that, for which no Wise man would venture the stretching of his little Finger. But since the kindred betwixt vertues is not so remote, that the want of any one should conclude the possession of any other, and your impiety convince us of your courage; Experience teaches us, That no men more fear what they should contemn, than those that contemn most what they should fear. And Martyrs have embrac'd those Flames with joy, that impious persons durst not so much as think of without horror.
+
+That boldness that men personate against their Maker (were it real) would not be the effect of their resolution, but either of their inconsiderateness, or their unbelief. *The wicked flee* (says *Solomon*) (Prov. 28. 1) *when no man pursueth; but the righteous are bold as a Lyon*. And indeed it is no great encouragement to despise this life, to want either hope, or at least confidence of a better. Nor will all men so easily conclude, that he that fears not to venture his Soul, dares freely venture his Body. For since it is not the essential worth of things, but the proprietary's value of them, that their dearness to us is to be measured by: That standard, and most mens actions, will present us the soul and body in a very inverted order of precedency; the greater part of men living for the Body as if they were all Body, and slighting their Souls as if they had no Souls, or had them but to lose. It being but too true of the very greatest of those people, that in themselves as in their stables, the Employment of the Man is but to serve the Beast. And truly he that considers that the neglect of the Soul proceeds from the former dotage on the Body, will think that a very unlikely consequence, that infers a readiness to hazard the latter, from the carelessness of what becomes of the former. He that shakes off the emboldening Fear of God, betrays himself to as numerous apprehensions, as did the weak-ey'd Frantick, who to be secur'd from the offensiveness of the Sun's brighter Beams, by pulling out his eyes, expos'd himself to all those dangers and those horrors that attend on blindness.
+
+---
+[[CS 15 Plea 11|← Plea 11]] · [[A Free Discourse Against Customary Swearing|Contents]] · [[CS 17 Plea 13|Plea 13 →]]

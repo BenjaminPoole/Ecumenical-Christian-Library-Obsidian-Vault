@@ -58,4 +58,4 @@ when one attains to it, no life is easier nor more pleasant nor more lovable, si
 narrow path into a broad and wide place, that is into the true freedom of those who have become one spirit with God.” May God help us all to follow Him that He may bring us to Himself. Amen.
 
 ---
-[[ECK 02 I. The Attractive Power of God|← I. The Attractive Power of God]] · [[Sermons|Contents]] · [[ECK 04 III. The Angel's Greeting|III. The Angel's Greeting →]]
+[[ECK 02 I. The Attractive Power of God|← I. The Attractive Power of God]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 04 III. The Angel's Greeting|III. The Angel's Greeting →]]

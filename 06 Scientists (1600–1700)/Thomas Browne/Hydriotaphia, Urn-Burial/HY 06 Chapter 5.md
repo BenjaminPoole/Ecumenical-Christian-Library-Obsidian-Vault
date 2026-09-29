@@ -1,0 +1,82 @@
+---
+title: "Chapter 5"
+author: "Thomas Browne"
+work: "Hydriotaphia, Urn-Burial"
+section: 6
+year: "1686"
+written: "1658"
+source: "https://www.gutenberg.org/ebooks/586"
+tags:
+  - scientists
+  - thomas-browne
+---
+
+# Chapter 5
+
+Now since these dead bones have already outlasted the living ones of Methuselah, and in a yard underground, and thin walls of clay, outworn all the strong and specious buildings above it; and quietly rested under the drums and tramplings of three conquests: what prince can promise such diuturnity unto his relicks, or might not gladly say,
+
+Time, which antiquates antiquities, and hath an art to make dust of all things, hath yet spared these minor monuments.
+
+In vain we hope to be known by open and visible conservatories, when to be unknown was the means of their continuation, and obscurity their protection. If they died by violent hands, and were thrust into their urns, these bones become considerable, and some old philosophers would honour them, whose souls they conceived most pure, which were thus snatched from their bodies, and to retain a stronger propension unto them; whereas they weariedly left a languishing corpse and with faint desires of re-union. If they fell by long and aged decay, yet wrapt up in the bundle of time, they fall into indistinction, and make but one blot with infants. If we begin to die when we live, and long life be but a prolongation of death, our life is a sad composition; we live with death, and die not in a moment. How many pulses made up the life of Methuselah, were work for Archimedes: common counters sum up the life of Moses his man. Our days become considerable, like petty sums, by minute accumulations: where numerous fractions make up but small round numbers; and our days of a span long, make not one little finger.[^1]
+
+If the nearness of our last necessity brought a nearer conformity into it, there were a happiness in hoary hairs, and no calamity in half-senses. But the long habit of living indisposeth us for dying; when avarice makes us the sport of death, when even David grew politickly cruel, and Solomon could hardly be said to be the wisest of men. But many are too early old, and before the date of age. Adversity stretcheth our days, misery makes Alcmena’s nights,[^2] and time hath no wings unto it. But the most tedious being is that which can unwish itself, content to be nothing, or never to have been, which was beyond the malcontent of Job, who cursed not the day of his life, but his nativity; content to have so far been, as to have a title to future being, although he had lived here but in an hidden state of life, and as it were an abortion.
+
+What song the Syrens sang, or what name Achilles assumed when he hid himself among women, though puzzling questions,[^3] are not beyond all conjecture. What time the persons of these ossuaries entered the famous nations of the dead, and slept with princes and counsellors, might admit a wide solution. But who were the proprietaries of these bones, or what bodies these ashes made up, were a question above antiquarism; not to be resolved by man, nor easily perhaps by spirits, except we consult the provincial guardians, or tutelary observators. Had they made as good provision for their names, as they have done for their relicks, they had not so grossly erred in the art of perpetuation. But to subsist in bones, and be but pyramidally extant, is a fallacy in duration. Vain ashes which in the oblivion of names, persons, times, and sexes, have found unto themselves a fruitless continuation, and only arise unto late posterity, as emblems of mortal vanities, antidotes against pride, vain-glory, and madding vices. Pagan vain-glories which thought the world might last for ever, had encouragement for ambition; and, finding no *atropos* unto the immortality of their names, were never dampt with the necessity of oblivion. Even old ambitions had the advantage of ours, in the attempts of their vain-glories, who acting early, and before the probable meridian of time, have by this time found great accomplishment of their designs, whereby the ancient heroes have already outlasted their monuments and mechanical preservations. But in this latter scene of time, we cannot expect such mummies unto our memories, when ambition may fear the prophecy of Elias,[^4] and Charles the Fifth can never hope to live within two Methuselahs of Hector.[^5]
+
+And therefore, restless inquietude for the diuturnity of our memories unto the present considerations seems a vanity almost out of date, and superannuated piece of folly. We cannot hope to live so long in our names, as some have done in their persons. One face of Janus holds no proportion unto the other. ’Tis too late to be ambitious. The great mutations of the world are acted, or time may be too short for our designs. To extend our memories by monuments, whose death we daily pray for, and whose duration we cannot hope, without injury to our expectations in the advent of the last day, were a contradiction to our beliefs. We whose generations are ordained in this setting part of time, are providentially taken off from such imaginations; and, being necessitated to eye the remaining particle of futurity, are naturally constituted unto thoughts of the next world, and cannot excusably decline the consideration of that duration, which maketh pyramids pillars of snow, and all that’s past a moment.
+
+Circles and right lines limit and close all bodies, and the mortal right-lined circle[^6] must conclude and shut up all. There is no antidote against the opium of time, which temporally considereth all things: our fathers find their graves in our short memories, and sadly tell us how we may be buried in our survivors. Gravestones tell truth scarce forty years. Generations pass while some trees stand, and old families last not three oaks. To be read by bare inscriptions like many in Gruter, to hope for eternity by enigmatical epithets or first letters of our names, to be studied by antiquaries, who we were, and have new names given us like many of the mummies, are cold consolations unto the students of perpetuity, even by everlasting languages.
+
+To be content that times to come should only know there was such a man, not caring whether they knew more of him, was a frigid ambition in Cardan;[^7] disparaging his horoscopal inclination and judgment of himself. Who cares to subsist like Hippocrates’s patients, or Achilles’s horses in Homer, under naked nominations, without deserts and noble acts, which are the balsam of our memories, the *entelechia* and soul of our subsistences? To be nameless in worthy deeds, exceeds an infamous history. The Canaanitish woman lives more happily without a name, than Herodias with one. And who had not rather have been the good thief, than Pilate?
+
+But the iniquity of oblivion blindly scattereth her poppy, and deals with the memory of men without distinction to merit of perpetuity. Who can but pity the founder of the pyramids? Herostratus lives that burnt the temple of Diana, he is almost lost that built it. Time hath spared the epitaph of Adrian’s horse, confounded that of himself. In vain we compute our felicities by the advantage of our good names, since bad have equal durations, and Thersites is like to live as long as Agamemnon without the favour of the everlasting register. Who knows whether the best of men be known, or whether there be not more remarkable persons forgot, than any that stand remembered in the known account of time? The first man had been as unknown as the last, and Methuselah’s long life had been his only chronicle.
+
+Oblivion is not to be hired. The greater part must be content to be as though they had not been, to be found in the register of God, not in the record of man. Twenty-seven names make up the first story and the recorded names ever since contain not one living century. The number of the dead long exceedeth all that shall live. The night of time far surpasseth the day, and who knows when was the equinox? Every hour adds unto that current arithmetick, which scarce stands one moment. And since death must be the *Lucina* of life, and even Pagans[^8] could doubt, whether thus to live were to die; since our longest sun sets at right descensions, and makes but winter arches, and therefore it cannot be long before we lie down in darkness, and have our light in ashes; since the brother of death daily haunts us with dying mementoes, and time that grows old in itself, bids us hope no long duration;—diuturnity is a dream and folly of expectation.
+
+Darkness and light divide the course of time, and oblivion shares with memory a great part even of our living beings; we slightly remember our felicities, and the smartest strokes of affliction leave but short smart upon us. Sense endureth no extremities, and sorrows destroy us or themselves. To weep into stones are fables. Afflictions induce callosities; miseries are slippery, or fall like snow upon us, which notwithstanding is no unhappy stupidity. To be ignorant of evils to come, and forgetful of evils past, is a merciful provision in nature, whereby we digest the mixture of our few and evil days, and, our delivered senses not relapsing into cutting remembrances, our sorrows are not kept raw by the edge of repetitions. A great part of antiquity contented their hopes of subsistency with a transmigration of their souls,—a good way to continue their memories, while having the advantage of plural successions, they could not but act something remarkable in such variety of beings, and enjoying the fame of their passed selves, make accumulation of glory unto their last durations. Others, rather than be lost in the uncomfortable night of nothing, were content to recede into the common being, and make one particle of the public soul of all things, which was no more than to return into their unknown and divine original again. Egyptian ingenuity was more unsatisfied, contriving their bodies in sweet consistences, to attend the return of their souls. But all is vanity, feeding the wind, and folly. Egyptian mummies, which Cambyses or time hath spared, avarice now consumeth. Mummy is become merchandise, Mizraim, cures wounds, and Pharaoh is sold for balsams.
+
+In vain do individuals hope for immortality, or any patent from oblivion, in preservations below the moon; men have been deceived even in their flatteries, above the sun, and studied conceits to perpetuate their names in heaven. The various cosmography of that part hath already varied the names of contrived constellations; Nimrod is lost in Orion, and Osyris in the Dog-star. While we look for incorruption in the heavens, we find that they are but like the earth;—durable in their main bodies, alterable in their parts; whereof, beside comets and new stars, perspectives begin to tell tales, and the spots that wander about the sun, with Phaeton’s favour, would make clear conviction.
+
+There is nothing strictly immortal, but immortality. Whatever hath no beginning, may be confident of no end;—all others have a dependent being and within the reach of destruction;—which is the peculiar of that necessary essence that cannot destroy itself;—and the highest strain of omnipotency, to be so powerfully constituted as not to suffer even from the power of itself. But the sufficiency of Christian immortality frustrates all earthly glory, and the quality of either state after death, makes a folly of posthumous memory. God who can only destroy our souls, and hath assured our resurrection, either of our bodies or names hath directly promised no duration. Wherein there is so much of chance, that the boldest expectants have found unhappy frustration; and to hold long subsistence, seems but a scape in oblivion. But man is a noble animal, splendid in ashes, and pompous in the grave, solemnizing nativities and deaths with equal lustre, nor omitting ceremonies of bravery in the infamy of his nature.
+
+Life is a pure flame, and we live by an invisible sun within us. A small fire sufficeth for life, great flames seemed too little after death, while men vainly affected precious pyres, and to burn like Sardanapalus; but the wisdom of funeral laws found the folly of prodigal blazes and reduced undoing fires unto the rule of sober obsequies, wherein few could be so mean as not to provide wood, pitch, a mourner, and an urn.
+
+Five languages[^9] secured not the epitaph of Gordianus. The man of God lives longer without a tomb than any by one, invisibly interred by angels, and adjudged to obscurity, though not without some marks directing human discovery. Enoch and Elias, without either tomb or burial, in an anomalous state of being, are the great examples of perpetuity, in their long and living memory, in strict account being still on this side death, and having a late part yet to act upon this stage of earth. If in the decretory term of the world we shall not all die but be changed, according to received translation, the last day will make but few graves; at least quick resurrections will anticipate lasting sepultures. Some graves will be opened before they be quite closed, and Lazarus be no wonder. When many that feared to die, shall groan that they can die but once, the dismal state is the second and living death, when life puts despair on the damned; when men shall wish the coverings of mountains, not of monuments, and annihilations shall be courted.
+
+While some have studied monuments, others have studiously declined them, and some have been so vainly boisterous, that they durst not acknowledge their graves; wherein Alaricus seems most subtle, who had a river turned to hide his bones at the bottom. Even Sylla, that thought himself safe in his urn, could not prevent revenging tongues, and stones thrown at his monument. Happy are they whom privacy makes innocent, who deal so with men in this world, that they are not afraid to meet them in the next; who, when they die, make no commotion among the dead, and are not touched with that poetical taunt of Isaiah.[^10]
+
+Pyramids, arches, obelisks, were but the irregularities of vain-glory, and wild enormities of ancient magnanimity. But the most magnanimous resolution rests in the Christian religion, which trampleth upon pride and sits on the neck of ambition, humbly pursuing that infallible perpetuity, unto which all others must diminish their diameters, and be poorly seen in angles of contingency.[^11]
+
+Pious spirits who passed their days in raptures of futurity, made little more of this world, than the world that was before it, while they lay obscure in the chaos of pre-ordination, and night of their fore-beings. And if any have been so happy as truly to understand Christian annihilation, ecstasies, exolution, liquefaction, transformation, the kiss of the spouse, gustation of God, and ingression into the divine shadow, they have already had an handsome anticipation of heaven; the glory of the world is surely over, and the earth in ashes unto them.
+
+To subsist in lasting monuments, to live in their productions, to exist in their names and predicament of chimeras, was large satisfaction unto old expectations, and made one part of their Elysiums. But all this is nothing in the metaphysicks of true belief. To live indeed, is to be again ourselves, which being not only an hope, but an evidence in noble believers, ’tis all one to lie in St Innocent’s[^12] church-yard as in the sands of Egypt. Ready to be anything, in the ecstasy of being ever, and as content with six foot as the *moles* of Adrianus.[^13]
+
+[^1]: According to the ancient arithmetick of the hand, wherein the little finger of the right hand contracted, signified an hundred.—*Pierius in Hieroglyph.*
+
+[^2]: One night as long as three
+
+[^3]: The puzzling questions of Tiberius unto grammarians.—*Marcel.* *Donatus in Suet.*
+
+[^4]: That the world may last but six thousand years
+
+[^5]: Hector’s fame outlasting above two lives of Methuselah before that famous prince was extant
+
+[^6]: The character of death
+
+[^7]: “Cuperem notum esse quod sim non opto ut sciatur qualis sim.”
+
+[^8]: Euripides
+
+[^9]: Greek, Latin, Hebrew, Egyptian, Arabic defaced by the Emperor Licinius
+
+[^10]: Isa. xiv. 16
+
+[^11]: The least of angles
+
+[^12]: In Paris, where bodies soon consume
+
+[^13]: A stately mausoleum or sepulchral pile, built by Adrianus in Rome, where now standeth the castle of St Angelo
+
+
+---
+[[HY 05 Chapter 4|← Chapter 4]] · [[Hydriotaphia, Urn-Burial|Contents]]

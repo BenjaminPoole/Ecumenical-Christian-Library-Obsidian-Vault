@@ -1,0 +1,184 @@
+---
+title: "Letter 1"
+author: "Blaise Pascal"
+work: "The Provincial Letters"
+section: 1
+translator:
+  - "Thomas M'Crie"
+year: "1856"
+written: "1656–1657"
+source: "https://www.gutenberg.org/ebooks/73959"
+tags:
+  - scientists
+  - blaise-pascal
+---
+
+# Letter 1
+
+*Disputes in the Sorbonne, and the Invention of Proximate Power—A Term Employed by the Jesuits to Procure the Censure of M. Arnauld.*
+
+Sir,—We were entirely mistaken. It was only yesterday that I was undeceived. Until that time I had labored under the impression that the disputes in the Sorbonne were vastly important, and deeply affected the interests of religion. The frequent convocations of an assembly so illustrious as that of the Theological Faculty of Paris, attended by so many extraordinary and unprecedented circumstances, led one to form such high expectations, that it was impossible to help coming to the conclusion that the subject was most extraordinary. You will be greatly surprised, however, when you learn from the following account, the issue of this grand demonstration, which, having made myself perfectly master of the subject, I shall be able to tell you in very few words.
+
+Two questions, then, were brought under examination; the one a question of fact, the other a question of right.
+
+The question of fact consisted in ascertaining whether M. Arnauld was guilty of presumption, for having asserted in his second letter[^1] that he had carefully perused the book of Jansenius, and that he had not discovered the propositions condemned by the late pope; but that, nevertheless, as he condemned these propositions wherever they might occur, he condemned them in Jansenius, if they were really contained in that work.[^2]
+
+The question here was, if he could, without presumption, entertain a doubt that these propositions were in Jansenius, after the bishops had declared that they were.
+
+The matter having been brought before the Sorbonne, seventy-one doctors undertook his defence, maintaining that the only reply he could possibly give to the demands made upon him in so many publications, calling on him to say if he held that these propositions were in that book, was, that he had not been able to find them, but that if they were in the book, he condemned them in the book.
+
+Some even went a step farther, and protested that, after all the search they had made into the book, they had never stumbled upon these propositions, and that they had, on the contrary, found sentiments entirely at variance with them. They then earnestly begged that, if any doctor present had discovered them, he would have the goodness to point them out; adding, that what was so easy could not reasonably be refused, as this would be the surest way to silence the whole of them, M. Arnauld included; but this proposal has been uniformly declined. So much for the one side.
+
+On the other side are eighty secular doctors, and some forty mendicant friars, who have condemned M. Arnauld’s proposition, without choosing to examine whether he has spoken truly or falsely—who, in fact, have declared, that they have nothing to do with the veracity of his proposition, but simply with its temerity.
+
+Besides these, there were fifteen who were not in favor of the censure, and who are called Neutrals.
+
+Such was the issue of the question of fact, regarding which, I must say, I give myself very little concern. It does not affect my conscience in the least whether M. Arnauld is presumptuous, or the reverse; and should I be tempted, from curiosity, to ascertain whether these propositions are contained in Jansenius, his book is neither so very rare nor so very large as to hinder me from reading it over from beginning to end, for my own satisfaction, without consulting the Sorbonne on the matter.
+
+Were it not, however, for the dread of being presumptuous myself, I really think that I would be disposed to adopt the opinion which has been formed by the most of my acquaintances, who, though they have believed hitherto on common report that the propositions were in Jansenius, begin now to suspect the contrary, owing to this strange refusal to point them out—a refusal, the more extraordinary to me, as I have not yet met with a single individual who can say that he has discovered them in that work. I am afraid, therefore, that this censure will do more harm than good, and that the impression which it will leave on the minds of all who know its history will be just the reverse of the conclusion that has been come to. The truth is, the world has become sceptical of late, and will not believe things till it sees them. But, as I said before, this point is of very little moment, as it has no concern with religion.[^3]
+
+The question of right, from its affecting the faith, appears much more important, and, accordingly, I took particular pains in examining it. You will be relieved, however, to find that it is of as little consequence as the former.
+
+The point of dispute here, was an assertion of M. Arnauld’s in the same letter, to the effect, “that the grace without which we can do nothing, was wanting to St. Peter at his fall.” You and I supposed that the controversy here would turn upon the great principles of grace; such as, whether grace is given to all men? or, if it is efficacious of itself? But we were quite mistaken. You must know I have become a great theologian within this short time; and now for the proofs of it!
+
+To ascertain the matter with certainty, I repaired to my neighbor, M. N——, doctor of Navarre, who, as you are aware, is one of the keenest opponents of the Jansenists, and my curiosity having made me almost as keen as himself, I asked him if they would not formally decide at once that “grace is given to all men,” and thus set the question at rest. But he gave me a sore rebuff, and told me that that was not the point; that there were some of his party who held that grace was not given to all; that the examiners themselves had declared, in a full assembly of the Sorbonne, that that opinion was *problematical*; and that he himself held the same sentiment, which he confirmed by quoting to me what he called that celebrated passage of St. Augustine: “We know that grace is not given to all men.”
+
+I apologized for having misapprehended his sentiment, and requested him to say if they would not at least condemn that other opinion of the Jansenists which is making so much noise, “That grace is efficacious of itself, and invincibly determines our will to what is good.” But in this second query I was equally unfortunate. “You know nothing about the matter,” he said; “that is not a heresy—it is an orthodox opinion; all the Thomists[^4] maintain it; and I myself have defended it in my Sorbonic thesis.”[^5]
+
+I did not venture again to propose my doubts, and yet I was as far as ever from understanding where the difficulty lay; so, at last, in order to get at it, I begged him to tell me where, then, lay the heresy of M. Arnauld’s proposition? “It lies here,” said he, “that he does not acknowledge that the righteous have the power of obeying the commandments of God, in the manner in which we understand it.”
+
+On receiving this piece of information, I took my leave of him; and, quite proud at having discovered the knot of the question, I sought M. N——, who is gradually getting better, and was sufficiently recovered to conduct me to the house of his brother-in-law, who is a Jansenist, if ever there was one, but a very good man notwithstanding. Thinking to insure myself a better reception, I pretended to be very high on what I took to be his side, and said: “Is it possible that the Sorbonne has introduced into the Church such an error as this, ‘that all the righteous have always the power of obeying the commandments of God?’”
+
+“What say you?” replied the doctor. “Call you that an error—a sentiment so Catholic that none but Lutherans and Calvinists impugn it?”
+
+“Indeed!” said I, surprised in my turn; “so you are not of their opinion?”
+
+“No,” he replied; “we anathematize it as heretical and impious.”[^6]
+
+Confounded by this reply, I soon discovered that I had overacted the Jansenist, as I had formerly overdone the Molinist.[^7] But not being sure if I had rightly understood him, I requested him to tell me frankly if he held “that the righteous have always a real power to observe the divine precepts?” Upon this the good man got warm (but it was with a holy zeal), and protested that he would not disguise his sentiments on any consideration—that such was, indeed, his belief, and that he and all his party would defend it to the death, as the pure doctrine of St. Thomas, and of St. Augustine their master.
+
+This was spoken so seriously as to leave me no room for doubt; and under this impression I returned to my first doctor, and said to him, with an air of great satisfaction, that I was sure there would be peace in the Sorbonne very soon; that the Jansenists were quite at one with them in reference to the power of the righteous to obey the commandments of God; that I could pledge my word for them, and could make them seal it with their blood.
+
+“Hold there!” said he. “One must be a theologian to see the point of this question. The difference between us is so subtle, that it is with some difficulty we can discern it ourselves—you will find it rather too much for your powers of comprehension. Content yourself, then, with knowing that it is very true the Jansenists will tell you that all the righteous have always the power of obeying the commandments; that is not the point in dispute between us; but mark you, they will not tell you that that power is *proximate*. That is the point.”
+
+This was a new and unknown word to me. Up to this moment I had managed to understand matters, but that term involved me in obscurity; and I verily believe that it has been invented for no other purpose than to mystify. I requested him to give me an explanation of it, but he made a mystery of it, and sent me back, without any further satisfaction, to demand of the Jansenists if they would admit this *proximate power*. Having charged my memory with the phrase (as to my understanding, that was out of the question), I hastened with all possible expedition, fearing that I might forget it, to my Jansenist friend, and accosted him, immediately after our first salutations, with: “Tell me, pray, if you admit *the proximate power*?” He smiled, and replied, coldly: “Tell me yourself in what sense you understand it, and I may then inform you what I think of it.” As my knowledge did not extend quite so far, I was at a loss what reply to make; and yet, rather than lose the object of my visit, I said at random: “Why, I understand it in the sense of the Molinists.” “To which of the Molinists do you refer me?” replied he, with the utmost coolness. I referred him to the whole of them together, as forming one body, and animated by one spirit.
+
+“You know very little about the matter,” returned he. “So far are they from being united in sentiment, that some of them are diametrically opposed to each other. But, being all united in the design to ruin M. Arnauld, they have resolved to agree on this term *proximate*, which both parties might use indiscriminately, though they understand it diversely, that thus, by a similarity of language, and an apparent conformity, they may form a large body, and get up a majority to crush him with the greater certainty.”
+
+This reply filled me with amazement; but without imbibing these impressions of the malicious designs of the Molinists, which I am unwilling to believe on his word, and with which I have no concern, I set myself simply to ascertain the various senses which they give to that mysterious word *proximate*. “I would enlighten you on the subject with all my heart,” he said; “but you would discover in it such a mass of contrariety and contradiction, that you would hardly believe me. You would suspect me. To make sure of the matter, you had better learn it from some of themselves; and I shall give you some of their addresses. You have only to make a separate visit to one called M. le Moine,[^8] and to Father Nicolai.”[^9]
+
+“I have no acquaintance with any of these persons,” said I.
+
+“Let me see, then,” he replied, “if you know any of those whom I shall name to you; they all agree in sentiment with M. le Moine.”
+
+I happened, in fact, to know some of them.
+
+“Well, let us see if you are acquainted with any of the Dominicans whom they call the ‘New Thomists,’[^10] for they are all the same with Father Nicolai.”
+
+I knew some of them also whom he named; and, resolved to profit by this counsel, and to investigate the matter, I took my leave of him, and went immediately to one of the disciples of M. le Moine. I begged him to inform me what it was to have the *proximate power* of doing a thing.
+
+“It is easy to tell you that,” he replied; “it is merely to have all that is necessary for doing it in such a manner that nothing is wanting to performance.”
+
+“And so,” said I, “to have the proximate power of crossing a river, for example, is to have a boat, boatmen, oars, and all the rest, so that nothing is wanting?”
+
+“Exactly so,” said the monk.
+
+“And to have the proximate power of *seeing*,” continued I, “must be to have good eyes and the light of day; for a person with good sight in the dark would not have the proximate power of seeing, according to you, as he would want the light, without which one cannot see?”
+
+“Precisely,” said he.
+
+“And consequently,” returned I, “when you say that all the righteous have the proximate power of observing the commandments of God, you mean that they have always all the grace necessary for observing them, so that nothing is wanting to them on the part of God.”
+
+“Stay there,” he replied; “they have always all that is necessary for observing the commandments, or at least for asking it of God.”
+
+“I understand you,” said I; “they have all that is necessary for praying to God to assist them, without requiring any new grace from God to enable them to pray.”
+
+“You have it now,” he rejoined.
+
+“But is it not necessary that they have an efficacious grace, in order to pray to God?”
+
+“No,” said he; “not according to M. le Moine.”
+
+To lose no time, I went to the Jacobins,[^11] and requested an interview with some whom I knew to be New Thomists, and I begged them to tell me what “proximate power” was. “Is it not,” said I, “that power to which nothing is wanting in order to act?”
+
+“No,” said they.
+
+“Indeed! fathers,” said I; “if anything is wanting to that power, do you call it proximate? Would you say, for instance, that a man in the night time, and without any light, had the proximate power of seeing?”
+
+“Yes, indeed, he would have it, in our opinion, if he is not blind.”
+
+“I grant that,” said I; “but M. le Moine understands it in a different manner.”
+
+“Very true,” they replied; “but so it is that we understand it.”
+
+“I have no objections to that,” I said; “for I never quarrel about a name, provided I am apprized of the sense in which it is understood. But I perceive from this, that when you speak of the righteous having always the proximate power of praying to God, you understand that they require another supply for praying, without which they will never pray.”
+
+“Most excellent!” exclaimed the good fathers, embracing me; “exactly the thing; for they must have, besides, an efficacious grace bestowed upon all, and which determines their wills to pray; and it is heresy to deny the necessity of that efficacious grace in order to pray.”
+
+“Most excellent!” cried I, in return; “but, according to you, the Jansenists are Catholics, and M. le Moine a heretic; for the Jansenists maintain that, while the righteous have power to pray, they require nevertheless an efficacious grace; and this is what you approve. M. le Moine, again, maintains that the righteous may pray without efficacious grace; and this is what you condemn.”
+
+“Ay,” said they; “but M. le Moine calls that power *proximate power*.”
+
+“How now! fathers,” I exclaimed; “this is merely playing with words, to say that you are agreed as to the common terms which you employ, while you differ with them as to the sense of these terms.”
+
+The fathers made no reply; and at this juncture, who should come in but my old friend the disciple of M. le Moine! I regarded this at the time as an extraordinary piece of good fortune; but I have discovered since then that such meetings are not rare—that, in fact, they are constantly mixing in each other’s society.[^12]
+
+“I know a man,” said I, addressing myself to M. le Moine’s disciple, “who holds that all the righteous have always the power of praying to God, but that, notwithstanding this, they will never pray without an efficacious grace which determines them, and which God does not always give to all the righteous. Is he a heretic?”
+
+“Stay,” said the doctor; “you might take me by surprise. Let us go cautiously to work. *Distinguo.*[^13] If he call that power *proximate power*, he will be a Thomist, and therefore a Catholic; if not, he will be a Jansenist, and therefore a heretic.”
+
+“He calls it neither proximate nor non-proximate,” said I.
+
+“Then he is a heretic,” quoth he; “I refer you to these good fathers if he is not.”
+
+I did not appeal to them as judges, for they had already nodded assent; but I said to them: “He refuses to admit that word *proximate*, because he can meet with nobody who will explain it to him.”
+
+Upon this one of the fathers was on the point of offering his definition of the term, when he was interrupted by M. le Moine’s disciple, who said to him: “Do you mean, then, to renew our broils? Have we not agreed not to explain that word *proximate*, but to use it on both sides without saying what it signifies?” To this the Jacobin gave his assent.
+
+I was thus let into the whole secret of their plot; and rising to take my leave of them, I remarked: “Indeed, fathers, I am much afraid this is nothing better than pure chicanery; and whatever may be the result of your convocations, I venture to predict that, though the censure should pass, peace will not be established. For though it should be decided that the syllables of that word *proximate* should be pronounced, who does not see that, the meaning not being explained, each of you will be disposed to claim the victory? The Jacobins will contend that the word is to be understood in their sense; M. le Moine will insist that it must be taken in his; and thus there will be more wrangling about the explanation of the word than about its introduction. For, after all, there would be no great danger in adopting it without any sense, seeing it is through the sense only that it can do any harm. But it would be unworthy of the Sorbonne and of theology to employ equivocal and captious terms without giving any explanation of them. In short, fathers, tell me, I entreat you, for the last time, what is necessary to be believed in order to be a good Catholic?”
+
+“You must say,” they all vociferated simultaneously, “that all the righteous have the *proximate power*, abstracting from it all sense—from the sense of the Thomists and the sense of other divines.”
+
+“That is to say,” I replied, in taking leave of them, “that I must pronounce that word to avoid being the heretic of a name. For, pray, is this a Scripture word?” “No,” said they. “Is it a word of the Fathers, the Councils, or the Popes?” “No.” “Is the word, then, used by St. Thomas?” “No.” “What necessity, therefore, is there for using it, since it has neither the authority of others nor any sense of itself?” “You are an opinionative fellow,” said they; “but you shall say it, or you shall be a heretic, and M. Arnauld into the bargain; for we are the majority, and should it be necessary, we can bring a sufficient number of Cordeliers[^14] into the field to carry the day.”
+
+On hearing this solid argument, I took my leave of them, to write you the foregoing account of my interview, from which you will perceive that the following points remain undisputed and uncondemned by either party. *First*, That grace is not given to all men. *Second*, That all the righteous have always the power of obeying the divine commandments. *Third*, That they require, nevertheless, in order to obey them, and even to pray, an efficacious grace, which invincibly determines their will. *Fourth*, That this efficacious grace is not always granted to all the righteous, and that it depends on the pure mercy of God. So that, after all, the truth is safe, and nothing runs any risk but that word without the sense, *proximate*.
+
+Happy the people who are ignorant of its existence!—happy those who lived before it was born!—for I see no help for it, unless the gentlemen of the Academy,[^15] by an act of absolute authority, banish that barbarous term, which causes so many divisions, from beyond the precincts of the Sorbonne. Unless this be done, the censure appears certain; but I can easily see that it will do no other harm than diminish the credit[^16] of the Sorbonne, and deprive it of that authority which is so necessary to it on other occasions.
+
+Meanwhile, I leave you at perfect liberty to hold by the word *proximate* or not, just as you please; for I love you too much to persecute you under that pretext. If this account is not displeasing to you, I shall continue to apprize you of all that happens.—I am, &c.
+
+[^1]: Anthony Arnauld, or Arnaud, priest and doctor of the Sorbonne, was the son of Anthony Arnauld, a famous advocate, and born at Paris, February 6, 1612. He early distinguished himself in philosophy and divinity, advocating the doctrines of Augustine and Port-Royal, and opposing those of the Jesuits. The disputes concerning grace which broke out about 1643 in the University of Paris, served to foment the mutual animosity between M. Arnauld and the Jesuits, who entertained a hereditary feud against the whole family, from the active part taken by their father against the Society in the close of the preceding century. In 1655 it happened that a certain duke, who was educating his grand-daughter at Port-Royal, the Jansenist monastery, and kept a Jansenist abbé in his house, on presenting himself for confession to a priest under the influence of the Jesuits, was refused absolution, unless he promised to recall his grand-daughter and discard his abbé. This produced two letters from M. Arnauld, in the second of which he exposed the calumnies and falsities with which the Jesuits had assailed him in a multitude of pamphlets. This is the letter referred to in the text
+
+[^2]: The book which occasioned these disputes was entitled Augustinus, and was written by Cornelius Jansenius or Jansen, bishop of Ypres, and published after his death. Five propositions, selected from this work, were condemned by the pope; and armed with these, as with a scourge, the Jesuits continued to persecute the Jansenists till they accomplished their ruin
+
+[^3]: And yet “the question of fact,” which Pascal professes to treat so lightly, became the turning point of all the subsequent persecutions directed against the unhappy Port-Royalists! Those who have read the sad tale of the demolition of Port-Royal, will recollect with a sigh, the sufferings inflicted on the poor scholars and pious nuns of that establishment solely on the ground that, from respect to Jansenius and to a good conscience they would not subscribe a formulary acknowledging the five propositions to be contained in his book.—(See Narrative of the Demolition of the Monastery of Port-Royal, by Mary Anne Schimmelpenninck p. 170, &c.)
+
+[^4]: The Thomists were so called after Thomas Aquinas, the celebrated “Angelic Doctor” of the schools. He flourished in the thirteenth century, and was opposed in the following century, by Duns Scotus, a British, some say a Scottish, monk of the order of St. Francis. This gave rise to a fierce and protracted controversy, in the course of which the Franciscans took the side of Duns Scotus, and were called Scotists; while the Dominicans espoused the cause of Thomas Aquinas, and were sometimes called Thomists
+
+[^5]: *Sorbonique*—an act or thesis of divinity, delivered in the hall of the college of the Sorbonne by candidates for the degree of doctor
+
+[^6]: The Jansenists, in their dread of being classed with Lutherans and Calvinists, condescended to quibble on this question. In reality, as we shall see, they agreed with the Reformers for they denied that any could actually obey the commandments without efficacious grace
+
+[^7]: *Molinist.* The Jesuits were so called, in this dispute, after Lewis Molina, a famous Jesuit of Spain, who published a work, entitled Concordia Gratiæ et Liberi Arbitrii, in which he professed to have found out a new way of reconciling the freedom of the human will with the divine prescience. This new invention was termed *Scientia Media*, or middle knowledge. All who adopted the sentiments of Molina, whether Jesuits or not, were termed Molinists
+
+[^8]: *Pierre le Moine* was a doctor of the Sorbonne, whom Cardinal Richelieu employed to write against Jansenius. This Jesuit was the author of several works which display considerable talent, though little principle. His book on Grace was forcibly answered, and himself somewhat severely handled, in a work entitled “An Apology for the Holy Fathers,” which he suspected to be written by Arnauld. It was Le Moine who, according to Nicole, had the chief share in raising the storm against Arnauld, of whom he was the bitter and avowed enemy
+
+[^9]: *Father Nicolai* was a Dominican—an order of friars who professed to be followers of St. Thomas. He is here mentioned as a representative of his class; but Nicole informs us that he abandoned the principles of his order, and became a Molinist, or an abettor of Pelagianism
+
+[^10]: *New Thomists.* It is more difficult to trace or remember the various sects into which the Roman Church is divided, than those of the Protestant Church. The New Thomists were the disciples of Diego Alvarez, a theologian of the order of St. Dominic, who flourished in the sixteenth and seventeenth centuries. He was sent from Spain to Rome in 1596, to defend the doctrine of grace against Molina, and distinguished himself in the Congregation *De Auxiliis*. The New Thomists contended for *efficacious grace*, but admitted at the same time, a *sufficient grace*, which was given to all, and yet not sufficient for any actual performance without the efficacious. The ridiculous incongruity of this doctrine is admirably exposed by Pascal in his second letter
+
+[^11]: *Jacobins*, another name for the Dominicans in France, where they were so called from the street in Paris, Rue de St. Jacques, where their first convent was erected, in the year 1218. In England they were called Black Friars. Their founder was Dominick, a Spaniard. His mother, it is said, dreamt, before his birth, that she was to be delivered of a wolf with a torch in his mouth. The augury was realized in the barbarous humor of Dominick, and the massacres which he occasioned in various parts of the world, by preaching up crusades against the heretics. He was the founder of the Inquisition, and his order was, before the Reformation, what the Jesuits were after it—the soul of the Romish hierarchy, and the bitterest enemies of the truth
+
+[^12]: This is a sly hit at the Dominicans for combining with their natural enemies the Jesuits, in order to accomplish the ruin of M. Arnauld
+
+[^13]: *Distinguo.* “I draw a distinction”—a humorous allusion to the endless distinctions of the Aristotelian school, in which the writings of the Casuists abounded, and by means of which they may be said to have more frequently eluded than elucidated the truth. M. le Moine was particularly famous for these *distinguos*, frequently introducing three or four of them in succession on one head; and the disciple in the test is made to echo the favorite phrase of his master
+
+[^14]: *Cordeliers*, a designation of the Franciscans, or monks of the order of St. Francis
+
+[^15]: The Royal Academy, which compiled the celebrated dictionary of the French language, and was held at that time to be the great umpire in literature
+
+[^16]: The edition of 1657 had it, *Rendre la Sorbonne meprisable*—“Render the Sorbonne contemptible”—an expression much more just, but which the editors durst not allow to remain in the subsequent editions
+
+
+---
+[[The Provincial Letters|Contents]] · [[PL 02 Letter 2|Letter 2 →]]

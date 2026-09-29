@@ -126,4 +126,4 @@ only been said to thee that thou mightest know what the highest is, and that tho
 
 
 ---
-[[ECK 06 V. The Self-Communication of God|← V. The Self-Communication of God]] · [[Sermons|Contents]] · [[ECK 08 VII. Outward and Inward Morality|VII. Outward and Inward Morality →]]
+[[ECK 06 V. The Self-Communication of God|← V. The Self-Communication of God]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 08 VII. Outward and Inward Morality|VII. Outward and Inward Morality →]]

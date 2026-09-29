@@ -1,0 +1,21 @@
+---
+title: "John Wilkins"
+tags:
+  - scientists
+  - john-wilkins
+  - author-index
+---
+
+# John Wilkins
+
+John Wilkins (1614–1672), Warden of Wadham and then Master of Trinity, Bishop of Chester, and the man who more than any other made the Royal Society happen: the experimental club met in his lodgings at Oxford through the Interregnum, and he was its first secretary. He married Cromwell's sister and kept the friendship of both sides, and held, against the temper of the age, that the reasonableness of religion could be shown to anyone willing to follow an argument.
+
+## Works (7)
+
+- **[[A Discourse Concerning a New World and Another Planet|A Discourse Concerning a New World and Another Planet]]** — Two books published together in 1640: *The Discovery of a New World*, arguing that the moon may be a habitable world, and *A Discourse Concerning a New Planet*, arguing that the earth is one of the planets. The second is the fullest English answer of its century to the charge that Copernicus contradicts Scripture — its first propositions are that novelty proves nothing, that the texts which seem to make the sun move bear another reading, and that the Holy Ghost speaks of nature as it appears to the eye. Both books take up the theological objection at every step. (26 notes)
+- **[[A Discourse Concerning the Beauty of Providence|A Discourse Concerning the Beauty of Providence]]** — Printed in the year of the king's execution and offered as *very seasonable to quiet and support the heart in these times of public confusion*. Wilkins's subject is the providence that is only beautiful when the whole of it is seen, and the temper proper to those who are inside a piece of history and cannot see it. (2 notes)
+- **[[A Discourse Concerning the Gift of Prayer|A Discourse Concerning the Gift of Prayer]]** — What the gift of prayer is, why it is ascribed to the Spirit, and how far it may be attained by industry — written in the middle of the quarrel over set forms and free prayer, and answering it by teaching the thing itself. Half the book is a storehouse of matter for confession, petition, intercession and thanksgiving, arranged under the commandments. (31 notes)
+- **[[Ecclesiastes, or a Discourse Concerning the Gift of Preaching|Ecclesiastes, or a Discourse Concerning the Gift of Preaching]]** — Wilkins's handbook for preachers, first printed in 1646 and enlarged in later editions: the method of a sermon, its matter, and its expression, with a long catalogue of the commentators on every book of Scripture and the authors on every head of divinity, which is what the book was chiefly used for. It is the plain style of the Royal Society applied to the pulpit a generation before the Society existed. (2 notes)
+- **[[Of the Principles and Duties of Natural Religion|Of the Principles and Duties of Natural Religion]]** — Left unfinished at Wilkins's death in 1672 and completed for the press by John Tillotson. The first book argues the reasonableness of believing there is a God, from consent, from the origin of the world, from contrivance and from providence, and then goes through the divine perfections; the second argues that the duties which follow are also the wisest way for a man to live. It is the founding book of English natural theology and was still being set for undergraduates a century later. The volume closes with the sermon William Lloyd preached at Wilkins's funeral, kept here as it was printed with the book. (28 notes)
+- **[[Sermons Preached Before the King at White-Hall|Sermons Preached Before the King at White-Hall]]** — Three sermons Wilkins preached before Charles II in the last years of his life, on the length of days in Wisdom's right hand, on the whole duty of man, and on the judgement of every secret thing. The volume printed them with the *Beauty of Providence*, which is given in the vault as its own work. (5 notes)
+- **[[Sermons Preached upon Several Occasions|Sermons Preached upon Several Occasions]]** — Fifteen sermons found among Wilkins's papers and published ten years after his death: on the recompence of reward, on the kingdom of God as righteousness and peace, on adorning the doctrine of God, on wisdom and its companions, on moderation, and two on leaving vengeance to God. They are the preaching the *Ecclesiastes* recommends, plain and argued. (16 notes)

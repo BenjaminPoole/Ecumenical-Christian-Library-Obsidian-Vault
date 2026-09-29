@@ -76,4 +76,4 @@ draw. Therefore He said, “I will also draw with My cords and My net.” So He 
 shall never perish, for we are so caught by His goodness that He expels from us all the evil works of the flesh, and produces in us His fruits, so that we gain the reward of everlasting life. May the Father of His love, and the Son of His grace, and the Holy Spirit with His fellowship, grant us to be worthy of the same. Amen.
 
 ---
-[[ECK 01 Preface|← Preface]] · [[Sermons|Contents]] · [[ECK 03 II. The Nearness of the Kingdom|II. The Nearness of the Kingdom →]]
+[[ECK 01 Preface|← Preface]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 03 II. The Nearness of the Kingdom|II. The Nearness of the Kingdom →]]

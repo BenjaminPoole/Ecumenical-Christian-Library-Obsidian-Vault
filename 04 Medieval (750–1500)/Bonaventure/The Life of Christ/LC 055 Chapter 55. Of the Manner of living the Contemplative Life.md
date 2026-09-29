@@ -1,0 +1,26 @@
+---
+title: "Chapter 55. Of the Manner of living the Contemplative Life"
+author: "Bonaventure"
+work: "The Life of Christ"
+section: 55
+translator:
+  - "W. H. Hutchings"
+year: "1888"
+written: "c. 1260"
+source: "https://archive.org/details/TheLifeOfChristBonaventure"
+tags:
+  - medieval
+  - bonaventure
+---
+# Chapter 55. Of the Manner of living the Contemplative Life
+
+Otherwise, far otherwise, must the Contemplative Life be lived. In it, the life is lived with God alone, and in solitude of spirit, of which I have spoken on the subject of our Lord’s Fast Neither the concerns of others nor our own temporal affairs should occupy us, or draw us away from our sole employment, from thought, devotion, and tenderness. Nothing of oneself is to remain ; we must cast behind our back everything, as if we were unconscious or dead, in order to spend our time with God alone, unless necessity, in spite of ourselves, should oblige us to forego devotion. To be well instructed as to this wisdom in repose, as you have before seen in S. Bernard’s fortieth sermon on the Song of Solomon, it behoves you to lessen activity ; and to remain silent, after the example of Mary, as much as possible, and as far as right, even when spoken to, as she left her Lord to speak and to reply, and committed all to His most gracious providence. Upon this hear S. Bernard, speaking with his usual eloquence : “Martha, whilst she acted, represented the form of the Active Life. Mary, however, depicted the Contemplative Life, as she sat and remained silent and motionless, listening only with all her power to the word of God ; thus loving the grace of Divine knowledge, she drank it in from its Source, despising all else. Without, she is as one unconscious ; within, she is thrilled with the ineffable delight of contemplating God.” “Do not marvel, if he who toils and works hard, murmurs at one who rests in contemplation, because this took place in the Gospel, between Martha and Mary. Martha murmured against Mary, because she was cumbered about much serving, and her sister did not come to help her. Neither could the two be combined — the cares of external service, and the desires of interior wisdom. For it is written of wisdom itself, that ‘ it cometh by opportunity of leisure / 1 It is therefore that Mary sat and remained motionless, and wills not to interrupt the repose of her silence, for fear of losing the sweet delights of contemplation, especially whilst she heard Jesus saying to her in spirit, Rest, and see how gracious the Lord is/” a Again, “Do you think in the house where Christ enters, murmuring should be heard ? Happy home, and blessed society, where Martha complains of Mary. For that Mary should emulate Martha would not be fitting and right. For thus would she have complained that her sister had left her to serve the Lord alone? No. No. She who is occupied with Godhas no thought to give to the inquietudes and occupations of others ! Martha does not seem sufficient for her work, and, less capable herself, wishes to divide it with others. Regard, on the other hand, the prerogative of Mary, who in all her cause has some one to take her part. The Pharisee is indignant, the sister complains, the disciples themselves murmur. She is all the while silent, and Jesus replies on her behalf .”[^1] And further, “See how Mary tastes and sees how gracious the Lord is, how she, with devout heart and calm soul, sits at Jesus* feet, regarding Him and listening to every word which flows from His lips, whose tenderness is deep, whose words are full of grace, whose beauty is more than the sons of men, nay, almost the beauty of angelworlds. Rejoice and give thanks, Mary, for you have chosen the good part ! Blessed are the eyes which see the things that ye see, and the ears that are worthy of hearing the things that ye hear ! Blessed ye who listen for the faintest whispers of the Divine voice in stillness and silence, for it is good for a man to wait upon the Lord ! Be simple ; not only be without guile, but without a multiplicity of distracting occupations, so that you may enjoy communion with Him, whose Voice is sweet, and His Countenance lovely. Beware, however, of one thing, lest you begin to grow self-satisfied on account of this sweetness, and to think more of yourself than you ought, lest, whilst following after light, you encounter darkness, through the illusions of that sickness that destroyeth at noonday — the pride of the devil”
+
+*Notes: EccL xxxviii. 24 — Ps. xxxiv.*
+
+You have now learnt, that for a man to lead a life of contemplation, he has to abandon other occupations, and manual labour, because occupation is opposed to rest, and is one of its great hindrances. Much business is hurtful in many ways, not only during the actual occupation, but also afterwards ; it fills the mind with anxiety and solitude as to what has been, or is to be done, and leaves its impress on our inner being which we cannot shake off, and therefore care and contemplation cannot co-exist
+
+[^1]: Serm. iii. de Assump. Virg.
+
+---
+[[LC 054 Chapter 54. Of the Manner of living the Active Life. The Excellent Teaching|← Chapter 54]] · [[The Life of Christ|Contents]] · [[LC 056 Chapter 56. Of Four Obstacles to Contemplation|Chapter 56 →]]

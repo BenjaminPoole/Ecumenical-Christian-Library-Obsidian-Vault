@@ -49,4 +49,4 @@ this world mine, and two worlds more beside it, I would give them and myself als
 renounced self. May God and the Eternal Wisdom grant us to remain equally immovable and unalterable with Himself. Amen.
 
 ---
-[[ECK 04 III. The Angel's Greeting|← III. The Angel's Greeting]] · [[Sermons|Contents]] · [[ECK 06 V. The Self-Communication of God|V. The Self-Communication of God →]]
+[[ECK 04 III. The Angel's Greeting|← III. The Angel's Greeting]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 06 V. The Self-Communication of God|V. The Self-Communication of God →]]

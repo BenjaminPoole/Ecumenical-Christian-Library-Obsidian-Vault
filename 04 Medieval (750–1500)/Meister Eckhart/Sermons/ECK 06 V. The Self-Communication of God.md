@@ -53,4 +53,4 @@ creatures whom He Himself created with the Father, through Whose
 will He became man. Thus was Christ till His death, and when He rose from the dead then was seen the most despised of all men united with the Godhead in the Person of Christ.
 
 ---
-[[ECK 05 IV. True Hearing|← IV. True Hearing]] · [[Sermons|Contents]] · [[ECK 07 VI. Sanctification|VI. Sanctification →]]
+[[ECK 05 IV. True Hearing|← IV. True Hearing]] · [[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 07 VI. Sanctification|VI. Sanctification →]]

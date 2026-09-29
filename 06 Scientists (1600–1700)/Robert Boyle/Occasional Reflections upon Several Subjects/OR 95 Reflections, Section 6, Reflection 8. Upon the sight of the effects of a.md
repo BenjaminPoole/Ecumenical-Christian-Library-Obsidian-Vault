@@ -1,0 +1,19 @@
+---
+title: "Reflections, Section 6, Reflection 8. Upon the sight of the effects of a Burning-glass"
+author: "Robert Boyle"
+work: "Occasional Reflections upon Several Subjects"
+section: 95
+year: "1665"
+written: "c. 1648–1665"
+source: "EEBO-TCP A29010, keyed from the 1665 edition"
+tags:
+  - scientists
+  - robert-boyle
+---
+
+# Reflections, Section 6, Reflection 8. Upon the sight of the effects of a Burning-glass
+
+It is a fault incident to many good men, to be too much indispos'd to entertain the Precepts of Vertue, as such excellent things deserve, in case those that teach them do not practise them. There are too many that do not think themselves oblig'd to take even the wholesomest advice from those, whom they see more careful to give it others, than to follow it themselves. And some of them are so nice, that they will scarce read a Book of Devotion, unless it come, like that St. *John eat* in the *Apocalypse*, from the hand of an Angel. But for my part, though I hope I both value and desire Religious Preachers as much as the rest of my Brethren, yet I think it would be much to the injury of Scripture and of Reason, if we should suffer the personal faults of men to keep them from doing that good, their nature fits them for. The Etymology of the Gospel importing its being welcome news, 'tis pity that any one that teaches it should not have a title to the Character *David* gave *Ahimaaz*, of whom he said, that *he is a good man, and brings good tidings*. But my desirousness of piety in a Preacher is more for others sake than mine. For I know not why Truth, which is an intellectual thing, should lose its nature by any moral vitiousness in the Proposer. I know there is something extraordinary in the case of *Noah*, who awoke from his Wine and immediately prophesied, and yet the Event verifi'd his Predictions. Our Saviour instructing his Disciples about the Scribes and Pharisees, who sate in *Moses*'s Chair, at the same time commands them to conform to their Doctrine, when he forbids them to imitate their Example. The Wise-men did not the less find Christ at *Bethlehem*, though the Priests and Pharisees sent them without accompanying them thither. And the *Assyrian* General was cured of his Leprosie by following the Prophet's prescription convey'd him by that *Gehazi*, who, by his unworthy carriage in that business, transplanted (if I may so speak) that foul Disease into himself and his posterity. I will therefore consider Sermons more than Preachers: For as in a Burning-glass, though the Sun-beams do but illustrate, not heat, it in their passage, they may yet, by its assistance, kindle subjects that are more disposed to receive their action: So those very Truths and Notions of a learned Preacher, which do but enlighten him, may inflame his Hearers, and kindle in their hearts the love of God. And as if a Perfume be set on fire by the Beams projected through a Burning-glass (which they do not so much as warm in their passage) the Scent is no less odoriferous and grateful, than if it had been produc'd by an actually burning coal. So neither is that Devotion which is kindled by the Eloquence of an indevout Preacher, any whit the less acceptable to God for their not being themselves affected with the Zeal they beget in others. And what the Book of *Kings* relates of *Elisha*'s Bones, contains a far greater Miracle in the Historical, than in the Allegorical sense, in which 'tis no such wonder to see a man rais'd to life by a dead Prophet.
+
+---
+[[OR 94 Reflections, Section 6, Reflection 7. (Taken out of the 2d Book of the|← Reflections, Section 6, Reflection 7. (Taken out of the 2d Book of the]] · [[Occasional Reflections upon Several Subjects|Contents]] · [[OR 96 Reflections, Section 6, Reflection 9. Upon the finding a Horse-shoe in the|Reflections, Section 6, Reflection 9. Upon the finding a Horse-shoe in the →]]

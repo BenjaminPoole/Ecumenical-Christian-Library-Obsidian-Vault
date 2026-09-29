@@ -34,4 +34,4 @@ thereto is complete quietism. But Eckhart shrank from carrying his doctrines out
 Note.—The best account of Eckhart in English is probably to be found in Vaughan’s “Hours with the Mystics,” vol. i.
 
 ---
-[[Sermons|Contents]] · [[ECK 02 I. The Attractive Power of God|I. The Attractive Power of God →]]
+[[04 Medieval (750–1500)/Meister Eckhart/Sermons|Contents]] · [[ECK 02 I. The Attractive Power of God|I. The Attractive Power of God →]]
