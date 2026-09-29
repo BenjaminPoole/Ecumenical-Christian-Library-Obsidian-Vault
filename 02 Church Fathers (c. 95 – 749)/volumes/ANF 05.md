@@ -9,7 +9,7 @@ tags:
 
 # ANF 5: Fathers of the Third Century: Hippolytus, Cyprian, Novatian, Appendix
 
-*Ante-Nicene Fathers, Volume 5 — 101 works.*
+*Ante-Nicene Fathers, Volume 5 — 114 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Hippolytus|Hippolytus]]
@@ -17,7 +17,9 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Against Noetus|Against Noetus]] — c. 200–210
 - [[Against Plato, On the Cause of the Universe|Against Plato, On the Cause of the Universe]] — c. 200–235
 - [[Expository Treatise Against the Jews|Expository Treatise Against the Jews]] — c. 200–235
+- [[02 Church Fathers (c. 95 – 749)/Hippolytus/Fragments from the Scriptural Commentaries|Fragments from the Scriptural Commentaries]] — c. 200–210
 - [[On Christ and Antichrist|On Christ and Antichrist]] — c. 200–204
+- [[02 Church Fathers (c. 95 – 749)/Hippolytus/On the Apostles and Disciples|On the Apostles and Disciples]] — Byzantine (attributed to Hippolytus)
 - [[On the End of the World|On the End of the World]] — 7th century or later
 - [[The Discourse on the Holy Theophany|The Discourse on the Holy Theophany]] — c. 200–235
 
@@ -32,6 +34,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Cyprian of Carthage|Cyprian of Carthage]]
 
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Against Novatian|Against Novatian]] — c. 253–257 (anonymous)
 - [[Epistle 1|Epistle 1]] — c. 246–258
 - [[Epistle 2|Epistle 2]] — c. 246–258
 - [[Epistle 3|Epistle 3]] — c. 246–258
@@ -49,6 +52,8 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Epistle 15|Epistle 15]] — c. 246–258
 - [[Epistle 17|Epistle 17]] — c. 246–258
 - [[Epistle 19|Epistle 19]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Epistle 20|Epistle 20]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Epistle 21|Epistle 21]] — c. 246–258
 - [[Epistle 22|Epistle 22]] — c. 246–258
 - [[Epistle 23|Epistle 23]] — c. 246–258
 - [[Epistle 24|Epistle 24]] — c. 246–258
@@ -71,12 +76,14 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Epistle 42|Epistle 42]] — c. 246–258
 - [[Epistle 43|Epistle 43]] — c. 246–258
 - [[Epistle 44|Epistle 44]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Epistle 45|Epistle 45]] — c. 246–258
 - [[Epistle 46|Epistle 46]] — c. 246–258
 - [[Epistle 47|Epistle 47]] — c. 246–258
 - [[Epistle 48|Epistle 48]] — c. 246–258
 - [[Epistle 50|Epistle 50]] — c. 246–258
 - [[Epistle 51|Epistle 51]] — c. 246–258
 - [[Epistle 52|Epistle 52]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Epistle 53|Epistle 53]] — c. 246–258
 - [[Epistle 54|Epistle 54]] — c. 246–258
 - [[Epistle 55|Epistle 55]] — c. 246–258
 - [[Epistle 56|Epistle 56]] — c. 246–258
@@ -97,11 +104,17 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Epistle 71|Epistle 71]] — c. 246–258
 - [[Epistle 72|Epistle 72]] — c. 246–258
 - [[Epistle 73|Epistle 73]] — c. 246–258
+- [[Epistle 74|Epistle 74]] — 256
 - [[Epistle 75|Epistle 75]] — c. 246–258
 - [[Epistle 76|Epistle 76]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Epistle 77|Epistle 77]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Epistle 78|Epistle 78]] — c. 246–258
 - [[Epistle 80|Epistle 80]] — c. 246–258
 - [[Epistle 81|Epistle 81]] — c. 246–258
 - [[Epistle 82|Epistle 82]] — c. 246–258
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Life and Passion of St. Cyprian|Life and Passion of St. Cyprian]] — c. 259 (Pontius the Deacon)
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/On Re-Baptism|On Re-Baptism]] — c. 256 (anonymous)
+- [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/On the Baptism of Heretics (Seventh Council of Carthage)|On the Baptism of Heretics (Seventh Council of Carthage)]] — 256
 - [[Refutation of All Heresies, Book I|Refutation of All Heresies, Book I]] — c. 222–235
 - [[Refutation of All Heresies, Book IV|Refutation of All Heresies, Book IV]] — c. 222–235
 - [[Refutation of All Heresies, Book IX|Refutation of All Heresies, Book IX]] — c. 222–235

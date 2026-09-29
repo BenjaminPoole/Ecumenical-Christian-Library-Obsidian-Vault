@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 6: Jerome: Letters and Select Works
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 6 — 98 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 6 — 107 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Jerome|Jerome]]
@@ -54,6 +54,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Jerome/Letter 43|Letter 43]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 44|Letter 44]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 45|Letter 45]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 46|Letter 46]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 47|Letter 47]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 48|Letter 48]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 49|Letter 49]] — c. 374–420
@@ -65,6 +66,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Jerome/Letter 55|Letter 55]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 57|Letter 57]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 58|Letter 58]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 59|Letter 59]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 60|Letter 60]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 61|Letter 61]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 62|Letter 62]] — c. 374–420
@@ -78,20 +80,25 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Jerome/Letter 76|Letter 76]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 77|Letter 77]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 79|Letter 79]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 80|Letter 80]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 81|Letter 81]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 82|Letter 82]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 84|Letter 84]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 85|Letter 85]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 86|Letter 86]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 88|Letter 88]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 92|Letter 92]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 95|Letter 95]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 97|Letter 97]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 99|Letter 99]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 107|Letter 107]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 108|Letter 108]] — 404
 - [[Library/Church Fathers/Jerome/Letter 109|Letter 109]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 113|Letter 113]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 114|Letter 114]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 117|Letter 117]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 118|Letter 118]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 120|Letter 120]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 122|Letter 122]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 123|Letter 123]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 124|Letter 124]] — c. 374–420
@@ -100,6 +107,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Jerome/Letter 128|Letter 128]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 130|Letter 130]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 133|Letter 133]] — c. 374–420
+- [[02 Church Fathers (c. 95 – 749)/Jerome/Letter 136|Letter 136]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 138|Letter 138]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 139|Letter 139]] — c. 374–420
 - [[Library/Church Fathers/Jerome/Letter 144|Letter 144]] — c. 374–420
@@ -108,6 +116,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Jerome/Letter 147|Letter 147]] — c. 374–420
 - [[Life of St. Hilarion|Life of St. Hilarion]] — c. 390–391
 - [[Library/Church Fathers/Jerome/Prefaces|Prefaces]] — c. 374–420
+- [[Prefaces to the Books of the Vulgate Version of the Old Testament|Prefaces to the Books of the Vulgate Version of the Old Testament]] — c. 391–404
 - [[The Life of Malchus|The Life of Malchus]] — c. 390–391
 - [[The Life of Paulus|The Life of Paulus]] — c. 375–379
 - [[The Perpetual Virginity of Mary|The Perpetual Virginity of Mary]] — 383

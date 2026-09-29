@@ -7,7 +7,7 @@ tags:
 
 # Gregory of Nyssa
 
-42 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+43 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Against Eunomius, Book I|Against Eunomius, Book I]] — [[NPNF2 05|NPNF2 5]]
 - [[Against Eunomius, Book II|Against Eunomius, Book II]] — [[NPNF2 05|NPNF2 5]]
@@ -51,3 +51,4 @@ tags:
 - [[On the Making of Man|On the Making of Man]] — [[NPNF2 05|NPNF2 5]]
 - [[On the Soul and the Resurrection|On the Soul and the Resurrection]] — [[NPNF2 05|NPNF2 5]]
 - [[On Virginity|On Virginity]] — [[NPNF2 05|NPNF2 5]]
+- [[02 Church Fathers (c. 95 – 749)/Gregory of Nyssa/The Great Catechism|The Great Catechism]] — [[NPNF2 05|NPNF2 5]]

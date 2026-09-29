@@ -7,8 +7,9 @@ tags:
 
 # Athanasius
 
-71 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+73 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
+- [[02 Church Fathers (c. 95 – 749)/Athanasius/Ad Afros Epistola Synodica|Ad Afros Epistola Synodica]] — [[NPNF2 04|NPNF2 4]]
 - [[Ad Episcopus Aegypti et Libyae|Ad Episcopus Aegypti et Libyae]] — [[NPNF2 04|NPNF2 4]]
 - [[Against the Heathen|Against the Heathen]] — [[NPNF2 04|NPNF2 4]]
 - [[Apologia ad Constantium|Apologia ad Constantium]] — [[NPNF2 04|NPNF2 4]]
@@ -23,6 +24,7 @@ tags:
 - [[Discourse III Against the Arians|Discourse III Against the Arians]] — [[NPNF2 04|NPNF2 4]]
 - [[Discourse IV Against the Arians|Discourse IV Against the Arians]] — [[NPNF2 04|NPNF2 4]]
 - [[Encyclical Letter|Encyclical Letter]] — [[NPNF2 04|NPNF2 4]]
+- [[02 Church Fathers (c. 95 – 749)/Athanasius/Historia Acephala|Historia Acephala]] — [[NPNF2 04|NPNF2 4]]
 - [[History of the Arians, Part I|History of the Arians, Part I]] — [[NPNF2 04|NPNF2 4]]
 - [[History of the Arians, Part II|History of the Arians, Part II]] — [[NPNF2 04|NPNF2 4]]
 - [[History of the Arians, Part III|History of the Arians, Part III]] — [[NPNF2 04|NPNF2 4]]

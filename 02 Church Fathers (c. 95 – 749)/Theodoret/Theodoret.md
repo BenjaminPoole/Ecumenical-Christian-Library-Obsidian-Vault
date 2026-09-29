@@ -7,7 +7,7 @@ tags:
 
 # Theodoret
 
-178 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+180 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Counter-statements to Cyril's 12 Anathemas|Counter-statements to Cyril's 12 Anathemas]] — [[NPNF2 03|NPNF2 3]]
 - [[Demonstrations by Syllogisms|Demonstrations by Syllogisms]] — [[NPNF2 03|NPNF2 3]]
@@ -187,3 +187,5 @@ tags:
 - [[Library/Church Fathers/Theodoret/Letter 176|Letter 176]] — [[NPNF2 03|NPNF2 3]]
 - [[Library/Church Fathers/Theodoret/Letter 177|Letter 177]] — [[NPNF2 03|NPNF2 3]]
 - [[Library/Church Fathers/Theodoret/Letter 178|Letter 178]] — [[NPNF2 03|NPNF2 3]]
+- [[02 Church Fathers (c. 95 – 749)/Theodoret/Letter 180|Letter 180]] — [[NPNF2 03|NPNF2 3]]
+- [[02 Church Fathers (c. 95 – 749)/Theodoret/Letter 181|Letter 181]] — [[NPNF2 03|NPNF2 3]]

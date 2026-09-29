@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 5: Gregory of Nyssa: Dogmatic Treatises, etc.
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 5 — 42 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 5 — 43 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Gregory of Nyssa|Gregory of Nyssa]]
@@ -56,3 +56,4 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[On the Making of Man|On the Making of Man]] — 379–380
 - [[On the Soul and the Resurrection|On the Soul and the Resurrection]] — c. 379–380
 - [[On Virginity|On Virginity]] — c. 371
+- [[02 Church Fathers (c. 95 – 749)/Gregory of Nyssa/The Great Catechism|The Great Catechism]] — c. 383–385

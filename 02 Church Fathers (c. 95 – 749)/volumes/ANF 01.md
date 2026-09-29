@@ -9,7 +9,7 @@ tags:
 
 # ANF 1: The Apostolic Fathers with Justin Martyr and Irenaeus
 
-*Ante-Nicene Fathers, Volume 1 — 203 works.*
+*Ante-Nicene Fathers, Volume 1 — 205 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Mathetes|Mathetes]]
@@ -30,6 +30,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Epistle to the Romans|Epistle to the Romans]] — c. 107–110
 - [[Epistle to the Smyrnaeans|Epistle to the Smyrnaeans]] — c. 107–110
 - [[Epistle to the Trallians|Epistle to the Trallians]] — c. 107–110
+- [[02 Church Fathers (c. 95 – 749)/Ignatius of Antioch/Spurious Epistles|Spurious Epistles]] — c. 360–380 (the Pseudo-Ignatian interpolator)
 - [[The Martyrdom of Ignatius|The Martyrdom of Ignatius]] — 4th–6th century
 
 ## [[Barnabas|Barnabas]]
@@ -52,6 +53,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Dialogue with Trypho, Chapters 109-124|Dialogue with Trypho, Chapters 109-124]] — c. 155–165
 - [[Dialogue with Trypho, Chapters 125-142|Dialogue with Trypho, Chapters 125-142]] — c. 155–165
 - [[Discourse to the Greeks|Discourse to the Greeks]] — 2nd–3rd century
+- [[02 Church Fathers (c. 95 – 749)/Justin Martyr/Fragments|Fragments]] — c. 150–165 (quoted by later writers)
 - [[Hortatory Address to the Greeks|Hortatory Address to the Greeks]] — 2nd–3rd century
 - [[On the Resurrection|On the Resurrection]] — 2nd century
 - [[On the Sole Government of God|On the Sole Government of God]] — 2nd–3rd century

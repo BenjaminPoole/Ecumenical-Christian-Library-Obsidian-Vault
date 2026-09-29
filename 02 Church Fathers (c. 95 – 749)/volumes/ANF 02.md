@@ -9,12 +9,13 @@ tags:
 
 # ANF 2: Fathers of the Second Century: Hermas, Tatian, Athenagoras, Theophilus, and Clement of Alexandria
 
-*Ante-Nicene Fathers, Volume 2 — 28 works.*
+*Ante-Nicene Fathers, Volume 2 — 35 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Tatian|Tatian]]
 
 - [[Address to the Greeks|Address to the Greeks]] — c. 165–175
+- [[02 Church Fathers (c. 95 – 749)/Tatian/Fragments|Fragments]] — c. 160–180 (quoted by later writers)
 
 ## [[Athenagoras|Athenagoras]]
 
@@ -46,8 +47,17 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[The Stromata (02107)|The Stromata]] — c. 198–203
 - [[The Stromata (02108)|The Stromata]] — c. 198–203
 - [[The Stromata|The Stromata]] — c. 198–203
+- [[02 Church Fathers (c. 95 – 749)/Clement of Alexandria/The Stromata (02103)|The Stromata (02103)]] — c. 198–203
 - [[Who is the Rich Man That Shall Be Saved|Who is the Rich Man That Shall Be Saved?]] — c. 190–210
 
 ## [[Theophilus|Theophilus]]
 
 - [[To Autolycus, Book I|To Autolycus, Book I]] — c. 181–185
+- [[02 Church Fathers (c. 95 – 749)/Theophilus/To Autolycus, Book II|To Autolycus, Book II]] — c. 181–185
+- [[02 Church Fathers (c. 95 – 749)/Theophilus/To Autolycus, Book III|To Autolycus, Book III]] — c. 181–185
+
+## [[Hermas|Hermas]]
+
+- [[02 Church Fathers (c. 95 – 749)/Hermas/The Shepherd of Hermas, Book I|The Shepherd of Hermas, Book I]] — c. 100–150
+- [[02 Church Fathers (c. 95 – 749)/Hermas/The Shepherd of Hermas, Book II|The Shepherd of Hermas, Book II]] — c. 100–150
+- [[02 Church Fathers (c. 95 – 749)/Hermas/The Shepherd of Hermas, Book III|The Shepherd of Hermas, Book III]] — c. 100–150

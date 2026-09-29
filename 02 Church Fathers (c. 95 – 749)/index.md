@@ -6,17 +6,17 @@ tags:
 
 # Church Fathers
 
-English translations of the early Church Fathers (3339 works, 61 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
+English translations of the early Church Fathers (3498 works, 71 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
 
 Each note carries `written` (approximate composition date) and `earliest_ms` (earliest surviving manuscript witness, including early translations and quotation traditions) properties, plus a `#written/Nth-century` tag. These are approximate, century-level scholarly estimates compiled for orientation — verify against current scholarship before citing. Composition dates for Commodianus, the *Octavius*, Moses of Chorene, and the Diatessaron's Dura fragment are disputed; manuscript dates for several minor authors are educated estimates. Volume-heading date ranges cover core works only — items marked pseudonymous, legendary, spurious, disputed, or hagiographic are excluded (their dates still appear on the volume pages).
 
 ## Ante-Nicene Fathers
 
 ### [[ANF 01|Vol. 1 — The Apostolic Fathers with Justin Martyr and Irenaeus (written c. 96–200)]]
-[[Mathetes|Mathetes]] (1) · [[Polycarp|Polycarp]] (2) · [[Ignatius of Antioch|Ignatius of Antioch]] (8) · [[Barnabas|Barnabas]] (1) · [[Papias|Papias]] (1) · [[Justin Martyr|Justin Martyr]] (16) · [[Irenaeus of Lyons|Irenaeus of Lyons]] (174)
+[[Mathetes|Mathetes]] (1) · [[Polycarp|Polycarp]] (2) · [[Ignatius of Antioch|Ignatius of Antioch]] (9) · [[Barnabas|Barnabas]] (1) · [[Papias|Papias]] (1) · [[Justin Martyr|Justin Martyr]] (17) · [[Irenaeus of Lyons|Irenaeus of Lyons]] (174)
 
 ### [[ANF 02|Vol. 2 — Fathers of the Second Century: Hermas, Tatian, Athenagoras, Theophilus, and Clement of Alexandria (written c. 165–210)]]
-[[Tatian|Tatian]] (1) · [[Athenagoras|Athenagoras]] (2) · [[Clement of Alexandria|Clement of Alexandria]] (24) · [[Theophilus|Theophilus]] (1)
+[[Tatian|Tatian]] (2) · [[Athenagoras|Athenagoras]] (2) · [[Clement of Alexandria|Clement of Alexandria]] (25) · [[Theophilus|Theophilus]] (3) · [[Hermas|Hermas]] (3)
 
 ### [[ANF 03|Vol. 3 — Latin Christianity: Its Founder, Tertullian (written c. 197–220)]]
 [[Tertullian|Tertullian]] (29)
@@ -25,28 +25,28 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 [[Tertullian|Tertullian]] (9) · [[Minucius Felix|Minucius Felix]] (1) · [[Commodianus|Commodianus]] (1) · [[Origen|Origen]] (16)
 
 ### [[ANF 05|Vol. 5 — Fathers of the Third Century: Hippolytus, Cyprian, Novatian, Appendix (written c. 198–258)]]
-[[Hippolytus|Hippolytus]] (6) · [[Caius|Caius]] (1) · [[Novatian|Novatian]] (2) · [[Cyprian of Carthage|Cyprian of Carthage]] (92)
+[[Hippolytus|Hippolytus]] (8) · [[Caius|Caius]] (1) · [[Novatian|Novatian]] (2) · [[Cyprian of Carthage|Cyprian of Carthage]] (103)
 
 ### [[ANF 06|Vol. 6 — Fathers of the Third Century: Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor Writers, Methodius, Arnobius (written c. 220–348)]]
-[[Gregory Thaumaturgus|Gregory Thaumaturgus]] (14) · [[Dionysius the Great|Dionysius the Great]] (2) · [[Julius Africanus|Julius Africanus]] (1) · [[Archelaus|Archelaus]] (1) · [[Malchion|Malchion]] (1) · [[Alexander of Lycopolis|Alexander of Lycopolis]] (1) · [[Peter of Alexandria|Peter of Alexandria]] (2) · [[Alexander of Alexandria|Alexander of Alexandria]] (1) · [[Methodius|Methodius]] (18) · [[Arnobius|Arnobius]] (7)
+[[Gregory Thaumaturgus|Gregory Thaumaturgus]] (14) · [[Dionysius the Great|Dionysius the Great]] (3) · [[Julius Africanus|Julius Africanus]] (1) · [[Archelaus|Archelaus]] (1) · [[Malchion|Malchion]] (1) · [[Alexander of Lycopolis|Alexander of Lycopolis]] (1) · [[Peter of Alexandria|Peter of Alexandria]] (3) · [[Alexander of Alexandria|Alexander of Alexandria]] (1) · [[Methodius|Methodius]] (18) · [[Arnobius|Arnobius]] (7) · [[Pamphilus|Pamphilus]] (1)
 
 ### [[ANF 07|Vol. 7 — Fathers of the Third and Fourth Centuries: Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic Teaching and Constitutions, Homily, and Liturgies (written c. 260–590)]]
-[[Lactantius|Lactantius]] (14) · [[Venantius|Venantius]] (1) · [[Victorinus|Victorinus]] (2) · [[Dionysius of Rome|Dionysius of Rome]] (1)
+[[Lactantius|Lactantius]] (14) · [[Venantius|Venantius]] (1) · [[Victorinus|Victorinus]] (2) · [[Dionysius of Rome|Dionysius of Rome]] (1) · [[Liturgies|Liturgies]] (3) · [[Apostolic Constitutions|Apostolic Constitutions]] (8)
 
 ### [[ANF 08|Vol. 8 — Fathers of the Third and Fourth Centuries: The Twelve Patriarchs, Excerpts and Epistles, the Clementina, Apocrypha, Decretals, Memoirs of Edessa and Syriac Documents, Remains of the First Ages (written c. 160–521)]]
-[[Theodotus|Theodotus]] (1) · [[Clement of Rome|Clement of Rome]] (2) · [[Mar Jacob|Mar Jacob]] (3) · [[Moses of Chorene|Moses of Chorene]] (1)
+[[Theodotus|Theodotus]] (1) · [[Clement of Rome|Clement of Rome]] (32) · [[Mar Jacob|Mar Jacob]] (3) · [[Moses of Chorene|Moses of Chorene]] (1) · [[Bardesanes|Bardesanes]] (1) · [[Apocrypha|Apocrypha]] (27) · [[Syriac Documents|Syriac Documents]] (10) · [[Pseudo-Isidore|Pseudo-Isidore]] (1)
 
 ### [[ANF 09|Vol. 9 — Recently Discovered Additions to Early Christian Literature; Commentaries of Origen (written c. 95–248)]]
-[[Clement of Rome|Clement of Rome]] (2) · [[Aristides the Philosopher|Aristides the Philosopher]] (1) · [[Origen|Origen]] (13) · [[Tatian|Tatian]] (55) · [[Julius Africanus|Julius Africanus]] (1)
+[[Clement of Rome|Clement of Rome]] (2) · [[Aristides the Philosopher|Aristides the Philosopher]] (2) · [[Origen|Origen]] (13) · [[Tatian|Tatian]] (55) · [[Julius Africanus|Julius Africanus]] (1) · [[Apocrypha|Apocrypha]] (8) · [[Scillitan Martyrs|Scillitan Martyrs]] (1)
 
 
 ## Nicene and Post-Nicene Fathers, Series I
 
 ### [[NPNF1 01|Vol. 1 — Augustine: Confessions and Letters (written c. 386–430)]]
-[[Augustine of Hippo|Augustine of Hippo]] (156)
+[[Augustine of Hippo|Augustine of Hippo]] (166)
 
 ### [[NPNF1 02|Vol. 2 — Augustine: City of God, On Christian Doctrine (written c. 396–427)]]
-[[Augustine of Hippo|Augustine of Hippo]] (26)
+[[Augustine of Hippo|Augustine of Hippo]] (27)
 
 ### [[NPNF1 03|Vol. 3 — Augustine: On the Holy Trinity, Doctrinal Treatises, Moral Treatises (written c. 386–430)]]
 [[Augustine of Hippo|Augustine of Hippo]] (30)
@@ -67,7 +67,7 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 [[Augustine of Hippo|Augustine of Hippo]] (150)
 
 ### [[NPNF1 09|Vol. 9 — Chrysostom: On the Priesthood, Ascetic Treatises, Select Homilies and Letters, Homilies on the Statues (written c. 372–407)]]
-[[John Chrysostom|John Chrysostom]] (43)
+[[John Chrysostom|John Chrysostom]] (44)
 
 ### [[NPNF1 10|Vol. 10 — Chrysostom: Homilies on the Gospel of Saint Matthew (written c. 390)]]
 [[John Chrysostom|John Chrysostom]] (90)
@@ -91,28 +91,28 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 [[Eusebius of Caesarea|Eusebius of Caesarea]] (16)
 
 ### [[NPNF2 02|Vol. 2 — Socrates and Sozomen: Ecclesiastical Histories (written c. 439–450)]]
-[[Socrates Scholasticus|Socrates Scholasticus]] (7) · [[Sozomen|Sozomen]] (9)
+[[Socrates Scholasticus|Socrates Scholasticus]] (7) · [[Sozomen|Sozomen]] (10)
 
 ### [[NPNF2 03|Vol. 3 — Theodoret, Jerome, Gennadius, Rufinus: Historical Writings (written c. 392–453)]]
-[[Theodoret|Theodoret]] (178) · [[Jerome|Jerome]] (4) · [[Rufinus|Rufinus]] (3)
+[[Theodoret|Theodoret]] (180) · [[Jerome|Jerome]] (4) · [[Rufinus|Rufinus]] (3) · [[Gennadius of Marseilles|Gennadius of Marseilles]] (1)
 
 ### [[NPNF2 04|Vol. 4 — Athanasius: Select Works and Letters (written c. 318–373)]]
-[[Athanasius|Athanasius]] (71) · [[Eusebius of Caesarea|Eusebius of Caesarea]] (1)
+[[Athanasius|Athanasius]] (73) · [[Eusebius of Caesarea|Eusebius of Caesarea]] (1)
 
 ### [[NPNF2 05|Vol. 5 — Gregory of Nyssa: Dogmatic Treatises, etc. (written c. 371–394)]]
-[[Gregory of Nyssa|Gregory of Nyssa]] (42)
+[[Gregory of Nyssa|Gregory of Nyssa]] (43)
 
 ### [[NPNF2 06|Vol. 6 — Jerome: Letters and Select Works (written c. 374–420)]]
-[[Jerome|Jerome]] (98)
+[[Jerome|Jerome]] (107)
 
 ### [[NPNF2 07|Vol. 7 — Cyril of Jerusalem, Gregory Nazianzen (written c. 348–390)]]
 [[Gregory Nazianzen|Gregory Nazianzen]] (27) · [[Cyril of Jerusalem|Cyril of Jerusalem]] (24)
 
 ### [[NPNF2 08|Vol. 8 — Basil: Letters and Select Works (written c. 357–378)]]
-[[Basil the Great|Basil the Great]] (317)
+[[Basil the Great|Basil the Great]] (319)
 
 ### [[NPNF2 09|Vol. 9 — Hilary of Poitiers, John of Damascus (written c. 356–749)]]
-[[John of Damascus|John of Damascus]] (4) · [[Hilary of Poitiers|Hilary of Poitiers]] (14)
+[[John of Damascus|John of Damascus]] (4) · [[Hilary of Poitiers|Hilary of Poitiers]] (16)
 
 ### [[NPNF2 10|Vol. 10 — Ambrose: Select Works and Letters (written c. 377–396)]]
 [[Ambrose|Ambrose]] (34)
@@ -121,10 +121,16 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 [[Sulpitius Severus|Sulpitius Severus]] (8) · [[Vincent of Lerins|Vincent of Lerins]] (1) · [[John Cassian|John Cassian]] (40)
 
 ### [[NPNF2 12|Vol. 12 — Leo the Great, Gregory the Great (Part I) (written c. 384–604)]]
-[[Gregory the Great|Gregory the Great]] (276) · [[Leo the Great|Leo the Great]] (113) · [[Jerome|Jerome]] (1)
+[[Gregory the Great|Gregory the Great]] (277) · [[Leo the Great|Leo the Great]] (119) · [[Jerome|Jerome]] (1)
 
 ### [[NPNF2 13|Vol. 13 — Gregory the Great (Part II), Ephraim Syrus, Aphrahat (written c. 337–604)]]
-[[Ephraim the Syrian|Ephraim the Syrian]] (12) · [[Aphrahat Aphraates|Aphrahat Aphraates]] (8) · [[Gregory the Great|Gregory the Great]] (143)
+[[Ephraim the Syrian|Ephraim the Syrian]] (12) · [[Aphrahat Aphraates|Aphrahat Aphraates]] (8) · [[Gregory the Great|Gregory the Great]] (146)
+
+## Outside the printed series
+
+Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from other public-domain or freely available translations.
+
+- [[Retractations, Book I|Augustine, Retractations, Book I]] · [[Retractations, Book II|Book II]] — M. F. Eller, 1946 (written c. 426–427)
 
 
 ## Authors A–Z
@@ -133,40 +139,46 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 - [[Alexander of Lycopolis|Alexander of Lycopolis]] (1)
 - [[Ambrose|Ambrose]] (34)
 - [[Aphrahat Aphraates|Aphrahat Aphraates]] (8)
+- [[Apocrypha|Apocrypha]] (35)
+- [[Apostolic Constitutions|Apostolic Constitutions]] (8)
 - [[Archelaus|Archelaus]] (1)
-- [[Aristides the Philosopher|Aristides the Philosopher]] (1)
+- [[Aristides the Philosopher|Aristides the Philosopher]] (2)
 - [[Arnobius|Arnobius]] (7)
-- [[Athanasius|Athanasius]] (71)
+- [[Athanasius|Athanasius]] (73)
 - [[Athenagoras|Athenagoras]] (2)
-- [[Augustine of Hippo|Augustine of Hippo]] (823)
+- [[Augustine of Hippo|Augustine of Hippo]] (836)
+- [[Bardesanes|Bardesanes]] (1)
 - [[Barnabas|Barnabas]] (1)
-- [[Basil the Great|Basil the Great]] (317)
+- [[Basil the Great|Basil the Great]] (319)
 - [[Caius|Caius]] (1)
-- [[Clement of Alexandria|Clement of Alexandria]] (24)
-- [[Clement of Rome|Clement of Rome]] (4)
+- [[Clement of Alexandria|Clement of Alexandria]] (25)
+- [[Clement of Rome|Clement of Rome]] (34)
 - [[Commodianus|Commodianus]] (1)
-- [[Cyprian of Carthage|Cyprian of Carthage]] (92)
+- [[Cyprian of Carthage|Cyprian of Carthage]] (103)
 - [[Cyril of Jerusalem|Cyril of Jerusalem]] (24)
 - [[Dionysius of Rome|Dionysius of Rome]] (1)
-- [[Dionysius the Great|Dionysius the Great]] (2)
+- [[Dionysius the Great|Dionysius the Great]] (3)
 - [[Ephraim the Syrian|Ephraim the Syrian]] (12)
 - [[Eusebius of Caesarea|Eusebius of Caesarea]] (17)
+- [[Gennadius of Marseilles|Gennadius of Marseilles]] (1)
 - [[Gregory Nazianzen|Gregory Nazianzen]] (27)
-- [[Gregory of Nyssa|Gregory of Nyssa]] (42)
+- [[Gregory of Nyssa|Gregory of Nyssa]] (43)
 - [[Gregory Thaumaturgus|Gregory Thaumaturgus]] (14)
-- [[Gregory the Great|Gregory the Great]] (419)
-- [[Hilary of Poitiers|Hilary of Poitiers]] (14)
-- [[Hippolytus|Hippolytus]] (6)
-- [[Ignatius of Antioch|Ignatius of Antioch]] (8)
+- [[Gregory the Great|Gregory the Great]] (423)
+- [[Hermas|Hermas]] (3)
+- [[Hilary of Poitiers|Hilary of Poitiers]] (16)
+- [[Hippolytus|Hippolytus]] (8)
+- [[Ignatius of Antioch|Ignatius of Antioch]] (9)
 - [[Irenaeus of Lyons|Irenaeus of Lyons]] (174)
-- [[Jerome|Jerome]] (103)
+- [[Jerome|Jerome]] (112)
 - [[John Cassian|John Cassian]] (40)
-- [[John Chrysostom|John Chrysostom]] (532)
+- [[John Chrysostom|John Chrysostom]] (533)
 - [[John of Damascus|John of Damascus]] (4)
 - [[Julius Africanus|Julius Africanus]] (2)
-- [[Justin Martyr|Justin Martyr]] (16)
+- [[Justin Martyr|Justin Martyr]] (17)
 - [[Lactantius|Lactantius]] (14)
-- [[Leo the Great|Leo the Great]] (113)
+- [[Leo the Great|Leo the Great]] (119)
+- [[Liturgies|Liturgies]] (3)
 - [[Malchion|Malchion]] (1)
 - [[Mar Jacob|Mar Jacob]] (3)
 - [[Mathetes|Mathetes]] (1)
@@ -175,18 +187,22 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 - [[Moses of Chorene|Moses of Chorene]] (1)
 - [[Novatian|Novatian]] (2)
 - [[Origen|Origen]] (29)
+- [[Pamphilus|Pamphilus]] (1)
 - [[Papias|Papias]] (1)
-- [[Peter of Alexandria|Peter of Alexandria]] (2)
+- [[Peter of Alexandria|Peter of Alexandria]] (3)
 - [[Polycarp|Polycarp]] (2)
+- [[Pseudo-Isidore|Pseudo-Isidore]] (1)
 - [[Rufinus|Rufinus]] (3)
+- [[Scillitan Martyrs|Scillitan Martyrs]] (1)
 - [[Socrates Scholasticus|Socrates Scholasticus]] (7)
-- [[Sozomen|Sozomen]] (9)
+- [[Sozomen|Sozomen]] (10)
 - [[Sulpitius Severus|Sulpitius Severus]] (8)
-- [[Tatian|Tatian]] (56)
+- [[Syriac Documents|Syriac Documents]] (10)
+- [[Tatian|Tatian]] (57)
 - [[Tertullian|Tertullian]] (38)
-- [[Theodoret|Theodoret]] (178)
+- [[Theodoret|Theodoret]] (180)
 - [[Theodotus|Theodotus]] (1)
-- [[Theophilus|Theophilus]] (1)
+- [[Theophilus|Theophilus]] (3)
 - [[Venantius|Venantius]] (1)
 - [[Victorinus|Victorinus]] (2)
 - [[Vincent of Lerins|Vincent of Lerins]] (1)

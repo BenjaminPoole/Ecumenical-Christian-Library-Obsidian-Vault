@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 8: Basil: Letters and Select Works
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 8 — 317 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 8 — 319 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Basil the Great|Basil the Great]]
@@ -218,6 +218,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Letter 196|Letter 196]] — c. 357–378
 - [[Letter 197|Letter 197]] — c. 357–378
 - [[Letter 198|Letter 198]] — c. 357–378
+- [[02 Church Fathers (c. 95 – 749)/Basil the Great/Letter 199|Letter 199]] — c. 357–378
 - [[Letter 200|Letter 200]] — c. 357–378
 - [[Library/Church Fathers/Basil_the_Great/Letter 201|Letter 201]] — c. 357–378
 - [[Letter 202|Letter 202]] — c. 357–378
@@ -319,6 +320,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Letter 306|Letter 306]] — c. 357–378
 - [[Letter 334|Letter 334]] — c. 357–378
 - [[Letter 335|Letter 335]] — c. 357–378
+- [[02 Church Fathers (c. 95 – 749)/Basil the Great/Letter 336|Letter 336]] — c. 357–378
 - [[Letter 337|Letter 337]] — c. 357–378
 - [[Letter 339|Letter 339]] — c. 357–378
 - [[Letter 342|Letter 342]] — c. 357–378

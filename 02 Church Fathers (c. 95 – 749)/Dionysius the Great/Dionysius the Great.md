@@ -7,7 +7,8 @@ tags:
 
 # Dionysius the Great
 
-2 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+3 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
+- [[02 Church Fathers (c. 95 – 749)/Dionysius the Great/Epistles and Fragments of Epistles|Epistles and Fragments of Epistles]] — [[ANF 06|ANF 6]]
 - [[Exegetical fragments|Exegetical fragments]] — [[ANF 06|ANF 6]]
 - [[Fragments of Dionysius|Fragments of Dionysius]] — [[ANF 06|ANF 6]]

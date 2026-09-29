@@ -9,7 +9,7 @@ tags:
 
 # NPNF1 1: Augustine: Confessions and Letters
 
-*Nicene and Post-Nicene Fathers, Series I, Volume 1 — 156 works.*
+*Nicene and Post-Nicene Fathers, Series I, Volume 1 — 166 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Augustine of Hippo|Augustine of Hippo]]
@@ -39,6 +39,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 13|Letter 13]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 14|Letter 14]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 15|Letter 15]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 16|Letter 16]] — 390
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 17|Letter 17]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 18|Letter 18]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 19|Letter 19]] — c. 386–430
@@ -46,10 +47,12 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 21|Letter 21]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 22|Letter 22]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 23|Letter 23]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 25|Letter 25]] — 394
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 26|Letter 26]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 27|Letter 27]] — c. 386–430
 - [[Letter 28 to St. Jerome (Jerome 56)|Letter 28 to St. Jerome (Jerome 56)]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 29|Letter 29]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 30|Letter 30]] — 396
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 31|Letter 31]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 33|Letter 33]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 34|Letter 34]] — c. 386–430
@@ -62,6 +65,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 42|Letter 42]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 43|Letter 43]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 44|Letter 44]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 46|Letter 46]] — 398
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 47|Letter 47]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 48|Letter 48]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 50|Letter 50]] — c. 386–430
@@ -79,10 +83,13 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 65|Letter 65]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 66|Letter 66]] — c. 386–430
 - [[Letter 67 to St. Jerome (Jerome 101)|Letter 67 to St. Jerome (Jerome 101)]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 68 from St. Jerome (Jerome 102)|Letter 68 from St. Jerome (Jerome 102)]] — 402
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 69|Letter 69]] — c. 386–430
 - [[Letter 71 to St. Jerome (Jerome 104)|Letter 71 to St. Jerome (Jerome 104)]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 72 from St. Jerome (Jerome 105)|Letter 72 from St. Jerome (Jerome 105)]] — 404
 - [[Letter 73 to St. Jerome (Jerome 110)|Letter 73 to St. Jerome (Jerome 110)]] — c. 386–430
 - [[Letter 74 to St. Jerome (Jerome 111)|Letter 74 to St. Jerome (Jerome 111)]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 75 from St. Jerome (Jerome 112)|Letter 75 from St. Jerome (Jerome 112)]] — 404
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 76|Letter 76]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 77|Letter 77]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 78|Letter 78]] — c. 386–430
@@ -107,6 +114,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 100|Letter 100]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 101|Letter 101]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 102|Letter 102]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 103|Letter 103]] — 409
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 104|Letter 104]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 111|Letter 111]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 115|Letter 115]] — c. 386–430
@@ -121,6 +129,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 131|Letter 131]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 132|Letter 132]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 133|Letter 133]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 136|Letter 136]] — 412
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 137|Letter 137]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 138|Letter 138]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 139|Letter 139]] — c. 386–430
@@ -131,6 +140,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 148|Letter 148]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 150|Letter 150]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 151|Letter 151]] — c. 386–430
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 158|Letter 158]] — 414
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 159|Letter 159]] — c. 386–430
 - [[Library/Church Fathers/Augustine_of_Hippo/Letter 164|Letter 164]] — c. 386–430
 - [[Letter 165 to St. Jerome (Jerome 126)|Letter 165 to St. Jerome (Jerome 126)]] — c. 386–430

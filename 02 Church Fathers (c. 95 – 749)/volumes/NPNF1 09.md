@@ -9,7 +9,7 @@ tags:
 
 # NPNF1 9: Chrysostom: On the Priesthood, Ascetic Treatises, Select Homilies and Letters, Homilies on the Statues
 
-*Nicene and Post-Nicene Fathers, Series I, Volume 9 — 43 works.*
+*Nicene and Post-Nicene Fathers, Series I, Volume 9 — 44 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
@@ -56,4 +56,5 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[On the Priesthood, Book IV|On the Priesthood, Book IV]] — c. 386–390
 - [[On the Priesthood, Book V|On the Priesthood, Book V]] — c. 386–390
 - [[On the Priesthood, Book VI|On the Priesthood, Book VI]] — c. 386–390
+- [[02 Church Fathers (c. 95 – 749)/John Chrysostom/Three Homilies on the Devil|Three Homilies on the Devil]] — c. 386–387
 - [[To Theodore After His Fall|To Theodore After His Fall]] — c. 372

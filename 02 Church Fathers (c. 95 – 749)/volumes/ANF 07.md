@@ -9,7 +9,7 @@ tags:
 
 # ANF 7: Fathers of the Third and Fourth Centuries: Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic Teaching and Constitutions, Homily, and Liturgies
 
-*Ante-Nicene Fathers, Volume 7 — 18 works.*
+*Ante-Nicene Fathers, Volume 7 — 29 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Lactantius|Lactantius]]
@@ -41,3 +41,20 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 ## [[Dionysius of Rome|Dionysius of Rome]]
 
 - [[Against the Sabellians|Against the Sabellians]] — c. 262
+
+## [[Liturgies|Liturgies]]
+
+- [[02 Church Fathers (c. 95 – 749)/Liturgies/Divine Liturgy of St. James|Divine Liturgy of St. James]] — 4th–5th century (earliest form)
+- [[02 Church Fathers (c. 95 – 749)/Liturgies/Divine Liturgy of St. Mark|Divine Liturgy of St. Mark]] — 4th–5th century (earliest form)
+- [[02 Church Fathers (c. 95 – 749)/Liturgies/Liturgy of Sts. Adaeus and Maris|Liturgy of Sts. Adaeus and Maris]] — 3rd–4th century (earliest form)
+
+## [[Apostolic Constitutions|Apostolic Constitutions]]
+
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book I|Apostolic Constitutions, Book I]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book II|Apostolic Constitutions, Book II]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book III|Apostolic Constitutions, Book III]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book IV|Apostolic Constitutions, Book IV]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book V|Apostolic Constitutions, Book V]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book VI|Apostolic Constitutions, Book VI]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book VII|Apostolic Constitutions, Book VII]] — c. 375–380
+- [[02 Church Fathers (c. 95 – 749)/Apostolic Constitutions/Apostolic Constitutions, Book VIII|Apostolic Constitutions, Book VIII]] — c. 375–380

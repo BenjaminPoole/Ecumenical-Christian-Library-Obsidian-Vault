@@ -7,7 +7,7 @@ tags:
 
 # Justin Martyr
 
-16 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+17 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Dialogue with Trypho, Chapters 1-9|Dialogue with Trypho, Chapters 1-9]] — [[ANF 01|ANF 1]]
 - [[Dialogue with Trypho, Chapters 10-30|Dialogue with Trypho, Chapters 10-30]] — [[ANF 01|ANF 1]]
@@ -19,6 +19,7 @@ tags:
 - [[Dialogue with Trypho, Chapters 109-124|Dialogue with Trypho, Chapters 109-124]] — [[ANF 01|ANF 1]]
 - [[Dialogue with Trypho, Chapters 125-142|Dialogue with Trypho, Chapters 125-142]] — [[ANF 01|ANF 1]]
 - [[Discourse to the Greeks|Discourse to the Greeks]] — [[ANF 01|ANF 1]]
+- [[02 Church Fathers (c. 95 – 749)/Justin Martyr/Fragments|Fragments]] — [[ANF 01|ANF 1]]
 - [[Hortatory Address to the Greeks|Hortatory Address to the Greeks]] — [[ANF 01|ANF 1]]
 - [[On the Resurrection|On the Resurrection]] — [[ANF 01|ANF 1]]
 - [[On the Sole Government of God|On the Sole Government of God]] — [[ANF 01|ANF 1]]

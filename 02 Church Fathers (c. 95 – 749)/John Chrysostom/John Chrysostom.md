@@ -7,7 +7,7 @@ tags:
 
 # John Chrysostom
 
-532 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+533 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Against Publishing the Errors|Against Publishing the Errors...]] — [[NPNF1 09|NPNF1 9]]
 - [[Concerning Lowliness of Mind|Concerning Lowliness of Mind]] — [[NPNF1 09|NPNF1 9]]
@@ -540,4 +540,5 @@ tags:
 - [[On the Priesthood, Book IV|On the Priesthood, Book IV]] — [[NPNF1 09|NPNF1 9]]
 - [[On the Priesthood, Book V|On the Priesthood, Book V]] — [[NPNF1 09|NPNF1 9]]
 - [[On the Priesthood, Book VI|On the Priesthood, Book VI]] — [[NPNF1 09|NPNF1 9]]
+- [[02 Church Fathers (c. 95 – 749)/John Chrysostom/Three Homilies on the Devil|Three Homilies on the Devil]] — [[NPNF1 09|NPNF1 9]]
 - [[To Theodore After His Fall|To Theodore After His Fall]] — [[NPNF1 09|NPNF1 9]]

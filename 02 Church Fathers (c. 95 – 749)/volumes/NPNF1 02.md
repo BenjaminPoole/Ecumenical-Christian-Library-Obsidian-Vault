@@ -9,7 +9,7 @@ tags:
 
 # NPNF1 2: Augustine: City of God, On Christian Doctrine
 
-*Nicene and Post-Nicene Fathers, Series I, Volume 2 — 26 works.*
+*Nicene and Post-Nicene Fathers, Series I, Volume 2 — 27 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Augustine of Hippo|Augustine of Hippo]]
@@ -35,6 +35,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[City of God, Book XVIII|City of God, Book XVIII]] — 413–426
 - [[City of God, Book XX|City of God, Book XX]] — 413–426
 - [[City of God, Book XXI|City of God, Book XXI]] — 413–426
+- [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/City of God, Book XXII|City of God, Book XXII]] — 413–426
 - [[On Christian Doctrine, Book I|On Christian Doctrine, Book I]] — 396–426
 - [[On Christian Doctrine, Book II|On Christian Doctrine, Book II]] — 396–426
 - [[On Christian Doctrine, Book III|On Christian Doctrine, Book III]] — 396–426

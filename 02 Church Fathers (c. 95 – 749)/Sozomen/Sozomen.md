@@ -7,7 +7,7 @@ tags:
 
 # Sozomen
 
-9 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+10 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Ecclesiastical History, Book II (26022)|Ecclesiastical History, Book II]] — [[NPNF2 02|NPNF2 2]]
 - [[Library/Church Fathers/Sozomen/Ecclesiastical History, Book II|Ecclesiastical History, Book II]] — [[NPNF2 02|NPNF2 2]]
@@ -17,4 +17,5 @@ tags:
 - [[Library/Church Fathers/Sozomen/Ecclesiastical History, Book V|Ecclesiastical History, Book V]] — [[NPNF2 02|NPNF2 2]]
 - [[Ecclesiastical History, Book VI|Ecclesiastical History, Book VI]] — [[NPNF2 02|NPNF2 2]]
 - [[Ecclesiastical History, Book VII|Ecclesiastical History, Book VII]] — [[NPNF2 02|NPNF2 2]]
+- [[02 Church Fathers (c. 95 – 749)/Sozomen/Ecclesiastical History, Book VIII|Ecclesiastical History, Book VIII]] — [[NPNF2 02|NPNF2 2]]
 - [[Proposal for Ecclesiastical History|Proposal for Ecclesiastical History]] — [[NPNF2 02|NPNF2 2]]

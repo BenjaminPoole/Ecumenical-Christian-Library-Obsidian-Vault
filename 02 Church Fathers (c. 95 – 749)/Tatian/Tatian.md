@@ -7,9 +7,10 @@ tags:
 
 # Tatian
 
-56 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+57 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Address to the Greeks|Address to the Greeks]] — [[ANF 02|ANF 2]]
+- [[02 Church Fathers (c. 95 – 749)/Tatian/Fragments|Fragments]] — [[ANF 02|ANF 2]]
 - [[The Diatessaron, Section 1|The Diatessaron, Section 1]] — [[ANF 09|ANF 9]]
 - [[The Diatessaron, Section 2|The Diatessaron, Section 2]] — [[ANF 09|ANF 9]]
 - [[The Diatessaron, Section 3|The Diatessaron, Section 3]] — [[ANF 09|ANF 9]]

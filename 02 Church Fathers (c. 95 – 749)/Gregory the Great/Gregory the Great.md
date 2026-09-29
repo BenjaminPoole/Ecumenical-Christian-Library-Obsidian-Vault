@@ -7,7 +7,7 @@ tags:
 
 # Gregory the Great
 
-419 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+423 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Pastoral Rule, Book I|Pastoral Rule, Book I]] — [[NPNF2 12|NPNF2 12]]
 - [[Pastoral Rule, Book II|Pastoral Rule, Book II]] — [[NPNF2 12|NPNF2 12]]
@@ -123,6 +123,7 @@ tags:
 - [[Registrum Epistolarum, Book III, Letter 51|Registrum Epistolarum, Book III, Letter 51]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book III, Letter 53|Registrum Epistolarum, Book III, Letter 53]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book III, Letter 56|Registrum Epistolarum, Book III, Letter 56]] — [[NPNF2 12|NPNF2 12]]
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book III, Letter 57|Registrum Epistolarum, Book III, Letter 57]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book III, Letter 59|Registrum Epistolarum, Book III, Letter 59]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book III, Letter 60|Registrum Epistolarum, Book III, Letter 60]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book III, Letter 65|Registrum Epistolarum, Book III, Letter 65]] — [[NPNF2 12|NPNF2 12]]
@@ -219,6 +220,7 @@ tags:
 - [[Registrum Epistolarum, Book IX, Letter 122|Registrum Epistolarum, Book IX, Letter 122]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book IX, Letter 123|Registrum Epistolarum, Book IX, Letter 123]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book IX, Letter 125|Registrum Epistolarum, Book IX, Letter 125]] — [[NPNF2 13|NPNF2 13]]
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book IX, Letter 127|Registrum Epistolarum, Book IX, Letter 127]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book V, Letter 2|Registrum Epistolarum, Book V, Letter 2]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book V, Letter 4|Registrum Epistolarum, Book V, Letter 4]] — [[NPNF2 12|NPNF2 12]]
 - [[Registrum Epistolarum, Book V, Letter 5|Registrum Epistolarum, Book V, Letter 5]] — [[NPNF2 12|NPNF2 12]]
@@ -387,6 +389,7 @@ tags:
 - [[Registrum Epistolarum, Book XI, Letter 61|Registrum Epistolarum, Book XI, Letter 61]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XI, Letter 62|Registrum Epistolarum, Book XI, Letter 62]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XI, Letter 63|Registrum Epistolarum, Book XI, Letter 63]] — [[NPNF2 13|NPNF2 13]]
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book XI, Letter 64|Registrum Epistolarum, Book XI, Letter 64]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XI, Letter 65|Registrum Epistolarum, Book XI, Letter 65]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XI, Letter 66|Registrum Epistolarum, Book XI, Letter 66]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XI, Letter 67|Registrum Epistolarum, Book XI, Letter 67]] — [[NPNF2 13|NPNF2 13]]
@@ -427,4 +430,5 @@ tags:
 - [[Registrum Epistolarum, Book XIV, Letter 8|Registrum Epistolarum, Book XIV, Letter 8]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XIV, Letter 12|Registrum Epistolarum, Book XIV, Letter 12]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XIV, Letter 13|Registrum Epistolarum, Book XIV, Letter 13]] — [[NPNF2 13|NPNF2 13]]
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book XIV, Letter 16|Registrum Epistolarum, Book XIV, Letter 16]] — [[NPNF2 13|NPNF2 13]]
 - [[Registrum Epistolarum, Book XIV, Letter 17|Registrum Epistolarum, Book XIV, Letter 17]] — [[NPNF2 13|NPNF2 13]]

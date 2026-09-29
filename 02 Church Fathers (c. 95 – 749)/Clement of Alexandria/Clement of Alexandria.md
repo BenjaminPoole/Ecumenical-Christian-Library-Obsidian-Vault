@@ -7,7 +7,7 @@ tags:
 
 # Clement of Alexandria
 
-24 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+25 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Exhortation to the Heathen, Chapter 1|Exhortation to the Heathen, Chapter 1]] — [[ANF 02|ANF 2]]
 - [[Exhortation to the Heathen, Chapter 2|Exhortation to the Heathen, Chapter 2]] — [[ANF 02|ANF 2]]
@@ -32,4 +32,5 @@ tags:
 - [[The Stromata (02107)|The Stromata]] — [[ANF 02|ANF 2]]
 - [[The Stromata (02108)|The Stromata]] — [[ANF 02|ANF 2]]
 - [[The Stromata|The Stromata]] — [[ANF 02|ANF 2]]
+- [[02 Church Fathers (c. 95 – 749)/Clement of Alexandria/The Stromata (02103)|The Stromata (02103)]] — [[ANF 02|ANF 2]]
 - [[Who is the Rich Man That Shall Be Saved|Who is the Rich Man That Shall Be Saved?]] — [[ANF 02|ANF 2]]

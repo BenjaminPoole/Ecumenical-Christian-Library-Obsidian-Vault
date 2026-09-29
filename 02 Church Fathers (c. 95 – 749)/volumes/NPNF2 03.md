@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 3: Theodoret, Jerome, Gennadius, Rufinus: Historical Writings
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 3 — 185 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 3 — 188 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Theodoret|Theodoret]]
@@ -192,6 +192,8 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Theodoret/Letter 176|Letter 176]] — c. 431–453
 - [[Library/Church Fathers/Theodoret/Letter 177|Letter 177]] — c. 431–453
 - [[Library/Church Fathers/Theodoret/Letter 178|Letter 178]] — c. 431–453
+- [[02 Church Fathers (c. 95 – 749)/Theodoret/Letter 180|Letter 180]] — c. 431–453
+- [[02 Church Fathers (c. 95 – 749)/Theodoret/Letter 181|Letter 181]] — c. 431–453
 
 ## [[Jerome|Jerome]]
 
@@ -205,3 +207,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Rufinus/Apology|Apology]] — 400–401
 - [[Commentary on the Apostles' Creed|Commentary on the Apostles' Creed]] — c. 404
 - [[Library/Church Fathers/Rufinus/Prefaces|Prefaces]] — c. 397–410
+
+## [[Gennadius of Marseilles|Gennadius of Marseilles]]
+
+- [[02 Church Fathers (c. 95 – 749)/Gennadius of Marseilles/Supplement to De Viris Illustribus|Supplement to De Viris Illustribus]] — c. 480–495

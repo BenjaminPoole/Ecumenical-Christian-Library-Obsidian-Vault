@@ -7,10 +7,12 @@ tags:
 
 # Hilary of Poitiers
 
-14 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+16 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Homily on Psalm 1|Homily on Psalm 1]] — [[NPNF2 09|NPNF2 9]]
+- [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Homily on Psalm 53|Homily on Psalm 53]] — [[NPNF2 09|NPNF2 9]]
 - [[Homily on Psalm 131130|Homily on Psalm 131/130]] — [[NPNF2 09|NPNF2 9]]
+- [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/On the Councils|On the Councils]] — [[NPNF2 09|NPNF2 9]]
 - [[Library/Church Fathers/Hilary_of_Poitiers/On the Trinity, Book I|On the Trinity, Book I]] — [[NPNF2 09|NPNF2 9]]
 - [[Library/Church Fathers/Hilary_of_Poitiers/On the Trinity, Book II|On the Trinity, Book II]] — [[NPNF2 09|NPNF2 9]]
 - [[Library/Church Fathers/Hilary_of_Poitiers/On the Trinity, Book III|On the Trinity, Book III]] — [[NPNF2 09|NPNF2 9]]

@@ -9,7 +9,7 @@ tags:
 
 # ANF 9: Recently Discovered Additions to Early Christian Literature; Commentaries of Origen
 
-*Ante-Nicene Fathers, Volume 9 — 72 works.*
+*Ante-Nicene Fathers, Volume 9 — 82 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Clement of Rome|Clement of Rome]]
@@ -20,6 +20,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 ## [[Aristides the Philosopher|Aristides the Philosopher]]
 
 - [[Library/Church Fathers/Aristides_the_Philosopher/Apology|Apology]] — c. 124–147
+- [[02 Church Fathers (c. 95 – 749)/Aristides the Philosopher/The Legend of Barlaam and Josaphat|The Legend of Barlaam and Josaphat]] — 8th–11th century (Greek romance; Aristides' Apology, c. 125, embedded in it)
 
 ## [[Origen|Origen]]
 
@@ -98,3 +99,18 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 ## [[Julius Africanus|Julius Africanus]]
 
 - [[Commentary on Matthew, Book XIV|Commentary on Matthew, Book XIV]] — c. 246–248
+
+## [[Apocrypha|Apocrypha]]
+
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/On the Life of the Blessed (Zosimus)|On the Life of the Blessed (Zosimus)]] — 4th–6th century
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Apocalypse of Peter|The Apocalypse of Peter]] — c. 100–150
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Apocalypse of Sedrach|The Apocalypse of Sedrach]] — date uncertain (4th–11th century)
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Apocalypse of the Virgin|The Apocalypse of the Virgin]] — 9th century
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Gospel According to Peter|The Gospel According to Peter]] — c. 150
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Life of Xanthippe, Polyxena and Rebecca|The Life of Xanthippe, Polyxena and Rebecca]] — 5th–7th century
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Testament of Abraham|The Testament of Abraham]] — 1st–2nd century
+- [[02 Church Fathers (c. 95 – 749)/Apocrypha/The Vision of Paul|The Vision of Paul]] — c. 250–400
+
+## [[Scillitan Martyrs|Scillitan Martyrs]]
+
+- [[02 Church Fathers (c. 95 – 749)/Scillitan Martyrs/The Passion of the Scillitan Martyrs|The Passion of the Scillitan Martyrs]] — 180

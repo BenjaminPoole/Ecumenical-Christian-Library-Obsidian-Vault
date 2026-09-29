@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 9: Hilary of Poitiers, John of Damascus
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 9 — 18 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 9 — 20 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[John of Damascus|John of Damascus]]
@@ -22,7 +22,9 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 ## [[Hilary of Poitiers|Hilary of Poitiers]]
 
 - [[Homily on Psalm 1|Homily on Psalm 1]] — c. 364–367
+- [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Homily on Psalm 53|Homily on Psalm 53]] — c. 364–367
 - [[Homily on Psalm 131130|Homily on Psalm 131/130]] — c. 364–367
+- [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/On the Councils|On the Councils]] — 358–359
 - [[Library/Church Fathers/Hilary_of_Poitiers/On the Trinity, Book I|On the Trinity, Book I]] — 356–360
 - [[Library/Church Fathers/Hilary_of_Poitiers/On the Trinity, Book II|On the Trinity, Book II]] — 356–360
 - [[Library/Church Fathers/Hilary_of_Poitiers/On the Trinity, Book III|On the Trinity, Book III]] — 356–360

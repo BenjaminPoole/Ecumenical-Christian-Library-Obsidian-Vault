@@ -9,11 +9,12 @@ tags:
 
 # NPNF2 4: Athanasius: Select Works and Letters
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 4 — 72 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 4 — 74 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Athanasius|Athanasius]]
 
+- [[02 Church Fathers (c. 95 – 749)/Athanasius/Ad Afros Epistola Synodica|Ad Afros Epistola Synodica]] — c. 369
 - [[Ad Episcopus Aegypti et Libyae|Ad Episcopus Aegypti et Libyae]] — c. 356
 - [[Against the Heathen|Against the Heathen]] — c. 328–335
 - [[Apologia ad Constantium|Apologia ad Constantium]] — c. 357
@@ -28,6 +29,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Discourse III Against the Arians|Discourse III Against the Arians]] — c. 339–343
 - [[Discourse IV Against the Arians|Discourse IV Against the Arians]] — 4th century
 - [[Encyclical Letter|Encyclical Letter]] — 339
+- [[02 Church Fathers (c. 95 – 749)/Athanasius/Historia Acephala|Historia Acephala]] — c. 368–420 (anonymous Alexandrian chronicle)
 - [[History of the Arians, Part I|History of the Arians, Part I]] — c. 357
 - [[History of the Arians, Part II|History of the Arians, Part II]] — c. 357
 - [[History of the Arians, Part III|History of the Arians, Part III]] — c. 357

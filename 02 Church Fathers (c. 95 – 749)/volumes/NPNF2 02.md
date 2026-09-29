@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 2: Socrates and Sozomen: Ecclesiastical Histories
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 2 — 16 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 2 — 17 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Socrates Scholasticus|Socrates Scholasticus]]
@@ -32,4 +32,5 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Sozomen/Ecclesiastical History, Book V|Ecclesiastical History, Book V]] — c. 440–450
 - [[Ecclesiastical History, Book VI|Ecclesiastical History, Book VI]] — c. 440–450
 - [[Ecclesiastical History, Book VII|Ecclesiastical History, Book VII]] — c. 440–450
+- [[02 Church Fathers (c. 95 – 749)/Sozomen/Ecclesiastical History, Book VIII|Ecclesiastical History, Book VIII]] — c. 440–450
 - [[Proposal for Ecclesiastical History|Proposal for Ecclesiastical History]] — c. 440–450

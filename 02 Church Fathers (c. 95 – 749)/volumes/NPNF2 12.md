@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 12: Leo the Great, Gregory the Great (Part I)
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 12 — 390 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 12 — 397 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Gregory the Great|Gregory the Great]]
@@ -128,6 +128,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Registrum Epistolarum, Book III, Letter 51|Registrum Epistolarum, Book III, Letter 51]] — 590–604
 - [[Registrum Epistolarum, Book III, Letter 53|Registrum Epistolarum, Book III, Letter 53]] — 590–604
 - [[Registrum Epistolarum, Book III, Letter 56|Registrum Epistolarum, Book III, Letter 56]] — 590–604
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book III, Letter 57|Registrum Epistolarum, Book III, Letter 57]] — 590–604
 - [[Registrum Epistolarum, Book III, Letter 59|Registrum Epistolarum, Book III, Letter 59]] — 590–604
 - [[Registrum Epistolarum, Book III, Letter 60|Registrum Epistolarum, Book III, Letter 60]] — 590–604
 - [[Registrum Epistolarum, Book III, Letter 65|Registrum Epistolarum, Book III, Letter 65]] — 590–604
@@ -307,8 +308,10 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Leo_the_Great/Letter 18|Letter 18]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 19|Letter 19]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 20|Letter 20]] — 440–461
+- [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 21|Letter 21]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 23|Letter 23]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 24|Letter 24]] — 440–461
+- [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 26|Letter 26]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 27|Letter 27]] — 440–461
 - [[Letter 28 - The Tome|Letter 28 - The Tome]] — 449
 - [[Library/Church Fathers/Leo_the_Great/Letter 29|Letter 29]] — 440–461
@@ -325,10 +328,12 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Leo_the_Great/Letter 43|Letter 43]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 44|Letter 44]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 45|Letter 45]] — 440–461
+- [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 52|Letter 52]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 56|Letter 56]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 59|Letter 59]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 66|Letter 66]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 67|Letter 67]] — 440–461
+- [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 68|Letter 68]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 69|Letter 69]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 79|Letter 79]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 80|Letter 80]] — 440–461
@@ -337,6 +342,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Leo_the_Great/Letter 88|Letter 88]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 93|Letter 93]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 95|Letter 95]] — 440–461
+- [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 98|Letter 98]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 104|Letter 104]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 105|Letter 105]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 106|Letter 106]] — 440–461
@@ -356,6 +362,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Leo_the_Great/Letter 162|Letter 162]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 164|Letter 164]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 166|Letter 166]] — 440–461
+- [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 167|Letter 167]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 169|Letter 169]] — 440–461
 - [[Library/Church Fathers/Leo_the_Great/Letter 171|Letter 171]] — 440–461
 - [[Sermon 1|Sermon 1]] — 440–461

@@ -7,7 +7,7 @@ tags:
 
 # Basil the Great
 
-317 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+319 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[De Spiritu Sancto|De Spiritu Sancto]] — [[NPNF2 08|NPNF2 8]]
 - [[Hexaemeron, Homily I|Hexaemeron, Homily I]] — [[NPNF2 08|NPNF2 8]]
@@ -213,6 +213,7 @@ tags:
 - [[Letter 196|Letter 196]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 197|Letter 197]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 198|Letter 198]] — [[NPNF2 08|NPNF2 8]]
+- [[02 Church Fathers (c. 95 – 749)/Basil the Great/Letter 199|Letter 199]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 200|Letter 200]] — [[NPNF2 08|NPNF2 8]]
 - [[Library/Church Fathers/Basil_the_Great/Letter 201|Letter 201]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 202|Letter 202]] — [[NPNF2 08|NPNF2 8]]
@@ -314,6 +315,7 @@ tags:
 - [[Letter 306|Letter 306]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 334|Letter 334]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 335|Letter 335]] — [[NPNF2 08|NPNF2 8]]
+- [[02 Church Fathers (c. 95 – 749)/Basil the Great/Letter 336|Letter 336]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 337|Letter 337]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 339|Letter 339]] — [[NPNF2 08|NPNF2 8]]
 - [[Letter 342|Letter 342]] — [[NPNF2 08|NPNF2 8]]

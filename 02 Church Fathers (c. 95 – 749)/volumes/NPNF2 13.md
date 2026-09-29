@@ -9,7 +9,7 @@ tags:
 
 # NPNF2 13: Gregory the Great (Part II), Ephraim Syrus, Aphrahat
 
-*Nicene and Post-Nicene Fathers, Series II, Volume 13 — 163 works.*
+*Nicene and Post-Nicene Fathers, Series II, Volume 13 — 166 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Ephraim the Syrian|Ephraim the Syrian]]
@@ -99,6 +99,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Registrum Epistolarum, Book IX, Letter 122|Registrum Epistolarum, Book IX, Letter 122]] — 590–604
 - [[Registrum Epistolarum, Book IX, Letter 123|Registrum Epistolarum, Book IX, Letter 123]] — 590–604
 - [[Registrum Epistolarum, Book IX, Letter 125|Registrum Epistolarum, Book IX, Letter 125]] — 590–604
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book IX, Letter 127|Registrum Epistolarum, Book IX, Letter 127]] — 590–604
 - [[Registrum Epistolarum, Book X, Letter 10|Registrum Epistolarum, Book X, Letter 10]] — 590–604
 - [[Registrum Epistolarum, Book X, Letter 15|Registrum Epistolarum, Book X, Letter 15]] — 590–604
 - [[Registrum Epistolarum, Book X, Letter 18|Registrum Epistolarum, Book X, Letter 18]] — 590–604
@@ -142,6 +143,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Registrum Epistolarum, Book XI, Letter 61|Registrum Epistolarum, Book XI, Letter 61]] — 590–604
 - [[Registrum Epistolarum, Book XI, Letter 62|Registrum Epistolarum, Book XI, Letter 62]] — 590–604
 - [[Registrum Epistolarum, Book XI, Letter 63|Registrum Epistolarum, Book XI, Letter 63]] — 590–604
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book XI, Letter 64|Registrum Epistolarum, Book XI, Letter 64]] — 590–604
 - [[Registrum Epistolarum, Book XI, Letter 65|Registrum Epistolarum, Book XI, Letter 65]] — 590–604
 - [[Registrum Epistolarum, Book XI, Letter 66|Registrum Epistolarum, Book XI, Letter 66]] — 590–604
 - [[Registrum Epistolarum, Book XI, Letter 67|Registrum Epistolarum, Book XI, Letter 67]] — 590–604
@@ -182,4 +184,5 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Registrum Epistolarum, Book XIV, Letter 8|Registrum Epistolarum, Book XIV, Letter 8]] — 590–604
 - [[Registrum Epistolarum, Book XIV, Letter 12|Registrum Epistolarum, Book XIV, Letter 12]] — 590–604
 - [[Registrum Epistolarum, Book XIV, Letter 13|Registrum Epistolarum, Book XIV, Letter 13]] — 590–604
+- [[02 Church Fathers (c. 95 – 749)/Gregory the Great/Registrum Epistolarum, Book XIV, Letter 16|Registrum Epistolarum, Book XIV, Letter 16]] — 590–604
 - [[Registrum Epistolarum, Book XIV, Letter 17|Registrum Epistolarum, Book XIV, Letter 17]] — 590–604

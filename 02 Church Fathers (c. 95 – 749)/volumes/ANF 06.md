@@ -9,7 +9,7 @@ tags:
 
 # ANF 6: Fathers of the Third Century: Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor Writers, Methodius, Arnobius
 
-*Ante-Nicene Fathers, Volume 6 — 48 works.*
+*Ante-Nicene Fathers, Volume 6 — 51 works.*
 Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Gregory Thaumaturgus|Gregory Thaumaturgus]]
@@ -31,6 +31,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Dionysius the Great|Dionysius the Great]]
 
+- [[02 Church Fathers (c. 95 – 749)/Dionysius the Great/Epistles and Fragments of Epistles|Epistles and Fragments of Epistles]] — c. 250–265
 - [[Exegetical fragments|Exegetical fragments]] — c. 250–265
 - [[Fragments of Dionysius|Fragments of Dionysius]] — c. 250–265
 
@@ -52,6 +53,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Peter of Alexandria|Peter of Alexandria]]
 
+- [[02 Church Fathers (c. 95 – 749)/Peter of Alexandria/Canonical Epistle|Canonical Epistle]] — 306
 - [[Library/Church Fathers/Peter_of_Alexandria/Fragments|Fragments]] — c. 300–311
 - [[The Acts of Peter of Alexandria|The Acts of Peter of Alexandria]] — 5th–6th century
 
@@ -89,3 +91,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Against the Heathen, Book V|Against the Heathen, Book V]] — c. 302–305
 - [[Against the Heathen, Book VI|Against the Heathen, Book VI]] — c. 302–305
 - [[Against the Heathen, Book VII|Against the Heathen, Book VII]] — c. 302–305
+
+## [[Pamphilus|Pamphilus]]
+
+- [[02 Church Fathers (c. 95 – 749)/Pamphilus/An Exposition of the Chapters of the Acts of the Apostles|An Exposition of the Chapters of the Acts of the Apostles]] — 4th century (attributed to Pamphilus, d. 309)

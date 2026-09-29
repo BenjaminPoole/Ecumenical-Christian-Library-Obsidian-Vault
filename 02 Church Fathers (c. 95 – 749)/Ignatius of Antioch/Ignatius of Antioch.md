@@ -7,7 +7,7 @@ tags:
 
 # Ignatius of Antioch
 
-8 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+9 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
 
 - [[Epistle to St. Polycarp|Epistle to St. Polycarp]] — [[ANF 01|ANF 1]]
 - [[Epistle to the Ephesians|Epistle to the Ephesians]] — [[ANF 01|ANF 1]]
@@ -16,4 +16,5 @@ tags:
 - [[Epistle to the Romans|Epistle to the Romans]] — [[ANF 01|ANF 1]]
 - [[Epistle to the Smyrnaeans|Epistle to the Smyrnaeans]] — [[ANF 01|ANF 1]]
 - [[Epistle to the Trallians|Epistle to the Trallians]] — [[ANF 01|ANF 1]]
+- [[02 Church Fathers (c. 95 – 749)/Ignatius of Antioch/Spurious Epistles|Spurious Epistles]] — [[ANF 01|ANF 1]]
 - [[The Martyrdom of Ignatius|The Martyrdom of Ignatius]] — [[ANF 01|ANF 1]]
