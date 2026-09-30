@@ -6,7 +6,7 @@ tags:
 
 # Church Fathers
 
-English translations of the early Church Fathers (3501 works, 72 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
+English translations of the early Church Fathers (3502 works, 73 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
 
 Each note carries `written` (approximate composition date) and `earliest_ms` (earliest surviving manuscript witness, including early translations and quotation traditions) properties, plus a `#written/Nth-century` tag. These are approximate, century-level scholarly estimates compiled for orientation — verify against current scholarship before citing. Composition dates for Commodianus, the *Octavius*, Moses of Chorene, and the Diatessaron's Dura fragment are disputed; manuscript dates for several minor authors are educated estimates. Volume-heading date ranges cover core works only — items marked pseudonymous, legendary, spurious, disputed, or hagiographic are excluded (their dates still appear on the volume pages).
 
@@ -134,6 +134,7 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 187|Letter 187]] — machine translation (the English translations are in copyright)
 - Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 194|Letter 194]] — machine translation (the English translations are in copyright)
 - Gelasius I, [[02 Church Fathers (c. 95 – 749)/Gelasius I/On the Two Natures in Christ|On the Two Natures in Christ]] — machine translation (no complete English translation exists)
+- Epiphanius of Salamis, [[02 Church Fathers (c. 95 – 749)/Epiphanius of Salamis/Panarion 78-79|Panarion 78-79]] — machine translation (the English translations are in copyright)
 
 
 ## Authors A–Z
@@ -162,6 +163,7 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - [[Dionysius of Rome|Dionysius of Rome]] (1)
 - [[Dionysius the Great|Dionysius the Great]] (3)
 - [[Ephraim the Syrian|Ephraim the Syrian]] (12)
+- [[Epiphanius of Salamis|Epiphanius of Salamis]] (1)
 - [[Eusebius of Caesarea|Eusebius of Caesarea]] (17)
 - [[Gelasius I|Gelasius I]] (1)
 - [[Gennadius of Marseilles|Gennadius of Marseilles]] (1)
