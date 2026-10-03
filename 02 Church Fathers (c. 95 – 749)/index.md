@@ -6,7 +6,7 @@ tags:
 
 # Church Fathers
 
-English translations of the early Church Fathers (3502 works, 73 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
+English translations of the early Church Fathers (3535 works, 73 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
 
 Each note carries `written` (approximate composition date) and `earliest_ms` (earliest surviving manuscript witness, including early translations and quotation traditions) properties, plus a `#written/Nth-century` tag. These are approximate, century-level scholarly estimates compiled for orientation — verify against current scholarship before citing. Composition dates for Commodianus, the *Octavius*, Moses of Chorene, and the Diatessaron's Dura fragment are disputed; manuscript dates for several minor authors are educated estimates. Volume-heading date ranges cover core works only — items marked pseudonymous, legendary, spurious, disputed, or hagiographic are excluded (their dates still appear on the volume pages).
 
@@ -135,6 +135,39 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 194|Letter 194]] — machine translation (the English translations are in copyright)
 - Gelasius I, [[02 Church Fathers (c. 95 – 749)/Gelasius I/On the Two Natures in Christ|On the Two Natures in Christ]] — machine translation (no complete English translation exists)
 - Epiphanius of Salamis, [[02 Church Fathers (c. 95 – 749)/Epiphanius of Salamis/Panarion 78-79|Panarion 78-79]] — machine translation (the English translations are in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 1|Commentary on Matthew, Chapter 1]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 2|Commentary on Matthew, Chapter 2]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 3|Commentary on Matthew, Chapter 3]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 4|Commentary on Matthew, Chapter 4]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 5|Commentary on Matthew, Chapter 5]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 6|Commentary on Matthew, Chapter 6]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 7|Commentary on Matthew, Chapter 7]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 8|Commentary on Matthew, Chapter 8]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 9|Commentary on Matthew, Chapter 9]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 10|Commentary on Matthew, Chapter 10]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 11|Commentary on Matthew, Chapter 11]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 12|Commentary on Matthew, Chapter 12]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 13|Commentary on Matthew, Chapter 13]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 14|Commentary on Matthew, Chapter 14]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 15|Commentary on Matthew, Chapter 15]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 16|Commentary on Matthew, Chapter 16]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 17|Commentary on Matthew, Chapter 17]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 18|Commentary on Matthew, Chapter 18]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 19|Commentary on Matthew, Chapter 19]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 20|Commentary on Matthew, Chapter 20]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 21|Commentary on Matthew, Chapter 21]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 22|Commentary on Matthew, Chapter 22]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 23|Commentary on Matthew, Chapter 23]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 24|Commentary on Matthew, Chapter 24]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 25|Commentary on Matthew, Chapter 25]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 26|Commentary on Matthew, Chapter 26]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 27|Commentary on Matthew, Chapter 27]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 28|Commentary on Matthew, Chapter 28]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 29|Commentary on Matthew, Chapter 29]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 30|Commentary on Matthew, Chapter 30]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 31|Commentary on Matthew, Chapter 31]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 32|Commentary on Matthew, Chapter 32]] — machine translation (the only English translation is in copyright)
+- Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 33|Commentary on Matthew, Chapter 33]] — machine translation (the only English translation is in copyright)
 
 
 ## Authors A–Z
@@ -172,7 +205,7 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - [[Gregory Thaumaturgus|Gregory Thaumaturgus]] (14)
 - [[Gregory the Great|Gregory the Great]] (423)
 - [[Hermas|Hermas]] (3)
-- [[Hilary of Poitiers|Hilary of Poitiers]] (16)
+- [[Hilary of Poitiers|Hilary of Poitiers]] (49)
 - [[Hippolytus|Hippolytus]] (8)
 - [[Ignatius of Antioch|Ignatius of Antioch]] (9)
 - [[Irenaeus of Lyons|Irenaeus of Lyons]] (174)
