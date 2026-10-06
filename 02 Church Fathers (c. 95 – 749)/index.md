@@ -6,7 +6,7 @@ tags:
 
 # Church Fathers
 
-English translations of the early Church Fathers (3535 works, 73 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
+English translations of the early Church Fathers (3551 works, 74 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
 
 Each note carries `written` (approximate composition date) and `earliest_ms` (earliest surviving manuscript witness, including early translations and quotation traditions) properties, plus a `#written/Nth-century` tag. These are approximate, century-level scholarly estimates compiled for orientation — verify against current scholarship before citing. Composition dates for Commodianus, the *Octavius*, Moses of Chorene, and the Diatessaron's Dura fragment are disputed; manuscript dates for several minor authors are educated estimates. Volume-heading date ranges cover core works only — items marked pseudonymous, legendary, spurious, disputed, or hagiographic are excluded (their dates still appear on the volume pages).
 
@@ -168,6 +168,22 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 31|Commentary on Matthew, Chapter 31]] — machine translation (the only English translation is in copyright)
 - Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 32|Commentary on Matthew, Chapter 32]] — machine translation (the only English translation is in copyright)
 - Hilary of Poitiers, [[02 Church Fathers (c. 95 – 749)/Hilary of Poitiers/Commentary on Matthew, Chapter 33|Commentary on Matthew, Chapter 33]] — machine translation (the only English translation is in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 1|Commentary on Romans, Chapter 1]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 2|Commentary on Romans, Chapter 2]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 3|Commentary on Romans, Chapter 3]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 4|Commentary on Romans, Chapter 4]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 5|Commentary on Romans, Chapter 5]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 6|Commentary on Romans, Chapter 6]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 7|Commentary on Romans, Chapter 7]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 8|Commentary on Romans, Chapter 8]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 9|Commentary on Romans, Chapter 9]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 10|Commentary on Romans, Chapter 10]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 11|Commentary on Romans, Chapter 11]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 12|Commentary on Romans, Chapter 12]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 13|Commentary on Romans, Chapter 13]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 14|Commentary on Romans, Chapter 14]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 15|Commentary on Romans, Chapter 15]] — machine translation (the English translations are in copyright)
+- Ambrosiaster, [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 16|Commentary on Romans, Chapter 16]] — machine translation (the English translations are in copyright)
 
 
 ## Authors A–Z
@@ -175,6 +191,7 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - [[Alexander of Alexandria|Alexander of Alexandria]] (1)
 - [[Alexander of Lycopolis|Alexander of Lycopolis]] (1)
 - [[Ambrose|Ambrose]] (34)
+- [[Ambrosiaster|Ambrosiaster]] (16)
 - [[Aphrahat Aphraates|Aphrahat Aphraates]] (8)
 - [[Apocrypha|Apocrypha]] (35)
 - [[Apostolic Constitutions|Apostolic Constitutions]] (8)
