@@ -7,7 +7,7 @@ tags:
 
 # Syriac Documents
 
-10 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+10 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[02 Church Fathers (c. 95 – 749)/Syriac Documents/A Letter of Mara, Son of Serapion|A Letter of Mara, Son of Serapion]] — [[ANF 08|ANF 8]]
 - [[02 Church Fathers (c. 95 – 749)/Syriac Documents/Extracts Concerning Abgar the King and Addaeus the Apostle|Extracts Concerning Abgar the King and Addaeus the Apostle]] — [[ANF 08|ANF 8]]

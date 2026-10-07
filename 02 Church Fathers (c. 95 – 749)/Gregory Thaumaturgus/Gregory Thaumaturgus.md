@@ -13,7 +13,7 @@ tags:
 - [[A Fragment from On the Trinity|A Fragment from On the Trinity]] — [[ANF 06|ANF 6]]
 - [[A Metaphrase of Ecclesiastes|A Metaphrase of Ecclesiastes]] — [[ANF 06|ANF 6]]
 - [[A Sectional Confession of the Faith|A Sectional Confession of the Faith]] — [[ANF 06|ANF 6]]
-- [[Canonical Epistle|Canonical Epistle]] — [[ANF 06|ANF 6]]
+- [[02 Church Fathers (c. 95 – 749)/Gregory Thaumaturgus/Canonical Epistle|Canonical Epistle]] — [[ANF 06|ANF 6]]
 - [[Four Homilies (06092)|Four Homilies]] — [[ANF 06|ANF 6]]
 - [[Four Homilies (06093)|Four Homilies]] — [[ANF 06|ANF 6]]
 - [[Four Homilies (06094)|Four Homilies]] — [[ANF 06|ANF 6]]

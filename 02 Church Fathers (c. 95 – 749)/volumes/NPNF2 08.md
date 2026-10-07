@@ -201,7 +201,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Basil_the_Great/Letter 178|Letter 178]] — c. 357–378
 - [[Letter 179|Letter 179]] — c. 357–378
 - [[Library/Church Fathers/Basil_the_Great/Letter 180|Letter 180]] — c. 357–378
-- [[Letter 181|Letter 181]] — c. 357–378
+- [[02 Church Fathers (c. 95 – 749)/Basil the Great/Letter 181|Letter 181]] — c. 357–378
 - [[Letter 182|Letter 182]] — c. 357–378
 - [[Letter 183|Letter 183]] — c. 357–378
 - [[Letter 184|Letter 184]] — c. 357–378
@@ -213,7 +213,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Library/Church Fathers/Basil_the_Great/Letter 191|Letter 191]] — c. 357–378
 - [[Library/Church Fathers/Basil_the_Great/Letter 192|Letter 192]] — c. 357–378
 - [[Letter 193|Letter 193]] — c. 357–378
-- [[Letter 194|Letter 194]] — c. 357–378
+- [[02 Church Fathers (c. 95 – 749)/Basil the Great/Letter 194|Letter 194]] — c. 357–378
 - [[Letter 195|Letter 195]] — c. 357–378
 - [[Letter 196|Letter 196]] — c. 357–378
 - [[Letter 197|Letter 197]] — c. 357–378

@@ -18,7 +18,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[A Fragment from On the Trinity|A Fragment from On the Trinity]] — c. 238–270
 - [[A Metaphrase of Ecclesiastes|A Metaphrase of Ecclesiastes]] — c. 240–250
 - [[A Sectional Confession of the Faith|A Sectional Confession of the Faith]] — 4th century or later
-- [[Canonical Epistle|Canonical Epistle]] — c. 254–258
+- [[02 Church Fathers (c. 95 – 749)/Gregory Thaumaturgus/Canonical Epistle|Canonical Epistle]] — c. 254–258
 - [[Four Homilies (06092)|Four Homilies]] — 4th century or later
 - [[Four Homilies (06093)|Four Homilies]] — 4th century or later
 - [[Four Homilies (06094)|Four Homilies]] — 4th century or later

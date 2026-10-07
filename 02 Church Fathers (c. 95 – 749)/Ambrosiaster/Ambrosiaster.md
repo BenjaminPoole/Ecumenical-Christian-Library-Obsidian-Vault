@@ -7,7 +7,7 @@ tags:
 
 # Ambrosiaster
 
-16 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+16 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 
 - [[02 Church Fathers (c. 95 – 749)/Ambrosiaster/Commentary on Romans, Chapter 1|Commentary on Romans, Chapter 1]] — machine translation

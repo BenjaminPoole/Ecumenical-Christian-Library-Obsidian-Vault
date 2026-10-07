@@ -7,7 +7,7 @@ tags:
 
 # Hermas
 
-3 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+3 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[02 Church Fathers (c. 95 – 749)/Hermas/The Shepherd of Hermas, Book I|The Shepherd of Hermas, Book I]] — [[ANF 02|ANF 2]]
 - [[02 Church Fathers (c. 95 – 749)/Hermas/The Shepherd of Hermas, Book II|The Shepherd of Hermas, Book II]] — [[ANF 02|ANF 2]]

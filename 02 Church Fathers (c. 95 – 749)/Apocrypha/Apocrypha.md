@@ -7,7 +7,7 @@ tags:
 
 # Apocrypha
 
-35 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+35 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[02 Church Fathers (c. 95 – 749)/Apocrypha/Acts and Martyrdom of St. Matthew|Acts and Martyrdom of St. Matthew]] — [[ANF 08|ANF 8]]
 - [[02 Church Fathers (c. 95 – 749)/Apocrypha/Acts of John (Apocryphal)|Acts of John (Apocryphal)]] — [[ANF 08|ANF 8]]
