@@ -9,10 +9,7 @@ tags:
 
 <img src="https://scx2.b-cdn.net/gfx/news/2021/publication-of-500-yea-1.jpg" width=400 height=264>
 
-19,556 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, and Evangelical writers. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
-=======
 20,421 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, Evangelical writers, and Newman. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
->>>>>>> 32d03ac0ceaf059925eb2d3d31cdf894403eb85e
 
 This is the web version of the open source [Obsidian Vault](https://github.com/BenjaminPoole/Ecumenical-Christian-Library-Obsidian-Vault)
 
@@ -51,6 +48,7 @@ Each folder or author has a helpful index in the folder root. Have a look at the
 | **06 Puritans** (1600–1700) | [[Puritans\|Owen, Trapp, Bunyan, Baxter, Watson, Flavel, Charnock, Gurnall, Scougal, à Brakel]] | 2,943 |
 | **06 Scientists** (1600–1700) | [[06 Scientists (1600–1700)/index\|The theology of the scientific revolution]] — Bacon, Galileo, Kepler, Descartes, Browne, Wilkins, Pascal, Boyle, Ray, Newton, Leibniz | 640 |
 | **07 Evangelical Writers** (1700–present) | [[Charles Spurgeon]], [[John Wesley]], [[je-index\|Jonathan Edwards]], [[JC Ryle]], [[The Fundamentals index\|The Fundamentals]] | 6,927 |
+| **07 Catholic Writers** (1800–present) | [[07 Catholic Writers (1800–present)/index\|John Henry Newman]] — the Oxford Movement, the *Parochial and Plain Sermons*, the *Apologia*, the *Development of Doctrine*, the *Grammar of Assent*, *The Idea of a University* | 1,090 |
 
 # Design Philosophy
 
