@@ -1,0 +1,52 @@
+---
+title: "12. Opusculum For a very small Album"
+author: "John Henry Newman"
+work: "Verses on Various Occasions"
+chapter: 12
+year: "1868"
+source: "Newman Reader (newmanreader.org), National Institute for Newman Studies"
+written: "1868"
+tags:
+  - john-henry-newman
+  - newman-verses-on-various-occasions
+---
+
+# 12. Opusculum For a very small Album
+
+Fair Cousin, thy page  
+is small to encage  
+the thoughts which engage  
+the mind of a sage,  
+  such as I am;
+
+'Twere in teaspoon to take  
+the whole Genevese lake,  
+or a lap-dog to make  
+the white Elephant sac-  
+  -red in Siam.
+
+Yet inadequate though  
+to the terms strange and so-  
+-lemn that figure in po-  
+-lysyllabical row  
+  in a treatise;
+
+Still, true words and plain,  
+of the heart, not the brain,  
+in affectionate strain,  
+this book to contain  
+  very meet is.
+
+So I promise to be  
+a good Cousin to thee,  
+and to keep safe the se-  
+-cret I heard, although e-  
+  -v'ry one know it;
+
+With a lyrical air  
+my kind thoughts I would dare,  
+and offer whate'er  
+beseems the news, were  
+  I a poet.
+
+*Brighton*. *April*, 1829
