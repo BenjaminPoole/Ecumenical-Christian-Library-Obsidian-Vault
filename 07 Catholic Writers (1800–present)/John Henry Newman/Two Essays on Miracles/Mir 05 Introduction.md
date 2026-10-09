@@ -1,0 +1,24 @@
+---
+title: "Chapter 1. Introduction"
+author: "John Henry Newman"
+work: "Two Essays on Biblical and on Ecclesiastical Miracles"
+chapter: 5
+year: "1826–1843"
+source: "Newman Reader (newmanreader.org), National Institute for Newman Studies"
+written: "1826–1843"
+tags:
+  - john-henry-newman
+  - newman-two-essays-on-miracles
+---
+
+# Chapter 1. Introduction
+
+*Essay II. The Miracles of Early Ecclesiastical History, Compared with those of Scripture, as regards Their Nature, Credibility, and Evidence*
+
+1\. Sacred History is distinguished from Profane by the nature of the facts which enter into its composition, and which are not always such as occur in the ordinary course of things, but are extraordinary and divine. Miracles are its characteristic, whether it be viewed as biblical or ecclesiastical: as the history of a reign or dynasty more or less approximates to biography, as the history of a wandering tribe passes into romance or poetry, as a constitutional history borders on a philosophical dissertation, so the history of Religion is necessarily of a theological cast, and is occupied with the supernatural. It is a record of "the kingdom of heaven," a manifestation of the Hand of God; and, "the temple of God being opened," and "the ark of His testament," there are "lightnings and voices," the momentary yet recurring tokens of that conflict between good and evil, which is waging in the world of spirits from age to age. This supernatural agency, as far as it is really revealed to us, is from its very nature the most important of the characteristics of sacred history, and the mere rumour of its manifestation excites interest in consequence of the certainty of its existence. But since the miraculous statements which are presented to us are often not mere rumours or surmises, but in fact essential to the narrative, it is plain that to treat any such series of events, (for instance, the history of the Jews, or of the rise of Christianity, or of the Catholic Church,) without taking them into account, is to profess to write the annals of a reign, yet to be silent about the monarch,—to overlook, as it were, his personal character and professed principles, his indirect influence and immediate acts.
+
+2\. Among the subjects, then, which the history of the early centuries of Christianity brings before us, and which are apt more or less to startle those who with modern ideas commence the study of Church History generally, (such as the monastic rule, the honour paid to celibacy, and the belief in the power of the keys,) it seems right to bestow attention in the first place on the supernatural narratives which occur in the course of it, and of which various specimens will be found in any portion of it which a reader takes in hand. It will naturally suggest itself to him to form some judgment upon them, and a perplexity, perhaps a painful perplexity, may ensue from the difficulty of doing so. This being the case, it is inconsiderate and almost wanton to bring such subjects before him, without making at least the attempt to assist him in disposing of them. Accordingly, the following remarks have been written in discharge of a sort of duty which a work of Ecclesiastical History involves [^1],—not indeed without a deep sense of the arduousness of such an essay, or of the incompleteness and other great defects of its execution, but at the same time, as the writer is bound to add, without any apology at all for discussing in his own way a subject which demands discussion, and which, if any other, is an open question in the English Church, and has only during the last century been viewed in a light which he believes to be both false in itself, and dangerous altogether to Revealed Religion.
+
+3\. It may be advisable to state in the commencement the conclusions to which the remarks which follow will be found to tend; they are such as these:—that Ecclesiastical Miracles, that is, Miracles posterior to the Apostolic age, are on the whole different in object, character, and evidence, from those of Scripture on the whole, so that the one series or family ought never to be confounded with the other; yet that the former are not therefore at once to be rejected; that there was no Age of Miracles, after which miracles ceased; that there have been at all times true miracles and false miracles, true accounts and false accounts; that no authoritative guide is supplied to us for drawing the line between the two; that some of the miracles reported were true miracles; that we cannot be certain how many were not true; and that under these circumstances the decision in particular cases is left to each individual, according to his opportunities of judging.
+
+[^1]: [The occasion of this Essay was the publication of a portion of Fleury's Ecclesiastical History in English.]

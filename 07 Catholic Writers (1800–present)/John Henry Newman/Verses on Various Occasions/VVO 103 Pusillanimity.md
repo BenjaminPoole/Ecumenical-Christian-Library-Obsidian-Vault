@@ -1,0 +1,31 @@
+---
+title: "103. Pusillanimity"
+author: "John Henry Newman"
+work: "Verses on Various Occasions"
+chapter: 103
+year: "1868"
+source: "Newman Reader (newmanreader.org), National Institute for Newman Studies"
+written: "1868"
+tags:
+  - john-henry-newman
+  - newman-verses-on-various-occasions
+---
+
+# 103. Pusillanimity
+
+"I have need to be baptized of Thee, and comest Thou to me?"
+
+HOW didst thou start, Thou Holy Baptist, bid  
+  To pour repentance on the Sinless Brow!  
+Then all thy meekness, from thy hearers hid,  
+  Beneath the Ascetic's port, and Preacher's fire,  
+Flow'd forth, and with a pang thou didst desire  
+  He might be chief, not thou.
+
+And so on us at whiles it falls, to claim  
+  Powers that we dread, or dare some forward part;  
+Nor must we shrink as cravens from the blame  
+  Of pride, in common eyes, or purpose deep;  
+But with pure thoughts look up to God, and keep  
+  Our secret in our heart.  
+At Sea. *June* 22, 1833.

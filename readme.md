@@ -10,6 +10,9 @@ tags:
 <img src="https://scx2.b-cdn.net/gfx/news/2021/publication-of-500-yea-1.jpg" width=400 height=264>
 
 19,556 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, and Evangelical writers. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
+=======
+20,421 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, Evangelical writers, and Newman. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
+>>>>>>> 32d03ac0ceaf059925eb2d3d31cdf894403eb85e
 
 This is the web version of the open source [Obsidian Vault](https://github.com/BenjaminPoole/Ecumenical-Christian-Library-Obsidian-Vault)
 
