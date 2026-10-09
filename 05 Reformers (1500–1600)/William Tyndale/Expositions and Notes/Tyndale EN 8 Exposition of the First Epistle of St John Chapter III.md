@@ -65,7 +65,7 @@ If thou love thy brother in Christ, and art ready to do and to suffer for him, a
 
 If we felt the love of Christ’s death, it would sure set our heart on fire to love him again, and our brethren for his sake, and should never cease to slay our resisting members, until we could not only be well content that our brethren were in a more prosperous state than we, but aiso until we could bless rethem when they curse us, and pray for them when they persecute us, and to suffer death for them, to testify the word of their soul’s health unto them, and with love to overcome them, and to win them unto Christ If now every christian man ought to have this rule of his profession before his eyes to learn it, that he should love his brother as Christ did him, to depart with his life for his brother's example, how far are they off from good scholars, that cannot find in their hearts
 
-[[! So P. C. L., but D. omits or no.]]
+! So P. C. L., but D. omits or no.
 
 EEUU eoe
 

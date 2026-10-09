@@ -89,7 +89,7 @@ And for the sustenance of their living, which is comprised in this word honour, 
 
 **Ixiii.** “To provide and care for them." It may right well appear that St Paul affirmeth this point, specially to be required in all such as have governance over other, in these words that he saith, Rom. xii. Qui preest in solicitudine presit.
 
-[[! Cranmer’s attempt to preserve the paragraph [? Ibid. p. 318.]]
+! Cranmer’s attempt to preserve the paragraph [? Ibid. p. 318.
 
 [failed. Nec. Doctr. p. 311.] [^ Cranmer preserved the substance of this]
 

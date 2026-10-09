@@ -73,4 +73,4 @@ It was in this place that I saw the other good soldier of Jesus Christ grappling
 Here, we may observe, was no mixture of any passion or temper contrary to love; therefore, there was no misery; perfect love casting out whatever might have occasioned torment. And whosoever thou art who hast the like measure of love, thy last end shall be like his. [Section numbers in brackets follow the Bicentennial Edition.]
 
 ---
-[[WS 138 On Grieving the Holy Spirit|← 138. On Grieving the Holy Spirit]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 140 On Public Diversions|140. On Public Diversions →]]
+[[WS 138 On Grieving the Holy Spirit|← 138. On Grieving the Holy Spirit]] · [[John Wesley/Sermons/index|Contents]] · [[WS 140 On Public Diversions|140. On Public Diversions →]]

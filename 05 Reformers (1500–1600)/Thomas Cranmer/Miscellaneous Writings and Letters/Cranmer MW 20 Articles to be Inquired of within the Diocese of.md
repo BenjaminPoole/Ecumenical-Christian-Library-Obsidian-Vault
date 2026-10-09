@@ -112,7 +112,7 @@ Jtem, Whether, in every cure they have, they have provided one book of the whole
 
 Jtem, Whether they have discouraged any person from reading of any part of the bible, either in Latin or English, but rather comforted and exhorted every person to read the same, as the very lively word of God, and the special food of man's soul. Put away from us all war and hostility, and if we of Articles and Injunctions then in the possession be driven thereto, hold thy holy and strong power of N. Battely.” and defence over us: be our garrison, our shield, Ye shall also make your hearty and effectual and buckler. And seeing we seek but a perpetual prayer to Almighty God for the peace of all Christian amity and concord, and performance of quietness regions, and especially, that the most joyful and promised in thy name, pursue the same with us, and perpetual peace and unity of this realm and Scot-send thy holy angels to be our aiders; that either land may shortly be profited and brought to pass, none at all, or else so little loss and effusion of by the most godly and happy marriage of the king's christian blood as can, be made thereby. Look majesty and the young queen of Scotland: and that not, O Lord, upon our sins, or the sins of our ene- it would please Almighty God to aid with strength, mies, what they deserve; but have regard to thy wisdom, and power, and with his holy defence, all most plenteous and abundant mercy, which passeth those which favour and set forward the same, and all thy works, being so infinite and marvellous. Do vanquish and confound all those which labour and this, O Lord, for thy Son's sake, Jesu Christ. study to the lett and interruption of so godly a quiet The same topic," adds Dr Jenkyns, wasintro- and unity, whereof these two realms should take duced also into the bidding prayer before the sermon, such a benefit and profit: for these and all other, &c. The following form is printed by Strype, Eccl. Vid.Jenkyns' Remains of Abp. Cranmer, Vol. II. Mem. Vol. II. Part 1. p. 73, from some manu- pp. 196, 7. script additions attributed to Cranmer, in a Book (? To words commanded. Sparrow. 7
 
-[[ perfected. Jenkyns.]]
+perfected. Jenkyns.
 
 Item, Whether parsons, vicars, curates, and other priests, be common haunters and resorters to taverns or ale-houses, giving themselves to drinking, rioting, or playing at unlawful games, and do not occupy themselves in the reading or hearing of some part of holy scripture, or in some other godly exercise.
 
@@ -190,7 +190,7 @@ Item, Whether they or any of them do keep more benefices and other ecclesiastica
 
 Item, Whether they minister the communion any other ways than only after such form and manner as is set forth by the kings majesty in the book of the communion. Item, Whether they hallowed and delivered to the people any candles upon candlemas-day, and ashes upon Ash-Wednesday, or any palms apon Palm-Sunday last past.
 
-[[^ To the high altar. Sparrow.]]
+^ To the high altar. Sparrow.
 
 Item, Whether they had upon Good-Friday last past the sepulchres with their lights, having the sacrament therein. ‘
 
@@ -232,7 +232,7 @@ Item, Whether any inn-holders or alehouse-keepers do use commonly to sell meat a
 
 Item, Whether you know any to be married within the degrees prohibited by the
 
-[[! And for the book. Sparrow.]]
+! And for the book. Sparrow.
 
 laws of God, or that be separated or divorced without a just cause, allowed by the law of God, and whether any such have married again.
 

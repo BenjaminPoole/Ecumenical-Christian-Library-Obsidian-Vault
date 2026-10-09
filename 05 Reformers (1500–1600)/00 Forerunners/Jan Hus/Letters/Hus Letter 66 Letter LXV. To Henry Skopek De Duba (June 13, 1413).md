@@ -23,5 +23,5 @@ God be with you, my dear lord! Your notes reached me on Wednesday before St. Vit
 [quotation.]
 
 ---
-[[Hus Letter 65 Letter LXIV. To All the People of Bohemia|← 65. Letter LXIV. To All the People of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 67 Letter LXVI. To Master Martin, his Disciple (June 16|67. Letter LXVI. To Master Martin, his →]]
+[[Hus Letter 65 Letter LXIV. To All the People of Bohemia|← 65. Letter LXIV. To All the People of]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 67 Letter LXVI. To Master Martin, his Disciple (June 16|67. Letter LXVI. To Master Martin, his →]]
 

@@ -28,4 +28,4 @@ Thou didst send to me saying … I was consoled by this thing, both by her life,
 I commend to thee … I have had no news at all of them, I do not know why. The will of God be done! Our Saviour has put me on the Island, and the winds beat from every side. Let everyone rejoice in Christ crucified, however far one from the other. Shut thee into the house of self- knowledge. I say no more. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 46 To Monna Catarina of the Hospital and to Giovanna DI Capo in Siena|← To Monna Catarina of the Hospital and to Giovanna DI Capo in Siena]] · [[Letters|Contents]] · [[CL 48 To Gregory XI|To Gregory XI →]]
+[[CL 46 To Monna Catarina of the Hospital and to Giovanna DI Capo in Siena|← To Monna Catarina of the Hospital and to Giovanna DI Capo in Siena]] · [[Catherine of Siena/Letters|Contents]] · [[CL 48 To Gregory XI|To Gregory XI →]]

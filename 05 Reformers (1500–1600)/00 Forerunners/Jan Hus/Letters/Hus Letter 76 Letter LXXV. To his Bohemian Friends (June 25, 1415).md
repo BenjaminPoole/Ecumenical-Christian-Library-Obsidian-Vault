@@ -49,5 +49,5 @@ He is always harping on the great harm that had been done by me and my friends. 
 For God’s sake look after the letters. Do not give them to any clerk to carry. Let me have a hint if the nobles are to ride with Sigismund. In His mercy Christ Jesus ever keeps me to my former resolve.
 
 ---
-[[Hus Letter 75 Letter LXXIV. To the Faithful Bohemians|← 75. Letter LXXIV. To the Faithful Bohemians]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 77 Letter LXXVI. To the Faithful Bohemians (June 26, 1415)|77. Letter LXXVI. To the Faithful Bohemians →]]
+[[Hus Letter 75 Letter LXXIV. To the Faithful Bohemians|← 75. Letter LXXIV. To the Faithful Bohemians]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 77 Letter LXXVI. To the Faithful Bohemians (June 26, 1415)|77. Letter LXXVI. To the Faithful Bohemians →]]
 

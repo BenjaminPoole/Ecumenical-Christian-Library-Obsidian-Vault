@@ -7,7 +7,7 @@ tags:
 
 # Ignatius of Antioch
 
-9 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+9 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Epistle to St. Polycarp|Epistle to St. Polycarp]] — [[ANF 01|ANF 1]]
 - [[Epistle to the Ephesians|Epistle to the Ephesians]] — [[ANF 01|ANF 1]]

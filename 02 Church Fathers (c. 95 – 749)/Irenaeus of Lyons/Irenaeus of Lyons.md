@@ -7,7 +7,7 @@ tags:
 
 # Irenaeus of Lyons
 
-174 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+174 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Against Heresies, Book I|Against Heresies, Book I]] — [[ANF 01|ANF 1]]
 - [[Against Heresies, Book II|Against Heresies, Book II]] — [[ANF 01|ANF 1]]
@@ -182,4 +182,4 @@ tags:
 - [[Against Heresies, V.34|Against Heresies, V.34]] — [[ANF 01|ANF 1]]
 - [[Against Heresies, V.35|Against Heresies, V.35]] — [[ANF 01|ANF 1]]
 - [[Against Heresies, V.36|Against Heresies, V.36]] — [[ANF 01|ANF 1]]
-- [[Library/Church Fathers/Irenaeus_of_Lyons/Fragments|Fragments]] — [[ANF 01|ANF 1]]
+- [[Irenaeus of Lyons/Fragments|Fragments]] — [[ANF 01|ANF 1]]

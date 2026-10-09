@@ -71,7 +71,7 @@ If Hus's first letter after the flight of John gives little indication of the ex
 we learn from an anonymous letter of April 2, provisions in Constance ran very short (Doc. 543). The country folk were too uncertain of the future to bring in, as hitherto, their stores. Hus also was in no small alarm.
 
 ---
-[[Hus Letter 50 Letter XLIX. To the Same (March 6, 1415)|← 50. Letter XLIX. To the Same (March 6, 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 52 Letter LI. To his Friends After the Pope's Flight|52. Letter LI. To his Friends After the →]]
+[[Hus Letter 50 Letter XLIX. To the Same (March 6, 1415)|← 50. Letter XLIX. To the Same (March 6, 1415)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 52 Letter LI. To his Friends After the Pope's Flight|52. Letter LI. To his Friends After the →]]
 
 
 

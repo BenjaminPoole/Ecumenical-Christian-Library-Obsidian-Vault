@@ -7,7 +7,7 @@ tags:
 
 # Lactantius
 
-14 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+14 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[A Poem on the Passion|A Poem on the Passion]] — [[ANF 07|ANF 7]]
 - [[Divine Institutes, Book I|Divine Institutes, Book I]] — [[ANF 07|ANF 7]]
@@ -18,7 +18,7 @@ tags:
 - [[Divine Institutes, Book VI|Divine Institutes, Book VI]] — [[ANF 07|ANF 7]]
 - [[Divine Institutes, Book VII|Divine Institutes, Book VII]] — [[ANF 07|ANF 7]]
 - [[Epitome of the Divine Institutes|Epitome of the Divine Institutes]] — [[ANF 07|ANF 7]]
-- [[Library/Church Fathers/Lactantius/Fragments|Fragments]] — [[ANF 07|ANF 7]]
+- [[Lactantius/Fragments|Fragments]] — [[ANF 07|ANF 7]]
 - [[Of the Manner in Which the Persecutors Died|Of the Manner in Which the Persecutors Died]] — [[ANF 07|ANF 7]]
 - [[On the Anger of God|On the Anger of God]] — [[ANF 07|ANF 7]]
 - [[On the Workmanship of God|On the Workmanship of God]] — [[ANF 07|ANF 7]]

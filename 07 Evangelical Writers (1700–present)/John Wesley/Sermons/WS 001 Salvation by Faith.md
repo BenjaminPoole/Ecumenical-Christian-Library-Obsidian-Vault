@@ -84,4 +84,4 @@ III. The first usual objection to this is,
 Now, thanks be to God, which giveth us the victory through our Lord Jesus Christ; to whom, with the Father and the Holy Ghost, be blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, for ever and ever. Amen
 
 ---
-[[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 002 The Almost Christian|2. The Almost Christian →]]
+[[John Wesley/Sermons/index|Contents]] · [[WS 002 The Almost Christian|2. The Almost Christian →]]

@@ -54,4 +54,4 @@ Death is properly the separation of the soul from the body. Of this we are certa
 Bradford, May 2, 1788.
 
 ---
-[[WS 108 On Riches|← 108. On Riches]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 110 On Discoveries of Faith|110. On Discoveries of Faith →]]
+[[WS 108 On Riches|← 108. On Riches]] · [[John Wesley/Sermons/index|Contents]] · [[WS 110 On Discoveries of Faith|110. On Discoveries of Faith →]]

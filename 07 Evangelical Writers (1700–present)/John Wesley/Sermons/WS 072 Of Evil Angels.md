@@ -100,4 +100,4 @@ Jesus hath died for you! What can your faith withstand Believe, hold fast your s
 6\. Lastly. If he "transform himself into an angel of light," then are you in the greatest danger of all. Then have you need to beware, lest you also fall, where many mightier have been slain; then have you the greatest need to "watch and pray, that ye enter not into temptation." And if you continue so to do, the God whom you love and serve will deliver you. "The anointing of the Holy One shall abide with you, and teach you of all things." Your eye will pierce through snares, you shall "know what that holy and acceptable and perfect will of God is," and shall hold on your way, till you "grow up in all things into him that is our Head, even Christ Jesus."
 
 ---
-[[WS 071 Of Good Angels|← 71. Of Good Angels]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 073 Of Hell|73. Of Hell →]]
+[[WS 071 Of Good Angels|← 71. Of Good Angels]] · [[John Wesley/Sermons/index|Contents]] · [[WS 073 Of Hell|73. Of Hell →]]

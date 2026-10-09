@@ -28,4 +28,4 @@ tags:
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 11 SECTION II. THE TRUE VIEW OF CHRIST'S SUFFERINGS|← 11. SECTION II. THE TRUE VIEW OF CHRIST'S]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 13 The Twofold Use of the Law and Gospel|13. The Twofold Use of the Law and Gospel →]]
+[[Luther Sermon 11 SECTION II. THE TRUE VIEW OF CHRIST'S SUFFERINGS|← 11. SECTION II. THE TRUE VIEW OF CHRIST'S]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 13 The Twofold Use of the Law and Gospel|13. The Twofold Use of the Law and Gospel →]]

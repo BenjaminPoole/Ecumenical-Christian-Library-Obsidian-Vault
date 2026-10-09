@@ -85,6 +85,6 @@ along with Lord Henry [Lacembok], stand by my side without flinching till the en
 From another letter of Hus we learn some further details of his dreams, of his own belief in their value, and, apparently John of Chlum's incredulity. (Compare infra, p. 222, with p. 192, second sentence.)
 
 ---
-[[Hus Letter 47 Letter XLVI. To his Friends at Constance (February 1415)|← 47. Letter XLVI. To his Friends at]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 49 Letter XLVIII. To the Same (March 4, 1415)|49. Letter XLVIII. To the Same (March 4 →]]
+[[Hus Letter 47 Letter XLVI. To his Friends at Constance (February 1415)|← 47. Letter XLVI. To his Friends at]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 49 Letter XLVIII. To the Same (March 4, 1415)|49. Letter XLVIII. To the Same (March 4 →]]
 
 

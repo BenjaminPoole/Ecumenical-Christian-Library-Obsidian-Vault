@@ -10,7 +10,7 @@ tags:
 # NPNF1 10: Chrysostom: Homilies on the Gospel of Saint Matthew
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 10 — 90 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
 

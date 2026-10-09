@@ -22,7 +22,7 @@ This word “faith,” or “belief,” is diversly used in the common talk of m
 
 [3 PDN faithfulness, from JON to prop, stay, support, to be firm. ἸῸΝ Jaithfulness, truth. See the Lexicons.] [4 Fides, quod fiat, quod dicitur, Lat. “Credamus, quia fiat quod dictum est, appellatam fidem.”—Cic. de Off. 1. 7.]
 
-[[BULLINGER.]]
+BULLINGER.
 
 in this treatise of ours, Faith is an undoubted belief, most firmly grounded in the mind. /"~ This faith which settled and undoubted per or belief leaning upon God and his word, is diversly defined [by the perfecter divines. St Paul saith: Faith is the substance of things hoped for, the evidence of things not seen.” The substance, or hypostasis?, is the foundation, or the unmoveable prop, which upholdeth us, and whereon we lean and lie without peril or danger. The things hoped for are things celestial, eternal, and invisible. And therefore Paul saith: Faith is an unmoveable foundation, and a most assured confidence of God’s promises, that is, of life everlasting and all his good benefits. Moreover Paul himself, making an exposition of that which he had spoken, immediately after saith: “Faith is the argument of things not seen.” An argument or proof is an evident demonstration, whereby we manifestly prove that which otherwise should be doubtful, so that in him, whom we undertook to instruct, there may remain no doubt at all.
 

@@ -101,7 +101,7 @@ joy and comfort as will never be taken from us. If here we have to suffer for Ch
 Beloved, knowing that the world is passing to its doom (death is at the door and we shall soon remove hence) make it your chief concern to live righteous and holy lives and renounce your sins. Next, give earnest heed to the things that are heavenly; and, finally, love God with all your heart and put your trust in Him; for He will honour you in His glory for the merits of Jesus Christ and will make you partakers of His kingdom. Amen.
 
 ---
-[[Hus Letter 5 Letter IV. To Master Zawissius (Autumn 1408)|← 5. Letter IV. To Master Zawissius (Autumn]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 7 Letter VI. To Master Richard wyche of England|7. Letter VI. To Master Richard wyche of →]]
+[[Hus Letter 5 Letter IV. To Master Zawissius (Autumn 1408)|← 5. Letter IV. To Master Zawissius (Autumn]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 7 Letter VI. To Master Richard wyche of England|7. Letter VI. To Master Richard wyche of →]]
 
 
 

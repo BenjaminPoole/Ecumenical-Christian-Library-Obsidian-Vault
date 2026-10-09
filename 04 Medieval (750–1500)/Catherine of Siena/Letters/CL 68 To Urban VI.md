@@ -32,4 +32,4 @@ Also I beg you that you should bring us some help for what Leo told you; for thi
 Then recall to yourself the disaster that fell upon all Italy, because bad rulers were not guarded against, who governed in such wise that they were the cause of the Church of God being despoiled. I know that you are aware of this: now let your Holiness see what is to be done. Comfort you, comfort you sweetly; for God does not despise your desire, nor the prayer of His servants. I say no more to you. Remain in the holy and sweet Grace of God. Humbly I ask your benediction. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 67 To Brother Raimondo of the Preaching Order When He Was in Genoa|← To Brother Raimondo of the Preaching Order When He Was in Genoa]] · [[Letters|Contents]] · [[CL 69 Letters Describing the Experience Preceding Death|Letters Describing the Experience Preceding Death →]]
+[[CL 67 To Brother Raimondo of the Preaching Order When He Was in Genoa|← To Brother Raimondo of the Preaching Order When He Was in Genoa]] · [[Catherine of Siena/Letters|Contents]] · [[CL 69 Letters Describing the Experience Preceding Death|Letters Describing the Experience Preceding Death →]]

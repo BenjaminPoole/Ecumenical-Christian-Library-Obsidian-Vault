@@ -59,7 +59,7 @@ obey not my voice, then I will repent of the good wherewith I said I would benef
 
 These sermons truly I have written, that I might bestow my labours upon you, assist your own studies, or even stimulate each one of you to think and find out more; but not that every one should use them word for word in the church confided to his care. For selection and judgment is needed, that we may not speak to our own church what is foreign to it, or little profitable and necessary for it. Let the wise pastor consider well of what kind are the morals of the people of his charge, and what things are most requisite for them, and so set them before them, having regard always to edification, true faith, piety, charity, and innocence. For we must both
 
-[[ See Vol. 11. page 147, note 6.]]
+See Vol. 11. page 147, note 6.
 
 teach and admonish, that the church over which it hath pleased the ἱ Lord to set us may be godly and holy. Certain forms of sermons, therefore, I put forth, by which I desire also to gratify those who have for many years asked this of me. And in all these, and with regard to all points, 1 would have that most just rule of the apostle to prevail with all readers: “Prove all things; hold fast that which 1s good?” Nor am I much affected by the slanders of those who ery out, that such sermons make the brethren idle; as was the case formerly when the sermons of Discipulus and Pelbart were read. For I have on my side the example of the greatest luminaries in the church: I mean, the most eminent bishops in the church, who themselves also wrote sermons and homilies to the great profit of the church. The idle are always idle, even though nothing at all be written.
 

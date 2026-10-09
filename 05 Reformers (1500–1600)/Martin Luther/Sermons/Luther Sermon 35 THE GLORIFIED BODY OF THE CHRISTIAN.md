@@ -21,4 +21,4 @@ tags:
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 34 THE CHRISTIAN A CITIZEN OF HEAVEN|← 34. THE CHRISTIAN A CITIZEN OF HEAVEN]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 36 On Faith & Coming to Christ|36. On Faith & Coming to Christ →]]
+[[Luther Sermon 34 THE CHRISTIAN A CITIZEN OF HEAVEN|← 34. THE CHRISTIAN A CITIZEN OF HEAVEN]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 36 On Faith & Coming to Christ|36. On Faith & Coming to Christ →]]

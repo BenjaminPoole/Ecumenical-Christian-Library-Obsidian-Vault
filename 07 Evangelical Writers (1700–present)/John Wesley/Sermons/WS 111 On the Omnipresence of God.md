@@ -70,4 +70,4 @@ Dark with excessive bright his skirts appear, Yet dazzles heaven, that brightest
 Portsmouth, August 12, 1788
 
 ---
-[[WS 110 On Discoveries of Faith|← 110. On Discoveries of Faith]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 112 The Rich Man and Lazarus|112. The Rich Man and Lazarus →]]
+[[WS 110 On Discoveries of Faith|← 110. On Discoveries of Faith]] · [[John Wesley/Sermons/index|Contents]] · [[WS 112 The Rich Man and Lazarus|112. The Rich Man and Lazarus →]]

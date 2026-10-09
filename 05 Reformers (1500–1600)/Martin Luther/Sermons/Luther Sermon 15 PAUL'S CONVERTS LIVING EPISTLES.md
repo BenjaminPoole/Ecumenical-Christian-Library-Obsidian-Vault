@@ -22,4 +22,4 @@ tags:
 “Such confidence have we through Christ to Godward: not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God
 
 ---
-[[Luther Sermon 14 GOSPEL TRANSCENDS LAW|← 14. GOSPEL TRANSCENDS LAW]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 16 TRUE PREACHERS COMMISSIONED BY GOD|16. TRUE PREACHERS COMMISSIONED BY GOD →]]
+[[Luther Sermon 14 GOSPEL TRANSCENDS LAW|← 14. GOSPEL TRANSCENDS LAW]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 16 TRUE PREACHERS COMMISSIONED BY GOD|16. TRUE PREACHERS COMMISSIONED BY GOD →]]

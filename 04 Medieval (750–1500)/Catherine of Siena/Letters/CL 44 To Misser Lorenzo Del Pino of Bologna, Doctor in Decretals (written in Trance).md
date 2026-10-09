@@ -38,4 +38,4 @@ So, knowing no other way, I said that I desired to see you a lover and follower 
 Then, dearest brother, let us sleep no more, but awaken from slumber. Open the eye of the mind in the light of faith, to know, to love, to follow that truth which you shall know through the Blood of the humble and loving Lamb. You shall know that Blood in the knowledge of yourself, that the face of your soul may be washed therein. And it is ours, and none can take it from us unless we choose. Then be negligent no more; but like a vase, fill yourself with the Blood of Christ crucified. I say no more. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 43 To Nicholas of Osimo|← To Nicholas of Osimo]] · [[Letters|Contents]] · [[CL 45 Letters Written from Rocca D'orcia|Letters Written from Rocca D'orcia →]]
+[[CL 43 To Nicholas of Osimo|← To Nicholas of Osimo]] · [[Catherine of Siena/Letters|Contents]] · [[CL 45 Letters Written from Rocca D'orcia|Letters Written from Rocca D'orcia →]]

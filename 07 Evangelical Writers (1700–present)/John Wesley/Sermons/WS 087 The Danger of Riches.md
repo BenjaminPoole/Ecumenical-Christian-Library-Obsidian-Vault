@@ -150,4 +150,4 @@ Unhelp'd, unpitied let the wretches fall.
 20\. Thus have I given you, O ye gainers, lovers, possessors of riches, one more (it may be the last) warning. O that it may not be in vain! May God write it upon all your hearts! Though "it is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of heaven," yet the things impossible with men are possible with God." Lord, speak! and even the rich men that hear these words shall enter thy kingdom, shall "take the kingdom of heaven by violence," shall "sell all for the pearl of great price:" shall be "crucified to the world, and count all things dung, that they may win Christ!"
 
 ---
-[[WS 086 A Call to Backsliders|← 86. A Call to Backsliders]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 088 On Dress|88. On Dress →]]
+[[WS 086 A Call to Backsliders|← 86. A Call to Backsliders]] · [[John Wesley/Sermons/index|Contents]] · [[WS 088 On Dress|88. On Dress →]]

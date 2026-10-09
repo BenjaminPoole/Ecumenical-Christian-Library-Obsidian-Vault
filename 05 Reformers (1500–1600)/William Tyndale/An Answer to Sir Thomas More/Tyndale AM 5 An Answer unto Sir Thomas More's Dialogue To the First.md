@@ -484,7 +484,7 @@ And as for the Saboth?, a great matter, we be lords over the Saboth; and may yet
 
 [7 Tyndale has spelt this word Saboth; More has spelt it Sabbaoth.]
 
-[[TYNDALE, 111]]
+TYNDALE, 111
 
 Saturday, than to put difference between us and the Jews; and lest we should become servants unto the day, after their superstition. Neither needed we any holy day at all, if the people might be taught without it’.
 

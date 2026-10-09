@@ -62,4 +62,4 @@ The beggars but a common lot deplore; The rich poor man's emphatically poor.
 Bristol, September 21, 1790.
 
 ---
-[[WS 125 On Living Without God|← 125. On Living Without God]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 127 The Trouble and Rest of Good Men|127. The Trouble and Rest of Good Men →]]
+[[WS 125 On Living Without God|← 125. On Living Without God]] · [[John Wesley/Sermons/index|Contents]] · [[WS 127 The Trouble and Rest of Good Men|127. The Trouble and Rest of Good Men →]]

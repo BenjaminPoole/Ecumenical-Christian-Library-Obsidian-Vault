@@ -45,7 +45,7 @@ thereby I should have to condemn many truths which, as I have heard from their o
 Hus in his reply was uncompromising in his rejection of the basket which the “Father" offered for his escape. With this reply the incident closed, and the Father" left Hus to his fate. But he was still pestered by others eager to prove their powers of argument, among them, we learn with interest, by an old Augustinian monk, the delegate from Luther's university, Erfurt. No theologian, cried the enthusiastic chronicler, was able to overcome Hus in argument save that old father alone.'
 
 ---
-[[Hus Letter 67 Letter LXVI. To Master Martin, his Disciple (June 16|← 67. Letter LXVI. To Master Martin, his]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|69. Letter LXVIII. To the Same (Middle of →]]
+[[Hus Letter 67 Letter LXVI. To Master Martin, his Disciple (June 16|← 67. Letter LXVI. To Master Martin, his]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|69. Letter LXVIII. To the Same (Middle of →]]
 
 
 

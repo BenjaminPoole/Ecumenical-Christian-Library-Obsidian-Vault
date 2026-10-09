@@ -47,6 +47,6 @@ shall be granted to me, unless I first pay 2,000 ducats by way of indemnity to t
 to the justice of his cause, his blindness to his real position, and the somewhat crude plans by which he hoped to escape from the toils of the Inquisition.
 
 ---
-[[Hus Letter 43 Letter XLIL. To the Same (February 1415)|← 43. Letter XLIL. To the Same (February 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 45 Letter XLIV. To John of Chlum|45. Letter XLIV. To John of Chlum →]]
+[[Hus Letter 43 Letter XLIL. To the Same (February 1415)|← 43. Letter XLIL. To the Same (February 1415)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 45 Letter XLIV. To John of Chlum|45. Letter XLIV. To John of Chlum →]]
 
 

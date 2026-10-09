@@ -21,7 +21,7 @@ Will you please expound my last night's dream? I dreamt that they wanted to dest
 Note that they had spread it abroad in several quarters that they wanted to destroy the writing on the walls of the Bethlehem Chapel I will forward duplicate.! a copy of my treatises, which I have copied out in To this letter of Hus we fortunately possess the answer of John of Chlum. It was written by Peter Mladenowie, his secretary, who has added at the close a paragraph of his own, explaining how it came to pass that Hus called Chlum the doctor of Biberach (see p. 155). The letter is a revelation of the sturdy common sense and genial humour of the honest knight. But the í Latin is very obscure and crabbed.
 
 ---
-[[Hus Letter 48 Letter XL. Vii. to John of Chlum|← 48. Letter XL. Vii. to John of Chlum]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 50 Letter XLIX. To the Same (March 6, 1415)|50. Letter XLIX. To the Same (March 6, 1415) →]]
+[[Hus Letter 48 Letter XL. Vii. to John of Chlum|← 48. Letter XL. Vii. to John of Chlum]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 50 Letter XLIX. To the Same (March 6, 1415)|50. Letter XLIX. To the Same (March 6, 1415) →]]
 
 
 

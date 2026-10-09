@@ -28,4 +28,4 @@ Up, sweetest daughter, let us delay no more! Let us recover the time we have los
 I say no more. Commend me to Currado, and bless all the rest of the family, and especially my little new plant, that has just been planted anew in the Garden of Holy Church. Be it commended to you, and do you bring it up for me virtuously, so that it may shed fragrance among the other flowers. God fill you with His most sweet favour. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 39 To Monna Lapa her Mother Before She Returned from Avignon|← To Monna Lapa her Mother Before She Returned from Avignon]] · [[Letters|Contents]] · [[CL 41 To Messer Ristoro Canigiani|To Messer Ristoro Canigiani →]]
+[[CL 39 To Monna Lapa her Mother Before She Returned from Avignon|← To Monna Lapa her Mother Before She Returned from Avignon]] · [[Catherine of Siena/Letters|Contents]] · [[CL 41 To Messer Ristoro Canigiani|To Messer Ristoro Canigiani →]]

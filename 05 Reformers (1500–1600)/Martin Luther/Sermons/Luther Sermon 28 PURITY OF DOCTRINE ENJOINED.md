@@ -21,4 +21,4 @@ tags:
 4\. But he does not say “I, Paul, alone.” He says, “as ye have us for an example,” that does not exclude other true apostles and teachers. He is admonishing his Church, as he everywhere does, to hold fast to the one true doctrine received from him in the beginning. They are not to be too confident of their own wisdom in the matter, or to presume they have independent authority; but rather to guard against pretenders to a superior doctrine, for so had some been misled.
 
 ---
-[[Luther Sermon 27 Enemies of the Cross of Christ & The Christian's|← 27. Enemies of the Cross of Christ & The]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 29 RIGHTEOUSNESS OF THE LAW IS VAIN|29. RIGHTEOUSNESS OF THE LAW IS VAIN →]]
+[[Luther Sermon 27 Enemies of the Cross of Christ & The Christian's|← 27. Enemies of the Cross of Christ & The]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 29 RIGHTEOUSNESS OF THE LAW IS VAIN|29. RIGHTEOUSNESS OF THE LAW IS VAIN →]]

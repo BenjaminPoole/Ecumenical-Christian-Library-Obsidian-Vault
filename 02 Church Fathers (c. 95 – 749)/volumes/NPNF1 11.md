@@ -10,7 +10,7 @@ tags:
 # NPNF1 11: Chrysostom: Homilies on the Acts of the Apostles and the Epistle to the Romans
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 11 — 87 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
 

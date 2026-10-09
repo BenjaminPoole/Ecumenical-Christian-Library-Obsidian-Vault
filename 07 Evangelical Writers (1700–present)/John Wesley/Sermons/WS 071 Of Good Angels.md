@@ -92,4 +92,4 @@ I cannot conclude this discourse better than in that admirable Collect of our Ch
 "O everlasting God, who hast ordained and constituted the services of angels and men in a wonderful manner; grant that as thy holy angels alway do thee service in heaven, so by thy appointment they may succour and defend us on earth, through Jesus Christ our Lord."
 
 ---
-[[WS 070 The Case of Reason Impartially Considered|← 70. The Case of Reason Impartially Considered]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 072 Of Evil Angels|72. Of Evil Angels →]]
+[[WS 070 The Case of Reason Impartially Considered|← 70. The Case of Reason Impartially Considered]] · [[John Wesley/Sermons/index|Contents]] · [[WS 072 Of Evil Angels|72. Of Evil Angels →]]

@@ -107,10 +107,10 @@ Blaise Pascal (1623–1662), mathematician, physicist, and after the night of fi
 
 Author index: **[[Blaise Pascal|Blaise Pascal]]**
 
-- **[[Letters|Letters]]** — Pascal's letters on religion: to his sister Jacqueline in the first months of the family's conversion; two written with her to their elder sister Gilberte Périer, on the union grace makes between them; the long letter to the Périers on their father's death, which the early editions printed as *Thoughts upon Death*… *(16 notes)*
+- **[[Blaise Pascal/Letters|Letters]]** — Pascal's letters on religion: to his sister Jacqueline in the first months of the family's conversion; two written with her to their elder sister Gilberte Périer, on the union grace makes between them; the long letter to the Périers on their father's death, which the early editions printed as *Thoughts upon Death*… *(16 notes)*
 - **[[Minor Works|Minor Works]]** — The religious pieces among Pascal's shorter writings: the *Prayer to Ask of God the Proper Use of Sickness*; *On the Conversion of the Sinner*, which some attribute to his sister; the comparison of the Christians of the early church with those of his own day; three discourses to a young nobleman on the condition of… *(6 notes)*
 - **[[Pensées|Pensées]]** — The notes for an apology for the Christian religion that Pascal did not live to write, found after his death in 1662 in bundles pinned together and printed by Port-Royal eight years later. *(14 notes)*
-- **[[The Memorial|The Memorial]]** — The record of the night of 23 November 1654, written on a scrap of paper and copied on to parchment, which Pascal kept sewn into the lining of his coat for the rest of his life and which a servant found there after his death. *(1 note)*
+- **[[Blaise Pascal/The Memorial|The Memorial]]** — The record of the night of 23 November 1654, written on a scrap of paper and copied on to parchment, which Pascal kept sewn into the lining of his coat for the rest of his life and which a servant found there after his death. *(1 note)*
 - **[[The Provincial Letters|The Provincial Letters]]** — Eighteen letters written anonymously and published one at a time during the Sorbonne's proceedings against Antoine Arnauld: the first three defend the Jansenists of Port-Royal, and the rest turn on the moral theology of the Jesuits — probabilism, directing the intention, mental reservation — largely by the method of… *(20 notes)*
 
 ## Robert Boyle

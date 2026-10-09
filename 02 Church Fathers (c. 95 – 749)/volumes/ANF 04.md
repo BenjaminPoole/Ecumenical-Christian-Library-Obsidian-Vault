@@ -10,7 +10,7 @@ tags:
 # ANF 4: Fathers of the Third Century: Tertullian (Part IV), Minucius Felix, Commodian, Origen (Parts I–II)
 
 *Ante-Nicene Fathers, Volume 4 — 27 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Tertullian|Tertullian]]
 

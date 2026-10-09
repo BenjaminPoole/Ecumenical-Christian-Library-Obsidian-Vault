@@ -114,4 +114,4 @@ For these, howe'er in flesh disjoin'd, Where'er dispersed o'er earth abroad, Unf
 Join'd to the hidden church unknown In this sure bond of perfectness Obscurely safe, I dwell alone And glory in th' uniting grace, To me, to each believer given, To all Thy saints in earth and heaven. Charles Wesley]
 
 ---
-[[WS 038 A Caution Against Bigotry|← 38. A Caution Against Bigotry]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 040 Christian Perfection|40. Christian Perfection →]]
+[[WS 038 A Caution Against Bigotry|← 38. A Caution Against Bigotry]] · [[John Wesley/Sermons/index|Contents]] · [[WS 040 Christian Perfection|40. Christian Perfection →]]

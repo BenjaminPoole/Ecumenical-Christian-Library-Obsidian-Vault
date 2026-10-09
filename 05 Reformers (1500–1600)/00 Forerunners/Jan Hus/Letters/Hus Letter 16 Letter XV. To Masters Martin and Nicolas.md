@@ -204,4 +204,4 @@ The letters of Hus written during his exile, when read in the light of this intr
 the first part of the letter, passing into a fighting spirit towards the close. As a revelation of the man this letter (XXVI.) is invaluable. We may add that the letters written during the exile are not easy to translate, while the references they contain to current polemics do not always add interest for a later generation.
 
 ---
-[[Hus Letter 15 Letter XIV. To the Monks of Dolein (Summer 1412)|← 15. Letter XIV. To the Monks of Dolein]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 17 Letter XVI. To the People of Prague (October 1412)|17. Letter XVI. To the People of Prague →]]
+[[Hus Letter 15 Letter XIV. To the Monks of Dolein (Summer 1412)|← 15. Letter XIV. To the Monks of Dolein]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 17 Letter XVI. To the People of Prague (October 1412)|17. Letter XVI. To the People of Prague →]]

@@ -7,7 +7,7 @@ tags:
 
 # Sulpitius Severus
 
-8 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+8 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Dialogue I|Dialogue I]] — [[NPNF2 11|NPNF2 11]]
 - [[Dialogue II|Dialogue II]] — [[NPNF2 11|NPNF2 11]]

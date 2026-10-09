@@ -7,7 +7,7 @@ tags:
 
 # Cyril of Jerusalem
 
-24 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+24 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Catechetical Lecture 1|Catechetical Lecture 1]] — [[NPNF2 07|NPNF2 7]]
 - [[Catechetical Lecture 2|Catechetical Lecture 2]] — [[NPNF2 07|NPNF2 7]]

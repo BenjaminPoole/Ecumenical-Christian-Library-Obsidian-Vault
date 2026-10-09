@@ -156,7 +156,7 @@ The dates and circumstances, thus incidentally given, are sufficient to shew tha
 
 On the other hand, however, the assertion of Foxe, that the method and phrase of the following treatise agree with Tyndale’s,’ cannot be admitted without a remarkable exception; inasmuch as it does not contain a single specimen of those references to the original languages of the inspired volume which Tyndale well knew how to employ, and which his acquaintance with Hebrew led him to employ largely and with considerable effect in his later avowed treatise on the sacraments!. Was it to fill up that deficiency, as he might esteem it to be, in this first simple exposition of the Lord's supper, that he composed a second, when the close of his labours was obviously at hand? If such was not his motive, the fact of his employing himself at that time in writing the treatise on baptism and the Lord's supper, contained in our first volume, must be confessed to weigh heavily against the presumptive evidence on which the authorship of this earlier written treatise has been assigned to him. And this difficulty will be somewhat increased by the circumstance, that Robert Crowley, in his preface to the edition of 1551, while he speaks of the author
 
-[[! See Vol. τ. pp. 347—57, and 376—8.]]
+! See Vol. τ. pp. 347—57, and 376—8.
 
 ## A CIC a Me ubt a
 

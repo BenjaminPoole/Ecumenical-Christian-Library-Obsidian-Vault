@@ -62,4 +62,4 @@ I give up every plea beside, -- Lord, I am damn'd! but thou hast died!
 Dublin, July 2, 1789.
 
 ---
-[[WS 115 The Ministerial Office|← 115. The Ministerial Office]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 117 On Knowing Christ After the Flesh|117. On Knowing Christ After the Flesh →]]
+[[WS 115 The Ministerial Office|← 115. The Ministerial Office]] · [[John Wesley/Sermons/index|Contents]] · [[WS 117 On Knowing Christ After the Flesh|117. On Knowing Christ After the Flesh →]]

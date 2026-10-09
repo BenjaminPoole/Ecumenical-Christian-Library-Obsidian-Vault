@@ -10,7 +10,7 @@ tags:
 # NPNF1 6: Augustine: Sermon on the Mount, Harmony of the Gospels, Homilies on the Gospels
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 6 — 252 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Augustine of Hippo|Augustine of Hippo]]
 

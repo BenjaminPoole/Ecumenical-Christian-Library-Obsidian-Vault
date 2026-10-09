@@ -27,7 +27,7 @@ and to be with Christ, a thing by far the better. But to abide still 4n the fles
 **Phil i.** 21-4, Ib.? Fuste. For the incident, see supra, p. 79.
 
 ---
-[[Hus Letter 19 Letter XVIII. To the Same (October 1412)|← 19. Letter XVIII. To the Same (October 1412)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 21 Letter XX. To the Faithful Bohemians (December 1412)|21. Letter XX. To the Faithful Bohemians →]]
+[[Hus Letter 19 Letter XVIII. To the Same (October 1412)|← 19. Letter XVIII. To the Same (October 1412)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 21 Letter XX. To the Faithful Bohemians (December 1412)|21. Letter XX. To the Faithful Bohemians →]]
 
 
 

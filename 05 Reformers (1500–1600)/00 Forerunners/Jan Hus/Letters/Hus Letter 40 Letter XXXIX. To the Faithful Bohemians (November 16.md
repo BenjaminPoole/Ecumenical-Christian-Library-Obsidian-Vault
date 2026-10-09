@@ -33,6 +33,6 @@ himself administered it, though I was in the town.! I commend you to the graciou
 priest and servant of God, in hope.
 
 ---
-[[Hus Letter 39 Letter XXXVIII. To the Same (November 6, 1414)|← 39. Letter XXXVIII. To the Same (November]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 41 Letter XL. To the People of Prague (January 19, 1415)|41. Letter XL. To the People of Prague →]]
+[[Hus Letter 39 Letter XXXVIII. To the Same (November 6, 1414)|← 39. Letter XXXVIII. To the Same (November]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 41 Letter XL. To the People of Prague (January 19, 1415)|41. Letter XL. To the People of Prague →]]
 
 

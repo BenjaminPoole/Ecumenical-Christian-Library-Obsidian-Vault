@@ -106,4 +106,4 @@ I advise all of you who are thoroughly convinced of the unspeakable importance o
 [Jan. 20, 1782]
 
 ---
-[[WS 092 On Zeal|← 92. On Zeal]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 094 On Family Religion|94. On Family Religion →]]
+[[WS 092 On Zeal|← 92. On Zeal]] · [[John Wesley/Sermons/index|Contents]] · [[WS 094 On Family Religion|94. On Family Religion →]]

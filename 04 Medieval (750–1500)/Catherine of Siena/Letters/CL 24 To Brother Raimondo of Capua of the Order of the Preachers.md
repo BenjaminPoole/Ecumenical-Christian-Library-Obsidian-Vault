@@ -48,4 +48,4 @@ When he was at rest, my soul rested in peace and in quiet, in so great fragrance
 Ah me, miserable! I will say no more. I stayed on the earth with the greatest envy. And it seems to me that the first new stone is already in place. Therefore do not wonder if I impose upon you nothing save to see yourselves drowned in the blood and flame poured from the side of the Son of God. Now then, no more negligence, sweetest my sons, since the blood is beginning to flow, and to receive the life. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 23 To Monna Colomba in Lucca|← To Monna Colomba in Lucca]] · [[Letters|Contents]] · [[CL 25 To Gregory XI|To Gregory XI →]]
+[[CL 23 To Monna Colomba in Lucca|← To Monna Colomba in Lucca]] · [[Catherine of Siena/Letters|Contents]] · [[CL 25 To Gregory XI|To Gregory XI →]]

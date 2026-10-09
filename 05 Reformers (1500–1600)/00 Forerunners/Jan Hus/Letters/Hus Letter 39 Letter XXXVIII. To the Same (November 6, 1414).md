@@ -97,7 +97,7 @@ alleged! against our master. They cut the matter short by coming to our master t
 **! Fulminato pretenso.** For explanation see p. 166, ». 1. See p. 160, a. 4. 4 This, of course, in the case of one excommunicated was open defiance. 5 Cf. p. 159. The King is Sigismund in both cases. So passim. Ut sibi videantur. Hus falls back on Czech: ryéné. 5 4,e., Chlum and Duba, as usual.? The usual pun for Hus. p,.: quia presenti anno sabbato ante Martini festum ipsius occurrit celebris vigilia, for which read celebris vigilia ante festum Martini ipsius sabbato occurrit.
 
 ---
-[[Hus Letter 38 Letter XXXVII. To the Same (November 4, 1414)|← 38. Letter XXXVII. To the Same (November 4]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 40 Letter XXXIX. To the Faithful Bohemians (November 16|40. Letter XXXIX. To the Faithful Bohemians →]]
+[[Hus Letter 38 Letter XXXVII. To the Same (November 4, 1414)|← 38. Letter XXXVII. To the Same (November 4]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 40 Letter XXXIX. To the Faithful Bohemians (November 16|40. Letter XXXIX. To the Faithful Bohemians →]]
 
 
 

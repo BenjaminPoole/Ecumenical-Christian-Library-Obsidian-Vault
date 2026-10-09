@@ -136,7 +136,7 @@ Master archdeacon, ifn] my right hearty wise I commend me unto you. These be Cop
 
 The miracle was this: the maid was taken with a grievous and a continual sickness, and induring her said sickness she had divers and many trances, speaking of many high and godly things; telling also wondrously, by the power of the Holy Ghost as it was thought, things done and said in other places, where as neither she was herself, nor yet heard no report thereof. She had also in her trances many strange visions and revelations, as of heaven, hell, and purgatory, and of the state of certain souls departed?; and amonges all other visions one was, that [she] should be conveyed to our lady of Courte of Strett, where she was promised to be healed of her sickness, and that Almighty God should work wonders in her; and when she was brought thither and laid before the image of our lady, her face was wonderfully disfigured, her tongue hanging out, and her eyes being in a manner plucked out and laid upon her cheeks, and so greatly disordered. Then was
 
-[[' “Richard Master. He was very instrumental Vol. VII. A. 1. 13.]]
+' “Richard Master. He was very instrumental Vol. VII. A. 1. 13.
 
 [in bringing Elizabeth Barton into notice, Aldington [? For instance: “that my lord cardinal came]
 
@@ -704,7 +704,7 @@ I commEND me unto you. And where at my request and instance the prioress and con
 
 Sister prioress, I greet you well. And forasmuch as I understand by my servant Thomas Abberforde, that the farm of your parsonage of Gillyngham is shortly like to be void, of which (as he reporteth) you aforetime promised him the next avoidance; I require you, that now, the rather of this mine instance, ye will let him have the preferment thereunto, he finding you sufficient sureties for the payment thereof. And what you intend to do in this behalf I require you to advertise me by my secretary, whom I send unto you for that intent. And if you will accomplish mine request herein, I will at all time be as good unto you in other matters, wherein you shall have to do with me.
 
-[[! The order for the regulation of preaching, pendix.]]
+! The order for the regulation of preaching, pendix.
 
 [issued in June, 1534, will be found in the Ap- [? See Letter XCIII. p. 278.]]
 

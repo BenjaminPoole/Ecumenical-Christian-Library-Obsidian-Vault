@@ -140,7 +140,7 @@ To be senator, captain, patrician, governor, or officer of Rome, none or pointed
 
 **De jurejurand.** Si vero". 15. q. 6: Auctoritatem. And he may absolve subjects from their oath of fidelity, and absolve oaths that ought to be kept.! Id. Sexti Decretal. Lib. 1. Tit. viii. De [!? Id. Decret. i. Pars, Dist. supplenda negligen. przlat. cap. ii. Grandi.’ nos.” Tom. I. p. 53.] Tom. II. p. 297.] [? Id. Decret. ii. Pars, Causa (? 1d. Decret. i. Pars, Dist. 17. can. i. ‘Syno- De Ponit. Dist. 1. can. xlvii. dum.’ can. ii. Regula.' can. iv. Nec licuit.' p. 399.] can. v. Multis/ can. vi. “Concilia Tom. I. [15 Id. Decret. iii. Pars. De pp. 20, 21.] can. iv. De locorum.' can.v.
 
-[[? Id. ibid. Dist. 96. can. iv. Ubinam.' Tom. viii. Ecclesia.” Tom. I. pp. 447, 8.]]
+? Id. ibid. Dist. 96. can. iv. Ubinam.' Tom. viii. Ecclesia.” Tom. I. pp. 447, 8.
 
 [I. p. 118.] [13 Id. Sexti. Decretal. Lib. 1. Tit. vi. De elect.]
 
@@ -250,7 +250,7 @@ Laymen may have no benefices to farm. De sententia. ezcommunicationis. Noverit'.
 
 Laymen may not meddle with elections of the clergy, nor with any other thing that belongeth unto them.
 
-[[' Id. Sexti Decretal. Lib. v. Tit. xi. De sen- II. p. 199.]]
+' Id. Sexti Decretal. Lib. v. Tit. xi. De sen- II. p. 199.
 
 [tent. excommunicat. cap. xii. «Si judex. Tom. [/^ Vid. p. 68. n. 6.]]
 
@@ -268,7 +268,7 @@ Laymen may not meddle with elections of the clergy, nor with any other thing tha
 
 [[^ Id. ibid. cap. vi. Ex transmissa. Ibid.] pp. 197, 8. Et Sexti Decretal. Lib. 111. Tit. xxiii.]
 
-[[^ Id. Sexti Decretal. Lib. rr. Tit. ii. De foro cap. i. Tom. II. p. 327.]]
+^ Id. Sexti Decretal. Lib. rr. Tit. ii. De foro cap. i. Tom. II. p. 327.
 
 [compet. cap. ii. Seculares Tom. II. p. 306.] [18 Id. ibid. Lib. 11r. Tit. xlix. cap. v. Cum.’]
 
@@ -324,7 +324,7 @@ No judge ought to refuse the witnesses of one bishop, although he be but alone. 
 
 [15 Vid. p. 72. n. 22.] xxxii. Nullus.” can. xxxviii. De persona.’]
 
-[[? Id. Decret. ii. Pars, Causa xii. Quest. 2. can. xlv. Si quis.” Tom. I. pp. 216—220. ]]
+? Id. Decret. ii. Pars, Causa xii. Quest. 2. can. xlv. Si quis.” Tom. I. pp. 216—220.
 
 [can. xiii. Apostolicos.” Tom. I. p. 237.) [33 Vid. p. 68. n. 3. p. 69. n. 28.]]
 
@@ -338,7 +338,7 @@ No judge ought to refuse the witnesses of one bishop, although he be but alone. 
 
 [Tom. I. p. 118.] Omnes. can. xxxvii. Volumus.” can. xliii.]
 
-[[? Id.ibid. can. xii, Numquam." Tom. l. p. Placuit. Tom. I. pp. 219, 20. ]]
+? Id.ibid. can. xii, Numquam." Tom. l. p. Placuit. Tom. I. pp. 219, 20.
 
 [119 ] [37 Omnes.” Vid. supra. n. 36.]]
 
@@ -404,11 +404,11 @@ Confirmation, if it be ministered by any other than a bishop, is of no value, no
 
 [5 The bull, In cena Domini.’] [^ Id. Decret. iii. Pars. De consecrat. Dist. 1.]
 
-[[^ Id. Decret. ii. Pars, Causa xxiv. Quest. iii. can. xi. Sicut.' Tom. I. p. 448.]]
+^ Id. Decret. ii. Pars, Causa xxiv. Quest. iii. can. xi. Sicut.' Tom. I. p. 448.
 
 [can. xxi. Si quis.” Tom. I. p. 341.] — [5 Id. ibid. Dist. 5. can. iii. De his.” can. iv.]
 
-[[^ Id. ibid. Causa xxiii. Quast. v. can. xlvii. Manus.’ can. vi. ‘ Ut jejuni.’ Tom. I. p. 483.]]
+^ Id. ibid. Causa xxiii. Quast. v. can. xlvii. Manus.’ can. vi. ‘ Ut jejuni.’ Tom. I. p. 483.
 
 [Excommunicatorem.” Tom. I. p. 324.]]
 

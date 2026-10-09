@@ -22,4 +22,4 @@ Dearest daughter in Christ sweet Jesus: I Catherine, servant and slave of the se
 Up! And sleep no more! Awaken, all of you, from the sleep of negligence! Have special prayers offered at such and such monasteries, and tell our Prioress to have all those daughters of hers offer special prayers for peace, that God may show mercy on us, and that I may not return without it. And for me, her poor daughter, that God will give me grace ever to love and to proclaim the truth, and that for that truth I may die. I say no more. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 57 Letters Announcing Peace|← Letters Announcing Peace]] · [[Letters|Contents]] · [[CL 59 To Sano DI Maco and to the Other Sons in Christ While She Was in Florence|To Sano DI Maco and to the Other Sons in Christ While She Was in Florence →]]
+[[CL 57 Letters Announcing Peace|← Letters Announcing Peace]] · [[Catherine of Siena/Letters|Contents]] · [[CL 59 To Sano DI Maco and to the Other Sons in Christ While She Was in Florence|To Sano DI Maco and to the Other Sons in Christ While She Was in Florence →]]

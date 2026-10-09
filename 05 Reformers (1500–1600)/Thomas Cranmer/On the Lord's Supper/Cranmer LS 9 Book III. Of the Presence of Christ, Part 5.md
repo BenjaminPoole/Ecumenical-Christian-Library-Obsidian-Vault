@@ -193,7 +193,7 @@ And as for pleading of those words, “really,” “corporally,” “sensibly,
 
 And yet one thing you do here confess, (which is worthy to be noted and had in in memory,) that you read not in any old author, that the body of Christ is really and sensibly in the sacrament. And hereunto I add, that none of them say, that
 
-[[! "Q τῆς Θεοῦ φιλανθρωπίας" ὁ μετὰ Tov πα- [? For this, Dionyse doth, 1551.]]
+! "Q τῆς Θεοῦ φιλανθρωπίας" ὁ μετὰ Tov πα- [? For this, Dionyse doth, 1551.
 
 [πρὸς ἄνω καθήμενος, κατὰ τῆν ὥραν ἐκείνην τῶν [^ We need not doubt, 1551. ]]
 

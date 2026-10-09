@@ -341,7 +341,7 @@ Inst.p. 70. Thirdly, it is to be noted, that although it be said in this article
 
 **Inst.** p. 74. Like as Christ is the author, the mean, and the very highway to come unto God the Father, so is this Holy Spirit the very conductor, the guide, the director, and the governor, to bring, we accept us into the same highway, and to minister unto us not only alacrity and strength to walk the same, p and run therein, but also perseverance to continue in the same, until we shall come unto our J’ ud ko journey’s end, tions.
 
-[[? See Nec. Doctr. p. 235.) [^ Cranmer's amendment was adopted in the Nec. Doctr. p. 237.]]
+? See Nec. Doctr. p. 235.) [^ Cranmer's amendment was adopted in the Nec. Doctr. p. 237.
 
 » baptism by 1014. Thirdly, that it is also the peculiar function or office of this Holy Spirit, (after we us received, and o inspired, and perfectly instructed in the said knowledge) first to purge and purify our that. Mj Durisy οὐμὰϊ we mal hearts by this faith and knowledge from the malice and filthiness of sin, and afterward to attain intheend stir, inflame, and ravish our hearts, and to make us able gladly and thankfully to embrace and the plac Ai m receive the said benefits, and so to keep them, to use them, and to dispose them to our own folk to be de- wealth, and to the edifying and profit of our neighbours; and finally, to comfort us, and to sa. + be unto us in manner as a certain pledge or an earnest-penny, to assure and warrant us, by wu Pl] OUT true and infallible tokens, that weP be in the favour of God, and his own children by grace tions. xxxiv. and adoption, and the right inheritors of heaven.
 

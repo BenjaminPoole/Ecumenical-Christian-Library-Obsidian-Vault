@@ -27,5 +27,5 @@ giving to that servant Himself, and with Himself all things so that he may posse
 Methinks this is my last letter to you, for tomorrow I suppose I shall be cleansed from my sins in hope of Jesus Christ by a dreadful death. I cannot write of what I passed through last night. Sigismund hath acted deceitfully throughout. God spare him, and that only for your sakes; you yourselves heard the advice which he gave. I beg you to have no suspicion of the faithful Veit.
 
 ---
-[[Hus Letter 79 Letter LXXVIIL. To the University of Prague|← 79. Letter LXXVIIL. To the University of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 81 Letter LXXX. To John of Chlum (June 29, 1415)|81. Letter LXXX. To John of Chlum (June 29 →]]
+[[Hus Letter 79 Letter LXXVIIL. To the University of Prague|← 79. Letter LXXVIIL. To the University of]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 81 Letter LXXX. To John of Chlum (June 29, 1415)|81. Letter LXXX. To John of Chlum (June 29 →]]
 

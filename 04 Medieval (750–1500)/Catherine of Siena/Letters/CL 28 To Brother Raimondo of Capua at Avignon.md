@@ -40,4 +40,4 @@ Reflect that I, poor miserable woman, abide in the body, and find me through des
 Tell Christ on earth not to make me wait longer; and when I shall see him, I shall sing with Simeon, that sweet old man: "Nunc dimittis servum tuum, Domine, secundum verbum tuum, in pace." I say no more; for did I follow my wish, I should begin again at once. Make me see and feel you bound and fastened into Christ sweet Jesus, in such wise that nor demon nor creature can ever separate you from so sweet a bond. Love, love, love one another. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 27 To Gregory XI|← To Gregory XI]] · [[Letters|Contents]] · [[CL 29 To Catarina of the Hospital and Giovanna DI Capo|To Catarina of the Hospital and Giovanna DI Capo →]]
+[[CL 27 To Gregory XI|← To Gregory XI]] · [[Catherine of Siena/Letters|Contents]] · [[CL 29 To Catarina of the Hospital and Giovanna DI Capo|To Catarina of the Hospital and Giovanna DI Capo →]]

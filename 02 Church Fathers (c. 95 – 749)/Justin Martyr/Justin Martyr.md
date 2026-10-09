@@ -7,7 +7,7 @@ tags:
 
 # Justin Martyr
 
-17 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+17 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Dialogue with Trypho, Chapters 1-9|Dialogue with Trypho, Chapters 1-9]] — [[ANF 01|ANF 1]]
 - [[Dialogue with Trypho, Chapters 10-30|Dialogue with Trypho, Chapters 10-30]] — [[ANF 01|ANF 1]]

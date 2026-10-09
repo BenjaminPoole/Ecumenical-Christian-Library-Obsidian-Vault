@@ -7,6 +7,6 @@ tags:
 
 # Mathetes
 
-1 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+1 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Epistle to Diognetus|Epistle to Diognetus]] — [[ANF 01|ANF 1]]

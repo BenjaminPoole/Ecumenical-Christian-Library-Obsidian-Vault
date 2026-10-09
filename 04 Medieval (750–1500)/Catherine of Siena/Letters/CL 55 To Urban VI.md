@@ -32,4 +32,4 @@ I beg you, holy father, that when your ignorant son offends in this point, your 
 I ask you humbly for your benediction. I thank the Divine Goodness and your Holiness for the favour that you granted me on the day of St. John. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 54 To Brother Raimondo of Capua of the Order of the Preachers|← To Brother Raimondo of Capua of the Order of the Preachers]] · [[Letters|Contents]] · [[CL 56 To Don Giovanni of the Cells of Vallombrosa|To Don Giovanni of the Cells of Vallombrosa →]]
+[[CL 54 To Brother Raimondo of Capua of the Order of the Preachers|← To Brother Raimondo of Capua of the Order of the Preachers]] · [[Catherine of Siena/Letters|Contents]] · [[CL 56 To Don Giovanni of the Cells of Vallombrosa|To Don Giovanni of the Cells of Vallombrosa →]]

@@ -23,4 +23,4 @@ tags:
 “According to the working whereby he is able even to subdue all things unto himself.”
 
 ---
-[[Luther Sermon 33 GOD'S PATIENCE WITH HUMAN RIGHTEOUSNESS|← 33. GOD'S PATIENCE WITH HUMAN RIGHTEOUSNESS]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 35 THE GLORIFIED BODY OF THE CHRISTIAN|35. THE GLORIFIED BODY OF THE CHRISTIAN →]]
+[[Luther Sermon 33 GOD'S PATIENCE WITH HUMAN RIGHTEOUSNESS|← 33. GOD'S PATIENCE WITH HUMAN RIGHTEOUSNESS]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 35 THE GLORIFIED BODY OF THE CHRISTIAN|35. THE GLORIFIED BODY OF THE CHRISTIAN →]]

@@ -26,4 +26,4 @@ Once our sweet Saviour said to a very dear daughter of His, "Dost thou know how 
 Therefore I said that I wished and desired that your will should be absorbed and transformed in Him, while we hold ourselves always ready to bear pains and toils howsoever God chooses to send them to us. So we shall be freed from darkness and abide in light. Amen. Praised be Jesus Christ crucified and sweet Mary.
 
 ---
-[[CL 05 To Benincasa her Brother When He Was in Florence|← To Benincasa her Brother When He Was in Florence]] · [[Letters|Contents]] · [[CL 07 To Monna Agnese Who Was the Wife of Messer Orso Malavolti|To Monna Agnese Who Was the Wife of Messer Orso Malavolti →]]
+[[CL 05 To Benincasa her Brother When He Was in Florence|← To Benincasa her Brother When He Was in Florence]] · [[Catherine of Siena/Letters|Contents]] · [[CL 07 To Monna Agnese Who Was the Wife of Messer Orso Malavolti|To Monna Agnese Who Was the Wife of Messer Orso Malavolti →]]

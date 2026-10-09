@@ -57,5 +57,5 @@ and believing that it still holds good as a promise i made by the pillars of the
 [Mon. i. 106a. E.]
 
 ---
-[[Hus Letter 9 Letter VIII. To John Barbatus (May 25, 1411)|← 9. Letter VIII. To John Barbatus (May 25]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 11 Letter X. To the College of Cardinals (September 1411)|11. Letter X. To the College of Cardinals →]]
+[[Hus Letter 9 Letter VIII. To John Barbatus (May 25, 1411)|← 9. Letter VIII. To John Barbatus (May 25]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 11 Letter X. To the College of Cardinals (September 1411)|11. Letter X. To the College of Cardinals →]]
 

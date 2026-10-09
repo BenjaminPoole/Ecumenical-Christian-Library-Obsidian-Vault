@@ -7,6 +7,6 @@ tags:
 
 # Theodotus
 
-1 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+1 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Excerpts|Excerpts]] — [[ANF 08|ANF 8]]

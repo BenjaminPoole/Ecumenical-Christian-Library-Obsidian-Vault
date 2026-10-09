@@ -35,7 +35,7 @@ Then he shewed for what end general councils were called; to declare the faith, 
 
 As for the head of the council: St Peter and St James had the chief direction of the council of the apostles, but there were no contests then about headship. Christ named no head; which could be no more called a defect in him, than it was one in God, that had named no head to govern the world. Yet the church found it convenient to have one over them; so archbishops were set over provinces. And though St Peter had been head of the apostles, yet as it 1s not certain that he was ever in Rome, so it does not appear that he had his headship for Rome's sake, or that he left it there; but he was made head for his faith, and not for the dignity of any see: therefore
 
-[[! A copy of this speech is said by Burnet to Remains of Abp. Cranmer, Vol. II. p. 11.]]
+! A copy of this speech is said by Burnet to Remains of Abp. Cranmer, Vol. II. p. 11.
 
 [exist among bishop Stillingfleet's manuscripts. But [2 For declaring the king’s supremacy, for]
 

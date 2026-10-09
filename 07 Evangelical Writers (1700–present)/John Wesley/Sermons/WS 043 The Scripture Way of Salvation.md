@@ -98,4 +98,4 @@ Come in, come in, thou heavenly Guest! Nor hence again remove;
 But sup with me, and let the feast Be everlasting love.
 
 ---
-[[WS 042 Satan's Devices|← 42. Satan's Devices]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 044 Original Sin|44. Original Sin →]]
+[[WS 042 Satan's Devices|← 42. Satan's Devices]] · [[John Wesley/Sermons/index|Contents]] · [[WS 044 Original Sin|44. Original Sin →]]

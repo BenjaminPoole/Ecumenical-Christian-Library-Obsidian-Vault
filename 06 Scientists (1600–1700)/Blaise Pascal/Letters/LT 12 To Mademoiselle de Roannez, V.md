@@ -22,4 +22,4 @@ The affair of \* \* \* does not go on very well: it is a thing that makes those 
 I am interested in the victim of persecution of whom you speak. I see plainly that God has reserved to himself some hidden servants, as he said to Elijah. I pray him that we may be of the number, and that in spirit, in sincerity, and in truth.
 
 ---
-[[LT 11 To Mademoiselle de Roannez, IV|← To Mademoiselle de Roannez, IV]] · [[Letters|Contents]] · [[LT 13 To Mademoiselle de Roannez, VI|To Mademoiselle de Roannez, VI →]]
+[[LT 11 To Mademoiselle de Roannez, IV|← To Mademoiselle de Roannez, IV]] · [[Blaise Pascal/Letters|Contents]] · [[LT 13 To Mademoiselle de Roannez, VI|To Mademoiselle de Roannez, VI →]]

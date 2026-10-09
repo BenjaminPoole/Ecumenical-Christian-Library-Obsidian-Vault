@@ -651,7 +651,7 @@ After I had written this letter unto you grace, my lord chancellor, my lord of O
 
 Mv very singular good lord, in my most hearty wise I commend me unto vour Lisle i "Nl «e., v Yor lordship. This be to signify unto the same, that I am very much beholding to your lordship, for that it liked you to send this bearer your servant by me in his recourse to Calice. And as now I have nothing unto your said lordship, saving that I may be most heartily commended unto my good lady, to whom eftsoons, as also to you, I give condign thanks for the well entreating of my chaplains at their late being at Calice. And if there be any pleasure in these parties, wherein I may do any thing
 
-[[! This letter has not appeared in any previous collection. ]]
+! This letter has not appeared in any previous collection.
 
 for you, from time to time, I will be ready to accomplish the same. Thus our Lord preserve you both in prosperity. At Otford, the 8 day of May. [1536.]
 

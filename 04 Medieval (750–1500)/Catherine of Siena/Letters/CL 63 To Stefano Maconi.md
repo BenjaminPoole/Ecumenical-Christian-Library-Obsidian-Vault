@@ -64,4 +64,4 @@ I send thee a letter that I am writing to the Lords, and one to the Company of t
 I say no more to thee. Remain in the holy and sweet grace of God. Comfort … all these, thy brothers, and thy sister, comfort thee in Christ, and all are waiting for thee. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 62 To Sister Daniella of Orvieto|← To Sister Daniella of Orvieto]] · [[Letters|Contents]] · [[CL 64 To Certain Holy Hermits Who Had Been Invited to Rome by the Pope|To Certain Holy Hermits Who Had Been Invited to Rome by the Pope →]]
+[[CL 62 To Sister Daniella of Orvieto|← To Sister Daniella of Orvieto]] · [[Catherine of Siena/Letters|Contents]] · [[CL 64 To Certain Holy Hermits Who Had Been Invited to Rome by the Pope|To Certain Holy Hermits Who Had Been Invited to Rome by the Pope →]]

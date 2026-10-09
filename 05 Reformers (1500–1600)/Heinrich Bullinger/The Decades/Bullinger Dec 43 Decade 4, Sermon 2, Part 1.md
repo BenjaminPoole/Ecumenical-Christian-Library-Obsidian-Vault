@@ -106,7 +106,7 @@ Peter the apostle in the Acts doth cry and say: All the prophets bear witness to
 
 **[5 See Vol.** 11. p. 420.] [6 ex 15 cap. Lat. omitted.]
 
-[[BULLINGER, IIL]]
+BULLINGER, IIL
 
 li 66 THE FOURTH DECADE. [sERM. in him should by his name receive remission of his sins.” 24] The same apostle again in his Epistle saith: Christ his own self bare our sins in his body upon the cross’, that we, being dead to sin, might live to righteousness: by whose stripes ye are healed.”
 
@@ -310,7 +310,7 @@ unless the word of God doth instruct us falsely. He lived about the year of our 
 
 [ὁ He completed his Decretum about A.p. 1151. Mosheim, Eccles, Hist. Vol. τι. p. 411, note 2.]
 
-[[BULLINGER, IIL]]
+BULLINGER, IIL
 
 what authority and reasons both the opinions of confession and satisfaction are grounded, we have briefly here declared. But to which of these we ought rather to stick, that is reserved for the reader to choose; for both parts have wise and religious men to their fautors and defenders'.” Thus saith Gratian about the end of the first distinction of penance. made, About fifty years after followed Lotharius LevitaZ% a con- doctor of Paris, the scholar? and earnest follower of Peter Lombard. He, being once made bishop of Rome and named Innocent the Third, called together at Rome a general council called Lateranenset, in which he made a law, which Gregory the Ninth reciteth in his decretal of penance and remission, Lib v. chap. 12, almost in these very words: Let every person of either sex, after they are come to the years of discretion, faithfully confess alone, at least once in a year, their sins unto their own proper priest, and do their endeavour with their own strength to do the penance that is enjoined them; receiving reverently at Easter at the least the sacrament of the Eucharist, unless peradventure by the counsel of their own priest, for some reasonable cause, they think it good for a time to abstain from receiving it. Otherwise in this life let them be prohibited to enter into the church; and when they are dead, to be buried in christian burial.”
 

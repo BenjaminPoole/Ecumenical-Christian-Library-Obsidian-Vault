@@ -36,4 +36,4 @@ So I beg you, dearest father, to pray God for me, that He take from me so great 
 I beg that your and my dearest sons be commended to you—those yonder, and those here. Nourish them and make them grow in great perfection, so far as your power goes. And let us strive to run, dead to all self-will, spiritual and temporal; that is, not seeking our own spiritual consolations, but only the food of souls, rejoicing in the Cross with Christ crucified and giving our life, if need be, for the glory and praise of His Name. I for my part die and cannot die, hearing and seeing the insults to my Lord and Creator; therefore I ask an alms from you, that you pray God for me, you and the others. I say no more to you. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 55 To Urban VI|← To Urban VI]] · [[Letters|Contents]] · [[CL 57 Letters Announcing Peace|Letters Announcing Peace →]]
+[[CL 55 To Urban VI|← To Urban VI]] · [[Catherine of Siena/Letters|Contents]] · [[CL 57 Letters Announcing Peace|Letters Announcing Peace →]]

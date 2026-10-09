@@ -7,7 +7,7 @@ tags:
 
 # Tatian
 
-57 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+57 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Address to the Greeks|Address to the Greeks]] — [[ANF 02|ANF 2]]
 - [[02 Church Fathers (c. 95 – 749)/Tatian/Fragments|Fragments]] — [[ANF 02|ANF 2]]

@@ -43,4 +43,4 @@ MATT. 13:24-30: Another parable put he forth unto them, saying, The kingdom of h
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 1 Assorted Sermons By Martin Luther About This Book|← 1. Assorted Sermons By Martin Luther About]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 3 The Parable of the Sower|3. The Parable of the Sower →]]
+[[Luther Sermon 1 Assorted Sermons By Martin Luther About This Book|← 1. Assorted Sermons By Martin Luther About]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 3 The Parable of the Sower|3. The Parable of the Sower →]]

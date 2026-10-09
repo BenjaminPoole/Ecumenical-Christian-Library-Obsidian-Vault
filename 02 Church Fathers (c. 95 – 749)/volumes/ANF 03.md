@@ -10,7 +10,7 @@ tags:
 # ANF 3: Latin Christianity: Its Founder, Tertullian
 
 *Ante-Nicene Fathers, Volume 3 — 29 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Tertullian|Tertullian]]
 
@@ -27,7 +27,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Against Praxeas|Against Praxeas]] — c. 213
 - [[Against the Valentinians|Against the Valentinians]] — c. 197–220
 - [[An Answer to the Jews|An Answer to the Jews]] — c. 197–220
-- [[Library/Church Fathers/Tertullian/Apology|Apology]] — 197
+- [[Tertullian/Apology|Apology]] — 197
 - [[De Corona|De Corona]] — 211
 - [[De Spectaculis|De Spectaculis]] — c. 197–202
 - [[Of Patience|Of Patience]] — c. 200–203

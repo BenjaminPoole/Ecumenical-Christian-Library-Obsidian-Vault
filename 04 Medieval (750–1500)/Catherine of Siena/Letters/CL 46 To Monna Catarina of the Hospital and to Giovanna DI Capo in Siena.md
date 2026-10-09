@@ -28,4 +28,4 @@ You are in Siena, and Cecca and Grandma are in Montepulciano. Frate Bartolomeo a
 I say no more. Bind you in the sweet bands of love, so you will show that you are daughters—not otherwise. Comfort you in Christ sweet Jesus, and comfort all the other daughters. We will come back as soon as we can, according as it shall please the Divine Goodness. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 45 Letters Written from Rocca D'orcia|← Letters Written from Rocca D'orcia]] · [[Letters|Contents]] · [[CL 47 To Monna Alessa Clothed with the Habit of Saint Dominic, When She Was at Rocca|To Monna Alessa Clothed with the Habit of Saint Dominic, When She Was at Rocca →]]
+[[CL 45 Letters Written from Rocca D'orcia|← Letters Written from Rocca D'orcia]] · [[Catherine of Siena/Letters|Contents]] · [[CL 47 To Monna Alessa Clothed with the Habit of Saint Dominic, When She Was at Rocca|To Monna Alessa Clothed with the Habit of Saint Dominic, When She Was at Rocca →]]

@@ -7,7 +7,7 @@ tags:
 
 # Gregory the Great
 
-423 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+423 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Pastoral Rule, Book I|Pastoral Rule, Book I]] — [[NPNF2 12|NPNF2 12]]
 - [[Pastoral Rule, Book II|Pastoral Rule, Book II]] — [[NPNF2 12|NPNF2 12]]

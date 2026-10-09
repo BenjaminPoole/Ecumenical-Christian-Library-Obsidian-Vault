@@ -27,4 +27,4 @@ tags:
 15\. Therefore, be ye aroused by this passage of Scripture to hew to pieces and thrust through everything that is not in harmony with the Gospel, for it belongs to the sheep to judge, and not to the preachers. You have the authority and power to judge everything that is preached; that and nothing less. If we have not this power, then Christ vainly said to us in Mt. 7:15: “Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.” We could not beware if we had not the power to judge, but were obliged to accept everything they said and preached.
 
 ---
-[[Luther Sermon 44 SECTION III. A TRUE PREACHER SHOULD FIRST USE THE LAW|← 44. SECTION III. A TRUE PREACHER SHOULD]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 46 V. PREACHERS ARE TO FORCE NO ONE TO BELIEVE|46. V. PREACHERS ARE TO FORCE NO ONE TO →]]
+[[Luther Sermon 44 SECTION III. A TRUE PREACHER SHOULD FIRST USE THE LAW|← 44. SECTION III. A TRUE PREACHER SHOULD]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 46 V. PREACHERS ARE TO FORCE NO ONE TO BELIEVE|46. V. PREACHERS ARE TO FORCE NO ONE TO →]]

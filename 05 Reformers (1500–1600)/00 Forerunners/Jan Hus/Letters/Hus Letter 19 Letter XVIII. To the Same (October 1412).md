@@ -55,7 +55,7 @@ grace of God amd 4n the knowledge of our Lord and Saviour Jesus Christ. Pray God
 Salute? one another and comfort one another in the grace of God the Father and of His dearly beloved Son and of His Holy Spirit. He can guard you from sin and settle you in eternal joy: to whom be praise and glory for ever. Amen.
 
 ---
-[[Hus Letter 18 Letter XVII. To the Same (October 1412)|← 18. Letter XVII. To the Same (October 1412)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 20 Letter XIX. To the Same (October 1412)|20. Letter XIX. To the Same (October 1412) →]]
+[[Hus Letter 18 Letter XVII. To the Same (October 1412)|← 18. Letter XVII. To the Same (October 1412)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 20 Letter XIX. To the Same (October 1412)|20. Letter XIX. To the Same (October 1412) →]]
 
 
 

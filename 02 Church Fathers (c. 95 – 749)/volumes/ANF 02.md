@@ -10,7 +10,7 @@ tags:
 # ANF 2: Fathers of the Second Century: Hermas, Tatian, Athenagoras, Theophilus, and Clement of Alexandria
 
 *Ante-Nicene Fathers, Volume 2 — 35 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Tatian|Tatian]]
 
@@ -36,7 +36,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Exhortation to the Heathen, Chapter 10|Exhortation to the Heathen, Chapter 10]] — c. 195–210
 - [[Exhortation to the Heathen, Chapter 11|Exhortation to the Heathen, Chapter 11]] — c. 195–210
 - [[Exhortation to the Heathen, Chapter 12|Exhortation to the Heathen, Chapter 12]] — c. 195–210
-- [[Library/Church Fathers/Clement_of_Alexandria/Fragments|Fragments]] — c. 195–210
+- [[Clement of Alexandria/Fragments|Fragments]] — c. 195–210
 - [[The Paedagogus (02092)|The Paedagogus]] — c. 195–210
 - [[The Paedagogus (02093)|The Paedagogus]] — c. 195–210
 - [[The Paedagogus|The Paedagogus]] — c. 195–210

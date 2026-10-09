@@ -68,4 +68,4 @@ And far above thy thought His counsel shall appear, When fully he the work hath 
 10\. Let us then receive every trial with calm resignation, and with humble confidence that He who hath all power, all wisdom, all mercy, and all faithfulness, will first support us in every temptation, and then deliver us out of all: So that in the end all things shall work together for good, and we shall happily experience, that all these things were for our profit, that we "might be partakers of his holiness."
 
 ---
-[[WS 081 In What Sense We Are to Leave the World|← 81. In What Sense We Are to Leave the World]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 083 On Patience|83. On Patience →]]
+[[WS 081 In What Sense We Are to Leave the World|← 81. In What Sense We Are to Leave the World]] · [[John Wesley/Sermons/index|Contents]] · [[WS 083 On Patience|83. On Patience →]]

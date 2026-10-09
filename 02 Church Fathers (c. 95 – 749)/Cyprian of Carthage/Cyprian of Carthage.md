@@ -7,7 +7,7 @@ tags:
 
 # Cyprian of Carthage
 
-103 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+103 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[02 Church Fathers (c. 95 – 749)/Cyprian of Carthage/Against Novatian|Against Novatian]] — [[ANF 05|ANF 5]]
 - [[Epistle 1|Epistle 1]] — [[ANF 05|ANF 5]]

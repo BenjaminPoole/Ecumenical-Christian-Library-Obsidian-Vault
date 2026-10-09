@@ -55,6 +55,6 @@ In the recently published Diary of Cardinal Fillastre we read: In the meantime�
 of cession,” and naming proctors who should carry out his resignation. John of course refused (Hardt, iv. 523, Finke, op. cit. 167). John of Chlum’s optimism shows how little he and the other Bohemians understood the working of the Inquisition. For the time being, however, further proceedings were postponed.
 
 ---
-[[Hus Letter 49 Letter XLVIII. To the Same (March 4, 1415)|← 49. Letter XLVIII. To the Same (March 4]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 51 Letter L. To his Friends|51. Letter L. To his Friends →]]
+[[Hus Letter 49 Letter XLVIII. To the Same (March 4, 1415)|← 49. Letter XLVIII. To the Same (March 4]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 51 Letter L. To his Friends|51. Letter L. To his Friends →]]
 
 

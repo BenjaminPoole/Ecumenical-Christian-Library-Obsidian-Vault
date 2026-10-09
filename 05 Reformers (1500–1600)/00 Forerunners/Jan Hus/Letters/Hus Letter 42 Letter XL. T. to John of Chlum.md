@@ -33,7 +33,7 @@ The Commission to which Hus alludes in the following letter was a Commission of 
 masters to plead his case. But the defence of a prisoner was a thing absolutely forbidden, as Lea! has shown, and would never have been allowed. In fact, as Hus tells us (p. 179), a proctor was expressly refused. We incline to think that there is here some confusion in allusion to the Commission of twelve, that according to Cerretanus (reported in Hardt, iv. 23) was appointed to try Hus on December 1. At the head of this Commission were Cardinals D’Ailli, Zabarella, and Fillastre. With them were associated six other learned men.’ This Commission seems to have delegated the actual work to the Commission of three, who, if my interpretation be correct, spent much time in pleading with Hus to waive his claim to a hearing before the whole Council, and recognise the jurisdiction of the twelve. If so the word masters’ is used contemptuously. In support of this the reader will note the last clauses of the second paragraph.
 
 ---
-[[Hus Letter 41 Letter XL. To the People of Prague (January 19, 1415)|← 41. Letter XL. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 43 Letter XLIL. To the Same (February 1415)|43. Letter XLIL. To the Same (February 1415) →]]
+[[Hus Letter 41 Letter XL. To the People of Prague (January 19, 1415)|← 41. Letter XL. To the People of Prague]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 43 Letter XLIL. To the Same (February 1415)|43. Letter XLIL. To the Same (February 1415) →]]
 
 
 

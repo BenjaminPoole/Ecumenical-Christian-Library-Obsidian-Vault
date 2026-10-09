@@ -84,7 +84,7 @@ Et rursus Augustinus in Joannem. “Dominus (inquit) Jesus sursum est, sed etiam
 
 Et alio ejusdem libri loco, in his Christi verbis explicandis, Pauperes semper habebitis vobiscum, me autem non semper habebitis, Christum ait, de corporis sui presentia hzc locutum. Nam secundum majestatem suam (inquit Augustinus), secundum providentiam, seeundum ineffabilem et invisibilem gratiam, impletur quod ab eo dictum est, Ecce ego vobiscum sum usque ad consummationem seculi; secundum carnem vero (quam Verbum assumpsit) secundum id quod de virgine natus est, secundum id quod a Judaeis comprehensus est, quod ligno crucifixus, quod de cruce depositus, quod linteis involutus, quod in sepulchro conditus, quod in resurrectione manifestatus, non semper habebitis me vobiscum. Quare cum conversatus est secundum corporis przsentiam quadraginta diebus cum discipulis suis, et eis deducentibus, videndo ac sequendo, ascendit in coelum, et non est hie, (ibi enim sedat ad dexteram Dei Patris,) et est hic, non enim recessit presentia majestatis. Aliter secundum praesentiam majestatis semper habemus Christum; secundum praesentiam carnis recte dictum est discipulis, Me autem
 
-[[' Dicit, ed. 1553.]]
+' Dicit, ed. 1553.
 
 non semper habebitis. Habuit enim illum ecclesia, secundum presentiam carnis, paucis diebus: modo fide tenet, oculis non videt. Ergo si ita dictum est, Me autem non semper habebitis, quzestio, sicut arbitror, jam nulla est, qua duobus modis soluta est.” Hucusque Augustinus.
 

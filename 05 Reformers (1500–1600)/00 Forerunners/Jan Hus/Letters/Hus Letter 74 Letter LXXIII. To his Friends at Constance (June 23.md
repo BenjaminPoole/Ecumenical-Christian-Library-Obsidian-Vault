@@ -41,6 +41,6 @@ O loving Christ? draw me, a weakling, after Thyself; for if Thou drawest me not,
 ## Jas, i. 12. Matt, xvi, 24, See 250
 
 ---
-[[Hus Letter 73 Letter LXXII. To Master Christian (June 22, 1415)|← 73. Letter LXXII. To Master Christian (June]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 75 Letter LXXIV. To the Faithful Bohemians|75. Letter LXXIV. To the Faithful Bohemians →]]
+[[Hus Letter 73 Letter LXXII. To Master Christian (June 22, 1415)|← 73. Letter LXXII. To Master Christian (June]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 75 Letter LXXIV. To the Faithful Bohemians|75. Letter LXXIV. To the Faithful Bohemians →]]
 
 

@@ -82,4 +82,4 @@ II. If it be inquired, "What more than this is implied in the being altogether a
 11\. May we all thus experience what it is to be, not almost only; but altogether Christians; being justified freely by his grace, through the redemption that is in Jesus; knowing we have peace with God through Jesus Christ; rejoicing in hope of the glory of God; and having the love of God shed abroad in our hearts, by the Holy Ghost given unto us!
 
 ---
-[[WS 001 Salvation by Faith|← 1. Salvation by Faith]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 003 Awake, Thou That Sleepest|3. Awake, Thou That Sleepest →]]
+[[WS 001 Salvation by Faith|← 1. Salvation by Faith]] · [[John Wesley/Sermons/index|Contents]] · [[WS 003 Awake, Thou That Sleepest|3. Awake, Thou That Sleepest →]]

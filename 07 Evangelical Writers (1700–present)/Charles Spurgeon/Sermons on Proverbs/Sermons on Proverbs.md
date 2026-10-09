@@ -62,4 +62,4 @@ Up: [[Charles Spurgeon|Charles Spurgeon]]
 ## Overlap with other editions
 
 > [!info] Same text elsewhere in this library
-> 33 of these 44 sermons are also held in the numbered pulpit volumes under [[Sermons|Sermons]], and two in [[The Soul Winner|The Soul Winner]] — this volume is CCEL's topical gathering of sermons published there first. Both are kept; entries marked · above have a counterpart.
+> 33 of these 44 sermons are also held in the numbered pulpit volumes under [[Charles Spurgeon/Sermons|Sermons]], and two in [[The Soul Winner|The Soul Winner]] — this volume is CCEL's topical gathering of sermons published there first. Both are kept; entries marked · above have a counterpart.

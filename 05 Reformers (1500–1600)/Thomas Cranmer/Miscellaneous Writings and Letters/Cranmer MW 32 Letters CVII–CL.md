@@ -267,7 +267,7 @@ Master recorder, in my right hearty wise I commend me unto you. And where hereto
 
 To master Baker, recorder of London.
 
-[[ Shaxton was taken by Anne Boleyn to be her Strype’s Eccl. Mem. Vol. 111. Part I. p. 570.]]
+Shaxton was taken by Anne Boleyn to be her Strype’s Eccl. Mem. Vol. 111. Part I. p. 570.
 
 [chaplain and almoner, having been preferred with [^ Dr Butts was one of the physicians to Henry]
 
@@ -687,7 +687,7 @@ To the right worshipful and my very singular
 
 First, as concerning my style, wherein I am named 'Totius Anglie Primas," I suppose, that to make his cause good, (which else in deed were naught,) he doth mix it with the king's cause, (as ye know the man lacketh neither learning in the law, neither witty invention, ne craft to set forth his matters to the best,) that he might appear not to maintain his own cause, but the king's; against whose highness, he knoweth right well, that I will maintain no cause, but give place, and lay both my cause and myself at my princes feet. But to be plain what I think of the bishop of Winchester, I cannot persuade with myself that he so much tendercth the king's cause as he doth his own, that I should not visit him: and that appeareth by the very time. For if he cast no farther but the defence of the king's grace's authority, or if he intended that at all, why moved he not the matter, before he received my monition for my visitation; which was within four miles of Winchester delivered unto him the 20" day of April last, as he came up to the court? Moreover, I do not a little marvel, why he should now find fault, rather than he did before’, when he took the bishop of Rome as chief head: for though the bishop of Rome was taken for supreme head, notwithstanding that, he had a great number of primates under him; and by having his primates under him his supreme authority was not less esteemed, but much the more. Why then may not the king's highness, being supreme head, have primates under him, without any diminishing, but with the augmenting, of his said supreme authority? — And of this I doubt not at all, but that the bishop of Winchester knoweth as well as any man living, that in case this said style or title, had been in any point impediment or hinderance to the bishop [! Vid. Strype's Mem. of Abp. Cranmer, p. 46, the title of «legate of the apostolic see,” he was to Ed. Oxon. 1840. Burnet’s Hist. of Reformat. Vol. be designed metropolitan, and primate.” This last III. p. 209.] was one of his ancient titles." DBurnet’s Hist, of [2 Stat. 26 Hen. VIII. c. 3. Session of Parlia- Reformat. Vol. III. p. 199. The proceedings of ment. See Letter CX XXIX. p. 301. n. 5.] the convocation are given in Wilkins' Concilia, Vol.
 
-[[? The archbishop of Canterbury's title was III. p. 769.]]
+? The archbishop of Canterbury's title was III. p. 769.
 
 [also in convocation ordered to be altered: instead of]
 
@@ -759,7 +759,7 @@ Ricur worshipful, in my most hearty wise I commend me unto you. And whereas this
 
 [Vol. I. p. 140, n.0.]. bishops." Strype's Eccl. Mem. Vol, 1, p, 285, Ed.]
 
-[[^ As the bishops had subscribed to the king's Oxon. 1822.]]
+^ As the bishops had subscribed to the king's Oxon. 1822.
 
 ## Your assured ever,: Cantuarien. CXLIX. To Crumwell
 
@@ -779,7 +779,7 @@ master secretary.
 
 Ricur worshipful master secretary, in my most hearty wise I commend me unto you. And where I have sued unto the king’s highness, and obtained of the same his graces letters unto the mayor of London, in the favour of a servant of mine named James Arnold, for his preferment unto the room of the swordbearership of London, when it shall happen next to be vacant; I most heartily desire you, (insomuch as my said servant hath in the parties beyond the seas taken great pains, both with me, Mr Aliote^, and with master Hethe? in the king's service) that you will not alonely be good master unto him, in the despatching of the king's grace's said letters, but also at this my request and instance, to write your favourable letters unto my said lord mayor of London”, for the better furtherance of his suit. Wherein ye shall not alonely shew unto me singular pleasure, but also bind my said servant thereby, to be both at your
 
-[[^ “The act meant seems to be Stat. 26 Hen. [7 See Letter LXXXVIII. p. 276.]]
+^ “The act meant seems to be Stat. 26 Hen. [7 See Letter LXXXVIII. p. 276.
 
 [VILI. c. 3, for giving the first-fruits and tenths to [? See Letter CLXXXI. p. 332; “from which]
 

@@ -99,6 +99,6 @@ The letters of this last month for the most part are without date, nor are we an
 The following letter is dated by Palacky as written before the trial. The whole tone of the letter, especially clause two, leads us to attribute it to the three weeks between the trial and the final scene, when Hus was visited by deputation after deputation anxious to overcome what they deemed the scruples of an overnice conscience. Luther's comment to this epistle prefixed in the Zpistoloe Pussime is most just: Hus fights another battle between the flesh and the spirit over the confession of truth, a fight worthy of the knowledge of pious men.'
 
 ---
-[[Hus Letter 59 Letter LVIII. To the Same ( June 8, 1415)|← 59. Letter LVIII. To the Same ( June 8]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 61 Letter LX. To the Same (After June 8, 1415)|61. Letter LX. To the Same (After June 8 →]]
+[[Hus Letter 59 Letter LVIII. To the Same ( June 8, 1415)|← 59. Letter LVIII. To the Same ( June 8]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 61 Letter LX. To the Same (After June 8, 1415)|61. Letter LX. To the Same (After June 8 →]]
 
 

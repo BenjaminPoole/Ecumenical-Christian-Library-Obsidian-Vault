@@ -32,4 +32,4 @@ The affairs of the Crusade are going constantly better and better, and the honou
 Our sweet Saviour give you His eternal benediction! Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 20 Letters to Neri DI Landoccio Dei Pagliaresi|← Letters to Neri DI Landoccio Dei Pagliaresi]] · [[Letters|Contents]] · [[CL 22 To Messer John the Soldier of Fortune and Head of the Company that Came in the|To Messer John the Soldier of Fortune and Head of the Company that Came in the →]]
+[[CL 20 Letters to Neri DI Landoccio Dei Pagliaresi|← Letters to Neri DI Landoccio Dei Pagliaresi]] · [[Catherine of Siena/Letters|Contents]] · [[CL 22 To Messer John the Soldier of Fortune and Head of the Company that Came in the|To Messer John the Soldier of Fortune and Head of the Company that Came in the →]]

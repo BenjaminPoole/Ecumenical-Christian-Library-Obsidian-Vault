@@ -10,7 +10,7 @@ tags:
 # ANF 5: Fathers of the Third Century: Hippolytus, Cyprian, Novatian, Appendix
 
 *Ante-Nicene Fathers, Volume 5 — 114 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Hippolytus|Hippolytus]]
 
@@ -25,7 +25,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Caius|Caius]]
 
-- [[Library/Church Fathers/Caius/Fragments|Fragments]] — c. 198–217
+- [[Caius/Fragments|Fragments]] — c. 198–217
 
 ## [[Novatian|Novatian]]
 

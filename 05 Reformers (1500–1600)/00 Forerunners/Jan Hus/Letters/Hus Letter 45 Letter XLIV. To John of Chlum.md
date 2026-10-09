@@ -69,6 +69,6 @@ your secretary Peter can arrange the petition for a hearing.
 Item, if a hearing shall be granted to me, ask that after it is granted the King shall not allow me to be thrust back into prison; so that I can be free to avail myself of your counsels and those of my friends, and, if it should please God, to say something to my lord the King for his own good and that of Christianity.
 
 ---
-[[Hus Letter 44 Letter XLIII. To Peter Mladenowic|← 44. Letter XLIII. To Peter Mladenowic]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 46 Letter XLV. To the Same (February 1415)|46. Letter XLV. To the Same (February 1415) →]]
+[[Hus Letter 44 Letter XLIII. To Peter Mladenowic|← 44. Letter XLIII. To Peter Mladenowic]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 46 Letter XLV. To the Same (February 1415)|46. Letter XLV. To the Same (February 1415) →]]
 
 

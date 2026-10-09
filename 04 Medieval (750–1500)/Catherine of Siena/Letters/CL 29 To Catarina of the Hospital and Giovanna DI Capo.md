@@ -32,4 +32,4 @@ To thee now I say, Andrea, that he who begins only never receives the crown of g
 I tell thee, Catarina and Giovanna, to work till death for the honour of God and her salvation. Sweet daughters, now is the time for toils, which must be our consolations in Christ crucified. I say no more. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 28 To Brother Raimondo of Capua at Avignon|← To Brother Raimondo of Capua at Avignon]] · [[Letters|Contents]] · [[CL 30 To Sister Daniella of Orvieto Clothed with the Habit of Saint Dominic Who Not|To Sister Daniella of Orvieto Clothed with the Habit of Saint Dominic Who Not →]]
+[[CL 28 To Brother Raimondo of Capua at Avignon|← To Brother Raimondo of Capua at Avignon]] · [[Catherine of Siena/Letters|Contents]] · [[CL 30 To Sister Daniella of Orvieto Clothed with the Habit of Saint Dominic Who Not|To Sister Daniella of Orvieto Clothed with the Habit of Saint Dominic Who Not →]]

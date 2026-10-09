@@ -74,4 +74,4 @@ Weep with them that weep. If you can do no more, at least mix your tears with th
 8\. To sum up all in one word-if you would please men, please God! Let truth and love possess your whole soul. Let them be the springs of all your affections, passions, tempers; the rule of all your thoughts. Let them inspire all your discourse; continually seasoned with that salt, and meet to "minister grace to the hearers." Let all your actions be wrought in love. Never "let mercy or truth forsake thee: Bind them about thy neck." Let them be open and conspicuous to all; and "write them on the table of thy heart." "So shalt thou find favour and good understanding in the sight of God and man."
 
 ---
-[[WS 099 The Reward of the Righteous|← 99. The Reward of the Righteous]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 101 The Duty of Constant Communion|101. The Duty of Constant Communion →]]
+[[WS 099 The Reward of the Righteous|← 99. The Reward of the Righteous]] · [[John Wesley/Sermons/index|Contents]] · [[WS 101 The Duty of Constant Communion|101. The Duty of Constant Communion →]]

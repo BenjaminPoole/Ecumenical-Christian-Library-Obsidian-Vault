@@ -13,7 +13,7 @@ tags:
 
 # 43. Appendix XIV–XXI
 
-[[? Vid. De sacramentorum usu, supra. p. 477.]]
+? Vid. De sacramentorum usu, supra. p. 477.
 
 [ὶ [ CRANMER, 11.] ὦ]
 
@@ -43,7 +43,7 @@ Quamquam non negamus quin, ad fidem et spem in Deum excitandam, possimus Deum ve
 
 [xxvii. Tom. V. p. 516. Ed. Paris. 1635.] αὐτάρκη οὖσαν eis ὠφέλειαν. Basil. Hom. xix.]
 
-[[? Id. Contra Faust. Manich. Lib. xx. cap. xxi. In Gord. Martyr. Tom. I. p. 444. Ed. Paris. 1638.]]
+? Id. Contra Faust. Manich. Lib. xx. cap. xxi. In Gord. Martyr. Tom. I. p. 444. Ed. Paris. 1638.
 
 [Tom. VI. p. 156, where cor—paratum esse.) [5 ποῦτο γάρ ἐστι μαρτύρων ἐγκώμιον, ἡ πρὸς]
 
@@ -109,7 +109,7 @@ Atque ut a priore Niceno concilio exordiamur, in hoc utique concilio decretum qu
 
 Ad hzc, in primo generali concilio, [quod] in urbe Constantinopolitano habitum est, similiter decretum fuit, tum ut omnes lites et controversiz inter clericos susceptz in illis ipsis provinciis, in quibus et exortz et agi coeptz: sunt, per earundem vel saltem vicinarum regionum episcopos finirentur, tum ne quis episcopus extra propriam diocesim aut provinciam potestatem ullam exerceret?. Atque in hac sane sententia sanctissimus przesul [! Labb. et Cossart. Conc. Nicen. I. A.p. 325. Tom. II. col. 1542, 3.] Can, vi. Tom. II. col. 31. Ed. Paris. 1671.] [? Id. Conc. Constant. I. A.p. 381. Cann. ii.
 
-[[? Id. Conc. Milevit. II. A.D. 416. Can. xxii. ' vi. Tom. 11. col. 948, et sq.]]
+? Id. Conc. Milevit. II. A.D. 416. Can. xxii. ' vi. Tom. 11. col. 948, et sq.
 
 ac martyr divus Cyprianus fuit, et ceteri African regionis sanctissimi patres, idque priusquam ulla generalia adhuc haberentur concilia.
 
@@ -125,7 +125,7 @@ Tertio in loco probandum suscipimus, Romanos episcopos hunc universalem (quem ho
 
 Jam Agatho ipse, qui diu post illa quatuor prima generalia concilia Romana sedis episcopatum tenuit, cum ad imperatorem, qui concilium generale in urbe Constantino-politana futurum indixerat, literas daret, in suis illis ad Caesarem literis aperte docet ac confitetur, primatum suum ad solos occidentalis et septentrionalis ecclesie episcopos
 
-[[ Vid Labb. et Cossart. Conc. Carthag. VI. A. n. 419. Tom. II. col. 1589, et sqq.]]
+Vid Labb. et Cossart. Conc. Carthag. VI. A. n. 419. Tom. II. col. 1589, et sqq.
 
 pertinere. Cujus confessione manifestum est, talem universalem primatum, qualem hodie sibi vindicant, neque ullis sacre scripture verbis, neque generalium conciliorum decretis, neque catholicze demum ecclesize consensu, Romanos episcopos illis temporibus habuisse.
 
@@ -277,7 +277,7 @@ XXI. Litere Regie Archiepiscopo Cantuar. pro Publicatione Regiarum Injunctionum'
 
 [given in Burnet.] and differs but little from that still in use." Jenkyns’]
 
-[[ “Henry VIII. was now at war with France Remains of Abp. Cranmer, Vol. IV.p. 321, n. s.]]
+“Henry VIII. was now at war with France Remains of Abp. Cranmer, Vol. IV.p. 321, n. s.
 
 [and Scotland, and was on the point of invading the [5 Published, frequented. Burnet.]]
 

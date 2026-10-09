@@ -29,4 +29,4 @@ I am under obligations that I cannot sufficiently express for the present which 
 
 
 ---
-[[LT 15 To Mademoiselle de Roannez, VIII|← To Mademoiselle de Roannez, VIII]] · [[Letters|Contents]]
+[[LT 15 To Mademoiselle de Roannez, VIII|← To Mademoiselle de Roannez, VIII]] · [[Blaise Pascal/Letters|Contents]]

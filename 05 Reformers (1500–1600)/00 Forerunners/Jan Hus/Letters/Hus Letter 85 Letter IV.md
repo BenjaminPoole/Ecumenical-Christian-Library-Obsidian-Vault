@@ -36,4 +36,4 @@ admonish him once or twice according to the apostle's precept, and if he will no
 I write these words by way of brotherly advice according to Christ's precept : If thy brother shall offend against thee, rebuke him between thee and him.2 Therefore, brother, receive me ; and if you have spoken in this way about me, say so in your reply. If you prove me a heretic, I will humbly make amends and you will receive the reward of restoring a sinner from the error of his way.3 Yet by the grace of God Almighty I hope I hold the same faith in the Lord Jesus as yourself and as truly, seeing that I am ready to suffer death on its behalf in humility and hope.
 
 ---
-[[Hus Letter 84 Letter III|← 84. Letter III]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 86 Letter V|86. Letter V →]]
+[[Hus Letter 84 Letter III|← 84. Letter III]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 86 Letter V|86. Letter V →]]

@@ -24,4 +24,4 @@ Oh, dearest sons, God has heard the cry of His servants, who for so long have cr
 Saturday evening one olive came at one o'clock at night; and to-day at vespers came the other. And Saturday evening that friend of ours was caught with a companion, so that at one time heresy was thoroughly put an end to and peace came; now he is in prison. Pray God for him, that He give him true light and knowledge. Drown you and bathe you in the Blood of Christ crucified. Love, love one another. I send you some of the olive of peace. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 58 To Monna Alessa When the Saint Was at Florence|← To Monna Alessa When the Saint Was at Florence]] · [[Letters|Contents]] · [[CL 60 To Three Italian Cardinals|To Three Italian Cardinals →]]
+[[CL 58 To Monna Alessa When the Saint Was at Florence|← To Monna Alessa When the Saint Was at Florence]] · [[Catherine of Siena/Letters|Contents]] · [[CL 60 To Three Italian Cardinals|To Three Italian Cardinals →]]

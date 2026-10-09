@@ -95,7 +95,7 @@ But I desire to live for the sake of those who suffer violence and need the prea
 May God grant to you understanding in the things I write, and perseverance withal! May it please Him to fulfil your desires with every blessing by the merits of Jesus Christ, who suffered for ws a most shameful and cruel death, leaving us an example that we should suffer in like manner according to His wil. Amen.
 
 ---
-[[Hus Letter 17 Letter XVI. To the People of Prague (October 1412)|← 17. Letter XVI. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 19 Letter XVIII. To the Same (October 1412)|19. Letter XVIII. To the Same (October 1412) →]]
+[[Hus Letter 17 Letter XVI. To the People of Prague (October 1412)|← 17. Letter XVI. To the People of Prague]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 19 Letter XVIII. To the Same (October 1412)|19. Letter XVIII. To the Same (October 1412) →]]
 
 
 

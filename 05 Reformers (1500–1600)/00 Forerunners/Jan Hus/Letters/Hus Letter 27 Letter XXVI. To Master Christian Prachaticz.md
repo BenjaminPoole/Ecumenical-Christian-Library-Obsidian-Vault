@@ -31,6 +31,6 @@ Yet men do not think of these things, being blinded by pride, fame, self-seeking
 The prophet that teacheth lies, he is the tail; the aged and honourable, he is the head. The Lord shall destroy the head and the tail '—that is, the Pope? and his prophets, masters, doctors, priests, who under the false pretext of sanctity conceal the abomination of the beast. Pray, what greater abomination can there be than & harlot who should parade herself and offer herself publiely? Yes, there is the still greater abomination of the beast sitting in a place of honour and offering himself for worship to all comers, as though he were God: ready to sell whatever a man may wish to buy in matters spiritual? Yea, he sells what he doth not possess. Woe be to me, then, if I shall not preach, weep, and write against such an abomination! Woe is me! See to it yourself also. To whom is there i not woe? The flying eagle cries: woe, woe, woe to the men that dwell upon the earth!
 
 ---
-[[Hus Letter 26 Letter XXV. To the Synod of Prague (February 1413)|← 26. Letter XXV. To the Synod of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 28 Letter XXVII. To the Same (April 1413)|28. Letter XXVII. To the Same (April 1413) →]]
+[[Hus Letter 26 Letter XXV. To the Synod of Prague (February 1413)|← 26. Letter XXV. To the Synod of Prague]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 28 Letter XXVII. To the Same (April 1413)|28. Letter XXVII. To the Same (April 1413) →]]
 
 

@@ -78,4 +78,4 @@ Meantime, thus saith the Lord to you that now supply their place: "Be not high-m
 25\. You see here, brethren, a short and general sketch of the manner wherein God works upon earth, in repairing this work of grace, wherever it is decayed through the subtlety of Satan, and the unfaithfulness of men, giving way to the fraud and malice of the devil. Thus he is now carrying on his own work, and thus he will do to the end of time. And how wonderfully plain and simple is His way of working, in the spiritual as well as the natural world! that is, his general plan of working, of repairing whatsoever is decayed. But as to innumerable particulars, we must still cry out, "O the depth! How unfathomable are his counsels, and his paths past tracing out!"
 
 ---
-[[WS 067 On Divine Providence|← 67. On Divine Providence]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 069 The Imperfection of Human Knowledge|69. The Imperfection of Human Knowledge →]]
+[[WS 067 On Divine Providence|← 67. On Divine Providence]] · [[John Wesley/Sermons/index|Contents]] · [[WS 069 The Imperfection of Human Knowledge|69. The Imperfection of Human Knowledge →]]

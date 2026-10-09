@@ -15,7 +15,7 @@ Charles Haddon Spurgeon (1834–1892), the “Prince of Preachers,” was the Re
 
 The **New Park Street Pulpit** and **Metropolitan Tabernacle Pulpit** — Spurgeon’s weekly sermons, 63 volumes, 3,512 sermons in all. Preached 1855–1917.
 
-- **[[Sermons|Browse all sermon volumes →]]**
+- **[[Charles Spurgeon/Sermons|Browse all sermon volumes →]]**
 
 ## The Treasury of David
 

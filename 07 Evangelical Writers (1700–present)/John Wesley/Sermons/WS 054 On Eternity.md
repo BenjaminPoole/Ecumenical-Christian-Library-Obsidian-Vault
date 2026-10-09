@@ -96,4 +96,4 @@ Boundless, fathomless abyss, Without a bottom or a shore
 Father, how wide thy glories shine, Lord of the universe -- and mine! Thy goodness watches o'er the whole, As all the world were but one soul; Yet counts my every sacred hair, As I remain'd thy single care!
 
 ---
-[[WS 053 On the Death of the Rev. Mr. George Whitefield|← 53. On the Death of the Rev. Mr. George Whitefield]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 055 On the Trinity|55. On the Trinity →]]
+[[WS 053 On the Death of the Rev. Mr. George Whitefield|← 53. On the Death of the Rev. Mr. George Whitefield]] · [[John Wesley/Sermons/index|Contents]] · [[WS 055 On the Trinity|55. On the Trinity →]]

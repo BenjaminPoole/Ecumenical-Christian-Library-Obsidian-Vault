@@ -41,5 +41,5 @@ crimes feel the lash of God's word? Herein, alas! is the word of the apostle ful
 [2 Tim. iv. 3,4, Altered in order of clauses. Matt. xxiv. 12. Phil. ii. 21. P.: quod non est alligatum; for est read sit. P.: animorum (sic); read animarum.]
 
 ---
-[[Hus Letter 1 Introduction (Workman and Pope)|← 1. Introduction (Workman and Pope)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 3 Letter II. To the Nuns of a Certain Convent|3. Letter II. To the Nuns of a Certain →]]
+[[Hus Letter 1 Introduction (Workman and Pope)|← 1. Introduction (Workman and Pope)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 3 Letter II. To the Nuns of a Certain Convent|3. Letter II. To the Nuns of a Certain →]]
 

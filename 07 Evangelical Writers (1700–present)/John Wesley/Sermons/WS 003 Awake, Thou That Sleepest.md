@@ -108,4 +108,4 @@ III. 1. This promise, I come, lastly, to explain. And how encouraging a consider
 "Now unto him that is able to do exceeding abundantly above all that we can ask or think, according to the power that worketh in us, unto him be glory in the church by Christ Jesus throughout all ages; world without end. --Amen!"
 
 ---
-[[WS 002 The Almost Christian|← 2. The Almost Christian]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 004 Scriptural Christianity|4. Scriptural Christianity →]]
+[[WS 002 The Almost Christian|← 2. The Almost Christian]] · [[John Wesley/Sermons/index|Contents]] · [[WS 004 Scriptural Christianity|4. Scriptural Christianity →]]

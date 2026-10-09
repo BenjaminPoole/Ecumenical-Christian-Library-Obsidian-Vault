@@ -149,7 +149,7 @@ Hus did not neglect to take other steps for his defence. The same day (August 30
 Husinecz, alias Hus?" To which the said Lord Nicholas answered, not of compulsion, but freely and publicly in the Czech tongue: T have met Master John Hus many times and in many places, eating and drinking with him. I have often been present at his sermons; I have had many talks with him on diverse matters of Holy Scripture. In all his words and deeds I have ever found him to be a true and catholic man, in no wise savouring of heresy or error”’ (Doc. 242). Certain of the nobles procured a similar declaration from the Archbishop. So, on the following day (September 1), Hus despatched a letter to Sigismund, enclosing copies of the notices he had posted in Prague and elsewhere, and not forgetting, we imagine, though of this the letter says nothing, to forward a copy of the Bishop of Nazareth's certificate of orthodoxy. XXXIII To Sieismunp, KrNa oF THE ROMANS AND
 
 ---
-[[Hus Letter 32 Letter XXXI. To Master John Sybart in the University of|← 32. Letter XXXI. To Master John Sybart in]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 34 Letter XXXIII. To Sigismund (September 1, 1414)|34. Letter XXXIII. To Sigismund (September →]]
+[[Hus Letter 32 Letter XXXI. To Master John Sybart in the University of|← 32. Letter XXXI. To Master John Sybart in]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 34 Letter XXXIII. To Sigismund (September 1, 1414)|34. Letter XXXIII. To Sigismund (September →]]
 
 
 

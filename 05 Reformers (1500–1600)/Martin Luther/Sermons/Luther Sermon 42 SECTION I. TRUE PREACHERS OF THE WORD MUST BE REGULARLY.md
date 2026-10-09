@@ -23,4 +23,4 @@ tags:
 (short section omitted here).
 
 ---
-[[Luther Sermon 41 OF THE OFFICE OF PREACHING & OF PREACHERS AND HEARERS|← 41. OF THE OFFICE OF PREACHING & OF]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 43 SECTION II. PREACHERS OF THE WORD TO PREACH NOTHING BUT|43. SECTION II. PREACHERS OF THE WORD TO →]]
+[[Luther Sermon 41 OF THE OFFICE OF PREACHING & OF PREACHERS AND HEARERS|← 41. OF THE OFFICE OF PREACHING & OF]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 43 SECTION II. PREACHERS OF THE WORD TO PREACH NOTHING BUT|43. SECTION II. PREACHERS OF THE WORD TO →]]

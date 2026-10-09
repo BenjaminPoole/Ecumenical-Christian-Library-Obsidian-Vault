@@ -90,4 +90,4 @@ This was the practice of all the young men at Oxford who were called Methodists.
 6\. Who then is a wise man, and endued with knowledge among you Let him resolve this day, this hour, this moment, the Lord assisting him, to choose in all the preceding particulars the "more excellent way:" And let him steadily keep it, both with regard to sleep, prayer, work, food, conversation, and diversions; and particularly with regard to the employment of that important talent, money. Let your heart answer to the call of God, "From this moment, God being my helper, I will lay up no more treasure upon earth: This one thing I will do, I will lay up treasure in heaven; I will render unto God the things that are God's: I will give him all my goods, and all my heart."
 
 ---
-[[WS 088 On Dress|← 88. On Dress]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 090 An Israelite Indeed|90. An Israelite Indeed →]]
+[[WS 088 On Dress|← 88. On Dress]] · [[John Wesley/Sermons/index|Contents]] · [[WS 090 An Israelite Indeed|90. An Israelite Indeed →]]

@@ -118,4 +118,4 @@ Or perhaps you are now in heaviness of soul: God, as it were, hides his face fro
 Now unto "God the Father, who hath made me and all the world;" unto "God the Son, who hath redeemed me and all mankind;" unto "God the Holy Ghost, who sanctifieth me and all the elect people of God;" be honour and praise, majesty, and dominion, for ever and ever! Amen.
 
 ---
-[[WS 028 Upon Our Lord's Sermon on the Mount Discourse Eight|← 28. Upon Our Lord's Sermon on the Mount: Discourse Eight]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 030 Upon Our Lord's Sermon on the Mount Discourse Ten|30. Upon Our Lord's Sermon on the Mount: Discourse Ten →]]
+[[WS 028 Upon Our Lord's Sermon on the Mount Discourse Eight|← 28. Upon Our Lord's Sermon on the Mount: Discourse Eight]] · [[John Wesley/Sermons/index|Contents]] · [[WS 030 Upon Our Lord's Sermon on the Mount Discourse Ten|30. Upon Our Lord's Sermon on the Mount: Discourse Ten →]]

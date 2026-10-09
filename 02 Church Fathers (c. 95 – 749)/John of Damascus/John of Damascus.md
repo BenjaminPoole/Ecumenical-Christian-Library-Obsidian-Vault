@@ -7,7 +7,7 @@ tags:
 
 # John of Damascus
 
-4 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+4 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[An Exposition of the Orthodox Faith, Book I|An Exposition of the Orthodox Faith, Book I]] — [[NPNF2 09|NPNF2 9]]
 - [[An Exposition of the Orthodox Faith, Book II|An Exposition of the Orthodox Faith, Book II]] — [[NPNF2 09|NPNF2 9]]

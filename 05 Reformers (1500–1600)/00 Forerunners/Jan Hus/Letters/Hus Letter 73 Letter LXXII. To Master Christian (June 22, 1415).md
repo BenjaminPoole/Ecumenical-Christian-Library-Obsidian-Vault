@@ -65,6 +65,6 @@ Luthers comment on the following beautiful letter will be, we think, the verdict
 The Council evidently had not yet given up all hopes of procuring a recantation. Palecz, we note, is somewhat softening towards his old friend, but Michael is as relentless as ever. But the issue had passed from their hands.
 
 ---
-[[Hus Letter 72 Letter LXXI. To Gallus (hawlik), Preacher|← 72. Letter LXXI. To Gallus (hawlik)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 74 Letter LXXIII. To his Friends at Constance (June 23|74. Letter LXXIII. To his Friends at →]]
+[[Hus Letter 72 Letter LXXI. To Gallus (hawlik), Preacher|← 72. Letter LXXI. To Gallus (hawlik)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 74 Letter LXXIII. To his Friends at Constance (June 23|74. Letter LXXIII. To his Friends at →]]
 
 

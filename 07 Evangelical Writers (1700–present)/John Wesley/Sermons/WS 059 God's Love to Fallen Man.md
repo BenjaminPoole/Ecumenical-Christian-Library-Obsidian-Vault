@@ -84,4 +84,4 @@ If God had prevented the fall of man, "the Word" had never been "made flesh;" no
 16\. "O the depth of the riches both of the wisdom and knowledge of God!" Although a thousand particulars of "his judgments and of his ways are unsearchable" to us, and past our finding our; yet may we discern the general scheme running through time into eternity. "According to the counsel of his own will," the plan he had laid before the foundation of the world, he created the parent of all mankind in his own image; and he permitted all men to be made sinners, by the disobedience of that one man, that, by the obedience of one, all who receive the free gift may be infinitely holier and happier to all eternity.
 
 ---
-[[WS 058 On Predestination|← 58. On Predestination]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 060 The General Deliverance|60. The General Deliverance →]]
+[[WS 058 On Predestination|← 58. On Predestination]] · [[John Wesley/Sermons/index|Contents]] · [[WS 060 The General Deliverance|60. The General Deliverance →]]

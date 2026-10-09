@@ -356,7 +356,7 @@ the tragical poet, Euripides, To him, that while he lives doth His parents to ob
 
 He did his country sell for gold, And made a tyrant king; For bribes he made and marr’d try’s laws and every thing 8. Horace in his Odes saith: It is a sweet and seemly thing, In country’s cause to die?. Silius Italicus hath: Doubt not of this; forget it not, But keep it in thy mind: It is a detestable thing To shew thyself unkind
 
-[[δ Ὅστις δὲ τοὺς τεκόντας ἐν βίῳ σέβει, ὅδ ἐστὶ καὶ ζῶν καὶ θανὼν θεοῖς φίλος. Eurip. Heracl. ap. Stobzei Floril. Vol. mr. p. 107.]]
+δ Ὅστις δὲ τοὺς τεκόντας ἐν βίῳ σέβει, ὅδ ἐστὶ καὶ ζῶν καὶ θανὼν θεοῖς φίλος. Eurip. Heracl. ap. Stobzei Floril. Vol. mr. p. 107.
 
 [6 Δίκας γραφόμενος πρὸς γονεῖς μαίνῃ, Tahav.—Menand. ap. Sto-]
 
@@ -376,7 +376,7 @@ He did his country sell for gold, And made a tyrant king; For bribes he made and
 
 [9 Dulce et decorum est pro patria mori. Hor. Od. Lib. mr 2, 13.] 19]
 
-[[BULLINGER. ]]
+BULLINGER.
 
 ## Unto thy native country soil; for no such sin remains in hell to be tormented there with utter endless pains, as that: so doth experience teachl
 

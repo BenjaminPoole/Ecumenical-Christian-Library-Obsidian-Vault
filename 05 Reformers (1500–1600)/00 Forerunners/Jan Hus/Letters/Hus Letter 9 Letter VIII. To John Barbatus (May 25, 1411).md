@@ -125,5 +125,5 @@ Monday, Urban's Day, in Rogation week.
 [often in the writings of the times,::]
 
 ---
-[[Hus Letter 8 Letter VII. To a Certain Monk (January 18, 1411)|← 8. Letter VII. To a Certain Monk (January]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 10 Letter IX. To John Xxiii. (September 1, 1411)|10. Letter IX. To John Xxiii. (September 1 →]]
+[[Hus Letter 8 Letter VII. To a Certain Monk (January 18, 1411)|← 8. Letter VII. To a Certain Monk (January]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 10 Letter IX. To John Xxiii. (September 1, 1411)|10. Letter IX. To John Xxiii. (September 1 →]]
 

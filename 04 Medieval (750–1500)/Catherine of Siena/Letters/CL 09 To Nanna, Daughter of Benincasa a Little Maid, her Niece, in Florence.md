@@ -36,4 +36,4 @@ But think that that sweet Bridegroom Christ is more jealous of His brides than I
 So, reflecting that this was the best way, I said that I desired to see thee a real bride of Christ crucified; and so I beg and command thee that thou try hard to be. I say no more to thee. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 08 To Sister Eugenia, her Niece at the Convent of Saint Agnes of Montepulciano|← To Sister Eugenia, her Niece at the Convent of Saint Agnes of Montepulciano]] · [[Letters|Contents]] · [[CL 10 Letters on the Consecrated Life|Letters on the Consecrated Life →]]
+[[CL 08 To Sister Eugenia, her Niece at the Convent of Saint Agnes of Montepulciano|← To Sister Eugenia, her Niece at the Convent of Saint Agnes of Montepulciano]] · [[Catherine of Siena/Letters|Contents]] · [[CL 10 Letters on the Consecrated Life|Letters on the Consecrated Life →]]

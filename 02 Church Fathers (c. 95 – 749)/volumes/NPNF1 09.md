@@ -10,7 +10,7 @@ tags:
 # NPNF1 9: Chrysostom: On the Priesthood, Ascetic Treatises, Select Homilies and Letters, Homilies on the Statues
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 9 — 44 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
 

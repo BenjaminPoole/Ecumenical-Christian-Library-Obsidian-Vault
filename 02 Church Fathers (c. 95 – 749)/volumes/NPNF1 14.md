@@ -10,7 +10,7 @@ tags:
 # NPNF1 14: Chrysostom: Homilies on the Gospel of St. John and the Epistle to the Hebrews
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 14 — 123 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
 

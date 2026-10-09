@@ -66,4 +66,4 @@ And yet surely, if any man could, Paul himself might have attained thereto by th
 O that my tender soul might fly The first abhorr'd approach of ill; Quick, as the apple of an eye,
 
 ---
-[[WS 011 The Witness of the Spirit Discourse Two|← 11. The Witness of the Spirit: Discourse Two]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 013 On Sin in Believers|13. On Sin in Believers →]]
+[[WS 011 The Witness of the Spirit Discourse Two|← 11. The Witness of the Spirit: Discourse Two]] · [[John Wesley/Sermons/index|Contents]] · [[WS 013 On Sin in Believers|13. On Sin in Believers →]]

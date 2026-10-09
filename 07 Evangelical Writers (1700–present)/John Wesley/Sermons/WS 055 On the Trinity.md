@@ -81,4 +81,4 @@ But I know not how any one can be a Christian believer till he "hath," as St. Jo
 Therefore, I do not see how it is possible for any to have vital religion who denies that these Three are one. And all my hope for them is, not that they will he saved during their unbelief, (unless on the footing of honest Heathens, upon the plea of invincible ignorance,) but that God, before they go hence, "will bring them to the knowledge of the truth."
 
 ---
-[[WS 054 On Eternity|← 54. On Eternity]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 056 God's Approbation of his Works|56. God's Approbation of his Works →]]
+[[WS 054 On Eternity|← 54. On Eternity]] · [[John Wesley/Sermons/index|Contents]] · [[WS 056 God's Approbation of his Works|56. God's Approbation of his Works →]]

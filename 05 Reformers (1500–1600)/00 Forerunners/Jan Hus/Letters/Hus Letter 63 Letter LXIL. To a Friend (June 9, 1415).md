@@ -23,7 +23,7 @@ Lord Henry, faithful friend in God, remember the good you have learnt from me an
 The following letter is of great interest historically, as throwing light upon the way in which Hus himself regarded the matter of the safe-conduct. But his reflections after the event are not altogether fair to Sigismund's intentions, and the statement concerning Lord Mikess Diwoky is hard to understand.
 
 ---
-[[Hus Letter 62 Letter LXI. To Henry Skopek De Duba (June 9, 1415)|← 62. Letter LXI. To Henry Skopek De Duba]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 64 Letter LXIII. To his Bohemian Friends (After June 8|64. Letter LXIII. To his Bohemian Friends →]]
+[[Hus Letter 62 Letter LXI. To Henry Skopek De Duba (June 9, 1415)|← 62. Letter LXI. To Henry Skopek De Duba]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 64 Letter LXIII. To his Bohemian Friends (After June 8|64. Letter LXIII. To his Bohemian Friends →]]
 
 
 

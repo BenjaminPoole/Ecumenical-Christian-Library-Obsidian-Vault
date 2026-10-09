@@ -153,4 +153,4 @@ Great Xerxes' world in arms, proud Cannae's field. Where Carthage taught victori
 13\. "Your in conscience;" so the author of the old Kentish Poema Morale says: "Elch man sceal him then biclupien and ecach sceal him demen; His aye weorc and his ithanc to witnesse he sceal temen", which is, being interpreted. Every man shall accuse himself there, and every man shall judge himself; His own work and his conscience he shall bring to witness. "See! See! He cometh!" One of Wesley's finest and most impassioned perorations.
 
 ---
-[[WS 014 The Repentance of Believers|← 14. The Repentance of Believers]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 016 The Means of Grace|16. The Means of Grace →]]
+[[WS 014 The Repentance of Believers|← 14. The Repentance of Believers]] · [[John Wesley/Sermons/index|Contents]] · [[WS 016 The Means of Grace|16. The Means of Grace →]]

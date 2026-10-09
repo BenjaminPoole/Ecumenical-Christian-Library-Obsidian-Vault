@@ -70,4 +70,4 @@ II. 1. And, First, does Satan endeavour to damp your joy in the Lord, by the con
 8\. Lastly: If in time past you have abused this blessed hope of being holy as he is holy, yet do not therefore cast it away. Let the abuse cease, the use remain. Use it now to the more abundant glory of God, and profit of your own soul. In steadfast faith, in calm tranquility of spirit, in full assurance of hope, rejoicing evermore for what God hath done, press ye on unto perfection! Daily growing in the knowledge of our Lord Jesus Christ, and going on from strength to strength, in resignation, in patience, in humble thankfulness for what ye have attained, and for what ye shall, run the race set before you, "looking unto Jesus," till, through perfect love, ye enter into his glory!
 
 ---
-[[WS 041 Wandering Thoughts|← 41. Wandering Thoughts]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 043 The Scripture Way of Salvation|43. The Scripture Way of Salvation →]]
+[[WS 041 Wandering Thoughts|← 41. Wandering Thoughts]] · [[John Wesley/Sermons/index|Contents]] · [[WS 043 The Scripture Way of Salvation|43. The Scripture Way of Salvation →]]

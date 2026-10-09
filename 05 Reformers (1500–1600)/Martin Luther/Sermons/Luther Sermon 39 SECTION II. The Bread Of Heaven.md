@@ -37,4 +37,4 @@ tags:
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 38 SECTION I. On Faith, And Coming To Christ|← 38. SECTION I. On Faith, And Coming To]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 40 by Martin Luther (1483-1546)|40. by Martin Luther (1483-1546) →]]
+[[Luther Sermon 38 SECTION I. On Faith, And Coming To Christ|← 38. SECTION I. On Faith, And Coming To]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 40 by Martin Luther (1483-1546)|40. by Martin Luther (1483-1546) →]]

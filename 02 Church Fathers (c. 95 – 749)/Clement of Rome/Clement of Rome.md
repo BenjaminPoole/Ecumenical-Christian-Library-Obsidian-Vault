@@ -7,7 +7,7 @@ tags:
 
 # Clement of Rome
 
-34 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+34 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[02 Church Fathers (c. 95 – 749)/Clement of Rome/Clementine Homilies, Homily 1|Clementine Homilies, Homily 1]] — [[ANF 08|ANF 8]]
 - [[02 Church Fathers (c. 95 – 749)/Clement of Rome/Clementine Homilies, Homily 2|Clementine Homilies, Homily 2]] — [[ANF 08|ANF 8]]

@@ -63,6 +63,6 @@ Hostiensis? in his gloss on the fifth chapter of the decretals (‘A «obis'?) h
 Holy Father; and the cardinals, together with the others, affirmed that very same thing. May Christ Jesus then be blessed for having suffered this to take place in His Church for our instruction and warning!
 
 ---
-[[Hus Letter 29 Letter XXVIII. To the Same (April 1413)|← 29. Letter XXVIII. To the Same (April 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 31 Letter XXX. To the Same (April 1413)|31. Letter XXX. To the Same (April 1413) →]]
+[[Hus Letter 29 Letter XXVIII. To the Same (April 1413)|← 29. Letter XXVIII. To the Same (April 1413)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 31 Letter XXX. To the Same (April 1413)|31. Letter XXX. To the Same (April 1413) →]]
 
 

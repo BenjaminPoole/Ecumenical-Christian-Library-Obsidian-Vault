@@ -7,7 +7,7 @@ tags:
 
 # Ephraim the Syrian
 
-12 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+12 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Homily on Admonition and Repentance|Homily on Admonition and Repentance]] — [[NPNF2 13|NPNF2 13]]
 - [[Homily on Our Lord|Homily on Our Lord]] — [[NPNF2 13|NPNF2 13]]

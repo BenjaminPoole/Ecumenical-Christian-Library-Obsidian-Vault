@@ -464,13 +464,13 @@ Master Dean, 1 greet you well And where you advise me (upon the suit of Edwardes
 
 To the dean of the Arches.
 
-[[? Chancellor of the church of York, and one of State Papers, Vol. I. p. 337.]]
+? Chancellor of the church of York, and one of State Papers, Vol. I. p. 337.
 
 [the divines employed in compiling The Institution [^ The archbishop of York.]]
 
 [of a Christian Man.] [6 Vid. Letters XXXII. XXXIII. p. 253.]]
 
-[[ Dr William Benett succeeded Gardiner, A.D. [7 Vid. Letter XIV. p. 244, n.5.]]
+Dr William Benett succeeded Gardiner, A.D. [7 Vid. Letter XIV. p. 244, n.5.
 
 [1529, as Henry VIII.'s ambassador at Rome, and [ An abbey of white monks in Essex, near]
 

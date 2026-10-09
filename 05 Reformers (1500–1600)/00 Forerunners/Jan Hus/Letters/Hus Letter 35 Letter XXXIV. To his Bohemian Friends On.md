@@ -37,7 +37,7 @@ Perhaps you will not see me again at Prague before I die; but if it please Almig
 we see each other again, and assuredly so when we meet in the joy of heaven. May it please the merciful God, Who giveth to His own a stainless peace both here and hereafter, who brought again from the dead the great pastor of the sheep after He had shed His blood, Who is the eternal witness of our salvation, to fit you in all goodness that you may do His will in harmony, free from all dissension, and that in enjoyment of peace you may by your good deeds attain to the eternal peace through our Lord Jesus Christ, Who is God eternal and true man, born of the Virgin Mary. Unto Him there is praise and ever shall be with all the company of the elect, with Whom, if here we shall persevere in the truth, we shall dwell in the joy of heaven. Amen.
 
 ---
-[[Hus Letter 34 Letter XXXIII. To Sigismund (September 1, 1414)|← 34. Letter XXXIII. To Sigismund (September]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 36 Letter XXXV. To Master Martin, his Disciple (October|36. Letter XXXV. To Master Martin, his →]]
+[[Hus Letter 34 Letter XXXIII. To Sigismund (September 1, 1414)|← 34. Letter XXXIII. To Sigismund (September]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 36 Letter XXXV. To Master Martin, his Disciple (October|36. Letter XXXV. To Master Martin, his →]]
 
 
 

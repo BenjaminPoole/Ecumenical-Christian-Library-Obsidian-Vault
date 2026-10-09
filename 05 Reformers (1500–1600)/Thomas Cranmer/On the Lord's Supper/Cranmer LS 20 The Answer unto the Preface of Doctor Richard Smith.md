@@ -221,7 +221,7 @@ Thus is an answer made unto the false calumniations of Smith in the preface of h
 
 @ Here endeth the answer unto the Preface of Master Smith's book, which he wrote against the defence of the true and catholic doctrine of the Sacrament of the body and blood of our Saviour CHRIST.
 
-[[! Cum sit perfectus scripturarum canon, sibique quod ab omnibus creditum est.—Ibid. cap. iii. ]]
+! Cum sit perfectus scripturarum canon, sibique quod ab omnibus creditum est.—Ibid. cap. iii.
 
 [ad omnia satis superque sufficiat, quid opus est ut Plerumque propter intelligenti: lucem, non]
 

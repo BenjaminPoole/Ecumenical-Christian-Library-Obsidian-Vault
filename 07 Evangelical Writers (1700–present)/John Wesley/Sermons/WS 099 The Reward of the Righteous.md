@@ -127,4 +127,4 @@ By your generous assistance, be ye partakers of their work, and partakers of the
 3\. To you I need add but one word more. Remember (what was spoken at first) the solemn declaration of Him whose ye are, and whom ye serve, coming in the clouds of heaven! While you are promoting this comprehensive charity, which contains feeding the hungry, clothing the naked, lodging the stranger; indeed all good works in one; let those animating words be written on your hearts, and sounding in your ears: "Inasmuch as ye have done it unto one of the least of these, ye have done it unto ME."
 
 ---
-[[WS 098 On Visiting the Sick|← 98. On Visiting the Sick]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 100 On Pleasing All Men|100. On Pleasing All Men →]]
+[[WS 098 On Visiting the Sick|← 98. On Visiting the Sick]] · [[John Wesley/Sermons/index|Contents]] · [[WS 100 On Pleasing All Men|100. On Pleasing All Men →]]

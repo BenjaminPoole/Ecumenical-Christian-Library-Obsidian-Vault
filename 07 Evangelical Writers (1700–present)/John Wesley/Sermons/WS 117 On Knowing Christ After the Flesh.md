@@ -58,4 +58,4 @@ Thy mercy never shall remove From men of heart sincere; Thou savest the souls wh
 PLYMOUTH-DOCK, August 15, 1789.
 
 ---
-[[WS 116 Causes of the Inefficacy of Christianity|← 116. Causes of the Inefficacy of Christianity]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 118 On a Single Eye|118. On a Single Eye →]]
+[[WS 116 Causes of the Inefficacy of Christianity|← 116. Causes of the Inefficacy of Christianity]] · [[John Wesley/Sermons/index|Contents]] · [[WS 118 On a Single Eye|118. On a Single Eye →]]

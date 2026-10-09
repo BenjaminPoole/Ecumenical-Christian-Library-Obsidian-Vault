@@ -28,4 +28,4 @@ I marvel much that you, having, as I heard, promised to be willing to go to die 
 There is coming to you this father and son of mine, Brother Raimondo, who brings you this letter. Trust in what he tells you; because he is a true, faithful servant of God, and will advise you and say to you nothing except what will be to the honour of God and the safety and glory of your soul. I say no more. I beg you, dearest brother, to keep in memory the shortness of your time. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 21 To Monna Giovanna and her Other Daughters in Siena|← To Monna Giovanna and her Other Daughters in Siena]] · [[Letters|Contents]] · [[CL 23 To Monna Colomba in Lucca|To Monna Colomba in Lucca →]]
+[[CL 21 To Monna Giovanna and her Other Daughters in Siena|← To Monna Giovanna and her Other Daughters in Siena]] · [[Catherine of Siena/Letters|Contents]] · [[CL 23 To Monna Colomba in Lucca|To Monna Colomba in Lucca →]]

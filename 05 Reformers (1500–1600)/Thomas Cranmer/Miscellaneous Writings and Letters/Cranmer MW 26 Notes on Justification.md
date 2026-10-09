@@ -371,7 +371,7 @@ Ne fides ipsa superbire incipiat et dieat: Si ex fide, quomodo gratis? Quod enim
 
 [where justus, Isaac, and est opus.] [5 Id. Lib. Sentent. ex August. CXXXI. col.]
 
-[[" Hug. de S. Charo. Epist. Jacob. cap. ii. Tom. 561.]]
+" Hug. de S. Charo. Epist. Jacob. cap. ii. Tom. 561.
 
 [VII. fol. 316, Ed. Col. Agrip. 1621, where tunc [/5 Id. in Psalm. ciii. col. 383.]]
 
@@ -439,7 +439,7 @@ Per legem fidei quisque cognoscit, si quis bene vivit, Dei gratiam se habere, et
 
 [Ed. Basil. 1527, where salvare.] Tom. X. col. 1016. Ed. Paris. 1679—1709, where in]
 
-[[^ Bernard. In Annunt. Domin. Serm. iii. Tom. nobis Deus.]]
+^ Bernard. In Annunt. Domin. Serm. iii. Tom. nobis Deus.
 
 [I. col. 169, Ed. Paris. 1586, where vase fiducie [12 Id. ibid. Lib. 1. cap. cxli. Tom. X. col.]
 
@@ -481,7 +481,7 @@ Quia lex iram operatur, propterea ex fide dicitur justificari Abrahamus ac heres
 
 “Per legem, inquit, non confirmantur promissiones, quod secundum modum aliquem impediuntur, Quomodo? Quia lex iram operatur, eo quod non observatur: nemo enim illam poterat implere. Unde autem ira, quomodo hzreditas? Quomodo hareditatem accipiet, qui irritavit? Quomodo venient promissiones? Fides, inquit, gratiam inducit Dei; existente autem gratia, veniunt et implentur promissiones 6,”
 
-[[? Id. in Joan. Evang. cap. xi. Tractat. xlix, col. 666. where ipsa est justitia.]]
+? Id. in Joan. Evang. cap. xi. Tractat. xlix, col. 666. where ipsa est justitia.
 
 [19 Tom. IX. p. 149. Ed. Paris. 1635, where ait [? Id. ibid. 4. col. 665, where hoc utique totum]
 
@@ -491,7 +491,7 @@ Quia lex iram operatur, propterea ex fide dicitur justificari Abrahamus ac heres
 
 [p 952.] sitque gloria.omni operanti bomum; sed quia]
 
-[[^ Origen in Epist. ad Rom. Lib. iv. 1. Tom. opera ex gratia, non ex operibus gratia.]]
+^ Origen in Epist. ad Rom. Lib. iv. 1. Tom. opera ex gratia, non ex operibus gratia.
 
 [IV. p. 522, Ed. Paris. 1733-59, where quod repu- [33 Thom. Aquin. Op. In Epist. ad Ephes. cap. ii.]
 

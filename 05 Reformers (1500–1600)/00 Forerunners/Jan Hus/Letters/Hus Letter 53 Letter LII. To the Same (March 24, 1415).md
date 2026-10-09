@@ -117,7 +117,7 @@ connected with the absence of a pope, formal condemnation was allowed to stand o
 chains from Gottlieben to Constance early in the morning, and lodged in a tower adjoining the Franciscan convent to await his final trial, Pope John doubtless looking on with interest at the heresiarch's departure. On arriving at the Franciscan convent Hus found opportunity for resuming his correspondence with his friends. If the date that von Hardt gives for his transference from Gottlieben be correct (June 5; see Hardt, iv. 306), one letter at least! would appear to have been despatched that very morning. Hus, we note, is still sanguine as to the effects of a public audience, though his letter shows that he contemplates other issues with resignation. One little detail of this third imprisonment is not without interest. Hus tells us (p. 218) that for the first time for some months his food was good and plentiful.
 
 ---
-[[Hus Letter 52 Letter LI. To his Friends After the Pope's Flight|← 52. Letter LI. To his Friends After the]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 54 Letter LIII. To John of Chlum (June 5, 1415)|54. Letter LIII. To John of Chlum (June 5 →]]
+[[Hus Letter 52 Letter LI. To his Friends After the Pope's Flight|← 52. Letter LI. To his Friends After the]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 54 Letter LIII. To John of Chlum (June 5, 1415)|54. Letter LIII. To John of Chlum (June 5 →]]
 
 
 

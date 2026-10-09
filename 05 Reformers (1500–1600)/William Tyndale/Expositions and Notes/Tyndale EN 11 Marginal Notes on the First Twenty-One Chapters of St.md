@@ -182,7 +182,7 @@ Redeem is to deliver out of bondage.
 
 As many as called him son of David believed that he was very Messias, that great prophet promised of God, which
 
-[[! Ere, before, sooner.]]
+! Ere, before, sooner.
 
 should come and redeem Israel. For it was promised that Messias should be David’s son. Hosanna is as much to say as, O help; or, O give good — luck and health. d John taught the very way unto righteousness. For he interpreted the law right; and damned man, and all his deeds and righteousness, and drave men unto Christ to seek true righteousness through mercy obtained by his blood. All must fall or stumble at Christ; some to their salvation, some to their damnation.
 

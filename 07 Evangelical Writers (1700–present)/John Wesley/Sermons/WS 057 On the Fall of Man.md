@@ -62,4 +62,4 @@ There was still wanting a creature of a higher rank, capable of wisdom and holin
 "Hallelujah," they cry, "To the King of the sky, To the great everlasting I AM; To the Lamb that was slain, And liveth again, Hallelujah to God and the Lamb!"
 
 ---
-[[WS 056 God's Approbation of his Works|← 56. God's Approbation of his Works]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 058 On Predestination|58. On Predestination →]]
+[[WS 056 God's Approbation of his Works|← 56. God's Approbation of his Works]] · [[John Wesley/Sermons/index|Contents]] · [[WS 058 On Predestination|58. On Predestination →]]

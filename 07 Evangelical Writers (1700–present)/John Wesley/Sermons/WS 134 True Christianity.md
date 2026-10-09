@@ -114,4 +114,4 @@ It is appointed, "That scholars of every rank shall abstain from alehouses, inns
 17\. May the God of all grace, who is longsuffering, of tender mercy, and repenteth him of the evil, fix these things in your hearts, and water the seed he hath own with the dew of heaven! May he correct whatsoever he seeth amiss in us! May he supply whatsoever is wanting! May he perfect that which is according to his will; and so establish, strengthen, and settle us, that this place may again be a faithful city to her Lord; yea, the praise of the whole earth!
 
 ---
-[[WS 133 On the Death of Rev. Mr. John Fletcher|← 133. On the Death of Rev. Mr. John Fletcher]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 135 On Mourning for the Dead|135. On Mourning for the Dead →]]
+[[WS 133 On the Death of Rev. Mr. John Fletcher|← 133. On the Death of Rev. Mr. John Fletcher]] · [[John Wesley/Sermons/index|Contents]] · [[WS 135 On Mourning for the Dead|135. On Mourning for the Dead →]]

@@ -50,4 +50,4 @@ The heavenly treasure now we have In a vile house of clay! Yet He shall to the u
 Potto, June 17, 1790
 
 ---
-[[WS 123 The Deceitfulness of the Human Heart|← 123. The Deceitfulness of the Human Heart]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 125 On Living Without God|125. On Living Without God →]]
+[[WS 123 The Deceitfulness of the Human Heart|← 123. The Deceitfulness of the Human Heart]] · [[John Wesley/Sermons/index|Contents]] · [[WS 125 On Living Without God|125. On Living Without God →]]

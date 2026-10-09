@@ -57,6 +57,6 @@ You write not a word about those who have been cited. How is it that no proctor 
 The following letter is dated by Palacky as March 4, 1415, reckoning eight weeks from Hus's removal to the refectory (see infra, p. 189), which he dates on January 8. As I have dated this on January 3, following Hardt, iv. 26-32 (see p. 168), the date will be rather February 28. Additional confirmation of this view will be found in the fact that we have other letters to Chlum, dated, it would appear, on March 4 (see p. 191).
 
 ---
-[[Hus Letter 46 Letter XLV. To the Same (February 1415)|← 46. Letter XLV. To the Same (February 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 48 Letter XL. Vii. to John of Chlum|48. Letter XL. Vii. to John of Chlum →]]
+[[Hus Letter 46 Letter XLV. To the Same (February 1415)|← 46. Letter XLV. To the Same (February 1415)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 48 Letter XL. Vii. to John of Chlum|48. Letter XL. Vii. to John of Chlum →]]
 
 

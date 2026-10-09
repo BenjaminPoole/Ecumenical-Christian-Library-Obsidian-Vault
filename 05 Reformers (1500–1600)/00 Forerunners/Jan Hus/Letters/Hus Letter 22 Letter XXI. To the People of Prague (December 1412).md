@@ -51,6 +51,6 @@ i.e., by resuming the interdict.
 conformed, would be glad in your love to see me a neighbour, so to speak, to you, for your good. In like manner I too would like to see you and preach God's word to you, for it is in this that the other priests also ought to show their greatest earnestness. Woe to the priests who count the word of God as naught! Woe to those who are supposed to preach and do not preach! Woe to those who hinder from preaching and hearing! But praise be to those who hear the word and keep it, for it is Christ that gives to them His indulgences, saying: Blessed are they who hear the word of God and keep it? May this blessedness and this hearing be granted to you by the good pleasure of God the Father, Son, and Holy Ghost, eternally one God, blessed for ever. Amen.
 
 ---
-[[Hus Letter 21 Letter XX. To the Faithful Bohemians (December 1412)|← 21. Letter XX. To the Faithful Bohemians]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 23 Letter XXII. To the Same (December 25, 1412)|23. Letter XXII. To the Same (December 25 →]]
+[[Hus Letter 21 Letter XX. To the Faithful Bohemians (December 1412)|← 21. Letter XX. To the Faithful Bohemians]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 23 Letter XXII. To the Same (December 25, 1412)|23. Letter XXII. To the Same (December 25 →]]
 
 

@@ -470,7 +470,7 @@ tua. Mea vita non dicenda est vita absque tua et salute et valetudine. Quapropte
 
 Tur health of my own self, my dearest son in Christ, could not be more serviceable to me than is your own. My life is not to be called living unless you are in health and strength; and therefore as I hear that you are safe and well, I feel also that my life is complete and uninjured. Nor at all events does my absence deprive you of so much pleasure as your letter adds to mine; for it shews no less that you have ability worthy of so great a prince, than that you have a tutor worthy of such great ability. And from this letter of yours I find that you so study letters that meanwhile you have no small care for heavenly teaching; and whatever person has a care for it, him no care can ever destroy. Proceed then, most illustrious prince, in the same way as you have begun, and adorn this Sparta which you have obtained; so that the same light of excellency which I see from your letter is in you, may hereafter illuminate the whole of your realm of England. 1 will not write at greater length, both that you may see that I am in a measure pleased with brevity, and also because I believe that as you are still small in age, you delight in that which is small, and like is pleased with like; and furthermore, that my unpolished style may not be the cause of your noble mind contracting the fault of baldness in your own.
 
-[[? This is said by Foxe to be the answer of the Vale. Antile decimo octavo Junii. [1544.]]
+? This is said by Foxe to be the answer of the Vale. Antile decimo octavo Junii. [1544.
 
 [archbishop to the above letter of prince Edward, 'Tuus in Christo filius,]
 

@@ -10,7 +10,7 @@ tags:
 # NPNF1 13: Chrysostom: Homilies on Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus, and Philemon
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 13 — 114 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
 

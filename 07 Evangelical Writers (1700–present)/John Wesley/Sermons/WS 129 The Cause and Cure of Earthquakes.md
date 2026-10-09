@@ -144,4 +144,4 @@ Call upon Him now, O sinner! and continue instant in prayer, till he answer thee
 "Now to God the Father," &c.
 
 ---
-[[WS 128 Free Grace|← 128. Free Grace]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 130 National Sins and Miseries|130. National Sins and Miseries →]]
+[[WS 128 Free Grace|← 128. Free Grace]] · [[John Wesley/Sermons/index|Contents]] · [[WS 130 National Sins and Miseries|130. National Sins and Miseries →]]

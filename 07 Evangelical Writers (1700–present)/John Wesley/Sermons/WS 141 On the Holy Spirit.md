@@ -101,4 +101,4 @@ Let a man descend calmly into his heart, and see if there be no root of bitterne
 I will conclude all with that excellent Collect of our Church: -- "O God, who in all ages hast taught the hearts of thy faithful people, by sending to them the light of thy Holy Spirit; grant us by the same Spirit to have a right judgment in all things, and evermore to rejoice in his holy comfort, through the merits of Jesus Christ our Saviour; who liveth and reigneth with thee, in the unity of the same Spirit, one God, world without end. Amen."
 
 ---
-[[WS 140 On Public Diversions|← 140. On Public Diversions]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]]
+[[WS 140 On Public Diversions|← 140. On Public Diversions]] · [[John Wesley/Sermons/index|Contents]]

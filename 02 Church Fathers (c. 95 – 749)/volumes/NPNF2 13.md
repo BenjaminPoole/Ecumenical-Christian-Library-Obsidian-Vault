@@ -10,7 +10,7 @@ tags:
 # NPNF2 13: Gregory the Great (Part II), Ephraim Syrus, Aphrahat
 
 *Nicene and Post-Nicene Fathers, Series II, Volume 13 — 166 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Ephraim the Syrian|Ephraim the Syrian]]
 

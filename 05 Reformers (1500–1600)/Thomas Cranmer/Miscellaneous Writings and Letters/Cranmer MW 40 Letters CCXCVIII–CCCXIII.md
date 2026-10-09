@@ -58,7 +58,7 @@ rn S. P. BzwEvorENTIA singularis qua virum tuum cum adhuc viveret, sum prosecutu
 
 [of the archbishop's letters. ] addressed. ]]
 
-[[? Viz. Conrad Hubert, Quinter Andernach, and [3 Vid. Letter CCLX XXV II. p. 424, n.2.]]
+? Viz. Conrad Hubert, Quinter Andernach, and [3 Vid. Letter CCLX XXV II. p. 424, n.2.
 
 pediting of your affairs that it should be certified and attested by some formal document, that the sum of a hundred marks which you received as a present from the king's majesty, when you left this country, belongs especially and exclusively to yourself, I have written a letter to the guardians of Bucer's children, whereby they may clearly ascertain what was the intention of our most serene king upon the matter in question. I send you a copy of the letter of the lords of the council to masfer John Hales, his majesty's treasurer, (who is now, I think, at Strasburgh,) or to his deputy in his absence, written in English, which clearly testifies that a hundred marks were presented to you by his majesty, and that too, after the death of your husband, inasmuch as that letter was written on the last day of March, and your husband departed this life at the end of February. May God, who is the fountain and father of all comfort, vouchsafe to comfort you, and preserve you with all your family! Farewell. Lambeth, April 20, 1552.
 
@@ -752,7 +752,7 @@ These things, as I suppose, were not fully opened in the parliament-house, when 
 
 Another cause I alleged, why I could not allow the authority of the pope, which is The third this, that by his authority he subverteth not only the laws of this realm, but also the could notallaws of God: so that whosoever be under his authority, he suffereth them not to be The pope's under Christ's religion purely, as Christ did command. And, for one example, I brought against forth, that whereas by God's laws all christian people be bounden diligently to learn co τον his word, that they may know how to believe and live accordingly, for that purpose - he ordained holy days, when they ought, leaving apart all other business, to give themselves wholly to know and serve God. Therefore God's will and commandment is, that when the people be gathered together, ministers should use such language as the people may understand and take profit thereby, or else hold their peace. For as
 
-[[^ The side-notes from Foxe are not found either [19 Being exempted. Coverdale and F oxe.]]
+^ The side-notes from Foxe are not found either [19 Being exempted. Coverdale and F oxe.
 
 [in Certain Letters to the queen, or in Coverdale.] [?? Both of these side-notes are omitted in Certain]
 
@@ -780,7 +780,7 @@ Let- great number of such learned men of both sorts were gathered together at Wi
 
 that St Paul in the fourteenth chapter to the Corinthians was so to be understanden. the And so is St Paul to be understanden in the civil law, more than a thousand years past, whe where Justinianus, a most godly emperor, in a synod writeth on this manner: Jubemus, ut omnes episcopi pariter et presbyteri non tacito modo, sed clara voce, que a fideli populo exaudiatur, sacram, oblationem. et preces in sacro. baptismate adhibitas celebrent, quo " majori exinde devotione in depromendis Domini Dei laudibus audientium animi efferan-
 
-[[} This sentence is omitted by Coverdale and Reformation (Park. Soc.) Letter CLII. and note 3.]]
+} This sentence is omitted by Coverdale and Reformation (Park. Soc.) Letter CLII. and note 3.
 
 [Foxe.] [2 When I was in office, all that were esteemed [? Singing and thanking of God. Foxe. ] learned in God’s word agreed this to be a truth in? Which they use not. Id.] God's word written, that the common prayer of the [ Thing, then all. Coverdale and Foxe.] church should be had in the common tongue. You [^ And of the people. Foxe.] know I have conferred with many, and 1 ensure you ($ Understood of all. Foxe.] I never found man, (so far as I do remember,) [7 These were the commissioners who drew up neither old nor new, gospeller nor papist, of what]
 
@@ -832,7 +832,7 @@ This that I have spoken against the power and authority of the pope, I have not 
 
 Nor I have not spoken it for fear of punishment, and to avoid the same, thinking it rather an occasion to aggravate than to diminish my trouble: but I have spoken it for my most bounden duty to the crown, liberties, laws, and customs of this realm of England; but most specially to discharge my conscience in uttering the truth to God's glory, casting away all fear by the comfort which I have in Christ, who saith: Fear not them — that kill the body, and cannot kill the soul; but fear him that can cast both body and Coverdale.]
 
-[[! Omitted in Certain Letters to the queen, and [^ Omitted in Coverdale.]]
+! Omitted in Certain Letters to the queen, and [^ Omitted in Coverdale.
 
 [Coverdale.] [^ Vid. Collection of Tenets from the Canon [^ Ego autem fidenter dico, quia quisquis se Law, 9. 4. 3. p. 70, supra.]]
 

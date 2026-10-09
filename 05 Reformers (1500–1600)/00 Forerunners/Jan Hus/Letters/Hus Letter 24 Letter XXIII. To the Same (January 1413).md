@@ -33,6 +33,6 @@ Sic, as in Vulgate, Numb. xvi. 1.
 by the excommunication they themselves pronounce. And seeing that there is a multitude of people excommunicated of God, therefore it is, dear friends, that we should flee His excommunication and entreat His grace, that it may please Him to keep us in His benediction. Any other excommunication cannot harm us one whit: but rather will the Bishop Who is above all bishops! grant us His benediction, saying: Come, ye blessed of my Father, receive the kingdom prepared for you from the foundation of the world? Which benediction, dear friends, let us pray for, seek, and await by living good lives, that we may withal abide for ever in infinite joy, through the mercy of our Lord Jesus Christ, who is God and man, blessed for ever? Amen.
 
 ---
-[[Hus Letter 23 Letter XXII. To the Same (December 25, 1412)|← 23. Letter XXII. To the Same (December 25]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 25 Letter XXIV. To the Same (January 1413)|25. Letter XXIV. To the Same (January 1413) →]]
+[[Hus Letter 23 Letter XXII. To the Same (December 25, 1412)|← 23. Letter XXII. To the Same (December 25]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 25 Letter XXIV. To the Same (January 1413)|25. Letter XXIV. To the Same (January 1413) →]]
 
 

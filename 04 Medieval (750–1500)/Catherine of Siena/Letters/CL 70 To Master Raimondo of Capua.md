@@ -26,4 +26,4 @@ The tongue does not suffice to narrate such mysteries, nor what intellect saw an
 Now I say: Thanks, thanks be to the Highest God Eternal, who has placed us in the battlefield as knights, to fight for His Bride with the shield of holiest faith. The field is left free to us by that virtue and power which routed the devil who possessed the human race; who was routed, not in the strength of humanity, but of Deity. Thus the devil neither is nor shall be routed by the suffering of our bodies, but by strength of the fire of divine, most ardent, and immeasurable love.
 
 ---
-[[CL 69 Letters Describing the Experience Preceding Death|← Letters Describing the Experience Preceding Death]] · [[Letters|Contents]] · [[CL 71 To Master Raimondo of Capua of the Order of the Preachers|To Master Raimondo of Capua of the Order of the Preachers →]]
+[[CL 69 Letters Describing the Experience Preceding Death|← Letters Describing the Experience Preceding Death]] · [[Catherine of Siena/Letters|Contents]] · [[CL 71 To Master Raimondo of Capua of the Order of the Preachers|To Master Raimondo of Capua of the Order of the Preachers →]]

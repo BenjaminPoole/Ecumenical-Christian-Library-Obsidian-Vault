@@ -44,4 +44,4 @@ I have heard that you are to promote the Master of our Order to another benefice
 Remain in the sweet and holy grace of God. I ask you humbly for your blessing. Pardon my presumption, that I presume to write to you. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 24 To Brother Raimondo of Capua of the Order of the Preachers|← To Brother Raimondo of Capua of the Order of the Preachers]] · [[Letters|Contents]] · [[CL 26 To Gregory XI|To Gregory XI →]]
+[[CL 24 To Brother Raimondo of Capua of the Order of the Preachers|← To Brother Raimondo of Capua of the Order of the Preachers]] · [[Catherine of Siena/Letters|Contents]] · [[CL 26 To Gregory XI|To Gregory XI →]]

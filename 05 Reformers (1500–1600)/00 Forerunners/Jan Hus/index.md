@@ -13,5 +13,5 @@ Czech priest and rector of Prague University who took up Wycliffe's teaching, pr
 
 ## Works
 
-- [[Library/protestant reformers/Jan Hus/Letters/letters-index|The Letters of John Hus]] — 88 notes
+- [[Jan Hus/Letters/index|The Letters of John Hus]] — 88 notes
 - [[Library/protestant reformers/Jan Hus/The Church (De Ecclesia)/de-ecclesia-index|The Church (De Ecclesia)]] — 25 notes

@@ -78,4 +78,4 @@ that a whole army of evils, totally new, totally unknown till then, broke in upo
 For although he left man in the hand of his own counsel, to choose good or evil, life or death; although he did not take away the liberty he had given him, but suffered him to choose death, in consequence of which the whole creation now groaneth together; yet, when we consider, all the evils introduced into the creation may work together for our good, yea, may "work out for us a far more exceeding and eternal weight of glory," we may well praise God for permitting these temporary evils, in order to our eternal good: Yea, we may well cry out, "O the depth both of the wisdom" and the goodness of God! "He hath done all things well." "Glory be unto God, and unto the Lamb, for ever and ever!"
 
 ---
-[[WS 055 On the Trinity|← 55. On the Trinity]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 057 On the Fall of Man|57. On the Fall of Man →]]
+[[WS 055 On the Trinity|← 55. On the Trinity]] · [[John Wesley/Sermons/index|Contents]] · [[WS 057 On the Fall of Man|57. On the Fall of Man →]]

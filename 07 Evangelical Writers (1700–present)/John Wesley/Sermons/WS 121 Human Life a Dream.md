@@ -86,4 +86,4 @@ Vanish then this world of shadows; Pass the former things away! Lord, appear! ap
 [August 1789]
 
 ---
-[[WS 120 On the Wedding Garment|← 120. On the Wedding Garment]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 122 On Faith|122. On Faith →]]
+[[WS 120 On the Wedding Garment|← 120. On the Wedding Garment]] · [[John Wesley/Sermons/index|Contents]] · [[WS 122 On Faith|122. On Faith →]]

@@ -58,4 +58,4 @@ However, I trust God that He will deliver you from these evils, so that you may 
 Beloved, knowing that the world is passing to its doom (death is at the door and we shall soon remove hence), make it your chief concern to live righteous and holy lives and renounce your sins. Next, give earnest heed to the things that are heavenly ; and, finally, love God with all your heart and put your trust in Him ; for He will honour you in His glory for the merits of Jesus Christ and will make you partakers of His kingdom. Amen.
 
 ---
-[[Hus Letter 85 Letter IV|← 85. Letter IV]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 87 Letter VI|87. Letter VI →]]
+[[Hus Letter 85 Letter IV|← 85. Letter IV]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 87 Letter VI|87. Letter VI →]]

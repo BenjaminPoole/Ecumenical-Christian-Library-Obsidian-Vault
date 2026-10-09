@@ -90,4 +90,4 @@ The things unknown to feeble sense, Unseen by reason's glimmering ray, With stro
 London, January 17, 1791
 
 ---
-[[WS 121 Human Life a Dream|← 121. Human Life a Dream]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 123 The Deceitfulness of the Human Heart|123. The Deceitfulness of the Human Heart →]]
+[[WS 121 Human Life a Dream|← 121. Human Life a Dream]] · [[John Wesley/Sermons/index|Contents]] · [[WS 123 The Deceitfulness of the Human Heart|123. The Deceitfulness of the Human Heart →]]

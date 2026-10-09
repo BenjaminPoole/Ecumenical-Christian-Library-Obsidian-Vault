@@ -21,4 +21,4 @@ tags:
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 6 SECTION II. THE DISCIPLES OF THIS WORD|← 6. SECTION II. THE DISCIPLES OF THIS WORD]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 8 Christ Our Great High Priest|8. Christ Our Great High Priest →]]
+[[Luther Sermon 6 SECTION II. THE DISCIPLES OF THIS WORD|← 6. SECTION II. THE DISCIPLES OF THIS WORD]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 8 Christ Our Great High Priest|8. Christ Our Great High Priest →]]

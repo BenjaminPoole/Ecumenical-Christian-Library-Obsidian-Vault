@@ -29,7 +29,7 @@ I beseech you, I say, to pray God for me that it may please Him to be with me. F
 Let me inform you that my enemies have given an utterly false translation in Latin of those letters which I had left for you on starting on my journey.! They are writing so many articles against me that my time in prison is fully occupied in replying to them. I have no counsellor by me but the merciful Lord Jesus, Who said to His faithful friends: I will give you a mouth amd wisdom, which all your adversaries shall mot be able to resist? Oh, dear friends, remember that I laboured with you in all zeal, and ever long for your salvation, even now when I am in prison and in the midst of great trial. Sent off at Constance on Saturday, the vigil of St. Fabian.
 
 ---
-[[Hus Letter 40 Letter XXXIX. To the Faithful Bohemians (November 16|← 40. Letter XXXIX. To the Faithful Bohemians]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 42 Letter XL. T. to John of Chlum|42. Letter XL. T. to John of Chlum →]]
+[[Hus Letter 40 Letter XXXIX. To the Faithful Bohemians (November 16|← 40. Letter XXXIX. To the Faithful Bohemians]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 42 Letter XL. T. to John of Chlum|42. Letter XL. T. to John of Chlum →]]
 
 
 

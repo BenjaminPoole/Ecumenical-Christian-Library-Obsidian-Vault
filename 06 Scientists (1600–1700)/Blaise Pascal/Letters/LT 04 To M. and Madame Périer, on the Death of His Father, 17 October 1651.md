@@ -91,4 +91,4 @@ St. Augustine teaches us that there is in every man a serpent, an Eve and an Ada
 
 
 ---
-[[LT 03 With Jacqueline, to Madame Périer, 5 November 1648|← With Jacqueline, to Madame Périer, 5 November 1648]] · [[Letters|Contents]] · [[LT 05 To M. Périer, on His Sister's Profession, 6 June 1653|To M. Périer, on His Sister's Profession, 6 June 1653 →]]
+[[LT 03 With Jacqueline, to Madame Périer, 5 November 1648|← With Jacqueline, to Madame Périer, 5 November 1648]] · [[Blaise Pascal/Letters|Contents]] · [[LT 05 To M. Périer, on His Sister's Profession, 6 June 1653|To M. Périer, on His Sister's Profession, 6 June 1653 →]]

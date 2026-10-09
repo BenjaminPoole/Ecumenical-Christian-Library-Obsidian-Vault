@@ -35,6 +35,6 @@ As you commemorate these things, dear friends, rejoice that to-day God is born a
 Son is given to us, all-wise and gracious, that there may be glory to God in the highest, etc. Oh, dear friends, ought there to be but a moderate rejoicing over these things? Nay, a mighty joy! Indeed, the angel saith: I bring you good tidings of great joy, for that there is born a Redeemer from all misery, a Saviour of sinners, a Governor of His faithful ones; there is born a Comforter of the sorrowful, and there is given to us the Son of God that we may have great joy, and that there may be glory to God in the highest and on earth peace to men of goodwill. May it please God, born this day, to grant to us this goodwill, this peace, and withal this joy!
 
 ---
-[[Hus Letter 22 Letter XXI. To the People of Prague (December 1412)|← 22. Letter XXI. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 24 Letter XXIII. To the Same (January 1413)|24. Letter XXIII. To the Same (January 1413) →]]
+[[Hus Letter 22 Letter XXI. To the People of Prague (December 1412)|← 22. Letter XXI. To the People of Prague]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 24 Letter XXIII. To the Same (January 1413)|24. Letter XXIII. To the Same (January 1413) →]]
 
 

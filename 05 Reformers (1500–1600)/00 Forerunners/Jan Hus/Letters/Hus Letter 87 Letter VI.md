@@ -164,4 +164,4 @@ I write what has occurred to my mind. If I think of anything further I will writ
 In the year of our Lord 1412 (sic) on the Lord's day the feast of Prisca.
 
 ---
-[[Hus Letter 86 Letter V|← 86. Letter V]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 88 Letter VI|88. Letter VI →]]
+[[Hus Letter 86 Letter V|← 86. Letter V]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 88 Letter VI|88. Letter VI →]]

@@ -120,4 +120,4 @@ And it is equally certain, on the other hand, that he who is not happy is not a 
 10\. Are you already happy in him Then see that you "hold fast whereunto ye have attained!" "Watch and pray," that you may never be "moved from your steadfastness." "Look unto yourselves, that ye lose not what you have gained, but that ye receive a full reward." In so doing, expect a continual growth in grace, in the loving knowledge of our Lord Jesus Christ. Expect that the power of the Highest shall suddenly overshadow you, that all sin may be destroyed, and nothing may remain in your heart, but holiness unto the Lord. And this moment, and every moment, "present yourselves a living sacrifice, holy, acceptable to God," and "glorify him with your body and with your spirit which are God's!"
 
 ---
-[[WS 076 On Perfection|← 76. On Perfection]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 078 Spiritual Idolatry|78. Spiritual Idolatry →]]
+[[WS 076 On Perfection|← 76. On Perfection]] · [[John Wesley/Sermons/index|Contents]] · [[WS 078 Spiritual Idolatry|78. Spiritual Idolatry →]]

@@ -7,7 +7,7 @@ tags:
 
 # Gregory Thaumaturgus
 
-14 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+14 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[A Declaration of Faith|A Declaration of Faith]] — [[ANF 06|ANF 6]]
 - [[A Fragment from On the Trinity|A Fragment from On the Trinity]] — [[ANF 06|ANF 6]]

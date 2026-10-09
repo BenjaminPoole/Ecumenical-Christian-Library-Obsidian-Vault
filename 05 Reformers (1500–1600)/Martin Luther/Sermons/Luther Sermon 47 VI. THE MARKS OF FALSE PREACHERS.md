@@ -23,4 +23,4 @@ tags:
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 46 V. PREACHERS ARE TO FORCE NO ONE TO BELIEVE|← 46. V. PREACHERS ARE TO FORCE NO ONE TO]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]]
+[[Luther Sermon 46 V. PREACHERS ARE TO FORCE NO ONE TO BELIEVE|← 46. V. PREACHERS ARE TO FORCE NO ONE TO]] · [[Martin Luther/Sermons/index|Contents]]

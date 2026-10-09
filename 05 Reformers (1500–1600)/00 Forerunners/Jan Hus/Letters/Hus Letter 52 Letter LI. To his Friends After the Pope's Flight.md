@@ -43,6 +43,6 @@ I notieed Baron Wenzel de Duba in tears while he was speaking to me. Lord Mysska
 [the Polish and Czech nobles of May 13 (see infra, pp. 204 and 232).]
 
 ---
-[[Hus Letter 51 Letter L. To his Friends|← 51. Letter L. To his Friends]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 53 Letter LII. To the Same (March 24, 1415)|53. Letter LII. To the Same (March 24, 1415) →]]
+[[Hus Letter 51 Letter L. To his Friends|← 51. Letter L. To his Friends]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 53 Letter LII. To the Same (March 24, 1415)|53. Letter LII. To the Same (March 24, 1415) →]]
 
 

@@ -43,4 +43,4 @@ I take part in the joy that the affair of the . . .[^4] will afford you, for I s
 
 
 ---
-[[LT 07 To M. Périer, a Fragment, 1661|← To M. Périer, a Fragment, 1661]] · [[Letters|Contents]] · [[LT 09 To Mademoiselle de Roannez, II|To Mademoiselle de Roannez, II →]]
+[[LT 07 To M. Périer, a Fragment, 1661|← To M. Périer, a Fragment, 1661]] · [[Blaise Pascal/Letters|Contents]] · [[LT 09 To Mademoiselle de Roannez, II|To Mademoiselle de Roannez, II →]]

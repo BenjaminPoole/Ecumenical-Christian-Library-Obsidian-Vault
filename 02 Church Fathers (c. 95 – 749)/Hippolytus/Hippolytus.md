@@ -7,7 +7,7 @@ tags:
 
 # Hippolytus
 
-8 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+8 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Against Noetus|Against Noetus]] — [[ANF 05|ANF 5]]
 - [[Against Plato, On the Cause of the Universe|Against Plato, On the Cause of the Universe]] — [[ANF 05|ANF 5]]

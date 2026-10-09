@@ -26,4 +26,4 @@ We have spoken of one thing, but now I tell thee of the other, which I beg that 
 This we shall do if we nourish us at the table of holy desire: otherwise we cannot. For from desire we have light, and light gives us desire; so one nourishes the other. Therefore I said that I desired to see thee in the true light. I say no more. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 11 To Brother William of England of the Hermit Brothers of St. Augustine|← To Brother William of England of the Hermit Brothers of St. Augustine]] · [[Letters|Contents]] · [[CL 13 To Monna Agnese Wife of Francesco, a Tailor of Florence|To Monna Agnese Wife of Francesco, a Tailor of Florence →]]
+[[CL 11 To Brother William of England of the Hermit Brothers of St. Augustine|← To Brother William of England of the Hermit Brothers of St. Augustine]] · [[Catherine of Siena/Letters|Contents]] · [[CL 13 To Monna Agnese Wife of Francesco, a Tailor of Florence|To Monna Agnese Wife of Francesco, a Tailor of Florence →]]

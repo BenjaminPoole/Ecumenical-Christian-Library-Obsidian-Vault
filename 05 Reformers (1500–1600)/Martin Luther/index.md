@@ -17,7 +17,7 @@ Augustinian friar and professor at Wittenberg whose Ninety-five Theses of 1517 b
 - [[Library/protestant reformers/Martin Luther/Commentary on Genesis/luther-genesis-index|Commentary on Genesis (Chapters 1-9)]] — 32 notes
 - [[Library/protestant reformers/Martin Luther/Epistle Sermons Trinity to Advent/epistle-sermons-index|Epistle Sermons, Vol. 3: Trinity Sunday to Advent]] — 28 notes
 - [[Library/protestant reformers/Martin Luther/First Principles of the Reformation/first-principles-index|First Principles of the Reformation]] — 27 notes
-- [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Sermons of Martin Luther]] — 47 notes
+- [[Martin Luther/Sermons/index|Sermons of Martin Luther]] — 47 notes
 - [[Library/protestant reformers/Martin Luther/Table Talk/tabletalk-index|Table Talk]] — 49 notes
 - [[Library/protestant reformers/Martin Luther/The Bondage of the Will/bondage-index|The Bondage of the Will]] — 174 notes
 - [[Library/protestant reformers/Martin Luther/The Epistles of St Peter and St Jude/peter-jude-index|The Epistles of St Peter and St Jude Preached and Explained]] — 12 notes

@@ -21,7 +21,7 @@ But among all other, as soon as the pope was taken? the cardinal wrote unto the 
 
 [6 Day had omitted all the previous part of this chapter; and begins this paragraph as follows; But at that time the pope, taking part with the French king, had war with the emperor; and at the last the pope was taken, &c.' The text of Day then proceeds in agreement with that of the first, or Marburg edition, to the close of the next - paragraph, with which Day finishes the chapter.] ol
 
-[[ TYNDALE, 11.]]
+TYNDALE, 11.
 
 emperor!, and imagined this? divorcement between the king and the queen, and wrote sharply unto the emperor with menacing letters, that if he would not make him pope, he would make such ruffling between christian princes as was not this hundred year, to make the emperor repent: yea, though it should cost the whole realm of England.
 
@@ -145,7 +145,7 @@ When this reformation, the colour and cloak of their hypocrisy, was made, then t
 
 [4 See Life of Tyndale, p. xxxviii.] 2
 
-[[TYNDALE, IL]]
+TYNDALE, IL
 
 as the bishopricks be nothing save worldly pomp and honour, ana Superfluous abundance of all manner riches, and liberty to do what a man listeth unpunished; things which only the evil desire, and all good men abhor.
 

@@ -136,7 +136,7 @@ Your grace's most humble chaplain and bedesman, T. CANTUARIEN.
 
 To the king's highness.
 
-[[! This letter has not appeared in any previous of the archbishop’s letter to Osiander, p. 408, supra.]]
+! This letter has not appeared in any previous of the archbishop’s letter to Osiander, p. 408, supra.
 
 [collection. It was not discovered in sufficient time [? The exchange was made, A.p. 1541. Vid.]
 

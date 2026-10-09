@@ -10,7 +10,7 @@ tags:
 # NPNF2 7: Cyril of Jerusalem, Gregory Nazianzen
 
 *Nicene and Post-Nicene Fathers, Series II, Volume 7 — 51 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Gregory Nazianzen|Gregory Nazianzen]]
 

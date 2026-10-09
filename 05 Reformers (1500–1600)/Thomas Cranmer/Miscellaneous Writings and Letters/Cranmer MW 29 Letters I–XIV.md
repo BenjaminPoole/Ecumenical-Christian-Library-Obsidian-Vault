@@ -24,7 +24,7 @@ As concerning the king his cause, master Raynolde Poole hath written a book? muc
 
 First, he sheweth the cause wherefore he had never pleasure to intromit himself in this cause, and that was the trouble which was like to ensue to this realm thereof by diversity of titles; whereof what hurt might come, we have had example in our fathers’ days by the titles of Lancaster and York. And whereas God hath given many noble gifts unto the king his grace, as well of body and mind, as also of fortune; yet this exceedeth all other, that in him all titles do meet and come together, and this realm is restored to tranquillity and peace: so oweth he to provide, that this land fall not again to the foresaid misery and trouble; which may come as well by the people within this realm, (which think surely that they have an heir lawful already, with whom they all be well content, and would be sorry to have any other, and it would be hard to persuade them to take any other, leaving her,) as also by the emperor, which is a man of so great power, the queen being his aunt, the princess his niece, whom he so much doth and ever hath favoured.
 
-[[? The Letters of Abp. Cranmer have been col- mains of Abp. Cranmer, Vol. I. p. L.]]
+? The Letters of Abp. Cranmer have been col- mains of Abp. Cranmer, Vol. I. p. L.
 
 [lated with and corrected by the original MSS., as [^ The book which Pole some years afterwards]
 
@@ -252,7 +252,7 @@ As concerning the duke Frederick? the French ambassador advised me not to speak 
 
 [Modon. Knolles' Hist. of the Turks, pp. 626, 7.] Lib. 111. sect. 7. xvi. p. 414, Add.; Strype's Mem.]
 
-[[? This duke Frederick was probably John of Abp.Cranmer, Vol. I. pp.18, 19. Ed. Oxon, 1840. ]]
+? This duke Frederick was probably John of Abp.Cranmer, Vol. I. pp.18, 19. Ed. Oxon, 1840.
 
 [Frederick, duke of Saxony, who had lately suc- [? The signature is destroyed by fire.]]
 

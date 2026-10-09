@@ -119,7 +119,7 @@ glad for ever and without end; to that God,
 
 ## I say, through Jesus Christ, for whose sake we are made partakers of so great a benefit, be glory, praise, and thanksgiving for evermore. Amen
 
-[[ in vita, Lat. omitted; in their lifetime.]]
+in vita, Lat. omitted; in their lifetime.
 
 ## a a
 

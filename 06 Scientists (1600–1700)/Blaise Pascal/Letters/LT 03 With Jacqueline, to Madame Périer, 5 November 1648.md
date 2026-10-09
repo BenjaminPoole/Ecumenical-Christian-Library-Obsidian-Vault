@@ -45,4 +45,4 @@ If you know any pious soul, let him pray to God for me also.[^2]
 
 
 ---
-[[LT 02 With Jacqueline, to Their Sister Madame Périer, 1 April 1648|← With Jacqueline, to Their Sister Madame Périer, 1 April 1648]] · [[Letters|Contents]] · [[LT 04 To M. and Madame Périer, on the Death of His Father, 17 October 1651|To M. and Madame Périer, on the Death of His Father, 17 October 1651 →]]
+[[LT 02 With Jacqueline, to Their Sister Madame Périer, 1 April 1648|← With Jacqueline, to Their Sister Madame Périer, 1 April 1648]] · [[Blaise Pascal/Letters|Contents]] · [[LT 04 To M. and Madame Périer, on the Death of His Father, 17 October 1651|To M. and Madame Périer, on the Death of His Father, 17 October 1651 →]]

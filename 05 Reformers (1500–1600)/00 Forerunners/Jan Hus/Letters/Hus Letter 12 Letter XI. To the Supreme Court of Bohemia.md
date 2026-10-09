@@ -37,5 +37,5 @@ heirs of the kingdom of Bohemia, strive to put an: end to such calamities and to
 absolutely guiltless, men who would go through fire to face any one desirous of convicting me of heresy. However, I did not start on the journey, because plots were everywhere being laid against my life, so as to prevent my return to Bohemia. I trust, therefore, that your graces, along with their Majesties the King and Queen, will carry out the instructions which it shall please Almighty God to give you for the welfare of your kingdom. May He strengthen you in His grace! Amen.
 
 ---
-[[Hus Letter 11 Letter X. To the College of Cardinals (September 1411)|← 11. Letter X. To the College of Cardinals]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 13 Letter XII. To the People of Pilsen (March 1412)|13. Letter XII. To the People of Pilsen →]]
+[[Hus Letter 11 Letter X. To the College of Cardinals (September 1411)|← 11. Letter X. To the College of Cardinals]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 13 Letter XII. To the People of Pilsen (March 1412)|13. Letter XII. To the People of Pilsen →]]
 

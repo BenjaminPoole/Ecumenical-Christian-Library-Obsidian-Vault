@@ -74,4 +74,4 @@ II. 1. This is the way: walk ye in it. And, First, "repent;" that is, know yours
 "Now cast thyself on the Lamb of God, with all thy sins, how many soever they be; and "an entrance shall" now "be ministered unto thee, into the kingdom of our Lord and Saviour Jesus Christ!"
 
 ---
-[[WS 006 The Righteousness of Faith|← 6. The Righteousness of Faith]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 008 The First Fruits of the Spirit|8. The First Fruits of the Spirit →]]
+[[WS 006 The Righteousness of Faith|← 6. The Righteousness of Faith]] · [[John Wesley/Sermons/index|Contents]] · [[WS 008 The First Fruits of the Spirit|8. The First Fruits of the Spirit →]]

@@ -36,4 +36,4 @@ I wish you and the other ignorant sons to reach this light, for I see that this 
 Therefore, considering that this condition cannot be had without light, and seeing that you had it not, I said that I desired and desire to see you in true and perfect light. Thus I pray you, by the love of Christ crucified—you and Brother Antonio and all the others—that you struggle to win it, so that you may be numbered among the perfect and not among the imperfect. I say no more. Remain in the holy and sweet grace of God. I commend me to all of you. Bathe you in the Blood of Christ crucified. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 10 Letters on the Consecrated Life|← Letters on the Consecrated Life]] · [[Letters|Contents]] · [[CL 12 To Daniella of Orvieto Clothed with the Habit of St. Dominic|To Daniella of Orvieto Clothed with the Habit of St. Dominic →]]
+[[CL 10 Letters on the Consecrated Life|← Letters on the Consecrated Life]] · [[Catherine of Siena/Letters|Contents]] · [[CL 12 To Daniella of Orvieto Clothed with the Habit of St. Dominic|To Daniella of Orvieto Clothed with the Habit of St. Dominic →]]

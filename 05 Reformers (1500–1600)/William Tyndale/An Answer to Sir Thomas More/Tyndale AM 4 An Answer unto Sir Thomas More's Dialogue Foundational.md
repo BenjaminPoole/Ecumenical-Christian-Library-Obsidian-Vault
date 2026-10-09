@@ -121,7 +121,7 @@ Wherefore of all right man is lord over them, and the honour of them is to do ma
 
 Wherefore the right use, office, and honour of all creatures, inferiors unto man, is to do man service; whether they be images, relies, ornaments, signs, or sacraments, holy days," ceremonies or sacrifices. And that may be on this manner, and no doubt it so once was. If (for an example) I take a piece of the cross of Christ, and make a little cross thereof, and bear it about me, to look thereon with a repenting heart at times when I am moved thereto, to put me in remembrance that the body of Christ was broken, and his blood shed thereon, for my sins; and believe stedfastly that the merciful truth of God shall forgive the sins of all that repent, for his death's sake, and never think on them more: then it serveth me, and I not it; and doth me the same service as if I read the testa-
 
-[[? The C. U. L. ed. has given.]]
+? The C. U. L. ed. has given.
 
 ment in a book, or as if the preacher preached it unto me. And in like manner, if I make a cross in my forehead, in a remembrance that God hath promised assistance unto all that believe in him, for his sake that died on the cross, then doth the cross serve me, and I not it. And in like manner, if I bear on me or look upon a cross, of whatsoever matter it be, or make a cross upon me, in remembrance that whosoever will be Christ’s disciple must suffer a cross of adversity, tribulations, and persecution, so doth the cross serve me, and I not it. And this was the use of the cross once; and for this cause it was, at the beginning, set up in the churches.
 
@@ -177,7 +177,7 @@ And the paschal lamb was a memorial of their deliverance out of Egypt only, and 
 
 And in like manner, the ornaments, and all other ceremonies, were either an open preaching, or secret prophecies, and not satisfactions or justifyings. And thus the works did serve them and preach unto them, and they not the works, nor put any confidence therein.
 
-[[TYNDALE, ri.]]
+TYNDALE, ri.
 
 **False worshipping.** But what did the children of Israel and the Jews? They let the significations of their ceremonies go, and lost the meaning of them; and turned them unto the works, to serve them, saying that they were holy works commanded of Godand the offerers were thereby justified, and obtained for- giveness of sins, and thereby became good, (as the parable of the Pharisee and publican declareth (Luke xviii.) and as it is to see in Paul, and throughout all the bible;) and became captive to serve and put their trust in that which was neither God nor his word. And so the better creature, against nature, did serve the worse: where of all likelihood God should have accepted their work by the reason of them, if their hearts had been right; and not have accepted their souls for the blood's sake of a calf or sheep, forasmuch as a man is — much better than a calf or sheep, as Christ testifieth (Matt. xii.). For what pleasure should God have in the blood of calves, or in the light of our candles? His pleasure is only in the hearts of them that love his commandments.
 

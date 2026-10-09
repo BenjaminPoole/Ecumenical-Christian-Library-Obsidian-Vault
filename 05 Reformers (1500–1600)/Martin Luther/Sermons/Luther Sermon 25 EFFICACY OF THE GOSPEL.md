@@ -49,4 +49,4 @@ The Christian must not utter such a question. The sentence against his life and 
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 24 TERRORS OF THE LAW|← 24. TERRORS OF THE LAW]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 26 Enemies of the Cross of Christ|26. Enemies of the Cross of Christ →]]
+[[Luther Sermon 24 TERRORS OF THE LAW|← 24. TERRORS OF THE LAW]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 26 Enemies of the Cross of Christ|26. Enemies of the Cross of Christ →]]

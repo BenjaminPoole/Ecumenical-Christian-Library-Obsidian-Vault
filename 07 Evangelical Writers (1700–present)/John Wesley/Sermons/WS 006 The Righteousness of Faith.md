@@ -92,4 +92,4 @@ Above all, how long wilt thou forget, that whatsoever thou doest, or whatsoever 
 6\. To conclude. Whosoever thou art, O man, who hast the sentence of death in thyself, who feelest thyself a condemned sinner, and hast the wrath of God abiding on thee: Unto thee saith the Lord, not, "Do this," -- perfectly obey all my commands, -- "and live;" but, "Believe in the Lord Jesus Christ, and thou shalt be saved." "The word of faith is nigh unto thee:" Now, at this instant, in the present moment, and in thy present state, sinner as thou art, just as thou art, believe the gospel; and "I will be merciful unto thy unrighteousness, and thy iniquities will I remember no more."
 
 ---
-[[WS 005 Justification by Faith|← 5. Justification by Faith]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 007 The Way to the Kingdom|7. The Way to the Kingdom →]]
+[[WS 005 Justification by Faith|← 5. Justification by Faith]] · [[John Wesley/Sermons/index|Contents]] · [[WS 007 The Way to the Kingdom|7. The Way to the Kingdom →]]

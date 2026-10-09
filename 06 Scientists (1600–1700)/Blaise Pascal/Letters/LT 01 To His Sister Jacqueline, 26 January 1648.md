@@ -31,4 +31,4 @@ But I entreat you before all things to draw no conclusions from what I write, fo
 
 
 ---
-[[Letters|Contents]] · [[LT 02 With Jacqueline, to Their Sister Madame Périer, 1 April 1648|With Jacqueline, to Their Sister Madame Périer, 1 April 1648 →]]
+[[Blaise Pascal/Letters|Contents]] · [[LT 02 With Jacqueline, to Their Sister Madame Périer, 1 April 1648|With Jacqueline, to Their Sister Madame Périer, 1 April 1648 →]]

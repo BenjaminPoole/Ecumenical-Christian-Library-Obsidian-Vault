@@ -98,4 +98,4 @@ V. 1. What indeed could God have done more for this his vineyard, which he hath 
 7\. If you are a member of the society, do you make a full use of your privilege Do you never fail to meet your class; and that not as matter of form, but expecting that when you are met together in his name, your Lord will be in the midst of you Are you truly thankful for the amazing liberty of conscience which is vouchsafed to you and your brethren; such as never was enjoyed before by persons in your circumstances And are you thankful to the Giver of every good gift for the general spread of true religion Surely, you can never praise God enough for all these blessings, so plentifully showered down upon you, till you praise him with angels and archangels, and all the company of heaven!
 
 ---
-[[WS 106 On Faith|← 106. On Faith]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 108 On Riches|108. On Riches →]]
+[[WS 106 On Faith|← 106. On Faith]] · [[John Wesley/Sermons/index|Contents]] · [[WS 108 On Riches|108. On Riches →]]

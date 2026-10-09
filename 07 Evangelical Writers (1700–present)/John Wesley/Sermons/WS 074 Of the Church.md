@@ -92,4 +92,4 @@ It should always be remembered that the word walk, in the language of the Apostl
 30\. In the mean time, let all those who are real members of the Church, see that they walk holy and unblamable in all things. "Ye are the light of the world!" Ye are "a city set upon a hill," and "cannot be hid." O "let your light shine before men!" Show them your faith by your works. Let them see, by the whole tenor of your conversation, that your hope is all laid up above! Let all your words and actions evidence the spirit whereby you are animated! Above all things, let your love abound. Let it extend to every child of man: Let it overflow to every child of God. By this let all men know whose disciples ye are, because you "love one another."
 
 ---
-[[WS 073 Of Hell|← 73. Of Hell]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 075 On Schism|75. On Schism →]]
+[[WS 073 Of Hell|← 73. Of Hell]] · [[John Wesley/Sermons/index|Contents]] · [[WS 075 On Schism|75. On Schism →]]

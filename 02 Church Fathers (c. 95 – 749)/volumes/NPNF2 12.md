@@ -10,7 +10,7 @@ tags:
 # NPNF2 12: Leo the Great, Gregory the Great (Part I)
 
 *Nicene and Post-Nicene Fathers, Series II, Volume 12 — 397 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Gregory the Great|Gregory the Great]]
 
@@ -294,77 +294,77 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Leo the Great|Leo the Great]]
 
-- [[Library/Church Fathers/Leo_the_Great/Letter 1|Letter 1]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 4|Letter 4]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 6|Letter 6]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 7|Letter 7]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 9|Letter 9]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 10|Letter 10]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 12|Letter 12]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 14|Letter 14]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 15|Letter 15]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 16|Letter 16]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 17|Letter 17]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 18|Letter 18]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 19|Letter 19]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 20|Letter 20]] — 440–461
+- [[Leo the Great/Letter 1|Letter 1]] — 440–461
+- [[Leo the Great/Letter 4|Letter 4]] — 440–461
+- [[Leo the Great/Letter 6|Letter 6]] — 440–461
+- [[Leo the Great/Letter 7|Letter 7]] — 440–461
+- [[Leo the Great/Letter 9|Letter 9]] — 440–461
+- [[Leo the Great/Letter 10|Letter 10]] — 440–461
+- [[Leo the Great/Letter 12|Letter 12]] — 440–461
+- [[Leo the Great/Letter 14|Letter 14]] — 440–461
+- [[Leo the Great/Letter 15|Letter 15]] — 440–461
+- [[Leo the Great/Letter 16|Letter 16]] — 440–461
+- [[Leo the Great/Letter 17|Letter 17]] — 440–461
+- [[Leo the Great/Letter 18|Letter 18]] — 440–461
+- [[Leo the Great/Letter 19|Letter 19]] — 440–461
+- [[Leo the Great/Letter 20|Letter 20]] — 440–461
 - [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 21|Letter 21]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 23|Letter 23]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 24|Letter 24]] — 440–461
+- [[Leo the Great/Letter 23|Letter 23]] — 440–461
+- [[Leo the Great/Letter 24|Letter 24]] — 440–461
 - [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 26|Letter 26]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 27|Letter 27]] — 440–461
+- [[Leo the Great/Letter 27|Letter 27]] — 440–461
 - [[Letter 28 - The Tome|Letter 28 - The Tome]] — 449
-- [[Library/Church Fathers/Leo_the_Great/Letter 29|Letter 29]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 31|Letter 31]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 32|Letter 32]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 33|Letter 33]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 34|Letter 34]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 35|Letter 35]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 37|Letter 37]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 38|Letter 38]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 39|Letter 39]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 40|Letter 40]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 42|Letter 42]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 43|Letter 43]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 44|Letter 44]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 45|Letter 45]] — 440–461
+- [[Leo the Great/Letter 29|Letter 29]] — 440–461
+- [[Leo the Great/Letter 31|Letter 31]] — 440–461
+- [[Leo the Great/Letter 32|Letter 32]] — 440–461
+- [[Leo the Great/Letter 33|Letter 33]] — 440–461
+- [[Leo the Great/Letter 34|Letter 34]] — 440–461
+- [[Leo the Great/Letter 35|Letter 35]] — 440–461
+- [[Leo the Great/Letter 37|Letter 37]] — 440–461
+- [[Leo the Great/Letter 38|Letter 38]] — 440–461
+- [[Leo the Great/Letter 39|Letter 39]] — 440–461
+- [[Leo the Great/Letter 40|Letter 40]] — 440–461
+- [[Leo the Great/Letter 42|Letter 42]] — 440–461
+- [[Leo the Great/Letter 43|Letter 43]] — 440–461
+- [[Leo the Great/Letter 44|Letter 44]] — 440–461
+- [[Leo the Great/Letter 45|Letter 45]] — 440–461
 - [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 52|Letter 52]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 56|Letter 56]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 59|Letter 59]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 66|Letter 66]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 67|Letter 67]] — 440–461
+- [[Leo the Great/Letter 56|Letter 56]] — 440–461
+- [[Leo the Great/Letter 59|Letter 59]] — 440–461
+- [[Leo the Great/Letter 66|Letter 66]] — 440–461
+- [[Leo the Great/Letter 67|Letter 67]] — 440–461
 - [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 68|Letter 68]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 69|Letter 69]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 79|Letter 79]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 80|Letter 80]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 82|Letter 82]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 85|Letter 85]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 88|Letter 88]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 93|Letter 93]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 95|Letter 95]] — 440–461
+- [[Leo the Great/Letter 69|Letter 69]] — 440–461
+- [[Leo the Great/Letter 79|Letter 79]] — 440–461
+- [[Leo the Great/Letter 80|Letter 80]] — 440–461
+- [[Leo the Great/Letter 82|Letter 82]] — 440–461
+- [[Leo the Great/Letter 85|Letter 85]] — 440–461
+- [[Leo the Great/Letter 88|Letter 88]] — 440–461
+- [[Leo the Great/Letter 93|Letter 93]] — 440–461
+- [[Leo the Great/Letter 95|Letter 95]] — 440–461
 - [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 98|Letter 98]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 104|Letter 104]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 105|Letter 105]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 106|Letter 106]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 108|Letter 108]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 109|Letter 109]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 113|Letter 113]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 117|Letter 117]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 119|Letter 119]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 120|Letter 120]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 123|Letter 123]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 124|Letter 124]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 129|Letter 129]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 139|Letter 139]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 156|Letter 156]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 158|Letter 158]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 159|Letter 159]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 162|Letter 162]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 164|Letter 164]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 166|Letter 166]] — 440–461
+- [[Leo the Great/Letter 104|Letter 104]] — 440–461
+- [[Leo the Great/Letter 105|Letter 105]] — 440–461
+- [[Leo the Great/Letter 106|Letter 106]] — 440–461
+- [[Leo the Great/Letter 108|Letter 108]] — 440–461
+- [[Leo the Great/Letter 109|Letter 109]] — 440–461
+- [[Leo the Great/Letter 113|Letter 113]] — 440–461
+- [[Leo the Great/Letter 117|Letter 117]] — 440–461
+- [[Leo the Great/Letter 119|Letter 119]] — 440–461
+- [[Leo the Great/Letter 120|Letter 120]] — 440–461
+- [[Leo the Great/Letter 123|Letter 123]] — 440–461
+- [[Leo the Great/Letter 124|Letter 124]] — 440–461
+- [[Leo the Great/Letter 129|Letter 129]] — 440–461
+- [[Leo the Great/Letter 139|Letter 139]] — 440–461
+- [[Leo the Great/Letter 156|Letter 156]] — 440–461
+- [[Leo the Great/Letter 158|Letter 158]] — 440–461
+- [[Leo the Great/Letter 159|Letter 159]] — 440–461
+- [[Leo the Great/Letter 162|Letter 162]] — 440–461
+- [[Leo the Great/Letter 164|Letter 164]] — 440–461
+- [[Leo the Great/Letter 166|Letter 166]] — 440–461
 - [[02 Church Fathers (c. 95 – 749)/Leo the Great/Letter 167|Letter 167]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 169|Letter 169]] — 440–461
-- [[Library/Church Fathers/Leo_the_Great/Letter 171|Letter 171]] — 440–461
+- [[Leo the Great/Letter 169|Letter 169]] — 440–461
+- [[Leo the Great/Letter 171|Letter 171]] — 440–461
 - [[Sermon 1|Sermon 1]] — 440–461
 - [[Sermon 2|Sermon 2]] — 440–461
 - [[Sermon 3|Sermon 3]] — 440–461

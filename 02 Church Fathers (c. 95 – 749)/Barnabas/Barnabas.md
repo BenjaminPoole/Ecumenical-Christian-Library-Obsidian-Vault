@@ -7,6 +7,6 @@ tags:
 
 # Barnabas
 
-1 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+1 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Epistle of Barnabas|Epistle of Barnabas]] — [[ANF 01|ANF 1]]

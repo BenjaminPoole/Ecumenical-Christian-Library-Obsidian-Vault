@@ -62,4 +62,4 @@ Furthermore, most beloved and reverend father, my enemies hurl insults at me as 
 DEATH OF ARCHBISHOP ZBINEK 23 to suffer, because the Saviour saith : Rejoice and be glad, because great is your reward i/n heaven ; J and this reward may it please our Lord Jesus Christ to grant to your grace. Amen.
 
 ---
-[[Hus Letter 83 Letter II|← 83. Letter II]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 85 Letter IV|85. Letter IV →]]
+[[Hus Letter 83 Letter II|← 83. Letter II]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 85 Letter IV|85. Letter IV →]]

@@ -88,4 +88,4 @@ But setting aside this short age of golden days, I must repeat the question, Whi
 [June 27, 1787]
 
 ---
-[[WS 101 The Duty of Constant Communion|← 101. The Duty of Constant Communion]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 103 What Is Man|103. What Is Man? →]]
+[[WS 101 The Duty of Constant Communion|← 101. The Duty of Constant Communion]] · [[John Wesley/Sermons/index|Contents]] · [[WS 103 What Is Man|103. What Is Man? →]]

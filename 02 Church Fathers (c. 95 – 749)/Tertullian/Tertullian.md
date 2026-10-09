@@ -7,7 +7,7 @@ tags:
 
 # Tertullian
 
-38 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+38 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[A Treatise on the Soul|A Treatise on the Soul]] — [[ANF 03|ANF 3]]
 - [[Ad Nationes, Book I|Ad Nationes, Book I]] — [[ANF 03|ANF 3]]
@@ -22,7 +22,7 @@ tags:
 - [[Against Praxeas|Against Praxeas]] — [[ANF 03|ANF 3]]
 - [[Against the Valentinians|Against the Valentinians]] — [[ANF 03|ANF 3]]
 - [[An Answer to the Jews|An Answer to the Jews]] — [[ANF 03|ANF 3]]
-- [[Library/Church Fathers/Tertullian/Apology|Apology]] — [[ANF 03|ANF 3]]
+- [[Tertullian/Apology|Apology]] — [[ANF 03|ANF 3]]
 - [[De Corona|De Corona]] — [[ANF 03|ANF 3]]
 - [[De Fuga in Persecutione|De Fuga in Persecutione]] — [[ANF 04|ANF 4]]
 - [[De Spectaculis|De Spectaculis]] — [[ANF 03|ANF 3]]

@@ -57,4 +57,4 @@ HEBREWS 9:11-15: But Christ being come an high priest of good things to come, by
 *This article was made available on the Internet via REFORMATION INK (www.markers.com/ink). Refer any correspondence to Shane Rosenthal: srose@cosmoaccess.net*
 
 ---
-[[Luther Sermon 7 SECTION IV. WHY CHRIST CALLS THE DOCTRINE CONCERNING THE|← 7. SECTION IV. WHY CHRIST CALLS THE]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 9 Christ's Holy Sufferings|9. Christ's Holy Sufferings →]]
+[[Luther Sermon 7 SECTION IV. WHY CHRIST CALLS THE DOCTRINE CONCERNING THE|← 7. SECTION IV. WHY CHRIST CALLS THE]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 9 Christ's Holy Sufferings|9. Christ's Holy Sufferings →]]

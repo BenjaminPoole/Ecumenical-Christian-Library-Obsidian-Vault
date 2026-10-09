@@ -22,4 +22,4 @@ tags:
 #### Copyright 2010 Christian Classics Ethereal Library (CCEL)
 
 ---
-[[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 2 The Wheat & the Tares|2. The Wheat & the Tares →]]
+[[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 2 The Wheat & the Tares|2. The Wheat & the Tares →]]

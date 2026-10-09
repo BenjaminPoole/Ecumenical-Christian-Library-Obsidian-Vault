@@ -41,5 +41,5 @@ I pray you to love the Bethlehem and put Gallus? in my place; forI trust that th
 [Luke xxiii, 34.? For Gallus (Hawlik) and his difficulties, see p. 248.]
 
 ---
-[[Hus Letter 78 Letter LXXVII. To the Same (June 27, 1415)|← 78. Letter LXXVII. To the Same (June 27]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 80 Letter LXXIX. To Wenzel De Duba and John of Chlum|80. Letter LXXIX. To Wenzel De Duba and →]]
+[[Hus Letter 78 Letter LXXVII. To the Same (June 27, 1415)|← 78. Letter LXXVII. To the Same (June 27]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 80 Letter LXXIX. To Wenzel De Duba and John of Chlum|80. Letter LXXIX. To Wenzel De Duba and →]]
 

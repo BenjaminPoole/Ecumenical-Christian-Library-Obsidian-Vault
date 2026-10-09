@@ -33,5 +33,5 @@ admonish him once or twice according to the apostle’s precept, and if he will 
 I write these words by way of brotherly advice according to Christ's precept: - If thy brother shall offend against thee, rebuke him between thee amd him? Therefore, brother, receive me; and if you have spoken in this way about me, say so in your reply. If you prove me a heretic, I will humbly make amends and you will receive the reward of restoring a sinner from the error of his way? Yet by the grace of God Almighty I hope I hold the same faith in the Lord Jesus as yourself and as truly, seeing that I am ready to suffer death on its behalf in humility and hope.
 
 ---
-[[Hus Letter 4 Letter III. To Archbishop Zbinek|← 4. Letter III. To Archbishop Zbinek]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 6 Letter V. To the People of Laun (1410)|6. Letter V. To the People of Laun (1410) →]]
+[[Hus Letter 4 Letter III. To Archbishop Zbinek|← 4. Letter III. To Archbishop Zbinek]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 6 Letter V. To the People of Laun (1410)|6. Letter V. To the People of Laun (1410) →]]
 

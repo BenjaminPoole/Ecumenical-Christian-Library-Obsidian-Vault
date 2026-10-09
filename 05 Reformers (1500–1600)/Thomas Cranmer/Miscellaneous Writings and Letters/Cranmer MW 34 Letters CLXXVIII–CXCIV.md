@@ -510,7 +510,7 @@ Item, whether the churche hath the gospell holly, syncere, dilucide, and precise
 
 [XCVI. part ii. State Papers, p. 563.] I. p. 813.]]
 
-[[? Vid. Letter CLX. p. 315; Strype's Mem. of [5 The postscript is in the archbishop's hand.]]
+? Vid. Letter CLX. p. 315; Strype's Mem. of [5 The postscript is in the archbishop's hand.
 
 [Abp. Cranmer, p. 79. Ed. Oxon. 1840,] [ Dr Jenkyns has given some heads of this [ Vid. Letters LXXVIII. CXCIX. pp. 270, examination, but it is here printed entire from the]
 

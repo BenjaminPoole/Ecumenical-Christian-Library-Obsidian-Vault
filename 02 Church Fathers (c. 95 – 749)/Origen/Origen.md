@@ -7,7 +7,7 @@ tags:
 
 # Origen
 
-29 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+29 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Commentary on John, Book I|Commentary on John, Book I]] — [[ANF 09|ANF 9]]
 - [[Commentary on John, Book II|Commentary on John, Book II]] — [[ANF 09|ANF 9]]

@@ -7,7 +7,7 @@ tags:
 
 # John Chrysostom
 
-533 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+533 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Against Publishing the Errors|Against Publishing the Errors...]] — [[NPNF1 09|NPNF1 9]]
 - [[Concerning Lowliness of Mind|Concerning Lowliness of Mind]] — [[NPNF1 09|NPNF1 9]]

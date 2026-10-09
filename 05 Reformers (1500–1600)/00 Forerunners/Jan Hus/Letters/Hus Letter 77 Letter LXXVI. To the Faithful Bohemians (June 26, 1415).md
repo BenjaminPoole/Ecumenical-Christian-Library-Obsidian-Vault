@@ -63,6 +63,6 @@ The reference in the following letter to Jerome, and Hus's comparison of his own
 The after career of Jerome must be briefly told. He retracted his recantation, and after a defence of his creed before the Council which charmed by its eloquence the fastidious taste of Poggio Bracciolini, was condemned and burnt (May 30,1416). So in spite of lapse, Jerome and Hus were again one; in their death they were not divided (see Age of Hus, pp. 333-44).
 
 ---
-[[Hus Letter 76 Letter LXXV. To his Bohemian Friends (June 25, 1415)|← 76. Letter LXXV. To his Bohemian Friends]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 78 Letter LXXVII. To the Same (June 27, 1415)|78. Letter LXXVII. To the Same (June 27 →]]
+[[Hus Letter 76 Letter LXXV. To his Bohemian Friends (June 25, 1415)|← 76. Letter LXXV. To his Bohemian Friends]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 78 Letter LXXVII. To the Same (June 27, 1415)|78. Letter LXXVII. To the Same (June 27 →]]
 
 

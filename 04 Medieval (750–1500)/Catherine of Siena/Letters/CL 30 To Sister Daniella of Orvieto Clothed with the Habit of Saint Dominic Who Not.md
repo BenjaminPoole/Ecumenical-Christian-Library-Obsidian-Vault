@@ -50,4 +50,4 @@ The virtue of discretion gives this and infinitely many other fruits to the neig
 Therefore I said that I desired to see in thee the holy virtue of discretion. I say no more. Remain in the holy and sweet grace of God. Forgive me should I have talked too presumptuously; the love of thy salvation, through the honour of God, is my reason. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 29 To Catarina of the Hospital and Giovanna DI Capo|← To Catarina of the Hospital and Giovanna DI Capo]] · [[Letters|Contents]] · [[CL 31 To Brother Raimondo of Capua of the Order of the Preachers|To Brother Raimondo of Capua of the Order of the Preachers →]]
+[[CL 29 To Catarina of the Hospital and Giovanna DI Capo|← To Catarina of the Hospital and Giovanna DI Capo]] · [[Catherine of Siena/Letters|Contents]] · [[CL 31 To Brother Raimondo of Capua of the Order of the Preachers|To Brother Raimondo of Capua of the Order of the Preachers →]]

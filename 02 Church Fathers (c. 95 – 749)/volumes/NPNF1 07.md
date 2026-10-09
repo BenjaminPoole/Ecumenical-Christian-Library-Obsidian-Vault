@@ -10,7 +10,7 @@ tags:
 # NPNF1 7: Augustine: Homilies on the Gospel of John, Homilies on the First Epistle of John, Soliloquies
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 7 — 136 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Augustine of Hippo|Augustine of Hippo]]
 

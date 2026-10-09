@@ -26,4 +26,4 @@ tags:
 30\. We who are baptized and believe in Christ, Paul’s thought is, do not base our works and our hope on the righteouness of this temporal life. Through faith in Christ, we have a righteousness that holds in heaven. It abides in Christ alone; otherwise it would avail naught before God. And our whole concern is to be eternally in Christ; to have our earthly existence culminate in yonder life when Christ shall come and change this life into another, altogether new, pure, holy and like unto his own, with a life and a body having the nature of his.
 
 ---
-[[Luther Sermon 32 FRUITS OF FAITH|← 32. FRUITS OF FAITH]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 34 THE CHRISTIAN A CITIZEN OF HEAVEN|34. THE CHRISTIAN A CITIZEN OF HEAVEN →]]
+[[Luther Sermon 32 FRUITS OF FAITH|← 32. FRUITS OF FAITH]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 34 THE CHRISTIAN A CITIZEN OF HEAVEN|34. THE CHRISTIAN A CITIZEN OF HEAVEN →]]

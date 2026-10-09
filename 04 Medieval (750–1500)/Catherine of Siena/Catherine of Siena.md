@@ -12,5 +12,5 @@ Catherine Benincasa (1347–1380), a dyer's twenty-fourth child, Dominican terti
 
 ## Works (2)
 
-- **[[Letters|Letters]]** — Letters to popes, kings, mercenaries, prisoners, prostitutes and her own family, written by a dyer's daughter who could not write and dictated them — including the letters urging Gregory XI to leave Avignon for Rome. Scudder groups them by correspondent and prefaces each group. (71 notes)
+- **[[Catherine of Siena/Letters|Letters]]** — Letters to popes, kings, mercenaries, prisoners, prostitutes and her own family, written by a dyer's daughter who could not write and dictated them — including the letters urging Gregory XI to leave Avignon for Rome. Scudder groups them by correspondent and prefaces each group. (71 notes)
 - **[[The Dialogue|The Dialogue]]** — Dictated in 1378, much of it in ecstasy: a dialogue between the Eternal Father and a soul, on discretion, prayer, obedience, and the bridge that is Christ, by which the soul crosses the flood. (95 notes)

@@ -348,7 +348,7 @@ Wherefore diligently ponder and weigh, I beseech thee, gentle reader, the saying
 
 But this allegation of these authors hath made the matter so hot, that the bishop of Winchester durst not once touch it, and Smith, as soon as he had touched it, felt it so scalding hot, that he durst not abide it, but shrank away by and by for fear of burning his fingers. Now hear what followeth further in my book.
 
-[[' All these things, 1551.]]
+' All these things, 1551.
 
 the catholic faith ever since Christ’s ascension; it is now to be considered what moved the papists to make a new and contrary faith, and what scriptures have they? for their purpose. What moved them I know mot, but their own iniquity, or the nature and condition of the see of Rome, which is of all other most contrary to Christ, and therefore most worthy to be called the see of antichrist. And as for scripture, they allege none but only one, and that not truly understanded, but to serve their purpose wrested out of tune, whereby they make it to jar and sound contrary to all other scriptures pertaining to the matter.
 
@@ -502,7 +502,7 @@ Here is another sleight, such as the like hath not lightly been seen. For where 
 
 [Hom. viii. Tom. IX. p. 504. Ed. Bened.] [$ So as construction, but not made captious,]
 
-[[^ Acceptum panem, et distributum discipulis, Orig. ed. Winch.]]
+^ Acceptum panem, et distributum discipulis, Orig. ed. Winch.
 
 [n corpus illum suum fecit, hoc est corpus meum [7 no inserted from edit. 1551.]]
 
@@ -590,7 +590,7 @@ But you teach such a carnal and gross eating and drinking of Christ's flesh and 
 
 But why should I join with you here an issue in that matter which I never spake? For I never read, nor heard no man that said, saving you alone, that we do eat Christ grossly, or carnally, or as eating is taken in common speech without any figure; but all that ever I have heard or read say quite clean contrary. But you, who affirm that we eat Christ carnally, and as eating is taken in common speech, (which is carnally and grossly to chew with the teeth,) must needs consequently grant, that we cat him grossly and carnally, as dogs eat paunches. And this is a strange thing to hear, that where before you said, that Christ is present but after a spiritual manner, now you sny that he is eaten carnally.
 
-[[᾿ So formed, Orig. ed. Winch.]]
+᾿ So formed, Orig. ed. Winch.
 
 ~~ And where you say, that in the holy supper men use their mouth and teeth, truth it is that they so do, but to chaw the sacrament, not the body of Christ. And if they do not tear that most precious body and blood, why say you then that they eat the body of Christ as eating is taken in common speech? And wherefore doth that false papistical faith of pope Nicholas, (which you wrongfully call catholic,) teach that Christ's body is torn with the teeth of the faithful? De Conseer. dist. 2. Ego. Now follow the particular authorities which I have alleged for the interpretation of Christ's words, which if you had well considered, you would not have said, as you do, that I wrested Christ's words with mine own gloss. For? I begin with Origen, saying:
 

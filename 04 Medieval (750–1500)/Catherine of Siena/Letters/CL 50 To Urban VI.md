@@ -32,4 +32,4 @@ Next I beg you, and constrain you by the love of Christ crucified, as to those s
 I say no more to you. Remain in the holy and sweet grace of God. Pardon my presumption, most holy father; but love and grief are my excuse before your Holiness. I ask you humbly for your benediction. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 49 To Raimondo of Capua of the Order of the Preachers|← To Raimondo of Capua of the Order of the Preachers]] · [[Letters|Contents]] · [[CL 51 To her Spiritual Children in Siena|To her Spiritual Children in Siena →]]
+[[CL 49 To Raimondo of Capua of the Order of the Preachers|← To Raimondo of Capua of the Order of the Preachers]] · [[Catherine of Siena/Letters|Contents]] · [[CL 51 To her Spiritual Children in Siena|To her Spiritual Children in Siena →]]

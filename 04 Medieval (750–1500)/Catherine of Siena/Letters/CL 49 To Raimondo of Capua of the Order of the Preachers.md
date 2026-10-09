@@ -36,4 +36,4 @@ Most holy father, look in the light of reason and truth at your displeasure agai
 To you, dearest father (Raimondo), I say: when it is possible to you, keep a manly heart in the presence of his Holiness, without any pain or servile fear; remain first a while in your cell, in the presence of Mary and of the most holy Cross, in holy and humble prayer, in true knowledge of yourself, with living faith and will to endure; and then go (to the Pope) in security. And do what you can for the honour of God and the salvation of souls, to the point of death. Announce to him what I write you in this letter as the Holy Spirit shall guide you. I say no more. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 48 To Gregory XI|← To Gregory XI]] · [[Letters|Contents]] · [[CL 50 To Urban VI|To Urban VI →]]
+[[CL 48 To Gregory XI|← To Gregory XI]] · [[Catherine of Siena/Letters|Contents]] · [[CL 50 To Urban VI|To Urban VI →]]

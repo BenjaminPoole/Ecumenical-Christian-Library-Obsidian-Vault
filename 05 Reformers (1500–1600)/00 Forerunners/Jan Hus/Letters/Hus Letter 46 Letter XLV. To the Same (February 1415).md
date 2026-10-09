@@ -49,6 +49,6 @@ Tell John Cardinalis to be careful; for all the men who affected to be friendly 
 I should like to speak to the King at least once before I am condemned; for I came here at his own request and under his promise that I should return in safety to Bohemia.!
 
 ---
-[[Hus Letter 45 Letter XLIV. To John of Chlum|← 45. Letter XLIV. To John of Chlum]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 47 Letter XLVI. To his Friends at Constance (February 1415)|47. Letter XLVI. To his Friends at →]]
+[[Hus Letter 45 Letter XLIV. To John of Chlum|← 45. Letter XLIV. To John of Chlum]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 47 Letter XLVI. To his Friends at Constance (February 1415)|47. Letter XLVI. To his Friends at →]]
 
 

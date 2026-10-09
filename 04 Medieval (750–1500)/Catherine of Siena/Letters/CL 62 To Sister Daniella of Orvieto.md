@@ -34,4 +34,4 @@ Let us sleep no more! Let us wake from the slumber of negligence, groaning with 
 As to my coming thy way, pray the highest eternal Goodness of God to do what may be for His honour and the salvation of the soul, and pray especially, for I am on the point of going to Rome, to fulfil the will of Christ crucified and of His Vicar. I do not know what way I shall take. Pray Christ sweet Jesus to send us by that way which is most to His honour, in peace and quiet of our souls. I say no more to thee. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 61 To Giovanna Queen of Naples|← To Giovanna Queen of Naples]] · [[Letters|Contents]] · [[CL 63 To Stefano Maconi|To Stefano Maconi →]]
+[[CL 61 To Giovanna Queen of Naples|← To Giovanna Queen of Naples]] · [[Catherine of Siena/Letters|Contents]] · [[CL 63 To Stefano Maconi|To Stefano Maconi →]]

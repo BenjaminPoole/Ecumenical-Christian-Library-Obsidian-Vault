@@ -10,7 +10,7 @@ tags:
 # ANF 1: The Apostolic Fathers with Justin Martyr and Irenaeus
 
 *Ante-Nicene Fathers, Volume 1 — 205 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Mathetes|Mathetes]]
 
@@ -236,4 +236,4 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Against Heresies, V.34|Against Heresies, V.34]] — c. 175–185
 - [[Against Heresies, V.35|Against Heresies, V.35]] — c. 175–185
 - [[Against Heresies, V.36|Against Heresies, V.36]] — c. 175–185
-- [[Library/Church Fathers/Irenaeus_of_Lyons/Fragments|Fragments]] — c. 175–200
+- [[Irenaeus of Lyons/Fragments|Fragments]] — c. 175–200

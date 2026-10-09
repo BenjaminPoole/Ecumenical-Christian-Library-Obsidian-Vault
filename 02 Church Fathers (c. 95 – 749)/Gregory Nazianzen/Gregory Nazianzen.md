@@ -7,7 +7,7 @@ tags:
 
 # Gregory Nazianzen
 
-27 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+27 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Fifth Theological Oration (Oration 31)|Fifth Theological Oration (Oration 31)]] — [[NPNF2 07|NPNF2 7]]
 - [[First Theological Oration (Oration 27)|First Theological Oration (Oration 27)]] — [[NPNF2 07|NPNF2 7]]

@@ -41,6 +41,6 @@ Baron Lacembok is riding off to-day to the King. He has urged me to attempt noth
 [leaving Krakowec. Otherwise we must assume some are lost. Militaribus.! See Doctor Biberach," pp. 155, 192, 195, 198. The pun is characteristic and very frequent. Cf. pp. 160, 195, 197.]
 
 ---
-[[Hus Letter 37 Letter XXXVI. To his Bohemian Friends (October 20, 1414)|← 37. Letter XXXVI. To his Bohemian Friends]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 39 Letter XXXVIII. To the Same (November 6, 1414)|39. Letter XXXVIII. To the Same (November →]]
+[[Hus Letter 37 Letter XXXVI. To his Bohemian Friends (October 20, 1414)|← 37. Letter XXXVI. To his Bohemian Friends]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 39 Letter XXXVIII. To the Same (November 6, 1414)|39. Letter XXXVIII. To the Same (November →]]
 
 

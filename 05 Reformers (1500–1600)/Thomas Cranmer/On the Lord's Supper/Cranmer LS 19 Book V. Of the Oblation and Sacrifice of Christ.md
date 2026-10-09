@@ -275,7 +275,7 @@ And yet such blasphemies you go about to salve and plaster, as much as you may, 
 
 Now let us hear what you say further.
 
-[[! The passage between asterisks is wanting in ed. 1551.]]
+! The passage between asterisks is wanting in ed. 1551.
 
 b Where the author, citing St Paul, Englisheth him thus, that “Christ's priesthood cannot pass from him to another;” these words thus framed be not the simple and sincere expression of the truth of the text, which saith, that Christ hath a perpetual priesthood:” and the Greek hath a word ἀπαράβατον, which the Greek schools express and expound by the word ἀδιάδοχον, signifying the priesthood of Christ endeth not in him to go to another by succession, as in the tribe of Levi, where was among mortal men succession in the office of priesthood; but Christ liveth ever, and therefore is a perpetual everlasting priest, by whose authority priesthood is now in this visible church, as St Paul ordered to Timothy and Titus, and other places also confirm; which priests, visible ministers to our invisible priest, offer the daily sacrifice in Christ's church; that is to say, with the very presence, by God's omnipoteney wrought, of the most precious body and blood of our. Saviour Christ, shewing forth Christ's death, and celebrating the memory of his supper and death according to Christ's institution, so with daily oblation and sacrifice of the selfsame sacrifice to kindle in us a thankful remembrance of all Christ's benefits unto us.
 
@@ -297,7 +297,7 @@ of For answer hereto, read the thirteenth chapter of my fifth book? and that whi
 
 And concerning Cyril, he speaketh not of a sacrifice propitiatory in that place, as I have more plainly declared in mine answer to Doctor Smith's prologue. and And whereas you call the daily sacrifice of the church an unbloody sacrifice,” here the it were necessary, if you would not deceive simple people, but teach them such doctrine 2S they may understand, that you should in plain terms set forth and declare what ihe daily offering of the priest without blood-shedding is, in what words, deeds, crosses, signs, or gestures it standeth, and whether it be made before the consecration or after, and before the distribution of the sacrament or after, and wherein chiefly resteth the very pith and substance of it. And. when you have thus done, I will say you mean
 
-[[! The presence of the most precious substance, [3 Vide supra, p. 351.]]
+! The presence of the most precious substance, [3 Vide supra, p. 351.
 
 [Orig. ed. Winch.] [ Vide supra, p. 356.] 1]
 

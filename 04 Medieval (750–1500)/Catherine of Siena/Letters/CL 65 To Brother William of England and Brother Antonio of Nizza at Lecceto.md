@@ -31,4 +31,4 @@ You need not be afraid of luxuries or of great consolations; for you are coming 
 Drown you in the Blood of Christ, and may our own will die in all things. I say no more to you. Remain in the holy and sweet grace of God. Commend me to all the servants of God near you, that they may pray the Divine Goodness to give me grace to lay down my life for His Truth. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 64 To Certain Holy Hermits Who Had Been Invited to Rome by the Pope|← To Certain Holy Hermits Who Had Been Invited to Rome by the Pope]] · [[Letters|Contents]] · [[CL 66 To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the|To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the →]]
+[[CL 64 To Certain Holy Hermits Who Had Been Invited to Rome by the Pope|← To Certain Holy Hermits Who Had Been Invited to Rome by the Pope]] · [[Catherine of Siena/Letters|Contents]] · [[CL 66 To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the|To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the →]]

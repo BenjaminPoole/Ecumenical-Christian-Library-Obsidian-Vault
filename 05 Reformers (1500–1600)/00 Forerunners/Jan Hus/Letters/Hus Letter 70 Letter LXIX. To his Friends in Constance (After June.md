@@ -55,6 +55,6 @@ come!'—that is, until the Judgment Day, when He will come; and lo! it is now s
 In the following letter Hus defines more clearly than he had done for the “Father" his real difficulty in accepting the Council's basket of escape. The end of the letter shows the peace of soul in which Hus was now living. On the same day he wrote a letter to Hawlik, the priest of the Bethlehem, in which he defined very clearly his views as to the decree of the Council withholding the cup. Hawlik, it would seem, was one of those to whom Chlum had referred, who had been disturbed by the matter (p. 169), and had not hesitated to attack Jakoubek (see p. 177).
 
 ---
-[[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|← 69. Letter LXVIII. To the Same (Middle of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 71 Letter LXX. To the Same ( June 21, 1415)|71. Letter LXX. To the Same ( June 21, 1415) →]]
+[[Hus Letter 69 Letter LXVIII. To the Same (Middle of June 1415)|← 69. Letter LXVIII. To the Same (Middle of]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 71 Letter LXX. To the Same ( June 21, 1415)|71. Letter LXX. To the Same ( June 21, 1415) →]]
 
 

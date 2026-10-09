@@ -10,7 +10,7 @@ tags:
 # ANF 9: Recently Discovered Additions to Early Christian Literature; Commentaries of Origen
 
 *Ante-Nicene Fathers, Volume 9 — 82 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Clement of Rome|Clement of Rome]]
 
@@ -19,7 +19,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 
 ## [[Aristides the Philosopher|Aristides the Philosopher]]
 
-- [[Library/Church Fathers/Aristides_the_Philosopher/Apology|Apology]] — c. 124–147
+- [[Aristides the Philosopher/Apology|Apology]] — c. 124–147
 - [[02 Church Fathers (c. 95 – 749)/Aristides the Philosopher/The Legend of Barlaam and Josaphat|The Legend of Barlaam and Josaphat]] — 8th–11th century (Greek romance; Aristides' Apology, c. 125, embedded in it)
 
 ## [[Origen|Origen]]

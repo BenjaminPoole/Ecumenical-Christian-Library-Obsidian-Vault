@@ -52,4 +52,4 @@ I, vile slave, who am placed in the Field, where blood was shed for the love of 
 I beg you to pardon me whatever I might have said that was not honour to God and due reverence to yourself: let love excuse it. I say no more to you. Remain in the holy and sweet grace of God. I ask your benediction. Sweet Jesus, Jesus Love!
 
 ---
-[[CL 66 To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the|← To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the]] · [[Letters|Contents]] · [[CL 68 To Urban VI|To Urban VI →]]
+[[CL 66 To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the|← To Brother Antonio of Nizza of the Hermit Brothers of Saint Augustine at the]] · [[Catherine of Siena/Letters|Contents]] · [[CL 68 To Urban VI|To Urban VI →]]

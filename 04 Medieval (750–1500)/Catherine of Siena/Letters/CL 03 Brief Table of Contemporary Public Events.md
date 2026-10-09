@@ -34,4 +34,4 @@ A Crusade publicly proclaimed by the Pope.
 1379-1380. The Great Schism divides Europe. England remains faithful to Urban: France and Naples, after wavering, declare for Clement. War rages between the two Popes. The schismatic forces gain possession of the Castle of Saint Angelo at Rome, but are driven out by the forces of Urban, who in gratitude marches barefoot in solemn procession from Santa Maria in Trastevere, to St. Peter's. The city, however, later revolts against Urban, but is reconciled to him, partly through the efforts of Catherine. Queen Giovanna of Naples, having conspired against Urban's life, is excommunicated.
 
 ---
-[[CL 02 Chief Events in the Life of Saint Catherine|← Chief Events in the Life of Saint Catherine]] · [[Letters|Contents]] · [[CL 04 To Monna Alessa Dei Saracini|To Monna Alessa Dei Saracini →]]
+[[CL 02 Chief Events in the Life of Saint Catherine|← Chief Events in the Life of Saint Catherine]] · [[Catherine of Siena/Letters|Contents]] · [[CL 04 To Monna Alessa Dei Saracini|To Monna Alessa Dei Saracini →]]

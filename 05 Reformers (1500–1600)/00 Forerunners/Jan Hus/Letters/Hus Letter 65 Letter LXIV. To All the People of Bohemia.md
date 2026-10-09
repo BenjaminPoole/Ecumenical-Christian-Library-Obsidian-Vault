@@ -65,5 +65,5 @@ What grace God hath shown me, and how He helps me in the midst of strange tempta
 [June xy. 491-519; Pertz, Mon. Germ. ii, 576-85.)]
 
 ---
-[[Hus Letter 64 Letter LXIII. To his Bohemian Friends (After June 8|← 64. Letter LXIII. To his Bohemian Friends]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 66 Letter LXV. To Henry Skopek De Duba (June 13, 1413)|66. Letter LXV. To Henry Skopek De Duba →]]
+[[Hus Letter 64 Letter LXIII. To his Bohemian Friends (After June 8|← 64. Letter LXIII. To his Bohemian Friends]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 66 Letter LXV. To Henry Skopek De Duba (June 13, 1413)|66. Letter LXV. To Henry Skopek De Duba →]]
 

@@ -90,4 +90,4 @@ A little before the conclusion of the late war in Flanders, one who came from th
 13\. Let every man, therefore, that has a soul to be saved see that he secure this one point. With all his eloquence, his knowledge, his faith, works, and sufferings, let him hold fast this "one thing needful." He that through the power of faith endureth to the end in humble, gentle, patient love; he, and he alone, shall, through the merits of Christ, "inherit the kingdom prepared from the foundation of the world."
 
 ---
-[[WS 090 An Israelite Indeed|← 90. An Israelite Indeed]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 092 On Zeal|92. On Zeal →]]
+[[WS 090 An Israelite Indeed|← 90. An Israelite Indeed]] · [[John Wesley/Sermons/index|Contents]] · [[WS 092 On Zeal|92. On Zeal →]]

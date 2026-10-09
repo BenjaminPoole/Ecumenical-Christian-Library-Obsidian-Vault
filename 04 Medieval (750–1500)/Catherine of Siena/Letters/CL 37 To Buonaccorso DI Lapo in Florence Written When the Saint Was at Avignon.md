@@ -28,4 +28,4 @@ Behold that now he is coming to his bride, that is to hold the seat of St. Peter
 I say no more. Be as urgent as you can, now that the Holy Father is to be at Rome. I have done, and shall do, what I can, until death, for the honour of God and for your peace, in order that this obstacle may be removed, for it hinders the holy and sweet Crusade. If no other ill should come from it, we are worthy of a thousand hells. Comfort you in Christ our sweet Jesus, for I hope by His goodness that if you will keep in the way you should you will have a good peace. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 36 To the Eight of War Chosen by the Commune of Florence, at Whose Instance the|← To the Eight of War Chosen by the Commune of Florence, at Whose Instance the]] · [[Letters|Contents]] · [[CL 38 To Gregory XI|To Gregory XI →]]
+[[CL 36 To the Eight of War Chosen by the Commune of Florence, at Whose Instance the|← To the Eight of War Chosen by the Commune of Florence, at Whose Instance the]] · [[Catherine of Siena/Letters|Contents]] · [[CL 38 To Gregory XI|To Gregory XI →]]

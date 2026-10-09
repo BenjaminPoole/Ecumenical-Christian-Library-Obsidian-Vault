@@ -29,6 +29,6 @@ faithful ones. Written in chains on the eve of the ten thousand soldier-martyrs 
 In these last days the thoughts of Hus turned once more to his old friend and comrade in past struggles, Christian Prachaticz. Christian unfortunately, as the reader will remember, had somewhat fallen away. We feel the shadow of this fall cast over this last brief letter of Hus to one who had been at one period his closest correspondent. (See supra, p. 196, n. 1.)
 
 ---
-[[Hus Letter 71 Letter LXX. To the Same ( June 21, 1415)|← 71. Letter LXX. To the Same ( June 21, 1415)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 73 Letter LXXII. To Master Christian (June 22, 1415)|73. Letter LXXII. To Master Christian (June →]]
+[[Hus Letter 71 Letter LXX. To the Same ( June 21, 1415)|← 71. Letter LXX. To the Same ( June 21, 1415)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 73 Letter LXXII. To Master Christian (June 22, 1415)|73. Letter LXXII. To Master Christian (June →]]
 
 

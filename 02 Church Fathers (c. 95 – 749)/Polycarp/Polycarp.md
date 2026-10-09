@@ -7,7 +7,7 @@ tags:
 
 # Polycarp
 
-2 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+2 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Epistle to the Philippians|Epistle to the Philippians]] — [[ANF 01|ANF 1]]
 - [[Martyrdom of Polycarp|Martyrdom of Polycarp]] — [[ANF 01|ANF 1]]

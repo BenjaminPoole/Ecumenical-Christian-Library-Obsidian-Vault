@@ -32,4 +32,4 @@ Let the convent of Santa Maria degli Angeli be commended to you. And never mind 
 I beg you, Sano, to read this letter to all the children. And do you all pray God for us, that He grant us to complete what is begun to His honour and the salvation of souls; for we wish no other desire nor work, in despite of any who may wish to hinder it. Remain in the holy and sweet grace of God. May God fill you with His sweetest favour. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 52 To Brother William and to Messer Matteo of the Misericordia|← To Brother William and to Messer Matteo of the Misericordia]] · [[Letters|Contents]] · [[CL 54 To Brother Raimondo of Capua of the Order of the Preachers|To Brother Raimondo of Capua of the Order of the Preachers →]]
+[[CL 52 To Brother William and to Messer Matteo of the Misericordia|← To Brother William and to Messer Matteo of the Misericordia]] · [[Catherine of Siena/Letters|Contents]] · [[CL 54 To Brother Raimondo of Capua of the Order of the Preachers|To Brother Raimondo of Capua of the Order of the Preachers →]]

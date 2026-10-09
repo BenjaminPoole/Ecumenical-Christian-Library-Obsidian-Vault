@@ -36,4 +36,4 @@ I beg you to keep all this well in mind. If God give me leisure and a letter-car
 MASTER JOHN Hus, a weakling priest.
 
 ---
-[[Hus Letter 82 Letter LXXXII. To his Friends in Bohemia ( June 29|← 82. Letter LXXXII. To his Friends in]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 84 Letter III|84. Letter III →]]
+[[Hus Letter 82 Letter LXXXII. To his Friends in Bohemia ( June 29|← 82. Letter LXXXII. To his Friends in]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 84 Letter III|84. Letter III →]]

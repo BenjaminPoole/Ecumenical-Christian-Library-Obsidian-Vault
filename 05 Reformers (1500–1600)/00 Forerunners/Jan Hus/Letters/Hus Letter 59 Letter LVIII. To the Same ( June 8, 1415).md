@@ -57,6 +57,6 @@ Look after the books. I do not know if you have them. Tell Master Jesenicz that 
 unfairly altered my deposition as to the gloss of the edict, as indeed you heard; for I stated this publicly in the Council.
 
 ---
-[[Hus Letter 58 Letter LVII. To his Friends in Constance ( June 7, 1415)|← 58. Letter LVII. To his Friends in]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 60 Letter LIX. To the Same (June 9 or 10, 1415)|60. Letter LIX. To the Same (June 9 or 10 →]]
+[[Hus Letter 58 Letter LVII. To his Friends in Constance ( June 7, 1415)|← 58. Letter LVII. To his Friends in]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 60 Letter LIX. To the Same (June 9 or 10, 1415)|60. Letter LIX. To the Same (June 9 or 10 →]]
 
 

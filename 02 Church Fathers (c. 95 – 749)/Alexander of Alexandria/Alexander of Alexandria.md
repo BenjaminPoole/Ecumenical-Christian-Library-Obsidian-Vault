@@ -7,6 +7,6 @@ tags:
 
 # Alexander of Alexandria
 
-1 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+1 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Epistles on Arianism|Epistles on Arianism]] — [[ANF 06|ANF 6]]

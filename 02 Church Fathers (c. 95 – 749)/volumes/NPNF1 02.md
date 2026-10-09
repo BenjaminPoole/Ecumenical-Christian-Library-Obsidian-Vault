@@ -10,7 +10,7 @@ tags:
 # NPNF1 2: Augustine: City of God, On Christian Doctrine
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 2 — 27 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Augustine of Hippo|Augustine of Hippo]]
 

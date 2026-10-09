@@ -32,4 +32,4 @@ But what! we act as if it were our mission to make truth triumph whilst it is on
 If you had reproved me in my first faults, I should not have been guilty of this, and should have been moderate. But I shall not suppress this any more than the other; you can suppress it yourself if you wish. I could not refrain, so angry am I against those who insist absolutely that the truth shall be believed when they demonstrate it, which Jesus Christ did not do in his created humanity. It is a mockery, and it seems to me treating . . . I am grieved on account of the malady of M. de Laporte. I assure you that I honor him with all my heart. I, etc.
 
 ---
-[[LT 06 To Madame Périer, on the Proposed Marriage of Her Daughter, 1659|← To Madame Périer, on the Proposed Marriage of Her Daughter, 1659]] · [[Letters|Contents]] · [[LT 08 To Mademoiselle de Roannez, I|To Mademoiselle de Roannez, I →]]
+[[LT 06 To Madame Périer, on the Proposed Marriage of Her Daughter, 1659|← To Madame Périer, on the Proposed Marriage of Her Daughter, 1659]] · [[Blaise Pascal/Letters|Contents]] · [[LT 08 To Mademoiselle de Roannez, I|To Mademoiselle de Roannez, I →]]

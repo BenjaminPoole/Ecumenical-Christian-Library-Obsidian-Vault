@@ -124,4 +124,4 @@ In the mean time, while we do not from our hearts forgive our neighbour his tres
 9\. Blessing and honour, praise and love, Co-equal, co-eternal Three, In earth below, in heaven above, By all thy works be paid to thee. Thrice Holy! thine the kingdom is, The power omnipotent is thine; And when created nature dies, Thy never-ceasing glories shine.
 
 ---
-[[WS 025 Upon Our Lord's Sermon on the Mount Discourse Five|← 25. Upon Our Lord's Sermon on the Mount: Discourse Five]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 027 Upon Our Lord's Sermon on the Mount Discourse Seven|27. Upon Our Lord's Sermon on the Mount: Discourse Seven →]]
+[[WS 025 Upon Our Lord's Sermon on the Mount Discourse Five|← 25. Upon Our Lord's Sermon on the Mount: Discourse Five]] · [[John Wesley/Sermons/index|Contents]] · [[WS 027 Upon Our Lord's Sermon on the Mount Discourse Seven|27. Upon Our Lord's Sermon on the Mount: Discourse Seven →]]

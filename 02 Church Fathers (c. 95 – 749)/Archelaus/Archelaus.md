@@ -7,6 +7,6 @@ tags:
 
 # Archelaus
 
-1 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+1 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Acts of the Disputation with Manes|Acts of the Disputation with Manes]] — [[ANF 06|ANF 6]]

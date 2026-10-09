@@ -11,7 +11,7 @@ John Wesley (1703–1791), Anglican cleric, evangelist, and—with his brother C
 
 ## Sermons
 
-- [[Library/John Wesley/Sermons/js-sermons-index|Sermons on Several Occasions]] — all 141 sermons (Jackson 1872 numbering)
+- [[John Wesley/Sermons/index|Sermons on Several Occasions]] — all 141 sermons (Jackson 1872 numbering)
 
 ## The Journal
 

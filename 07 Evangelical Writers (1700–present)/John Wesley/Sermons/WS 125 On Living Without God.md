@@ -68,4 +68,4 @@ O that you may this day hear his voice, who speaketh as never man spake, saying,
 Rotherham, July 6, 1790
 
 ---
-[[WS 124 The Heavenly Treasure in Earthen Vessels|← 124. The Heavenly Treasure in Earthen Vessels]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 126 On the Danger of Increasing Riches|126. On the Danger of Increasing Riches →]]
+[[WS 124 The Heavenly Treasure in Earthen Vessels|← 124. The Heavenly Treasure in Earthen Vessels]] · [[John Wesley/Sermons/index|Contents]] · [[WS 126 On the Danger of Increasing Riches|126. On the Danger of Increasing Riches →]]

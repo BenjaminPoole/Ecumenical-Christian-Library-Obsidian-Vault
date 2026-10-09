@@ -37,6 +37,6 @@ Such, then, is the mercy that comes to you from
 [! Matt. x. 12.? John xx. 26. John xiv. 27. 1 Matt, v. 44, Gal. i. 5.]
 
 ---
-[[Hus Letter 24 Letter XXIII. To the Same (January 1413)|← 24. Letter XXIII. To the Same (January 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 26 Letter XXV. To the Synod of Prague (February 1413)|26. Letter XXV. To the Synod of Prague →]]
+[[Hus Letter 24 Letter XXIII. To the Same (January 1413)|← 24. Letter XXIII. To the Same (January 1413)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 26 Letter XXV. To the Synod of Prague (February 1413)|26. Letter XXV. To the Synod of Prague →]]
 
 

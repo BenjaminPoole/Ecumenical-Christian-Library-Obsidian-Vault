@@ -7,7 +7,7 @@ tags:
 
 # Mar Jacob
 
-3 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+3 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[A Canticle of Mar Jacob|A Canticle of Mar Jacob]] — [[ANF 08|ANF 8]]
 - [[Homily on Guria and Shamuna|Homily on Guria and Shamuna]] — [[ANF 08|ANF 8]]

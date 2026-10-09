@@ -140,4 +140,4 @@ The Tottenham Court Road Chapel, or Whitefield's Tabernacle, as it was often cal
 The Tabernacle was originally a wooden shed to the north of Upper Moorfields, close to Wesley's Foundery, opened in 1741; in 1753 it was superseded by a brick building, the one in which this sermon was preached in the afternoon. This was used for over a century, and was then replaced by a Tabernacle at the corner of Tabernacle Street and Leonard Street, Finsbury, which occupied the old site. The old pulpit was retained from which Wesley preached on this occasion. The building is now used for business purposes.]
 
 ---
-[[WS 052 The Reformation of Manners|← 52. The Reformation of Manners]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 054 On Eternity|54. On Eternity →]]
+[[WS 052 The Reformation of Manners|← 52. The Reformation of Manners]] · [[John Wesley/Sermons/index|Contents]] · [[WS 054 On Eternity|54. On Eternity →]]

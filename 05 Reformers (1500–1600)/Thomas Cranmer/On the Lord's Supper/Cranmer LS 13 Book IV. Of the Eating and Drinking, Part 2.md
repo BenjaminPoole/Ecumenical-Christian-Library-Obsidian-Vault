@@ -53,7 +53,7 @@ herb; so were we wont to say, Our lady of Walsingham,” “our lady of Ipswich,
 
 **WINCHESTER.** 9 And yet these plain places of authority dissembled of purpose, or by ignorance passed over, — £his author, as though all things were by him clearly discussed to his intent, would by mang conceits furnish and further his matters, and therefore playeth with our lady's smiling, rocking her child, and many good mowes, so unseemly for his person, as it maketh me almost forge him and myself also. But with such matter he filleth his leaves, and forgetting himself", make /
 
-[[! Amiens, where John the Baptist’s skull, as man original.]]
+! Amiens, where John the Baptist’s skull, as man original.
 
 [it is called, is still preserved. ] [ἢ Ita cum reverendum altare colestibus cib:]
 
@@ -95,7 +95,7 @@ And although the subtle papists do colour and cloke the matter never so finely, 
 
 And yet, to eschew one inconvenience, (that is to say, the worshipping of the sacrament,) they fall into another as evil, and worship nothing there at all. For they worship that thing (as they say) which is really and corporally, and yet invisibly present under the kinds of bread and wine, which (as before s expressed and proved) is utterly nothing. ^ Amd so they give unto the ignorant occasion to worship bread and wine, and they themselves worship nothing there at all. r WINCHESTER.: As touching the adoration of Christ's flesh in the sacrament, which adoration is a true ~ confession of the whole man, soul and body, if there be opportunity of the truth of God in » work, is in my judgment well set forth in the book of common prayer, where the priest ἡ ordered to kneel and make a prayer in his own, and the name of all that shall commu- -micate, confessing therein that is prepared there; at which time nevertheless that is mot adored "that the bodily eye seeth, but that which faith knoweth to be there invisibly present, which and there be nothing, as this author mow teacheth, it were not well. I will not answer this author's eloquence, but his matter, where it might hurtE CANTERBURY.. — Whereas I have shewed what idolatry was committed by means of the papistical doctrine concerning adoration of the sacrament, because that answer to my reasons you cannot, and confess the truth vou will not, therefore you run to your usual shift, passing it over with a toy and scoff, saying, that you “will not answer mine eloquence, but the matter;" and yet indeed you answer neither of both, but under pretence of mine eloquence you shift off the matter also. And yet other eloquence I used not, but the accustomed speech of the homely people, as such a matter requireth.
 
-[[ Sacring, i.e. consecrating. But technically bread for the people to worship.]]
+Sacring, i.e. consecrating. But technically bread for the people to worship.
 
 [it is applied to the lifting up of the consecrated [$ Whole man's soul, Orig. ed. Winch.]]
 

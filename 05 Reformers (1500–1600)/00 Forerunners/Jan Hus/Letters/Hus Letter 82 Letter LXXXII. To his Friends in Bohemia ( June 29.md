@@ -65,5 +65,5 @@ Finally, I entreat you all to persevere in the truth of God.
 On the feast day of the apostles St. Peter and St. Paul, about the time of the evening meal?
 
 ---
-[[Hus Letter 81 Letter LXXX. To John of Chlum (June 29, 1415)|← 81. Letter LXXX. To John of Chlum (June 29]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 83 Letter II|83. Letter II →]]
+[[Hus Letter 81 Letter LXXX. To John of Chlum (June 29, 1415)|← 81. Letter LXXX. To John of Chlum (June 29]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 83 Letter II|83. Letter II →]]
 

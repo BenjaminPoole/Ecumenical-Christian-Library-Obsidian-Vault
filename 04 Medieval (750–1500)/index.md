@@ -77,7 +77,7 @@ Meister Eckhart (c. 1260–1328), Dominican preacher of the birth of the Word in
 
 Author index: **[[Meister Eckhart|Meister Eckhart]]**
 
-- **[[Sermons|Sermons]]** — The first English rendering of a selection of Eckhart's German sermons: the birth of the Word in the soul, detachment, and the ground of the soul where, he says, God and the soul are one. *(8 notes)*
+- **[[Meister Eckhart/Sermons|Sermons]]** — The first English rendering of a selection of Eckhart's German sermons: the birth of the Word in the soul, detachment, and the ground of the soul where, he says, God and the soul are one. *(8 notes)*
 
 ## Jan van Ruusbroec
 
@@ -95,7 +95,7 @@ Catherine Benincasa (1347–1380), Dominican tertiary and Doctor of the Church, 
 
 Author index: **[[Catherine of Siena|Catherine of Siena]]**
 
-- **[[Letters|Letters]]** — Letters to popes, kings, mercenaries, prisoners, prostitutes and her own family, written by a dyer's daughter who could not write and dictated them — including the letters urging Gregory XI to leave Avignon for Rome. *(71 notes)*
+- **[[Catherine of Siena/Letters|Letters]]** — Letters to popes, kings, mercenaries, prisoners, prostitutes and her own family, written by a dyer's daughter who could not write and dictated them — including the letters urging Gregory XI to leave Avignon for Rome. *(71 notes)*
 - **[[The Dialogue|The Dialogue]]** — Dictated in 1378, much of it in ecstasy: a dialogue between the Eternal Father and a soul, on discretion, prayer, obedience, and the bridge that is Christ, by which the soul crosses the flood. *(95 notes)*
 
 ## Julian of Norwich
@@ -188,7 +188,7 @@ marked public domain there and neither is.
 **Already in the vault, under a different section**
 
 - **John Wycliffe** (c. 1330–1384) and **Jan Hus** (c. 1370–1415) are in
-  [[Puritans|05 Reformers]] → *00 Forerunners*, where the vault had already placed them.
+  [[05 Reformers (1500–1600)/index|05 Reformers]] → *00 Forerunners*, where the vault had already placed them.
 
 **Still to do**
 

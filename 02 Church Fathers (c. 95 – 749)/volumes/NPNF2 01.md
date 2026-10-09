@@ -10,18 +10,18 @@ tags:
 # NPNF2 1: Eusebius: Church History, Life of Constantine, Oration in Praise of Constantine
 
 *Nicene and Post-Nicene Fathers, Series II, Volume 1 — 16 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Eusebius of Caesarea|Eusebius of Caesarea]]
 
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book I|Church History, Book I]] — c. 300–325
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book II|Church History, Book II]] — c. 300–325
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book III|Church History, Book III]] — c. 300–325
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book IV|Church History, Book IV]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book I|Church History, Book I]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book II|Church History, Book II]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book III|Church History, Book III]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book IV|Church History, Book IV]] — c. 300–325
 - [[Church History, Book IX|Church History, Book IX]] — c. 300–325
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book V|Church History, Book V]] — c. 300–325
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book VI|Church History, Book VI]] — c. 300–325
-- [[Library/Church Fathers/Eusebius_of_Caesarea/Church History, Book VII|Church History, Book VII]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book V|Church History, Book V]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book VI|Church History, Book VI]] — c. 300–325
+- [[Eusebius of Caesarea/Church History, Book VII|Church History, Book VII]] — c. 300–325
 - [[Church History, Book VIII|Church History, Book VIII]] — c. 300–325
 - [[Church History, Book X|Church History, Book X]] — c. 300–325
 - [[Life of Constantine, Book I|Life of Constantine, Book I]] — 337–339

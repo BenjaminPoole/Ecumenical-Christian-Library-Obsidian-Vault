@@ -80,4 +80,4 @@ II. Secondly, What is man, with regard to his duration
 14\. Suffice it then for us to know this plain and comfortable truth, -- that the almighty Creator hath shown that regard to this poor little creature of a day, which he hath not shown even to the inhabitants of heaven "who kept not their first estate." He hath given us his Son, his only Son, both to live and to die for us! O let us live unto him, that we may die unto him, and live with him ever!
 
 ---
-[[WS 102 Of Former Times|← 102. Of Former Times]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 104 On Attending the Church Service|104. On Attending the Church Service →]]
+[[WS 102 Of Former Times|← 102. Of Former Times]] · [[John Wesley/Sermons/index|Contents]] · [[WS 104 On Attending the Church Service|104. On Attending the Church Service →]]

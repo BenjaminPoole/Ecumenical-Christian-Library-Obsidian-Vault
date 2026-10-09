@@ -107,5 +107,5 @@ the Poles continued him in his position. Like all Lithuanians, he was opposed to
 **7.** before this date Jerome of Prague had visited Lithuania, and after allowing his beard to grow—a little matter that was never forgiven—had preached before its duke, Witold, Jagiello's cousin. Jagiello, after a most successful reign, died in 1434, and is buried in the Cathedral of Cracow, surrounded by the successors in the dynasty he founded.
 
 ---
-[[Hus Letter 12 Letter XI. To the Supreme Court of Bohemia|← 12. Letter XI. To the Supreme Court of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 14 Letter XIIL. To Ladislaus, King of Poland (June 10|14. Letter XIIL. To Ladislaus, King of →]]
+[[Hus Letter 12 Letter XI. To the Supreme Court of Bohemia|← 12. Letter XI. To the Supreme Court of]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 14 Letter XIIL. To Ladislaus, King of Poland (June 10|14. Letter XIIL. To Ladislaus, King of →]]
 

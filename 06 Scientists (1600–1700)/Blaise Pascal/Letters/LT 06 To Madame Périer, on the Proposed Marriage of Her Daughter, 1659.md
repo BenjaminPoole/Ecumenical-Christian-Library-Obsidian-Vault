@@ -24,4 +24,4 @@ In general, their advice was that you could in no way, without mortally wounding
 Besides, that husbands, although rich and wise in the opinion of the world, are in truth complete pagans in the sight of God; so that the last words of these gentlemen are that to pledge a child to an ordinary man is a species of homicide and a deicide as it were in their own persons.
 
 ---
-[[LT 05 To M. Périer, on His Sister's Profession, 6 June 1653|← To M. Périer, on His Sister's Profession, 6 June 1653]] · [[Letters|Contents]] · [[LT 07 To M. Périer, a Fragment, 1661|To M. Périer, a Fragment, 1661 →]]
+[[LT 05 To M. Périer, on His Sister's Profession, 6 June 1653|← To M. Périer, on His Sister's Profession, 6 June 1653]] · [[Blaise Pascal/Letters|Contents]] · [[LT 07 To M. Périer, a Fragment, 1661|To M. Périer, a Fragment, 1661 →]]

@@ -10,7 +10,7 @@ tags:
 # NPNF1 12: Chrysostom: Homilies on the Epistles of Paul to the Corinthians
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 12 — 75 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[John Chrysostom|John Chrysostom]]
 

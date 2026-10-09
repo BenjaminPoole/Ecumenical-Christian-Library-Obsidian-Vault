@@ -80,4 +80,4 @@ And not only praise, whether deserved or undeserved, but every thing about him t
 12\. O let your heart be whole with God! Seek your happiness in him and him alone. Beware that you cleave not to the dust! "This earth is not your place." See that you use this world as not abusing it; use the world, and enjoy God. Sit as loose to all things here below, as if you were a poor beggar. Be a good steward of the manifold gifts of God; that when you are called to give an account of your stewardship, he may say, "Well done, good and faithful servant, enter thou into the joy of thy Lord!"
 
 ---
-[[WS 107 On God's Vineyard|← 107. On God's Vineyard]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 109 What Is Man|109. What Is Man →]]
+[[WS 107 On God's Vineyard|← 107. On God's Vineyard]] · [[John Wesley/Sermons/index|Contents]] · [[WS 109 What Is Man|109. What Is Man →]]

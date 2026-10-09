@@ -122,7 +122,7 @@ Ergo, Your opinion therein is false. Cranmer:—l say and agree with the church,
 
 Chedsey:— Christ, when he spake these words, “This is my body,” spake of the substance, but not of the effect. body Cranmer:—1l grant he spake of the substance, and not of the effect, after a sort: and yet it is most true, that the body of Christ is effectually in the sacrament. But T deny that he is there truly present in bread, or that under the bread in his organical body. And because it should be too tedious, he said, to make discourse of the whole, he delivered up there his opinion thereof to D. Weston, written at large, with answers to every one of their three propositions; which he desired D. Weston,
 
-[[' See the article in Latin, p. 382, note 2.]]
+' See the article in Latin, p. 382, note 2.
 
 sitting there on high, to read openly to the people; which he promised to do. But Popes. it was not the first promise that such papists have broken.
 
@@ -574,7 +574,7 @@ The flesh eateth the body of Christ:
 
 Ergo, The body of Christ is caten with the mouth.
 
-[[^ Tertullian. De Resurrectione Carnis, cap. viii. p. 330. Ed. Paris. 1664. ]]
+^ Tertullian. De Resurrectione Carnis, cap. viii. p. 330. Ed. Paris. 1664.
 
 Item Phocéus, 1 ad Cor. cap. xi. upon these words: Reus erit corporis et san- — — guinis', &c. SAM
 
@@ -622,7 +622,7 @@ Tresham:—l do not bring Bucer as a patron of our faith, but because he is a ma
 
 Cranmer:—1 say that Christ was communicated unto us, not only by faith, but in very deed also, when he was born of the virgin. We have fellowship with Christ, when we are united in the unity of the church, when we are made flesh of his the flesh, and bones of his bones; and so we are united in the communion, in baptism, py and in faith. by T'resham:—l pray you, what fellowship have we with Christ, in that he is made man? Are not the Turks and Jews therein joined with him? for they are men as we are, and are joined with him in man’s nature, in that he was born of a woman. I speak now of a more near unity: we are made one with Christ by the communion in a perfect unity.
 
-[[! Eos nunc qui inter Patrem et Filium vo- p.133. Ed. Basil. 1535.]]
+! Eos nunc qui inter Patrem et Filium vo- p.133. Ed. Basil. 1535.
 
 [luntatis ingerunt unitatem, interrogo utrumne [3 Bucer. Script. Angl. p. 616. Ex quolocoet]
 

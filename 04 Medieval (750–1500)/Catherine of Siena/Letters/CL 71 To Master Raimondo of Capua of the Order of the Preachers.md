@@ -32,4 +32,4 @@ Now I pray and constrain you, father, and son given by that sweet Mother, Mary, 
 Pray earnestly for me, and have others pray, for the love of Christ crucified. Pardon me, that I have written you words of bitterness. I do not write them, however, to cause you bitterness, but because I am in doubt, and do not know what the Goodness of God will do with me. I wish to have done my duty. And do not feel regret because we are separated one from the other in the body; although you would have been the very greatest consolation to me, greater are my consolation and gladness to see the fruit that you are bearing in Holy Church. And now I beg you to labour yet more zealously, for she never had so great a need: and do you never depart for any persecution without permission from our lord the Pope. Comfort you in Christ sweet Jesus, without any bitterness. I say no more to you. Remain in the holy and sweet grace of God. Sweet Jesus, Jesus Love.
 
 ---
-[[CL 70 To Master Raimondo of Capua|← To Master Raimondo of Capua]] · [[Letters|Contents]]
+[[CL 70 To Master Raimondo of Capua|← To Master Raimondo of Capua]] · [[Catherine of Siena/Letters|Contents]]

@@ -107,11 +107,11 @@ How be you bewitched by these false papists? Why do you suffer them thus to abus
 
 [[ Understood not, C. C. C. C. MS.] [5 But for your own parts, Ibid.] Would assent unto this your first article, Ibid.] [7 An indifferent law, Ibid.]]
 
-[[? Vid. Collection of Tenets from the Canon [8 The bishops, Ibid.]]
+? Vid. Collection of Tenets from the Canon [8 The bishops, Ibid.
 
 [Law, p. 72.]? What meant then those, Ibid.]]
 
-[[^ A spiritual or temporal judge, MS. C. C. [19 And them that moved you, Ibid. ]]
+^ A spiritual or temporal judge, MS. C. C. [19 And them that moved you, Ibid.
 
 [C. €.] [ You give, Ibid.]]
 
@@ -131,7 +131,7 @@ If you had asked, that the word of God might be duly observed and kept every whe
 
 [[' Loving subjects, Ibid.] [2 All other that offend, Ibid.]]
 
-[[^ Vid. Collection of Tenets from the Canon [?' Vid. Collection of Tenets, ἄς. p. 74.]]
+^ Vid. Collection of Tenets from the Canon [?' Vid. Collection of Tenets, ἄς. p. 74.
 
 [Law, p. 72] [33 Of your first article, MS. C. C. C. €.]
 
@@ -139,7 +139,7 @@ If you had asked, that the word of God might be duly observed and kept every whe
 
 [7 Ibid. p. 73.] [?^ Heretic; you had &c., Ibid.]]
 
-[[! Ibid.) [^ And all that be godly, Ibid.]]
+! Ibid.) [^ And all that be godly, Ibid.
 
 persons within this realm, for the very love that they have to God, that his name may be glorified above all things, be daily humble suitors to the king's majesty, that he, following the steps of his father, will study and travail to weed out of this his realm all popish decrees, laws, and canons, and whatsoever else is contrary to God's word; and that the speakers against God's word may be taken (as they be indeed) for heretics. And is any of you so far from reason, that he thinketh the king's majesty ought to hearken to you, that by force and stubbornness! say, you will have Romish laws and decrees kept in this realm, and to turn his ears from them that with all humility be suitors for God's word? But now will I come to your other articles, wherein I will be brief, forasmuch as in the first I have been long and tedious.
 
@@ -231,7 +231,7 @@ So many as be godly”, or have reason, will be satisfied with this. But the mer
 
 [[ For he that speaketh, Ibid.] [? As either be godly, Ibid.]]
 
-[[^ That the soldiers understand, then it availeth [9 Man nor woman, Ibid.]]
+^ That the soldiers understand, then it availeth [9 Man nor woman, Ibid.
 
 [much, Ibid.]]
 

@@ -290,7 +290,7 @@ As touching that you lay to my charge in sundry places of your letters, that I a
 
 And where you say, that I parify you to the false traitors in Lincolnshire, thinking thereby to shew my good-will and charity towards you to be but little, and so thereupon you declare your true obedience to the king's majesty; sir, although you have uncharitably received my letter, and gathered upon me in this point more than can be proved justly, yet did I not intend herein to break charity with you, or to bear you any worse will, in declaring mine opinion, what I thought your servants’ words and such other might prove to, leaving for example that such like words was the ground and foundation of the rebellion lately conceived in Lincolnshire. And to be plain with you, I am sorry to perceive how ready you be to ascribe that to yourself, which was only laid to your servants, for such words as I suppose I can justly prove against them. And therefore when I write this parification (as you call it) of the rebels of Lincolnshire, I nothing thought less than to compare any man hereabout to them: only I shewed what seditious words might do here, as it did there; for I think that if such monitions had been in time there sent to wise men, it would never have come to so great a ruffle as it did. And I do assure you, (by cause the pacifying of seditiousness as much appertaineth to you as to me,) I had
 
-[[ The Institution of a Christian Man. Vid. Letters CXC. CCII. pp. 337, 350.]]
+The Institution of a Christian Man. Vid. Letters CXC. CCII. pp. 337, 350.
 
 thought when I wrote that my said letter to you, you would rather have required of me the names of your servants, the time and place, and to whom those words were spoken, than thus, by taking to yourself the defence of your said servants, impute that the matter was specially rehearsed against you.
 
@@ -398,7 +398,7 @@ To my very singular good lord, my
 
 My very singular good lord, after most hearty commendations unto your lordship;.. these shall be to advertise the same, that as concerning the book lately devised by ᾽:..’ me and other bishops of this realm, which you sent unto me corrected by the king's highness, your lordship shall receive the same again by this bearer the pursuivant, with certain annotations of mine own concerning the same: wherein I trust the king's highness will pardon my presumption, that I have been so scrupulous, and as it were a picker of quarrels to his grace’s book, making a great matter of every light fault, or rather where no fault is at all; which I do only for this intent, that because the book now shall be set forth by his grace's censure and judgment, I would have nothing therein that Momus could reprehend: and yet I refer all mine annotations again to his grace's most exact judgment; and I have ordered my annotations so by numbers, that his grace may readily turn to every place, and in the lower margin of this book, next to the binding, he may find the numbers which shall direct him to the words whereupon I make the annotations: and all those his grace's castigations which I have made none annotation upon, I like them very well; and in divers places also
 
-[[^ Vid. Letter LXXXIII. p. 273, n. 6. Henry Reformat. Vol. I. pp. 195, etsqq. Ed. Oxon. 1829.]]
+^ Vid. Letter LXXXIII. p. 273, n. 6. Henry Reformat. Vol. I. pp. 195, etsqq. Ed. Oxon. 1829.
 
 [Fitzroy, duke of Richmond, died July 22, A.D. [^ Dr Jenkyns(Remains of Abp. Cranmer, Vol.]
 

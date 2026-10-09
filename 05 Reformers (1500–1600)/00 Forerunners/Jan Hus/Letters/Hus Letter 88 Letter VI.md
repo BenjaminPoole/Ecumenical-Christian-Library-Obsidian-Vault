@@ -2908,4 +2908,4 @@ Declaration, see p. 275
 Printed by Eatell, Walton A Viney, Ld,t London and Ayletbury.
 
 ---
-[[Hus Letter 87 Letter VI|← 87. Letter VI]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]]
+[[Hus Letter 87 Letter VI|← 87. Letter VI]] · [[Jan Hus/Letters/index|Contents]]

@@ -59,7 +59,7 @@ judged?! What of this: If thy brother sin against thee, reprove him?? Why, inste
 before the Lord and not what is calumnious and defamatory, the offspring of the spirit of falsehood and error. I am writing without words of flattery, to prevent you sowing the seeds of detraction and scandal among your neighbours, and from the desire that you may abstain from such behaviour and do penance for the offences you have committed. Written on the octave of John Baptist, by the hands of Master John Hus, in hope a servant of Jesus Christ.
 
 ---
-[[Hus Letter 31 Letter XXX. To the Same (April 1413)|← 31. Letter XXX. To the Same (April 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 33 Letter XXXII. To the People of Prague (1414)|33. Letter XXXII. To the People of Prague →]]
+[[Hus Letter 31 Letter XXX. To the Same (April 1413)|← 31. Letter XXX. To the Same (April 1413)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 33 Letter XXXII. To the People of Prague (1414)|33. Letter XXXII. To the People of Prague →]]
 
 
 

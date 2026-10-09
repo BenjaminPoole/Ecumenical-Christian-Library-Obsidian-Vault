@@ -114,4 +114,4 @@ Vagrant emmets crawl At random on the air-suspended ball.
 How uncomfortable is the situation of that man who has no father hope than this! But, on the other hand, how unspeakably "happy is the man that hath the Lord for his help, and whose hope is in the Lord his God!" who can say, "I have set the lord always before me; because he is on my right hand, I shall not be moved!" Therefore, "though I walk through the valley of the shadow of death, I will fear no evil: For thou art with me; thy rod and thy staff comfort me."
 
 ---
-[[WS 066 The Signs of the Times|← 66. The Signs of the Times]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 068 The Wisdom of God's Counsel's|68. The Wisdom of God's Counsel's →]]
+[[WS 066 The Signs of the Times|← 66. The Signs of the Times]] · [[John Wesley/Sermons/index|Contents]] · [[WS 068 The Wisdom of God's Counsel's|68. The Wisdom of God's Counsel's →]]

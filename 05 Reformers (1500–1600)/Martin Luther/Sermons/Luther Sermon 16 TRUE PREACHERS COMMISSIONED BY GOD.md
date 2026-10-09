@@ -25,4 +25,4 @@ tags:
 11\. As said before, this is spoken in denunciation of the false spirits who believe that by reason of eminent equipment of special creation and election, they are called to come to the rescue of the people, expecting wonders from whatever they say and do.
 
 ---
-[[Luther Sermon 15 PAUL'S CONVERTS LIVING EPISTLES|← 15. PAUL'S CONVERTS LIVING EPISTLES]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 17 HUMAN DOCTRINE NO PLACE IN THE CHURCH|17. HUMAN DOCTRINE NO PLACE IN THE CHURCH →]]
+[[Luther Sermon 15 PAUL'S CONVERTS LIVING EPISTLES|← 15. PAUL'S CONVERTS LIVING EPISTLES]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 17 HUMAN DOCTRINE NO PLACE IN THE CHURCH|17. HUMAN DOCTRINE NO PLACE IN THE CHURCH →]]

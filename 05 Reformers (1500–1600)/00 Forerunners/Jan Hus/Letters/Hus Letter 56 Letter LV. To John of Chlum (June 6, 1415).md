@@ -41,7 +41,7 @@ On the following letter Luther (Ep. Piiss. G. 1) comments: ‘A beautiful instan
 This letter, without date, is attributed by Palacky to June 5, presumably early in the morning. But the audience that day was too hurried to well fulfil the conditions of thelast clause. We think it is better to take it as written with a view to the adjourned audience. In the effects of this audience, after his former experience, Hus has ceased to have much confidence.
 
 ---
-[[Hus Letter 55 Letter LIV. To his Friends at Constance ( June 5, 1415)|← 55. Letter LIV. To his Friends at Constance]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 57 Letter LVI. To Peter Mladenowic (June 6, 1415)|57. Letter LVI. To Peter Mladenowic (June →]]
+[[Hus Letter 55 Letter LIV. To his Friends at Constance ( June 5, 1415)|← 55. Letter LIV. To his Friends at Constance]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 57 Letter LVI. To Peter Mladenowic (June 6, 1415)|57. Letter LVI. To Peter Mladenowic (June →]]
 
 
 

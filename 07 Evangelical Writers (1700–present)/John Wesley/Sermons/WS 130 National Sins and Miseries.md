@@ -78,4 +78,4 @@ The horrid oath, the direful curse, That latest weapon of the wretch's war, And 
 London, Nov. 7, 1775
 
 ---
-[[WS 129 The Cause and Cure of Earthquakes|← 129. The Cause and Cure of Earthquakes]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 131 The Late Work of God in North America|131. The Late Work of God in North America →]]
+[[WS 129 The Cause and Cure of Earthquakes|← 129. The Cause and Cure of Earthquakes]] · [[John Wesley/Sermons/index|Contents]] · [[WS 131 The Late Work of God in North America|131. The Late Work of God in North America →]]

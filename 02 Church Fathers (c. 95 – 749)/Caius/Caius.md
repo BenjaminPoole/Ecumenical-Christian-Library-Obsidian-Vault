@@ -7,6 +7,6 @@ tags:
 
 # Caius
 
-1 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+1 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
-- [[Library/Church Fathers/Caius/Fragments|Fragments]] — [[ANF 05|ANF 5]]
+- [[Caius/Fragments|Fragments]] — [[ANF 05|ANF 5]]

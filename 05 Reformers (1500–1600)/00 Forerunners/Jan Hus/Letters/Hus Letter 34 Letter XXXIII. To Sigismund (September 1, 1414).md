@@ -43,7 +43,7 @@ Your Majesty's obedient petitioner in the name of the Lord Jesus Christ.
 [1 Pet. ii. 21, 22,? Matt. v. 10. Supra, p. 60 n. This is rather contradictory of the statement infra, p. me]
 
 ---
-[[Hus Letter 33 Letter XXXII. To the People of Prague (1414)|← 33. Letter XXXII. To the People of Prague]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 35 Letter XXXIV. To his Bohemian Friends On|35. Letter XXXIV. To his Bohemian Friends On →]]
+[[Hus Letter 33 Letter XXXII. To the People of Prague (1414)|← 33. Letter XXXII. To the People of Prague]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 35 Letter XXXIV. To his Bohemian Friends On|35. Letter XXXIV. To his Bohemian Friends On →]]
 
 
 

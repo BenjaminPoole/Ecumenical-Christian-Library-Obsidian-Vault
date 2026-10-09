@@ -336,7 +336,7 @@ Itaque in quam plurimis exemplis, ab Ambrosio pro admirabili naturarum mutatione
 
 Quod vero Ambrosius de substantia panis et vini permansione ad hunc modum judicarit, ex tribus aliis eadem de re, in eodem capite comprehensis, exemplis satis perspicuum est. Primum, ex his qui regenerantur, in quibus post regenerationem prior substantia eadem manet: alterum, de incarnatione Servatoris Christi, ubi nulla omnino discessit substantia, sed seque divinitatis ac humanitatis (quam de virgine accepit) substantia remanet: tertium de aqua baptismi est, ubi aqua etiam aqua esse non desinit, quanquam Spiritus sanctus in aquam se infundat, vel potius in eum cui aqua affunditur.; de Quanquam autem Ambrosius alio in libro, qui inscribitur de sacramentis," dicat, Panis iste panis est ante verba sacramentorum; ubi accesserit. consecratio, de pane
 
-[[! Old editions, qguas.]]
+! Old editions, qguas.
 
 fit caro Christi;" eodem tamen in libro et capite narrat, quibus modis et rationibus id efficiant verba Christi: Non sublata panis substantia, sed adjecta pani corporis Christi gratia, atque adeo imposito illi corporis Christi nomine."
 

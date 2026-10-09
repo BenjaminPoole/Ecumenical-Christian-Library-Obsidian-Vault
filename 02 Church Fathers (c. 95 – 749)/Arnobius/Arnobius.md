@@ -7,7 +7,7 @@ tags:
 
 # Arnobius
 
-7 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+7 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Against the Heathen, Book I|Against the Heathen, Book I]] — [[ANF 06|ANF 6]]
 - [[Against the Heathen, Book II|Against the Heathen, Book II]] — [[ANF 06|ANF 6]]

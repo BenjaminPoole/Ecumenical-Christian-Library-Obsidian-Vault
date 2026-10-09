@@ -89,6 +89,6 @@ Written in prison on Sunday after the Feast of St. Vitus.
 the Council; while his rank would account for his desire to be anonymous. But any identification is at the best a mere guess, and Zabarella’s after conduct does not lend weight to the surmise. “The Father's " first letter took the shape of a form of recantation, which Hus was to fill up and sign. Hus in his reply points out his real difficulty. "Though not very clearly put, there is no note of faltering.:
 
 ---
-[[Hus Letter 66 Letter LXV. To Henry Skopek De Duba (June 13, 1413)|← 66. Letter LXV. To Henry Skopek De Duba]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 68 Letter LXVII. To the father|68. Letter LXVII. To the father →]]
+[[Hus Letter 66 Letter LXV. To Henry Skopek De Duba (June 13, 1413)|← 66. Letter LXV. To Henry Skopek De Duba]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 68 Letter LXVII. To the father|68. Letter LXVII. To the father →]]
 
 

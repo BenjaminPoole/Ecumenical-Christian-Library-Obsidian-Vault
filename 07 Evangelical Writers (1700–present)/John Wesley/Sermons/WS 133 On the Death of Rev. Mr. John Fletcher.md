@@ -205,4 +205,4 @@ Norwich, October 24, 1785
 ### And my work with my God."
 
 ---
-[[WS 132 On Laying the Foundation of the New Chapel, Near the City-Road, London|← 132. On Laying the Foundation of the New Chapel, Near the City-Road, London.]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 134 True Christianity|134. True Christianity →]]
+[[WS 132 On Laying the Foundation of the New Chapel, Near the City-Road, London|← 132. On Laying the Foundation of the New Chapel, Near the City-Road, London.]] · [[John Wesley/Sermons/index|Contents]] · [[WS 134 True Christianity|134. True Christianity →]]

@@ -24,4 +24,4 @@ I have just received your letter, inclosing that of my sister, which I have not 
 My sister made her profession yesterday, Thursday, the 5th of June, 1653. It was impossible for me to delay her: the Messieurs of Port Royal feared that a slight delay might bring on a greater one, and wished to hasten it for the reason that they hope ere long to put her in office; and consequently, it was necessary to hasten, because for this several years of profession are needed. This is the way they paid me. In fine, I could not, etc.
 
 ---
-[[LT 04 To M. and Madame Périer, on the Death of His Father, 17 October 1651|← To M. and Madame Périer, on the Death of His Father, 17 October 1651]] · [[Letters|Contents]] · [[LT 06 To Madame Périer, on the Proposed Marriage of Her Daughter, 1659|To Madame Périer, on the Proposed Marriage of Her Daughter, 1659 →]]
+[[LT 04 To M. and Madame Périer, on the Death of His Father, 17 October 1651|← To M. and Madame Périer, on the Death of His Father, 17 October 1651]] · [[Blaise Pascal/Letters|Contents]] · [[LT 06 To Madame Périer, on the Proposed Marriage of Her Daughter, 1659|To Madame Périer, on the Proposed Marriage of Her Daughter, 1659 →]]

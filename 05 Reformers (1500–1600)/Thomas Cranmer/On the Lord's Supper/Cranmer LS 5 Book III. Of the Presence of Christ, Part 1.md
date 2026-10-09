@@ -204,7 +204,7 @@ Did not you believe, I pray you, many years together, that the bishop of Rome wa
 
 [^ Percase: i.e. perchance, perhaps.] ipse pascua est, ipse redemptio." Bernardus, su-. [ Difficile: i.e. difficult] per Cant. Serm. xxxi. col. 664. Lutet. Paris. 1640.]
 
-[[ Animam pro illis, carnem illis. Illam in [? Thoroughly, 1531.]]
+Animam pro illis, carnem illis. Illam in [? Thoroughly, 1531.
 
 [pretium, istam in cibum, Res mira: ipse pastor,]
 

@@ -22,4 +22,4 @@ The first of these notes announces the first step toward a satisfactory end—th
 The arrival of the olive of peace, of which Catherine sends a portion to her friends, is the fit close to the long drama which had opened when Christ placed the Cross on her shoulder and the olive in her hand, and sent her to bear His command of reconciliation "to one and to the other people."
 
 ---
-[[CL 56 To Don Giovanni of the Cells of Vallombrosa|← To Don Giovanni of the Cells of Vallombrosa]] · [[Letters|Contents]] · [[CL 58 To Monna Alessa When the Saint Was at Florence|To Monna Alessa When the Saint Was at Florence →]]
+[[CL 56 To Don Giovanni of the Cells of Vallombrosa|← To Don Giovanni of the Cells of Vallombrosa]] · [[Catherine of Siena/Letters|Contents]] · [[CL 58 To Monna Alessa When the Saint Was at Florence|To Monna Alessa When the Saint Was at Florence →]]

@@ -20,4 +20,4 @@ Hus appeals to their protection ; He is innocent ; Willing to meet a trial at Pr
 MICHAEL THE PLEADER; Hus ATTACKS THE CLERGY AND THEIB VICES; TROUBLE AT PILSEN 57-8
 
 ---
-[[Hus Letter 10 Letter IX. To John Xxiii. (September 1, 1411)|← 10. Letter IX. To John Xxiii. (September 1]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 12 Letter XI. To the Supreme Court of Bohemia|12. Letter XI. To the Supreme Court of →]]
+[[Hus Letter 10 Letter IX. To John Xxiii. (September 1, 1411)|← 10. Letter IX. To John Xxiii. (September 1]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 12 Letter XI. To the Supreme Court of Bohemia|12. Letter XI. To the Supreme Court of →]]

@@ -75,6 +75,6 @@ infidels, traitors, madmen, wanderers from the entire faith of Christ, and an ac
 As to your proposed change of benefice. It seems to me in all conscience you should on no. account give it up; for I hope that you are a shield where you are, against Antichrist. It is on this account in my judgment that God hath decreed that, as there was a rector in that parish who was the greatest enemy of the truth, so you, on the other side, should be the friend of God's word. As to the parochial clergy and their unwillingness to receive gratefully all the spiritual oversight which they enjoy, you have in Ezekiel, chapter iii, a full verdict for your own justification. Read the passage. I will write to those whose names you give, and I will forward you the treatise, pending their reply to the charges of Stanislaus. Farewell in Christ Jesus. I think I sinned in giving up my preaching at the King's wish: therefore I am not willing to live any longer in this sin.
 
 ---
-[[Hus Letter 27 Letter XXVI. To Master Christian Prachaticz|← 27. Letter XXVI. To Master Christian]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 29 Letter XXVIII. To the Same (April 1413)|29. Letter XXVIII. To the Same (April 1413) →]]
+[[Hus Letter 27 Letter XXVI. To Master Christian Prachaticz|← 27. Letter XXVI. To Master Christian]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 29 Letter XXVIII. To the Same (April 1413)|29. Letter XXVIII. To the Same (April 1413) →]]
 
 

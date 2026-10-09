@@ -31,7 +31,7 @@ works before his faith; where as faith was not, good works were not. The intent,
 
 And this matter (which St Augustine at large in many books disputeth) St Am- " brose concludeth in few words, saying: “He that by nature would withstand vice, either by natural will or reason, he doth in vain garnish the time of this life, and attaineth not the very true virtues; for without the worshipping of the true God that which seemeth to be virtue is vice. de And yet most plainly to this purpose writeth St John Chrysostom in this wise: “You shall find many which have not the true faith, and be not of the flock of
 
-[[᾿ Debemus nulla opera preponere fidei:id est, Tom. VIII. p. 408. ]]
+᾿ Debemus nulla opera preponere fidei:id est, Tom. VIII. p. 408.
 
 [ut ante fidem quisquam dicatur bene operatus. Ea [? Omnis infidelium vita peccatum est, et nihil]
 
@@ -171,7 +171,7 @@ Thus have you heard how much the world, from the beginning until Christ's time, 
 
 [[^ Leaven, mingled with, Ed. 1566.] [19 And how they did set up their own traditions,]
 
-[[^ And overwart, Ed. 1560, And overthart, Ed. Ibid.]]
+^ And overwart, Ed. 1560, And overthart, Ed. Ibid.
 
 [1562. ] (? Ed. 1560 omits the words to have preferred]
 

@@ -30,4 +30,4 @@ Concerning the affairs of Benincasa, I cannot reply unless I am at Siena. Thank 
 Catherine, servant of the servants of God.
 
 ---
-[[CL 16 To a Religious Man in Florence Who Was Shocked at her Ascetic Practices|← To a Religious Man in Florence Who Was Shocked at her Ascetic Practices]] · [[Letters|Contents]] · [[CL 18 To Brother Matteo DI Francesco Tolomei of the Order of the Preachers|To Brother Matteo DI Francesco Tolomei of the Order of the Preachers →]]
+[[CL 16 To a Religious Man in Florence Who Was Shocked at her Ascetic Practices|← To a Religious Man in Florence Who Was Shocked at her Ascetic Practices]] · [[Catherine of Siena/Letters|Contents]] · [[CL 18 To Brother Matteo DI Francesco Tolomei of the Order of the Preachers|To Brother Matteo DI Francesco Tolomei of the Order of the Preachers →]]

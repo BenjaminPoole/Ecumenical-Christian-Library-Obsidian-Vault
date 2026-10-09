@@ -25,5 +25,5 @@ know that they have perused these books more carefully than the Holy Scriptures 
 Sent off on Thursday evening before St. Peter's Eve. Amen.
 
 ---
-[[Hus Letter 77 Letter LXXVI. To the Faithful Bohemians (June 26, 1415)|← 77. Letter LXXVI. To the Faithful Bohemians]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 79 Letter LXXVIIL. To the University of Prague|79. Letter LXXVIIL. To the University of →]]
+[[Hus Letter 77 Letter LXXVI. To the Faithful Bohemians (June 26, 1415)|← 77. Letter LXXVI. To the Faithful Bohemians]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 79 Letter LXXVIIL. To the University of Prague|79. Letter LXXVIIL. To the University of →]]
 

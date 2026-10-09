@@ -139,5 +139,5 @@ I write what has occurred to my mind. If I think of anything further I will writ
 In the year of our Lord 1412 (sic) on the Lord's day the feast of Prisca.:
 
 ---
-[[Hus Letter 7 Letter VI. To Master Richard wyche of England|← 7. Letter VI. To Master Richard wyche of]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 9 Letter VIII. To John Barbatus (May 25, 1411)|9. Letter VIII. To John Barbatus (May 25 →]]
+[[Hus Letter 7 Letter VI. To Master Richard wyche of England|← 7. Letter VI. To Master Richard wyche of]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 9 Letter VIII. To John Barbatus (May 25, 1411)|9. Letter VIII. To John Barbatus (May 25 →]]
 

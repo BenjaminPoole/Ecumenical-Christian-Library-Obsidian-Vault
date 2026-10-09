@@ -108,7 +108,7 @@ And note, that it is not for nought that he saith, Hunger and thirst. For except
 
 But to comfort us, that we faint not or be weary of well doing, Christ promiseth that all that have this thirst and hunger shall have their lust satisfied, and be translated into a kingdom where none unrighteousness is; besides that
 
-[[! So D., but L. has that aught.]]
+! So D., but L. has that aught.
 
 thou shalt here at length? see many come to the right way, and help with thee, and many things that cannot be altogether mended, yet somewhat bettered and more tolerable; so that all righteousness shall not be quenched.
 

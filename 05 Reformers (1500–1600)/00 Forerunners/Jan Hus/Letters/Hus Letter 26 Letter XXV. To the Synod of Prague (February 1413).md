@@ -47,6 +47,6 @@ Furthermore, they state that though the rector excommunicates some of the doctor
 Their judgment, therefore, inasmuch as it is disgraceful, should be rejected.
 
 ---
-[[Hus Letter 25 Letter XXIV. To the Same (January 1413)|← 25. Letter XXIV. To the Same (January 1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 27 Letter XXVI. To Master Christian Prachaticz|27. Letter XXVI. To Master Christian →]]
+[[Hus Letter 25 Letter XXIV. To the Same (January 1413)|← 25. Letter XXIV. To the Same (January 1413)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 27 Letter XXVI. To Master Christian Prachaticz|27. Letter XXVI. To Master Christian →]]
 
 

@@ -92,4 +92,4 @@ From hence we may learn, Secondly, a lesson of faith, of confidence in God. A fu
 From a consciousness of our ignorance we may learn, Thirdly, a lesson of resignation. We may be instructed to say at all times and in all instances, "Father, not as I will; but as thou wilt." This was the last lesson which our blessed Lord (as man) learnt while he was upon earth. He could go no higher than, "Not as I will, but as thou wilt," till he bowed his head and gave up the ghost. Let us also herein be made conformable to his death, that we may know the full "power of his resurrection!" [Preached at Bristol, March 5, 1784]
 
 ---
-[[WS 068 The Wisdom of God's Counsel's|← 68. The Wisdom of God's Counsel's]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 070 The Case of Reason Impartially Considered|70. The Case of Reason Impartially Considered →]]
+[[WS 068 The Wisdom of God's Counsel's|← 68. The Wisdom of God's Counsel's]] · [[John Wesley/Sermons/index|Contents]] · [[WS 070 The Case of Reason Impartially Considered|70. The Case of Reason Impartially Considered →]]

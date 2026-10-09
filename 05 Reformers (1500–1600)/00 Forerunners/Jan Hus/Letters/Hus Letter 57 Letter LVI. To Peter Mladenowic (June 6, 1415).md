@@ -47,6 +47,6 @@ Zabarella then pointed out the number and standing of the witnesses against him.
 One by one the old controversies and disputes were brought into court: the forty-five articles, the burning of the books, the expulsion of the Germans, and the rest. The day ended with some plain advice from Sigismund. He owned that he had given Hus a safe-conduct. As regards those who claimed that this was ultra vires, he was not careful to answer in the matter: for I have told them that I will not defend any heretic who is obstinately determined to stick to his heresy. SoI counsel you to fling yourself wholly on the grace of the Council; the quicker the better, lest you fall into a worse plight.” Hus was then removed to the prison (Mladenowic’s Relatio in Doc. 276-85).
 
 ---
-[[Hus Letter 56 Letter LV. To John of Chlum (June 6, 1415)|← 56. Letter LV. To John of Chlum (June 6]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 58 Letter LVII. To his Friends in Constance ( June 7, 1415)|58. Letter LVII. To his Friends in →]]
+[[Hus Letter 56 Letter LV. To John of Chlum (June 6, 1415)|← 56. Letter LV. To John of Chlum (June 6]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 58 Letter LVII. To his Friends in Constance ( June 7, 1415)|58. Letter LVII. To his Friends in →]]
 
 

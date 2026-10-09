@@ -63,6 +63,6 @@ Methinks therefore that God from time to time by their inventions reveals to us 
 [who had allowed his beard to grow in Lithuania, shaved, and x]
 
 ---
-[[Hus Letter 30 Letter XXIX. To the Same (1413)|← 30. Letter XXIX. To the Same (1413)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 32 Letter XXXI. To Master John Sybart in the University of|32. Letter XXXI. To Master John Sybart in →]]
+[[Hus Letter 30 Letter XXIX. To the Same (1413)|← 30. Letter XXIX. To the Same (1413)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 32 Letter XXXI. To Master John Sybart in the University of|32. Letter XXXI. To Master John Sybart in →]]
 
 

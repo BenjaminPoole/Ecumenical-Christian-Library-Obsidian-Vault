@@ -54,4 +54,4 @@ This is peculiarly observable of almost all those who assert the absolute decree
 O that men would praise the Lord for this his goodness; and that they would be content with this plain account of it, and not endeavour to wade into those mysteries which are too deep for angels to fathom!
 
 ---
-[[WS 057 On the Fall of Man|← 57. On the Fall of Man]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 059 God's Love to Fallen Man|59. God's Love to Fallen Man →]]
+[[WS 057 On the Fall of Man|← 57. On the Fall of Man]] · [[John Wesley/Sermons/index|Contents]] · [[WS 059 God's Love to Fallen Man|59. God's Love to Fallen Man →]]

@@ -59,7 +59,7 @@ SROPERTY Ore PRINCETON Ὁ SERMONS DIVIDED INTO
 
 ## Decades
 
-[[BULLINGER.]]
+BULLINGER.
 
 ## Fiftie Divided Decades Containing
 

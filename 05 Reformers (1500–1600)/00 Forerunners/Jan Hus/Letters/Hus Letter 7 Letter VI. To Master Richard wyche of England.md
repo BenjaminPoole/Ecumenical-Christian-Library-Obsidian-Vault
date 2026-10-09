@@ -199,7 +199,7 @@ same Hus further wrote a letter to the cardinals in the same tenor. Both of thes
 With this introduction, the following letters, for the most part full of the strife of the times, will explain themselves:—
 
 ---
-[[Hus Letter 6 Letter V. To the People of Laun (1410)|← 6. Letter V. To the People of Laun (1410)]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 8 Letter VII. To a Certain Monk (January 18, 1411)|8. Letter VII. To a Certain Monk (January →]]
+[[Hus Letter 6 Letter V. To the People of Laun (1410)|← 6. Letter V. To the People of Laun (1410)]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 8 Letter VII. To a Certain Monk (January 18, 1411)|8. Letter VII. To a Certain Monk (January →]]
 
 
 

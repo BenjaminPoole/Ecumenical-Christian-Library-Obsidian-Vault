@@ -10,7 +10,7 @@ tags:
 # ANF 8: Fathers of the Third and Fourth Centuries: The Twelve Patriarchs, Excerpts and Epistles, the Clementina, Apocrypha, Decretals, Memoirs of Edessa and Syriac Documents, Remains of the First Ages
 
 *Ante-Nicene Fathers, Volume 8 — 76 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Theodotus|Theodotus]]
 

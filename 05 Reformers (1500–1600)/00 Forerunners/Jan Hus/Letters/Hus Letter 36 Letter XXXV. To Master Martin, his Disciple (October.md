@@ -61,5 +61,5 @@ Bechyne, whose name we shall meet with more than once in the letters. From this 
 Hus left Bohemia by the valley of the Mies. This was not the usual route over the Bóhmerwald, which lay either north or south; but at Neustadt he would regain the more frequented highway. His route thence to Constance can easily be followed on a map. On arriving at Nuremberg Hus wrote the following most interesting letter to his friends at Prague. Hus, we might add, might reasonably expect a warm welcome at Nuremberg, which was at this time one of the head centres of that remarkable band of mysties, the Friends of God.
 
 ---
-[[Hus Letter 35 Letter XXXIV. To his Bohemian Friends On|← 35. Letter XXXIV. To his Bohemian Friends On]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 37 Letter XXXVI. To his Bohemian Friends (October 20, 1414)|37. Letter XXXVI. To his Bohemian Friends →]]
+[[Hus Letter 35 Letter XXXIV. To his Bohemian Friends On|← 35. Letter XXXIV. To his Bohemian Friends On]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 37 Letter XXXVI. To his Bohemian Friends (October 20, 1414)|37. Letter XXXVI. To his Bohemian Friends →]]
 

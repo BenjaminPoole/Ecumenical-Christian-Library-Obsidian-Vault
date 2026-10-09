@@ -47,7 +47,7 @@ Item, That every petty canon and vicar of this church do personally receive the 
 
 Item, That no sale be hereafter made of any goods belonging to the said church without the consent of the dean and chapter.
 
-[[! See third Article of Visitation above, p. 159.]]
+! See third Article of Visitation above, p. 159.
 
 ---
 [[Cranmer MW 21 Articles of Inquiry, 1550|← 21. Articles of Inquiry, 1550]] · [[Library/protestant reformers/Thomas Cranmer/Miscellaneous Writings and Letters/cranmer-misc-index|Contents]] · [[Cranmer MW 23 Answer to the Fifteen Articles of the Rebels of Devon|23. Answer to the Fifteen Articles of the →]]

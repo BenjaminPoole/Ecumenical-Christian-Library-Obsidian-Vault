@@ -7,7 +7,7 @@ tags:
 
 # Clement of Alexandria
 
-25 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+25 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Exhortation to the Heathen, Chapter 1|Exhortation to the Heathen, Chapter 1]] — [[ANF 02|ANF 2]]
 - [[Exhortation to the Heathen, Chapter 2|Exhortation to the Heathen, Chapter 2]] — [[ANF 02|ANF 2]]
@@ -21,7 +21,7 @@ tags:
 - [[Exhortation to the Heathen, Chapter 10|Exhortation to the Heathen, Chapter 10]] — [[ANF 02|ANF 2]]
 - [[Exhortation to the Heathen, Chapter 11|Exhortation to the Heathen, Chapter 11]] — [[ANF 02|ANF 2]]
 - [[Exhortation to the Heathen, Chapter 12|Exhortation to the Heathen, Chapter 12]] — [[ANF 02|ANF 2]]
-- [[Library/Church Fathers/Clement_of_Alexandria/Fragments|Fragments]] — [[ANF 02|ANF 2]]
+- [[Clement of Alexandria/Fragments|Fragments]] — [[ANF 02|ANF 2]]
 - [[The Paedagogus (02092)|The Paedagogus]] — [[ANF 02|ANF 2]]
 - [[The Paedagogus (02093)|The Paedagogus]] — [[ANF 02|ANF 2]]
 - [[The Paedagogus|The Paedagogus]] — [[ANF 02|ANF 2]]

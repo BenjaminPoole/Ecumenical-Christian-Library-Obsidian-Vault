@@ -76,4 +76,4 @@ III. 1. From the preceding considerations, may we not learn, First, "He that tru
 Halifax, April 21, 1790
 
 ---
-[[WS 122 On Faith|← 122. On Faith]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 124 The Heavenly Treasure in Earthen Vessels|124. The Heavenly Treasure in Earthen Vessels →]]
+[[WS 122 On Faith|← 122. On Faith]] · [[John Wesley/Sermons/index|Contents]] · [[WS 124 The Heavenly Treasure in Earthen Vessels|124. The Heavenly Treasure in Earthen Vessels →]]

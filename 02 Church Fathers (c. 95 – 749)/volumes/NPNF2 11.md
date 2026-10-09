@@ -10,7 +10,7 @@ tags:
 # NPNF2 11: Sulpitius Severus, Vincent of Lerins, John Cassian
 
 *Nicene and Post-Nicene Fathers, Series II, Volume 11 — 49 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Sulpitius Severus|Sulpitius Severus]]
 

@@ -265,7 +265,7 @@ Antony Marten, examyned what he harde spoken of Henry Totehill syns he was in hi
 
 Mv singular good lord, after my most hearty commendations unto your lordship; ia: these shall be to signify unto the same, that I have received your letters with two patents, one of them concerning the stewardship of my liberties, the other of the mastership of my game; which patents I have sealed, and sent unto your lordship by Nevell my steward, whom nevertheless I have commanded not to deliver, until such time as your counsel and mine have concluded that I may justly deliver them: for although, as I am bound, I am very glad and ready to do for your lordship that I may do, yet to do more than I may justly do neither standeth with justice, nor will at length be to your honour and benefit, nor mine neither; for if I should grant your patents, the state of things standing as they do at this present, so far as yet I do know, surely as well the heirs of the lord of Bargaveney?, as the son of sir Edward Nevell, may hereafter not only recover of me the arrearages, but also bring your patents in question; which I were very loth should chance, for default of an oversight at the beginning. But by cause your counsel have informed your lordship that these patents may justly pass, and I am not instructed as yet how it may be done, nor I have not my counsel here at this time; therefore I beseech your lordship that your counsel learned may commune with Mr James Halis and Mr Boys, my
 
-[[! The interlude concerning king John, which is [? Vid. Letters XXXI. CCLI. pp. 253, 387.]]
+! The interlude concerning king John, which is [? Vid. Letters XXXI. CCLI. pp. 253, 387.
 
 [here mentioned, is probably bishop Bale's King [3 Probably ' Sir James Hales, knight, a pious]
 
@@ -345,7 +345,7 @@ wilh other of the king's council there.
 
 ## CCLVII. To Lord Lisle
 
-[[' This letter has not appeared in any previous collection. ]]
+' This letter has not appeared in any previous collection.
 
 behalf; and as for to get you a discreet priest for your parish, I shall do what I can to provide you one with expedition; and likewise to provide you a learned man to be my commissary? I will do the best that lieth in me. Howbeit, I fear me, that I shall with much difficulty obtain such a one, by reason that learned men are not willing to demore continually beyond the sea and out of the realm, without great stipend, which will be to me no small charge over that it was. Nevertheless I do little pass of any charge, so that I may get one that will mind the advancement of God's glory, the king's honour, and the quietness of your town. And as to your request, that none should be suffered to preach nor expound the holy scripture with you, but such as shall be authorised by the king's majesty or by me, I shall not fail to give such a commandment unto him that shall be my commissary, that he shall suffer no person to preach out of his own cure, but such as shall have the said authority, either from the king's grace or from me.
 

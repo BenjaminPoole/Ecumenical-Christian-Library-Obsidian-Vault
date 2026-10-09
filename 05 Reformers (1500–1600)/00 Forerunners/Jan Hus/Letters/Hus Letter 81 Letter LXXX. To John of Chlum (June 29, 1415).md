@@ -31,5 +31,5 @@ We were pressed out of measure above owr strength, so that we were weary even of
 I beg you for God’s sake still keep on writing, if youcan. I ask especially that greetings be conveyed to her Majesty the Queen,? and that she be counselled to be loyal to the truth and not offended in me, as though I were a heretic. Convey my greetings to your wife also, whom I beg you to love in Christ Jesus; for I trust she is a daughter of God through her obedience to His commands. Greet all the friends of the truth for God's sake.
 
 ---
-[[Hus Letter 80 Letter LXXIX. To Wenzel De Duba and John of Chlum|← 80. Letter LXXIX. To Wenzel De Duba and]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 82 Letter LXXXII. To his Friends in Bohemia ( June 29|82. Letter LXXXII. To his Friends in →]]
+[[Hus Letter 80 Letter LXXIX. To Wenzel De Duba and John of Chlum|← 80. Letter LXXIX. To Wenzel De Duba and]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 82 Letter LXXXII. To his Friends in Bohemia ( June 29|82. Letter LXXXII. To his Friends in →]]
 

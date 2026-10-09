@@ -7,7 +7,7 @@ tags:
 
 # John Cassian
 
-40 work(s). Up: [[Library/Church Fathers/index|Church Fathers]]
+40 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Conference 1|Conference 1]] — [[NPNF2 11|NPNF2 11]]
 - [[Conference 2|Conference 2]] — [[NPNF2 11|NPNF2 11]]

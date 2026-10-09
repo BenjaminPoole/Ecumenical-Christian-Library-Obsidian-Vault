@@ -96,4 +96,4 @@ Know God, and teach your souls to know The joys that from religion flow.
 Give your hearts to Him who, together with ten thousand blessings, has given you his Son, his only Son! Let your continual "fellowship be with the Father, and with his Son, Jesus Christ!" Let God be in all your thoughts, and ye will be men indeed. Let him be your God and your All, -- the desire of your eyes, the joy of your heart, and your portion for ever.
 
 ---
-[[WS 059 God's Love to Fallen Man|← 59. God's Love to Fallen Man]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 061 The Mystery of Iniquity|61. The Mystery of Iniquity →]]
+[[WS 059 God's Love to Fallen Man|← 59. God's Love to Fallen Man]] · [[John Wesley/Sermons/index|Contents]] · [[WS 061 The Mystery of Iniquity|61. The Mystery of Iniquity →]]

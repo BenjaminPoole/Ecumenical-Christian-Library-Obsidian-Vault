@@ -74,4 +74,4 @@ O cunae in terras animae, et caelestium inanes! O souls, bow'd down to earth, st
 Repent, repent of your vile earthly-mindedness! Renounce the title of Christians, or prefer, both in your own case and the case of your children, grace to money, and heaven to earth! For the time to come, at least, "let your eye be single," that your "whole body may be full of light!"
 
 ---
-[[WS 117 On Knowing Christ After the Flesh|← 117. On Knowing Christ After the Flesh]] · [[Library/John Wesley/Sermons/js-sermons-index|Contents]] · [[WS 119 On Worldly Folly|119. On Worldly Folly →]]
+[[WS 117 On Knowing Christ After the Flesh|← 117. On Knowing Christ After the Flesh]] · [[John Wesley/Sermons/index|Contents]] · [[WS 119 On Worldly Folly|119. On Worldly Folly →]]

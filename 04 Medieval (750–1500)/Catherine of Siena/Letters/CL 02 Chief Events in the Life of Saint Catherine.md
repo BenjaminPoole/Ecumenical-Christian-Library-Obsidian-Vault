@@ -42,4 +42,4 @@ tags:
 1380. Catherine succeeds in quieting the revolt of the Romans against Urban. She dedicates herself as a sacrificial victim, in expiation of the sins of the Church and of the Roman people. In vision at St. Peter's, on Sexagesima Sunday, the burden of the Ship of the Church descends upon her shoulders. Her physical sufferings increase, and on April 30th she dies, in the presence of her disciples.
 
 ---
-[[CL 01 St. Catherine of Siena as Seen in her Letters|← St. Catherine of Siena as Seen in her Letters]] · [[Letters|Contents]] · [[CL 03 Brief Table of Contemporary Public Events|Brief Table of Contemporary Public Events →]]
+[[CL 01 St. Catherine of Siena as Seen in her Letters|← St. Catherine of Siena as Seen in her Letters]] · [[Catherine of Siena/Letters|Contents]] · [[CL 03 Brief Table of Contemporary Public Events|Brief Table of Contemporary Public Events →]]

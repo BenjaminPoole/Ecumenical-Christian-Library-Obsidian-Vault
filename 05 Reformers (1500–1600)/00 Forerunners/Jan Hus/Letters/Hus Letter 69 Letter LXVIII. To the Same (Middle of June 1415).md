@@ -29,6 +29,6 @@ The next letter of Hus is remarkable for the boldness with which Hus asserted hi
 The letter is undated; nevertheless it contains some evidence of time. The last copy of the articles,’ to which Hus refers on p. 244, were ' the articles read against the doctrine and person of Hus on June 18 in public congregation, a copy of which, with Hus's corrections in writing, has been preserved for us by Mladenowie (Doc. 225-33). Another mark of time will be found in the reference in the last paragraph to the decree of the Council forbidding the cup. "This fatal decree, which deluged Bohemia with blood, was formally passed on June 15, 1415.
 
 ---
-[[Hus Letter 68 Letter LXVII. To the father|← 68. Letter LXVII. To the father]] · [[Library/protestant reformers/Jan Hus/Letters/letters-index|Contents]] · [[Hus Letter 70 Letter LXIX. To his Friends in Constance (After June|70. Letter LXIX. To his Friends in →]]
+[[Hus Letter 68 Letter LXVII. To the father|← 68. Letter LXVII. To the father]] · [[Jan Hus/Letters/index|Contents]] · [[Hus Letter 70 Letter LXIX. To his Friends in Constance (After June|70. Letter LXIX. To his Friends in →]]
 
 

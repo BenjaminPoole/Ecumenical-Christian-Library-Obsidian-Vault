@@ -10,7 +10,7 @@ tags:
 # NPNF1 5: Augustine: Anti-Pelagian Writings
 
 *Nicene and Post-Nicene Fathers, Series I, Volume 5 — 24 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Augustine of Hippo|Augustine of Hippo]]
 

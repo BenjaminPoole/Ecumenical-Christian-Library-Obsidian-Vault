@@ -10,7 +10,7 @@ tags:
 # ANF 6: Fathers of the Third Century: Gregory Thaumaturgus, Dionysius the Great, Julius Africanus, Anatolius and Minor Writers, Methodius, Arnobius
 
 *Ante-Nicene Fathers, Volume 6 — 51 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Gregory Thaumaturgus|Gregory Thaumaturgus]]
 
@@ -54,7 +54,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 ## [[Peter of Alexandria|Peter of Alexandria]]
 
 - [[02 Church Fathers (c. 95 – 749)/Peter of Alexandria/Canonical Epistle|Canonical Epistle]] — 306
-- [[Library/Church Fathers/Peter_of_Alexandria/Fragments|Fragments]] — c. 300–311
+- [[Peter of Alexandria/Fragments|Fragments]] — c. 300–311
 - [[The Acts of Peter of Alexandria|The Acts of Peter of Alexandria]] — 5th–6th century
 
 ## [[Alexander of Alexandria|Alexander of Alexandria]]
@@ -77,7 +77,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Banquet of the Ten Virgins, Introduction|Banquet of the Ten Virgins, Introduction]] — c. 260–290
 - [[Concerning Free Will|Concerning Free Will]] — c. 260–311
 - [[Fragments (0629)|Fragments]] — c. 260–311
-- [[Library/Church Fathers/Methodius/Fragments|Fragments]] — c. 260–311
+- [[Methodius/Fragments|Fragments]] — c. 260–311
 - [[From the Discourse on the Resurrection|From the Discourse on the Resurrection]] — c. 260–311
 - [[Oration on Simeon and Anna|Oration on Simeon and Anna]] — 4th century or later
 - [[Oration on the Psalms|Oration on the Psalms]] — 4th century or later

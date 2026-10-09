@@ -32,4 +32,4 @@ I have talked to the Holy Father. He heard me graciously, by God's goodness and 
 Given in Avignon, the 28th day of June, 1376.
 
 ---
-[[CL 35 Letters to Florence|← Letters to Florence]] · [[Letters|Contents]] · [[CL 37 To Buonaccorso DI Lapo in Florence Written When the Saint Was at Avignon|To Buonaccorso DI Lapo in Florence Written When the Saint Was at Avignon →]]
+[[CL 35 Letters to Florence|← Letters to Florence]] · [[Catherine of Siena/Letters|Contents]] · [[CL 37 To Buonaccorso DI Lapo in Florence Written When the Saint Was at Avignon|To Buonaccorso DI Lapo in Florence Written When the Saint Was at Avignon →]]

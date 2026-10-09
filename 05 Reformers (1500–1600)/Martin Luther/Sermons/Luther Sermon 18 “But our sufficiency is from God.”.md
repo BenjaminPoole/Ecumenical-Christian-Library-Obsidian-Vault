@@ -21,4 +21,4 @@ tags:
 “Who also made us sufficient as ministers of a new covenant; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.”
 
 ---
-[[Luther Sermon 17 HUMAN DOCTRINE NO PLACE IN THE CHURCH|← 17. HUMAN DOCTRINE NO PLACE IN THE CHURCH]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 19 THE NEW COVENANT|19. THE NEW COVENANT →]]
+[[Luther Sermon 17 HUMAN DOCTRINE NO PLACE IN THE CHURCH|← 17. HUMAN DOCTRINE NO PLACE IN THE CHURCH]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 19 THE NEW COVENANT|19. THE NEW COVENANT →]]

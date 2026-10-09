@@ -39,4 +39,4 @@ tags:
 11\. In these words the soul finds a well prepared table, at which it satisfies all hunger; for it knows for a certainty that he who speaks these words cannot lie. Therefore the soul falls upon the Word, clings to it, trusts in it, and also builds its dwelling-place in the strength of this well-prepared table. This is the feast for which the heavenly Father slayed his oxen and fatlings and invited us all to it.
 
 ---
-[[Luther Sermon 37 ON FAITH AND COMING TO CHRIST, AND THE TRUE BREAD OF|← 37. ON FAITH AND COMING TO CHRIST, AND THE]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 39 SECTION II. The Bread Of Heaven|39. SECTION II. The Bread Of Heaven →]]
+[[Luther Sermon 37 ON FAITH AND COMING TO CHRIST, AND THE TRUE BREAD OF|← 37. ON FAITH AND COMING TO CHRIST, AND THE]] · [[Martin Luther/Sermons/index|Contents]] · [[Luther Sermon 39 SECTION II. The Bread Of Heaven|39. SECTION II. The Bread Of Heaven →]]

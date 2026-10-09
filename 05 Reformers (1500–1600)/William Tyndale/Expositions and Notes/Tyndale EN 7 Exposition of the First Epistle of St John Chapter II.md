@@ -111,7 +111,7 @@ Whereupon the bishops that succeeded the apostles, when men had done any open si
 
 When the bishops saw that, how they had gotten the simple people under them in such humble obedience, they began to set up their crests, and to reign over them as princes, and to enjoin sore penance for small trifles, namely if aught were done against their pleasure; and beat some gore, and spared other, and sold their penance to the rich, and overladed the poor, until the tyranny was waxen so grievous that the people would bear it no longer. For by [3 Augustine tells us that Paulinus, bishop of Nola, wrote to him, quzerens a me utrum prosit cuique post mortem, quod corpus ejus apud saneti alicujus memoriam sepelitur. In reply he composed his treatise De cura agenda pro mortuis; in which he explains the origin of the name memoria or memorial, as follows: Non ob aliud vel memorize vel monumenta dicuntur ea que insignita fiunt sepulera mortuorum, nisi quia eos qui viventium oculis morte subtracti sunt, ne oblivione etiam cordibus subtrahantur, in memoriam revocant, et admonendo faciunt eogitari; nam et memorie nomen id apertissime ostendit, et monumentum eo quod moneat mentem, id est admoneat, nuncupatur.—Op. Tom. v1. col. 515, 519, C.] 1
 
-[[TYNDALE, IL]]
+TYNDALE, IL
 
 this time, what with the multitude of ceremonies, and heap of — men's constitutions, whose right use was thereto clean forgotten, — and partly because our shepherds were busied to seek them- 1 selves and their high authority, and exalted every man his throne, and were become wolves unto the flock, the cause why 5 the people were disobedient unto wholesome counsel was, that! Ὁ the word of God was sore darkened, and no where purely preached. And therefore the prelates, loath to lose their high authority, and to let the people go free of their yoke, began to turn their tale, and sing a new song, how that this — - penance was enjoined to make satisfaetion to God for the sin 1 that was committed; robbing our souls of the fruit of Christ's blood, and making us image-servants; referring our deeds unto the person of God, and worshipping him, as an image of our own imagination, with bodily work: saying moreover, i if we would not do such penance here at their injunctions, we: Inu do it in another world; and so feigned purgatory, where i we must suffer seven years for every sin. And when the I kingdom of antichrist was so enlarged that it must have a: head, they set up our holy father of Rome, or he rather I usurped the realm? with violence; and to him was given this — — prerogative, to sell whom he would from purgatory?.
 
@@ -267,7 +267,7 @@ the world, the love of the Father is not in him. For all that is in
 
 the world, as the lust of the flesh, the lust of the eyes, and the pride of good, are ποὺ of the Father, but are of the world. And the world
 
-[[! In P. C. L. own is wanting.]]
+! In P. C. L. own is wanting.
 
 vanisheth away, and the lust thereof: but he that doeth the will of God abideth ever.
 

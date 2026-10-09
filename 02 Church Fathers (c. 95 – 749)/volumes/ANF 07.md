@@ -10,7 +10,7 @@ tags:
 # ANF 7: Fathers of the Third and Fourth Centuries: Lactantius, Venantius, Asterius, Victorinus, Dionysius, Apostolic Teaching and Constitutions, Homily, and Liturgies
 
 *Ante-Nicene Fathers, Volume 7 — 29 works.*
-Up: [[Library/Church Fathers/index|Church Fathers]]
+Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 ## [[Lactantius|Lactantius]]
 
@@ -23,7 +23,7 @@ Up: [[Library/Church Fathers/index|Church Fathers]]
 - [[Divine Institutes, Book VI|Divine Institutes, Book VI]] — c. 304–311
 - [[Divine Institutes, Book VII|Divine Institutes, Book VII]] — c. 304–311
 - [[Epitome of the Divine Institutes|Epitome of the Divine Institutes]] — c. 315–320
-- [[Library/Church Fathers/Lactantius/Fragments|Fragments]] — c. 303–321
+- [[Lactantius/Fragments|Fragments]] — c. 303–321
 - [[Of the Manner in Which the Persecutors Died|Of the Manner in Which the Persecutors Died]] — c. 313–315
 - [[On the Anger of God|On the Anger of God]] — c. 313–315
 - [[On the Workmanship of God|On the Workmanship of God]] — c. 303–304
