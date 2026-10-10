@@ -105,69 +105,69 @@ Here ends the Prologue.
 
 [^1]: Ecclus. xlviii. 12 (vg.).
 
-[^2]: 1 Tim. v. 6 . Cp. Rev. iii. 1 .
+[^2]: 1 Tim. v. 6. Cp. Rev. iii. 1.
 
-[^3]: Matt. xxiv. 12 .
+[^3]: Matt. xxiv. 12.
 
 [^4]: Job xli. 22 (vg.).
 
-[^5]: Luke xvi. 8 .
+[^5]: Luke xvi. 8.
 
-[^6]: Gal. ii. 9 .
+[^6]: Gal. ii. 9.
 
-[^7]: Isa. xlix. 6 .
+[^7]: Isa. xlix. 6.
 
-[^8]: Matt. vi. 23 .
+[^8]: Matt. vi. 23.
 
-[^9]: 1 Tim. vi. 5 .
+[^9]: 1 Tim. vi. 5.
 
-[^10]: Phil. ii. 21 ; 1 Cor. xiii. 5 .
+[^10]: Phil. ii. 21; 1 Cor. xiii. 5.
 
-[^11]: Matt. v. 47 .
+[^11]: Cp. Matt. v. 47.
 
-[^12]: Luke iii. 14 .
+[^12]: Luke iii. 14.
 
-[^13]: Isa. xxiv. 2 ; Hos. iv. 9 (inexact quotation).
+[^13]: Isa. xxiv. 2; Hos. iv. 9 (inexact quotation).
 
 [^14]: 1 Tim. vi. 8 (inexact quotation).
 
-[^15]: Ps. xxxvii. 31 .
+[^15]: Ps. xxxvii. 31.
 
-[^16]: 
+[^16]: Gratis.
 
-[^17]: Ps. xii. 1 .
+[^17]: Ps. xii. 1.
 
-[^18]: Rev. xiv. 3 .
+[^18]: Rev. xiv. 3.
 
-[^19]: John v. 35 .
+[^19]: John v. 35.
 
-[^20]: Heb. xi. 38 .
+[^20]: Heb. xi. 38.
 
-[^21]: Ecclus. xlv. 1 .
+[^21]: Ecclus. xlv. 1.
 
-[^22]: Cant. ii. 12 . For the meaning compare Cant. lix. 3 : The voice of the turtle "is a sign that winter is past, proclaiming nevertheless that the time of pruning has come.... The voice, more like one who groans than one who sings, admonishes us of our pilgrimage." After Eugenius III. had visited Clairvaux St. Bernard wrote, "The voice of the turtle has been heard in our chapter. We had great joy and delight." ( )
+[^22]: Cant. ii. 12. For the meaning compare Cant. lix. 3: The voice of the turtle "is a sign that winter is past, proclaiming nevertheless that the time of pruning has come.... The voice, more like one who groans than one who sings, admonishes us of our pilgrimage." After Eugenius III. had visited Clairvaux St. Bernard wrote, "The voice of the turtle has been heard in our chapter. We had great joy and delight." (Ep. 273.)
 
-[^23]: Matt. xxviii. 20 .
+[^23]: Matt. xxviii. 20.
 
-[^24]: 
+[^24]: That is, at Clairvaux. See § 75.
 
-[^25]: 2 Cor. iii. 10 ; xi. 17 (vg.).
+[^25]: Apparently a confused reference to 2 Cor. iii. 10; xi. 17 (vg.).
 
 [^26]: Ecclus. xviii. 7 (inexact quotation).
 
-[^27]: Job xxix. 13 .
+[^27]: Job xxix. 13.
 
-[^28]: 
+[^28]: See § 73, end.
 
-[^29]: 1 Pet. iii. 9 .
+[^29]: 1 Pet. iii. 9.
 
-[^30]: is dedicated, belonged to the Cistercian Order, as the words "reverend brother" imply. He may therefore be identified with Congan, abbot of the Cistercian monastery of the Suir, mentioned in § 64. That he was personally known to St. Bernard is clear; and it is probable that he was one of the Irishmen who by Malachy's desire were instructed at Clairvaux (§ 39). Thady Dowling ( , 1147) identifies him with "Cogganus," abbot of Killeshin, near Carlow, stating on the authority of Nicholas Maguire that he wrote the of Malachy and Bernard. Though this statement is probably not accurate, it is possible that our Congan was abbot of Killeshin before he became a Cistercian.
+[^30]: This abbot, to whom the Life is dedicated, belonged to the Cistercian Order, as the words "reverend brother" imply. He may therefore be identified with Congan, abbot of the Cistercian monastery of the Suir, mentioned in § 64. That he was personally known to St. Bernard is clear; and it is probable that he was one of the Irishmen who by Malachy's desire were instructed at Clairvaux (§ 39). Thady Dowling (Annals, s.a. 1147) identifies him with "Cogganus," abbot of Killeshin, near Carlow, stating on the authority of Nicholas Maguire that he wrote the gesta of Malachy and Bernard. Though this statement is probably not accurate, it is possible that our Congan was abbot of Killeshin before he became a Cistercian.
 
 [^31]: Ecclus. xxxi. 11 (vg.).
 
-[^32]: We should perhaps render, "the whole church of holy persons over which you preside," Congan's convent. Elsewhere in the , is used for a local community, such as the church of Armagh (§ 20, etc). But see Serm. i. § 3. Vacandard understands the phrase to mean "the Cistercian communities of Ireland" ( lii. 48).
+[^32]: Vestra illa omnis ecclesia sanctorum. We should perhaps render, "the whole church of holy persons over which you preside," i.e. Congan's convent. Elsewhere in the Life, ecclesia is used for a local community, such as the church of Armagh (§ 20, etc). But see Serm. i. § 3. Vacandard understands the phrase to mean "the Cistercian communities of Ireland" (R.Q.H. lii. 48).
 
-[^33]: (pl.); Congan and others in Ireland.
+[^33]: Vobis (pl.); i.e. Congan and others in Ireland.
 
 
 ---

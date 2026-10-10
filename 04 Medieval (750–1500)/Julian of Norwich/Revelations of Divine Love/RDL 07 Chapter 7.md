@@ -40,7 +40,7 @@ And this willeth our Lord that we seek for and trust to, joy and delight in, com
 But this marvellous homeliness may no man fully see in this time of life, save he have it of special shewing of our Lord, or of great plenty of grace inwardly given of the Holy Ghost. But faith and belief with charity deserveth the meed: and so it is had, by grace; for in faith, with hope and charity, our life is grounded. The Shewing, made to whom that God will, plainly teacheth the same, opened and declared, with many privy points belonging to our Faith which be
 worshipful to know. And when the Shewing which is given in a time is passed and hid, then the faith keepeth [it] by grace of the Holy Ghost unto our life’s end. And thus through the Shewing it is not other than of faith, nor less nor more; as it may be seen in our Lord’s teaching in the same matter, by that time that it shall come to the end.
 
-[^1]: 
+[^1]: i.e. seen at the same time as, or in comparison with. See the note to ch. iv. p. 9.
 
 
 ---

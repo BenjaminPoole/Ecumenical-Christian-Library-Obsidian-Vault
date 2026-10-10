@@ -258,193 +258,193 @@ returning devout thanks to the Almighty Pity, that He has willed that
 His unworthy servants, who are without merits of their own, should at
 least not be without the prayers of another.
 
-[^1]: , 'With desire I have desired,'" etc., implies that those who tended Malachy in his sickness were present (see , § 73). The first person plural in § 2 suggests the same conclusion. (3) In § 6, "dwelling among them " implies that his death was not long past. (4) The striking parallels with Letter iv.; for which see the notes on it. (5) The tone of the sermon—in marked contrast to that of Sermon ii.—indicates that the community was crushed with sorrow for a recent bereavement. See xxxv. 255 ff.
+[^1]: The evidence that this discourse was delivered on the day of Malachy's death is cumulative. (1) The opening words of § 1, and the closing sentences of § 8 (note "this day"). (2) The statement in § 5, "He said to us, 'With desire I have desired,'" etc., implies that those who tended Malachy in his sickness were present (see Life, § 73). The first person plural in § 2 suggests the same conclusion. (3) In § 6, "dwelling among them up to this time" implies that his death was not long past. (4) The striking parallels with Letter iv.; for which see the notes on it. (5) The tone of the sermon—in marked contrast to that of Sermon ii.—indicates that the community was crushed with sorrow for a recent bereavement. See R.I.A. xxxv. 255 ff.
 
-[^2]: 
+[^2]: damnum uestrum ... damnationem meam.
 
 [^3]: Lam. iv. 4 (inexact quotation).
 
-[^4]: Acts ii. 23 .
+[^4]: Acts ii. 23.
 
-[^5]: Matt. x. 29 .
+[^5]: Cp. Matt. x. 29.
 
-[^6]: i. 1 ( clxxxiii. 56): "For if neither a leaf from a tree falls on the earth without cause, nor one of the sparrows without the heavenly Father, am I to suppose that a superfluous word flows from the mouth of the holy evangelist?"
+[^6]: Cp. St. Bernard, De Laud. Virg. i. 1 (P.L. clxxxiii. 56): "For if neither a leaf from a tree falls on the earth without cause, nor one of the sparrows without the heavenly Father, am I to suppose that a superfluous word flows from the mouth of the holy evangelist?"
 
-[^7]: Matt. xii. 42 .
+[^7]: Matt. xii. 42.
 
-[^8]: , § 67.
+[^8]: See Life, § 67.
 
-[^9]: , § 69.
+[^9]: See Life, § 69.
 
 [^10]: Gal. iv. 14 (inexact quotation).
 
-[^11]: Eph. iv. 2 .
+[^11]: Cp. Eph. iv. 2.
 
-[^12]: xxxv. 248. "Alpine passes ... become impassable usually about the commencement or middle of October, and remain closed until May" (Sennett, , p. 369).
+[^12]: He was evidently in haste to resume his journey. And no wonder, for the winter was drawing near, and the sooner the passage of the Alps was made the better for his comfort and safety. Cp. R.I.A. xxxv. 248. "Alpine passes ... become impassable usually about the commencement or middle of October, and remain closed until May" (Sennett, Great St. Bernard, p. 369).
 
-[^13]: Heb. xi. 40 .
+[^13]: Heb. xi. 40.
 
-[^14]: , § 71.
+[^14]: See Life, § 71.
 
-[^15]: Ps. xxi. 2 .
+[^15]: Ps. xxi. 2.
 
-[^16]: , §§ 67, 71.
+[^16]: See Life, §§ 67, 71.
 
-[^17]: , ii. 41. 6 ( lxxxv. 1559) to have been made on All Saints' Day, the bones being reburied on All Souls' Day. But Vacandard ( lii. 41 f.) thinks that the date of the translation was Saturday, October 30. This event probably marked the end of the construction of the new monastery of Clairvaux, which began before Malachy's first visit. See p. 71, n. 4.
+[^17]: The translation is supposed by Henriquez, Fasciculus Sanctorum Ordinis Cisterciensis, ii. 41. 6 (P.L. lxxxv. 1559) to have been made on All Saints' Day, the bones being reburied on All Souls' Day. But Vacandard (R.Q.H. lii. 41 f.) thinks that the date of the translation was Saturday, October 30. This event probably marked the end of the construction of the new monastery of Clairvaux, which began before Malachy's first visit. See p. 71, n. 4.
 
-[^18]: Gal. ii. 9 .
+[^18]: Gal. ii. 9.
 
 [^19]: Ps. lxxxvi. 17 (vg.).
 
-[^20]: Matt. xii. 42 .
+[^20]: Matt. xii. 42.
 
 [^21]: 2 Macc. iii. 32 (vg.).
 
-[^22]: 1 Tim. ii. 8 .
+[^22]: 1 Tim. ii. 8.
 
-[^23]: Rom. x. 15 .
+[^23]: Rom. x. 15.
 
-[^24]: Luke vii. 38 .—Perhaps a reference to St. Bernard's own action just before this sermon was preached. See p. 129, n. 6.
+[^24]: Cp. Luke vii. 38.—Perhaps a reference to St. Bernard's own action just before this sermon was preached. See p. 129, n. 6.
 
-[^25]: Mal. ii. 7 .
+[^25]: Mal. ii. 7.
 
-[^26]: Ps. xxxvii. 30 .
+[^26]: Ps. xxxvii. 30.
 
-[^27]: Ps. ci. 1 .
+[^27]: Ps. ci. 1.
 
-[^28]: Jas. i. 15 .
+[^28]: Jas. i. 15.
 
-[^29]: 2 Cor. xi. 3 ; 1 Tim. ii. 14 .—See J. H. Bernard on 2 Cor. xi. 3 ( ).
+[^29]: Cp. 2 Cor. xi. 3; 1 Tim. ii. 14.—See J. H. Bernard on 2 Cor. xi. 3 (Expositor's Greek Testament).
 
-[^30]: 1 Tim. ii. 14 .
+[^30]: 1 Tim. ii. 14.
 
-[^31]: Rev. xii. 9 ; xx. 2 .
+[^31]: Rev. xii. 9; xx. 2.
 
-[^32]: 1 Cor. vi. 15 , etc.
+[^32]: 1 Cor. vi. 15, etc.
 
-[^33]: Eph. iv. 15 , etc.
+[^33]: Eph. iv. 15, etc.
 
-[^34]: 1 Cor. xv. 54 , combined with 2 Cor. v. 4 .
+[^34]: 1 Cor. xv. 54, combined with 2 Cor. v. 4.
 
-[^35]: xxvi. 11: "Thou art dead, O death, and pierced by the hook thou hast imprudently swallowed, which saith in the words of the prophet, 'O death, I will be thy death! O hell, I will be thy bite.' Pierced, I say, by that hook, to the faithful who go through the midst of thee thou offerest a broad and pleasant path-way into life" (Morison's translation). A very old metaphor. It is thus explained by Rufinus ( 400) in his Commentary on the Apostles' Creed (§ 16, Heurtley's translation): "The object of that mystery of the Incarnation ... was that the divine virtue of the Son of God, as though it were a hook concealed beneath the form and fashion of human flesh, ... might lure on the prince of this world to a conflict, to whom offering His flesh as a bait, His divinity underneath might secure him, caught with a hook by the shedding of His immaculate blood.... As, if a fish seizes a baited hook, it not only does not take the bait off the hook, but is drawn out of the water to be itself food for others, so he who had the power of death seized the body of Jesus in death, not being aware of the hook of divinity enclosed within it, but, having swallowed it, he was caught forthwith, and the bars of hell being burst asunder, he was drawn forth as it were from the abyss to become food for others."
+[^35]: Cp. Cant. xxvi. 11: "Thou art dead, O death, and pierced by the hook thou hast imprudently swallowed, which saith in the words of the prophet, 'O death, I will be thy death! O hell, I will be thy bite.' Pierced, I say, by that hook, to the faithful who go through the midst of thee thou offerest a broad and pleasant path-way into life" (Morison's translation). A very old metaphor. It is thus explained by Rufinus (a.d. 400) in his Commentary on the Apostles' Creed (§ 16, Heurtley's translation): "The object of that mystery of the Incarnation ... was that the divine virtue of the Son of God, as though it were a hook concealed beneath the form and fashion of human flesh, ... might lure on the prince of this world to a conflict, to whom offering His flesh as a bait, His divinity underneath might secure him, caught with a hook by the shedding of His immaculate blood.... As, if a fish seizes a baited hook, it not only does not take the bait off the hook, but is drawn out of the water to be itself food for others, so he who had the power of death seized the body of Jesus in death, not being aware of the hook of divinity enclosed within it, but, having swallowed it, he was caught forthwith, and the bars of hell being burst asunder, he was drawn forth as it were from the abyss to become food for others."
 
 [^36]: Ps. lxxxix. 48 (vg.).
 
-[^37]: 1 John iii. 8 .
+[^37]: 1 John iii. 8.
 
-[^38]: 1 John ii. 13 , 14 .
+[^38]: 1 John ii. 13, 14.
 
-[^39]: Matt. xxv. 41 .
+[^39]: Matt. xxv. 41.
 
-[^40]: Rev. xii. 12 .
+[^40]: Rev. xii. 12.
 
-[^41]: Jer. l. 23 .
+[^41]: Jer. l. 23.
 
 [^42]: 1 Cor. xii. 7 (vg.).
 
-[^43]: Matt. x. 25 .
+[^43]: Matt. x. 25.
 
-[^44]: Col. ii. 14 .
+[^44]: Col. ii. 14.
 
-[^45]: Rom. vi. 12 .
+[^45]: Rom. vi. 12.
 
-[^46]: Rom. vii. 17 .
+[^46]: Rom. vii. 17.
 
 [^47]: 1 Cor. xv. 55 (vg.).
 
-[^48]: 1 Cor. xv. 26 .
+[^48]: 1 Cor. xv. 26.
 
-[^49]: Heb. ii. 14 ; Tobit ii. 8 .
+[^49]: Heb. ii. 14; Tobit ii. 8.
 
-[^50]: Ps. cxxvii. 2 , 3 (vg.).
+[^50]: Ps. cxxvii. 2, 3 (vg.).
 
 [^51]: Ps. xxxiv. 21 (vg.).
 
-[^52]: Ps. cxvi. 15 .
+[^52]: Ps. cxvi. 15.
 
-[^53]: Wisd. iii. 2 , 3 ).
+[^53]: Communio for All Saints (Wisd. iii. 2, 3).
 
 [^54]: Eph. ii. 19 (with variant).
 
-[^55]: Ps. lxvi. 12 .
+[^55]: Ps. lxvi. 12.
 
 [^56]: Hos. x. 15 (vg.: xi. 1).
 
-[^57]: Luke xxii. 15 .—See , § 73, where for "he said to us" we have "lifting up his eyes on , he said."
+[^57]: Luke xxii. 15.—See Life, § 73, where for "he said to us" we have "lifting up his eyes on those who stood round him, he said."
 
 [^58]: 
 
-[^59]: Luke xvi. 24 , 25 .
+[^59]: Luke xvi. 24, 25.
 
-[^60]: Ps. xlvi. 4 .
+[^60]: Ps. xlvi. 4.
 
 [^61]: Ps. xxxvi. 8 (vg.).
 
 [^62]: Ps. xxiii. 5 (vg.).
 
-[^63]: Gen. ii. 9 .
+[^63]: Gen. ii. 9.
 
-[^64]: 2 Cor. viii. 2 .
+[^64]: 2 Cor. viii. 2.
 
-[^65]: Rev. xxi. 25 ; xxii. 5 .
+[^65]: Rev. xxi. 25; xxii. 5.
 
-[^66]: Eph. iii. 13 .
+[^66]: Eph. iii. 13.
 
-[^67]: Ps. lxvi. 12 .
+[^67]: Ps. lxvi. 12.
 
-[^68]: 
+[^68]: Ps. lxxxiii 12 (vg.).
 
-[^69]: 1 Sam. xix. 5 .
+[^69]: 1 Sam. xix. 5.
 
-[^70]: , §§ 19-31.
+[^70]: See Life, §§ 19-31.
 
-[^71]: 
+[^71]: See p. 82, n. 5.
 
-[^72]: Ps. lxvi. 10 , 11 .
+[^72]: Ps. lxvi. 10, 11.
 
-[^73]: 
+[^73]: Examinauit, non exinaniuit.
 
 [^74]: Ecclus. xlv. 4 (vg.).
 
-[^75]: 1 John v. 4 .
+[^75]: 1 John v. 4.
 
-[^76]: Gal. vi. 1 .
+[^76]: Gal. vi. 1.
 
 [^77]: 1 Kings xxi. 7 (vg.).
 
-[^78]: Matt. xiv. 25 ; John vi. 19 .
+[^78]: Cp. Matt. xiv. 25; John vi. 19.
 
-[^79]: Luke xxi. 19 .
+[^79]: Luke xxi. 19.
 
-[^80]: Ps. xci. 7 .
+[^80]: Ps. xci. 7.
 
-[^81]: 
+[^81]: That is, the sea. The details of the imagery are not clear. But evidently the sea represents the pleasures, and the hills and rocks the adversities, of life.
 
-[^82]: 2 Cor. vi. 7 .
+[^82]: 2 Cor. vi. 7.
 
-[^83]: Ps. lxvi. 12 .
+[^83]: Ps. lxvi. 12.
 
-[^84]: Ps. cxvi. 7 , 8 (vg.).—The printed text has, in place of the bracketed words, "and so forth." The threefold deliverance obviously corresponds to the threefold rejoicing mentioned below, sin being substituted for death in the description of it, because "the death of the soul is sin."
+[^84]: Ps. cxvi. 7, 8 (vg.).—The printed text has, in place of the bracketed words, "and so forth." The threefold deliverance obviously corresponds to the threefold rejoicing mentioned below, sin being substituted for death in the description of it, because "the death of the soul is sin."
 
-[^85]: Luke xxiv. 29 .
+[^85]: Luke xxiv. 29.
 
-[^86]: Ps. cxvi. 8 .
+[^86]: Cp. Ps. cxvi. 8.
 
-[^87]: Ezek. xviii. 4 .
+[^87]: Ezek. xviii. 4.
 
-[^88]: Rom. vii. 17 , 20 .
+[^88]: Rom. vii. 17, 20.
 
-[^89]: Ps. cxvi. 8 .
+[^89]: Ps. cxvi. 8.
 
-[^90]: , § 23; Serm. ii. § 8.
+[^90]: For other comparisons of Malachy with Elijah, see Life, § 23; Serm. ii. § 8.
 
-[^91]: 2 Kings ii. 13 .
+[^91]: 2 Kings ii. 13.
 
-[^92]: Gen. xxxix. 12 , 15 (vg.).
+[^92]: Gen. xxxix. 12, 15 (vg.).
 
-[^93]: 2 Kings ii. 11 .
+[^93]: 2 Kings ii. 11.
 
-[^94]: Cant. i. 3 , 4 .
+[^94]: Cant. i. 3, 4.
 
 
 ---

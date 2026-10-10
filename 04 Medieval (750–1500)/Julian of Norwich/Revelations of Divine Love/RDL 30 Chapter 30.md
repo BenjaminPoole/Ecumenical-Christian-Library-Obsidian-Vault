@@ -25,9 +25,9 @@ saints that be in Heaven, they will to know nothing but that which our Lord will
 
 And here was I learned that we shall trust and rejoice only in our Saviour, blessed Jesus, for all thing.
 
-[^1]: 
+[^1]: i.e. profit.
 
-[^2]: 
+[^2]: "It longyth to the royal Lordship of God to have his privy councell in pece, and it longyth to his servant for obedience and reverens not to wel wetyn his counselye."
 
 
 ---

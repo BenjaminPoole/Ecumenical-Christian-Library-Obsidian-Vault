@@ -27,13 +27,13 @@ therein other thing without end* Thus was I learned[^4] that Love was our Lordâ€
 
 And I saw full surely that ere God made us He loved us; which love was never slacked, nor ever shall be. And in this love He hath done all His works; and in this love He hath made all things profitable to us; and in this love our life is everlasting. In our making we had beginning; but the love wherein He made us was in Him from without beginning: in which love we have our beginning. And all this shall we see in God, without end.
 
-[^1]: 
+[^1]: "merkness" = dimness.
 
-[^2]: 
+[^2]: "witten" = to see clearly.
 
-[^3]: 
+[^3]: "witten" = to see clearly.
 
-[^4]: 
+[^4]: "lerid."Notes by Grace Warrack Transcribed by John Ockerbloom (spok@cs.cmu.edu)
 
 
 ---

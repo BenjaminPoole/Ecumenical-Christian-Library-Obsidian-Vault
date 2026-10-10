@@ -46,15 +46,15 @@ And moreover He gave special understanding and teaching of working of miracles, 
 It is known that afore miracles come sorrow and anguish and tribulation[^5] ; and that is for that we should know our own feebleness and our mischiefs that we are fallen in by sin, to meeken us and make us to dread God and cry for help and grace. Miracles come after that, and they come of the high Might, Wisdom, and Goodness of God, shewing His virtue and the joys of Heaven so far at it may be in this passing life: and that to strengthen our faith and to increase our hope,
 in charity. Wherefore it pleaseth Him to be known and worshipped in miracles. Then signifieth He thus: He willeth that we be not borne over low for sorrow and tempests that fall to us: for it hath ever so been afore miracle-coming.
 
-[^1]: 
+[^1]: "lettyn his goodnes werkyng."
 
-[^2]: 
+[^2]: "wilfuly."
 
-[^3]: 
+[^3]: "to nowten."
 
-[^4]: 
+[^4]: "is a perceyvid" (S. de Cressy, "pearced"; Collins, "pierced";) = has perception.
 
-[^5]: 
+[^5]: See v., xlviii., lix., lxi.
 
 
 ---

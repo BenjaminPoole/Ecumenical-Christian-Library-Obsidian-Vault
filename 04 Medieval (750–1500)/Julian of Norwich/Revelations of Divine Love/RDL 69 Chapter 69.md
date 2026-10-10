@@ -29,13 +29,13 @@ And thus he occupied me all that night, and on the morn till it was about prime 
 
 And thus was I delivered from him by the virtue of Christ’s Passion: for *therewith is the Fiend overcome*, as our Lord Jesus Christ said afore.
 
-[^1]: 
+[^1]: "made me full besy."
 
-[^2]: 
+[^2]: i.e. gabbling.
 
-[^3]: 
+[^3]: "bidding of bedes."
 
-[^4]: 
+[^4]: see above, "made me full busy."
 
 
 ---

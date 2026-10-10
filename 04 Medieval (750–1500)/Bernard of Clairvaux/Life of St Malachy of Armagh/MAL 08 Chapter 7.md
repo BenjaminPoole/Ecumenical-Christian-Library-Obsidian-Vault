@@ -386,211 +386,211 @@ something to imitate. Now carefully note what you may hope for as the
 result of these things. For the end of these things is a precious
 death.[^103]
 
-[^1]: This may have been a follower of Berengarius, who in his recantation in 1059 anathematized the heresy that the bread and wine "after consecration are merely a sacrament and not the true Body and Blood of our Lord Jesus Christ" (Mansi, xix. 900).
+[^1]: Rem. This may have been a follower of Berengarius, who in his recantation in 1059 anathematized the heresy that the bread and wine "after consecration are merely a sacrament and not the true Body and Blood of our Lord Jesus Christ" (Mansi, xix. 900).
 
-[^2]: iii. 13; and for his dealing with a brother who did not believe in transubstantiation, vii. 8, 9.
+[^2]: Compare St. Bernard's method with Abélard, V.P. iii. 13; and for his dealing with a brother who did not believe in transubstantiation, ibid. vii. 8, 9.
 
-[^3]: . But Mabillon, supported by A, has "he retired from the assembly confounded, but not brought to the right opinion" ( ). K reads .
+[^3]: I follow the printed text: de consensu confusus quidem exiit, sed non correptus. But Mabillon, supported by A, has "he retired from the assembly confounded, but not brought to the right opinion" (de conuentu ... non correctus). K reads de conuentu ... non correptus.
 
-[^4]: 
+[^4]: It would seem from this that Malachy was acting as legate. The date is therefore after 1140.
 
 [^5]: Prov. xxviii. 21 (vg.).
 
-[^6]: John xi. 51 .
+[^6]: John xi. 51.
 
 [^7]: Isa. xxviii. 19 (vg.).
 
-[^8]: 
+[^8]: In §§ 58-62 we have three stories in which Malachy appears as a peacemaker.
 
-[^9]: 1 Sam. xvii. 37 , combined with 1 Chron. xxii. 16 .
+[^9]: 1 Sam. xvii. 37, combined with 1 Chron. xxii. 16.
 
 [^10]: Gen. xi. 3 (vg.).
 
-[^11]: Judg. xvi. 24 .
+[^11]: Judg. xvi. 24.
 
-[^12]: Mark v. 38 .
+[^12]: Mark v. 38.
 
-[^13]: 
+[^13]: This expression indicates that Malachy had a special relation to one monastery. It can hardly have been any other than Bangor.
 
-[^14]: Matt. xi. 17 .
+[^14]: Matt. xi. 17.
 
-[^15]: 1 Kings xxii. 22 ; 2 Chron. xviii. 21 .
+[^15]: 1 Kings xxii. 22; 2 Chron. xviii. 21.
 
-[^16]: Josh. vi. 21 ; Judg. iv. 15 , etc.
+[^16]: Josh. vi. 21; Judg. iv. 15, etc.
 
-[^17]: Heb. xi. 8 .
+[^17]: Heb. xi. 8.
 
-[^18]: Ps. x. 2 .
+[^18]: Cp. Ps. x. 2.
 
-[^19]: 1 John iv. 6 .
+[^19]: 1 John iv. 6.
 
-[^20]: Mal. i. 6 .
+[^20]: Cp. Mal. i. 6.
 
-[^21]: Ps. vii. 16 .
+[^21]: Cp. Ps. vii. 16.
 
-[^22]: Exod. viii. 19 .
+[^22]: Exod. viii. 19.
 
-[^23]: Hos. ii. 6 .
+[^23]: Hos. ii. 6.
 
-[^24]: Josh. vii. 15 , etc.
+[^24]: Josh. vii. 15, etc.
 
-[^25]: 
+[^25]: In Serm. ii. § 2, where this story is again briefly told, the miracle is more directly ascribed to Malachy, and the stream is said to have swelled suddenly.
 
-[^26]: Luke iv. 14 , etc.
+[^26]: Cp. Luke iv. 14, etc.
 
-[^27]: Job v. 13 , combined with 1 Cor. iii. 19 .
+[^27]: Job v. 13, combined with 1 Cor. iii. 19.
 
-[^28]: Ps. lxxv. 10 .
+[^28]: Ps. lxxv. 10.
 
-[^29]: 1 Sam. ii. 10 .
+[^29]: 1 Sam. ii. 10.
 
-[^30]: , ). The Annals, however, know nothing of the blinding of O'Conor. The incident in the text is mentioned in Serm. ii. § 2.
+[^30]: Probably Turlough O'Conor, who is said by the annalists to have imprisoned illegally several persons of high position, viz. (1) his own son Rory O'Conor, together with Donnell O'Flaherty and Cathal O'Conor, in 1143, (2) Murrough Ua Maelsechlainn, king of Meath, in 1143, and (3) Teague O'Brien, in 1148. Release was obtained, in the first instance, in 1144 by the clergy of Ireland and the "coarb of Patrick," who fasted at Rathbrennan. The coarb may have been Malachy. In the second instance, it was secured through the influence of certain "sureties"; and in the third, "at the intercession of the bishops of Ireland with the coarb of Patrick, Mael Maedoc Ua Morgair" (A.F.M., A.T.). The Annals, however, know nothing of the blinding of O'Conor. The incident in the text is mentioned in Serm. ii. § 2.
 
-[^31]: Gal iii. 19 .
+[^31]: Gal iii. 19.
 
-[^32]: Josh. vii. 15 , etc.
+[^32]: Josh. vii. 15, etc.
 
-[^33]: Acts xxiii. 14 .
+[^33]: Acts xxiii. 14.
 
-[^34]: 
+[^34]: An example of the well-known Irish custom of "fasting on" a person with a view to his discomfiture (cp. p. 106, n. 9).
 
 [^35]: Ps. lxxi. 4 (inexact quotation).
 
-[^36]: Exod. viii. 19 .
+[^36]: Exod. viii. 19.
 
-[^37]: Rev. v. 8 .
+[^37]: Rev. v. 8.
 
 [^38]: Isa. xxi. 15 (vg.).
 
-[^39]: Ps. cxxxix. 7 .
+[^39]: Ps. cxxxix. 7.
 
-[^40]: Acts xiii. 11 .
+[^40]: Acts xiii. 11.
 
-[^41]: Acts xxvi. 14 .
+[^41]: Acts xxvi. 14.
 
-[^42]: Ps. cxx. 4 .
+[^42]: Ps. cxx. 4.
 
-[^43]: Isa. xxviii. 19 .
+[^43]: Isa. xxviii. 19.
 
-[^44]: Acts ix. 8 .
+[^44]: Acts ix. 8.
 
-[^45]: Acts ix. 18 .
+[^45]: Acts ix. 18.
 
-[^46]: Job xxx. 29 .
+[^46]: Job xxx. 29.
 
 [^47]: Luke x. 19 (quotation not exact).
 
 [^48]: Ps. cxlix.
 
-[^49]: 
+[^49]: See § 13.
 
-[^50]: ," lower down.
+[^50]: This remark proves that the building of the oratory was begun after Malachy's return from France. The same conclusion follows from the words "We are Scots, not Gauls," lower down.
 
-[^51]: the district about Bangor (see p. 32, n. 3). The innovation would naturally cause dissatisfaction among a conservative people. Indignation may also have been excited by the unusual size of the building; for it was "a great oratory" (§ 63). But on the other hand, its ornate style cannot have contributed to the opposition which the project aroused; for it commenced when the foundations were being laid. Indeed, however "beautiful" it may have been (§ 63), it was probably, like the churches of the Cistercians, of simple design and devoid of ornament. See St. Bernard's , § 28 ff. ( clxxxii. 914 f.). The only relic of the medieval monastery of Bangor is a rudely built wall, once pierced by a door and a window, now built up. It seems to be later than the twelfth century. About 120 yards to the south-west of it is "The Abbey Church," still used for worship. The main part of this structure dates from the seventeenth century. But the core of the tower appears to be much earlier, and may be on the site of St. Malachy's oratory.
+[^51]: St. Bernard is speaking, not of stone churches in general, as has sometimes been assumed, but of stone oratories, which may have been unknown in "that land," i.e. the district about Bangor (see p. 32, n. 3). The innovation would naturally cause dissatisfaction among a conservative people. Indignation may also have been excited by the unusual size of the building; for it was "a great oratory" (§ 63). But on the other hand, its ornate style cannot have contributed to the opposition which the project aroused; for it commenced when the foundations were being laid. Indeed, however "beautiful" it may have been (§ 63), it was probably, like the churches of the Cistercians, of simple design and devoid of ornament. See St. Bernard's Apologia ad Guillelmum, § 28 ff. (P.L. clxxxii. 914 f.). The only relic of the medieval monastery of Bangor is a rudely built wall, once pierced by a door and a window, now built up. It seems to be later than the twelfth century. About 120 yards to the south-west of it is "The Abbey Church," still used for worship. The main part of this structure dates from the seventeenth century. But the core of the tower appears to be much earlier, and may be on the site of St. Malachy's oratory.
 
 [^52]: Job xv. 35 (vg.); Ps. vii. 14 (vg.).
 
-[^53]: Lev. xix. 16 .
+[^53]: Lev. xix. 16.
 
-[^54]: Ps. ci. 5 .
+[^54]: Ps. ci. 5.
 
-[^55]: Acts xiv. 12 .
+[^55]: Acts xiv. 12.
 
-[^56]: Ps. lxxiv. 21 .
+[^56]: Ps. lxxiv. 21.
 
-[^57]: Luke xiv. 28 .
+[^57]: Luke xiv. 28.
 
-[^58]: , Malachy.
+[^58]: Viro, i.e. Malachy.
 
-[^59]: John vi. 66 .
+[^59]: Cp. John vi. 66.
 
-[^60]: 
+[^60]: Quia non uis non uidebis.
 
-[^61]: John viii. 21 .
+[^61]: John viii. 21.
 
-[^62]: Heb. iv. 12 .
+[^62]: Heb. iv. 12.
 
-[^63]: 1 Kings xvii. 18 .
+[^63]: 1 Kings xvii. 18.
 
-[^64]: 
+[^64]: Perhaps because he imitated the customs of the Gauls.
 
-[^65]: 1 Pet. iii. 9 .
+[^65]: 1 Pet. iii. 9.
 
-[^66]: Isa. liii. 7 .
+[^66]: Isa. liii. 7.
 
-[^67]: Ps. xxxix. 1 .
+[^67]: Ps. xxxix. 1.
 
-[^68]: Rom. xii. 19 .
+[^68]: Rom. xii. 19.
 
-[^69]: 1 Sam. xvi. 14 ; xix. 9 (vg.).
+[^69]: 1 Sam. xvi. 14; xix. 9 (vg.).
 
 [^70]: 2 Cor. xii. 7
 
-[^71]: 1 Tim. i. 20 .
+[^71]: 1 Tim. i. 20.
 
-[^72]: 
+[^72]: Susanna, 35.
 
 [^73]: Ecclus. xxxi. 8 (vg.: with variant).
 
-[^74]: Prov. i. 14 .
+[^74]: Prov. i. 14.
 
-[^75]: Ps. l. 12 .
+[^75]: Ps. l. 12.
 
-[^76]: 
+[^76]: Malachy disposed of the treasure according to his will. That fact, together with his relation to the brothers, revealed by the next few sentences, makes it exceedingly probable that he was still their abbot.
 
 [^77]: Ps. lv. 23 (vg.).
 
-[^78]: 
+[^78]: Bangor was apparently his headquarters.
 
-[^79]: Heb. viii. 5 .
+[^79]: Heb. viii. 5.
 
-[^80]: , cap. 32). But, apparently, neither in the Annals nor in any other authority earlier than Jocelin, is mention made of a monastery there before St. Malachy's time. The text seems to imply that there were no monastic buildings on the site when he founded (or re-founded) it. Malachy placed in his new monastery a convent of regular canons of St. Augustine ( 1170); but it never became an important establishment, though it was still in existence in the sixteenth century. See Reeves, pp. 40, 220 ff.
+[^80]: Jocelin, writing towards the end of the twelfth century, declares that St. Patrick founded a monastery at Saul (Vita S. Patricii, cap. 32). But, apparently, neither in the Annals nor in any other authority earlier than Jocelin, is mention made of a monastery there before St. Malachy's time. The text seems to imply that there were no monastic buildings on the site when he founded (or re-founded) it. Malachy placed in his new monastery a convent of regular canons of St. Augustine (A.U. 1170); but it never became an important establishment, though it was still in existence in the sixteenth century. See Reeves, pp. 40, 220 ff.
 
-[^81]: 
+[^81]: This and the next story (§ 65) illustrate Malachy's power of reading the hearts of men.
 
-[^82]: Luke xix. 1-4 .
+[^82]: Luke xix. 1-4.
 
-[^83]: Luke i. 17 .
+[^83]: Luke i. 17.
 
-[^84]: 2 Cor. x. 18 .
+[^84]: 2 Cor. x. 18.
 
-[^85]: 
+[^85]: See p. 4, n. 7.
 
-[^86]: The monastery of Inislounaght, close to the River Suir, a mile or two to the west of Clonmel, co. Tipperary, is commonly known as . The present passage seems to show that it was founded before 1148. For information about it see an article by the late Dr. Bagwell, in xxxix. 267 f. and Janauschek, p. 131. This incident must have been considerably later than the foundation of Mellifont (see p. 75, n. 4). It may therefore be dated between 1143 and 1147.
+[^86]: Suriensis monasterii. The monastery of Inislounaght, close to the River Suir, a mile or two to the west of Clonmel, co. Tipperary, is commonly known as De Surio. The present passage seems to show that it was founded before 1148. For information about it see an article by the late Dr. Bagwell, in J.R.S.A.I. xxxix. 267 f. and Janauschek, Orig. Cist. p. 131. This incident must have been considerably later than the foundation of Mellifont (see p. 75, n. 4). It may therefore be dated between 1143 and 1147.
 
-[^87]: Rev. xix. 10 .
+[^87]: Rev. xix. 10.
 
-[^88]: 
+[^88]: This word is constantly used in the plural of the Eucharist, each of the elements being regarded as a "sacrament."
 
-[^89]: John i. 20 .
+[^89]: John i. 20.
 
-[^90]: Gen. xxxix. 17 .
+[^90]: Gen. xxxix. 17.
 
-[^91]: 
+[^91]: This story is suggested by the last because the incident occurred during the celebration of Mass.
 
-[^92]: , the site of St. Patrick's earlier settlement at Armagh (Reeves, , p. 5; xviii. 660). It seems to be hinted that St. Malachy received a revelation of the position of his grave.
+[^92]: Evidently the cemetery in which, according to local tradition, St. Patrick was buried (see § 19). It was probably the Ferta Martair, the site of St. Patrick's earlier settlement at Armagh (Reeves, Churches, p. 5; R.I.A. xviii. 660). It seems to be hinted that St. Malachy received a revelation of the position of his grave.
 
-[^93]: Ps. lxxiv. 9 .
+[^93]: Ps. lxxiv. 9.
 
-[^94]: 
+[^94]: Secret of Mass for Kings, etc.
 
-[^95]: 
+[^95]: A fresh classification of Malachy's miracles. For prophecy see §§ 36, 48, 52, 57, 62, 64 f.
 
-[^96]: 
+[^96]: §§ 11, 63, 64, 65.
 
-[^97]: 
+[^97]: §§ 22 f., 48, 57, 60, 62.
 
 [^98]: 1 Cor. xii. 9 (vg.).—§§ 14, 15, 40, 45-47, 49-52, 60, 62.
 
-[^99]: 
+[^99]: §§ 26, 54, 57, 61.
 
-[^100]: 
+[^100]: § 53.
 
-[^101]: Ps. cxix. 46 .—§§ 10, 40, 60.
+[^101]: Ps. cxix. 46.—§§ 10, 40, 60.
 
-[^102]: 1 Pet. v. 4 .
+[^102]: 1 Pet. v. 4.
 
-[^103]: Rom. vi. 21 , combined with Ps. cxvi. 15 .
+[^103]: Rom. vi. 21, combined with Ps. cxvi. 15.
 
 
 ---

@@ -32,11 +32,11 @@ In these six words that follow (*Take it*—[etc.] His meaning is to fasten it f
 For our faith is contraried in diverse manners by our own blindness, and our spiritual enemy, within and without; and therefore our precious Lover helpeth us with spiritual sight and true teaching in sundry manners within and without, whereby that we may know Him. And therefore in whatsoever manner He teacheth us, He willeth that we perceive Him wisely, receive Him sweetly, and keep us in Him faithfully. For above the Faith is no goodness kept in this life, as to my
 sight, and beneath the Faith is no help of soul; but in the Faith, there willeth the Lord that we keep us. For we have by His goodness and His own working to keep us in the Faith; and by His sufferance through ghostly enmity we are assayed in the Faith and made mighty. For if our faith had none enmity, it should deserve no meed, according to the understanding that I have in all our Lord’s teaching.
 
-[^1]: 
+[^1]: see ch. lxviii.
 
-[^2]: 
+[^2]: "couthest not."
 
-[^3]: 
+[^3]: i.e. learn, perceive, know for certainty by the conviction of reason and consciousness -- grasp once for all the truth beheld.
 
 
 ---

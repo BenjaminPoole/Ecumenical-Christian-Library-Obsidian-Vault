@@ -64,55 +64,55 @@ I not only earnestly entreat this of you, but also require it as in some
 sense the payment of a debt, since I cry to the Lord for you, if the
 prayer of a sinner can do anything. Farewell in the Lord.
 
-[^1]: 
+[^1]: When this letter was written certain brothers, sent by Malachy after his return from Rome (October 1140), had arrived at Clairvaux, and had spent some time there (see notes 5, 7); and the brothers left there on his return journey had had a considerable amount of instruction (n. 7). The date is therefore not earlier than 1141. But it is evidently earlier than that of Letter ii.
 
-[^2]: i. 2. 110.
+[^2]: Cp. Hor., Sat. i. 2. 110.
 
-[^3]: Ps. vi. 3 .
+[^3]: Ps. vi. 3.
 
-[^4]: Josh. ix. 6 .
+[^4]: Josh. ix. 6.
 
-[^5]: , § 39).
+[^5]: These were some of the brothers sent from Ireland (Life, § 39).
 
-[^6]: Ps. xxiii. 4 .
+[^6]: Ps. xxiii. 4.
 
-[^7]: 
+[^7]: Song of Three Children, 16.—They had evidently been a good while under St. Bernard's eye.
 
-[^8]: Rom. viii. 28 .
+[^8]: Rom. viii. 28.
 
-[^9]: , § 39).
+[^9]: No doubt the four brothers who had been left at Clairvaux (Life, § 39).
 
-[^10]: Matt. xxv. 32 .
+[^10]: Matt. xxv. 32.
 
-[^11]: Gal. iv. 19 .
+[^11]: Gal. iv. 19.
 
-[^12]: 1 Sam. xxv. 28 .
+[^12]: 1 Sam. xxv. 28.
 
-[^13]: Luke xxiv. 49 .
+[^13]: Luke xxiv. 49.
 
-[^14]: Ps. cxxxvii. 4 .
+[^14]: Ps. cxxxvii. 4.
 
-[^15]: 
+[^15]: 2 Pet. iii. 15.
 
-[^16]: John xiv. 2 .
+[^16]: John xiv. 2.
 
-[^17]: Rev. i. 3 ; xxii. 10 .
+[^17]: Rev. i. 3; xxii. 10.
 
-[^18]: Rom. vi. 6 ; Eph. ii. 15 ; iv. 22, 24 .
+[^18]: Cp. Rom. vi. 6; Eph. ii. 15; iv. 22, 24.
 
-[^19]: Dan. ii. 20 , etc.
+[^19]: Dan. ii. 20, etc.
 
-[^20]: 
+[^20]: Coll. for 13th Sunday after Pentecost.
 
-[^21]: 1 Cor. iii. 6 .
+[^21]: 1 Cor. iii. 6.
 
-[^22]: Acts xv. 36 .
+[^22]: Acts xv. 36.
 
-[^23]: Luke i. 77 .
+[^23]: Luke i. 77.
 
-[^24]: 1 Cor. ix. 16 .
+[^24]: 1 Cor. ix. 16.
 
-[^25]: Jas. iii. 2 .
+[^25]: Jas. iii. 2.
 
 [^26]: John xiii. 8 (inexact quotation).
 

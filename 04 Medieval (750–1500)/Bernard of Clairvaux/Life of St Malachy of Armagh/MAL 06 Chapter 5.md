@@ -17,6 +17,8 @@ tags:
 
 The Roman Pilgrimage: the Miracles which were wrought in it.
 
+*1139*
+
 33. (20). It seemed to him, however, that one could not go on doing
 these things with sufficient security without the authority of the
 Apostolic See; and for that reason he determined to set out for Rome,
@@ -33,6 +35,8 @@ of the Apostolic See. When his purpose became known it displeased both
 the brothers and the magnates and people of the country; because all
 judged that they could not endure so long an absence of the loving
 father of them all, and because they feared he might die.
+
+*1139, June 12*
 
 34. It happened meanwhile that his brother, Christian by name,
 died,[^5] a good man, full of grace and power.[^6] He was a bishop
@@ -108,6 +112,8 @@ And—that which made the miracle more evident to those that saw—from
 being nearly black it began to grow white, and after no long time[^30]
 there was scarcely a whiter horse to be found than it.
 
+*1140, March*
+
 37. (21). To me also it was granted to see the man on that journey,[^31]
 and by the sight of him and by his word I was refreshed, and I
 rejoiced as in all riches;[^32] and I, in turn, though a sinner, found
@@ -120,6 +126,8 @@ the place and us, and gathering us into his inmost heart, he bade us
 farewell and departed. And crossing the Alps he came to Ivrea,[^36] a
 city of Italy, where he immediately healed the little son of his host
 who was sick and ready to die.[^37]
+
+*1140, May*
 
 38. Pope Innocent II., of happy memory, was then in the Apostolic
 See.[^38] He received him courteously, and displayed kindly pity for him
@@ -156,6 +164,8 @@ and maniple which he was
 accustomed to use in the offering; and saluting him with the kiss of
 peace he dismissed him, strengthened with the apostolic blessing and
 authority.
+
+*1140, July-August*
 
 39. And returning by Clairvaux he bestowed on us a second
 benediction.[^44] And sighing deeply that it was not allowed him to
@@ -225,143 +235,143 @@ in the holy place, not in vain, for the mercy of the Lord.[^69]
 Let these incidents—a few out of many—suffice with reference to that
 place; for now we must proceed with what remains.
 
-[^1]: , xi. 428). For the date of Malachy's decision to go to Rome, see p. 72, n. 3.
+[^1]: The pall is a sort of collar, made of lamb's wool, which every metropolitan is required to obtain from the Pope, and without which he cannot exercise his functions. From the end of the eleventh century it has been described in papal bulls as the symbol of "the fullness of the pontifical office" (Catholic Encyclopedia, xi. 428). For the date of Malachy's decision to go to Rome, see p. 72, n. 3.
 
-[^2]: 1 Sam. xiv. 36 , 40 (vg.).
+[^2]: 1 Sam. xiv. 36, 40 (vg.).
 
-[^3]: 
+[^3]: Armagh.
 
-[^4]: 
+[^4]: Cashel, the seat of the kings of Munster. It was certainly the see of an archbishop in 1110, when Malchus subscribed the Acts of Rathbreasail as archbishop of Cashel. For the date of its foundation see p. xxxv. f.
 
-[^5]: ). He seems to have transferred the see of the diocese to Louth, a large part of the diocese of Armagh (in which Louth was situated) being placed under his jurisdiction. This arrangement was no doubt made by Malachy with the support of Donough O'Carroll. See the document quoted in Additional Note C, p. 170, iv. 133 ff. and above, p. lix. Christian is commemorated in the contemporary Martyrology of Gorman on June 12. The year of his death is stated ( ) to have been 1138. St. Bernard obviously supposed it to have taken place in 1139 (p. 70, n. 2), and he appears to be right. For the work described in § 32 demands a longer period than can be allowed for it on the supposition that he divulged his scheme of visiting Rome before June 12, 1138. Moreover by that time he cannot have known that the papal schism had come to an end; for the Anti-pope did not submit till May 29. Cp. p. 72, n. 3, and xxxv. 245 ff. For another notice of Christian, see p. 89, n. 1.
+[^5]: Christian, bishop of Clogher, was probably appointed bishop of that diocese in succession to Cinaeth Ua Baigill, who died in 1135 (A.T.). He seems to have transferred the see of the diocese to Louth, a large part of the diocese of Armagh (in which Louth was situated) being placed under his jurisdiction. This arrangement was no doubt made by Malachy with the support of Donough O'Carroll. See the document quoted in Additional Note C, p. 170, L.A.J. iv. 133 ff. and above, p. lix. Christian is commemorated in the contemporary Martyrology of Gorman on June 12. The year of his death is stated (A.F.M.) to have been 1138. St. Bernard obviously supposed it to have taken place in 1139 (p. 70, n. 2), and he appears to be right. For the work described in § 32 demands a longer period than can be allowed for it on the supposition that he divulged his scheme of visiting Rome before June 12, 1138. Moreover by that time he cannot have known that the papal schism had come to an end; for the Anti-pope did not submit till May 29. Cp. p. 72, n. 3, and R.I.A. xxxv. 245 ff. For another notice of Christian, see p. 89, n. 1.
 
-[^6]: Acts vi. 8 (vg.), combined with Acts xi. 24 .
+[^6]: Acts vi. 8 (vg.), combined with Acts xi. 24.
 
-[^7]: Jer. xii. 11 .
+[^7]: Jer. xii. 11.
 
-[^8]: Gal. ii. 9 .
+[^8]: Gal. ii. 9.
 
-[^9]: Matt. ii. 18 .
+[^9]: Matt. ii. 18.
 
 [^10]: Deut. xxv. 5 (vg.).
 
-[^11]: ). He organized the diocese of Oriel, with its see at Louth—corresponding to the present diocese of Clogher—by the help of Donough O'Carroll. In conjunction with him he founded the monastery of SS. Peter and Paul for Augustinian canons at Knock, by Louth, consecrated by Malachy in 1148 ( ; iv. 239, and document quoted, p. 170). Close to it he also founded the Augustinian monastery of St. Mary, the church of which was the cathedral church of the diocese. On the early history of this diocese see iv. 129 ff.
+[^11]: Edan O'Kelly was bishop of Louth till his death in 1182 (A.L.C.). He organized the diocese of Oriel, with its see at Louth—corresponding to the present diocese of Clogher—by the help of Donough O'Carroll. In conjunction with him he founded the monastery of SS. Peter and Paul for Augustinian canons at Knock, by Louth, consecrated by Malachy in 1148 (A.F.M.; L.A.J. iv. 239, and document quoted, p. 170). Close to it he also founded the Augustinian monastery of St. Mary, the church of which was the cathedral church of the diocese. On the early history of this diocese see L.A.J. iv. 129 ff.
 
-[^12]: iv. 239).
+[^12]: This simple story was much developed in later times. Thus in a medieval register of Clogher we read that when Edan had anointed Christian on his deathbed "Malachy saw the ring which Christian wore leap to Edan's finger, and therefore he consecrated him bishop" (L.A.J. iv. 239).
 
-[^13]: (R.S.), i. 70). For a full discussion of his journeys, the results of which are here assumed, see xxxv. 238-243.
+[^13]: No particulars are given of the passage through Scotland. But Malachy probably sailed from Bangor to Cairngarroch (§ 40, p. 78, n. 4), and travelled thence by the shortest route through Carlisle to York. The kingdom of Scotland then extended southwards to the river Ribble at Gisburn (§ 69) and eastwards to the Tees (William of Newburgh, in Chron. of Stephen (R.S.), i. 70). For a full discussion of his journeys, the results of which are here assumed, see R.I.A. xxxv. 238-243.
 
-[^14]: in , Aug., i. 255), says that Sycarus (or as the MSS. of his tract call him, Figarus) was a priest (v.l. ). , I suppose, of Newbald, a parish near Market Weighton, and about twenty-three miles from York.
+[^14]: This probably represents the Saxon name Sighere. Jocelin, who tells this story (Vita S. Waltheni in AA.SS., Aug., i. 255), says that Sycarus (or as the MSS. of his tract call him, Figarus) was a priest de Neubato (v.l. Neuvelt). i.e., I suppose, of Newbald, a parish near Market Weighton, and about twenty-three miles from York.
 
-[^15]: Acts xiv. 9 .
+[^15]: Acts xiv. 9.
 
-[^16]: Rev. xix. 10 .
+[^16]: Rev. xix. 10.
 
-[^17]: John i. 30 .
+[^17]: John i. 30.
 
-[^18]: Ps. xciv. 11 .
+[^18]: Ps. xciv. 11.
 
-[^19]: Matt. v. 15 ; Mark iv. 21 ; Luke xi. 33 .
+[^19]: Matt. v. 15; Mark iv. 21; Luke xi. 33.
 
 [^20]: Gen. xli. 13 (vg.).
 
-[^21]: 
+[^21]: Cp. § 39.
 
-[^22]: 2 Kings vi. 18 , etc.
+[^22]: 2 Kings vi. 18, etc.
 
-[^23]: , obviously an error for ( ), which is the reading of A. The name occurs also in the form Waldeve. St. Waltheof was the younger son of Simon de St. Liz, earl of Northampton, by his wife Matilda, daughter of Waltheof, earl of Northumberland. After Simon's death Matilda married David, afterwards (1124) king of Scots. That Waltheof was the stepson of David I. is a fact not unimportant for readers of the . After living for some time in Scotland Waltheof retired to the Augustinian priory of St. Oswald, Nostal. Subsequently, but at what date seems to be unknown, he was appointed prior of Kirkham. But, desirous of a more austere life, he resigned the priory, and entered a Cistercian house at Wardon, Bedfordshire. From it he soon migrated to Rievaulx in Yorkshire, and took the vows of the Order. On the deposition of Richard, first abbot of Melrose, he was elected as his successor in 1148. He died August 3, 1159. (Life by Jocelin in , Aug, i. 248). His visit to Malachy proves that the fame of the latter had come to his ears—probably through the Scots who knew him at Lismore (§ 8). It indicates also that Malachy stayed at York long enough to allow the news of his arrival to be sent to Kirkham.
+[^23]: Printed text, Wallenus, obviously an error for Walleuus (Wallevus), which is the reading of A. The name occurs also in the form Waldeve. St. Waltheof was the younger son of Simon de St. Liz, earl of Northampton, by his wife Matilda, daughter of Waltheof, earl of Northumberland. After Simon's death Matilda married David, afterwards (1124) king of Scots. That Waltheof was the stepson of David I. is a fact not unimportant for readers of the Life of St. Malachy. After living for some time in Scotland Waltheof retired to the Augustinian priory of St. Oswald, Nostal. Subsequently, but at what date seems to be unknown, he was appointed prior of Kirkham. But, desirous of a more austere life, he resigned the priory, and entered a Cistercian house at Wardon, Bedfordshire. From it he soon migrated to Rievaulx in Yorkshire, and took the vows of the Order. On the deposition of Richard, first abbot of Melrose, he was elected as his successor in 1148. He died August 3, 1159. (Life by Jocelin in AA.SS., Aug, i. 248). His visit to Malachy proves that the fame of the latter had come to his ears—probably through the Scots who knew him at Lismore (§ 8). It indicates also that Malachy stayed at York long enough to allow the news of his arrival to be sent to Kirkham.
 
-[^24]: 
+[^24]: The ruins of Kirkham Abbey remain in the parish of Weston, about sixteen miles north-east of York. This house of Augustinian canons was founded in 1121 by Walter Espec and his wife Adeline. The first prior was William, rector of Garton, uncle of Espec. Dugdale (vol. vi. 1. pp. 207-209), overlooking Waltheof, mentions no other before 1190.
 
-[^25]: .
+[^25]: The first Cistercian monastery in Scotland, founded in 1136 by David I. It was a daughter of Rievaulx, from which, as we have seen, Waltheof was called to be its abbot. Its church of St. Mary was consecrated July 28, 1146. It is on the bank of the Tweed, not far from Old Melrose, the site of a community founded in the seventh century, of which St. Cuthbert was a member. See James A. Wade, History of Melrose.
 
-[^26]: 
+[^26]: Deacons.
 
-[^27]: , the Old English (Chaucer, 390). From this incident the inference is clear that during the whole journey to Rome and back most of Malachy's companions were always on foot, and that the party went at a walking pace.
+[^27]: Runcinus, the Old English rouncy (Chaucer, Prol. 390). From this incident the inference is clear that during the whole journey to Rome and back most of Malachy's companions were always on foot, and that the party went at a walking pace.
 
-[^28]: 1 Sam. iii. 19 . Cp. Matt. x. 29 .
+[^28]: 1 Sam. iii. 19. Cp. Matt. x. 29.
 
-[^29]: , xxxv. 247 f.
+[^29]: An important date. Since Malachy died on November 2, 1148, he must have reached York not earlier than November 1139. For reasons for putting the visit somewhat later see R.I.A., xxxv. 247 f.
 
-[^30]: l.c.
+[^30]: "Within a few days," says Jocelin in his version of the story! See AA.SS. l.c.
 
-[^31]: (R.S.), pp. 391-395), to our knowledge of the routes of travellers contemporary with Malachy, and to the rare mention in the of places through which he passed, we can follow him almost step by step from Canterbury to Rome and back. He probably sailed from Dover, and landed on the French coast at or near Wissant. Thence he went by Arras, Rheims, Châlons-sur-Marne, Bar-sur-Aube, Lausanne, Martigny, and over the Great St. Bernard to Ivrea. Then he followed the beaten tract through Vercelli, Pavia, Piacenza, Pontremoli, Lucca and Viterbo to Rome. On the whole journey, from Bangor to Rome and back, the company traversed about 3000 miles on land, besides crossing the sea four times. Allowing for stoppages at Rome, Clairvaux and elsewhere, and for a weekly rest on Sunday, Malachy must have been absent from Ireland about nine months. For details see xxxv. 238 ff. The marginal dates are based on that investigation, and are to be regarded merely as approximations.
+[^31]: After leaving York Malachy no doubt followed approximately the line of the Roman road known as Erming Street to London and Canterbury. Thanks to the preservation of the Itinerary of Archbishop Sigeric on his journey from Rome to Canterbury in 990 (Stubbs, Memorials of St. Dunstan (R.S.), pp. 391-395), to our knowledge of the routes of travellers contemporary with Malachy, and to the rare mention in the Life of places through which he passed, we can follow him almost step by step from Canterbury to Rome and back. He probably sailed from Dover, and landed on the French coast at or near Wissant. Thence he went by Arras, Rheims, Châlons-sur-Marne, Bar-sur-Aube, Lausanne, Martigny, and over the Great St. Bernard to Ivrea. Then he followed the beaten tract through Vercelli, Pavia, Piacenza, Pontremoli, Lucca and Viterbo to Rome. On the whole journey, from Bangor to Rome and back, the company traversed about 3000 miles on land, besides crossing the sea four times. Allowing for stoppages at Rome, Clairvaux and elsewhere, and for a weekly rest on Sunday, Malachy must have been absent from Ireland about nine months. For details see R.I.A. xxxv. 238 ff. The marginal dates are based on that investigation, and are to be regarded merely as approximations.
 
-[^32]: Ps. cxix. 14 .
+[^32]: Ps. cxix. 14.
 
-[^33]: Gen. xxxiii. 10 , etc.
+[^33]: Gen. xxxiii. 10, etc.
 
-[^34]: 
+[^34]: Pref. § 2.
 
-[^35]: , Vacandard, J. Cotter Morison, (1868), and Richard S. Storrs, (1892).
+[^35]: Malachy probably "turned aside" from the main road at Bar-sur-Aube, from which Clairvaux is distant eight miles. A few words may be said about this famous monastery and its first abbot. Bernard, the son of a nobleman named Tescelin and his saintly wife Aleth, whose memory exercised a powerful influence on the lives of her children, was born at Fontaines, a mile or two from Dijon, in 1090. In Oct. 1111 he persuaded his brothers and many of his friends to embrace the religious life. Early in the following year the whole band, thirty in number, entered the austere and now declining community which had been established in 1098 at Citeaux, twelve miles from Dijon. Their arrival was the beginning of the prosperity of the great Cistercian Order. In 1115 Bernard was sent out, with some brothers, by the abbot, Stephen Harding, to found a daughter house on the river Aube, in a valley which had once been known, from its desolation, as the Valley of Wormwood. After incredible hardships a monastery was built, and the place was so transformed by the labours of the monks that henceforth it deserved its newer name of Clara Vallis, or Clairvaux. The community rapidly increased in numbers; and in 1133, in spite of the opposition of the abbot when the proposal was first made, the building of a large monastery on a different site was begun. It was probably far advanced when Malachy arrived in 1140 (Vacandard, i. 413, 423). It was just completed when he came again in 1148 (see p. 143, n. 5). St. Bernard died on August 20, 1153. At this time he was the most powerful ecclesiastic in Europe, not excepting his nominee Pope Innocent II. (see p. 72, n. 3). Doubtless the main purpose of Malachy's visit to Clairvaux was to secure St. Bernard's support of the petition which he was about to present to the Pope. For further information about St. Bernard the reader may consult V.P., Vacandard, J. Cotter Morison, The Life and Times of St. Bernard, Abbot of Clairvaux (1868), and Richard S. Storrs, Bernard of Clairvaux, the Times, the Man, and his Work (1892).
 
-[^36]: Its ancient name was Eporedia. From it there are two routes across the Alps, by the Great St. Bernard and the Little St. Bernard respectively.
+[^36]: Yporia. Its ancient name was Eporedia. From it there are two routes across the Alps, by the Great St. Bernard and the Little St. Bernard respectively.
 
-[^37]: Luke vii. 2 .
+[^37]: Luke vii. 2.
 
-[^38]: 317), left Innocent in undisputed occupation of the papal chair. The news of the pacification was not announced in Scotland till the end of September (Richard of Hexham, 170). It probably reached Ireland a little later. It must have been after he was assured of the end of the schism that Malachy proposed his journey to Rome, at the end of 1138 or in 1139.
+[^38]: On the death of Pope Honorius II. (February 14, 1130) two Popes were elected by different groups of cardinals, Innocent II. and Anacletus II. St. Bernard espoused the cause of the former, and by his untiring efforts almost all the sovereigns of Europe were enlisted on his side (see Vacandard, chaps. x.-xiii., xviii.; Storrs, pp. 523-540; Morison, pp. 149-165, 209-213). But the schism lasted for eight years. At length Anacletus died (January 7, 1138), and the surrender of his successor, Victor IV., on May 29, 1138 (Ep. 317), left Innocent in undisputed occupation of the papal chair. The news of the pacification was not announced in Scotland till the end of September (Richard of Hexham, 170). It probably reached Ireland a little later. It must have been after he was assured of the end of the schism that Malachy proposed his journey to Rome, i.e. at the end of 1138 or in 1139.
 
-[^39]: 
+[^39]: Quo uenerat.
 
-[^40]: Ps. xxi. 2 .
+[^40]: Ps. xxi. 2.
 
-[^41]: Luke xvi. 2 (vg.).—For Gilbert see p. 47, n. 3. Patrick, successor of Gilbert in the see of Limerick, was consecrated by Theobald, archbishop of Canterbury, who was himself consecrated on January 8, 1139 (W. Stubbs, , p. 45). His profession of obedience (Ussher, p. 565) appears in the roll of professions at Canterbury immediately before that of Uhtred of Llandaff, who was consecrated in 1140 (Stubbs, ). If we assume that Gilbert resigned his see and his legatine commission at the same time, this gives 1139-40 as the date of Malachy's journey, in agreement with the hint of St. Bernard in § 36. It is possible that Gilbert's resignation of his office as legate was sent to Rome by Malachy.
+[^41]: Luke xvi. 2 (vg.).—For Gilbert see p. 47, n. 3. Patrick, successor of Gilbert in the see of Limerick, was consecrated by Theobald, archbishop of Canterbury, who was himself consecrated on January 8, 1139 (W. Stubbs, Reg. Sac. Angl., p. 45). His profession of obedience (Ussher, p. 565) appears in the roll of professions at Canterbury immediately before that of Uhtred of Llandaff, who was consecrated in 1140 (Stubbs, l.c.). If we assume that Gilbert resigned his see and his legatine commission at the same time, this gives 1139-40 as the date of Malachy's journey, in agreement with the hint of St. Bernard in § 36. It is possible that Gilbert's resignation of his office as legate was sent to Rome by Malachy.
 
-[^42]: 
+[^42]: Cashel. See p. 65, note 4.
 
-[^43]: , vii. 63).
+[^43]: Fleming in 1623 saw a mitre of Malachy at Clairvaux, which was supposed to have been the one placed on his head by Innocent at Orbiers, ten leagues away, his wooden drinking cup was preserved: it was in a leathern case, adorned with Irish interlacings (Irish Ecclesiastical Record, vii. 63).
 
-[^44]: 2 Cor. i. 15 .
+[^44]: Cp. 2 Cor. i. 15.
 
-[^45]: Gen. xxii. 18 ; xxvi. 4 .
+[^45]: Gen. xxii. 18; xxvi. 4.
 
-[^46]: vii. 54). It was literally true that no monastic communities had previously existed in Sweden (C. H. Robinson, , p. 482 f. Cp. Vacandard, ii. 416). But the passage before us cannot be construed as an assertion that Ireland was in like case; for in § 12 mention is made of the "monks" of Bangor in the time of Congall. St. Bernard (or Malachy, if the words are really his) must be taken to mean simply that the so-called monks of the decadent contemporary Church of Ireland were not monks in the true sense of the word. (Cp. Lett. iii. § 2). There is nothing to be said for the explanation suggested by Lanigan (iv. 114) that the "nations" are nations other than the Irish, who had no monks. For where were those nations to whom the Irish might send colonies of monks? The fact is that the Latin word for "nations" ( ) may quite well mean here what it certainly means in § 42, the Irish tribes.
+[^46]: Compare the passage concerning a brother who had been sent from Clairvaux to Sweden in 1143, and had founded a daughter monastery there: "The lord [St. Bernard] sent to his faithful servant learned and discreet persons from the parts of Germany and England, by whom the discipline of monastic religion founded in that kingdom increased and bore worthy fruit among peoples who had indeed heard the name of monk, but had never before seen a monk" (V.P. vii. 54). It was literally true that no monastic communities had previously existed in Sweden (C. H. Robinson, Conversion of Europe, p. 482 f. Cp. Vacandard, ii. 416). But the passage before us cannot be construed as an assertion that Ireland was in like case; for in § 12 mention is made of the "monks" of Bangor in the time of Congall. St. Bernard (or Malachy, if the words are really his) must be taken to mean simply that the so-called monks of the decadent contemporary Church of Ireland were not monks in the true sense of the word. (Cp. Lett. iii. § 2). There is nothing to be said for the explanation suggested by Lanigan (iv. 114) that the "nations" are nations other than the Irish, who had no monks. For where were those nations to whom the Irish might send colonies of monks? The fact is that the Latin word for "nations" (gentes) may quite well mean here what it certainly means in § 42, the Irish tribes.
 
-[^47]: 
+[^47]: He left others in other Cistercian houses (§ 35).
 
-[^48]: 
+[^48]: Cp. Letter i. § 1.
 
-[^49]: Ps. xc. 12 .
+[^49]: Ps. xc. 12.
 
-[^50]: § 2). About 1150 he was promoted to the bishopric of Lismore, and at the Synod of Kells in 1152 he appeared as papal legate (Keating, iii. 317). He was present at the consecration of the church of Mellifont Abbey in 1157 ( ) As legate he also presided at the Synod of Cashel in 1172 (Giraldus, i. 34). He died in 1186 ( ). Felix, bishop of Lismore, attended the Lateran Council of 1179 (Mansi, xxii. 217). Christian must therefore have resigned his see before that date.
+[^50]: Gilla Críst Ua Condoirche was probably a native of the district of Bangor (§ 14). He seems to have been one of the four who were left by Malachy at Clairvaux; and, as is here stated, he was the first abbot of Mellifont. He seems, however, to have proved not well suited for the office, for he was sent back to Clairvaux for further instruction (Letter iii. § 3). Some of the Clairvaux brothers (if not all of them) refused to remain in Ireland, and it is perhaps hinted that the cause of their return was dissatisfaction with his administration (ib. § 2). About 1150 he was promoted to the bishopric of Lismore, and at the Synod of Kells in 1152 he appeared as papal legate (Keating, iii. 317). He was present at the consecration of the church of Mellifont Abbey in 1157 (A.U.) As legate he also presided at the Synod of Cashel in 1172 (Giraldus, Expug. i. 34). He died in 1186 (A.L.C.). Felix, bishop of Lismore, attended the Lateran Council of 1179 (Mansi, xxii. 217). Christian must therefore have resigned his see before that date.
 
-[^51]: ii. 262, , ), the four brothers, together with a contingent of monks from Clairvaux, arrived, and the monastery was founded, with Christian as its first abbot (Lett. ii.). Considerable progress was made with the buildings, and endowments poured in. But after a while it became necessary to send Christian back to France for further instruction, and the Clairvaux monks went with him, never to return. In due time Christian resumed his office as abbot, and with him came one Robert, to assist him in the work of building and organization (Lett. iii). The Abbey Church was not consecrated till 1157, nine years after Malachy's death ( ). Mellifont remained the principal Cistercian house in Ireland up to the Reformation. After the dissolution (1539) it was granted, with its possessions, to Sir Edward Moore, ancestor of the earls of Drogheda. The only portions of the monastery which remain in a fair state of preservation are the Chapter House and the Lavabo. The latter belongs to the original building. Excavations made about twenty years ago revealed the ground plan of the entire monastery, most of which was of later date than Malachy. Traces were discovered of the foundation of the eastern portion of the original church, about forty feet west of the east wall of the structure which later took its place. It had six chapels at the east end, four of which were apsidal ( , p. 11).
+[^51]: Mellifont Abbey, the ruins of which still remain in a secluded valley, beside the stream known as the Mattock, about two miles from the Boyne, and five miles west of Drogheda. Some time after Malachy returned to Ireland he wrote to St. Bernard, asking him to send two of the four brothers who had been left at Clairvaux to select a site for the abbey. This request was declined (Lett. i. § 1), and the site—doubtless the gift of Donough O'Carroll (see the document quoted p. 170)—was apparently chosen by Malachy himself. In 1142 (C.M.A. ii. 262, Clyn's Annals, Annals of Boyle), the four brothers, together with a contingent of monks from Clairvaux, arrived, and the monastery was founded, with Christian as its first abbot (Lett. ii.). Considerable progress was made with the buildings, and endowments poured in. But after a while it became necessary to send Christian back to France for further instruction, and the Clairvaux monks went with him, never to return. In due time Christian resumed his office as abbot, and with him came one Robert, to assist him in the work of building and organization (Lett. iii). The Abbey Church was not consecrated till 1157, nine years after Malachy's death (A.U.). Mellifont remained the principal Cistercian house in Ireland up to the Reformation. After the dissolution (1539) it was granted, with its possessions, to Sir Edward Moore, ancestor of the earls of Drogheda. The only portions of the monastery which remain in a fair state of preservation are the Chapter House and the Lavabo. The latter belongs to the original building. Excavations made about twenty years ago revealed the ground plan of the entire monastery, most of which was of later date than Malachy. Traces were discovered of the foundation of the eastern portion of the original church, about forty feet west of the east wall of the structure which later took its place. It had six chapels at the east end, four of which were apsidal (71st Report of Commissioners of Public Works, Ireland, p. 11).
 
-[^52]: 1 Sam. ii. 21 .—The five daughters were apparently Bective (de Beatitudine) founded in 1147, Boyle, 1147-8, Monasternenagh, 1148, Baltinglas (de Valle Salutis), 1148, and Inislounaght (Janauschek, , Vindoboniæ, 1877, pp. 70, 92, 113). The last-named seems to have been in existence in 1148 (see § 64), and it may have been an off-shoot of Mellifont, though at an early date it was subject to Monasternenagh ( 131). Gougaud ( , 1911, p. 364) gives Shrule (de Benedictione Dei) the fifth place; but it appears to have been founded (1150?) after the was written (Janauschek, p. 114).
+[^52]: 1 Sam. ii. 21.—The five daughters were apparently Bective (de Beatitudine) founded in 1147, Boyle, 1147-8, Monasternenagh, 1148, Baltinglas (de Valle Salutis), 1148, and Inislounaght (Janauschek, Origines Cistercienses, Vindoboniæ, 1877, pp. 70, 92, 113). The last-named seems to have been in existence in 1148 (see § 64), and it may have been an off-shoot of Mellifont, though at an early date it was subject to Monasternenagh (ibid. 131). Gougaud (Les Chrétientés Celtiques, 1911, p. 364) gives Shrule (de Benedictione Dei) the fifth place; but it appears to have been founded (1150?) after the Life was written (Janauschek, p. 114).
 
-[^53]: Gen. xxii. 17 ; xxvi. 4 .
+[^53]: Cp. Gen. xxii. 17; xxvi. 4.
 
-[^54]: 
+[^54]: David I. of Scotland, son of Malcolm Canmore and St. Margaret, the sister of Edgar the Atheling. He was born in 1084. His sister Matilda was the wife of Henry I. of England; and thus he was uncle of Matilda, the empress, for whom he fought against Stephen, though Stephen's wife, Queen Matilda, was also his niece. In 1113 David married Matilda, the widow of Simon de St. Liz, earl of Northampton (cp. p. 69, n. 1). He succeeded Alexander I. in 1124 and died in 1153. As the founder of several Scottish dioceses and as having introduced the Cistercian Order into his kingdom he had much in common with St. Malachy.
 
-[^55]: , vol. i. p. 144). Possibly, as has been suggested, David was there as the guest of Fergus, lord of Galloway (1124-1161), to whom, subsequently to the Battle of the Standard (August 22, 1138), and probably not long before this visit of Malachy, he had been reconciled after a long estrangement (Agnew, , 1893. vol. i. p. 58).
+[^55]: This is probably an error. There is no record that David I. had any castles in Galloway; and the chronicles seem to show that at this period his principal residences were at Roxburgh and Carlisle. The narrative suggests that the castle referred to was in the immediate neighbourhood of Cruggleton (p. 78, n. 1), and it was probably the predecessor of that of which the scanty ruins—believed to be of thirteenth-century date—remain on the coast not far from the village. They are on a peninsula of such natural strength that we may suppose it was in very early times the site of a fortress (Fourth Report of Commission on Ancient Monuments in Scotland, vol. i. p. 144). Possibly, as has been suggested, David was there as the guest of Fergus, lord of Galloway (1124-1161), to whom, subsequently to the Battle of the Standard (August 22, 1138), and probably not long before this visit of Malachy, he had been reconciled after a long estrangement (Agnew, Hereditary Sheriffs of Galloway, 1893. vol. i. p. 58).
 
 [^56]: Phil. ii. 27 (inexact quotation).
 
-[^57]: 
+[^57]: 2 John iv. 47.
 
-[^58]: Acts iii. 4 .
+[^58]: Acts iii. 4.
 
-[^59]: Luke vii. 17 .
+[^59]: Luke vii. 17.
 
-[^60]: Mark vii. 24 .
+[^60]: Mark vii. 24.
 
 [^61]: Isa. li. 3 (vg.).
 
-[^62]: , p. 156). He died before his father, in May or June 1152 (John of Hexham). Two of his sons became kings of Scots, Malcolm IV. and William I.
+[^62]: The only son of David: "a man gentle and pious, a man of sweet nature and of pure heart, and worthy in all things to be born of such a father" (Ailred of Rievaulx, in A. O. Anderson, Scottish Annals from English Chroniclers, p. 156). He died before his father, in May or June 1152 (John of Hexham). Two of his sons became kings of Scots, Malcolm IV. and William I.
 
-[^63]: Rom. ix. 30 , etc.
+[^63]: Rom. ix. 30, etc.
 
-[^64]: Cruggleton is on the west coast of Wigtown Bay, in the parish of Sorby, Wigtownshire. In passing through this village Malachy made a détour, probably in order to visit King David, which considerably lengthened his journey.
+[^64]: Crugeldum. Cruggleton is on the west coast of Wigtown Bay, in the parish of Sorby, Wigtownshire. In passing through this village Malachy made a détour, probably in order to visit King David, which considerably lengthened his journey.
 
-[^65]: Mark vii. 35 .
+[^65]: Mark vii. 35.
 
-[^66]: 
+[^66]: The parish church of Mochrum, Wigtownshire, as Sir Herbert Maxwell informs me, was anciently dedicated to St. Michael. Thus the village called St. Michael's Church is undoubtedly Kirk Mochrum, which clusters round the church, and through which every traveller from Cruggleton to Cairngarroch (see next note) must pass. It is twelve miles from Cruggleton.
 
-[^67]: is obviously the gen. of , a corruption of (rough stone). This seems to be a Latin rendering of Cairngarroch (= ), a name which occurs three times on the shores of Wigtownshire. One of the places so called, on the west coast of Luce Bay, may be set aside. The other two are seven or eight miles apart, within sight of the Bangor coast, and nearly equidistant from it; one in the parish of Stoneykirk, the other (now known as Rough Cairn) in the parish of Geswalt. The late Sir Andrew Agnew ( p. 59) regarded the latter as the place referred to in the text on grounds which do not seem conclusive. Cairngarroch in Stoneykirk is to be preferred for two reasons: it is more easily approached from inland than its rival; and it has impressed its name on the actual coast-line, which the other has not done; "Cairngarroch Bay" is equivalent to , and that to the of the text. This identification was first proposed by O'Hanlon (p. 81); and its probability is increased now that the position of St. Michael's Church has been fixed (see preceding note). But one of his arguments in favour of it, based on the name of the parish, is fallacious; for "Stoneykirk" has nothing to do with stones: it is a late corruption of Steiniekirk = St. Stephen's Church.
+[^67]: Lapasperi is obviously the gen. of Lapasper, a corruption of Lapis asper (rough stone). This seems to be a Latin rendering of Cairngarroch (= Carn garbh), a name which occurs three times on the shores of Wigtownshire. One of the places so called, on the west coast of Luce Bay, may be set aside. The other two are seven or eight miles apart, within sight of the Bangor coast, and nearly equidistant from it; one in the parish of Stoneykirk, the other (now known as Rough Cairn) in the parish of Geswalt. The late Sir Andrew Agnew (op. cit. p. 59) regarded the latter as the place referred to in the text on grounds which do not seem conclusive. Cairngarroch in Stoneykirk is to be preferred for two reasons: it is more easily approached from inland than its rival; and it has impressed its name on the actual coast-line, which the other has not done; "Cairngarroch Bay" is equivalent to Port Cairn garbh, and that to the Portus Lapasperi of the text. This identification was first proposed by O'Hanlon (p. 81); and its probability is increased now that the position of St. Michael's Church has been fixed (see preceding note). But one of his arguments in favour of it, based on the name of the parish, is fallacious; for "Stoneykirk" has nothing to do with stones: it is a late corruption of Steiniekirk = St. Stephen's Church.
 
-[^68]: Mark i. 32 , 34 .
+[^68]: Mark i. 32, 34.
 
-[^69]: 
+[^69]: For the passage here omitted see Appendix, p. 171.
 
 
 ---

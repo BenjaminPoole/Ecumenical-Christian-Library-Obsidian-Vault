@@ -38,17 +38,17 @@ Thus is that Blissful Sight [the] end of all manner of pain to the loving soul, 
 
 and Grace; the third is that we know meekly what our self is anent our sin and feebleness. And for these three was all the Shewing made, as to mine understanding.
 
-[^1]: Rev. ii. ) ch. x., in which it was shewed darkly. S. de Cressy has "in party" = part, but the word seems to be "pite" = pity.
+[^1]: That is: in the Shewing of Pity (Rev. ii.) ch. x., in which it was shewed darkly. S. de Cressy has "in party" = part, but the word seems to be "pite" = pity.
 
-[^2]: 
+[^2]: halsith; beclosith.
 
-[^3]: 
+[^3]: levyn; tellen; thynken; stint; see.
 
-[^4]: 
+[^4]: "abiden. ne no wele failen."
 
-[^5]: 
+[^5]: "myrkehede, unethes we can leven and trowen."
 
-[^6]: 
+[^6]: "sekirnes." Note. -- The words "Blissful Cheer" cannot be rendered by the more beautiful and familiar BLESSED COUNTENANCE, and even "Blissful Countenance" might fail to bring out the reference to one Aspect of the Divine Face, one part of the threefold Truth.
 
 
 ---

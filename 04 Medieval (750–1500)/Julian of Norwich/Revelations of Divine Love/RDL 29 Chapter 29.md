@@ -22,7 +22,7 @@ BUT in this I stood beholding things general, troublously and mourning, saying t
 And to this our blessed Lord answered full meekly and with full lovely cheer, and shewed that Adam’s sin was the most harm that ever was done, or ever shall be, to the world’s end; and also He shewed that this [sin] is openly known in all Holy Church on earth. Furthermore He taught that I should behold the glorious Satisfaction[^1] : for this Amends-making is more pleasing to God and more worshipful, without comparison, than ever was the sin of Adam harmful. Then signifieth
 our blessed Lord thus in this teaching, that we should take heed to this: *For since I have made well the most harm, then it is my will that thou know thereby that I shall make well all that is less.*
 
-[^1]: 
+[^1]: "asyeth"; "asyeth making"= asseth., Satisfying, Fulfilment. See p. 2.
 
 
 ---

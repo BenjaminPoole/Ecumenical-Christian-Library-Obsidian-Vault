@@ -18,6 +18,8 @@ tags:
 Being made Archbishop of Armagh, he suffers many troubles. Peace being
 made, from being Archbishop of Armagh he becomes Bishop of Down.
 
+*1129*
+
 19. (12). Meanwhile[^1] it happened that Archbishop Cellach[^2] fell
 sick: he it was who ordained Malachy deacon, presbyter and bishop: and
 knowing that he was dying he made a sort of testament[^3] to the effect
@@ -54,6 +56,8 @@ multiplied, without order or reason, at the will of the metropolitan, so
 that one bishopric was not content with one bishop, but nearly every
 single church had its bishop.[^14] No wonder; for how could the members
 of so diseased a head be sound?
+
+*1132*
 
 20. Cellach, greatly grieving for these and other like evils of his
 people—for he was a good and devout man—took all care to have Malachy
@@ -127,6 +131,8 @@ act it should happen that any one of those should die to whom he came
 rather to minister life. Thus for two years (for so long the other
 survived), living outside the town, he strenuously performed the
 episcopal office throughout the whole province.[^35]
+
+*1134, Sept. 17*
 
 22. (15). When that person, then, had been removed by sudden death,[^36]
 again one Niall [Nigellus] (in truth nigerrimus, very black)[^37]
@@ -264,6 +270,8 @@ above.[^98] For in a wonderful manner He took them both—one terribly
 punished in the body,[^99] the other mercifully changed in
 heart[^100]—in the devices that they had imagined.[^101]
 
+*1135, July(?)*
+
 27. These matters so accomplished, the bishop now began to dispose and
 order in the city all things pertaining to his ministry with entire
 freedom, but not without constant risk of his life. For though there was
@@ -332,6 +340,8 @@ worthily recount them? Yet we do not omit them all, though we have not
 ability to describe all. But that the sequence of the narrative may not
 be interrupted we reserve to the end some that we propose to mention.
 
+*1137*
+
 31. (19). So then Malachy, when within three years[^126] a reward was
 rendered to the proud[^127] and liberty restored to the church,
 barbarism driven out and the customs of the Christian religion
@@ -378,289 +388,289 @@ things?[^140] inasmuch as all saw the miracles and wonders which he
 did,[^141] and because where the Spirit of the Lord is, there is
 liberty.[^142]
 
-[^1]: 
+[^1]: That is, while Malachy was in Iveragh.
 
-[^2]: 
+[^2]: Cellach is here mentioned by name for the first time. See p. 14, n. 2.
 
-[^3]: , ii., "Writers," p. 69) identifies this testament with the , a tract attributed to Cellach, which is apparently no longer extant. But it may be doubted whether the testament mentioned in the text was committed to writing.
+[^3]: Harris (Ware's Works, ii., "Writers," p. 69) identifies this testament with the Testamentum ad ecclesias, a tract attributed to Cellach, which is apparently no longer extant. But it may be doubted whether the testament mentioned in the text was committed to writing.
 
-[^4]: 
+[^4]: The designation by a coarb of his successor seems to have been unusual. But in 1124 Malachy had in this way been appointed abbot of Bangor (§ 12); and in 1134 Murtough designated Niall as his successor in the abbacy of Armagh (§ 22).
 
 [^5]: Conor O'Brien, king of Thomond, and Cormac Mac Carthy, king of Desmond. See § 9, and p. 21, notes 1-3. Murtough O'Brien, king of Munster, fell into ill-health in 1114, and his brother Dermot attempted, evidently with some success, to seize the throne. Dermot died in 1118 and Murtough early in the following year. Turlough O'Conor, the powerful king of Connaught, promptly invaded Munster, and divided it into two vassal kingdoms, Thomond and Desmond. The former he gave to the sons of Dermot, of whom Conor was one, the latter to Teague Mac Carthy. Apparently Conor O'Brien soon established himself as sole king of Thomond, and Cormac Mac Carthy became king of Desmond on the death of his father, Teague, in 1124. We have seen that both of them were deposed in 1127, and quickly restored (§ 9 f.: see p. 21, n. 3; p. 23, n. 2). From that time Conor and Cormac were allies. Cormac married Conor's niece (A.T. 1138). Together in 1133 they invaded Connaught (A.F.M.), and the next year they made another successful expedition through Connaught into Ulster (then ruled by Conor O'Loughlin; see p. 40, n. 2), in the course of which they burned the church of Rathluraigh, now Maghera, co. Derry, near the border of the diocese of Armagh (D.A.I.). This expedition must be referred to hereafter (p. 51, n. 2). But Conor evidently aspired to be ardrí of Ireland, and he found it desirable to remove a possible rival. Accordingly Cormac was murdered by his father-in-law, Conor's brother, in 1138, and Conor became king of all Munster. He was now the most powerful prince in Ireland; but he died, after a lingering illness (Tundale, p. 42), in 1142, without attaining his ambition. It is clear from the present passage that Conor O'Brien followed in the footsteps of his predecessors in the same family as a supporter of the new movement in the Irish Church. Cormac, as we know, was the friend and disciple of Malachy: his devotion to the Church is witnessed to by the beautiful edifice built by him at Cashel, still known as "Cormac's Chapel," which was consecrated in 1134; and by his title of "Bishop-King," which has been the subject of so much discussion. See Petrie, pp. 283-307; and for the crozier found in Cormac's supposed tomb, G. Coffey, Guide to the Celtic Antiquities of the Christian Period in the National Museum, Dublin, p. 64. But it must be added that the contemporary Vision of Tundale, which apparently emanated from Cormac's kingdom of Desmond, while bearing emphatic testimony to his generosity to "Christ's poor and pilgrims," charges him with heinous crimes strangely inconsistent with St. Bernard's sketch of his character (Tundale, p. 44 f.).
 
-[^6]: 
+[^6]: It seems that the successor (coarb) of the founder of a church was supposed to speak with his authority. Cp. the Epistle of Cummian in Ussher, p. 442.
 
-[^7]: xviii, 655 ff.), while Bury ( , p. 211) has "little hesitation in deciding that the obscure grave was at Saul."
+[^7]: Cp. § 65. It is generally believed that St. Patrick was buried at Downpatrick (see Reeves, p. 223 ff.); but Olden contended (not convincingly) that the statement made here by St. Bernard is correct (R.I.A. xviii, 655 ff.), while Bury (Life of St. Patrick, p. 211) has "little hesitation in deciding that the obscure grave was at Saul."
 
-[^8]: 
+[^8]: This word cannot have been in St. Bernard's document, for it is unknown in early Irish ecclesiastical terminology, and in Irish hierarchical arrangements it would have no meaning. The context proves that the persons to whom it is here applied are the abbots of Armagh, of whom Cellach was one. It probably represents a Latin rendering of "coarb (successor) of Patrick," a title commonly given to the abbots of this period. The document portrayed the coarbs as rulers of the church of Armagh. St. Bernard would naturally infer that they were bishops. When he found that their authority extended beyond Armagh he would no less naturally style them archbishops or metropolitans. Cp. Serm. i, § 6, where the story of §§ 19-31 is briefly summarized.
 
-[^9]: 
+[^9]: Armagh.
 
-[^10]: The "quasi-generations" are apparently the periods of office of successive coarbs. St. Bernard seems to have written "fifteen" in mistake for "twelve." See Additional Note B, p. 165.
+[^10]: Quasi generationibus quindecim. The "quasi-generations" are apparently the periods of office of successive coarbs. St. Bernard seems to have written "fifteen" in mistake for "twelve." See Additional Note B, p. 165.
 
-[^11]: 
+[^11]: Adulterous, because it took possession of the church, which should have been married to true bishops. Cp. § 20, "the adultery of the church," Malachy "being joined to another spouse;" § 21, Malachy's "former spouse," and the vision of Cellach's wife.
 
-[^12]: Matt. xii. 39 ; xvi. 4 .
+[^12]: Matt. xii. 39; xvi. 4.
 
-[^13]: 
+[^13]: On the statements in these sentences, see Additional Note B.
 
-[^14]: 1111), and probably all of them came from the provinces of Ulster and Munster (above, p. xxxviii). But this cannot have been due to the irregularities at Armagh of which St. Bernard complains. There were many bishops in Ireland in its earliest Christian period. See Reeves, 123-136; Todd, 27 ff.
+[^14]: That bishops were numerous in Ireland at this period is indubitable. Fifty attended the Synod of Fiadh meic Oengusa (A.U. 1111), and probably all of them came from the provinces of Ulster and Munster (above, p. xxxviii). But this cannot have been due to the irregularities at Armagh of which St. Bernard complains. There were many bishops in Ireland in its earliest Christian period. See Reeves, 123-136; Todd, 27 ff.
 
-[^15]: 
+[^15]: Malachy was not of the Clann Sinaich, to which at this period the coarbs of Patrick belonged. See p. 6, n. 5, and Additional Note B, p. 165.
 
-[^16]: 1 Sam. iii. 19 , etc.
+[^16]: 1 Sam. iii. 19, etc.
 
-[^17]: ).
+[^17]: Cellach died on April 1, 1129, and was buried at Lismore on April 4. On April 5, the day after his funeral, Murtough was appointed coarb (A.U.).
 
-[^18]: 1136). On him see p. 40, n. 2. The "five years" are the period from Murtough's election to his death, September 17, 1134 ( )—nearly five years and a half.
+[^18]: He was probably supported by Conor O'Loughlin, who was king of Oriel, the district in which Armagh was situated (A.F.M. 1136). On him see p. 40, n. 2. The "five years" are the period from Murtough's election to his death, September 17, 1134 (A.F.M.)—nearly five years and a half.
 
-[^19]: iii. 8).
+[^19]: Geoffrey, St. Bernard's secretary, recalls a saying of his about "one of the saints," which actually appears in the first antiphon at Mattins in the office of St. Malachy, and which Geoffrey applies to St. Bernard himself: "Blessed is he who loved the law, but did not desire the chair [of dignity]." (V.P. iii. 8).
 
-[^20]: 
+[^20]: On Malchus see p. 18, n. 6. He was now about eighty-five years of age.
 
-[^21]: (servant of the bishop), which is anglicized Gillespie. With that Irish name he subscribed the Acts of the Synod of Rathbreasail (Keating, iii. 306); and we may therefore affirm with confidence that he was an Irishman. Gilbert was a friend of the famous thinker and ecclesiastical statesman, Anselm, who was archbishop of Canterbury from 1093 to 1109. The two men met each other for the first time at Rouen, probably in 1087, when Anselm was called thither to the deathbed of William the Conqueror. Twenty years later, Gilbert, then bishop of Limerick, wrote a letter of congratulation to Anselm on his victory over Henry I. in the controversy concerning investiture (August 1107). In his reply Anselm intimates that the long interval had not blurred his recollection of their former companionship, from which we may infer that Gilbert's personality had made a considerable impression upon him. Anselm also states that he had learned (probably from the superscription of his friend's letter) that he was now a bishop. It would seem, therefore, that Gilbert had been consecrated recently, and not, like the contemporary bishops of Danish sees in Ireland, by the English Primate (see the letters in Ussher, 511, 512). He probably became bishop of Limerick about 1105. Shortly after his correspondence with Anselm, and perhaps by his influence, he was appointed papal legate for Ireland, the first, as St. Bernard tells us, who had held that office. He was legate when in 1108 or 1109 he wrote his tract (see above, p. xxx. ff.); and in 1110, as legate, he presided over the Synod of Rathbreasail. In 1139 or 1140, being old and infirm, he resigned his legatine commission and his see (§ 38 and p. 73, note 1). He died in 1145. Gilbert was evidently a strong man, who had much influence on the affairs of the Irish Church. It is therefore surprising that the only reference to him in the native Annals is the notice of his death in the .
+[^21]: Gillebertus (as St. Bernard writes the name) is a latinized form of the Irish Gilla espuig (servant of the bishop), which is anglicized Gillespie. With that Irish name he subscribed the Acts of the Synod of Rathbreasail (Keating, iii. 306); and we may therefore affirm with confidence that he was an Irishman. Gilbert was a friend of the famous thinker and ecclesiastical statesman, Anselm, who was archbishop of Canterbury from 1093 to 1109. The two men met each other for the first time at Rouen, probably in 1087, when Anselm was called thither to the deathbed of William the Conqueror. Twenty years later, Gilbert, then bishop of Limerick, wrote a letter of congratulation to Anselm on his victory over Henry I. in the controversy concerning investiture (August 1107). In his reply Anselm intimates that the long interval had not blurred his recollection of their former companionship, from which we may infer that Gilbert's personality had made a considerable impression upon him. Anselm also states that he had learned (probably from the superscription of his friend's letter) that he was now a bishop. It would seem, therefore, that Gilbert had been consecrated recently, and not, like the contemporary bishops of Danish sees in Ireland, by the English Primate (see the letters in Ussher, 511, 512). He probably became bishop of Limerick about 1105. Shortly after his correspondence with Anselm, and perhaps by his influence, he was appointed papal legate for Ireland, the first, as St. Bernard tells us, who had held that office. He was legate when in 1108 or 1109 he wrote his tract De Statu Ecclesiæ (see above, p. xxx. ff.); and in 1110, as legate, he presided over the Synod of Rathbreasail. In 1139 or 1140, being old and infirm, he resigned his legatine commission and his see (§ 38 and p. 73, note 1). He died in 1145. Gilbert was evidently a strong man, who had much influence on the affairs of the Irish Church. It is therefore surprising that the only reference to him in the native Annals is the notice of his death in the Chronicon Scotorum.
 
-[^22]: This is almost a technical word for the head of a religious community. Malchus is called (high senior of the Irish) in 1135.
+[^22]: Senior. This is almost a technical word for the head of a religious community. Malchus is called ard senóir Gaoidheal (high senior of the Irish) in A.F.M. 1135.
 
-[^23]: 
+[^23]: His dissimulation was his disregard of the divine call in the vision described in § 21.
 
-[^24]: 1132: "Mael Maedoc Ua Morgair sat in the coarbate of Patrick ."
+[^24]: Cp. A.F.M. 1132: "Mael Maedoc Ua Morgair sat in the coarbate of Patrick by the request of the clerics of Ireland."
 
 [^25]: Ps. lxxxiii. 12 (vg.).—See Additional Note B, p. 165.
 
-[^26]: Gen. ix. 6 .
+[^26]: Gen. ix. 6.
 
-[^27]: 
+[^27]: The diocese of Connor.
 
-[^28]: Matt. xix. 2 ; Mark x. 2 .
+[^28]: Matt. xix. 2; Mark x. 2.
 
-[^29]: Ezek. xxxiii. 30 .
+[^29]: Ezek. xxxiii. 30.
 
-[^30]: Jer. l. 11 .
+[^30]: Jer. l. 11.
 
-[^31]: 
+[^31]: The church of Armagh.
 
-[^32]: 
+[^32]: The "spouse" is primarily the diocese of Connor. His voluntary poverty is especially associated with his episcopate there in Serm. i. § 6.
 
-[^33]: 1129) imply that Cellach was not married.
+[^33]: It can hardly be doubted that this means the diocese of Armagh (cp. p. 45, n. 4). Both § 19 and the title "son of purity" (A.U. 1129) imply that Cellach was not married.
 
-[^34]: Rom. ix. 19 .
+[^34]: Rom. ix. 19.
 
-[^35]: ).
+[^35]: That Malachy was in 1132 recognized by many as coarb of Patrick is confirmed by the Annals (see p. 48, n. 3). But that he exercised his episcopal office "throughout the entire province" is inconsistent with the fact that in 1133 Murtough "made a visitation of Tír Eoghain [counties of Derry and Tyrone] and received his tribute of cows and imparted his blessing" (A.F.M.).
 
-[^36]: ). Sudden death is not suggested by the Annals.
+[^36]: September 17, 1134 (A.F.M.). Sudden death is not suggested by the Annals.
 
-[^37]: , black.
+[^37]: St. Bernard puns on the Latin name by which he represents Niall. It is a diminutive of niger, black.
 
 [^38]: Josh. ix. 24 (vg.).
 
-[^39]: 
+[^39]: The meaning of this somewhat difficult sentence is made clear by the reference to the Gibeonites (Josh. ix). By their stratagem they "made provision for their lives," that is, that they should continue to live instead of being exterminated with the rest of the Canaanites. In like manner Murtough provided that he should, as it were, live on and pursue his evil course, in the person of Niall.
 
-[^40]: 
+[^40]: He was Murtough's cousin, and Cellach's brother. See the table, Additional Note B, p. 164.
 
-[^41]: 
+[^41]: That the king was either Conor O'Brien or Cormac Mac Carthy is highly probable. To them Cellach had confided the duty of seeing that Malachy should be his successor (§ 19), and in this very year they reached the border of the diocese of Armagh (p. 43, n. 5). See p. 53, n. 5.
 
-[^42]: Ps. xxii. 16 .
+[^42]: Ps. xxii. 16.
 
-[^43]: , after recording the obit of Murtough, proceed: "Niall, son of Aedh, was installed in the coarbate of Patrick. A change of abbots in Armagh, Mael Maedoc Ua Morgair in place of Niall." In we have the statement, "Mael Maedog o Mongair ascended Patrick's chair. The Cinel Eoghain of Tulach Óg conspired against Mael Maedoc, and a flash of lightning consumed twelve men of them on the spot where they conspired against him." Thus it seems that the conspirators came from the place now known as Tullaghoge, in the county of Tyrone, then, as now, in the diocese of Armagh. It was the district inhabited by the sept of the O'Hagans, and in it was the , the inauguration chair of the O'Neills, kings of Ulster. The confirmation which St. Bernard's story receives from is the more important, because the two narratives are so far different that they must have come from independent sources.
+[^43]: The narrative of this and the next section is illustrated by the Annals under the year 1134. A.F.M., after recording the obit of Murtough, proceed: "Niall, son of Aedh, was installed in the coarbate of Patrick. A change of abbots in Armagh, i.e. Mael Maedoc Ua Morgair in place of Niall." In A.T. we have the statement, "Mael Maedog o Mongair ascended Patrick's chair. The Cinel Eoghain of Tulach Óg conspired against Mael Maedoc, and a flash of lightning consumed twelve men of them on the spot where they conspired against him." Thus it seems that the conspirators came from the place now known as Tullaghoge, in the county of Tyrone, then, as now, in the diocese of Armagh. It was the district inhabited by the sept of the O'Hagans, and in it was the lía na rígh, the inauguration chair of the O'Neills, kings of Ulster. The confirmation which St. Bernard's story receives from A.T. is the more important, because the two narratives are so far different that they must have come from independent sources.
 
 [^44]: Ps. lii. 1 (vg.).
 
-[^45]: John xviii. 2 (vg.).
+[^45]: Cp. John xviii. 2 (vg.).
 
-[^46]: Ps. x. 8 .
+[^46]: Ps. x. 8.
 
-[^47]: Matt. xxiii. 35 , combined with Rev. vi. 10 ; xix. 2 .
+[^47]: Matt. xxiii. 35, combined with Rev. vi. 10; xix. 2.
 
-[^48]: Ps. xcvii. 2 .
+[^48]: Ps. xcvii. 2.
 
-[^49]: Ps. xviii. 11 .
+[^49]: Ps. xviii. 11.
 
 [^50]: Amos v. 8 (vg.).
 
-[^51]: Rev. iv. 5 .
+[^51]: Rev. iv. 5.
 
-[^52]: Ps. xi. 6 , : apparently a conflation of the vg. with another rendering. A.V. has .
+[^52]: Ps. xi. 6, horribilis spiritus procellarum: apparently a conflation of the vg. with another rendering. A.V. has an horrible tempest.
 
-[^53]: i. 91.
+[^53]: Virg., Aen. i. 91.
 
-[^54]: Exod. iv. 19 ; Matt. ii. 20 , etc.
+[^54]: Exod. iv. 19; Matt. ii. 20, etc.
 
 [^55]: Job iii. 6 (vg.).
 
-[^56]: Rom. xiii. 12 .
+[^56]: Rom. xiii. 12.
 
-[^57]: Cp. the "spirit of tempests" in § 22 (end).
+[^57]: Spiritus. Cp. the "spirit of tempests" in § 22 (end).
 
-[^58]: Ps. cii. 10 .
+[^58]: Ps. cii. 10.
 
-[^59]: , 27.
+[^59]: Song of Three Children, 27.
 
 [^60]: Ecclus. xxxv. 16 (inexact quotation).
 
 [^61]: Exod. x. 23 (inexact quotation).
 
-[^62]: 2 Kings xviii. 41 ff.; Jas. v. 18 .
+[^62]: 2 Kings xviii. 41 ff.; Jas. v. 18.
 
-[^63]: 2 Kings i. 9-12 .
+[^63]: 2 Kings i. 9-12.
 
-[^64]: John xiii. 31 .
+[^64]: John xiii. 31.
 
-[^65]: (p. 48, n. 3), have used words which seemed to imply that he entered Armagh on that earlier occasion.
+[^65]: This date is incorrect. The entry into the city of Armagh cannot have taken place before October 1134, when Malachy was in his fortieth (possibly thirty-ninth) year. His entry into the province (§ 21) was probably made in his thirty-eighth year. This was no doubt the cause of St. Bernard's error; for one of his documents may, like A.F.M. (p. 48, n. 3), have used words which seemed to imply that he entered Armagh on that earlier occasion.
 
-[^66]: For they record, under 1134, the consecration of Cormac's Chapel on the rock of Cashel.
+[^66]: If "the king" was Cormac Mac Carthy (p. 51, n. 2), the statement that he returned home shortly after Malachy obtained possession of the see, is confirmed by A.F.M. For they record, under 1134, the consecration of Cormac's Chapel on the rock of Cashel.
 
-[^67]: Wisd. iii. 1 .
+[^67]: Wisd. iii. 1.
 
-[^68]: 2 Cor. vii. 5 .
+[^68]: 2 Cor. vii. 5.
 
-[^69]: Ps. ii. 2 ; Acts iv. 26 .
+[^69]: Ps. ii. 2; Acts iv. 26.
 
-[^70]: , but apparently unknown to St. Bernard. The statement of the latter, that Malachy "remained" in Armagh, ignores it. See further, Additional Note C, p. 168 f.
+[^70]: The flight of Niall seems clearly to imply that he was in the city of Armagh. The natural inference is that "having been driven out" he was afterwards reinstated. This may have happened while Malachy was absent on a visitation of Munster, mentioned in A.F.M., but apparently unknown to St. Bernard. The statement of the latter, that Malachy "remained" in Armagh, ignores it. See further, Additional Note C, p. 168 f.
 
-[^71]: , now in the Library of Trinity College, Dublin. The manuscript was written at Armagh early in the ninth century by a scribe named Ferdomnach; but at an early date it came to be supposed that it was the work of St. Patrick himself. From this belief, perhaps, arose the name by which it was known for many centuries, and which can be traced back to the year 936—the Canon of Patrick. It is strange that it should be called here a "copy of the Gospels"; for in addition to the complete text of the New Testament it contains two lives of St. Patrick, his and other historical documents. But the word was very loosely used in Ireland (see xxxiii. 327 f.). Misled by this description, de Backer (n. ) identifies the book mentioned by St. Bernard with the so-called "Gospels of St. Patrick," found in the shrine known as the Domnach Airgid, about 1830, which have no connexion with Armagh or St. Patrick ( xviii., "Antiquities," pp. 14 ff.; xxx. 303 ff.; xxxiv. 108 ff.). For further information about the the reader may consult Gwynn, especially pp. ci.-cxvi.
+[^71]: The Book of Armagh, now in the Library of Trinity College, Dublin. The manuscript was written at Armagh early in the ninth century by a scribe named Ferdomnach; but at an early date it came to be supposed that it was the work of St. Patrick himself. From this belief, perhaps, arose the name by which it was known for many centuries, and which can be traced back to the year 936—the Canon of Patrick. It is strange that it should be called here a "copy of the Gospels"; for in addition to the complete text of the New Testament it contains two lives of St. Patrick, his Confession and other historical documents. But the word Gospel was very loosely used in Ireland (see R.I.A. xxxiii. 327 f.). Misled by this description, de Backer (n. ad loc.) identifies the book mentioned by St. Bernard with the so-called "Gospels of St. Patrick," found in the shrine known as the Domnach Airgid, about 1830, which have no connexion with Armagh or St. Patrick (R.I.A. Trans. xviii., "Antiquities," pp. 14 ff.; xxx. 303 ff.; R.I.A. xxxiv. 108 ff.). For further information about the Book of Armagh the reader may consult Gwynn, especially pp. ci.-cxvi.
 
-[^72]: iii. 34), richly adorned. The story of its presentation by Christ to St. Patrick is found in the tenth-century (p. 30), no doubt taken from an earlier source. The staff was much older than the ; for we find that it was "profaned" in 789, and it was then apparently regarded as the principal relic of St. Patrick ( 788). It seems that there was a still more ancient tradition, that St. Patrick gave it to St. Mac Cairthinn ( xxxiv. 114), from which it may be inferred that it once belonged to the church of Clogher. It was removed from Armagh to Dublin in 1180, and deposited in Christ Church. It was burnt in 1538 ( ). Apparently St. Bernard is the only authority for the statement that it was "fashioned" by Christ. It appears that the staff of Jesus, in the twelfth century, was regarded as a much more important relic than the , and was more closely associated with the person and office of the coarb of Patrick. It is frequently mentioned in such a way as to suggest that it was one of the insignia of his authority ( 1015, 1073, 1101, 1113, 1157, 1166, 1167; 1135, 1139, 1143, 1148, 1152). Similar references to the do not occur till near the close of the twelfth century, immediately after the removal of the staff from Armagh ( 1179, 1196; Gwynn, p. civ.). A very full account of the later history of the staff may be read in pp. viii-xx.
+[^72]: The staff of Jesus was a wooden crozier (Giraldus, Top. iii. 34), richly adorned. The story of its presentation by Christ to St. Patrick is found in the tenth-century Trip. (p. 30), no doubt taken from an earlier source. The staff was much older than the Book of Armagh; for we find that it was "profaned" in 789, and it was then apparently regarded as the principal relic of St. Patrick (A.U. 788). It seems that there was a still more ancient tradition, that St. Patrick gave it to St. Mac Cairthinn (R.I.A. xxxiv. 114), from which it may be inferred that it once belonged to the church of Clogher. It was removed from Armagh to Dublin in 1180, and deposited in Christ Church. It was burnt in 1538 (A.L.C.). Apparently St. Bernard is the only authority for the statement that it was "fashioned" by Christ. It appears that the staff of Jesus, in the twelfth century, was regarded as a much more important relic than the Book of Armagh, and was more closely associated with the person and office of the coarb of Patrick. It is frequently mentioned in such a way as to suggest that it was one of the insignia of his authority (A.U. 1015, 1073, 1101, 1113, 1157, 1166, 1167; A.F.M. 1135, 1139, 1143, 1148, 1152). Similar references to the Book of Armagh do not occur till near the close of the twelfth century, immediately after the removal of the staff from Armagh (A.U. 1179, 1196; Gwynn, p. civ.). A very full account of the later history of the staff may be read in O.C.C. pp. viii-xx.
 
-[^73]: Deut. xxxii. 6 .
+[^73]: Deut. xxxii. 6.
 
-[^74]: The word is commonly used of a monk who leaves his proper monastery, and wanders about from one cell to another (see, , St. Bernard, 68, § 4), or to a priest who deserts his parish (Du Cange, ).
+[^74]: Gyrovagus. The word is commonly used of a monk who leaves his proper monastery, and wanders about from one cell to another (see, e.g., St. Bernard, Ep. 68, § 4), or to a priest who deserts his parish (Du Cange, s.v.).
 
-[^75]: Job i. 6 , 7 ; ii. 2 .
+[^75]: Job i. 6, 7; ii. 2.
 
-[^76]: , p. 97) thought that this was Conor O'Loughlin. But he could hardly be described as "of the unrighteous race," or as a "prince," which would indicate a petty chieftain. Probably the conspirator was a local magnate.
+[^76]: King (Primacy of Armagh, p. 97) thought that this was Conor O'Loughlin. But he could hardly be described as "of the unrighteous race," or as a "prince," which would indicate a petty chieftain. Probably the conspirator was a local magnate.
 
-[^77]: Matt. xxvi. 4 , combined with Luke xxii. 2 .
+[^77]: Matt. xxvi. 4, combined with Luke xxii. 2.
 
-[^78]: Acts xxiii. 12 f.
+[^78]: Cp. Acts xxiii. 12 f.
 
-[^79]: Matt. xxvi. 48 .
+[^79]: Matt. xxvi. 48.
 
-[^80]: 1 Macc. i. 30 .
+[^80]: 1 Macc. i. 30.
 
-[^81]: 1 Cor. xi. 1 .
+[^81]: Cp. 1 Cor. xi. 1.
 
-[^82]: Matt. x. 38 , etc.
+[^82]: Matt. x. 38, etc.
 
-[^83]: Acts xxv. 11 .
+[^83]: Acts xxv. 11.
 
 [^84]: 1 Pet. v. 3 (vg., inexact quotation).
 
-[^85]: The word occurs in the verse just quoted, and in the context of that which follows ( Phil. ii. 7 ).
+[^85]: Formam. The word occurs in the verse just quoted, and in the context of that which follows (Phil. ii. 7).
 
-[^86]: Phil. ii. 8 .
+[^86]: Phil. ii. 8.
 
-[^87]: Ps. lxxviii. 7 .
+[^87]: Ps. lxxviii. 7.
 
-[^88]: Acts xxi. 13 ; John xi. 16 .
+[^88]: Acts xxi. 13; John xi. 16.
 
-[^89]: xi. 23.
+[^89]: Cp. Apuleius, Metamorph. xi. 23.
 
-[^90]: Eph. vi. 16 .
+[^90]: Eph. vi. 16.
 
-[^91]: Gen. iv. 6 .
+[^91]: Gen. iv. 6.
 
-[^92]: Exod. xv. 16 .
+[^92]: Exod. xv. 16.
 
 [^93]: Ps. xxvii. 2 (vg.).
 
-[^94]: John iv. 37 .
+[^94]: John iv. 37.
 
-[^95]: 
+[^95]: While accepting the facts here narrated, so far as they were capable of being observed, one cannot ignore the probability that they were misinterpreted. It is quite possible that the offer of peace was made in good faith, and that Malachy and his friends were unduly suspicious when they "foresaw guile." The prince may have surrounded himself with armed men as a mere matter of prudence.
 
-[^96]: 
+[^96]: Susanna, 62.
 
-[^97]: Luke xvi. 8 .
+[^97]: Luke xvi. 8.
 
-[^98]: 
+[^98]: § 23.
 
-[^99]: 
+[^99]: Mulctatum in corpore.
 
-[^100]: 
+[^100]: Mutatum in corde.
 
-[^101]: Ps. x. 2 .
+[^101]: Ps. x. 2.
 
-[^102]: Jer. xvii. 7 , etc.
+[^102]: Jer. xvii. 7, etc.
 
-[^103]: 
+[^103]: Plebes.
 
-[^104]: 
+[^104]: That is, the church of Armagh.
 
-[^105]: Hos. ii. 6 .
+[^105]: Hos. ii. 6.
 
-[^106]: Rom. xii. 3 ; xv. 15 , etc.
+[^106]: Rom. xii. 3; xv. 15, etc.
 
-[^107]: ). Niall himself may have subsequently surrendered the .
+[^107]: This statement can hardly be regarded as accurate. Flann Ua Sinaich, keeper of the staff of Jesus, having died, Malachy purchased it on July 7, 1135; or, in other words, as we may suppose, bribed the new keeper to hand it over to him (A.F.M.). Niall himself may have subsequently surrendered the Book of Armagh.
 
-[^108]: 1 Tim. ii. 11 .
+[^108]: 1 Tim. ii. 11.
 
 [^109]: Rom. xv. 13 (vg.).—The success of Malachy in establishing peace in the latter years of his rule at Armagh may be attributed in part to the influence of a prince who is not mentioned in the text. Donough O'Carroll first appears in the Annals as chieftain of the men of Fearnmaigh (now represented by the barony of Farney, co. Monaghan), whom he led in an expedition against Fingal (the district north of Dublin) in 1133. He seems to have succeeded to the kingdom or lordship of Oriel (which included the present counties of Armagh, Monaghan and Louth) on the death of Conor O'Loughlin (May 1136); for in 1138, "with the Oirgialla," he took part in an invasion of Meath. His career was prosperous till 1152, when he assaulted the coarb of Patrick (Gelasius). In consequence he was attacked by the Cenél Eoghain, and expelled from Oriel. In 1155 he was imprisoned by Tighernan O'Rorke in Lough Sheelan, for six weeks; but he escaped and recovered his kingdom, and was present at the consecration of the Church of Mellifont Abbey in 1157. He was murdered in 1168. For his support of Malachy see Additional Note C, p. 170.
 
-[^110]: 
+[^110]: This is obviously not the king mentioned in §§ 22, 24, 25. The reference may be to Conor O'Loughlin, who was king of Oriel till he was murdered in May 1136 (p. 40, note 2), or his successor, Donough O'Carroll.
 
-[^111]: Ecclus. xxi. 7 .
+[^111]: Ecclus. xxi. 7.
 
-[^112]: Gal. ii. 11 .
+[^112]: Gal. ii. 11.
 
 [^113]: Exod. xvi. 20 (vg., inexact quotation).
 
 [^114]: Acts vi. 10 (vg.).
 
-[^115]: Isa. ii. 22 ; cf. Job xxvii. 3 ; Wisd. ii. 2 .—The words might be rendered "a spirit ( ) in her nostrils." The meaning is not clear. In the biblical passages in which the phrase occurs it indicates mortality. On the other hand, by the previous sentence St. Bernard suggests that, in contrast to Malachy, the woman spoke under the influence of an evil spirit.
+[^115]: Isa. ii. 22; cf. Job xxvii. 3; Wisd. ii. 2.—The words might be rendered "a spirit (spiritus) in her nostrils." The meaning is not clear. In the biblical passages in which the phrase occurs it indicates mortality. On the other hand, by the previous sentence St. Bernard suggests that, in contrast to Malachy, the woman spoke under the influence of an evil spirit.
 
-[^116]: Mark xiv. 61 .
+[^116]: Mark xiv. 61.
 
-[^117]: 2 Kings ii. 23 .
+[^117]: 2 Kings ii. 23.
 
-[^118]: Probably a reliquary. A reliquary preserved at Clogher in 1300 was known as the , which, according to one explanation, was the equivalent of , memorial shrine. See iv. 245. Cp. Oengus, p. 345 ( Memrae); Lightfoot, , vol. i. p. 91.
+[^118]: Memoria sanctorum. Probably a reliquary. A reliquary preserved at Clogher in 1300 was known as the membra, which, according to one explanation, was the equivalent of memoriale scrinium, memorial shrine. See L.A.J. iv. 245. Cp. Oengus, p. 345 (s.v. Memrae); Lightfoot, Clement of Rome, vol. i. p. 91.
 
-[^119]: 
+[^119]: Susanna, 56.
 
-[^120]: Exod. xiv. 25 .
+[^120]: Exod. xiv. 25.
 
 [^121]: Deut. vii. 2 (vg.).
 
 [^122]: Ps. ix. 6 (vg.).
 
-[^123]: Ps. lxxiii. 19 .
+[^123]: Ps. lxxiii. 19.
 
-[^124]: 
+[^124]: See Additional Note B, p. 166.
 
-[^125]: John xx. 30 .
+[^125]: John xx. 30.
 
-[^126]: date Malachy's resignation in 1136; but the chronology of St. Bernard is to be preferred. See Additional Note C, pp. 168, 169.
+[^126]: This date is vague. But the period of three years must be reckoned from the death of Murtough (September 17, 1134), or from the subsequent ejection of Niall. Since stress is laid on the shortness, rather than the length of the period, we may therefore conclude that peace was established not long before October 1137, or, at any rate, after the beginning of that year. And as St. Bernard believed that the inauguration of Gelasius "immediately" followed the resignation of Malachy, we may gather that both these events took place in 1137. A.F.M. date Malachy's resignation in 1136; but the chronology of St. Bernard is to be preferred. See Additional Note C, pp. 168, 169.
 
-[^127]: Ps. xciv. 2 .
+[^127]: Ps. xciv. 2.
 
-[^128]: , iii. 965). About 1121 he was appointed abbot of Derry, and held that office till he became archbishop of Armagh in 1137. He had a long episcopate and seems to have been a vigorous prelate. His age and infirmity (says Giraldus) prevented him from attending the Synod of Cashel in 1172. But he subsequently visited Henry II. in Dublin. Thither he brought the white cow, whose milk was his only food (Giraldus, i. 35). He died March 27, 1174, in his eighty-seventh year. For a Life of Gelasius, see Colgan, p. 772.
+[^128]: Gelasius—in Irish Gilla meic Liag, the servant of the son of the poet—was born about 1087. His father was apparently the poet of a Tyrone sept, named Dermot (O'Hanlon, Saints, iii. 965). About 1121 he was appointed abbot of Derry, and held that office till he became archbishop of Armagh in 1137. He had a long episcopate and seems to have been a vigorous prelate. His age and infirmity (says Giraldus) prevented him from attending the Synod of Cashel in 1172. But he subsequently visited Henry II. in Dublin. Thither he brought the white cow, whose milk was his only food (Giraldus, Expug. i. 35). He died March 27, 1174, in his eighty-seventh year. For a Life of Gelasius, see Colgan, A.S.H. p. 772.
 
-[^129]: 
+[^129]: See § 21.
 
-[^130]: diocese.
+[^130]: I.e. diocese.
 
-[^131]: 
+[^131]: The two episcopal sees are evidently Connor and Down. But in early time there were many more sees than two in that district (see Reeves, p. 138), and there is no evidence that any one of them was the seat of a diocesan bishop. But, even if it were so, St. Bernard's statement that the two supposed dioceses were "welded into one" by some ambitious prelate prior to Malachy is unhistorical. A bishop of Connor and a bishop of Down both died in 1117, just seven years before Malachy became bishop of the diocese which included these two places; and there is no trace of a bishop in either of them in the interval. The fact seems to be that the diocese of Connor or Down was constituted for the first time at the Synod of Rathbreasail in 1110. It remained on paper until Malachy was appointed its first bishop. For the probable reason of Malachy's division of the diocese, see p. lvii. f.
 
-[^132]: 
+[^132]: This cannot be the true reason for Malachy's choice of Down rather than Connor. If he had wished to go to Connor on his retirement from Armagh he could have consecrated a bishop for Down. It is more probable that his preference was due to his love for Bangor, where he resided during his first episcopate, and where he probably resided also when he was bishop of Down. But, however that may be, Bangor was necessarily under his jurisdiction as bishop of Down; his connexion with it would have been severed if he had assumed the oversight of the new diocese of Connor.
 
-[^133]: Isa. li. 9 ; Amos ix. 11 .
+[^133]: Isa. li. 9; Amos ix. 11.
 
-[^134]: Cant. i. 15 ; iv . i.; v. 12.—St. Bernard himself is said to have had "dove-like eyes" ( v. 12); and the meaning of the phrase is explained thus: "In his eyes there shone a certain angelic and a dove-like (single-mindedness)" ( iii. 1).
+[^134]: Cp. Cant. i. 15; iv. i.; v. 12.—St. Bernard himself is said to have had "dove-like eyes" (V.P. v. 12); and the meaning of the phrase is explained thus: "In his eyes there shone a certain angelic purity and a dove-like simplicity (single-mindedness)" (ibid. iii. 1).
 
-[^135]: Amos i. 13 .
+[^135]: Amos i. 13.
 
-[^136]: 
+[^136]: Cp. § 44, p. 83.
 
-[^137]: that Malachy resided in Down, while there are several hints that Bangor was his headquarters and that he was abbot of the community there as long as he lived. (See p. 33, n. 1.) In other words Bangor was, in fact if not in name, the see of the diocese of Ulaid, or Down. For this curious anomaly we have a parallel in the diocese of Tír Eoghain, the see of which for a long period was at Maghera, the bishop, the while, being often styled bishop of Derry ( , x. 225 ff.); and for the bishop of a diocese serving as abbot of his cathedral chapter of regular canons we may point to Carlisle ( , iii. 267 ff.), Louth ( iv. 143 ff.) and Christ Church, Dublin ( 145). That the canons of Bangor were at an early period the bishop's chapter we have independent evidence. For in 1244 the Pope gave judgement in a cause which had been pending for some time between the prior and monks of Down and the abbot and canons of Bangor, each of whom claimed that their church was cathedral (Theiner, p. 42). This claim on behalf of Bangor is easily explained if it was reckoned as the bishop's see in the time of Malachy.
+[^137]: It has been commonly assumed that the house of this convent—which obviously consisted of Augustinian canons (the only order of regular clerics recognized at this period by the Roman Church: see Conc. Lat. 1139, can. 9, Mansi xxi. 528)—was in Downpatrick. It has accordingly been identified with a monastery which in the Terrier of 1615 is described as "the monastery of the Irish, hard by the Cathedral," and called "the church of the channons" (Reeves, 43, 231). But it is not stated in the text to have been in Down. It seems more likely to have been the monastery of Bangor, which was destroyed in 1127 (§ 18), and must have been reconstituted about this time. There is no indication in the Life that Malachy resided in Down, while there are several hints that Bangor was his headquarters and that he was abbot of the community there as long as he lived. (See p. 33, n. 1.) In other words Bangor was, in fact if not in name, the see of the diocese of Ulaid, or Down. For this curious anomaly we have a parallel in the diocese of Tír Eoghain, the see of which for a long period was at Maghera, the bishop, the while, being often styled bishop of Derry (Irish Church Quarterly, x. 225 ff.); and for the bishop of a diocese serving as abbot of his cathedral chapter of regular canons we may point to Carlisle (Trans. of Scottish Ecclesiological Society, iii. 267 ff.), Louth (L.A.J. iv. 143 ff.) and Christ Church, Dublin (ibid. 145). That the canons of Bangor were at an early period the bishop's chapter we have independent evidence. For in 1244 the Pope gave judgement in a cause which had been pending for some time between the prior and monks of Down and the abbot and canons of Bangor, each of whom claimed that their church was cathedral (Theiner, p. 42). This claim on behalf of Bangor is easily explained if it was reckoned as the bishop's see in the time of Malachy.
 
-[^138]: 2 Cor. x. 4 .
+[^138]: 2 Cor. x. 4.
 
-[^139]: Luke viii. 5 .
+[^139]: Luke viii. 5.
 
-[^140]: Matt. xxi. 23 ; Mark xi. 28 .
+[^140]: Matt. xxi. 23; Mark xi. 28.
 
-[^141]: Acts viii. 6 ; John ii. 23 .
+[^141]: Acts viii. 6; John ii. 23.
 
-[^142]: 2 Cor. iii. 17 .
+[^142]: 2 Cor. iii. 17.
 
 
 ---

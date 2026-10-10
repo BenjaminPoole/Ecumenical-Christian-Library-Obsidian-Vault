@@ -34,7 +34,7 @@ though some of us feel it seldom, it passeth never from Christ till what time He
 Then belongeth it to us for reverence and kindness to turn us hastily to our Lord and leave Him not alone. He is here alone with us all: that is to say, only for us He is here. And what time I am strange to Him by sin, despair or sloth, then I let my Lord stand alone, in as much as it is in me. And thus it fareth with us all which be sinners. But though it be so that we do thus oftentimes, His Goodness suffereth us never to be alone, but lastingly He is with us, and
 tenderly He excuseth us, and ever shieldeth us from blame in His sight.
 
-[^1]: 
+[^1]: i.e. helped onwards.
 
 
 ---

@@ -34,7 +34,7 @@ as He shall then be known and loved overpassing that He is now, in so much He sh
 
 Wherefore it behoveth needs to be that all Heaven and earth shall tremble and quake when the pillars shall tremble and quake.
 
-[^1]: 
+[^1]: i.e. permitted; "all that is good our Lord doeth, and that which is evil our Lord suffereth," xxxv.
 
 
 ---

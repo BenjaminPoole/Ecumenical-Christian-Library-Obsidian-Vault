@@ -32,11 +32,11 @@ pleasing is thy holiness and thine endless joy and bliss with me.*
 
 This is the understanding, simply as I can say it, of this blessed word: *Lo, how I loved thee*. This shewed our good Lord for to make us glad and merry.
 
-[^1]: 
+[^1]: See note on the passage in lv., "long and broad, all full of endless heavens"; "He hath, beclosed in Him, all heavens and all joy and bliss."
 
-[^2]: 
+[^2]: See xiii., "the simplicity of the soul."
 
-[^3]: 
+[^3]: MS. "that is to mene the endles love."
 
 
 ---

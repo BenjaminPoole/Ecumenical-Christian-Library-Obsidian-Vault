@@ -33,15 +33,15 @@ For I felt in me five manner of workings, which be these: Enjoying, mourning, de
 have full rest till we see Him verily and clearly in heaven; dread was: for it seemed to me in all that time that that sight should fail, and I be left to myself; sure hope was in the endless love: that I saw I should be kept by His mercy and brought to His bliss. And the joying in His sight with this sure hope of His merciful keeping made me to have feeling and comfort so that mourning and dread were not greatly painful. And yet in all this I beheld in the Shewing of
 God that this manner of sight may not be continuant in this life,—and that for His own worship and for increase of our endless joy. And therefore we fail oftentimes of the sight of Him, and anon we fall into our self, and then find we no feeling of right,—naught but contrariness that is in our self; and that of the elder root of our first sin,[^4] with all the sins that follow, of our contrivance. And in this we are in travail and tempest [^5] with feeling of sins, and of pain in many divers manners, spiritual and bodily, as it is known to us in this life.
 
-[^1]: 
+[^1]: understood -- took it.
 
-[^2]: 
+[^2]: "But for nowte that I myte beholden and desyrin I could not se."
 
-[^3]: 
+[^3]: ne no manner steryng ne [or ye = the] yernyng."
 
-[^4]: 
+[^4]: i.e. contrariness, springing from the beginning of sin in the first fall of man
 
-[^5]: 
+[^5]: "traveylid and tempested."
 
 
 ---

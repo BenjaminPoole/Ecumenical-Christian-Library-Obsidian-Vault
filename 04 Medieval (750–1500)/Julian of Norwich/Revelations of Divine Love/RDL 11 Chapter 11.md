@@ -47,9 +47,9 @@ Thus mightily, wisely, and lovingly was the soul
 
 examined in this Vision. Then saw I soothly that me behoved, of need, to assent, with great reverence enjoying in God.
 
-[^1]: 
+[^1]: See below: " He is in the Mid-point," and lxiii. p. 158, " the blessed Point from which nature came: that is, God." See also xxi. p. 45, "Where is now any point of thy pain?" (least part) and xxi. p. 46, " abiding unto the last point"; and lxiv. p. 161, "set the point of our thought." These uses of the word may be compared with the following: -- From the Banquet of Dante Alighieri; tr. by K. Hillard (Kegan Paul, Trench and Co.), Bk. II xiv. 12 "Geometry moves between the point and the circle"; as Euclid says, " the point is the beginning of Geometry, and according to him, the circle is the most perfect figure, and therefore may be considered its end.... The point by reason of its indivisibility is immeasurable, and the circle by reason of its arc cannot be exactly squared, and therefore cannot be measured with precision." Notes by Miss Hillard: "This is why the Deity is represented by a point." Paradiso, xxviii. 16: 'A point beheld I,' 'Heaven and all nature, hangs upon that point,' etc. Bk. IV, 6, quoting Aristotle's Physics: "The circle can be called perfect when it is a true circle. And this is when it contains a point which is equally distant from every part of its circumference" In the Vita Nuova Love appearing, says -- "I am as the centre of a circle, to which all parts of the circumference bear an equal relation' ('Amor che muove il sole e l'altre stelle'.)" From Neoplatonism, by C. Bigg, D.D. (S.P.C.K.), p. 122: "Thus we get a triplet -- Soul, Intelligence, and a higher Intelligence. The last is spoken of as One, as a point, as neither good nor evil because above both."
 
-[^2]: 
+[^2]: On this subject, with the "Two Deemings" and "the Godly Will," see xlv., xxxv., xxxvii., lxxxii.
 
 
 ---

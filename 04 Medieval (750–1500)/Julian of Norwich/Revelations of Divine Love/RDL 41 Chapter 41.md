@@ -39,17 +39,17 @@ grace, reasonably with discretion keeping our powers [^4] [turned] to Him, till 
 And also to prayer belongeth thanking. Thanking is a true inward knowing, with great reverence and lovely dread turning ourselves with all our mights unto the working that our good Lord stirreth us to, enjoying and thanking inwardly. And sometimes, for plenteousness it breaketh out with voice, and saith: *Good Lord, I thank Thee! [^5] Blessed mayst Thou be!* And sometime when the heart is dry and feeleth not, or else by temptation of our enemy,—then it is driven
 by reason and by grace to cry upon our Lord with voice, rehearing His blessed Passion and His great Goodness; and the virtue of our Lord’s word turneth into the soul and quickeneth the heart and entereth[^6] it by His grace into true working, and maketh it pray right blissfully. And truly to enjoy our Lord, it is a full blissful thanking in His sight.
 
-[^1]: 
+[^1]: MS.: "And this in our felyng our foly is cause of our wekenes." S. de Cressy: "And thus in our feelings our folly is cause of our weakness "
 
-[^2]: 
+[^2]: "of" = by, from.
 
-[^3]: 
+[^3]: "inderly " = inwardly -- or from the heart: heartily, as in lxvi.
 
-[^4]: 
+[^4]: i.e.Faculties. -- MS. "Mights."
 
-[^5]: 
+[^5]: "Grante mercy" = grand-merci.
 
-[^6]: 
+[^6]: "entrith," leadeth.
 
 
 ---

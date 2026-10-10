@@ -29,13 +29,13 @@ dying; and we, willingly abiding in the same Cross with His help and His grace u
 And here saw I verily that if He shewed now [to] us His Blissful Cheer, there is no pain in earth or in other place that should aggrieve us; but all things should be to us joy and bliss. But because He sheweth to us time of His Passion, as He bare it in *this* life, and His Cross, therefore we are in distress and travail, with Him, as our frailty asketh. And the cause why He suffereth [it to be so,] is for [that] He will of His goodness make us the higher with Him
 in His bliss; and for this little pain that we suffer here, we shall have an high endless knowing in God which we could[^3] never have without that. And the harder our pains have been with Him in His Cross, the more shall our worship[^4] be with Him in His Kingdom.
 
-[^1]: 
+[^1]: xxii. and xxiii.
 
-[^2]: 
+[^2]: His "blisful chere," or blessed Cheer; lxxii. and Note.
 
-[^3]: 
+[^3]: "might."
 
-[^4]: 
+[^4]: i.e. glory.
 
 
 ---

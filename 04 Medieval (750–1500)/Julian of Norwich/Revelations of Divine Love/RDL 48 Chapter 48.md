@@ -36,15 +36,15 @@ which we could never have known without woe going before.
 
 And when I saw all this, it behoved me needs to grant that the mercy of God and the forgiveness is to slacken and waste *our* wrath.
 
-[^1]: 
+[^1]: "buxum"=ready to bend or obey.
 
-[^2]: 
+[^2]: lovely chere loving Look. See li., lxxi., etc.
 
-[^3]: 
+[^3]: "I cowth not a perceyven of."
 
-[^4]: 
+[^4]: "But in all this the swete eye of pite and love cumith never of us, ne the werkyng of mercy cesyth not."
 
-[^5]: 
+[^5]: or largeness.
 
 
 ---

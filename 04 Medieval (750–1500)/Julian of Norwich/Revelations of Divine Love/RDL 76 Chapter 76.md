@@ -30,13 +30,13 @@ thou fallest again into the same, especially into sloth and losing of time*. (Fo
 
 make us so heavy and so weary in this, that we should let out of mind the fair, Blissful Beholding of our Everlasting Friend.
 
-[^1]: 
+[^1]: "kindness."
 
-[^2]: 
+[^2]: "noyith."
 
-[^3]: 
+[^3]: S de Cressy -- "thy Covenant."
 
-[^4]: 
+[^4]: "on bakke."
 
 
 ---

@@ -29,11 +29,11 @@ property of His Might to be wroth, and against the property of His Wisdom, and a
 And to this understanding was the soul led by love and drawn by might in every Shewing: that it is thus our good Lord shewed, and *how it is thus in the truth of His great Goodness*. And He willeth that we desire to learn it—that is to say, as far as it belongeth to His creature to learn it. For all things that the simple soul understood, God willeth that they be shewed and [made] known. For the things that He will have privy, mightily and wisely Himself He
 hideth them, for love. For I saw in the same Shewing that much privity is hid, which may never be known until the time that God of His goodness hath made us worthy to see it; and therewith I am well-content, abiding our Lord’s will in this high marvel. And now I yield me to my Mother, Holy Church, as a simple child oweth.
 
-[^1]: 
+[^1]: "like it."
 
-[^2]: 
+[^2]: "like it."
 
-[^3]: 
+[^3]: So S. de Cressy has it. There is evidently an omission in the MS. of part of this sentence. See lvi., lxxii. The dim sight of God comes before the dim sight of the Self, but the clear sight of God comes after the clear sight of the Self.
 
 
 ---

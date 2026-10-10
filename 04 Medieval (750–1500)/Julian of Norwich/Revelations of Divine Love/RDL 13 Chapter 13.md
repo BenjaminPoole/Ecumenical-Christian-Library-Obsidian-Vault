@@ -34,17 +34,17 @@ And after this I fell into a graveness,[^5] and said: *I see three things: I see
 When I said, *he is scorned*,—I meant that God scorneth him, that is to say, because He seeth him now as he shall do without end. For in this [word] God shewed that the Fiend is condemned. And this meant I when I said: *he shall be scorned*: [he shall be scorned] at Doomsday, generally of all that shall be saved, to whose consolation he hath great ill-will.[^6] For then he shall see that all the woe and tribulation that he hath done to them shall be turned to
 increase of their joy, without end; and all the pain and tribulation that he would have brought them to shall endlessly go with him to hell.
 
-[^1]: 
+[^1]: i.e. significance, teaching.
 
-[^2]: 
+[^2]: i.e. in so far as the simplicity of my soul was able to understand it. -- See xxiv.
 
-[^3]: 
+[^3]: S. de Cressy has "locked " instead of "taken."
 
-[^4]: 
+[^4]: "chere" = expression of countenance.
 
-[^5]: 
+[^5]: "sadhede."
 
-[^6]: 
+[^6]: "invye."
 
 
 ---

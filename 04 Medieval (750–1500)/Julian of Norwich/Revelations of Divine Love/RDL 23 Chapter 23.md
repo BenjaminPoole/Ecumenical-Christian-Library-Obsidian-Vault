@@ -41,13 +41,13 @@ he giveth it. And if the receiver take the gift highly and thankfully, then the 
 
 Think also wisely of the greatness of this word ”*ever*.” For in it was shewed an high knowing of lo[^4] ve that *He* hath in our salvation, with manifold joys that follow of the Passion of Christ. One is that He rejoiceth that He hath done it in deed, and He shall no more suffer; another, that He bought us from endless pains of hell.
 
-[^1]: 
+[^1]: "lykyng"; "lykith."
 
-[^2]: 
+[^2]: "lykyng"; "lykith."
 
-[^3]: 
+[^3]: "Esterne morrow" = Easter morning.
 
-[^4]: 
+[^4]: Experience of loving (?).
 
 
 ---

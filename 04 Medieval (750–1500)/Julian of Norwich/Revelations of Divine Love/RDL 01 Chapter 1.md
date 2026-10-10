@@ -55,17 +55,17 @@ The Fifteenth is that we shall suddenly be taken from all our pain and from all 
 
 The Sixteenth is that the Blissful Trinity, our Maker, in Christ Jesus our Saviour, endlessly dwelleth in our soul, worshipfully ruling and protecting all things, us mightily and wisely saving and keeping, for love; and we shall not be overcome of our Enemy.
 
-[^1]: 
+[^1]: made one, united.
 
-[^2]: 
+[^2]: precious, honoured.
 
-[^3]: 
+[^3]: honour-bestowing.
 
-[^4]: 
+[^4]: made glad.
 
-[^5]: 
+[^5]: MS. "Asseth" = Satisfaction, making-enough.
 
-[^6]: 
+[^6]: honour, glory.
 
 
 ---

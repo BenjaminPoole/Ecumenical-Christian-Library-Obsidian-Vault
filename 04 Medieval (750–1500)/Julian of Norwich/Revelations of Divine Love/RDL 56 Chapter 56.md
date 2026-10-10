@@ -41,15 +41,15 @@ These be three properties in one Goodness: and where one worketh, all work in th
 For only by our Reason we may not profit, but if we have evenly therewith Mind and Love: nor only in our Nature-Ground that we have in God we may not be saved but if we have, coming of the same Ground, Mercy and Grace. For of these three working all together we receive all our Goodness. Of the which the first [gifts] are goods of Nature: for in our First making God gave us as full goods as we might receive in our spirit alone,[^5] and also greater goods; but His
 foreseeing purpose in His endless wisdom willed that we should be double.
 
-[^1]: 
+[^1]: "and anempts our substance and sensualite it may rytely be clepid our soule."
 
-[^2]: 
+[^2]: "the full myts."
 
-[^3]: 
+[^3]: "I had in partie touching and it is grounded in kynd: that is to sey, our reson is groundid in God, which is substantial kyndhede."
 
-[^4]: 
+[^4]: "I had in partie touching and it is grounded in kynd: that is to sey, our reson is groundid in God, which is substantial kyndhede."
 
-[^5]: 
+[^5]: "for in our first makyng God gaf us as ful goods and also greter godes as we myte receivin only in our spirite." In the MS. the word "spirit" is used only here, where it means "the Substance."
 
 
 ---

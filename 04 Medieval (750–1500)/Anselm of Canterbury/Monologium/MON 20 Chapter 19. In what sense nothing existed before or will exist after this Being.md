@@ -37,7 +37,7 @@ should it be so explained, that it shall be understood that there was any time w
 
 If, then, this interpretation of the term *nothing*, that has been given, is carefully analysed, most truly neither something nor nothing preceded or will follow the supreme Being, and the conclusion is reached, that nothing existed before or will exist after it. Yet, the solidity of the truths already established is in no wise impaired by the emptiness of *nothing*.
 
-[^1]: Tr. ]
+[^1]: ,[Nothing is here treated as an entity, supposed actually to precede the supreme Being in existence. The fallacy involved is shown below.—*Tr.*]
 
 
 ---

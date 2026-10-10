@@ -37,13 +37,13 @@ our very salvation and our full bliss.
 
 And if we wot not how we shall do all this, desire we of our Lord and He shall teach us: for it is His own good-pleasure and His worship; blessed may He be!
 
-[^1]: 
+[^1]: S. de Cressy, "likeness "; Collins, "business." The word may be "Lifenes" = lefness, pleasure; lif = lef = lief = (Morris' Specimens of Early English) pleasing, dear.
 
-[^2]: 
+[^2]: "neyghen him."
 
-[^3]: 
+[^3]: ch. xix.
 
-[^4]: 
+[^4]: "sekir."
 
 
 ---

@@ -41,9 +41,9 @@ I thought: *Is any pain like this?* And I was answered
 
 in my reason: *Hell is another pain: for there is despair. But of all pains that lead to salvation this is the most pain, to see thy Lord suffer. How might any pain be more to me than to see Him that is all my life, all my bliss, and all my joy, suffer?* Here felt I soothfastly[^2] that I loved Christ so much above myself that there was no pain that might be suffered like to that sorrow that I had to [see] Him in pain.
 
-[^1]: 
+[^1]: or shrivelled.
 
-[^2]: 
+[^2]: in sure verity
 
 
 ---

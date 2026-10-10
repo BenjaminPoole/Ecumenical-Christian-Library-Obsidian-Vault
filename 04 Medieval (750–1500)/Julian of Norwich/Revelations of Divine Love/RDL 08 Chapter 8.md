@@ -30,15 +30,15 @@ In all this I was greatly stirred in charity to mine even-Christians, that they 
 love God the better, for to make them to have in mind that this life is short, as they might see in example. For in all this time I weened to have died; and that was marvel to me, and troublous partly: for methought this Vision was shewed for them that should live. And that which l say of me, I say in the person of all mine even-Christians: for I am taught in the Spiritual Shewing of our Lord God that He meaneth so. And therefore I pray you all for God’s sake, and counsel you for your own
 profit, that ye leave the beholding of a poor creature[^5] that it was shewed to, and mightily, wisely, and meekly behold God that of His courteous love and endless goodness would shew it generally, in comfort of us all. For it is God’s will that ye take it with great joy and pleasance, as if Jesus had shewed it to you all.
 
-[^1]: 
+[^1]: "it is kept, and shall be."
 
-[^2]: 
+[^2]: "God is althing that is gode, as to my sight, and the godenes that al thing hath, it is he."
 
-[^3]: 
+[^3]: .i.e. ceased.
 
-[^4]: 
+[^4]: "deemed."
 
-[^5]: 
+[^5]: a wretch.
 
 
 ---

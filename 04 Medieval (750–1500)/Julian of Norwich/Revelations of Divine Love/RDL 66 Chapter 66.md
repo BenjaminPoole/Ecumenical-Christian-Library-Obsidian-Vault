@@ -37,13 +37,13 @@ weened it had been a bodily fire that should have burnt us all to death. I asked
 
 vanished away, and I was brought to great rest and peace, without sickness of body or dread of conscience.
 
-[^1]: 
+[^1]: "langiren."
 
-[^2]: 
+[^2]: "inderly" = inwardly; so de Cressy; (Collins has "drolly ").
 
-[^3]: 
+[^3]: "sadly" = solidly, soberly.
 
-[^4]: 
+[^4]: "evisid aforn with syde lokks hongyng on the thounys" (or thowngs, or thoungs). Bradley's Dictionary of Middle English -- thun(?)wange = temple, evesed p. ple of efesian = to clip the edges (cf. eaves). The Paris MS. however reads: "His hair was rede as rust not scoryd afore, with syde lockes hangyng on the thouwonges." S. de Cressy gives this as: "his hair was red as rust not scoured; afore with side locks hanging down in flakes."
 
 
 ---

@@ -163,105 +163,105 @@ and his name became great both within and without the monastery, though
 not greater than the fact. For indeed he dwelt[^49] there even after he
 was made bishop, for the place was near the city.[^50]
 
-[^1]: 
+[^1]: See § 6. Malachy's sister is here said to have died while he was at Lismore; but whether during his earlier or later visit to that place cannot be determined.
 
-[^2]: John vi. 51 .
+[^2]: John vi. 51.
 
-[^3]: Acts x. 30 .
+[^3]: Acts x. 30.
 
-[^4]: Jas. v. 16 .
+[^4]: Jas. v. 16.
 
-[^5]: Matt. xi. 12 .
+[^5]: Matt. xi. 12.
 
-[^6]: Isa. lxiii. 1 .
+[^6]: Cp. Isa. lxiii. 1.
 
-[^7]: Luke i. 51 .
+[^7]: Luke i. 51.
 
-[^8]: Ps. xvi. 3 .
+[^8]: Ps. xvi. 3.
 
-[^9]: Matt. xxviii. 20 .
+[^9]: Matt. xxviii. 20.
 
 [^10]: Ps vii. 9 (vg.).
 
-[^11]: 
+[^11]: Cellach and Imar (§ 8).
 
-[^12]: 
+[^12]: That is to Armagh. But see p. 36, n. 5.
 
 [^13]: Eph. ii. 10 (vg.).
 
-[^14]: ), probably during Malachy's sojourn there. It is not impossible that the unnamed coarb, mentioned in the text, was Murtough O'Hanratty, who died at Armagh in 1131 ( ). The statement that he gave "himself" to Malachy seems to mean that he placed himself under his rule in the new community.
+[^14]: This person was apparently the coarb of Comgall, the founder of Bangor. It would seem that he had been but a short time in office, for Oengus O'Gorman, coarb of Comgall, died at Lismore in 1123 (A.U.), probably during Malachy's sojourn there. It is not impossible that the unnamed coarb, mentioned in the text, was Murtough O'Hanratty, who died at Armagh in 1131 (A.F.M.). The statement that he gave "himself" to Malachy seems to mean that he placed himself under his rule in the new community.
 
-[^15]: 
+[^15]: If the identification suggested in the preceding note is correct, Malachy's mother belonged to the family of O'Hanratty, which in the eleventh and twelfth centuries held the chieftaincy of Ui Méith Macha or Ui Méith Tíre, now the barony of Monaghan, in the county of the same name.
 
-[^16]: This verb occurs seventeen times in the Vulgate, and almost always indicates a new or alternative name. In the present passage it certainly applies, not to Malachy's baptismal name, but to its Latin equivalent, Malachias, which he probably assumed when he became abbot of Bangor, or bishop of Down. The remark that he received it from Bangor is to be explained thus. A legend, which has a place in Jocelin's (§ 98) and is therefore at least as old as the twelfth century, relates that Patrick, viewing the valley in which the monastery of Comgall was afterwards constructed, perceived that it was "filled with a multitude of the heavenly host." From this story, no doubt, came the name "Valley of Angels ( )," by which it was known in the early seventeenth century, and probably long before (Reeves, p. 199). If this name, or the legend on which it was based, was known to Malachy it is quite conceivable that on account of his connexion with Bangor, he adopted, as the Latin alternative of Máel Máedóc, a name which is only the Hebrew for with a Latin termination. That St. Bernard was aware of the significance of the name, and liked to dwell upon it, is clear from Sermon ii. § 5. It may be added that the legend just mentioned is connected with a folk-etymology of the word Bangor ( ) which explained it as "white choir." For the true etymology see Kuno Meyer, "Zur Keltischen Wortkunde," § 66 ( , 1913).
+[^16]: Cognominabatur. This verb occurs seventeen times in the Vulgate, and almost always indicates a new or alternative name. In the present passage it certainly applies, not to Malachy's baptismal name, but to its Latin equivalent, Malachias, which he probably assumed when he became abbot of Bangor, or bishop of Down. The remark that he received it from Bangor is to be explained thus. A legend, which has a place in Jocelin's Life of St. Patrick (§ 98) and is therefore at least as old as the twelfth century, relates that Patrick, viewing the valley in which the monastery of Comgall was afterwards constructed, perceived that it was "filled with a multitude of the heavenly host." From this story, no doubt, came the name "Valley of Angels (Vallis Angelorum)," by which it was known in the early seventeenth century, and probably long before (Reeves, p. 199). If this name, or the legend on which it was based, was known to Malachy it is quite conceivable that on account of his connexion with Bangor, he adopted, as the Latin alternative of Máel Máedóc, a name which is only the Hebrew for my angel with a Latin termination. That St. Bernard was aware of the significance of the name, and liked to dwell upon it, is clear from Sermon ii. § 5. It may be added that the legend just mentioned is connected with a folk-etymology of the word Bangor (Bennchor) which explained it as "white choir." For the true etymology see Kuno Meyer, "Zur Keltischen Wortkunde," § 66 (Preuss. Akad. Sitz., 1913).
 
-[^17]: This word does not necessarily imply that the donor of Bangor was a secular chieftain. St. Bernard is somewhat arbitrary in his use of such titles; and occurs very frequently in up to the tenth century as an equivalent of .
+[^17]: Princeps. This word does not necessarily imply that the donor of Bangor was a secular chieftain. St. Bernard is somewhat arbitrary in his use of such titles; and princeps occurs very frequently in A.U. up to the tenth century as an equivalent of abbot.
 
-[^18]: ). According to his Latin Life (§ 13, Plummer, ii. 7), so great a number of monks came to him there that there was not room for them; "he therefore founded very many cells and many monasteries, not only in the district of Ulaid, but throughout the other provinces of Ireland." There were as many as 3000 monks under his rule. On the last leaf of an ancient service book of the monastery, known as the Antiphonary of Bangor (Facsimile edition by F. E. Warren, 1893, vol. ii. p. 33), there is a hymn which gives a complete list of the abbots—fifteen in number—from Comgall to Cronan († 691), in whose period of office it was written. The site of St. Comgall's monastery is beside the Rectory of the parish of Bangor, co. Down, about half-a-mile from Bangor Bay, near the entrance to Belfast Lough.
+[^18]: Comgall, who was a Pict of Dál Araide (Adamnan, i. 49), was born at Magheramorne, near Larne, co. Antrim (Reeves, p. 269), between 516 and 520. He founded the monastery of Bangor when he was about forty years old, probably in 559, and presided over it till his death in 602 (A.U.). According to his Latin Life (§ 13, Plummer, ii. 7), so great a number of monks came to him there that there was not room for them; "he therefore founded very many cells and many monasteries, not only in the district of Ulaid, but throughout the other provinces of Ireland." There were as many as 3000 monks under his rule. On the last leaf of an ancient service book of the monastery, known as the Antiphonary of Bangor (Facsimile edition by F. E. Warren, 1893, vol. ii. p. 33), there is a hymn which gives a complete list of the abbots—fifteen in number—from Comgall to Cronan († 691), in whose period of office it was written. The site of St. Comgall's monastery is beside the Rectory of the parish of Bangor, co. Down, about half-a-mile from Bangor Bay, near the entrance to Belfast Lough.
 
-[^19]: Rom. vii. 4 .
+[^19]: Rom. vii. 4.
 
-[^20]: This is probably Lugaid, or Molua, the founder of Lismore in Scotland, who died in 592 ( ) and is commemorated on June 25 (Oengus, Gorman). He was a Pict and of the same tribe as St. Comgall, both being descended from Fiacha Araide ( 15 c, e); and in later times was the patron saint of the diocese of Argyll (Adamnan, p. 371). He may be the Bishop Lugidus who ordained St. Comgall, and afterwards restrained him from leaving Ireland (Plummer, i. p. lix.; ii. pp. 6, 7). But there is no evidence, apart from the statement of St. Bernard, that either this bishop or Lugaid of Lismore was a member of the community at Bangor. There is a Life of Lugaid of Lismore in the Breviary of Aberdeen (Prop. Sanct. pro temp, aest. ff. 5 7; summarized in Forbes, , p. 410). His principal foundation after Lismore was Rosemarkie in Ross. Mr. A. B. Scott ( , 1918, p. 347 f.) mentions also Mortlach (Banffshire) and Clova (Aberdeenshire); and Bishop Forbes ( ) adds other sites with which his name is connected.
+[^20]: Luanus. This is probably Lugaid, or Molua, the founder of Lismore in Scotland, who died in 592 (A.U.) and is commemorated on June 25 (Oengus, Gorman). He was a Pict and of the same tribe as St. Comgall, both being descended from Fiacha Araide (L.B. 15 c, e); and in later times was the patron saint of the diocese of Argyll (Adamnan, p. 371). He may be the Bishop Lugidus who ordained St. Comgall, and afterwards restrained him from leaving Ireland (Plummer, i. p. lix.; ii. pp. 6, 7). But there is no evidence, apart from the statement of St. Bernard, that either this bishop or Lugaid of Lismore was a member of the community at Bangor. There is a Life of Lugaid of Lismore in the Breviary of Aberdeen (Prop. Sanct. pro temp, aest. ff. 5 v. 7; summarized in Forbes, Kalendars of Scottish Saints, p. 410). His principal foundation after Lismore was Rosemarkie in Ross. Mr. A. B. Scott (Pictish Nation, 1918, p. 347 f.) mentions also Mortlach (Banffshire) and Clova (Aberdeenshire); and Bishop Forbes (l.c.) adds other sites with which his name is connected.
 
-[^21]: § 22, p. 11). It was probably on this occasion that he spent some time on the island of Hinba (Eilean-na-naomh?) in the company of SS. Columba, Canice and others (Adamnan, iii. 17). It was somewhat later, apparently, that St. Columba went with some companions on a mission to Brude, king of the Picts ( ii. 35); and we need not question the statement that Comgall and Canice were among those who went with him, though there is reason to doubt that Comgall was the leader of the band, as his Life implies (§ 51, p. 18), and though the , which frequently refers to his visit, or visits, to Scotland (§§ 17, 19, 21, 23, Plummer, i. 158), never mentions the incident. It is probable, therefore, that the founder of Bangor took part in the evangelization of Scotland; but the memory of very few monasteries founded by him in that country, besides the community in the island of Tiree ( , § 22, p. 11; see Scott, p. 239), has been preserved to later ages. Mr. Scott credits members of the community of Bangor with the foundation of Paisley, Kingarth and Applecross ( p. 337 ff.). See also previous note.
+[^21]: St. Comgall himself is said to have been minded in his earlier days to go on pilgrimage to "Britain," and to have been dissuaded therefrom by Lugaid (Latin Life, § 13, Plummer, ii. 7). Seven years after the foundation of Bangor he went to Britain to visit "certain saints" (ibid. § 22, p. 11). It was probably on this occasion that he spent some time on the island of Hinba (Eilean-na-naomh?) in the company of SS. Columba, Canice and others (Adamnan, iii. 17). It was somewhat later, apparently, that St. Columba went with some companions on a mission to Brude, king of the Picts (ibid. ii. 35); and we need not question the statement that Comgall and Canice were among those who went with him, though there is reason to doubt that Comgall was the leader of the band, as his Life implies (§ 51, p. 18), and though the Life of St. Canice, which frequently refers to his visit, or visits, to Scotland (§§ 17, 19, 21, 23, Plummer, i. 158), never mentions the incident. It is probable, therefore, that the founder of Bangor took part in the evangelization of Scotland; but the memory of very few monasteries founded by him in that country, besides the community in the island of Tiree (Life, § 22, p. 11; see Scott, op. cit. p. 239), has been preserved to later ages. Mr. Scott credits members of the community of Bangor with the foundation of Paisley, Kingarth and Applecross (ibid. p. 337 ff.). See also previous note.
 
-[^22]: Ps. lxv. 9 , 10 (vg., inexact quotation).
+[^22]: Ps. lxv. 9, 10 (vg., inexact quotation).
 
-[^23]: Luke vi. 48 .
+[^23]: Luke vi. 48.
 
-[^24]: Gen. xii. 2 .—St. Columbanus was the greatest of the Irish missionaries on the Continent of Europe. Born in Leinster, according to Bruno Krusch ( , p. 22) in 530, or as others hold in 543, he entered the community of Bangor not long after its foundation, and after spending "many cycles of years" there, he sailed for France about 590. His principal monasteries were Luxeuil (Luxovium) in the department of Haute Saône, and Bobbio in Lombardy. At the latter place he died, November 23, 615. His Life was written by Jonas, about 640. It was critically edited by Krusch in (Script. rerum Merovingic., vol. iv. 1-152) and subsequently as a separate volume ( , 1905). The story of his labours has been told by G. T. Stokes in his , Lect. vii., and by many other modern writers. See also the collection of documents in Patrick Fleming's (Lovanii, 1667). Luxeuil is about eighty miles from Clairvaux, and less than seventy from St. Bernard's early home at Dijon. Fifty years after the death of St. Columbanus it adopted the rule of St. Benedict. It was a well-known establishment in St. Bernard's day, though by that time its glory had declined. It was suppressed in 1789 (M. Stokes, , p. 67).
+[^24]: Gen. xii. 2.—St. Columbanus was the greatest of the Irish missionaries on the Continent of Europe. Born in Leinster, according to Bruno Krusch (Ionae Vitae Sanctorum, p. 22) in 530, or as others hold in 543, he entered the community of Bangor not long after its foundation, and after spending "many cycles of years" there, he sailed for France about 590. His principal monasteries were Luxeuil (Luxovium) in the department of Haute Saône, and Bobbio in Lombardy. At the latter place he died, November 23, 615. His Life was written by Jonas, about 640. It was critically edited by Krusch in M.G.H. (Script. rerum Merovingic., vol. iv. 1-152) and subsequently as a separate volume (Ionae Vitae Sanctorum Columbani, Vedastis, Iohannis, 1905). The story of his labours has been told by G. T. Stokes in his Celtic Church in Ireland, Lect. vii., and by many other modern writers. See also the collection of documents in Patrick Fleming's Collectanea (Lovanii, 1667). Luxeuil is about eighty miles from Clairvaux, and less than seventy from St. Bernard's early home at Dijon. Fifty years after the death of St. Columbanus it adopted the rule of St. Benedict. It was a well-known establishment in St. Bernard's day, though by that time its glory had declined. It was suppressed in 1789 (M. Stokes, Three Months in the Forests of France, p. 67).
 
-[^25]: , from which they derived their name ( , s.v.). It was adopted in the early years of the following century at the monastery of St. Maurice in the Valois, from which it spread to many other religious establishments ( , Nov., i. 548 ff.).
+[^25]: The Acœmetae, founded about the middle of the fifth century, were the first to practise the laus perennis, from which they derived their name (Dict. of Christian Antiquities, s.v.). It was adopted in the early years of the following century at the monastery of St. Maurice in the Valois, from which it spread to many other religious establishments (AA.SS., Nov., i. 548 ff.).
 
-[^26]: 823 ( 824): "The plundering of Bangor in the Ards by Foreigners [ Norsemen], and the spoiling of its oratory; and the relics of Comgall were shaken out of their shrine." add, "and its learned men and bishops were slain with the sword."
+[^26]: A.U. 823 (recte 824): "The plundering of Bangor in the Ards by Foreigners [i.e. Norsemen], and the spoiling of its oratory; and the relics of Comgall were shaken out of their shrine." A.I. add, "and its learned men and bishops were slain with the sword."
 
-[^27]: Gen. ii. 8 .
+[^27]: Gen. ii. 8.
 
-[^28]: Matt. xxvii. 52 .
+[^28]: Matt. xxvii. 52.
 
-[^29]: Ecclus. xliv. 14 .
+[^29]: Ecclus. xliv. 14.
 
-[^30]: ).
+[^30]: This obviously exaggerated statement may refer to the event mentioned in note 2, or to a later occasion (958), when "Tanaidhe, son of Odhar, coarb of Bangor, was killed by Foreigners" (A.U.).
 
-[^31]: 
+[^31]: "Even at the Dissolution [1539] it was found to be possessed of the temporalities and spiritualities of thirty-four townlands, together with the tithes of nine rectories or chapels" (Reeves, p. 94). The lands included the entire parish of Bangor, together with part of the adjoining parish of Holywood, and eight outlying townlands (Archdall, ed. Moran, i. 235).
 
-[^32]: is Indrechtach, who died in 906. From that time onwards "coarb of Comgall" (or in one instance, "coarb of Bangor") is substituted for it. St. Bernard is supported by the Annals when he asserts that so-called abbots were elected down to Malachy's time. preserve the names of twenty abbots or coarbs between 824 and 1123. But St. Bernard leaves the impression that the religious community of Bangor ceased to exist on its destruction by the Norse pirates, and that subsequently the "abbots" merely held the lands that had belonged to it, and exercised no spiritual discipline. There are good reasons, however, for the contrary opinion. Thus Abbot Moengal, who died in 871, was a "pilgrim." Abbot Moenach (died 921) was "the head of the learning of the island of Ireland." Ceile, coarb of Comgall, went on pilgrimage to Rome in 928, and died there in 929: he was a scribe and anchoret, apostolic doctor of all Ireland, and (if can be trusted) a bishop. Dubhinnsi, bishop of Bangor, died in 953. Finally, Diarmait Ua Maeltelcha, coarb of Comgall, whom calls a bishop, died in 1016. It was probably not till after that date, as Reeves (p. 154) assures us, that the monastery began to decline.
+[^32]: This remark is interesting as showing that the title "abbot of Bangor" was in use in the twelfth century. The last person to whom it is given in the A.U. is Indrechtach, who died in 906. From that time onwards "coarb of Comgall" (or in one instance, "coarb of Bangor") is substituted for it. St. Bernard is supported by the Annals when he asserts that so-called abbots were elected down to Malachy's time. A.U. preserve the names of twenty abbots or coarbs between 824 and 1123. But St. Bernard leaves the impression that the religious community of Bangor ceased to exist on its destruction by the Norse pirates, and that subsequently the "abbots" merely held the lands that had belonged to it, and exercised no spiritual discipline. There are good reasons, however, for the contrary opinion. Thus Abbot Moengal, who died in 871, was a "pilgrim." Abbot Moenach (died 921) was "the head of the learning of the island of Ireland." Ceile, coarb of Comgall, went on pilgrimage to Rome in 928, and died there in 929: he was a scribe and anchoret, apostolic doctor of all Ireland, and (if C.S. can be trusted) a bishop. Dubhinnsi, bishop of Bangor, died in 953. Finally, Diarmait Ua Maeltelcha, coarb of Comgall, whom C.S. calls a bishop, died in 1016. It was probably not till after that date, as Reeves (p. 154) assures us, that the monastery began to decline.
 
-[^33]: 
+[^33]: See §§ 61, 62.
 
-[^34]: Matt. xxvii. 51 .
+[^34]: Matt. xxvii. 51.
 
-[^35]: John ii. 11 .
+[^35]: John ii. 11.
 
-[^36]: , ii. 101). The older custom lingered longer in Ireland than elsewhere; and by the time of Bede it had come to be regarded as characteristically Irish, though wooden churches must still have been numerous in England (Bede, , iii. 25). In a document of much later date, the Life of the Irish Saint Monenna (quoted in Adamnan, p. 177 f.), we read of "a church constructed of smoothed planks according to the custom of the Scottish races"; and the writer adds that "the Scots are not in the habit of building walls, or causing them to be built." Petrie (pp. 138-151) maintained that stone churches were not unusual in early Ireland; but he admits (pp. 341-344) that one type of church—the oratory (in Irish , house of oak)—was very rarely constructed of stone. The only two passages which he cites (p. 345) as mentioning stone oratories (he says he might have produced others) are not to his purpose. The first is a notice in 788, of a man being killed at the door of a "stone oratory": but another, and apparently better, reading substitutes for , thus altering the entry to a statement that the man was killed "by a stone at the door of the oratory." The second is Colgan's rendering ( , p. 162) of a sentence in iii. 74, p. 232, in which there is in reality no mention of any ecclesiastical edifice. So far as I am aware, there is no indisputable reference in Irish literature to a stone oratory earlier than the one mentioned below, § 61.
+[^36]: "Scotic" is obviously to be understood here in its earlier meaning as equivalent to "Irish." From this departure from his ordinary usage (see p. 20, note 1) we may infer that St. Bernard is quoting the words of his authority. The habit of constructing churches of wood prevailed in early times among the Celtic and Saxon tribes in the British Isles, the introduction of stone building for such purposes being due to Roman influence (Plummer, Bede, ii. 101). The older custom lingered longer in Ireland than elsewhere; and by the time of Bede it had come to be regarded as characteristically Irish, though wooden churches must still have been numerous in England (Bede, H.E., iii. 25). In a document of much later date, the Life of the Irish Saint Monenna (quoted in Adamnan, p. 177 f.), we read of "a church constructed of smoothed planks according to the custom of the Scottish races"; and the writer adds that "the Scots are not in the habit of building walls, or causing them to be built." Petrie (pp. 138-151) maintained that stone churches were not unusual in early Ireland; but he admits (pp. 341-344) that one type of church—the oratory (in Irish dairtheach, i.e. house of oak)—was very rarely constructed of stone. The only two passages which he cites (p. 345) as mentioning stone oratories (he says he might have produced others) are not to his purpose. The first is a notice in A.U. 788, of a man being killed at the door of a "stone oratory": but another, and apparently better, reading substitutes lapide for lapidei, thus altering the entry to a statement that the man was killed "by a stone at the door of the oratory." The second is Colgan's rendering (Trias, p. 162) of a sentence in Trip. iii. 74, p. 232, in which there is in reality no mention of any ecclesiastical edifice. So far as I am aware, there is no indisputable reference in Irish literature to a stone oratory earlier than the one mentioned below, § 61.
 
-[^37]: Cp. the quatrain of Rummun on an oratory which was in course of construction at Rathen (Otia Merseiana, ii. 79):
+[^37]: Cp. the quatrain of Rummun on an oratory which was in course of construction at Rathen (Otia Merseiana, ii. 79): "O my Lord! what shall I do About these great materials? When will these ten hundred planks Be a structure of compact beauty?"
 
-[^38]: 
+[^38]: Evidently until he became bishop. The next sentence implies that the time spent at Bangor was of considerable length, as does also the remark at the end of § 15. St. Bernard, however, seems to have been mistaken in supposing that Malachy resigned the abbacy on his consecration. See p. 36, note 5; p. 40, note 1; p. 80, note 1; p. 104, note 3; p. 112, note 5; p. 113, note 1.
 
-[^39]: 
+[^39]: Cp. p. 11, note 1.
 
-[^40]: Luke i. 75 .
+[^40]: Luke i. 75.
 
-[^41]: John xviii. 10 .
+[^41]: John xviii. 10.
 
-[^42]: 
+[^42]: For Christian and Mellifont Abbey, see § 39. This Malchus is mentioned again in § 52.
 
-[^43]: xxvi. 4).
+[^43]: This is not a mere conventional phrase. In a passionate outburst of grief St. Bernard says of his brother Gerard, who had recently died, "He was my brother by blood, yet more my brother in religion" (Cant. xxvi. 4).
 
-[^44]: Cp. p. 14, note 1. The meaning is that after his recovery Malchus entered the community of Bangor.
+[^44]: Conversus. Cp. p. 14, note 1. The meaning is that after his recovery Malchus entered the community of Bangor.
 
-[^45]: Acts ix. 35 .
+[^45]: Acts ix. 35.
 
-[^46]: 2 Kings xviii. 6 .
+[^46]: 2 Kings xviii. 6.
 
-[^47]: John v. 14 .
+[^47]: John v. 14.
 
-[^48]: 
+[^48]: The abbey founded by Malachy at Soulseat. See § 68.
 
-[^49]: , literally, , or . The fact seems to be that Bangor was Malachy's headquarters for the rest of his life, except the ten years which intervened between his expulsion from it (§ 18), and his resignation of the see of Armagh (§ 31). See p. 33, note 1. St. Bernard was apparently puzzled by the fact that Malachy continued to live at Bangor after his consecration, instead of going to the see-city; and he makes a not very satisfactory apology for it.
+[^49]: Demorabatur, literally, lingered, or tarried. The fact seems to be that Bangor was Malachy's headquarters for the rest of his life, except the ten years which intervened between his expulsion from it (§ 18), and his resignation of the see of Armagh (§ 31). See p. 33, note 1. St. Bernard was apparently puzzled by the fact that Malachy continued to live at Bangor after his consecration, instead of going to the see-city; and he makes a not very satisfactory apology for it.
 
-[^50]: 
+[^50]: The city is evidently Connor; but it is not near Bangor. The two places are twenty-five miles apart, and Belfast Lough lies between them. In Malachy's day they were in different tribal territories.
 
 
 ---

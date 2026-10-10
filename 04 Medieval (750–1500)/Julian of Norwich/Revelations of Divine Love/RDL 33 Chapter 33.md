@@ -28,7 +28,7 @@ And it is God’s will that we have great regard to all His deeds that He hath d
 
 well pleased both with hiding and with shewing. For I saw soothly in our Lord’s teaching, the more we busy us to know His secret counsels in this or any other thing, the farther shall we be from the knowing thereof.
 
-[^1]: 
+[^1]: "I coude of this right nowte."
 
 
 ---

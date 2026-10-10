@@ -24,7 +24,7 @@ I had three manners of understanding of this light, Charity. The first is Charit
 
 Charity made; the third is Charity given. Charity unmade is God; Charity made is our soul in God; Charity given is virtue. And that is a precious gift of working in which we love God, for Himself; and ourselves, in God; and that which God loveth, for God.
 
-[^1]: 
+[^1]: i.e. earning the endless praise.
 
 
 ---

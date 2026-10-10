@@ -38,17 +38,17 @@ These words were said full tenderly, showing no manner of blame to me nor to any
 
 And in these words I saw a marvellous high mystery hid in God, which mystery He shall openly make known to us in Heaven: in which knowing we shall verily see the cause why He suffered sin to come. In which sight we shall endlessly joy in our Lord God.[^6]
 
-[^1]: 
+[^1]: "Synne is behovabil, but al shal be wel and al shal be wel and all manner of thyng shal be wele."
 
-[^2]: 
+[^2]: Being made as nothing, set at nought.
 
-[^3]: 
+[^3]: S. de Cressy has "this" instead of thus.
 
-[^4]: 
+[^4]: i.e. truth, an actual reality. See lxxxii.
 
-[^5]: 
+[^5]: As it were, an unreasonable contravention of natural, filial trust.
 
-[^6]: 
+[^6]: See also chap. lxi. From the Enchiridion of Saint Augustine: -- "All things that exist, therefore, seeing that the Creator of them all is supremely good, are themselves good. But because they are not like their Creator, supremely and unchangeably good, their good may be diminished and increased. But for good to be diminished is an evil, although, however much it may be diminished, it is necessary, if the being is to continue, that some good should remain to constitute the being. For however small or of whatever kind the being may be, the good which makes it a being cannot be destroyed without destroying the being itself.... So long as a being is in process of corruption, there is in it some good of which it is being deprived; and if a part of the being should remain which cannot be corrupted, this will certainly be an incorruptible being, and accordingly the process of corruption will result in the manifestation of this great good. But if it do not cease to be corrupted, neither can it cease to possess good of which corruption may deprive it. But if it should be thoroughly and completely consumed by corruption, there will then be no good left, because there will be no being. Wherefore corruption can consume the good only by consuming the being. Every being, therefore, is a good; a great good, if it cannot be corrupted; a little good, if it can: but in any case, only the foolish or ignorant will deny that it is a good. And if it be wholly consumed by corruption, then the corruption itself must cease to exist, as there is no being left in which it can dwell." Chap x. "By the Trinity, thus supremely and equally and unchangeably good, all things were created; and these are not supremely and equally and unchangeably good, but yet they are good, even taken separately. Taken as a whole, however, they are very good, because their ensemble constitutes the universe in all its wonderful order and beauty " -- The Works of Aurelius Augustine, Bishop of Hippo, (Edited by the Rev. Marcus Dods, D.D.), vol. ix.
 
 
 ---

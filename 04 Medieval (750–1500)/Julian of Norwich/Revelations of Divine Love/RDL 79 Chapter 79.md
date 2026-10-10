@@ -34,11 +34,11 @@ He willeth not that we abide thus, nor He willeth not that we busy us greatly ab
 
 When I say He standeth all alone, I leave the speaking of the blessed Company of heaven, and speak of His office and His working here on earth,—upon the condition of the Shewing.
 
-[^1]: 
+[^1]: See xxxvii., xl., xlviii., lxi., lxxxii.
 
-[^2]: 
+[^2]: "ben it aknowen." S. de Cressy, "be it a knowen."
 
-[^3]: 
+[^3]: MS. "wretchful of our selfe." S. de Cressy, "wretchful on our self."
 
 
 ---

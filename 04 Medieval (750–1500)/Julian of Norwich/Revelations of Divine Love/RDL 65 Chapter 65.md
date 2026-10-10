@@ -31,15 +31,15 @@ Now have I told you of Fifteen Revelations, as God vouchsafed to minister them t
 
 Of which Fifteen Shewings the First began early in the morn, about the hour of four; and they lasted, shewing by process full fair and steadily, each following other, till it was nine of the day, overpassed.
 
-[^1]: 
+[^1]: "wilfully."
 
-[^2]: 
+[^2]: "bounden" = beholden.
 
-[^3]: 
+[^3]: "his."
 
-[^4]: 
+[^4]: "him."
 
-[^5]: 
+[^5]: i.e. the soul.
 
 
 ---

@@ -28,17 +28,17 @@ beholding is blissfully set in God that is the Maker dwelling therein. For in Ma
 
 And what may make us more to enjoy in God than to see in Him that He enjoyeth in the highest of all His works? For I saw in the same Shewing that if the blessed Trinity might have made Man’s Soul any better, any fairer, any nobler than it was made, He should not have been full pleased with the making of Man’s Soul. And He willeth that our hearts be mightily raised above the deepness of the earth and all vain sorrows, and rejoice[^6] in Him.
 
-[^1]: 
+[^1]: "solemnest"; "solemnly" = in state.
 
-[^2]: 
+[^2]: "solemnest"; "solemnly" = in state.
 
-[^3]: 
+[^3]: i.e. straight-set.
 
-[^4]: 
+[^4]: "gemeth."
 
-[^5]: 
+[^5]: "woning."
 
-[^6]: 
+[^6]: "enjoyen."
 
 
 ---

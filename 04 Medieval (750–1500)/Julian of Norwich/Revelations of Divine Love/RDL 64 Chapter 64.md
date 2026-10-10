@@ -41,29 +41,29 @@ so signifieth He in these words: *And thou shalt never more have pain; no manner
 
 It is God’s will that we take His behests[^11] and His comfortings as largely and as mightily as we may take them, and also He willeth that we take our abiding and our troubles[^12] as lightly as we may take them, and set them at nought. For the more lightly we take them, and the less price we set on them, for love, the less pain we shall have in the feeling of them, and the more thanks and meed we shall have for them.
 
-[^1]: 
+[^1]: "uggley."
 
-[^2]: 
+[^2]: a "bolned quave of styngand myre."
 
-[^3]: 
+[^3]: "swifte" = agile, quick.
 
-[^4]: 
+[^4]: "sharply."
 
-[^5]: 
+[^5]: "beleveth."
 
-[^6]: 
+[^6]: "full blissful .... mor than."
 
-[^7]: 
+[^7]: "full blissful .... mor than."
 
-[^8]: 
+[^8]: i.e. promise, proclamation.
 
-[^9]: 
+[^9]: "behoting."
 
-[^10]: 
+[^10]: i.e. the exceeding fulness of heavenly bliss.
 
-[^11]: 
+[^11]: See foot-note 4, p. 161.
 
-[^12]: 
+[^12]: "diseases" = discomforts, distresses.
 
 
 ---

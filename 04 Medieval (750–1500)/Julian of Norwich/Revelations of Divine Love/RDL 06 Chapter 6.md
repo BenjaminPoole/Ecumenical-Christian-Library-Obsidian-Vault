@@ -45,19 +45,19 @@ For He willeth that we be occupied in knowing and loving till the time that we s
 
 of all things the beholding and the loving of the Maker maketh the soul to seem less in his own sight, and most filleth him with reverent dread and true meekness; with plenty of charity to his even-Christians.
 
-[^1]: 
+[^1]: MS. To make many menys. So in Letter 385 of The Paston Letters,1422-1509 A.D. -- Our Soverayn Lord hath wonne the feld, and uppon the Munday next after Palmesunday, he was resseved in York with gret solempnyte and processyons. And the Mair and Comons of the said cite mad ther menys to have grace be by Lord Montagu and Lord Barenars, which be for the Kyngs coming in to the said cite, which graunted hem [them] grace." Letter 472 (from Margaret Paston).-- " Your ryth wele willers have kounselyd me that I xuld kownsell you to maken other menys than ye have made, to other folks, that wold spede your matyrs better than they have done thatt ye have spoken to therof" (ed by James Gairdner, vol. i.). See ch. iv, p. 8.
 
-[^2]: 
+[^2]: i.e. trustingly.
 
-[^3]: 
+[^3]: bond as of relationship.
 
-[^4]: 
+[^4]: "the bouke"=the bulk, the thorax.
 
-[^5]: 
+[^5]: "witten."
 
-[^6]: 
+[^6]: or, as in S. de Cressy, "unmeasurable." The word, however, looks like "oninestimable " with the "on " blotted or erased.
 
-[^7]: 
+[^7]: "kindly."
 
 
 ---

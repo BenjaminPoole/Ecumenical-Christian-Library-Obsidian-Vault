@@ -30,8 +30,8 @@ And at the end of woe, suddenly our eyes shall be opened, and in clearness of li
 
 Thus I saw and understood that our faith is our light in our night: which light is God, our endless Day.
 
-[^1]: 
+[^1]: Cf. chs. lxxxv. and lxxxvi. These words might be (as Life, Light, and Love) for the Trinity of Might ("the Father willeth"), Wisdom ("the Son worketh"), Love ("the Holy Ghost confirmeth"): one Goodness: or as it is sometimes denoted, the Trinity of Might, Wisdom, Goodness: one Love. But here the thought seems to be centred in Light as the manifestation of Being (of Kyndhede = relationships, correspondences of nature): of the Triune Divine Light which in Man is corresponding Reason, Faith, Charity: Charity keeping man, while here, in Faith and Hope; Charity leading him from and through and into the Eternal Divine Love.
 
 
 ---
-[[RDL 82 Chapter 72|← Chapter 72]] · [[Revelations of Divine Love|Contents]] · [[RDL 84 Chapter 84|Chapter 84 →]]
+[[RDL 82 Chapter 82|← Chapter 82]] · [[Revelations of Divine Love|Contents]] · [[RDL 84 Chapter 84|Chapter 84 →]]

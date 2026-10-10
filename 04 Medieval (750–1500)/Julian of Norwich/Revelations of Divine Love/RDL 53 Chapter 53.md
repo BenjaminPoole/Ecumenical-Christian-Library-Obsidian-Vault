@@ -42,17 +42,17 @@ Wherefore He would have us understand that the noblest thing that ever He made i
 
 which oneing it is made endlessly holy. Furthermore He would have us know that all the souls that shall be saved in Heaven without end, are knit and oned in this oneing and made holy in this holiness.
 
-[^1]: 
+[^1]: "awer" = awe, travail of perplexity, dilemma -- see p 106.
 
-[^2]: 
+[^2]: Man's nature.
 
-[^3]: 
+[^3]: Or (it may be): "In His Rightful Intent . . . the Mid-Person willed. . ."
 
-[^4]: 
+[^4]: "wynden."
 
-[^5]: 
+[^5]: S. de Cressy has "this"; the word in the MS. is more like "his."
 
-[^6]: 
+[^6]: The pronoun "it" given by S. de Cressy is omitted in the MS. The meaning is, perhaps, that the Manhood-Substance, or Soul of Christ, was in its making, by the Second Person in the Trinity, so united to Himself that Man's Substance and each man's soul (in salvation), being one with it, are one with God the Son. See li. p. 117.
 
 
 ---

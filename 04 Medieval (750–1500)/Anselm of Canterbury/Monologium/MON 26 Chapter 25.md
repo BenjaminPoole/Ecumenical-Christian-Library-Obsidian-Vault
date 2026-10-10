@@ -31,7 +31,7 @@ no accident respecting its essence, whence it would be conceived of, as itself v
 Whence this conclusion, also, may be reached, that it is susceptible of no accident; since, just as those accidents, which effect some change by their occurrence or non-occurrence, are by virtue of this very effect of theirs regarded as being true *accidents*, so those facts, which lack a like effect, are found to be improperly called accidents. Therefore, this Essence is always, in every way, substantially identical with itself; and it is never in any way
 different from itself, even accidentally. But, however it may be as to the proper signification of the term *accident*, this is undoubtedly true, that of the supremely immutable Nature no statement can be made, whence it shall be conceived of as mutable.
 
-[^1]: 
+[^1]: [Accidents, as Anselm uses the term, are facts external to the essence of a being, which may yet be conceived to produce changes in a mutable being.]
 
 
 ---

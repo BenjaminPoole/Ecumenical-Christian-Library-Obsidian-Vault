@@ -50,19 +50,19 @@ These are two workings that may be seen in this Vision: the one is seeking, the 
 
 For His working is privy, and He willeth to be perceived; and His appearing shall be swiftly sudden; and He willeth to be trusted. For He is full gracious and homely: Blessed may He be!
 
-[^1]: 
+[^1]: In de Cressy's version: "I saw Him and sought Him."
 
-[^2]: 
+[^2]: wetyn = wit.
 
-[^3]: 
+[^3]: The Handkerchief of St. Veronica.
 
-[^4]: 
+[^4]: "so discolouring."
 
-[^5]: 
+[^5]: i.e., according to.
 
-[^6]: 
+[^6]: "for be that" = for by [means of] that; or possibly the Old English and Scottish 'forbye that'=besides that.
 
-[^7]: 
+[^7]: "onskilful"=without discernment or ability; unpractical. S. de Cressy, "unreasonable."
 
 
 ---

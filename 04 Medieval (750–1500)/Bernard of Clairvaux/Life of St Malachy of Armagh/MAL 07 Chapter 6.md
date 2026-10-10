@@ -17,6 +17,8 @@ tags:
 
 St. Malachy's Apostolic Labours, Praises and Miracles.
 
+*1140, October*
+
 42. (23). Malachy embarked in a ship, and after a prosperous voyage
 landed at his monastery of Bangor,[^1] so that his first sons might
 receive the first benefit.[^2] In what state of mind do you suppose
@@ -496,289 +498,289 @@ unlooked-for miracle. And that it might be clear that this was granted
 to the merits of Malachy, the same sterility nevertheless continued also
 for the following two years.
 
-[^1]: 
+[^1]: Of which, it appears from this and other passages (see p. 33, n. 1), he was still abbot.
 
-[^2]: 2 Cor. i. 15 .
+[^2]: 2 Cor. i. 15.
 
-[^3]: 
+[^3]: Gentibus.
 
-[^4]: Ps. xlviii. 2 .
+[^4]: Ps. xlviii. 2.
 
-[^5]: Isa. xxxii. 20 .
+[^5]: Isa. xxxii. 20.
 
-[^6]: ( ) for ( ).
+[^6]: Cp. Serm. ii. § 3. Perhaps here, as in that passage, we should read person (persona) for profession (professio).
 
-[^7]: Ps. cxlix. 6 , 7 .
+[^7]: Ps. cxlix. 6, 7.
 
-[^8]: Ps. xxxiv. 16 ; 1 Pet. iii. 12 .
+[^8]: Ps. xxxiv. 16; 1 Pet. iii. 12.
 
 [^9]: Ps. lxxv. 4 (vg.).
 
-[^10]: Ps. xxxiv. 15 ; 1 Pet. iii. 12 .
+[^10]: Ps. xxxiv. 15; 1 Pet. iii. 12.
 
-[^11]: iii. 1). He mentions the saint's many miracles and then proceeds, "But, as he himself says, in commendation of St. Malachy, the first and greatest miracle that he displayed was himself." About half of the present section is embodied by Gerlatus in his description of the character of Godscalcus ( , Scr. xvii. 700).
+[^11]: St. Bernard's secretary, Geoffrey, recalls this sentence (V.P. iii. 1). He mentions the saint's many miracles and then proceeds, "But, as he himself says, in commendation of St. Malachy, the first and greatest miracle that he displayed was himself." About half of the present section is embodied by Gerlatus in his description of the character of Godscalcus (M.G.H., Scr. xvii. 700).
 
-[^12]: Eph. iii. 16 .
+[^12]: Eph. iii. 16.
 
-[^13]: Jas. iii. 2 .
+[^13]: Jas. iii. 2.
 
-[^14]: Matt. xii. 36 .
+[^14]: Matt. xii. 36.
 
-[^15]: 
+[^15]: Cp. Serm. ii. § 4.
 
-[^16]: 
+[^16]: Cp. Consecratio in Ordering of Deacons (Gregorian Sacramentary).
 
-[^17]: 
+[^17]: Cp. Serm. ii. § 4.
 
-[^18]: 
+[^18]: This statement must be accepted with some reserve. Malachy must have had personal property while he was coarb of Patrick. And accordingly Serm. i. § 6, connects his voluntary poverty with his episcopate in Down, and above (§ 21) his departure from Armagh is represented as a return to poverty. The context shows that St. Bernard is here thinking of the period when he was legate.
 
-[^19]: Gen. xxxii. 5 , etc.
+[^19]: Gen. xxxii. 5, etc.
 
-[^20]: dioceses.
+[^20]: I.e. dioceses.
 
-[^21]: Rom. i. 9 .
+[^21]: Cp. Rom. i. 9.
 
-[^22]: 1 Cor. ix. 14 .
+[^22]: 1 Cor. ix. 14.
 
-[^23]: Luke x. 7 .
+[^23]: Luke x. 7.
 
-[^24]: 1 Cor. ix. 18 ; cp. Serm. ii. § 1.
+[^24]: 1 Cor. ix. 18; cp. Serm. ii. § 1.
 
-[^25]: Phil. iv. 3 combined with Eph. iv 12; cp. Acts xx. 34 .
+[^25]: Phil. iv. 3 combined with Eph. iv 12; cp. Acts xx. 34.
 
-[^26]: Matt. xviii. 4 , combined with Ecclus. iii. 20 .
+[^26]: Matt. xviii. 4, combined with Ecclus. iii. 20.
 
-[^27]: Luke xii. 13 .
+[^27]: Luke xii. 13.
 
 [^28]: 1 Pet. v. 3 (vg.).
 
-[^29]: 1 Cor. ix. 19 .
+[^29]: 1 Cor. ix. 19.
 
-[^30]: 17: "Paul did not preach the Gospel that he might eat, but ate that he might preach the Gospel; for he loved not food but the Gospel." The reference is of course to 1 Cor. ix.
+[^30]: Cp. De Dil. 17: "Paul did not preach the Gospel that he might eat, but ate that he might preach the Gospel; for he loved not food but the Gospel." The reference is of course to 1 Cor. ix.
 
-[^31]: 1 Tim. vi. 5 .
+[^31]: 1 Tim. vi. 5.
 
-[^32]: 
+[^32]: Opus et onus.
 
-[^33]: Amos i. 13 .
+[^33]: Amos i. 13.
 
-[^34]: 2 Cor. vi. 11 .
+[^34]: Cp. 2 Cor. vi. 11.
 
-[^35]: Matt. vi. 26 .
+[^35]: Matt. vi. 26.
 
-[^36]: Matt. vi. 25 , 31 .
+[^36]: Matt. vi. 25, 31.
 
-[^37]: 2 Cor. vi. 10 .
+[^37]: 2 Cor. vi. 10.
 
-[^38]: Matt. vi. 34 .
+[^38]: Cp. Matt. vi. 34.
 
-[^39]: 
+[^39]: Secret of Mass for Nativity of St. John Baptist, etc.
 
-[^40]: Exod. xxxii. 6 , etc.
+[^40]: Exod. xxxii. 6, etc.
 
-[^41]: Gen. xi. 4 .
+[^41]: Cp. Gen. xi. 4.
 
-[^42]: Matt. viii. 20 ; Luke ix. 58 .
+[^42]: Matt. viii. 20; Luke ix. 58.
 
-[^43]: 2 Tim. iv. 5 .
+[^43]: 2 Tim. iv. 5.
 
-[^44]: Jer. vi. 23 , etc.
+[^44]: Jer. vi. 23, etc.
 
-[^45]: 2 Thess. iii. 8 , 12 .
+[^45]: 2 Thess. iii. 8, 12.
 
-[^46]: Ps. lxxviii. 25 .
+[^46]: Ps. lxxviii. 25.
 
-[^47]: Ps. cvii. 9 .
+[^47]: Ps. cvii. 9.
 
-[^48]: 
+[^48]: Plebes.
 
 [^49]: 2 Cor. xii. 12 (vg.).
 
-[^50]: 1 Cor. xv. 10 .
+[^50]: Cp. 1 Cor. xv. 10.
 
-[^51]: Ps. lxxvii. 14 .—The following narratives of Malachy's miracles are not in chronological order. They are arranged according to their character. Thus the first four (§§ 45, 46) are instances of his power over demons.
+[^51]: Ps. lxxvii. 14.—The following narratives of Malachy's miracles are not in chronological order. They are arranged according to their character. Thus the first four (§§ 45, 46) are instances of his power over demons.
 
-[^52]: ). The word "city" implies that the community was still in existence.
+[^52]: Coleraine is said to have been founded by St. Patrick; and it was certainly a religious establishment at least as early as the sixth century (Adamnan, i. 50). One of its erenachs died in 1122 (A.F.M.). The word "city" implies that the community was still in existence.
 
-[^53]: , p. 145, from the Life of St. Gall in , Scr. i. 7.
+[^53]: Compare the story of St. Gall listening to the conversation of the demon of the mountain and the demon of the waters, told in Stokes's Celtic Church in Ireland, p. 145, from the Life of St. Gall in M.G.H., Scr. i. 7.
 
-[^54]: 
+[^54]: The first of three miracles of healing the insane.
 
-[^55]: 
+[^55]: In Lecale, co. Down, near Downpatrick. There St. Patrick made his first convert, and there he died. It is not easy to explain why St. Bernard calls it a "region." See further, p. 113, n. 3.
 
-[^56]: 
+[^56]: Ulaid was a district which included the greater part of the present county of Down, and the southern part of Antrim.
 
-[^57]: 
+[^57]: For a similar avowal by Jocelin, who wrote in the same century as St. Bernard, and other illustrative passages, see Adamnan, p. 4.
 
-[^58]: 
+[^58]: See § 8, and above in this section.
 
-[^59]: 
+[^59]: The first of three healings of dumb persons.
 
-[^60]: Mark vii. 33 .
+[^60]: Mark vii. 33.
 
-[^61]: do not refer to any monastery or church at that place. See, however, and at 1096 for a possible exception.
+[^61]: The word "city" implies that there was a religious community at Antrim. That this was the case is proved by the round tower which still remains, and other evidence (Reeves, p. 63). But apparently the Annals do not refer to any monastery or church at that place. See, however, U.A. and A.F.M. at 1096 for a possible exception.
 
-[^62]: 1 Tim. vi. 13 .
+[^62]: 1 Tim. vi. 13.
 
 [^63]: Ps. lii. 8 (vg.).
 
-[^64]: Ps. xlv. 7 .
+[^64]: Ps. xlv. 7.
 
-[^65]: 
+[^65]: Cp. Serm. ii. § 8.
 
-[^66]: Luke vii. 40 .
+[^66]: Luke vii. 40.
 
-[^67]: Acts vi. 5 .
+[^67]: Acts vi. 5.
 
-[^68]: , no MS. variants being recorded in the margin: perhaps a misprint for . Mabillon has and K . A seems to read . All these variants point to (the meadow of the cave), the Irish name for Cloyne, which is undoubtedly the place referred to (see next note). The next two miracles are concerned with childbirth. The first of them may have been related to St. Bernard by Marcus, the author of Tundale's Vision (see Friedel and Meyer, , p. iv., and above p. lxv. n. 3).
+[^68]: Printed text, Conuama, no MS. variants being recorded in the margin: perhaps a misprint for Clonuama. Mabillon has Duevania and K Duenuania. A seems to read Clueuuania. All these variants point to Cluain uama (the meadow of the cave), the Irish name for Cloyne, which is undoubtedly the place referred to (see next note). The next two miracles are concerned with childbirth. The first of them may have been related to St. Bernard by Marcus, the author of Tundale's Vision (see Friedel and Meyer, La Vision de Tondale, p. iv., and above p. lxv. n. 3).
 
-[^69]: ), being then, it is said, 95 years old (Tundale, p. 5). In Tundale (p. 53 f.) he is one of four bishops who were with St. Patrick in Paradise, the others being Cellach, Malachy and Christian O'Morgair. He is there (pp. 5, 54) called bishop of Cloyne ( ).
+[^69]: Nehemiah Moriarty, who died in 1149 (A.F.M.), being then, it is said, 95 years old (Tundale, p. 5). In Tundale (p. 53 f.) he is one of four bishops who were with St. Patrick in Paradise, the others being Cellach, Malachy and Christian O'Morgair. He is there (pp. 5, 54) called bishop of Cloyne (Cluanensis).
 
-[^70]: 1 Cor. x. 16 .
+[^70]: Cp. 1 Cor. x. 16.
 
-[^71]: Luke vi. 17 .
+[^71]: Luke vi. 17.
 
-[^72]: Mark vi. 18 .
+[^72]: Mark vi. 18.
 
-[^73]: 1 Cor. v. 5 ; 1 Tim. i. 20 .
+[^73]: 1 Cor. v. 5; 1 Tim. i. 20.
 
-[^74]: John viii. 4 .
+[^74]: John viii. 4.
 
 [^75]: Ps. lviii. 10 (vg.).
 
-[^76]: 
+[^76]: Probably Dermot MacMurrough, who became king of Leinster in 1126, and died in 1171. He was driven out of his kingdom in 1166, and then invited the Anglo-Normans to come to his aid. The result was the conquest of Ireland. His character merits the description which St. Bernard gives of it.
 
-[^77]: Rom. xvi. 18 .
+[^77]: Rom. xvi. 18.
 
-[^78]: 
+[^78]: The first of three healings of paralysis.
 
-[^79]: John iv. 50 .
+[^79]: John iv. 50.
 
-[^80]: Gen. ii. 21 .
+[^80]: Gen. ii. 21.
 
-[^81]: Mark viii. 3 .
+[^81]: Mark viii. 3.
 
-[^82]: Acts xiii. 11 , etc.
+[^82]: Acts xiii. 11, etc.
 
-[^83]: Mark vii. 34 .
+[^83]: Mark vii. 34.
 
-[^84]: Acts xii. 9 .
+[^84]: Cp. Acts xii. 9.
 
 [^85]: Gen. xlv. 26 (vg.).
 
-[^86]: Acts iii. 8-10 .
+[^86]: Acts iii. 8-10.
 
-[^87]: Mark vi. 49 .
+[^87]: Mark vi. 49.
 
-[^88]: ). The word is sometimes used at this period where we might have expected to find (cp. 1137, quoted in Additional Note C, p. 167).
+[^88]: This implies that the diocese of Cork had already been founded. But we cannot be sure that St. Bernard is correct when he says that the clergy and people met to elect a bishop, in view of his inability elsewhere (§ 19) to distinguish bishops from abbots. It is at least possible that there was strife between different septs concerning the appointment of a coarb of Barre, founder of the church of Cork. Malachy may have taken advantage of the strife to nominate a ruler who belonged to no sept in the district and who would allow himself to be consecrated bishop. The vacancy may have been made by the death of Donnell Shalvey, erenach of Cork, in 1140 (A.F.M.). The word erenach is sometimes used at this period where we might have expected to find abbot (cp. A.F.M. 1137, quoted in Additional Note C, p. 167).
 
-[^89]: 2 Cor. xi. 28 .
+[^89]: 2 Cor. xi. 28.
 
-[^90]: 
+[^90]: Evidently Malachy was now papal legate. The date of the incident is therefore not earlier than 1140.
 
-[^91]: 
+[^91]: It would seem that it was taken for granted that one of the leading men of a sept would be appointed, according to prevalent custom, exemplified in the case of Armagh. This suggests that the vacant office was that of abbot. There would be nothing surprising in the selection of a "poor man," who was not a local magnate, as diocesan bishop.
 
-[^92]: Luke xvii. 16 , 18 .—This was probably Gilla Aedha Ua Muidhin, who attended the Synod of Kells in 1152 as bishop of Cork (Keating, iii. 317), and died in 1172 ( ). Since he attained "a good old age" there is no reason why he should not have been consecrated as early as 1140 or 1141. He had been a monk of Errew in Lough Con, co. Mayo ( 1172), and was therefore "a stranger," not a native of Munster. He is called a "poor man," no doubt, for the same reason as Malachy himself (§ 24), because he had embraced the life of voluntary poverty. He had a reputation for piety and learning, for the Annals describe him as "full of the grace of God" ( ), and "the tower of devotion and wisdom and virginity of Ireland" ( ). And if the tradition is trustworthy that he was abbot of St. John the Evangelist at Cork, founded by Cormac Mac Carthy "for pilgrims from Connaught" (see the charter of Dermot Mac Carthy printed in Gibson's , ii. 348), and that it received its later name of Gill Abbey from him, we can explain how he came to be near at hand when the election was taking place.
+[^92]: Luke xvii. 16, 18.—This was probably Gilla Aedha Ua Muidhin, who attended the Synod of Kells in 1152 as bishop of Cork (Keating, iii. 317), and died in 1172 (A.U.). Since he attained "a good old age" there is no reason why he should not have been consecrated as early as 1140 or 1141. He had been a monk of Errew in Lough Con, co. Mayo (A.T. 1172), and was therefore "a stranger," i.e. not a native of Munster. He is called a "poor man," no doubt, for the same reason as Malachy himself (§ 24), because he had embraced the life of voluntary poverty. He had a reputation for piety and learning, for the Annals describe him as "full of the grace of God" (A.U.), and "the tower of devotion and wisdom and virginity of Ireland" (A.T.). And if the tradition is trustworthy that he was abbot of St. John the Evangelist at Cork, founded by Cormac Mac Carthy "for pilgrims from Connaught" (see the charter of Dermot Mac Carthy printed in Gibson's History of Cork, ii. 348), and that it received its later name of Gill Abbey from him, we can explain how he came to be near at hand when the election was taking place.
 
-[^93]: Matt. ix. 20 .—In this and the next two sections we have three miracles wrought on women; one at the point of death, another dead, and the third spiritually dead.
+[^93]: Matt. ix. 20.—In this and the next two sections we have three miracles wrought on women; one at the point of death, another dead, and the third spiritually dead.
 
-[^94]: 
+[^94]: See § 14.
 
-[^95]: Matt. xvi. 28 ; Mark ix. 1 ; Luke ix. 27 .
+[^95]: Matt. xvi. 28; Mark ix. 1; Luke ix. 27.
 
-[^96]: 2 Kings iv. 29 ff.
+[^96]: See 2 Kings iv. 29 ff.
 
-[^97]: Gen. ii. 21 .
+[^97]: Gen. ii. 21.
 
-[^98]: Luke viii. 44 .
+[^98]: Luke viii. 44.
 
-[^99]: Mark v. 29 .
+[^99]: Cp. Mark v. 29.
 
-[^100]: The text seems to be corrupt. A friend suggests the emendation .
+[^100]: Si quominus. The text seems to be corrupt. A friend suggests the emendation sed quominus deficeret.
 
-[^101]: Phil. ii. 27 (inexact quotation).—The story told in this section was a favourite of St. Charles Borromeo (Alban Butler, , ed. Husenbeth, ii. 607).
+[^101]: Phil. ii. 27 (inexact quotation).—The story told in this section was a favourite of St. Charles Borromeo (Alban Butler, Lives of Saints, ed. Husenbeth, ii. 607).
 
-[^102]: John iv. 49 .
+[^102]: John iv. 49.
 
-[^103]: Mark vi. 13 ; Jas. v. 14 .
+[^103]: Cp. Mark vi. 13; Jas. v. 14.
 
-[^104]: Matt. xxv. 6 .
+[^104]: Matt. xxv. 6.
 
-[^105]: 1 Chron. xxi. 8 , 17 .
+[^105]: 1 Chron. xxi. 8, 17.
 
-[^106]: Gen. xxxvii. 35 .
+[^106]: Gen. xxxvii. 35.
 
-[^107]: 2 Cor. ii. 13 ; cp. Jer. xlv. 3 .
+[^107]: 2 Cor. ii. 13; cp. Jer. xlv. 3.
 
-[^108]: Ps. vi. 6 (vg.); Jer. xlv. 3 .
+[^108]: Ps. vi. 6 (vg.); Jer. xlv. 3.
 
-[^109]: Matt. xxvi. 41 , etc.
+[^109]: Matt. xxvi. 41, etc.
 
-[^110]: Rom. viii. 26 .
+[^110]: Rom. viii. 26.
 
-[^111]: Acts ix. 40 .
+[^111]: Acts ix. 40.
 
-[^112]: John xvi. 20 .
+[^112]: John xvi. 20.
 
-[^113]: Jas. v. 15 .
+[^113]: Jas. v. 15.
 
-[^114]: John ix. 3 .
+[^114]: John ix. 3.
 
-[^115]: Acts vii. 60 .
+[^115]: Acts vii. 60.
 
-[^116]: 1 Tim. vi. 13 .
+[^116]: 1 Tim. vi. 13.
 
 [^117]: Exod. xv. 8 (vg.).
 
 [^118]: Ps. l. 3 (vg.).
 
-[^119]: 1 Cor. iv. 21 .
+[^119]: 1 Cor. iv. 21.
 
 [^120]: Ps. lxxvii. 10 (vg.).
 
-[^121]: Rom. xiv. 5 .
+[^121]: Rom. xiv. 5.
 
-[^122]: Eph. iii. 16 ; cp. 2 Cor. iv. 16 .
+[^122]: Eph. iii. 16; cp. 2 Cor. iv. 16.
 
 [^123]: Ps. xxxv. 12 (vg.).
 
-[^124]: Matt. viii. 13 , combined with John xv. 7 .
+[^124]: Matt. viii. 13, combined with John xv. 7.
 
-[^125]: Ps. cxix. 136 .
+[^125]: Ps. cxix. 136.
 
-[^126]: Cant. iv. 15 .
+[^126]: Cant. iv. 15.
 
-[^127]: 
+[^127]: Here and in § 56 we have two miraculous draughts of fish.
 
-[^128]: 1 Sam. ii. 5 .
+[^128]: 1 Sam. ii. 5.
 
-[^129]: Rom. i. 11 .
+[^129]: Cp. Rom. i. 11.
 
-[^130]: Acts xxviii. 2 .
+[^130]: Acts xxviii. 2.
 
-[^131]: 1 Cor. ix. 9 .
+[^131]: Cp. 1 Cor. ix. 9.
 
-[^132]: Luke v. 10 .
+[^132]: Cp. Luke v. 10.
 
-[^133]: Mark ii. 5 ; Luke v. 20 .
+[^133]: Cp. Mark ii. 5; Luke v. 20.
 
-[^134]: Acts xxi. 5 .
+[^134]: Acts xxi. 5.
 
-[^135]: Acts x. 4 .
+[^135]: Acts x. 4.
 
-[^136]: Luke v. 6 ; John xxi. 6 .
+[^136]: Luke v. 6; John xxi. 6.
 
 [^137]: Ecclus. xxxv. 21 (inexact quotation).
 
-[^138]: Ps. cvii. 26 (vg.).
+[^138]: Cp. Ps. cvii. 26 (vg.).
 
-[^139]: 
+[^139]: Faughart is a parish north of Dundalk.
 
-[^140]: (i. 6, , 547).
+[^140]: Apparently the only authority earlier than St. Bernard which makes Faughart the birthplace of St. Brigit is her fourth Life (i. 6, Trias, 547).
 
-[^141]: 
+[^141]: The Kilcurry River.
 
-[^142]: Luke v. 4 .
+[^142]: Luke v. 4.
 
 
 ---

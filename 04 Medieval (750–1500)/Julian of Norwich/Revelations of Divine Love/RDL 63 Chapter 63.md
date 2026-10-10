@@ -39,13 +39,13 @@ new beginning shall last without end, new beginning.
 
 Thus I understood that all His blessed children which be come out of Him by Nature shall be brought again into Him by Grace.
 
-[^1]: 
+[^1]: "no lak (blame), no defaute."
 
-[^2]: 
+[^2]: "as sothly as sin is onclene as sothly is it onkinde."
 
-[^3]: 
+[^3]: S. de Cressy has "the loving soul."
 
-[^4]: 
+[^4]: "Our fader bliss."
 
 
 ---

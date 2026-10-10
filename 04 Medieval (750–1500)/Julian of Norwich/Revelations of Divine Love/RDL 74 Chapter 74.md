@@ -36,11 +36,11 @@ For the natural property of dread which we have in this life by the gracious wor
 Desire we of our Lord God to dread Him reverently, to love Him meekly, to trust in Him mightily; for when we dread Him reverently and love Him meekly our trust is never in vain. For the more that we trust, and the more mightily, the more we please and worship our Lord that we trust in. And if we fail in this reverent dread and meek love (as God forbid we should!), our trust shall soon be misruled for the time. And therefore it needeth us much to pray our Lord of grace
 that we may have this reverent dread and meek love, of His gift, in heart and in work. For without this, no man may please God.
 
-[^1]: 
+[^1]: Here the transcriber of the B. Mus. MS. repeats (by mistake, no doubt) "to seek," etc. S. de Cressy: "helpeth us as an entry."
 
-[^2]: 
+[^2]: S. de Cressy: "Mothers Arme," but MS. (B.M.) "Moder barme."
 
-[^3]: 
+[^3]: "kinde."
 
 
 ---

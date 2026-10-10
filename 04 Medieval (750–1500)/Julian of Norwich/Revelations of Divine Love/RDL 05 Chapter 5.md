@@ -34,17 +34,17 @@ I have all.*
 
 And these words are full lovely to the soul, and full near touch they the will of God and His Goodness. For His Goodness comprehendeth all His creatures and all His blessed works, and overpasseth[^6] without end. For He is the endlessness, and He hath made us only to Himself, and restored us by His blessed Passion, and keepeth us in His blessed love; and all this of His Goodness.
 
-[^1]: 
+[^1]: MS. "ghostly," and so, generally, throughout the MS.
 
-[^2]: 
+[^2]: "Becloseth" and so generally.
 
-[^3]: 
+[^3]: i.e.in essence united.
 
-[^4]: 
+[^4]: "to nowtyn."
 
-[^5]: 
+[^5]: "nowtid of." de Cressy: "naughted (emptied)."
 
-[^6]: 
+[^6]: surpasseth.
 
 
 ---

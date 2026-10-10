@@ -32,11 +32,11 @@ and so greatly to be hated that it may be likened to no pain which is not sin. A
 And [when] we give our intent to love and meekness, by the working of mercy and grace we are made all fair and clean. As mighty and as wise as God is to save men, so willing He is. For Christ Himself is [the] ground of all the laws of Christian men, and He taught us to do good against ill: here may we see that He is Himself this charity, and doeth to us as He teacheth us to do. For He willeth that we be like Him in wholeness of endless love to ourself and to our
 even-Christians: no more than His love is broken to us for our sin, no more willeth He that our love be broken to ourself and to our even-Christians: but [that we] endlessly hate the sin and endlessly love the soul, as God loveth it. Then shall we hate sin like as God hateth it, and love the soul as God loveth it. And this word that He said is an endless comfort: *I keep thee securely.*
 
-[^1]: 
+[^1]: "he," that is, the soul.
 
-[^2]: 
+[^2]: A naturally-loving, filial human soul.
 
-[^3]: 
+[^3]: A naturally-loving, filial human soul.
 
 
 ---

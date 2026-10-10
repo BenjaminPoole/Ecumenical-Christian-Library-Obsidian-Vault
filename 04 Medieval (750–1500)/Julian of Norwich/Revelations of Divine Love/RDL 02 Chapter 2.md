@@ -32,17 +32,17 @@ For the Third [petition], by the grace of God and teaching of Holy Church I conc
 
 These two desires aforesaid passed from my mind, but the third dwelled with me continually.
 
-[^1]: 
+[^1]: that cowde no letter = unskilled in letters.
 
-[^2]: 
+[^2]: thought of, designed.
 
-[^3]: 
+[^3]: MS.. "speed."
 
-[^4]: 
+[^4]: i.e. natural.
 
-[^5]: 
+[^5]: MS. "wilful"=earnest, with set will.
 
-[^6]: 
+[^6]: For these wounds see xvii. p. 40, xxvii. p. 56, xxviii., lxxii. and xxxix.
 
 
 ---

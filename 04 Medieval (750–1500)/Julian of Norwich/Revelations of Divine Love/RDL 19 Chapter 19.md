@@ -31,7 +31,7 @@ felt much in this time; and that part it was that repented. The inward part is a
 
 And in this I saw verily that the inward part is master and sovereign to the outward, and doth not charge itself with, nor take heed to, the will of that: but all the intent and will is set to be oned unto our Lord Jesus. That the outward part should draw the inward to assent was not shewed to me; but that the inward draweth the outward by grace, and both shall be oned in bliss without end, by the virtue of Christ,—*this* was shewed.
 
-[^1]: 
+[^1]: see xxxv. and lv.
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 72"
+title: "Chapter 82"
 author: "Julian of Norwich"
 work: "Revelations of Divine Love"
 section: 82
@@ -13,7 +13,7 @@ tags:
   - julian-of-norwich
 ---
 
-# Chapter 72
+# Chapter 82
 
 ### “In falling and in rising we are ever preciously kept in one Love ”
 
@@ -26,15 +26,15 @@ And by the great desire that I saw in our blessed Lord that we shall live in thi
 in falling and in rising we are ever preciously kept in one Love. For in the Beholding of God we fall not, and in the beholding of self we stand not; and both these [manners of beholding] be sooth[^4] as to my sight. But the Beholding of our Lord God is the highest soothness. Then are we greatly bound to God[^5] [for] that He willeth in this living to shew us this high soothness. And I understood that while we be in this life it is full speedful to us that we see both these at once. For the higher
 Beholding keepeth us in spiritual solace and true enjoying in God; [and] that other that is the lower Beholding keepeth us in dread and maketh us ashamed of ourself. But our good Lord willeth ever that we hold us much more in the Beholding of the higher, and [yet] leave not the knowing of the lower, unto the time that we be brought up above, where we shall have our Lord Jesus unto our meed and be fulfilled of joy and bliss without end.
 
-[^1]: 
+[^1]: i.e. truth. See xxvii., "It is sooth that sin is cause of all this pain."
 
-[^2]: 
+[^2]: ch. li.
 
-[^3]: 
+[^3]: i.e. "demandeth not that we live."
 
-[^4]: 
+[^4]: i.e. truth, trueness. "Both these ben soth, as to my syte. But the beholdyng of our Lord God is the heyest sothnes." See chaps. xlv., lii., etc., the two "Deemings": the Beholding by God of the higher Self and the Beholding by man of the lower self.
 
-[^5]: 
+[^5]: in gratitude, obligation.
 
 
 ---

@@ -38,19 +38,19 @@ This fair lovely word *Mother*, it is so sweet and so close in Nature of itself[
 The Kindly,[^6] loving Mother that witteth and knoweth the need of her child, she keepeth it full tenderly, as the nature and condition of Motherhood will. And as it waxeth in age, she changeth her working, but not her love. And when it is waxen of more age, she suffereth that it be beaten[^7] in breaking down of vices, to make the child receive virtues and graces. This working, with all that be fair and good, our Lord doeth it in them by whom it is done: thus He is our Mother in Nature by the working
 of Grace in the lower part for love of the higher part. And He willeth that we know this: for He will have all our love fastened to Him. And in this I saw that all our duty that we owe, by God’s bidding, to Fatherhood and Motherhood, for [reason of] God’s Fatherhood and Motherhood is fulfilled in true loving of God; which blessed love Christ worketh in us. And this was shewed in all [the Revelations] and especially in the high plenteous words where He saith: *It is I that thou lovest*.
 
-[^1]: 
+[^1]: Our Mother by Nature, our Mother in Grace.
 
-[^2]: 
+[^2]: These clauses, probably omitted by mistake, are in S. de Cressy's version.
 
-[^3]: 
+[^3]: S. de Cressy has "sustained." See lvii. p. 139.
 
-[^4]: 
+[^4]: "I it am."
 
-[^5]: 
+[^5]: "so kynd of the self."
 
-[^6]: 
+[^6]: "kynde," "kind."
 
-[^7]: 
+[^7]: "bristinid."
 
 
 ---

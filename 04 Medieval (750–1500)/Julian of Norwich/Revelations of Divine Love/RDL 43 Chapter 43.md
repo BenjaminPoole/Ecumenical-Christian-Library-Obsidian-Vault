@@ -39,9 +39,9 @@ Holy Ghost, so long till we shall die in longing, for love. And then shall we al
 
 And then shall we see God face to face, homely and fully. The creature that is made shall see and endlessly behold God which is the Maker. For thus may no man see God and live after, that is to say, in this deadly life. But when He of His special grace will shew Himself here, He strengtheneth the creature above its self, and He measureth the Shewing, after His own will, as it is profitable for the time.
 
-[^1]: 
+[^1]: "supple and buxum."
 
-[^2]: 
+[^2]: To express the fulness of spiritual perception the mystic seizes on all the five sense-perceptions as symbols, For the last word S. de Cressy gives again the word "smelling" (rendered here, above, by "in-breathing"). Collins reads the Brit. Mus. MS. as "following"; but the word there is "swelowyng . "=swallowing.
 
 
 ---

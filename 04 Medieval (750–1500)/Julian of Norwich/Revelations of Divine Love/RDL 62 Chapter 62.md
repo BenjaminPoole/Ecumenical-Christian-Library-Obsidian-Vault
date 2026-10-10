@@ -30,15 +30,15 @@ But let no man nor woman take this singularly to himself: for it is not so, it i
 
 precious Christ, and to Him was this fair nature adight[^5] for the worship and nobility of man’s making, and for the joy and the bliss of man’s salvation even as He saw, wist, and knew from without beginning.
 
-[^1]: 
+[^1]: "our brekyngs and our nowtyngs."
 
-[^2]: 
+[^2]: "kynde."
 
-[^3]: 
+[^3]: "kindhede."
 
-[^4]: 
+[^4]: "kyndes."
 
-[^5]: 
+[^5]: i.e. made ready, prepared, appointed.
 
 
 ---

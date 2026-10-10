@@ -31,11 +31,11 @@ And I saw that homely and sweetly was this shewed, and that the age of every man
 
 For I saw that whene’er what time a man or woman is truly turned to God,—for one day’s service and for his endless will he shall have all these three decrees of bliss. And the more the loving soul seeth this courtesy of God, the liefer he[^3] is to serve him all the days of his life.
 
-[^1]: 
+[^1]: Ms. "solemne" -- ceremonial.
 
-[^2]: 
+[^2]: See lxxii. and lxxv.
 
-[^3]: 
+[^3]: Throughout this MS. the soul is referred to generally with the masculine pronoun; the feminine pronoun is never used, in any of its cases; the neuter sometimes occurs.
 
 
 ---

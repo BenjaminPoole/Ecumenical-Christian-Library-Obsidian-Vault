@@ -31,17 +31,17 @@ But our courteous Lord willeth not that His servants despair, for often nor for 
 
 in us, being and working; but we be not alway in peace and in love. But He willeth that we take heed thus that He is Ground of all our whole life in love; and furthermore that He is our everlasting Keeper and mightily defendeth us against our enemies, that be full fell and fierce upon us;—and so much our need is the more for [that] we give them occasion by our falling.[^6]
 
-[^1]: Judges ix. 53 .
+[^1]: "al forbetyth." S. de Cressy: "all to beateth," Judges ix. 53.
 
-[^2]: 
+[^2]: "otherwhile."
 
-[^3]: 
+[^3]: S de C.: "Dome's-man, i.e.. Confessarius."
 
-[^4]: 
+[^4]: MS. "will be cast in."
 
-[^5]: 
+[^5]: letteth not Him to love us.
 
-[^6]: 
+[^6]: See chap. lxviii. In both passages the Brit. Mus. MS. seems to have "him," not "hem" = them. The reading here might be: "For we give Him occasion by our falling" -- occasion to keep and defend us: and so in lxxviii.: "He keepeth us mightily and mercifully in the time that we are in our sin and among all our enemies that are full fell upon us; -- and so much we are in the more peril. For we give Him occasion thereto and know not our own need." Or possibly the sense is (1): He defendeth us "so much [as] our need is the more" [so much more as]; and (2) "so much [more as] we are in the more peril." But S. de Cressy's version has in both passages "them," and this reading agrees with chap. lxxvi.: "We have this [fear] by the stirring of our enemy and by our own folly and blindness" -- we who "fall often into sin."
 
 
 ---

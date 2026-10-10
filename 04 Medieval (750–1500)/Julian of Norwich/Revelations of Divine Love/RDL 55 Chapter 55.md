@@ -38,21 +38,21 @@ is sense-nature,[^7] suffered for the salvation of mankind.
 And these two parts [in Christ] were seen and felt in the Eighth Shewing, in which my body was fulfilled with feeling and mind of Christ’s Passion and His death, and furthermore with this was a subtile feeling and privy inward sight of the High Part which I was shewed in the same time when I could not, [even] for the friendly[^8] proffer [made to me], look up into Heaven: and that was because of that mighty beholding [that I had] of the Inward Life. Which Inward Life is that
 High Substance, that precious Soul, [of Christ], which is endlessly rejoicing in the Godhead.
 
-[^1]: 
+[^1]: "feythyn."
 
-[^2]: 
+[^2]: "of."
 
-[^3]: 
+[^3]: "sensualite."
 
-[^4]: 
+[^4]: Wisdom, Truth, Love or Goodness, p. 93.
 
-[^5]: 
+[^5]: the Sense-soul.
 
-[^6]: 
+[^6]: the Substance.
 
-[^7]: 
+[^7]: "sensualite."
 
-[^8]: 
+[^8]: "wher I myte not for the mene profir lokyn up on to hevyn." "mene" = medium, is perhaps a sub. in the gen. = intervenor's, intermediary's. See xix. p. 42 and xxxv. p. 70, S. de Cressy has: "Where I might not for the mean profer look up"; Collins: "for the meanwhile."
 
 
 ---

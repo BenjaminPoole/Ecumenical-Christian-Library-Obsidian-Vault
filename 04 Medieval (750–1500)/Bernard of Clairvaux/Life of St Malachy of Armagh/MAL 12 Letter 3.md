@@ -78,45 +78,45 @@ Order, for this will be of the greatest advantage to the house, and to
 you they will pay the greater heed. May your holiness have good health,
 being always mindful of us in Christ.
 
-[^1]: 
+[^1]: Mellifont had been founded a good while before the letter was written. Christian had returned to Clairvaux; and now after further instruction he was sent back, apparently as the bearer of the letter. The house had made good progress, but the buildings were still far from complete (§§ 2, 3).
 
-[^2]: Ps. cxix. 103 .
+[^2]: Ps. cxix. 103.
 
-[^3]: Ps. xxx. 4 .
+[^3]: Ps. xxx. 4.
 
-[^4]: 1 Cor. ii. 12 .
+[^4]: 1 Cor. ii. 12.
 
-[^5]: Rom. viii. 16 .
+[^5]: Rom. viii. 16.
 
-[^6]: 1 Cor xv. 10 .
+[^6]: 1 Cor xv. 10.
 
-[^7]: 1 Cor. iii. 22 .
+[^7]: 1 Cor. iii. 22.
 
-[^8]: Ps. lxxiv. 19 (vg.); Jer. xx. 13 .
+[^8]: Ps. lxxiv. 19 (vg.); Jer. xx. 13.
 
-[^9]: 2 Cor. v. 12 .
+[^9]: 2 Cor. v. 12.
 
-[^10]: 2 Cor. x. 17 ; 1 Cor. i. 31 .
+[^10]: 2 Cor. x. 17; 1 Cor. i. 31.
 
-[^11]: 1 Sam. i. 18 , etc.
+[^11]: 1 Sam. i. 18, etc.
 
-[^12]: Ps. lxxx. 15 .
+[^12]: Ps. lxxx. 15.
 
-[^13]: 
+[^13]: Apparently the returned brothers mentioned below.
 
-[^14]: 
+[^14]: Cp. the passage quoted p. 170.
 
-[^15]: 1 Thess. iv. 1 .
+[^15]: 1 Thess. iv. 1.
 
-[^16]: Josh. x. 6 .
+[^16]: Josh. x. 6.
 
-[^17]: vii. 52 f.); and we have one instance of an abbot of a daughter house—Humbert of Igny—who resigned his office and returned to Clairvaux against St. Bernard's will ( 141).
+[^17]: The monks of Clairvaux seem to have been reluctant to undertake work elsewhere, when St. Bernard desired them to do so (V.P. vii. 52 f.); and we have one instance of an abbot of a daughter house—Humbert of Igny—who resigned his office and returned to Clairvaux against St. Bernard's will (Ep. 141).
 
-[^18]: . Read .
+[^18]: Printed text, fratrum. Read fratres.
 
-[^19]: 
+[^19]: Evidently Christian did not prove a satisfactory abbot. This may in part account for the return of the monks who went with him to Ireland.
 
-[^20]: 
+[^20]: Of this Robert, apparently the architect of Mellifont, we know nothing; for suggestions that he should be identified with one or other of the monks of Clairvaux who bore the same name are mere guesses.
 
 [^21]: 1 Pet. i. 14 (vg., inexact quotation).
 

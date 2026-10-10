@@ -42,23 +42,23 @@ I marvelled at this sudden change; for methought it was a privy working of God, 
 
 Then came suddenly to my mind that I should desire the second wound of our Lord’s gracious gift: that my body might be fulfilled with mind and feeling of His blessed Passion. For I would that His pains were my pains, with compassion and afterward longing to God. But in this I desired never bodily sight nor shewing of God, but compassion such as a kind[^9] soul might have with our Lord Jesus, that for love would be a mortal man: and therefore I desired to suffer with Him.
 
-[^1]: 
+[^1]: "I langorid forth"=languished on.
 
-[^2]: 
+[^2]: I thought often that I was about to die.
 
-[^3]: 
+[^3]: Or it may be, as in de Cressy's version: May my living be no longer to Thy worship?
 
-[^4]: 
+[^4]: i.e. could.
 
-[^5]: 
+[^5]: i.e. could.
 
-[^6]: 
+[^6]: straight forward.
 
-[^7]: 
+[^7]: MS. "beside."
 
-[^8]: 
+[^8]: MS. "over."
 
-[^9]: 
+[^9]: "kinde," true to its nature that was made after the likeness of the Creating Son of God, the type and the Head of Mankind, -- therefore loving, and sympathetic with Him, and compassionate of His earthly sufferings: Who, Himself, for Love's sake, suffered as man.
 
 
 ---

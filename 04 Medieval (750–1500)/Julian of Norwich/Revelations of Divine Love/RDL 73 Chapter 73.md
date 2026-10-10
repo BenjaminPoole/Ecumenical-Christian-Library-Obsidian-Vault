@@ -33,17 +33,17 @@ And this dread we take sometime for a meekness, but it is a foul blindness and a
 despise it as we do another sin, that we know [as sin]: for it cometh [subtly] of Enmity, and it is against truth. For it is God’s will that of all the properties of the blissful Trinity, we should have most sureness and comfort in Love: for Love maketh Might and Wisdom full meek to us. For right as by the courtesy of God He forgiveth our sin after the time that we repent us, right so willeth He that *we* forgive our sin, as anent our unskilful heaviness and our
 doubtful dreads.
 
-[^1]: 
+[^1]: "for unknowing."
 
-[^2]: 
+[^2]: seen as Might, Wisdom, Love.
 
-[^3]: 
+[^3]: i.e. equal.
 
-[^4]: 
+[^4]: i.e. Julian (xiii., xxiv., xlvi.)
 
-[^5]: 
+[^5]: "astynten."
 
-[^6]: 
+[^6]: S. de Cressy: "a wickedness"; but the MS. word is "waykenes."
 
 
 ---

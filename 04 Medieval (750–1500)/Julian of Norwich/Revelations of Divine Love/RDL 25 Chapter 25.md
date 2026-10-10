@@ -36,9 +36,9 @@ And He willeth that it be known; that [so] all those
 that please them in Him should please them in her, and in the pleasance that He hath in her and she in Him.[^1] And, to more understanding, He shewed this example: *As if a man love a creature singularly, above all creatures*, he willeth to make all creatures to love and to have pleasance in that creature that he loveth so greatly. And in this word that Jesus said: *Wilt thou see her?* methought it was the most pleasing word that He might have given me of her, with
 that ghostly Shewing that He gave me of her. For our Lord shewed me nothing in special but our Lady Saint Mary; and her He shewed three times.[^2] The first was as she was with Child; the second was as she was in her sorrows under the Cross; the third is as she is now in pleasing, worship, and joy.
 
-[^1]: 
+[^1]: "And he wil that it be knowen that al those that lyke in him should lyken in hir and in the lykyng that he hath in hir and she in him."
 
-[^2]: 
+[^2]: See (1) iv. (referred to in vii.); (2) xviii.
 
 
 ---

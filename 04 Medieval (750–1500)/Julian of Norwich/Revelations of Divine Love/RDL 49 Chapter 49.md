@@ -33,11 +33,11 @@ Thus saw I that God is our very Peace, and He is our sure Keeper when we are our
 we are all in peace and in love, we find no contrariness, nor no manner of letting through that contrariness which is now in us; [nay], our Lord of His Goodness maketh it to us full profitable. For that contrariness is cause of our tribulations and all our woe, and our Lord Jesus taketh them and sendeth them up to Heaven, and there are they made more sweet and delectable than heart may think or tongue may tell. And when we come thither we shall find them ready, all
 turned into very fair and endless worships. Thus is God our steadfast Ground: and He shall be our full bliss and make us unchangeable, as He is, when we are there.
 
-[^1]: 
+[^1]: a touch.
 
-[^2]: 
+[^2]: "buxumhede."
 
-[^3]: 
+[^3]: "liketh."
 
 
 ---

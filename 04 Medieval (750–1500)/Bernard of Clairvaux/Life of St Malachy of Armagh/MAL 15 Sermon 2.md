@@ -210,207 +210,207 @@ sweetly burnest within, by the gift of our Lord Jesus Christ, who with
 the Father and the Holy Spirit reigneth One God, world without
 end.—Amen.
 
-[^1]: on November 2, in a year later than 1148. I put it in 1149 because of its striking coincidences with the , which was written early in that year (see p. lxv). There is also a possible echo (§ 3) of i. which belongs to the same year ( clxxxii. 723). These, together with two coincidences of phrase with other writings of St. Bernard, are pointed out in the notes. See xxxv. 260 ff.
+[^1]: It is plain from § 7 that this sermon was preached on an anniversary of Malachy's death, i.e. on November 2, in a year later than 1148. I put it in 1149 because of its striking coincidences with the Life, which was written early in that year (see p. lxv). There is also a possible echo (§ 3) of De Cons. i. which belongs to the same year (P.L. clxxxii. 723). These, together with two coincidences of phrase with other writings of St. Bernard, are pointed out in the notes. See R.I.A. xxxv. 260 ff.
 
-[^2]: 2 Cor. v. 6 .
+[^2]: 2 Cor. v. 6.
 
-[^3]: Rom. xii. 15 .
+[^3]: Rom. xii. 15.
 
-[^4]: Ps. lxviii. 3 .
+[^4]: Ps. lxviii. 3.
 
-[^5]: Ecclus. xliv. 7 .
+[^5]: Ecclus. xliv. 7.
 
 [^6]: Ecclus. xliv. 16 (vg.).
 
-[^7]: Ecclus. xliv. 17 .
+[^7]: Ecclus. xliv. 17.
 
-[^8]: Luke i. 75 .
+[^8]: Luke i. 75.
 
-[^9]: 1 Cor. ix. 18 .—Cp. , § 43 (p. 84).
+[^9]: 1 Cor. ix. 18.—Cp. Life, § 43 (p. 84).
 
-[^10]: Eph. vi. 17 .
+[^10]: Eph. vi. 17.
 
-[^11]: Matt. xi. 30 .
+[^11]: Matt. xi. 30.
 
 [^12]: Ps. xvi. 5 (vg.).
 
-[^13]: Isa. xlviii. 20 ; Jer. xxv. 31 .
+[^13]: Isa. xlviii. 20; Jer. xxv. 31.
 
-[^14]: Ps. ii. 8 .
+[^14]: Ps. ii. 8.
 
-[^15]: 
+[^15]: 2 Pet. ii. 1.
 
-[^16]: 1 Cor. vi. 20 .
+[^16]: 1 Cor. vi. 20.
 
-[^17]: Acts xx. 28 .
+[^17]: Acts xx. 28.
 
-[^18]: 2 Cor. xi. 7 .
+[^18]: 2 Cor. xi. 7.
 
-[^19]: 
+[^19]: Gratum erat munus gratuitum.
 
-[^20]: Matt. vi. 22 ; Luke xi. 34 .
+[^20]: Matt. vi. 22; Luke xi. 34.
 
-[^21]: Hab. iii. 13 .
+[^21]: Hab. iii. 13.
 
-[^22]: Matt. vi. 22 , 23 ; Luke xi. 34 , 35 .
+[^22]: Matt. vi. 22, 23; Luke xi. 34, 35.
 
 [^23]: Ps. cxi. 2 (vg.).
 
-[^24]: Gen. i. 31 .
+[^24]: Gen. i. 31.
 
-[^25]: Ps. lxviii. 5 .
+[^25]: Ps. lxviii. 5.
 
-[^26]: 2 Cor. ix. 7 .
+[^26]: 2 Cor. ix. 7.
 
-[^27]: 1 Cor. ix. 22 .
+[^27]: 1 Cor. ix. 22.
 
-[^28]: Jas. iv. 6 ; 1 Pet. v. 5 .
+[^28]: Jas. iv. 6; 1 Pet. v. 5.
 
-[^29]: , § 60.
+[^29]: See Life, § 60.
 
-[^30]: 1 John iv. 6 .
+[^30]: 1 John iv. 6.
 
-[^31]: With A I omit .
+[^31]: Printed text, Ipse enim est. With A I omit enim.
 
-[^32]: Josh. vii. 15 , etc.
+[^32]: Josh. vii. 15, etc.
 
-[^33]: (= ) for of the printed text.
+[^33]: So A: cicius (= citius) ibat for riuus ibat of the printed text.
 
-[^34]: , §§ 58, 59; where there are many similarities in phraseology to the present passage. In both places it is connected with the miraculous blinding of the king, immediately preceding it here, immediately following it there.
+[^34]: The story is told much more fully in Life, §§ 58, 59; where there are many similarities in phraseology to the present passage. In both places it is connected with the miraculous blinding of the king, immediately preceding it here, immediately following it there.
 
 [^35]: Ps. lxxxvi. 5 (vg.).
 
-[^36]: , § 8: "He was reverenced by all, as the one father of all"; and of Malachy, § 33: "the loving father of all."
+[^36]: Cp. the description of Malchus, Life, § 8: "He was reverenced by all, as the one father of all"; and of Malachy, § 33: "the loving father of all."
 
-[^37]: Matt. xxiii. 37 .
+[^37]: Matt. xxiii. 37.
 
 [^38]: Ps. lxi. 4 (vg.).
 
-[^39]: , § 42: "Neither sex nor age, nor condition nor profession, is held in account."
+[^39]: Cp. Life, § 42: "Neither sex nor age, nor condition nor profession, is held in account."
 
 [^40]: Ps. xxxv. 10
 
 [^41]: Ps. iv. 4 (vg.).
 
-[^42]: Prov. xvi. 32 .
+[^42]: Prov. xvi. 32.
 
 [^43]: Job xxxvi. 18 (vg.).
 
-[^44]: 
+[^44]: Non urebatur illa, sed utebatur.
 
-[^45]: 
+[^45]: Utriusque hominis sui.
 
-[^46]: 1 Tim. v. 22 .
+[^46]: 1 Tim. v. 22.
 
-[^47]: i. 6: "If you desire wholly to belong to all ... I praise your humility, but only if it is complete. But how can it be complete if you exclude yourself? And you are a man. Then, that your humanity also may be complete, let the bosom which receives all gather you also within itself ... wherefore, where all possess you let you yourself also be one of those who possess."
+[^47]: Cp. De Cons. i. 6: "If you desire wholly to belong to all ... I praise your humility, but only if it is complete. But how can it be complete if you exclude yourself? And you are a man. Then, that your humanity also may be complete, let the bosom which receives all gather you also within itself ... wherefore, where all possess you let you yourself also be one of those who possess."
 
-[^48]: ii. 383.
+[^48]: Lucan, Phars. ii. 383.
 
-[^49]: iv. 12, "In ease not taking ease;" , § 43, "Quiet often, but by no means at any time taking ease."
+[^49]: Cp. De Cons. iv. 12, "In ease not taking ease;" Life, § 43, "Quiet often, but by no means at any time taking ease."
 
-[^50]: Ps. cxix. 23 .
+[^50]: Ps. cxix. 23.
 
 [^51]: Eccles. ii. 14 (inexact quotation).
 
-[^52]: Luke iv. 22 .
+[^52]: Cp. Luke iv. 22.
 
-[^53]: The text seems to be corrupt. Read
+[^53]: Tantillus. The text seems to be corrupt. Read tam laetus?
 
-[^54]: , § 43: "Yea, what was there that was not edifying," etc.
+[^54]: Cp. Life, § 43: "Yea, what was there that was not edifying," etc.
 
 [^55]: Ps. xx. 3 (vg.).
 
-[^56]: 2 Cor. ii. 15 .
+[^56]: 2 Cor. ii. 15.
 
-[^57]: 1 Thess. i. 4 (vg.); 2 Thess. ii. 13 .
+[^57]: 1 Thess. i. 4 (vg.); 2 Thess. ii. 13.
 
-[^58]: , with a Latin termination. For its origin see , § 12.
+[^58]: That is, Malachias, the Hebrew for my angel, with a Latin termination. For its origin see Life, § 12.
 
-[^59]: for of the printed text. See xxxv. 260-262.
+[^59]: At this point, with A, I omit a passage which is identical with the first half of Serm. i. § 5, and interrupts the argument. With A, also, in the following sentence I read Laetemur et nos dilectissimi quod for Laetemur quod of the printed text. See R.I.A. xxxv. 260-262.
 
-[^60]: Judg. xiii. 20 .
+[^60]: Judg. xiii. 20.
 
-[^61]: Dan. vi. 13 ; Ezra iv. 1 .
+[^61]: Dan. vi. 13; Ezra iv. 1.
 
-[^62]: Ps. ix. 2 .
+[^62]: Ps. ix. 2.
 
-[^63]: 
+[^63]: Curia.
 
-[^64]: 
+[^64]: Cui sit cura nostri.
 
-[^65]: 
+[^65]: Cp. Lett. iv. § 2.
 
-[^66]: 
+[^66]: Informauit.
 
-[^67]: 
+[^67]: Confirmauit.
 
-[^68]: 
+[^68]: Song of Three Children, 16.
 
-[^69]: Ps. xliii. 4 .
+[^69]: Ps. xliii. 4.
 
-[^70]: Jer. ix. 1 .
+[^70]: Jer. ix. 1.
 
-[^71]: Ps. xlv. 15 .
+[^71]: Ps. xlv. 15.
 
-[^72]: Luke i. 68 .
+[^72]: Luke i. 68.
 
-[^73]: Matt. iv. 5 .
+[^73]: Matt. iv. 5.
 
-[^74]: Ps. cxxvi. 1 , 4 (vg.).
+[^74]: Ps. cxxvi. 1, 4 (vg.).
 
-[^75]: Luke i. 47 .
+[^75]: Luke i. 47.
 
-[^76]: 1 Cor. vi. 17 .
+[^76]: 1 Cor. vi. 17.
 
-[^77]: v. 2, quoted p. 127, n. 13, and the sermon on the Marriage of the Soul with the Word ( lxxxiii. 6), in which St. Bernard, quoting 1 Cor. vi. 17 , says, "Love ... joins the two in one spirit, makes them no longer two but one." Cp. also xxvi. 5: "He that is joined to God is one spirit, and is wholly changed into a certain divine feeling, and cannot think of or mind anything but God, and that which God thinks and minds, being full of God." For the last phrase see Ignatius, 14.
+[^77]: See De Cons. v. 2, quoted p. 127, n. 13, and the sermon on the Marriage of the Soul with the Word (Cant. lxxxiii. 6), in which St. Bernard, quoting 1 Cor. vi. 17, says, "Love ... joins the two in one spirit, makes them no longer two but one." Cp. also Cant. xxvi. 5: "He that is joined to God is one spirit, and is wholly changed into a certain divine feeling, and cannot think of or mind anything but God, and that which God thinks and minds, being full of God." For the last phrase see Ignatius, Magn. 14.
 
-[^78]: Ps. xciii. 5 .
+[^78]: Ps. xciii. 5.
 
-[^79]: Ps. xxx. 4 .
+[^79]: Ps. xxx. 4.
 
-[^80]: Luke i. 75 .
+[^80]: Luke i. 75.
 
 [^81]: Ps. cxlv. 7 (vg.).
 
 [^82]: 1 Sam. xv. 17 (inexact quotation).
 
-[^83]: Luke i. 49 .
+[^83]: Luke i. 49.
 
 [^84]: Ps. cxlv. 5 (vg.).
 
-[^85]: Num. xi. 25 ; 2 Kings ii. 9 , 15 .
+[^85]: Num. xi. 25; 2 Kings ii. 9, 15.
 
-[^86]: Luke i. 17 .—See p. 151, n. 3.
+[^86]: Luke i. 17.—See p. 151, n. 3.
 
-[^87]: Ecclus. xlv. 5 .
+[^87]: Ecclus. xlv. 5.
 
-[^88]: , § 75, similarly applied.
+[^88]: The same phrase occurs in Life, § 75, similarly applied.
 
-[^89]: Isa. lxii. 3 .
+[^89]: Isa. lxii. 3.
 
 [^90]: Ps. lii. 8 (vg.).
 
 [^91]: Ps. xlv. 7 (vg.).
 
-[^92]: 
+[^92]: Epiphany Collect.
 
-[^93]: , § 47 (p. 88).
+[^93]: Cp. Life, § 47 (p. 88).
 
-[^94]: Isa. xxvii. 6 , combined with Hos. xiv. 5 , and Ecclus. xxxix. 14 .
+[^94]: Isa. xxvii. 6, combined with Hos. xiv. 5, and Ecclus. xxxix. 14.
 
-[^95]: Ecclus. xlv. 1 .
+[^95]: Ecclus. xlv. 1.
 
-[^96]: Ecclus. xxiv. 2 , 12 (vg.). The clauses containing the word assembly ( ) are omitted in R.V.
+[^96]: Ecclus. xxiv. 2, 12 (vg.). The clauses containing the word assembly (plenitudo) are omitted in R.V.
 
-[^97]: Ps. cxxxvi. 7 .
+[^97]: Ps. cxxxvi. 7.
 
-[^98]: John i. 4 .
+[^98]: John i. 4.
 
-[^99]: Ps. xlvi. 4 .
+[^99]: Ps. xlvi. 4.
 
-[^100]: Ecclus. l. 6 .
+[^100]: Ecclus. l. 6.
 
-[^101]: 1 John i. 7 , combined with 1 Thess. v. 5 .
+[^101]: 1 John i. 7, combined with 1 Thess. v. 5.
 
 [^102]: Isa. xviii. 4 (vg.).
 

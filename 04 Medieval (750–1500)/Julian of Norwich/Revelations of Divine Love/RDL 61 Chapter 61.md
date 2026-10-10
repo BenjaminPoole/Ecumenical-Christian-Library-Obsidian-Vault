@@ -41,13 +41,13 @@ Christ Jesus. For the food of mercy that is His dearworthy blood and precious wa
 
 It is His office to save us: it is His worship to do [for] us,[^4] and it is His will [that] we know it: for He willeth that we love Him sweetly and trust in Him meekly and mightily. And this shewed He in these gracious words: *I keep thee full surely*.
 
-[^1]: 
+[^1]: "clepyng." ; From the Ancren Riwle (Camden Society's version, edited by J. Morton, D.D.), p. 231: "The sixth comfort is, that our Lord, when He suffereth us to be tempted, playeth with us, as the mother with her young darling: she flies from him, and hides herself, and lets him sit alone, and look anxiously around, and call Dame! Dame! and weep awhile; and then she leapeth forth laughing, with outspread arms, and embraceth and kisseth him, and wipeth his eyes. In like manner, our Lord sometimes leaveth us alone, and withdraweth His grace, His comfort, and His support, so that we feel no delight in any good that we do, nor any satisfaction of heart; and yet, at that very time, our dear Father loveth us never the less, but doth it for the great love that He hath to us." p. 235: "The fourth reason why our Lord hideth Himself is, that thou mayest seek him more earnestly, and call, and weep after Him, as the little baby doth after his mother" ("ase deth thet lutel baban "-- in another manuscript 'lite barn' -- "efter his moder").
 
-[^2]: 
+[^2]: i.e. could.
 
-[^3]: 
+[^3]: "entend about."
 
-[^4]: 
+[^4]: S. de Cressy has here "to do it." This MS. seems to have: "to don us," possibly for to work at us, carry out our salvation to perfection, or, to take in hand for us, "to do for us." See The Paston Letters, vol. ii. (Letter 472), May 1463, "he prayid hym that he wold don for hym in hys mater, and gaf hym a reward; and withinne ryth short tym after, his mater sped."
 
 
 ---

@@ -22,6 +22,8 @@ tags:
 The early life of Malachy. Having been admitted to Holy Orders he
 associates with Malchus
 
+*1095.*
+
 1. Our Malachy, born in Ireland,[^1] of a barbarous people, was brought
 up there, and there received his education. But from the barbarism of
 his birth he contracted no taint, any more than the fishes of the sea
@@ -128,6 +130,8 @@ my soul."[^44]
 
 So he thought—and did; knowing that apart from deeds the thoughts of
 man are vanity.[^45]
+
+*c. 1112.*
 
 4. (3) There was a man in the city of Armagh,[^46] where Malachy was
 brought up—a holy man and of great austerity of life, a pitiless
@@ -278,6 +282,8 @@ deeds, his fame increased and he won a great name; so that Scots[^112]
 and Irish flowed together to him and he was reverenced by all as the one
 father of all.
 
+*1121*
+
 When therefore Malachy, having received the blessing of Father Imar, and
 having been sent by the bishop,[^113] came to him, after a prosperous
 journey, he was kindly received by the old man; and he remained with him
@@ -290,6 +296,8 @@ resorted, since he was to be useful to all. For he could not but be dear
 to those who knew him. In fact one thing happened in that period, by
 which in some measure he made manifest to men what had been known to
 God as being in him.
+
+*1127*
 
 9. A conflict having taken place between the king of South
 Munster[^116]—which is the southern part of Ireland—and his
@@ -353,279 +361,279 @@ without purpose that the Lord so magnified him then before kings,[^136]
 but he was a chosen vessel unto Him, about to bear His name before
 kings and princes.[^137]
 
-[^1]: 
+[^1]: Malachy was born in 1095, before November. See below, p. 130. n. 2.
 
-[^2]: , citizen-like.
+[^2]: Urbanum, citizen-like.
 
-[^3]: Eph. ii. 19 .
+[^3]: Eph. ii. 19.
 
-[^4]: Deut. xxxii. 13 .
+[^4]: Deut. xxxii. 13.
 
-[^5]: make the curious statement that "Mael Maedoc o Mongair and his father Mughron" died in 1102. This is perhaps sufficient evidence that Malachy's father was Mughron Ua Morgair, who according to was (chief professor) at Armagh, and died at Mungret, Co. Limerick, on October 5, 1102. Malachy was then only seven or eight years of age. Thus we may account for the large part taken by his mother in his early education. But a poem attributed to Malachy ( 88) calls his father Dermot. The form of the surname varies. It is usually written Ua Morgair; but , (Ua Mongain), ( ), and the Yellow Book of Lecan (T.C.D. H. 2. 16, p. 327 c), have Ua Mongair. The form Ua Morgair is certainly right, for it appears in the contemporary Book of Leinster ( xxxv. 355-360); and Ua Mongair obviously arose out of it through confusion of the similar letters and . The name must have been unfamiliar, if it had not died out, when the mistake was made. Therefore we may accept Colgan's statement that the family was known as O'Dogherty in his day ( , p. 299). If so, they had probably only resumed an earlier surname: for according to MacFirbis (Royal Irish Academy . 23 P. 1, p. 698) Malachy was of the same stock as St. Mael Brigte, son of Tornan. The latter, as well as the O'Doghertys, were of the race of Conall Gulban (Adamnan, Genealogy opp. p. 342).
+[^5]: A.T. make the curious statement that "Mael Maedoc o Mongair and his father Mughron" died in 1102. This is perhaps sufficient evidence that Malachy's father was Mughron Ua Morgair, who according to A.U. was ard fer légind (chief professor) at Armagh, and died at Mungret, Co. Limerick, on October 5, 1102. Malachy was then only seven or eight years of age. Thus we may account for the large part taken by his mother in his early education. But a poem attributed to Malachy (L.B. 88) calls his father Dermot. The form of the surname varies. It is usually written Ua Morgair; but A.T., A.I. (Ua Mongain), L.B. (l.c.), and the Yellow Book of Lecan (T.C.D. ms. H. 2. 16, p. 327 c), have Ua Mongair. The form Ua Morgair is certainly right, for it appears in the contemporary Book of Leinster (R.I.A. xxxv. 355-360); and Ua Mongair obviously arose out of it through confusion of the similar letters r and n. The name must have been unfamiliar, if it had not died out, when the mistake was made. Therefore we may accept Colgan's statement that the family was known as O'Dogherty in his day (Trias, p. 299). If so, they had probably only resumed an earlier surname: for according to MacFirbis (Royal Irish Academy ms. 23 P. 1, p. 698) Malachy was of the same stock as St. Mael Brigte, son of Tornan. The latter, as well as the O'Doghertys, were of the race of Conall Gulban (Adamnan, Genealogy opp. p. 342).
 
-[^6]: 2 Sam. vii. 9 .
+[^6]: 2 Sam. vii. 9.
 
-[^7]: i. 1, 2, 9, 10. Malachy's mother was probably a member of the family of O'Hanratty. See below, p. 27, n. 2.
+[^7]: It is interesting to note the emphasis laid by St. Bernard on the influence of Malachy's mother on his life. How much he himself owed to his mother Aleth is well known. See V.P. i. 1, 2, 9, 10. Malachy's mother was probably a member of the family of O'Hanratty. See below, p. 27, n. 2.
 
-[^8]: Prov. viii. 22 .
+[^8]: Prov. viii. 22.
 
-[^9]: Ps. xvi. 11 .
+[^9]: Ps. xvi. 11.
 
-[^10]: Ps. xxxiv. 11 .
+[^10]: Ps. xxxiv. 11.
 
-[^11]: i. 3. It was written before the .
+[^11]: The description of Malachy's boyhood by St. Bernard may be compared with that given of his own boyhood in V.P. i. 3. It was written before the Life of Malachy.
 
-[^12]: Neh. ix. 20 ; Ps. cxliii. 10 .
+[^12]: Neh. ix. 20; Ps. cxliii. 10.
 
-[^13]: Ecclus. xv. 2 , 3 (vg.).
+[^13]: Ecclus. xv. 2, 3 (vg.).
 
-[^14]: 2 Cor. xii. 6 .
+[^14]: 2 Cor. xii. 6.
 
-[^15]: Eph. iv. 2 .
+[^15]: Eph. iv. 2.
 
-[^16]: Gal. i. 14 .
+[^16]: Gal. i. 14.
 
-[^17]: Ps. cxix. 99 .
+[^17]: Ps. cxix. 99.
 
-[^18]: 1 John ii. 20 .
+[^18]: 1 John ii. 20.
 
 [^19]: Ps. lxxvii. 4 (vg.).
 
-[^20]: Ps. i. 2 .
+[^20]: Ps. i. 2.
 
-[^21]: 1 Tim. ii. 8 .
+[^21]: 1 Tim. ii. 8.
 
-[^22]: 
+[^22]: Virus uirtutum.
 
-[^23]: 
+[^23]: Armagh. See § 4.
 
-[^24]: vi. 465.
+[^24]: Cp. Virg. Aen. vi. 465.
 
-[^25]: 1 Kings viii. 22 , 54 .
+[^25]: 1 Kings viii. 22, 54.
 
-[^26]: 
+[^26]: Fortiori.
 
-[^27]: Luke ii. 40 , 52 .
+[^27]: Luke ii. 40, 52.
 
-[^28]: John ii. 25 .
+[^28]: John ii. 25.
 
-[^29]: 1 Cor. xv. 10 .
+[^29]: 1 Cor. xv. 10.
 
-[^30]: 1 Kings xi. 28 .
+[^30]: 1 Kings xi. 28.
 
-[^31]: 1 John v. 19 .
+[^31]: 1 John v. 19.
 
-[^32]: 1 Cor. ii. 12 .
+[^32]: 1 Cor. ii. 12.
 
-[^33]: John ii. 4 (vg.).
+[^33]: Cp. John ii. 4 (vg.).
 
-[^34]: 2 Cor. vi. 14 .
+[^34]: 2 Cor. vi. 14.
 
-[^35]: 1 Cor. ii. 12 .
+[^35]: 1 Cor. ii. 12.
 
-[^36]: Matt. v. 6 .
+[^36]: Cp. Matt. v. 6.
 
 [^37]: 2 Cor. i. 12 (vg.).
 
-[^38]: John xiv. 30 , etc.
+[^38]: John xiv. 30, etc.
 
-[^39]: 2 Cor. iv. 7 .
+[^39]: 2 Cor. iv. 7.
 
-[^40]: Ps. xlv. 7 .
+[^40]: Ps. xlv. 7.
 
-[^41]: 
+[^41]: Collect of Mass for Travellers.
 
-[^42]: Ps. xxi. 3 .
+[^42]: Ps. xxi. 3.
 
-[^43]: Matt. x. 39 .
+[^43]: Matt. x. 39.
 
 [^44]: Ps. cxxxviii. 3 (vg.).
 
-[^45]: Ps. xciv. 11 .
+[^45]: Ps. xciv. 11.
 
-[^46]: , p. 28) inferred from his Christian name that he had some Danish blood in his veins. There is no certain indication of Malachy's age when he became his disciple. But he had reached adolescence (§ 3), and was old enough to choose his own teachers (§ 2). In 1112 he was seventeen years of age. We shall see that he long acknowledged Imar as his master: §§ 5, 6, 8, 12, 14, 16.
+[^46]: His name was Imar (§ 5). He was no doubt Imar O'Hagan, who founded the monastery of St. Paul and St. Peter at Armagh, and built a stone church for it which was consecrated on October 21, 1126. It was placed, either at its foundation or subsequently, under the rule of the regular canons of St. Augustine. Imar died on pilgrimage at Rome in 1134, and is commemorated in Gorman on August 13, and in Usuard on November 12. He was at this time evidently leading the life of an anchoret. Reeves (Churches, p. 28) inferred from his Christian name that he had some Danish blood in his veins. There is no certain indication of Malachy's age when he became his disciple. But he had reached adolescence (§ 3), and was old enough to choose his own teachers (§ 2). In 1112 he was seventeen years of age. We shall see that he long acknowledged Imar as his master: §§ 5, 6, 8, 12, 14, 16.
 
 [^47]: 1 Cor. ix. 27 (vg.).
 
-[^48]: ), on which Cellach put a shingle roof in 1125. According to Reeves ( , pp. 14, 28) it was probably on the site of the present Cathedral, from which the Abbey of St. Paul and St. Peter was distant 130 yards to the north. It was the principal church of Armagh till 1268. For an account of the life of such recluses as Imar the reader may be referred to B. MacCarthy, , p. 5 f.
+[^48]: That is, apparently, the great stone church (daimliac mór), on which Cellach put a shingle roof in 1125. According to Reeves (Churches, pp. 14, 28) it was probably on the site of the present Cathedral, from which the Abbey of St. Paul and St. Peter was distant 130 yards to the north. It was the principal church of Armagh till 1268. For an account of the life of such recluses as Imar the reader may be referred to B. MacCarthy, Codex Palatino-Vaticanus No. 830, p. 5 f.
 
-[^49]: Luke ii. 37 .
+[^49]: Luke ii. 37.
 
-[^50]: The word, as used by St. Bernard, seems to include the two notions of rule and example. It would seem that Malachy received some sort of monastic rule from Imar. Cp. § 7, "his monastery," and the reference to "the first day of his conversion" in § 43. Both passages imply that he belonged to a religious order. So in § 5 he is said to have been before the other disciples of Imar "in conversion." On later occasions he was subject to Imar's "command" (§§ 14, 16). It is not improbable that the disciples who gathered round Imar were the nucleus of the community which he founded at Armagh (note 1). If so, the inference is reasonable that Malachy became a regular canon of St. Augustine.
+[^50]: Formam. The word, as used by St. Bernard, seems to include the two notions of rule and example. It would seem that Malachy received some sort of monastic rule from Imar. Cp. § 7, "his monastery," and the reference to "the first day of his conversion" in § 43. Both passages imply that he belonged to a religious order. So in § 5 he is said to have been before the other disciples of Imar "in conversion." On later occasions he was subject to Imar's "command" (§§ 14, 16). It is not improbable that the disciples who gathered round Imar were the nucleus of the community which he founded at Armagh (note 1). If so, the inference is reasonable that Malachy became a regular canon of St. Augustine.
 
-[^51]: Matt. xi. 29 .
+[^51]: Matt. xi. 29.
 
-[^52]: 2 Tim. iv. 3 .
+[^52]: Cp. 2 Tim. iv. 3.
 
-[^53]: Matt. xv. 14 .
+[^53]: Matt. xv. 14.
 
-[^54]: Isa. liv. 13 ; John vi. 45 .
+[^54]: Isa. liv. 13; John vi. 45.
 
-[^55]: 1 Cor. iv. 3 .
+[^55]: 1 Cor. iv. 3.
 
-[^56]: Gal. i. 11 , 12 .
+[^56]: Gal. i. 11, 12.
 
-[^57]: Gal. ii. 2 .
+[^57]: Gal. ii. 2.
 
-[^58]: . I read with K ( ), and two of de Backer's MSS.
+[^58]: Printed text, hoc scit. I read sit with K (hec sit), and two of de Backer's MSS.
 
-[^59]: Luke ii. 35 .
+[^59]: Luke ii. 35.
 
-[^60]: Lam. iii. 27 , 28 (inexact quotation).
+[^60]: Lam. iii. 27, 28 (inexact quotation).
 
-[^61]: Heb. v. 8 .
+[^61]: Heb. v. 8.
 
-[^62]: vi.: "In truth I have learned nothing that can more effectively deserve the riches of the grace of the Lord than to sit and be silent, and always to condescend to men of low estate."
+[^62]: The rule of silence was very strictly observed by the Cistercians. This explains the stress laid by St. Bernard, here and elsewhere, on Malachy's practice. Cp. the Preface of Philip of Clairvaux to V.P. vi.: "In truth I have learned nothing that can more effectively deserve the riches of the grace of the Lord than to sit and be silent, and always to condescend to men of low estate."
 
 [^63]: Isa. xxxii. 17 (vg.).
 
 [^64]: Ps. cxix. 141 (vg.).
 
-[^65]: Lam. iii. 28 .
+[^65]: Lam. iii. 28.
 
-[^66]: John i. 14 , 18 .
+[^66]: John i. 14, 18.
 
-[^67]: Rom. viii. 29 .
+[^67]: Rom. viii. 29.
 
-[^68]: 
+[^68]: The technical word for entry into a religious order.
 
-[^69]: (1633), p. 101) that he is said to have been "brought up at Oxford" is probably as inaccurate as other assertions which he makes about him. Cellach was elected abbot of Armagh in August, 1105, and in the following month (September 23) he received Holy Orders. In 1106, while engaged on a visitation of Munster, he was consecrated bishop. Thus he departed from the precedent set by his eight predecessors, who were without orders (§ 19). He was one of the leaders of the Romanizing party in Ireland, and attended the Synod of Rathbreasail in 1110 (Keating, iii. 307). He died in his fiftieth year, at Ardpatrick, in co. Limerick, on April 1, 1129, and was buried on April 4 at Lismore. These facts are mainly gathered from the Annals. For more about Cellach, see p. xxxiv.
+[^69]: Cellach, archbishop of Armagh (§ 19), son of Aedh, and grandson of Maelisa, who was abbot of Armagh 1064-1091. He was born early in 1080. Of his childhood and youth we know nothing, for the statement of Meredith Hanmer (Chron. of Ireland (1633), p. 101) that he is said to have been "brought up at Oxford" is probably as inaccurate as other assertions which he makes about him. Cellach was elected abbot of Armagh in August, 1105, and in the following month (September 23) he received Holy Orders. In 1106, while engaged on a visitation of Munster, he was consecrated bishop. Thus he departed from the precedent set by his eight predecessors, who were without orders (§ 19). He was one of the leaders of the Romanizing party in Ireland, and attended the Synod of Rathbreasail in 1110 (Keating, iii. 307). He died in his fiftieth year, at Ardpatrick, in co. Limerick, on April 1, 1129, and was buried on April 4 at Lismore. These facts are mainly gathered from the Annals. For more about Cellach, see p. xxxiv.
 
-[^70]: 
+[^70]: Imar. See above p. 11, n. 1.
 
-[^71]: Luke xxiv. 29 .—Malachy can hardly have been more, he was probably less, than twenty-three years of age at this time. See p. 16, n. 2.
+[^71]: Luke xxiv. 29.—Malachy can hardly have been more, he was probably less, than twenty-three years of age at this time. See p. 16, n. 2.
 
-[^72]: deacon.
+[^72]: I.e. deacon.
 
-[^73]: vii. 11. 24).
+[^73]: It does not appear that deacons as such were specially concerned with the burial of the dead. The present passage, indeed, implies the contrary. Malachy was made deacon against his will; his care for the dead poor is mentioned as a work of piety, voluntarily superadded to the duties of his office. His sister (see below) would have been unlikely to ask him to abandon a practice which he could not decline. But there was ancient precedent for a deacon engaging in such work, of which Malachy may have been aware. At Alexandria throughout the persecution of Valerian, one of the deacons, Eusebius by name, not without danger to himself, prepared for burial the bodies of "the perfect and blessed martyrs" (Eus., H.E. vii. 11. 24).
 
-[^74]: The Greek of the Book of Tobit, followed by the English versions, calls the father Tobit, and the son Tobias; the Vulgate calls both Tobias. The text of chap. ii. is longer in the Vulgate than in the Greek and English, and neither of the verses (Vulg. 12, 23) from which St. Bernard here borrows words is represented in the latter.
+[^74]: Tobiae. The Greek of the Book of Tobit, followed by the English versions, calls the father Tobit, and the son Tobias; the Vulgate calls both Tobias. The text of chap. ii. is longer in the Vulgate than in the Greek and English, and neither of the verses (Vulg. 12, 23) from which St. Bernard here borrows words is represented in the latter.
 
 [^75]: Tobit ii. 12 (vg.).
 
-[^76]: Gen. iii. 12 f.
+[^76]: Cp. Gen. iii. 12 f.
 
-[^77]: 
+[^77]: She is mentioned again in § 11.
 
-[^78]: Matt. viii. 22 .
+[^78]: Matt. viii. 22.
 
 [^79]: Tobit ii. 23 (vg.).
 
-[^80]: Prov. xxvi. 5 .
+[^80]: Prov. xxvi. 5.
 
-[^81]: Ps. xii. 6 .
+[^81]: Ps. xii. 6.
 
-[^82]: 
+[^82]: Cellach and Imar.
 
-[^83]: 
+[^83]: Malachy completed his twenty-fifth year in 1120. See p. 130, n. 2. For the date of his ordination to the priesthood see p. 16, n. 2.
 
-[^84]: , vol. ii. p. 1482 f. From a very early date they were respectively twenty-five and thirty years, in accordance with the statement of the text, though there were some exceptions in remote places. The eighth-century Irish Canons, known as the , prescribe the same minimum ages for the diaconate and presbyterate, and add a clause, the gist of which seems to be that a bishop at the time of his consecration must be thirty or forty years of age (Wasserschleben, , 1885, p. 8). As late as the year 1089, at the Council of Melfi, presided over by Pope Urban II., it was decreed (can. 5, Mansi, xx. 723) that none should be admitted deacon under twenty-four or twenty-five years of age, or priest under thirty. But at the Council of Ravenna, 1315 (can. 2, xxv. 537), the ages were lowered to twenty and twenty-five respectively.
+[^84]: For the canons of councils which regulated the minimum age of deacons and priests reference may be made to the article "Orders, Holy," by the late Dr. Edwin Hatch in the Dictionary of Christian Antiquities, vol. ii. p. 1482 f. From a very early date they were respectively twenty-five and thirty years, in accordance with the statement of the text, though there were some exceptions in remote places. The eighth-century Irish Canons, known as the Hibernensis, prescribe the same minimum ages for the diaconate and presbyterate, and add a clause, the gist of which seems to be that a bishop at the time of his consecration must be thirty or forty years of age (Wasserschleben, Irische Kanonesammlung, 1885, p. 8). As late as the year 1089, at the Council of Melfi, presided over by Pope Urban II., it was decreed (can. 5, Mansi, xx. 723) that none should be admitted deacon under twenty-four or twenty-five years of age, or priest under thirty. But at the Council of Ravenna, 1315 (can. 2, ibid. xxv. 537), the ages were lowered to twenty and twenty-five respectively.
 
-[^85]: 
+[^85]: Cellach would hardly have understood the need for this apology. It is more than probable that he was ignorant of the canons referred to. He himself was ordained, apparently to the priesthood, in 1105, when he was under twenty-six, and consecrated bishop in 1106, when he was under twenty-seven years of age. St. Bernard himself seems to have been ordained priest when he was about twenty-five years old (Vacandard, i. 67).
 
-[^86]: probably soon after his twenty-fourth birthday. His admission to the diaconate may be placed at least a year earlier, in 1118. Indeed, if we could be sure that in Ireland the normal interval between admission to the diaconate and to the priesthood was at all as long as in other countries we might put it further back.
+[^86]: In other words he made him his vicar. This may well have been in 1120; for the Annals record that in that year Cellach made a visitation of Munster. It was quite natural that during a prolonged absence from his see he should leave its administration in the hands of one who had proved himself so capable as Malachy. And we shall see that this date harmonizes with other chronological data. If, then, we place the beginning of Malachy's vicariate in 1120, his ordination as priest, which appears to have been not much earlier, may be dated in 1119, when he was "about twenty-five years of age," i.e. probably soon after his twenty-fourth birthday. His admission to the diaconate may be placed at least a year earlier, i.e. in 1118. Indeed, if we could be sure that in Ireland the normal interval between admission to the diaconate and to the priesthood was at all as long as in other countries we might put it further back.
 
-[^87]: Luke viii. 5 .
+[^87]: Luke viii. 5.
 
-[^88]: 1 Pet. ii. 9 .
+[^88]: 1 Pet. ii. 9.
 
-[^89]: Rom. ii. 12 .
+[^89]: Rom. ii. 12.
 
-[^90]: Rom. xii. 11 .
+[^90]: Rom. xii. 11.
 
-[^91]: Matt. xxv. 24 ff.
+[^91]: Cp. Matt. xxv. 24 ff.
 
 [^92]: Jer. i. 10 (vg.).
 
-[^93]: Isa. xl. 4 .
+[^93]: Isa. xl. 4.
 
-[^94]: Ps. xix. 5 .
+[^94]: Ps. xix. 5.
 
-[^95]: Isa. x. 17 .
+[^95]: Cp. Isa. x. 17.
 
 [^96]: Ps. lxxiv. 6 (vg.).
 
-[^97]: 11.
+[^97]: Cp. Ignatius, Trall. 11.
 
 [^98]: Ps. lxxviii. 49 (vg.: inexact quotation).
 
-[^99]: Ezek. v. 11 , etc.
+[^99]: Ezek. v. 11, etc.
 
-[^100]: Rev. vi. 13 .
+[^100]: Cp. Rev. vi. 13.
 
 [^101]: Ps. i. 4 (vg.).
 
-[^102]: , in Ussher, 500): "I have endeavoured to describe the canonical custom in saying the hours and performing the office of the whole ecclesiastical order ... to the end that the various and schismatical orders, with which almost the whole of Ireland has been deluded, may give place to the one Catholic and Roman office."
+[^102]: Malachy acted in accordance with the aims of Gilbert, bishop of Limerick, who about the year 1108, wrote these words (De Usu Ecclesiastico, in Ussher, 500): "I have endeavoured to describe the canonical custom in saying the hours and performing the office of the whole ecclesiastical order ... to the end that the various and schismatical orders, with which almost the whole of Ireland has been deluded, may give place to the one Catholic and Roman office."
 
-[^103]: 
+[^103]: Armagh.
 
-[^104]: , Nov. ii. 1, p. 147), that "his monastery" was Bangor is negatived by the whole context, which refers only to Armagh.
+[^104]: This was probably the monastery of SS. Peter and Paul. See p. 11, n. 5. J. de Backer's suggestion (AA.SS., Nov. ii. 1, p. 147), that "his monastery" was Bangor is negatived by the whole context, which refers only to Armagh.
 
-[^105]: ) seems to indicate St. Bernard's belief that it was only in comparatively recent times that the usages to which he refers had fallen into desuetude.
+[^105]: The word "anew" (de nouo) seems to indicate St. Bernard's belief that it was only in comparatively recent times that the usages to which he refers had fallen into desuetude.
 
-[^106]: 
+[^106]: It is interesting to observe that Confession is here not ranked as a sacrament.
 
-[^107]: 
+[^107]: For the statements in this section see Additional Note A.
 
-[^108]: ). An attempt has been made to distinguish Mael Isa Ua hAinmire from the Malchus of the text (Lanigan, iv. 74), but without success. It is interesting to observe that both and style him bishop of Waterford in the record of his death.
+[^108]: Mael Isa Ua hAinmire, who is always called Malchus in Latin documents, though a native of Ireland, had been a monk of Winchester, as we are here told. He was elected first bishop of the Danish colony of Waterford in 1096, and was consecrated by Anselm, assisted by the bishops of Chichester and Rochester, at Canterbury on December 28, having previously made his profession of obedience to the archbishop as one of his suffragans (Eadmer, p. 76 f.; Ussher, pp. 518, 565). He signed the Acts of the Synod of Rathbreasail in 1110 as archbishop of Cashel (Keating, iii. 307). He had probably been translated to that see shortly after its foundation in 1106 (see below, p. 65, n. 4). The Synod of Rathbreasail enlarged the Danish diocese of Waterford by adding to it an extensive non-Danish area, which included the ancient religious site of Lismore, on which St. Carthach or Mochuta had founded a community in the early part of the seventh century (Lanigan, ii. 353). The Synod decreed that the see of this diocese should be either at Lismore or at Waterford, apparently giving preference to the former (see p. xlvii). It would seem that after organizing the diocese of Cashel Malchus retired to his former "parish," just as at a later date Malachy retired from Armagh to Down (§ 31), placing his see at Lismore. There, at any rate, he was established when Malachy visited him, and there he died in 1135 "after the 88th year of his pilgrimage" (A.F.M.). An attempt has been made to distinguish Mael Isa Ua hAinmire from the Malchus of the text (Lanigan, iv. 74), but without success. It is interesting to observe that both A.F.M. and A.T. style him bishop of Waterford in the record of his death.
 
-[^109]: Gen. xxxv. 29 ; 1 Chron. xxiii. 1 ; Job xlii. 16 .—Malchus was in his 75th year when Malachy visited him in 1121. See preceding note, and p. 20, n. 3.
+[^109]: Gen. xxxv. 29; 1 Chron. xxiii. 1; Job xlii. 16.—Malchus was in his 75th year when Malachy visited him in 1121. See preceding note, and p. 20, n. 3.
 
-[^110]: 1 Kings iii. 28 .
+[^110]: 1 Kings iii. 28.
 
-[^111]: 
+[^111]: An error for Waterford. It is explained by, and confirms, the suggestion that Malchus transferred the see to Lismore.
 
-[^112]: , is used, in its later sense, for the country now called Scotland; and here the Scots are evidently its inhabitants. But traces of earlier usage remain in § 14, "a Scotic ( Irish) work," § 61 "We are Scots," and § 72 where Ireland is called "further Scotland" ( ).
+[^112]: Throughout the Life, Scotia is used, in its later sense, for the country now called Scotland; and here the Scots are evidently its inhabitants. But traces of earlier usage remain in § 14, "a Scotic (i.e. Irish) work," § 61 "We are Scots," and § 72 where Ireland is called "further Scotland" (ulterior Scotia).
 
-[^113]: 
+[^113]: Cellach. Note Imar's share in the matter, and cp. p. 11, n. 1.
 
-[^114]: p. 31; 1121; John of Worcester, ed. J. H. R. Weaver, 1908, p. 16; Ussher, 532). It may have been in August or September, on the return of Cellach from Dublin, that Malachy was released from his office and went to Lismore.
+[^114]: Malachy must have been the archbishop's vicar for a considerable time if the account of his labours in that capacity (§ 7) is not grossly exaggerated. Hence, if his vicariate began in 1119 or 1120 his departure for Lismore can hardly have been earlier than 1121; and as he spent "some years" there before he was raised to the episcopate (1124; see § 16), it cannot have been later. Samuel O'Hanley, bishop of Dublin, died on July 4, 1121, and Cellach at once made an attempt, which proved unsuccessful, to take possession of the vacant see. Samuel's successor, Gregory, was duly elected, and was consecrated at Lambeth on October 2. (O.C.C. p. 31; A.U. 1121; John of Worcester, ed. J. H. R. Weaver, 1908, p. 16; Ussher, 532). It may have been in August or September, on the return of Cellach from Dublin, that Malachy was released from his office and went to Lismore.
 
-[^115]: Job xii. 12 .
+[^115]: Job xii. 12.
 
-[^116]: , for in the printed text, restoring the word from two of de Backer's MSS. The king is said in § 18 to have been Cormac, Cormac Mac Carthy, son of Teague Mac Carthy, who succeeded his father as king of Desmond (South Munster) in 1124. He was never king of the whole of Munster. That he went to Lismore in 1121 is very probable. For the Annals tell us that in that year Turlough O'Conor, king of Connaught, invaded Desmond, and "arrived at the termon of Lismore" ( say that he destroyed Lismore, which can hardly be true). What more likely than that one of the sons of Teague, the reigning monarch of Desmond, should fly before that formidable warrior to the sanctuary of Mochuta? But St. Bernard errs in supposing that he was then king of Desmond. On Cormac, see also p. 43, n. 5.
+[^116]: I read rex australis Mumoniae, for rex Mumoniae in the printed text, restoring the word australis from two of de Backer's MSS. The king is said in § 18 to have been Cormac, i.e. Cormac Mac Carthy, son of Teague Mac Carthy, who succeeded his father as king of Desmond (South Munster) in 1124. He was never king of the whole of Munster. That he went to Lismore in 1121 is very probable. For the Annals tell us that in that year Turlough O'Conor, king of Connaught, invaded Desmond, and "arrived at the termon of Lismore" (A.I. say that he destroyed Lismore, which can hardly be true). What more likely than that one of the sons of Teague, the reigning monarch of Desmond, should fly before that formidable warrior to the sanctuary of Mochuta? But St. Bernard errs in supposing that he was then king of Desmond. On Cormac, see also p. 43, n. 5.
 
-[^117]: 
+[^117]: Donough Mac Carthy. See next note. There is a brief notice of him in Tundale, p. 42.
 
 [^118]: That the narrative of this and the following section is historical, but that St. Bernard has misplaced it, is proved by the following extract from A.T. under the year 1127: "A hosting by Toirdelbach, king of Ireland [really of Connaught], till he reached Corcach, he himself on land and his fleet at sea going round to Corcach, ravaging Munster by sea and by land so that he drove Cormac mac meic Carthaig into Lismore in pilgrimage. And Toirdelbach divided Munster into two parts, the southern half [Desmond] to Donnchad mac meic Carthaig; and the northern half [Thomond] to Conchobar o Briain.... Cormac mac meic Carthaig came from his pilgrimage, and made an alliance with Conchobar o Briain and with all the men of Muma, save those of Tuathmuma. Donnchad mac meic Carthaig came from them—for he was not in the alliance—with 2000 men." The other Annals have notices to the same effect. These events occurred in 1127, three years after Malachy returned from his long stay at Lismore, and was made bishop of Connor (§ 16). If he had the part which is ascribed to him in the restoration of Cormac, he must therefore have paid two visits to Lismore, which St. Bernard has confounded. That he was in the south of Ireland for a considerable time prior to 1129 will appear later (p. 40, n. 2).
 
-[^119]: Rom. xii. 19 .
+[^119]: Rom. xii. 19.
 
-[^120]: Apparently a proverbial expression. Cp. Quintilian iv. 10: "Faciamus potius de fine remedium, de necessitate solatium"; Jer. iii. 2: "Habeo gratiam quod facis de necessitate uirtutem"; 54. 6 (Hilberg): "Arripe, quaeso, occasionem et fac de necessitate uirtutem." Chaucer's "To maken vertu of necessitee" is well known ( , 3042, , 593, , iv. 1586).
+[^120]: Necessitatem in uirtutem conuertit. Apparently a proverbial expression. Cp. Quintilian Declam. iv. 10: "Faciamus potius de fine remedium, de necessitate solatium"; Jer. Adv. Rufin. iii. 2: "Habeo gratiam quod facis de necessitate uirtutem"; Ep. 54. 6 (Hilberg): "Arripe, quaeso, occasionem et fac de necessitate uirtutem." Chaucer's "To maken vertu of necessitee" is well known (Knightes Tale, 3042, Squieres Tale, 593, Troilus and Criseyde, iv. 1586).
 
-[^121]: Gen. ix. 6 .
+[^121]: Gen. ix. 6.
 
-[^122]: Gen. iv. 10 .
+[^122]: Gen. iv. 10.
 
-[^123]: Ps. cxix. 103 .
+[^123]: Ps. cxix. 103.
 
 [^124]: Ps. vi. 6 (vg.).
 
-[^125]: Ps. xxiv. 18 .
+[^125]: Ps. xxiv. 18.
 
-[^126]: Ps. lxvi. 20 .
+[^126]: Ps. lxvi. 20.
 
-[^127]: Ecclus. li. 11 .
+[^127]: Ecclus. li. 11.
 
 [^128]: Ps. xxxvii. 37 (vg.).
 
-[^129]: Ps. cxlvi. 7 .
+[^129]: Ps. cxlvi. 7.
 
-[^130]: 2 Chron. xxxvi. 22 .—Conor O'Brien. See p. 21, n. 3. It appears from the last sentence of the passage there quoted that Donough MacCarthy, to whom Turlough O'Conor had given the kingdom of Desmond, had driven out O'Brien from Thomond. This explains the anxiety of the latter to make alliance with Cormac. His action was less disinterested than St. Bernard represents it.
+[^130]: 2 Chron. xxxvi. 22.—Conor O'Brien. See p. 21, n. 3. It appears from the last sentence of the passage there quoted that Donough MacCarthy, to whom Turlough O'Conor had given the kingdom of Desmond, had driven out O'Brien from Thomond. This explains the anxiety of the latter to make alliance with Cormac. His action was less disinterested than St. Bernard represents it.
 
-[^131]: Luke xxi. 15 .
+[^131]: Luke xxi. 15.
 
-[^132]: 
+[^132]: Malchus.
 
-[^133]: 
+[^133]: Judas Maccabæus.
 
-[^134]: 1 Macc. iii. 60 .
+[^134]: 1 Macc. iii. 60.
 
-[^135]: Mark vi. 20 .
+[^135]: Mark vi. 20.
 
-[^136]: Ps. cxix. 46 .
+[^136]: Ps. cxix. 46.
 
-[^137]: Acts ix. 15 .
+[^137]: Acts ix. 15.
 
 
 ---

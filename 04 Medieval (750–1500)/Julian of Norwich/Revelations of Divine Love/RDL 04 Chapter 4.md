@@ -30,11 +30,11 @@ This [Shewing] I took for the time of my temptation,
 In this [Shewing] He brought our blessed Lady to my understanding. I saw her ghostly, in bodily likeness: a simple maid and a meek, young of age and little waxen above a child, in the stature that she was when she conceived. Also God shewed in part the wisdom and the truth of her soul: wherein I understood the reverent beholding in which she beheld her God and Maker, marvelling with great reverence that He would be born of her that was a simple creature of His making.
 And this wisdom and truth: knowing the greatness of her Maker and the littleness of herself that was made,—caused her to say full meekly to Gabriel: *Lo me, God’s handmaid!* In this sight I understood soothly that she is more than all that God made beneath her in worthiness and grace; for above her is nothing that is made but the blessed Manhood[^2] Of Christ, as to my sight.[^3]
 
-[^1]: 
+[^1]: intermediary -- thing or person. See vi, xix., xxxv., lv.
 
-[^2]: Rev. xi. ch. xxv.,.. "For our Lord shewed me nothing in special but our Lady Saint Mary; and her He shewed three times." The first shewing is here (a sight referred to in ch. vii. and elsewhere); the second, in ch xviii.; the third, in ch. xxv..
+[^2]: Either: In this sight-- Shewing -- of her; or In this her sight -- insight -- beholding (vii.. xliv, lxv.). See Rev. xi. ch. xxv.,.. "For our Lord shewed me nothing in special but our Lady Saint Mary; and her He shewed three times." The first shewing is here (a sight referred to in ch. vii. and elsewhere); the second, in ch xviii.; the third, in ch. xxv..
 
-[^3]: 
+[^3]: This word is in S. de Cressy's edition.
 
 
 ---

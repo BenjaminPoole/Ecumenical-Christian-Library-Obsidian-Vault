@@ -27,15 +27,15 @@ as it is most precious: and that by the virtue of His blessed Godhead; and it is
 The dearworthy blood of our Lord Jesus Christ as verily as it is most precious, so verily it is most plenteous. Behold and see! The precious plenty of His dearworthy blood descended down into Hell and burst her bands and delivered all that were there which belonged to the Court of Heaven. The precious plenty of His dearworthy blood overfloweth all Earth, and is ready to wash all creatures of sin, which be of goodwill, have been, and shall be. The precious plenty of His
 dearworthy blood ascended up into Heaven to the blessed body of our Lord Jesus Christ, and there is in Him, bleeding and praying for us to the Father,—and is, and shall be as long as it needeth;—and ever shall be as long as it needeth. And evermore it floweth in all Heavens enjoying the salvation of all mankind, that are there, and shall be—fulfilling the number[^5] that faileth.
 
-[^1]: 
+[^1]: i.e. as it were from.
 
-[^2]: 
+[^2]: "sene with avisement," so, p. 26. -- " 1 beheld with avisement."
 
-[^3]: 
+[^3]: i.e. Nature, reality.
 
-[^4]: 
+[^4]: MS. "licor."
 
-[^5]: 
+[^5]: The appointed number of heavenly citizens.
 
 
 ---

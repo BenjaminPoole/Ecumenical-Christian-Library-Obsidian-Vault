@@ -31,7 +31,7 @@ more we shall see and know our failings. And ever the more
 
 that we see them, the more, of nature, by grace, we shall long to be fulfilled of endless joy and bliss. For we are made thereto, and our Nature-Substance is now blissful in God, and hath been since it was made, and shall be without end.
 
-[^1]: 
+[^1]: Chap. li.
 
 
 ---

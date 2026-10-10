@@ -49,11 +49,11 @@ The other manner of Regard was shewed *inward*: and that was more highly and all
 pains and passions, mercies and forgiveness, and such other that are profitable; but in the higher part are none of these, but all one high love and marvellous joy: in which joy all pains are highly restored. And in this [time] our Lord showed not only our Excusing [from blame, in His beholding of our higher part], but the worshipful nobility that He shall bring us to [by the working of grace in our lower part], turning all our blame [that is therein, from our falling] into endless worship
 [when we be oned to the high Self above].
 
-[^1]: 
+[^1]: "medlour," "medle."
 
-[^2]: 
+[^2]: "menyng."
 
-[^3]: 
+[^3]: "And thus is this medle so mervelous in us that onethys we knowen of our selfe or of our evyn Cristen in what way we stonden for the marveloushede of this sundry felyng. But that ilke holy assent that we assenten to God when we feel hym truly willand to be with him with al our herte, with al our soule and with al our myte, and than we haten and dispisen our evil sterings and al that myte be occasion of synne gostly and bodily."
 
 
 ---

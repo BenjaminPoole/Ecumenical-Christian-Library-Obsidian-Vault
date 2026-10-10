@@ -35,11 +35,11 @@ For prayer is a right[^2] understanding of that fulness of joy that is to come, 
 
 Thus it belongeth to us to do our diligence; and when we have done it, then shall us yet think that [it] is nought,—and sooth it is. But if we do as we can, and ask, in truth, for mercy and grace, all that faileth us we shall find in Him. And thus signifieth He where He saith: *I am Ground of thy beseeching*. And thus in this blessed word, with the Shewing, I saw a full overcoming against all our weakness and all our doubtful dreads.
 
-[^1]: 
+[^1]: i.e. torment, tire, hinder.
 
-[^2]: 
+[^2]: "rythwis " = right manner of.
 
-[^3]: 
+[^3]: Or: 'And for these two workings our Lord looketh to us continually.' See above: "so is it not in His beholding," and chap xliii. "for He beholdeth us in love and would make us partners of His good deed."
 
 
 ---

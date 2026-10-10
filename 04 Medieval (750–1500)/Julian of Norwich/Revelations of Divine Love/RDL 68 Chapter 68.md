@@ -34,9 +34,9 @@ love and enjoy Him and mightily trust in Him; and *all shall be well*.
 
 And soon after, all was close and I saw no more.
 
-[^1]: 
+[^1]: See lxx. "He shewed it all [the Revelation] again within in my soul."
 
-[^2]: 
+[^2]: "sharply" = decisively.
 
 
 ---

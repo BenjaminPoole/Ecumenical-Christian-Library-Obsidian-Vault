@@ -17,6 +17,8 @@ tags:
 
 Departure from Ireland. Death and Burial at Clairvaux.
 
+*1148, May (?)*
+
 67. (30). Being asked once, in what place, if a choice were given him,
 he would prefer to spend his last day—for on this subject the brothers
 used to ask one another what place each would select for himself—he
@@ -118,6 +120,8 @@ For by that time he had left it and was at or near Rome.[^23] But now
 through this delay it was brought about that he crossed later, and so,
 as was fitting, he came to the place of his most holy death, and at the
 hour of its approach.
+
+*1148, Oct. 13 or 14*
 
 70. (37). And he was received by us, though he came from the west, as
 the true day-spring[^24] from on high visiting us.[^25] O, how greatly
@@ -237,6 +241,8 @@ ministry have given themselves to thy service." Then, laying his hands
 on each one severally and blessing all,[^76] he bade them go to rest,
 because his hour was not yet come.[^77]
 
+*1148, November 2*
+
 74. We went. We returned about midnight, for at that hour it was
 announced that the light shineth in darkness.[^78] The house filled,
 the whole community was present, many abbots also who had assembled.
@@ -294,211 +300,211 @@ without his comrades, but that him whom we have had as our guest we may
 have also as our leader, when we shall reign with Thee, and with him
 also, for ever and ever.[^103] Amen.
 
-[^1]: "If I die in Ireland."
+[^1]: I.e. "If I die in Ireland."
 
-[^2]: 
+[^2]: In Armagh. See §§ 19, 65.
 
-[^3]: 
+[^3]: All Souls' Day, November 2.
 
-[^4]: Matt. v. 18 .
+[^4]: Matt. v. 18.
 
-[^5]: Ps. xlviii. 8 .
+[^5]: Ps. xlviii. 8.
 
-[^6]: 
+[^6]: Note that the pall is called a sacrament.
 
-[^7]: 
+[^7]: See § 38.
 
-[^8]: , ix. 131 ff.)
+[^8]: Bernard Paganelli, a monk of Clairvaux, was sent to Rome by St. Bernard at the request of Innocent II. and was appointed abbot of the monastery of St. Anastasius. On the death of Lucius II. he was elected Pope, February 15, 1144, and assumed the title of Eugenius III. (H. K. Mann, Lives of the Popes, ix. 131 ff.)
 
-[^9]: 
+[^9]: Eugenius left Viterbo at the beginning of 1147. He was at Lyons in March, and at Troyes on April 10 (Jaffé, p. 624 ff.; Mann, ix. 185).
 
-[^10]: ) to confer with the comarb of Peter" ( 1148). Inispatrick is a small island off Skerries, co. Dublin. For the date see xxxv. 249 f. In the same year Malachy had consecrated the monastery of Knock ( See p. 67, n. 3).
+[^10]: In accordance with the instructions of Innocent II. (§ 38): "A Synod was convened at Inis Patraic by Mael Maedoc, coarb of Patrick, at which were present fifteen bishops and two hundred priests, to establish rules and morals for all, both laity and clergy; and Mael Maedoc Ua Morgair, by the advice of the Synod, went a second time to Rome (sic) to confer with the comarb of Peter" (A.F.M. 1148). Inispatrick is a small island off Skerries, co. Dublin. For the date see R.A.I. xxxv. 249 f. In the same year Malachy had consecrated the monastery of Knock (A.F.M. See p. 67, n. 3).
 
-[^11]: 
+[^11]: St. Bernard seems to have thought that St. Malachy set sail immediately after the Synod, and from a port not far from the place where it met. But this is impossible, for one day's sail brought him to Scotland (§ 68). He seems to have embarked at Bangor, which is about a hundred miles north of Inispatrick.
 
-[^12]: Lam. ii. 11 .
+[^12]: Cp. Lam. ii. 11.
 
-[^13]: Ruth i. 14 .
+[^13]: Ruth i. 14.
 
-[^14]: Matt. xx. 20 , combined with Mark x. 35 , 36 .
+[^14]: Matt. xx. 20, combined with Mark x. 35, 36.
 
-[^15]: 
+[^15]: Susanna, 22.
 
-[^16]: 
+[^16]: That is, the first day after his landing in Scotland.
 
-[^17]: , i. 269), which must not be confused with Malachy's more humble community.
+[^17]: The Green Lake. It is now Soulseat, about eight miles from Cairngarroch. At this place Fergus, lord of Galloway (p. 76, n. 4), founded a famous monastery of Premonstratensian canons (Grub, Eccl. Hist. of Scotland, i. 269), which must not be confused with Malachy's more humble community.
 
-[^18]: 
+[^18]: The abbot was Michael, who had belonged to the community at Bangor (§ 15). As this new community is called "a convent of monks" we may infer that it was of the Cistercian Order.
 
-[^19]: 
+[^19]: Note the leisureliness of the journey in its earlier stages. Later on Malachy encountered difficulties, which no doubt involved further delay (Serm. i. § 1).
 
-[^20]: xxxv. 239 ff., 249. The monastery of Gisburn, of which the ruins remain to the south of the parish church, was founded for Augustinian canons, in 1129, by Robert de Brus (Dugdale, vi. 1, 265 ff.).
+[^20]: Gisburn is a village in the West Riding of Yorkshire on the river Ribble, not far from the border of Lancashire. It is clear that on this occasion Malachy followed the line of Watling Street, which ran through Ribchester, on the Ribble, about fourteen miles from Gisburn. His road probably passed within three miles of that place between Settle and Chetburn. He seems to have avoided entering England as long as possible—supposing no doubt, and with good reason, that he was safer in the dominions of David than in those of Stephen. For details of the journey see R.I.A. xxxv. 239 ff., 249. The monastery of Gisburn, of which the ruins remain to the south of the parish church, was founded for Augustinian canons, in 1129, by Robert de Brus (Dugdale, vi. 1, 265 ff.).
 
-[^21]: 
+[^21]: Malachy was probably suspected (not without cause) of being an emissary of the supporters of the Empress Matilda. He had just spent some days with David I., and with him and his stepson Waltheof he was on terms of intimate friendship (§§ 36, 40). King David invaded England in the following year.
 
-[^22]: 
+[^22]: The reference is apparently to King Stephen's attempt to prevent Theobald of Canterbury and other bishops from attending the Council of Rheims in March 1148. But Malachy does not seem to have been summoned to the Council, and he did not reach the Channel till long after it was over (see next note).
 
-[^23]: 636). St. Bernard, therefore, when he wrote this passage, was ignorant of his movements for a considerable time before Malachy's death.
+[^23]: Eugenius left Clairvaux on April 27, and Lausanne on May 20 (Jaffé, p. 634). At this rate he might have been expected to reach Rome by the end of July. About that time, therefore, we may conjecture that Malachy was on the coast of Kent. Actually, the Pope was not near Rome till he reached Viterbo on November 30 (ibid. 636). St. Bernard, therefore, when he wrote this passage, was ignorant of his movements for a considerable time before Malachy's death.
 
-[^24]: : literally, "east."
+[^24]: Oriens: literally, "east."
 
-[^25]: Luke i. 78 .
+[^25]: Luke i. 78.
 
-[^26]: Ps. cxviii. 24 .
+[^26]: Ps. cxviii. 24.
 
-[^27]: v. 4).
+[^27]: St. Bernard's life-long and ever-increasing frailty is constantly alluded to by his biographers. It was largely due to his extreme austerity. In this incident we have an example of the way in which, on many occasions, the strength of his mind conquered the weakness of his body (V. P. v. 4).
 
-[^28]: Gen. xxix. 13 .
+[^28]: Gen. xxix. 13.
 
-[^29]: Cant. iii. 4 .
+[^29]: Cant. iii. 4.
 
-[^30]: Ps. cxxxiii. 1 .
+[^30]: Ps. cxxxiii. 1.
 
-[^31]: Matt. xii. 42 ; Luke xi. 31 .
+[^31]: Matt. xii. 42; Luke xi. 31.
 
-[^32]: 
+[^32]: October 18. Malachy had therefore reached Clairvaux on October 13 or 14. In the interval he met St. Gilbert of Sempringham and presented him with a pastoral staff (Dugdale, vi. 2, p. xii.). In France Malachy travelled alone—having been parted from his companions in England—and probably on horseback (§ 36). He may, therefore, have left England about September 30, and traversed the 270 miles from Wissant to Clairvaux by October 14. He apparently intended to start for Rome on St. Luke's Day (Serm. i. § 1).
 
-[^33]: 
+[^33]: That is, in the presence of the community.
 
 [^34]: Prov. xiv. 13 (inexact quotation).
 
-[^35]: Luke x. 40 .
+[^35]: Luke x. 40.
 
-[^36]: 2 Tim. iv. 6 , in which the phraseology of the vg. differs entirely from that of the text.
+[^36]: Cp. 2 Tim. iv. 6, in which the phraseology of the vg. differs entirely from that of the text.
 
-[^37]: 
+[^37]: Not strictly accurate. Malachy reached Clairvaux before his companions. See p. 123, n. 3.
 
-[^38]: 
+[^38]: The physicians said the same (Serm. i. § 2).
 
-[^39]: 
+[^39]: This saying is quoted in a slightly different form in Serm. i. § 2.
 
-[^40]: 2 Tim. iv. 6 .
+[^40]: 2 Tim. iv. 6.
 
-[^41]: 2 Tim. i. 12 .
+[^41]: 2 Tim. i. 12.
 
 [^42]: Ps. lxxviii. 30 (vg.).
 
 [^43]: Ps. cxxxii. 14 (inexact quotation).
 
-[^44]: Ps. xvii. 7 .
+[^44]: Ps. xvii. 7.
 
-[^45]: 2 Tim. iv. 8 .
+[^45]: 2 Tim. iv. 8.
 
-[^46]: 
+[^46]: All Souls' Day.
 
-[^47]: , iii. 94 ( clxvi. 1471).
+[^47]: For the Cistercian method of administering unction see Usus antiquiores ordinis Cisterciensis, iii. 94 (P.L. clxvi. 1471).
 
-[^48]: 
+[^48]: Solario.
 
-[^49]: 
+[^49]: Cp. Letter iv. § 2, where it is added that he commended the Irish brothers to the care of St. Bernard.
 
-[^50]: 
+[^50]: Solio.
 
-[^51]: Matt. xxiv. 33 .
+[^51]: Matt. xxiv. 33.
 
-[^52]: 2 Cor. iii. 7 .
+[^52]: 2 Cor. iii. 7.
 
-[^53]: 
+[^53]: Tim. iv. 7.
 
-[^54]: 2 Sam. i. 23 (inaccurate quotation).—Contrast St. Bernard's lament for his brother Gerard ( xxvi. 4): "We loved in life, how have we been divided in death? Most bitter separation!"
+[^54]: 2 Sam. i. 23 (inaccurate quotation).—Contrast St. Bernard's lament for his brother Gerard (Cant. xxvi. 4): "We loved in life, how have we been divided in death? Most bitter separation!"
 
-[^55]: 
+[^55]: Ireland.
 
-[^56]: John xi. 16 .
+[^56]: John xi. 16.
 
-[^57]: 
+[^57]: November 1. For the translation of relics which took place, apparently on that day, see Serm. i. § 2.
 
-[^58]: Ecclus. xxii. 6 .
+[^58]: Ecclus. xxii. 6.
 
-[^59]: 1 Thess. iv. 17 .
+[^59]: 1 Thess. iv. 17.
 
 [^60]: Ps. lxxvi. 10 (vg.).
 
-[^61]: Not the Festival of All Saints, for that had already come, but, as the next sentence shows, the festival assembly of the saints in heaven. Compare Ps. lxxiv. 4 , where represents in the Vulgate.
+[^61]: Sanctorum ... sollemnitatem. Not the Festival of All Saints, for that had already come, but, as the next sentence shows, the festival assembly of the saints in heaven. Compare Ps. lxxiv. 4, where congregations represents solemnitatis in the Vulgate.
 
-[^62]: John xiv. 19 , etc.
+[^62]: John xiv. 19, etc.
 
-[^63]: xxvi. 11, "For thee, brother, even at midnight the day dawned."
+[^63]: Cp. Cant. xxvi. 11, "For thee, brother, even at midnight the day dawned."
 
-[^64]: Rom. xiii. 12 .
+[^64]: Rom. xiii. 12.
 
-[^65]: Ps. lxvi. 12 .
+[^65]: Ps. lxvi. 12.
 
-[^66]: 
+[^66]: See § 71.
 
-[^67]: Luke xxii. 51 .—This saying is quoted in Serm. i. § 5.
+[^67]: Luke xxii. 51.—This saying is quoted in Serm. i. § 5.
 
 [^68]: Ps. lxxviii. 30 (vg.).
 
-[^69]: Ps. cxxxix. 11 (vg.).—Cp. xxvi. 11: "Already for thee, my brother, even at midnight the day was dawning, and ; straightway . I was summoned to that miracle, to see a man exulting in death and mocking death."
+[^69]: Ps. cxxxix. 11 (vg.).—Cp. Cant. xxvi. 11: "Already for thee, my brother, even at midnight the day was dawning, and the night was shining as the day; straightway that night was light about thee in thy pleasure. I was summoned to that miracle, to see a man exulting in death and mocking death."
 
-[^70]: John xiv. 1 .
+[^70]: John xiv. 1.
 
-[^71]: Mark ix. 23 .
+[^71]: Mark ix. 23.
 
-[^72]: 1 Cor. xiii. 8 .
+[^72]: 1 Cor. xiii. 8.
 
-[^73]: Mark vii. 34 .
+[^73]: Mark vii. 34.
 
-[^74]: John xvii. 11 .
+[^74]: John xvii. 11.
 
-[^75]: John xvii. 20 .
+[^75]: John xvii. 20.
 
-[^76]: 
+[^76]: Cp. Praef. 2.
 
-[^77]: John vii. 30 .
+[^77]: John vii. 30.
 
-[^78]: John i. 5 .
+[^78]: John i. 5.
 
-[^79]: Eph. v. 19 ; Col. iii. 16 .
+[^79]: Eph. v. 19; Col. iii. 16.
 
-[^80]: v. 2: "This will be a returning to our own country, when we leave the country of our bodies and reach the realm of spirits—I mean our God, the Mighty Spirit, the great abiding place of the spirits of the blest" (Lewis's translation, slightly altered). Cp. Serm. ii., § 6.
+[^80]: The meaning of the phrase is explained in De Cons. v. 2: "This will be a returning to our own country, when we leave the country of our bodies and reach the realm of spirits—I mean our God, the Mighty Spirit, the great abiding place of the spirits of the blest" (Lewis's translation, slightly altered). Cp. Serm. ii., § 6.
 
-[^81]: say, "after the fifty-fourth year of his age." St. Bernard appears to be right. For Malachy was made bishop of Connor when he was just entering his thirtieth year (§ 16), about his twenty-ninth birthday. give the date as 1124. But if he was over fifty-four on November 2, 1148 (§ 75), his twenty-ninth birthday would have been before November 1123. If he was under fifty-four on that day it may have been in 1124.
+[^81]: A.F.M. say, "after the fifty-fourth year of his age." St. Bernard appears to be right. For Malachy was made bishop of Connor when he was just entering his thirtieth year (§ 16), i.e. about his twenty-ninth birthday. A.F.M. give the date as 1124. But if he was over fifty-four on November 2, 1148 (§ 75), his twenty-ninth birthday would have been before November 1123. If he was under fifty-four on that day it may have been in 1124.
 
-[^82]: Luke xvi. 22 .
+[^82]: Luke xvi. 22.
 
 [^83]: Acts vii. 60 (vg.).
 
-[^84]: Luke iv. 20 .
+[^84]: Luke iv. 20.
 
-[^85]: Esth. xiii. 17 (vg.); xvi. 21 (vg.); cp. John xvi. 20 , etc.
+[^85]: Esth. xiii. 17 (vg.); xvi. 21 (vg.); cp. John xvi. 20, etc.
 
-[^86]: Amos viii. 10 .
+[^86]: Cp. Amos viii. 10.
 
-[^87]: 1 John v. 5 .
+[^87]: 1 John v. 5.
 
-[^88]: Ps. cxvi. 15 .
+[^88]: Ps. cxvi. 15.
 
-[^89]: 
+[^89]: Cp. Serm. ii. § 8.
 
-[^90]: John xi. 11 .
+[^90]: John xi. 11.
 
-[^91]: Ps. cxxvii. 2 , 3 (vg.).
+[^91]: Ps. cxxvii. 2, 3 (vg.).
 
-[^92]: Matt. xxv. 21 , 23 .
+[^92]: Matt. xxv. 21, 23.
 
-[^93]: iv. 21).
+[^93]: St. Bernard himself celebrated Mass, and by divine inspiration, "when the sacrifice was finished, changed the order of the prayer and introduced the collect for the commemoration of saints who were bishops instead of that which was used for the commendation of the dead," anticipating, as we may suppose, Malachy's canonization. He then devoutly kissed his feet (V.P. iv. 21).
 
 [^94]: 1 Cor. xii. 9 (vg.).
 
-[^95]: 2 Kings xiii. 21 .
+[^95]: 2 Kings xiii. 21.
 
-[^96]: Mark viii. 3 .
+[^96]: Mark viii. 3.
 
-[^97]: Matt. iii. 17 .
+[^97]: Matt. iii. 17.
 
-[^98]: v. 15, 23, 24). For further particulars of St. Malachy's burial and the disposal of his relics see lii. 43 f.
+[^98]: Malachy was buried on the north side of the Oratory, vested in St. Bernard's habit. Five years later St. Bernard was buried before the Altar of Saint Mary, clad in the habit in which Malachy died, and which he had worn ever since his death when he celebrated Mass (V.P. v. 15, 23, 24). For further particulars of St. Malachy's burial and the disposal of his relics see R.Q.H. lii. 43 f.
 
-[^99]: 
+[^99]: November 2. From this statement (see p. 128, n. 1) we may infer that Malachy was born in 1095, before November.
 
-[^100]: 2 Tim. i. 12 .
+[^100]: 2 Tim. i. 12.
 
-[^101]: v. 25). I owe the following translation of it to a friend: "Grant, O Lord, thy never-failing bounty to the spiritual harvest of the Valley, which thou didst deem worthy to illumine with two stars of such surpassing brightness, so making it brighter in very truth even than in name. Do thou guard the house wherein this twofold treasure is laid up and guarded for thee. Be it also unto us according to thy word, that as thy treasure is there so may thy heart be also; there too thy grace and mercy: and may the favour of thy compassion for ever rest on all who are gathered together in the self-same place in thy Name, which is above every name, even as thou art over all, God blessed for ever.— "
+[^101]: The biographers of St. Bernard give no detailed account of any of Malachy's visits to Clairvaux. But one of them—Geoffrey, St. Bernard's secretary—wrote a prayer for the Bright Valley, in which he placed Malachy on a par with the great Cistercian, thereby revealing to us the extraordinary impression which he made on the community (V.P. v. 25). I owe the following translation of it to a friend: "Grant, O Lord, thy never-failing bounty to the spiritual harvest of the Valley, which thou didst deem worthy to illumine with two stars of such surpassing brightness, so making it brighter in very truth even than in name. Do thou guard the house wherein this twofold treasure is laid up and guarded for thee. Be it also unto us according to thy word, that as thy treasure is there so may thy heart be also; there too thy grace and mercy: and may the favour of thy compassion for ever rest on all who are gathered together in the self-same place in thy Name, which is above every name, even as thou art over all, God blessed for ever.—Amen."
 
-[^102]: 2 Tim. i. 12 .
+[^102]: 2 Tim. i. 12.
 
-[^103]: Rev. xxii. 5 .
+[^103]: Rev. xxii. 5.
 
 
 ---

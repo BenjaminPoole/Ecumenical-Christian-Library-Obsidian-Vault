@@ -39,17 +39,17 @@ therefore, have sown, do you water, and God shall give the
 increase.[^6] All the saints who are with you we salute through you,
 humbly commending ourselves to their holy prayers and yours. Farewell.
 
-[^1]: 
+[^1]: Mellifont was probably founded immediately after the brothers mentioned in the letter reached Ireland. The date is therefore in or before 1142. They would hardly have been sent till news had reached St. Bernard that the site had been chosen (Lett. i, § 2). Cp. p. 75, n. 4.
 
-[^2]: , § 39).
+[^2]: The brothers sent from Clairvaux "sufficient in number for an abbey" (Life, § 39).
 
-[^3]: Gen. xxiv. 63 ff.—Cp. ii. 13, where the same passage of Genesis is referred to. It is there (§ 12) explained that the field is the world, which has been placed in charge of the Pope.
+[^3]: Gen. xxiv. 63 ff.—Cp. De Cons. ii. 13, where the same passage of Genesis is referred to. It is there (§ 12) explained that the field is the world, which has been placed in charge of the Pope.
 
-[^4]: . I read .
+[^4]: Printed text patribus. I read partibus.
 
 [^5]: Rom. ix. 29 (inexact quotation).
 
-[^6]: 1 Cor. iii. 6 .
+[^6]: 1 Cor. iii. 6.
 
 
 ---

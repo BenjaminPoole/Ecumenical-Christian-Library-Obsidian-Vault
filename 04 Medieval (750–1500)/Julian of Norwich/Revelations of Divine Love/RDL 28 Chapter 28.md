@@ -32,9 +32,9 @@ and that we see His pains and His noughting passeth so far all that we may suffe
 
 The beholding of this will save us from murmuring[^2] and despair in the feeling of our pains. And if we see soothly that our sin deserveth it, yet His love excuseth us, and of His great courtesy He doeth away all our blame, and beholdeth us with ruth and pity as children innocent and unloathful.
 
-[^1]: 
+[^1]: "Something that is no lak in his syte, whereby thei are lakid and dispisyd in thys world, scornyd" (a word like "rapyd" -- probably "mokyd," as in S. de C.) "and outcasten."
 
-[^2]: 
+[^2]: "gruching."
 
 
 ---

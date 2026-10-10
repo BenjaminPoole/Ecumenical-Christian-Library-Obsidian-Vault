@@ -27,18 +27,18 @@ Marvellous and stately[^2] is the place where the Lord dwelleth, and therefore H
 which penance He worketh in us and mercifully He helpeth us to bear it. For His love maketh *Him* to long [for us]; His wisdom and His truth with His rightfulness maketh *Him* to suffer us [to be] here: and in this same manner [of longing and abiding] He willeth to see it in us. For this is our natural penance,—and the highest, as to my sight. For this penance goeth[^5] never from us till what time that we be fulfilled, when we shall have Him to our meed. And therefore He willeth that
 we set our hearts in the Overpassing[^6] : that is to say, from the pain that we feel into the bliss that we trust.
 
-[^1]: 
+[^1]: ch. xi.
 
-[^2]: 
+[^2]: "solemne."
 
-[^3]: 
+[^3]: "entenden to" = turn our attention, respond to.
 
-[^4]: 
+[^4]: or, as in S. de Cressy, "For kind longing in us to him is a lasting penance in us."
 
-[^5]: 
+[^5]: "cometh."
 
-[^6]: 2 Cor. iv. 17 .
+[^6]: The exceeding Bliss. "Our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory." -- 2 Cor. iv. 17.
 
 
 ---
-[[RDL 80 Chapter 80|← Chapter 80]] · [[Revelations of Divine Love|Contents]] · [[RDL 82 Chapter 72|Chapter 72 →]]
+[[RDL 80 Chapter 80|← Chapter 80]] · [[Revelations of Divine Love|Contents]] · [[RDL 82 Chapter 82|Chapter 82 →]]

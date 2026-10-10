@@ -32,6 +32,8 @@ conterminous. For the significance of Malachy's recall to the North, see
 Introduction, p. liii. f.; and for a fuller discussion, R.I.A., xxxv.
 250-254..
 
+*1124*
+
 But when he began to administer his office, the man of God understood
 that he had been sent not to men but to beasts. Never before had he
 known the like, in whatever depth of barbarism; never had he found men
@@ -94,6 +96,8 @@ for the better that to-day the word which the Lord speaks by the prophet
 is applicable to that nation; those who before were not my people are
 now my people.[^33]
 
+*1127*
+
 18. (12). It happened after some years that the city[^34] was destroyed
 by the king of the northern part of Ireland;[^35] for out of the north
 all evil breaks forth.[^36] And perhaps that evil was good for those
@@ -126,93 +130,93 @@ strenuously fulfilled the office in his place as one of them. He not
 only shared but took the lead in [the life] of holy poverty, being
 especially zealous for it more abundantly than they all.[^44]
 
-[^1]: diocese] of Connor," according to the decree of the Synod of Rathbreasail in 1110 (Keating, iii. 303: see above p. xli), that is to say, roughly, the present united dioceses of Down, Connor and Dromore. It would seem that Malachy was its first bishop.
+[^1]: Connor: see below. It is clear that after Malachy's consecration it was the see of a diocese which included Bangor (§ 15) and Down, the present Downpatrick (§ 31). The inference is highly probable that it included the whole district which constituted the "parish [i.e. diocese] of Connor," according to the decree of the Synod of Rathbreasail in 1110 (Keating, iii. 303: see above p. xli), that is to say, roughly, the present united dioceses of Down, Connor and Dromore. It would seem that Malachy was its first bishop.
 
-[^2]: 
+[^2]: Here, again, St. Bernard implies that a long period elapsed between Malachy's return from Lismore and his consecration; for the reason given in § 12 for his recall is inconsistent with the supposition that he had already been elected to a bishopric which Cellach and Imar wished him to accept. They desired to have him with them at Armagh. He must have been "elected" either while he was at Armagh or after he went to Bangor.
 
-[^3]: 
+[^3]: Imar.
 
-[^4]: 
+[^4]: Cellach. See § 19, where Cellach and his predecessors are called metropolitans.
 
 [^5]: Tricesimo ferme aetatis suae anno. A.F.M. record under the year 1124 that "Mael Maedoc Ua Morgair sat in the bishopric of Connor." This agrees with the date of his consecration as given here. See p. 128, note 1. He was consecrated bishop by Cellach (§ 19). We have seen (p. 20, note 3) that Malachy probably went to Lismore late in 1121. He spent several years there, and, according to St. Bernard, another long period at Armagh and Bangor before his consecration in 1124. This must be pronounced impossible. The most probable solution of the chronological difficulty is that through ignorance of Irish ecclesiastical affairs St. Bernard misunderstood the information supplied to him, and thus separated Malachy's tenure of the abbacy of Bangor from his episcopate, though the two were in reality conterminous. For the significance of Malachy's recall to the North, see Introduction, p. liii. f.; and for a fuller discussion, R.I.A., xxxv. 250-254.
 
-[^6]: iii. 19: "It is wonderful that this nation should remain to this day so ignorant of the rudiments of Christianity. For it is a most filthy race, a race sunk in vice, a race more ignorant than all other nations of the rudiments of the faith."
+[^6]: Cp. Giraldus, Top. iii. 19: "It is wonderful that this nation should remain to this day so ignorant of the rudiments of Christianity. For it is a most filthy race, a race sunk in vice, a race more ignorant than all other nations of the rudiments of the faith."
 
-[^7]: 
+[^7]: For the statements in the preceding sentences, see Additional Note A.
 
-[^8]: , xiv. 9. 2. Cp. Ignatius, 2; 1. It may be noted that most of the MSS. of the Latin version of the Ignatian Epistles are Burgundian, and that among them is a Clairvaux MS. of the 12th century. Lightfoot, , i. 119.
+[^8]: St. Aug., De Civ. Dei, xiv. 9. 2. Cp. Ignatius, Pol. 2; Hero 1. It may be noted that most of the MSS. of the Latin version of the Ignatian Epistles are Burgundian, and that among them is a Clairvaux MS. of the 12th century. Lightfoot, Ign. and Pol., i. 119.
 
-[^9]: John x. 11-13 .
+[^9]: John x. 11-13.
 
-[^10]: , iv. 6): "I know where thou dwellest, unbelievers and subverters are with thee. They are wolves, not sheep; of such, however, thou art shepherd. Consideration is good, if by it thou mayest perhaps discover means, if it can be done, to convert them, lest they subvert thee. Why do we doubt that they can be turned again into sheep, who were once sheep and could be turned into wolves?"
+[^10]: Compare St. Bernard's words to Pope Eugenius III. about his Roman subjects (De Cons., iv. 6): "I know where thou dwellest, unbelievers and subverters are with thee. They are wolves, not sheep; of such, however, thou art shepherd. Consideration is good, if by it thou mayest perhaps discover means, if it can be done, to convert them, lest they subvert thee. Why do we doubt that they can be turned again into sheep, who were once sheep and could be turned into wolves?"
 
-[^11]: Ps. li. 17 .
+[^11]: Ps. li. 17.
 
-[^12]: Cant. iii. 2 ; cp. Ps. lix. 6 , 14 ; Luke xiv. 21 .
+[^12]: Cant. iii. 2; cp. Ps. lix. 6, 14; Luke xiv. 21.
 
-[^13]: Luke vi. 35 .
+[^13]: Luke vi. 35.
 
-[^14]: Luke xii. 42 .
+[^14]: Luke xii. 42.
 
-[^15]: Acts ix. 16 .
+[^15]: Acts ix. 16.
 
 [^16]: Isa. i. 4 (vg.).
 
-[^17]: 
+[^17]: Cp. 2 Pet. ii. 7 f.
 
-[^18]: 2 Cor xi. 27 .
+[^18]: 2 Cor xi. 27.
 
-[^19]: Ps. cxx. 6 , 7 (vg.).
+[^19]: Ps. cxx. 6, 7 (vg.).
 
-[^20]: 2 Tim. iv. 2 .
+[^20]: 2 Tim. iv. 2.
 
-[^21]: 1 Cor. iv. 13 .
+[^21]: 1 Cor. iv. 13.
 
-[^22]: Rom. xii. 21 .
+[^22]: Rom. xii. 21.
 
-[^23]: Acts xii. 16 .
+[^23]: Acts xii. 16.
 
-[^24]: Matt. vii. 8 ; Luke xi. 10 .
+[^24]: Matt. vii. 8; Luke xi. 10.
 
-[^25]: John xiv. 6 .
+[^25]: John xiv. 6.
 
-[^26]: Ps. cxviii. 15 , 16 .
+[^26]: Ps. cxviii. 15, 16.
 
-[^27]: Isa. i. 20 .
+[^27]: Isa. i. 20.
 
-[^28]: Ezek. ii. 5 , etc.
+[^28]: Ezek. ii. 5, etc.
 
 [^29]: Lev. xxvi. 23 (vg.).
 
-[^30]: 
+[^30]: Basilicae.
 
-[^31]: 
+[^31]: Plebes.
 
-[^32]: 
+[^32]: See Additional Note A.
 
-[^33]: 1 Pet. ii. 10 , combined with Hos. ii. 24 .
+[^33]: 1 Pet. ii. 10, combined with Hos. ii. 24.
 
-[^34]: ), which he no doubt found in his authority, might be applied, like its Irish equivalent, , to either place: but to St. Bernard it would naturally suggest an episcopal see. Connor was within the suzerainty of the king of the northern part of Ireland, Bangor was outside it. See next note.
+[^34]: The city was Bangor, though St. Bernard may have taken it to be Connor. The word city (civitas), which he no doubt found in his authority, might be applied, like its Irish equivalent, cathair, to either place: but to St. Bernard it would naturally suggest an episcopal see. Connor was within the suzerainty of the king of the northern part of Ireland, Bangor was outside it. See next note.
 
-[^35]: the baronies of the Ards, in which lies Bangor], both lay and ecclesiastical property." He was murdered on May 25, 1136 ( , ). It has been supposed that the expedition of 1130 was the occasion of the destruction of Bangor mentioned in the text. But St. Bernard places it, and the consequent departure of Malachy to the south, before the death of Cellach in 1129 (§ 19), and we have found reason to believe that Malachy was at Lismore in 1127 (p. 21, n. 3). Though no raid by Conor in that year is referred to in the Annals, that fact cannot be regarded as proof that none took place.
+[^35]: Conor O'Loughlin, who is called king of the north of Ireland in the Annals (s.a. 1136). He succeeded his father Donnell as king of Ailech (Grenan Ely, co. Donegal, the residence of the kings of the northern Ui Neill) in 1121, and the next year he invaded the northern part of Ulaid, the district in which Bangor is situated. He invaded Magh Cobha (Iveagh, co. Down) and Bregha (Meath), with the help of the Dal Araide (the district round Connor, co. Antrim) in 1128. He finally subdued Ulaid in 1130, and "plundered the country as far as the east of Ard [i.e. the baronies of the Ards, in which lies Bangor], both lay and ecclesiastical property." He was murdered on May 25, 1136 (A.U., A.L.C.). It has been supposed that the expedition of 1130 was the occasion of the destruction of Bangor mentioned in the text. But St. Bernard places it, and the consequent departure of Malachy to the south, before the death of Cellach in 1129 (§ 19), and we have found reason to believe that Malachy was at Lismore in 1127 (p. 21, n. 3). Though no raid by Conor in that year is referred to in the Annals, that fact cannot be regarded as proof that none took place.
 
-[^36]: Jer. i. 14 .
+[^36]: Jer. i. 14.
 
-[^37]: That this monastery was in Iveragh, a barony in the county of Kerry, north of the estuary of the Kenmare River, and in Cormac Mac Carthy's kingdom of Desmond, was apparently first suggested by Lanigan (iv. 92). The identification is almost certainly correct. It is more difficult to determine the part of the barony in which the monastery was situated. O'Hanlon suggested Church Island, near Cahirciveen, where there are some ecclesiastical remains, traditionally known half a century ago as "the monastery" ( xv. 107). But these appear to be of much earlier date than the twelfth century. More plausible is the conjecture of the Rev. Denis O'Donoghue, that the site is on another Church Island, in Lough Currane, near Waterville. On it are the ruins of a church which, in the opinion of Mr. P. J. Lynch, was built in the twelfth century ( xxx. 159 f.). Malachy seems to have spent some time at Lismore before going to Iveragh.
+[^37]: Ibracense. That this monastery was in Iveragh, a barony in the county of Kerry, north of the estuary of the Kenmare River, and in Cormac Mac Carthy's kingdom of Desmond, was apparently first suggested by Lanigan (iv. 92). The identification is almost certainly correct. It is more difficult to determine the part of the barony in which the monastery was situated. O'Hanlon suggested Church Island, near Cahirciveen, where there are some ecclesiastical remains, traditionally known half a century ago as "the monastery" (R.I.A. xv. 107). But these appear to be of much earlier date than the twelfth century. More plausible is the conjecture of the Rev. Denis O'Donoghue, that the site is on another Church Island, in Lough Currane, near Waterville. On it are the ruins of a church which, in the opinion of Mr. P. J. Lynch, was built in the twelfth century (J.R.S.A.I. xxx. 159 f.). Malachy seems to have spent some time at Lismore before going to Iveragh.
 
-[^38]: 
+[^38]: This sentence seems to imply that Malachy brought with him the Bangor community, or the greater part of it, and made a new home for it in Iveragh. If so the inference is obvious that up to 1127 Malachy resided at Bangor, and was still abbot.
 
-[^39]: 
+[^39]: See §§ 9, 10.
 
 [^40]: Acts ix. 28 (inexact quotation).
 
-[^41]: Gen. xxx. 27 .
+[^41]: Gen. xxx. 27.
 
-[^42]: Luke i. 8 .
+[^42]: Luke i. 8.
 
-[^43]: Luke xii. 37 ; xxii. 27 .
+[^43]: Cp. Luke xii. 37; xxii. 27.
 
-[^44]: 1 Cor. xv. 10 ; 2 Cor. xi. 23 .
+[^44]: Cp. 1 Cor. xv. 10; 2 Cor. xi. 23.
 
 
 ---

@@ -34,15 +34,15 @@ And for joy that I had in beholding of Him I attended not readily to that Shewin
 
 And afterward, also, I saw that we may not have this knowing from our self; nor from none of all our spiritual enemies: for they will us not so great good. For if it were by their will, we should not see it until our ending day. Then be we greatly beholden[^5] to God for that He will Himself, for love, shew it to us in time of mercy and grace.
 
-[^1]: 
+[^1]: See ch. xxxix. p.81.
 
-[^2]: 
+[^2]: "chere" = manner of looking on us, mien.
 
-[^3]: 
+[^3]: S. de Cressy: "wasted," but the indistinct word of the Brit. Mus. MS. is probably "castid" for "cast," or "casten" = conjectured.
 
-[^4]: 
+[^4]: ch. xxxvii.
 
-[^5]: 
+[^5]: i.e. in gratitude.
 
 
 ---

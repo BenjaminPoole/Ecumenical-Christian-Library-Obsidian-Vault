@@ -124,55 +124,55 @@ Son, the Satisfying of the Holy Ghost, and endless marvellous Bliss to all that 
 rest and peace.[^25] (But it is not meant that the Son sitteth on the right hand, side by side, as one man sitteth by another in this life,—for there is no such sitting, as to my sight, in the Trinity,—but He sitteth on His Father’s right hand,—that is to say: in the highest nobleness of the Father’s joys.) Now is the Spouse, God’s Son, in peace with His loved Wife, which is the Fair Maiden of endless Joy. Now sitteth the Son, Very God and Man, in His City in rest
 and peace: which [City] His Father hath adight to Him of His endless purpose; and the Father in the Son; and the Holy Ghost in the Father and in the Son.
 
-[^1]: 
+[^1]: i.e. a steep hollow place; a ravine.
 
-[^2]: 
+[^2]: i.e. injury, harm.
 
-[^3]: 
+[^3]: "entended."
 
-[^4]: 
+[^4]: "aret"=reckoned.
 
-[^5]: 
+[^5]: i.e. not of definite purport, indistinct.
 
-[^6]: 
+[^6]: "avisement."
 
-[^7]: 
+[^7]: MS. "within him an heyward long and brode, all full of endless hevyns." Cressy and Collins transcribe this word without explanation, but give "heavenliness" for "heavens " It seems most likely that "hey" has been written as if affixed to "ward" (i.e. "regard," "deeming," or "reward"), or else to "reward" meaning, as usual, regard ("Beholding"). See pp. 108 and 113. Cf. note at the end of this chapter.
 
-[^8]: 
+[^8]: "lofly cher."
 
-[^9]: 
+[^9]: "I reson sothly we owen."
 
-[^10]: 
+[^10]: See p. 112, the "high reward"
 
-[^11]: 
+[^11]: "which wer disposed to travel."
 
-[^12]: 
+[^12]: "even fornempts" = straight opposite.
 
-[^13]: 
+[^13]: i.e. equal (MS "even like").
 
-[^14]: 
+[^14]: S. de Cressy: "anaved"; MS. "anew."
 
-[^15]: 
+[^15]: i.e. equal -- see p. 114. "All of the Charity of God," the mutual love that also embraces created souls, p. 118.
 
-[^16]: 
+[^16]: "the slade."
 
-[^17]: 
+[^17]: "mischief."
 
-[^18]: 
+[^18]: "wilfully"= voluntarily, of His own Will as God.
 
-[^19]: 
+[^19]: purpose, intent, thought or speech.
 
-[^20]: 
+[^20]: "langor."
 
-[^21]: 
+[^21]: i.e. painful toil. "He sitteth... in peace and rest. And the Godhead ruleth and careth for heaven and earth and all that is" (lxvii.).
 
-[^22]: 
+[^22]: "honest."
 
-[^23]: 
+[^23]: "wilfully."
 
-[^24]: 
+[^24]: "wyde and syde" = wide and long.
 
-[^25]: Revelation ix. pp. 47, 50: "It is a joy, a bliss, an endless satisfying to me that ever suffered I Passion for thee." ... "In this feeling mine understanding was lifted up into Heaven: and there I saw three heavens"; and to Rev. x. p. 51: "then with a glad Cheer our Lord looked into His Side and beheld, rejoicing. With His sweet looking He led forth the understanding of His creature by the same wound into His Side within. And then He shewed a fair delectable place, and large enough for all mankind that shall be saved to rest in peace and in love." But "Regard " (scope of true, continuing, divine Sight, Insight, All-comprehending sight) seems more likely to be the true rendering. "Long and broad" go strangely with the word, but on p. 113 the length and breadth of the garments is interpreted immediately after the colour of the eyes, and is said to betoken that "He hath in Him, all Heavens, and all Joy and Bliss," and indeed these words but fill out the idea of the more frequently used "high" to signify the "enclosing" of "endless heavens:" that Sphere of "fulness" which is infinite. With this passage may be compared one below, on p. 113: "The Merciful Beholding of His loving Cheer fulfilled all earth and descended down with Adam into hell, ... and thus Mercy and Pity dwelleth with mankind unto the time we come up into Heaven." The other, the Inward, the high Beholding or Regard is not said to "fill" Heaven, but to be "full of" endless Heavens. So elsewhere it is said that in our Sense-soul, the lower part of human nature, God dwells, but that our Substance, the higher part, dwells in God. The regard of Mercy and Pity is with the Sense-soul; the high Regard of Joy and Bliss is with the Substance.) P. 132, chap. lv.: "I saw that our Substance is in God, and also I saw that in our Sense-soul God is." lvi. p. 135: "The worshipful City that our Lord Jesus sitteth in, it is our Sense-part, in which He is enclosed; and our Nature-Substance is beclosed in Jesus, with the blessed Soul of Christ sitting in rest in the Godhead."
+[^25]: But see also xxxix. p. 81, lxxx. p. 194. Note: -- If "an heyward" -- "long and brode all full of endless hevyns," p. 112, -- were to be rendered as "an high reward," revealed for the future along with, though less clearly than, the divine pity for the pains of the present, reference might be made to Revelation ix. pp. 47, 50: "It is a joy, a bliss, an endless satisfying to me that ever suffered I Passion for thee." ... "In this feeling mine understanding was lifted up into Heaven: and there I saw three heavens"; and to Rev. x. p. 51: "then with a glad Cheer our Lord looked into His Side and beheld, rejoicing. With His sweet looking He led forth the understanding of His creature by the same wound into His Side within. And then He shewed a fair delectable place, and large enough for all mankind that shall be saved to rest in peace and in love." But "Regard " (scope of true, continuing, divine Sight, Insight, All-comprehending sight) seems more likely to be the true rendering. "Long and broad" go strangely with the word, but on p. 113 the length and breadth of the garments is interpreted immediately after the colour of the eyes, and is said to betoken that "He hath in Him, all Heavens, and all Joy and Bliss," and indeed these words but fill out the idea of the more frequently used "high" to signify the "enclosing" of "endless heavens:" that Sphere of "fulness" which is infinite. With this passage may be compared one below, on p. 113: "The Merciful Beholding of His loving Cheer fulfilled all earth and descended down with Adam into hell, ... and thus Mercy and Pity dwelleth with mankind unto the time we come up into Heaven." The other, the Inward, the high Beholding or Regard is not said to "fill" Heaven, but to be "full of" endless Heavens. So elsewhere it is said that in our Sense-soul, the lower part of human nature, God dwells, but that our Substance, the higher part, dwells in God. The regard of Mercy and Pity is with the Sense-soul; the high Regard of Joy and Bliss is with the Substance.) P. 132, chap. lv.: "I saw that our Substance is in God, and also I saw that in our Sense-soul God is." lvi. p. 135: "The worshipful City that our Lord Jesus sitteth in, it is our Sense-part, in which He is enclosed; and our Nature-Substance is beclosed in Jesus, with the blessed Soul of Christ sitting in rest in the Godhead."
 
 
 ---

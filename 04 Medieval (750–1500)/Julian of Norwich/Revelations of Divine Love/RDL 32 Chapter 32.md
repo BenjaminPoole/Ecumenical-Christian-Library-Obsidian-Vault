@@ -41,17 +41,17 @@ And as to this I had no other answer in Shewing of our Lord God but this: *That 
 
 For this is the Great Deed that our Lord shall do, in which Deed He shall save His word and He shall make all well that is not well. How it shall be done there is no creature beneath Christ that knoweth it, nor shall know it till it is done; according to the understanding that I took of our Lord’s meaning in this time.
 
-[^1]: Acts xxvi. 8 .)
+[^1]: "if"=" that." (Acts xxvi. 8.)
 
-[^2]: 
+[^2]: Inserted from Serenus de Cressy's version.
 
-[^3]: 
+[^3]: "pecid in love -- levyng the beholdyng of al tempests that might letten us of trew enjoyeng in hym." S. de C.: "let us of true enjoying in him."
 
-[^4]: 
+[^4]: S. de C., "many."
 
-[^5]: 
+[^5]: S. de C., "many."
 
-[^6]: 
+[^6]: "stondyng al this."
 
 
 ---

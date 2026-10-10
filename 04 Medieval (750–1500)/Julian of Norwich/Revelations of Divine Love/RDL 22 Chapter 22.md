@@ -37,15 +37,15 @@ And here saw I, for the Second[^4] Beholding in this blessed Passion *the love t
 
 This deed, and this work about our salvation, was ordained as well as God might ordain it. And here I saw a Full Bliss in Christ: for His bliss should not have been full, if it might any better have been done.
 
-[^1]: 
+[^1]: "ffor al thynketh him but litil in reward of His love" [in comparison with].
 
-[^2]: 
+[^2]: MS. "Reward."
 
-[^3]: 
+[^3]: MS. "Reward."
 
-[^4]: 
+[^4]: See xxi., xxiii.
 
-[^5]: 
+[^5]: MS. "and," probably here, as in other places, with something of the force of "but."
 
 
 ---

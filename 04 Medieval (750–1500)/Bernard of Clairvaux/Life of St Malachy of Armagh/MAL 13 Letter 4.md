@@ -107,61 +107,61 @@ eagerly and more quickly in the fragrance which his virtues have left
 so fresh behind them.[^27] May Christ guard all of you while you pray
 for us.[^28]
 
-[^1]: 
+[^1]: Clearly this letter must have been penned a few days after Malachy's death.
 
-[^2]: Acts ix. 31 , combined with John xiv. 26 , etc.
+[^2]: Acts ix. 31, combined with John xiv. 26, etc.
 
-[^3]: Heb. xiii. 14 .
+[^3]: Heb. xiii. 14.
 
-[^4]: Heb. iii. 6 .
+[^4]: Cp. Heb. iii. 6.
 
-[^5]: 2 Cor. iv. 18 .
+[^5]: 2 Cor. iv. 18.
 
-[^6]: John xiv. 28 .
+[^6]: John xiv. 28.
 
-[^7]: Heb. xii. 9 .
+[^7]: Heb. xii. 9.
 
-[^8]: John xiii. 1 .—Cp. Serm. i. § 4 f., "It is the end of labours ... and the entrance to perfect safety. Let us rejoice therefore ... with our father"; § 8, "Threefold is the rejoicing of the man, since he is delivered from all sin and from labour and from danger"; and words ascribed to St. Bernard in vii. 49, "Believe, my son, for now thou art about to pass from death to life, from temporal labour to eternal rest."
+[^8]: John xiii. 1.—Cp. Serm. i. § 4 f., "It is the end of labours ... and the entrance to perfect safety. Let us rejoice therefore ... with our father"; § 8, "Threefold is the rejoicing of the man, since he is delivered from all sin and from labour and from danger"; and words ascribed to St. Bernard in V.P. vii. 49, "Believe, my son, for now thou art about to pass from death to life, from temporal labour to eternal rest."
 
-[^9]: Wisd. iii. 2 , 3 ).—For the last four sentences of the section cp. Serm. i. § 5, where an identical passage immediately follows the first parallel quoted in n. 3.
+[^9]: Communio for All Saints' Day (from Wisd. iii. 2, 3).—For the last four sentences of the section cp. Serm. i. § 5, where an identical passage immediately follows the first parallel quoted in n. 3.
 
-[^10]: 
+[^10]: Serm. i. § 1 (end) is somewhat similar in expression, and § 8 (end) in thought. There is a closer, but not very striking, parallel in Serm. ii. § 5 (end).
 
-[^11]: Luke ii. 52 .
+[^11]: Luke ii. 52.
 
 [^12]: John xiii. 1 (inexact quotation).
 
-[^13]: Heb. i. 3 .
+[^13]: Heb. i. 3.
 
 [^14]: 2 Cor. v. 7 (inexact quotation).
 
-[^15]: Cant. viii. 6 .
+[^15]: Cant. viii. 6.
 
-[^16]: Eph. iv. 2 .
+[^16]: Cp. Eph. iv. 2.
 
-[^17]: 
+[^17]: Ps. lxxiv, 19.
 
-[^18]: 
+[^18]: Cp. Serm. i. § 3 (beginning).
 
-[^19]: Ps. cxxvi. 3 .
+[^19]: Ps. cxxvi. 3.
 
-[^20]: 
+[^20]: Cp. Serm. i. § 2, "Therefore we render thanks," etc.
 
-[^21]: Ps. cvi. 45 .
+[^21]: Ps. cvi. 45.
 
 [^22]: Heb. ix. 17 (vg., inexact quotation).
 
-[^23]: Rom. iv. 12 .
+[^23]: Rom. iv. 12.
 
-[^24]: 
+[^24]: 2 Pet. iii. 11.
 
 [^25]: 1 Thess. iv. 1 (vg.).
 
-[^26]: Prov. x. 1 .
+[^26]: Cp. Prov. x. 1.
 
-[^27]: Cant. i. 3 , 4 .—Cp. Serm. i. § 8 (end).
+[^27]: Cant. i. 3, 4.—Cp. Serm. i. § 8 (end).
 
-[^28]: Col. iv. 3 .
+[^28]: Col. iv. 3.
 
 
 ---

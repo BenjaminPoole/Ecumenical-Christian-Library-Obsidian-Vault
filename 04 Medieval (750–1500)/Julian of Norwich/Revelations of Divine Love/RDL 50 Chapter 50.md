@@ -29,17 +29,17 @@ For three points make me hardy to ask it. The first is, because it is so low a t
 
 as Holy Church teacheth. I cried inwardly, with all my might seeking unto God for help, saying thus: *Ah! Lord Jesus, King of bliss, how shall I be eased? Who shall teach me and tell me that [thing] me needeth to know, if I may not at this time see it in Thee?*
 
-[^1]: 
+[^1]: "sothly," "sothe."
 
-[^2]: 
+[^2]: "sothly," "sothe."
 
-[^3]: 
+[^3]: "awer,"p. 127.
 
-[^4]: 
+[^4]: "soth" and "sothnes."
 
-[^5]: 
+[^5]: "soth" and "sothnes."
 
-[^6]: 
+[^6]: "trueths."
 
 
 ---

@@ -34,11 +34,11 @@ And by His sufferance we fall; and in His blissful Love with His Might and His W
 
 Thus in Rightfulness and Mercy He willeth to be known and loved, now and without end. And the soul that wisely beholdeth it in grace, it is well pleased with both, and endlessly enjoyeth.
 
-[^1]: 
+[^1]: "A friendful mene" =intermediary (person or thing), medium: compare chaps. xix., lv.
 
-[^2]: 
+[^2]: See xxxvi. 74.
 
-[^3]: 
+[^3]: i.e. alloweth.
 
 
 ---

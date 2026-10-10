@@ -42,17 +42,17 @@ Thus in our Father, God Almighty, we have our being; and in our Mother of Mercy 
 And our Substance is [in][^5] our Father, God Almighty, and our Substance is [in][^6] our Mother, God, All-wisdom; and our Substance is in our Lord the Holy Ghost, God All-goodness. For our Substance is whole in each Person of the Trinity, which is one God. And our Sense-soul is only in the Second Person Christ Jesus; in whom is the Father and the Holy Ghost: and in Him and by Him we are mightily taken out of Hell, and out of the wretchedness in Earth worshipfully brought up
 into Heaven and blissfully oned to our Substance: increased in riches and in nobleness by all the virtues of Christ, and by the grace and working of the Holy Ghost.
 
-[^1]: 
+[^1]: MS. "adyte to" = ordained to, made ready for.
 
-[^2]: 
+[^2]: MS. "Witt."
 
-[^3]: 
+[^3]: "in our substantiall makyng."
 
-[^4]: 
+[^4]: "buxum."
 
-[^5]: 
+[^5]: S. de Cressy gives the "in" twice missed in the Brit. Mus. MS.
 
-[^6]: 
+[^6]: S. de Cressy gives the "in" twice missed in the Brit. Mus. MS.
 
 
 ---

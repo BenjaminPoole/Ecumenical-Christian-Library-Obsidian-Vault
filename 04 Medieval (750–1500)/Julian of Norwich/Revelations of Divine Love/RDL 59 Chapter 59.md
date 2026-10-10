@@ -33,15 +33,15 @@ Person: for in Him we have this Godly Will whole and safe without end, both in N
 
 and there beginneth the Motherhood of Grace; the third is Motherhood of *working*,—and therein is a forthspreading by the same Grace, of length and breadth and height and of deepness without end. And all is one Love.
 
-[^1]: 
+[^1]: It is I.
 
-[^2]: 
+[^2]: MS "of."
 
-[^3]: 
+[^3]: MS "of."
 
-[^4]: 
+[^4]: MS "of."
 
-[^5]: 
+[^5]: Or "appropriated to"; MS. "impropried" = made to be the property of; assigned and consigned to.
 
 
 ---

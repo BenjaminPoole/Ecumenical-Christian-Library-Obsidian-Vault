@@ -33,11 +33,11 @@ that [which] he should have had if he had not fallen. And that this is sooth, Go
 
 And all this was to make us glad and merry in love.
 
-[^1]: 
+[^1]: S. Thomas and S. Jude. According to tradition the Gospel was carried to India by these Apostles.
 
-[^2]: 
+[^2]: S. John of Beverley was consecrated Bishop of Hexham in 687, and was afterwards Archbishop of York. "He founded the monastery of Beverley in the midst of the wood called Deira, among the ruins of the deserted Roman settlement of Pentuaria. This monastery, like so many others of the Anglo-Saxons, was a double community of monks and nuns. In 718 John retired for the remaining years of his life to Beverley, where he died in 721 on the 7th of May.... He was canonised in 1037. Henschenius the Bollandist, in the second tome of May, has published books of the miracles wrought at the relicks of St John of Beverley written by eye-witnesses. His sacred bones were honourably translated into the church of Alfric, Archbishop of York, in 1037. A feast in honour of his translation was kept on the 25th of October." -- Alban Butler's Lives of the Saints, etc. Perhaps the fact that the Saint's original Feast Day of the 7th of May occurred on the second day of Julian's illness, had something to do with his being brought to her mind a few days after with so much vividness.
 
-[^3]: 
+[^3]: "and browte to mynd how he is an hende neybor and of our knowyng" -- i.e. he was a countryman of our own. "hende" = near, urbane. gentle.
 
 
 ---

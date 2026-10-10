@@ -27,11 +27,11 @@ And thus in the time of our pain and our woe He
 sheweth us Cheer of His Passion and His Cross, helping us to bear it by His own blessed virtue. And in the time of our sinning He sheweth to us Cheer of Ruth and Pity, mightily keeping us and defending us against all our enemies. And these be the common Cheer which He sheweth to us in this life; therewith mingling the third: and that is His Blissful Cheer, like, in part, as it shall be in Heaven. And that [shewing is] by gracious touching and sweet lighting of the
 spiritual life, whereby that we are kept in sure faith, hope, and charity, with contrition and devotion, and also with contemplation and all manner of true solace and sweet comforts.
 
-[^1]: 
+[^1]: "Cher," in earlier chapters rendered by manner of Countenance or Regard.
 
-[^2]: 
+[^2]: The word of the MS. might be: "he havith " (possibly "draweth''), or "behadith" or "behavith." There is a verb "bi-hawen" to behold -- in other forms bihabben, bi-halden --; and "behave" had the meaning of to manage, govern. Elsewhere in the MS. to regard, if not to fix the eyes upon, is expressed (e.g. in xxxix.) simply by to "holden" without the prefix. S. de Cressy has here "he beheld."
 
-[^3]: 
+[^3]: "that have to"; S de C., "have need to."
 
 
 ---

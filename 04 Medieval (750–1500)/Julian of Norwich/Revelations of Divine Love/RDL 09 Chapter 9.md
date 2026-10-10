@@ -29,9 +29,9 @@ the Faith of Holy Church, the which I had aforehand understood and, as I hope, b
 
 All this was shewed by three [ways]: that is to say, by bodily sight, and by word formed in mine understanding, and by spiritual sight. But the spiritual sight I cannot nor may not shew it as openly nor as fully as I would. But I trust in our Lord God Almighty that He shall of His goodness, and for your love, make you to take it more spiritually and more sweetly than I can or may tell it.
 
-[^1]: 
+[^1]: "sey" = say or tell.
 
-[^2]: 
+[^2]: The teaching of the Faith and the teaching of the special Shewing were both from God and were seen to be at one.
 
 
 ---

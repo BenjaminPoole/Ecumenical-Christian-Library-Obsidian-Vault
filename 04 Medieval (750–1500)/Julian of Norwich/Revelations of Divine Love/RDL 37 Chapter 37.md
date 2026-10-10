@@ -29,7 +29,7 @@ For in every soul that shall be saved is a Godly Will that never assented to sin
 
 This shewed our Lord in [shewing] the wholeness of love that we stand in, in His sight: yea, that He loveth us now as well while we are here, as He shall do while we are there afore His blessed face. But for failing love on our part, therefore is all our travail.
 
-[^1]: 
+[^1]: Perhaps the omitted word is 'all'; but de Cressy has "I" as above: "that I should sin."
 
 
 ---

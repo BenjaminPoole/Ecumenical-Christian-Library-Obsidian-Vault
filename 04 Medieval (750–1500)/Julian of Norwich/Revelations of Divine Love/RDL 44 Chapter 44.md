@@ -26,13 +26,13 @@ In which marvelling he seeth his God, his Lord, his Maker so high, so great, and
 
 with him that is made, that scarcely the creature seemeth ought to the self. But the clarity and the clearness of Truth and Wisdom maketh him to see and to bear witness[^4] that he is made for Love . in which God endlessly keepeth him.
 
-[^1]: 
+[^1]: See chap. iv.
 
-[^2]: 
+[^2]: i.e. marvelling.
 
-[^3]: 
+[^3]: chaps. liv., lv.
 
-[^4]: 
+[^4]: "beknowen."
 
 
 ---

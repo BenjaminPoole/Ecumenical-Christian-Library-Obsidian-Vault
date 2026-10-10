@@ -31,11 +31,11 @@ And thus they that were His friends suffered pain for love. And, generally, *all
 
 Thus was our Lord Jesus made-naught for us; and all we stand in this manner made-naught with Him, and shall do till we come to His bliss: as I shall tell after.
 
-[^1]: 
+[^1]: i.e. Natural.
 
-[^2]: 
+[^2]: Dionysius, "the Areopagite," according to the legend of S. Denis.
 
-[^3]: 
+[^3]: MS.. -- "it was withdrawen from bothe."
 
 
 ---
