@@ -6,10 +6,7 @@ tags:
 
 # Welcome to my Christian Library
 
-
-<img src="https://scx2.b-cdn.net/gfx/news/2021/publication-of-500-yea-1.jpg" width=400 height=264>
-
-20,421 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, Evangelical writers, and Newman. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
+21,346 notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, the eighteenth-century revivals, and the Victorians. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
 
 This is the web version of the open source [Obsidian Vault](https://github.com/BenjaminPoole/Ecumenical-Christian-Library-Obsidian-Vault)
 
@@ -47,8 +44,9 @@ Each folder or author has a helpful index in the folder root. Have a look at the
 | **05 Reformers** (1500–1600) | [[Protestant Reformers\|Luther, Calvin, Zwingli, Knox, Cranmer, Tyndale, Bullinger, Melanchthon, Beza, Hooker, Vermigli, Ursinus, Wishart]]; Wycliffe and Hus under `00 Forerunners` | 2,723 |
 | **06 Puritans** (1600–1700) | [[Puritans\|Owen, Trapp, Bunyan, Baxter, Watson, Flavel, Charnock, Gurnall, Scougal, à Brakel]] | 2,943 |
 | **06 Scientists** (1600–1700) | [[06 Scientists (1600–1700)/index\|The theology of the scientific revolution]] — Bacon, Galileo, Kepler, Descartes, Browne, Wilkins, Pascal, Boyle, Ray, Newton, Leibniz | 640 |
-| **07 Evangelical Writers** (1700–present) | [[Charles Spurgeon]], [[John Wesley]], [[je-index\|Jonathan Edwards]], [[JC Ryle]], [[The Fundamentals index\|The Fundamentals]] | 6,927 |
-| **07 Catholic Writers** (1800–present) | [[07 Catholic Writers (1800–present)/index\|John Henry Newman]] — the Oxford Movement, the *Parochial and Plain Sermons*, the *Apologia*, the *Development of Doctrine*, the *Grammar of Assent*, *The Idea of a University* | 1,090 |
+| **07 Revival** (1700–1800) | [[07 Revival (1700–1800)/index\|The Great Awakening and the Evangelical Revival]] — [[John Wesley]], [[je-index\|Jonathan Edwards]] | 1,989 |
+| **08 Victorian** (1800–1900) | [[08 Victorian (1800–1900)/index\|The nineteenth century]] — [[Friedrich Schleiermacher\|Schleiermacher]], [[Charles Hodge\|Hodge]], [[John Henry Newman\|Newman]], [[Søren Kierkegaard\|Kierkegaard]], [[JC Ryle\|Ryle]], [[Charles Spurgeon\|Spurgeon]], [[Abraham Kuyper\|Kuyper]], [[Benjamin B. Warfield\|Warfield]] | 6,636 |
+| **09 Modern** (1900–present) | [[09 Modern (1900–present)/index\|The twentieth century]] — [[The Fundamentals index\|The Fundamentals]] | 92 |
 
 # Design Philosophy
 
