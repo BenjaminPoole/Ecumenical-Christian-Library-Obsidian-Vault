@@ -1,0 +1,209 @@
+---
+title: "Seventh Chapter. Faith, 40. Faith in the Saved Sinner Alone"
+author: "Abraham Kuyper"
+work: "The Work of the Holy Spirit"
+section: 40
+translator:
+  - "Henri De Vries"
+year: "1900"
+written: "1888"
+source: "https://ccel.org/ccel/kuyper/holy_spirit"
+tags:
+  - victorian
+  - abraham-kuyper
+---
+
+# Seventh Chapter. Faith, 40. Faith in the Saved Sinner Alone
+
+“And they believed
+in the Scripture.”—*John*ii. 22.
+
+Faith is not the
+working of a faculty inherent in the natural man; nor a new sense added
+to the five; nor a new soul-function; nor a faculty first dormant now
+active; but a disposition, mode of action, implanted by the Holy Spirit
+in the consciousness and will of the regenerate person, whereby he is
+enabled to accept Christ.
+
+From this it follows that this disposition can not be implanted in
+sinless man, and that it disappears as soon as the sinner ceases to
+be a sinner. The saint believes until he dies, but no longer. Or more
+correctly: faith disappears as soon as he enters heaven, for then he
+lives no more by faith, but by sight.
+
+The importance of this distinction is obvious. The Ethical theologians,
+denying that faith is a specially implanted disposition, but rather
+a sense or its organ, first dormant then awakened, can not admit this,
+but repeat that faith is perpetual, basing their opinion upon 1
+Cor. xiii. 13. According to their theory, there is no absolute
+difference between the sinner and the sinless; they do not believe that
+to save the sinner the Holy Spirit introduces an extraordinary expedient
+into his spiritual person. Hence their persistent effort to make us
+understand that Adam believed before the fall, and that even Jesus,
+the Captain and Finisher of our faith, walked by faith.
+
+But this whole presentation is opposed by the apostolic words:
+“We walk by faith, and not *by sight*” (2
+Cor. v. 7). And again, “Now I know in part,
+but then shall I know even as also I am known” (1
+Cor. xiii. 12), in connection with the preceding: “When
+that which is perfect is come, then that which is in part shall *be done
+away*” (vs. 10).
+And not less by the word of our Lord, that we shall see God as soon as
+we are pure in heart (Matt. v. 8).
+
+And starting from this point, we know positively that faith in
+
+the sense of saving faith is not perpetual; that it did
+not exist in Paradise, but can only be found in a lost sinner. To be
+endowed with saving faith, he must be a sinner, just as much as relief
+from pain can be given only to one suffering pain.
+
+Very well,” say the Ethicals, “we accept this. But when
+the physician tries to improve the breathing of the asthmatic by making
+him inhale fresh air, it does not follow that a healthy person does
+not inhale. On the contrary, a healthy man inhales strongly and deeply,
+and it is the physician’s purpose to *assist* the *normal*function of breathing. And the same applies to faith. True the Holy
+Spirit can give faith only to the *sinner,*but a healthy saint,
+like Adam before the fall and Christ, did most assuredly believe; for
+faith is but the breath of the soul. In Adam and Christ this breathing was
+spontaneous; in sinners like ourselves it is disturbed. Hence we need help
+to be healed. But when our souls once more freely inhale the breath of
+faith, we have received only what Adam and Jesus had before us.”
+
+And this we oppose. Saving faith is not the ordinary breath of the
+soul, first disturbed, then restored. No; it is the specific remedy for
+one lost in sin; an expedient extended to him because he *became*
+a sinner; retained as long as he *continues*a sinner; withdrawn
+as soon as he *ceases*from sin. When the expedient is no longer
+needed, and the soul redeemed from sin can breathe freely toward God
+without the expedient of faith, wholly restored, entirely redeemed, then
+only he receives once more that natural, spontaneous communion with the
+Eternal which needs no intervening aid, but which is like that of holy
+Adam and Jesus.
+
+Faith is like a pair of glasses, not only useless, but hurtful to
+good eyes; very helpful for diseased or weak eyes. So long as eyes
+are abnormal, glasses are indispensable; before they became abnormal,
+glasses were useless (Adam before the fall). Eyes never abnormal never
+needed them (Jesus). As soon as wholly restored, they are laid aside
+(the redeemed in heaven).
+
+Next in order is faith in connection with
+Sacred Scripture; and here the error of the Ethicals becomes very
+apparent. Their theory, that sinless Adam and Christ exercised faith, and
+that the redeemed, in heaven still believe, leads away from Scripture. In
+Paradise, sinless Adam had no Scripture; neither has Christ on the throne;
+and in death the redeemed forever lose their Bible. Hence it is
+
+the logical consequence of this error that the faith
+of the Ethicals is possible *without Scripture*, and is not
+necessarily intended for Scripture. According to their theory, to
+believe is the soul’s breathing, but little more than another
+name for prayer. Indeed, there should have been no Scripture, and in
+the absence of *sin*there would have been none; hence faith,
+which is only the restoration of a soul-function disturbed by sin,
+is possible without Scripture.
+
+This theory is far-reaching. They believe that even among the heathen
+the Lord had His elect, tho they never had heard of the Scripture. The
+heathen of classic times were a sort of unbaptized Christians, entering
+the Kingdom of heaven under the leadership of their patriarch Plato. Tho
+modern rationalists reject Scripture, yet they are such lovely and
+devoted people that faith can not be denied them. Reasoning in this way,
+they arrive at the following conclusions:
+
+1. Not the Confession, but the *motive* of the heart is the main
+thing; and
+
+2. Tho men claim to have discovered intentional frauds in
+Scripture, and therefore reject it, they are still “brethren
+beloved.”
+
+The consistency is evident. Wherefore ministers loyal to the Word
+should be careful how they speak of the being of faith, lest they feed
+the evil which they seek to restrain. All that vague and flowery talk
+about faith as the breath of the soul, as the soul’s sweet trust
+of love, etc., has a direct tendency toward Ethical error. For the line
+is a dividing-line. Do you acknowledge or deny it?
+
+The Ethicals deny it. There is no settled boundary between God and man,
+but a certain transition between the finite and infinite in the God-man;
+no absolute separation between the elect and the lost, but a sort of
+gradual transition in the presentation of a universal redemption; no
+absolute separation between sin and holiness, but a certain conciliation
+in the sanctification of the saints, no absolute separation between life
+before and after death, but a bridge across the chasm in the state of
+believing. Nor is there between the Bible and the books of men, but a
+kind of affinity in the legends of Scripture; and, finally, not between
+the condition with or without faith, but a transfer from the one into
+the other in the preparatory workings.
+
+The practical result of this false standpoint is the belief in
+a *medium*between believers and unbelievers, viz., a *third*state for
+
+troubled souls. Or we may call it philosophy; but then it
+is earthborn, in its pantheistic obstinacy refusing to admit the absolute
+contrast between the Creator and the creature, and boldly interpreting
+Scripture’s ministry of reconciliation in the sense of an essential
+system, *i.e.,*the blending of one being with another.
+
+Scripture is diametrically opposed to this: “And God divided
+the light from the darkness”; (Gen. i. 4)
+“And God divided the waters from the dry land”; “And
+God divided the day from the night.” Hence all who acknowledge the
+absolute separation between faith and unbelief must array themselves
+in direct opposition to the Ethicals. This explains the cause of our
+ecclesiastical conflict.
+
+They that deny the contrasts and efface the divinely ordained
+boundaries *must* be irenical; *i.e.,*they must contend
+that a breach in the Church can not be allowed. The fatal inference
+of their pantheistic tendency is “No *breaches,*but
+*bridges*.” Hence our position antagonizes this standpoint
+along the whole line of our ecclesiastical and theological life, with
+definite, stern, and absolute consistency: particular grace, or Christ
+*pro omnibus;*only two states, or three; direct regeneration,
+or universal, preparatory operations; no divided Church, or a Church
+loyal to the Word of God; a God-man, or a Mediator between God and man;
+a Scripture absolutely inspired, or full of enlightened human opinions;
+and regarding faith, a disposition expressly brought into the sinner,
+or the restoration of a soul-function. Hence there is opposition all
+along the line.
+
+From this the relation between Scripture and faith is easily
+ascertained. Both exist for the sake of the sinner by virtue of sin,
+and to remove sin; the one not without the other, both belonging
+together. Without Scripture faith is an aimless gazing. Without faith
+Scripture is a closed book.
+
+Experience proves it. Persons endowed with the faculty of faith,
+but ignorant of Scripture or wrongly instructed, make no progress; once
+instructed, they live and gain strength. On the contrary, to persons
+familiar with Scripture from their youth, but without faith, the Bible is
+a closed book; the Word can not enter them. But when both Scripture and
+saving faith bless the soul, then the glory of the Holy Spirit appears;
+for it was He who first granted the particular grace of Scripture,
+and then also that of faith.
+
+This is the reason why the arguments for the truth of the Scripture
+never avail anything. A person endowed with faith gradually
+
+will accept Scripture; if not so endowed he will never
+accept it, tho he should be flooded with apologetics. Surely it is
+our duty to assist seeking souls, to explain or remove difficulties,
+sometimes even to silence a mocker; but to make an unbeliever have faith
+in Scripture is utterly beyond man’s power.
+
+Faith and Scripture belong together; the Holy Spirit intended the one
+for the other. The latter is so arranged as to be accepted by the sinner
+endowed with faith. And faith is a disposition, completely reconciling the
+consciousness and the Scripture. Hence the “testimonium Spiritus
+Sancti” should be taken, not in the rationalistic or Ethical
+sense of being the operation upon a certain universal disposition, but
+as a real testimony of the Holy Spirit, who dwells in the consciousness,
+and gives us to experience the adaptation—like that of the eye to
+color—of Scripture to faith.
+
+---
+[[WHS2 39 Seventh Chapter. Faith, 39. Defective Learning|← WHS2 39 Seventh Chapter. Faith, 39. Defective Learning]] · [[Volume Two. The Work of the Holy Spirit in the Individual|Contents]] · [[WHS2 41 Seventh Chapter. Faith, 41. Testimonies|WHS2 41 Seventh Chapter. Faith, 41. Testimonies →]]
