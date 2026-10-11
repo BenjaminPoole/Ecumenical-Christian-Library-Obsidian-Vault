@@ -18,6 +18,8 @@ who still have need of milk [ef. I Cor. 3: 2], who are slow in reaching the stag
 
 ## Tur Mass
 
+A little while ago you referred me to Roffensis; now, when you are discussing the Mass, sometimes you refer to your Vindication written against Luther, other times you perpetrate some miserable rubbish. If one may measure the Vindication by your cawings (like a lion by its claws), it does Luther as little harm as your present empty chattering does me. I do not know the contents of your Vindication, for your books never reach us. So I will offer here only a very few things about the Mass, but those so unassailable that, even if not only you but also the Roman pontiff with all his adherents should move up all your engines of knowledge and eloquence, you would all have to retire without having accomplished a thing. And this solid and immovable strength does not come from myself, but, like everything else that I bring forward against you, is drawn from the storehouse of the Holy Scriptures. So, in the first place:
+
 The New Testament is eternal, as is proved by Isa. 9:2 and Jer. 31:31. "Therefore the blood also with which the New Testament is sprinkled must be eternal; for it is the blood of the eternal Son of God, I Pet. 1: 19; Heb. 9: 14.
 
 **I.** The blood of Christ alone takes away our sins; for He is the only one who takes away the sns of the world and who has reconciled all things through His blood, Col. 1: 20. For if sins could have been expiated in any other way, Christ would have died in vain, and those who eat Him would still hunger, those who drink Him would none the less thirst. Far be this from the minds of believers. He Himself, lifted up from the earth, has drawn all things to Himself [ef. Jn. 12:32]. But

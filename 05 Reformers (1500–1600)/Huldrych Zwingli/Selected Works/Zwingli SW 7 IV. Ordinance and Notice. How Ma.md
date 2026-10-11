@@ -47,6 +47,10 @@ n, e ἀ ποὰ x ε - d 4 σι: 1.4 ot In ν PL '. 3 oA PI - 1 [4 = E ᾿ a - 
 
 ing that such right may be extended to them, then they shall be _accepted for the sake of especial friendship, and they shall be ' treated with regard to this law in every way as our own, but we shall not otherwise burden ourselves with any one dwelling outside of the territories of the city of Zurich.
 
+And in order that such legal business may be attended to promptly, as necessity demands, we have chosen as judges six men, two from the people’s priests in our city, who are taught in the Word of God, also two from the small, and two from the large council. Among these, each one shall serve two months as magistrate or judge, shall summon, order, collect, examine, practice and execute such court business as necessity demands.
+
+Whatever they pronounce and judge, according to the contents of the following articles and ordinances, shall stand. If, however, any of our people, or others, wish to appeal, it shall be made to no other body than the Honorable Council in our city of Zurich.
+
 The court days are, and shall be, on Monday and Thursday. The seat or place of the court the judge shall choose and announce. Accordingly, when it has struck one o’clock in the afternoon, then the judges, secretary, the court beadle, and whoever serves the court, shall be there, on pain of breaking their oath, and shall assist in the action, as is proper. But if any one cannot be there on account of business of the city, or other lawful cause, then the burgomaster shall, by means of the beadle, appoint another, and let him sit. And whoever is judge at a time shall have possession of the seal of the court, and shall, through the beadle, announce orally or by other notice the sessions and orders, always in good time. "The cases which come before him, and which need consideration or deliberation, he shall not postpone or hold up more than a week, so that the people may be joined or separated promptly.
 
 And here follow the articles and ordinances concerning marriage.

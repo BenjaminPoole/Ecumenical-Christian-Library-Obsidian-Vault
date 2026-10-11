@@ -259,7 +259,7 @@ The fourth edition is that now appearing. It was projected by two Swiss scholars
 
 The last part of the second volume appeared in October 1898. The next part to appear was the first of the seventh volume, for very wisely it was determined to do as Schuler and Schulthess did and interrupt the succession of the trea- - tises with a portion of the letters to and by Zwingli. For the collection of these letters Egli had especially exerted himself and had much increased their number by diligent search on every hand, both in and out of Switzerland. It would have been a particular delight for him to have seen his labours in print, but it was not to be.
 
-The correspondence in the Schuler and Schulthess edition
+The correspondence in the Schuler and Schulthess edition fills volumes seven and eight, and in the new edition the same numbers will be given to them. Volume seven was finished on December 31, 1910. Another change in the order of publication was made, and now volume three is appearing alternately with volume eight. Nothing seems to be lacking to give this edition scholarly completeness. Each of its contents is provided with a special introduction; it is then studied philologically and bibliographically, and in the case of the German treatises, because of the difficulty of reading the Swiss German, provided with a glossary at the foot of the page. Besides, each treatise has adequate notes giving information on all appropriate points. The contents are arranged chronologically. All of these editions are found in the library of Union Theological Seminary, in New York City.
 
 [Τὸ has two title-pages. Thus of Vol. I Corpus Reformatorum Volumen]
 
@@ -320,6 +320,8 @@ Most of the translations which appear in this volume were made years ago from th
 viii Preface willing to revise their translations with the new text in hand. These translators are Mr. Henry Preble of New York City, who has done all the Latin treatises, and Lawrence A. McLouth, Professor of German, New York University, and Walter Lichtenstein, Ph.D., librarian of Northwestern University, who have made the renderings from the German. When the present volume was undertaken, I asked permission of the editors and publishers to be allowed to use such portion of their notes and introductions as suited my purpose. They have generously given me permission and so my readers will share with those who use the new edition, in the original, a considerable part of their learning.
 
 I desire here to thank these editors, publishers and translators for their generosity and manifestation of interest in this enterprise. By this combination of Swiss and American labours, Zwingli is properly presented to the English-speaking public, as he would not be without it.
+
+Those familiar with my Selections from Zwingli, published by the University of Pennsylvania in 1901, will notice that in this and the volumes which, I trust, are to follow, the contents of that volume appear. For permission to reprint that matter I am indebted to the courtesy of the Department of History of that University, and I here express my grateful thanks.
 
 [Selected works of Huldreich Zwingli, (1484-1531) the Reformer of]
 
