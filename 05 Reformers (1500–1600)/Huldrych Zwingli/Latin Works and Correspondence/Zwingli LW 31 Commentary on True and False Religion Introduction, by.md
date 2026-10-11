@@ -244,6 +244,8 @@ Their pretended poverty is deception and fraud. Forin ' reality they enjoy great
 
 In no other section of the Commentary does the author write with more fascinating style, more stinging satire, more cogent argument. Wernle describes it as “a brilliant and terrible arraignment of the vow-bound monks."
 
+The author directs the reader to the discussion of the subject in his books of the two years preceding the Commentary. They are: Archeteles (1522); Sixty-seven Conclusions (1523); Refutation of the Canon of the Mass (1523). In this section he inserts verbatim what he wrote in the Reply to Emser. He also refers to a book on Invocation of Saints (1523) by Clichtove, Bishop of Chartres, France. However, he disclaims having read it carefully, partly for want of time and partly on account of the puerility of its contents. He speaks of the author as “a theologian taking the Sacred Writings in hand like a donkey running a solemn ceremony.”
+
 His own view of the invocation of saints is tersely expressed in the following sentence: “We worship them rightly when we
 
 all cling firmly to that God to whom they also in their lifetime clung and taught others to cling.”.. “Faith needs no protecting patron; it knows only one God."

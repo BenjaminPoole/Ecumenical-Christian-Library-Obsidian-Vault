@@ -44,6 +44,8 @@ The TWpcliffe Society, WITH AN INTRODUCTORY MEMOIR,
 
 WHEN it devolved on the Committee of the Wyeliffe Society to decide on the subject of its first volume, they concluded that in effect that question was determined for them already by the illustrious name which the Society had adopted, and that they must commence the series with ‘ The Tracts and Treatises of John de Wycliffe.”
 
+They well knew that one of the corresponding members of the Society was, by his previous researches, more fully qualified to engage in the work of preparing such a volume, than probably any other writer in the kingdom: the Committee accordingly requested the Rev. Robert Vaughan, D.D., to undertake the task, and the present volume is the result. Its contents are divided into three parts: the first is biographical, containing facts and observations concerning the life of Wycliffe. The second part is analytical, supplying a critical account of the writings of Wycliffe that are still in manuscript, with numerous extracts, and also a notice of the Trialogus, with a translation from the original Latin of the more important chapters of that treatise; whilst
+
 viii ADVERTISEMENT. the third part may be called bibliothecal, as it contains those tractates of the Reformer which have been already printed at different periods, and in various forms.
 
 The first part therefore includes all that is known concerning the personal history of the Reformer, the result of a most laborious, extensive, and repeated examination of the extant writings of Wycliffe, and of all other materials which could be made available for the purpose.
