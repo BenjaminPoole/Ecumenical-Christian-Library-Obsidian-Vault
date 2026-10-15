@@ -39,6 +39,12 @@ John Charles Ryle (1816–1900), first Bishop of Liverpool and the outstanding e
 
 Author index: **[[JC Ryle|J. C. Ryle]]** *(214 notes)*
 
+## Albrecht Ritschl
+
+Albrecht Ritschl (1822–1889), professor at Bonn and Göttingen, after Schleiermacher the most influential German Protestant theologian of the century and the founder of the Ritschlian school. The third, constructive volume of *The Christian Doctrine of Justification and Reconciliation* in the translation edited by H. R. Mackintosh and A. B. Macaulay (1900), read from the page images.
+
+Author index: **[[Albrecht Ritschl|Albrecht Ritschl]]** *(12 notes)*
+
 ## Charles Spurgeon
 
 Charles Haddon Spurgeon (1834–1892), the "Prince of Preachers," was the Reformed Baptist pastor of the New Park Street Chapel and then the Metropolitan Tabernacle in London for thirty-eight years. He left one of the largest bodies of published work of any Christian author: the weekly sermons alone run to 63 volumes and 3,512 sermons, preached between 1855 and 1917. Alongside them are *The Treasury of David*, *Morning and Evening*, *Lectures to My Students*, *All of Grace*, *The Soul Winner*, *Faith's Checkbook*, *John Ploughman's Talk*, *Commenting and Commentaries*, *Till He Come*, the *Sermons on Proverbs*, and *A Puritan Catechism*. Texts from the [Christian Classics Ethereal Library](https://www.ccel.org/ccel/spurgeon) and [The Spurgeon Archive](https://archive.spurgeon.org/treasury/treasury.php).
