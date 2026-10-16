@@ -1,0 +1,340 @@
+---
+title: "“Redeemer” and “Redemption”"
+author: "Benjamin B. Warfield"
+work: "Biblical Doctrines"
+section: 11
+year: "1929"
+written: "1929"
+source: "https://www.monergism.com/thethreshold/sdg/warfield/Biblical%20Doctrines-Warfield.pdf"
+tags:
+  - victorian
+  - benjamin-b-warfield
+---
+
+# “Redeemer” and “Redemption”
+
+There is no one of the titles of Christ which is more precious to Christian hearts than “Redeemer.” There are others, it is true, which are more often on the lips of Christians. The acknowledgment of our submission to Christ as our Lord, the recognition of what we owe to Him as our Saviour,—these things, naturally, are most frequently expressed in the names we call Him by. “Redeemer,” however, is a title of more intimate revelation than either “Lord” or “Saviour.” It gives expression not merely to our sense that we have received salvation from Him, but also to our appreciation of what it cost Him to procure this salvation for us. It is the name specifically of the Christ of the cross. Whenever we pronounce it, the cross is placarded before our eyes and our hearts are filled with loving remembrance not only that Christ has given us salvation, but that He paid a mighty price for it.
+
+It is a name, therefore, which is charged with deep emotion, and is to be found particularly in the language of devotion. Christian song is vocal with it. How it appears in Christian song, we may see at once from old William Dunbar’s invocation, “My King, my Lord, and my Redeemer sweit.” Or even from Shakespeare’s description of a lost loved-one as “The precious image of our dear Redeemer.” Or from Christina Rossetti’s,
+
+“Up Thy Hill of Sorrows
+
+Thou all alone,
+
+Jesus, man’s Redeemer,
+
+Climbing to a Throne.”
+
+Best of all perhaps from Henry Vaughan’s ode which he inscribes “To my most merciful, my most loving, and dearly-loved Redeemer; the ever blessed, the only Holy and Just One, Jesus Christ, The Son of the living God, and the Sacred Virgin Mary,” and in which he sings to
+
+“My dear Redeemer, the world’s light,
+
+And life too, and my heart’s delight.”
+
+Terms of affection gather to it. Look into your hymns. Fully eight and twenty of those in our own “Hymnal” celebrate our Lord under the name of “Redeemer.” 1
+
+Let our whole soul an offering be
+
+To our Redeemer’s Name;
+
+While we pray for pardoning grace,
+
+Through our Redeemer’s Name;
+
+Almighty Son, Incarnate Word,
+
+Our Prophet, Priest, Redeemer, Lord;
+
+To that dear Redeemer’s praise
+
+Who the covenant sealed with blood; O for a thousand tongues to sing My dear Redeemer’s praise; To our Redeemer’s glorious Name Awake the sacred song; Intercessor, Friend of sinners, Earth’s Redeemer, plead for me; All hail, Redeemer, hail, For Thou hast died for me; Let us learn the wondrous story Of our great Redeemer’s birth; Guide where our infant Redeemer is laid; My dear Redeemer and my Lord; All glory, laud and honor To Thee Redeemer, King; Your Redeemer’s conflict see; Maker and Redeemer, Life and Health of all; Our blest Redeemer, ere He breathed His tender, last farewell; Here the Redeemer’s welcome voice Spreads heavenly peace around; The church our blest Redeemer saved With His own precious blood; The slain, the risen Son, Redeemer, Lord alone; The path our dear Redeemer trod May we, rejoicing, tread; Till o’er our ransomed nature The Lamb for sinners slain,
+
+Redeemer, King, Creator,
+
+In bliss returns to reign;
+
+O the sweet wonders of that cross
+
+Where my Redeemer loved and died;
+
+Once, the world’s Redeemer, dying,
+
+Bore our sins upon the Tree;
+
+Redeemer, come: I open wide
+
+My heart to thee;
+
+I know that my Redeemer lives;
+
+For, every good
+
+In the Redeemer came;
+
+A heart resigned, submissive, meek,
+
+My great Redeemer’s throne;
+
+Jesus, merciful Redeemer;
+
+Father, and Redeemer, hear.
+
+From our earliest childhood the preciousness of this title has been impressed upon us. In “The Shorter Catechism,” as the most precise and significant designation of Christ, from the point of view of what He has done for us, it takes the place of the more usual “Saviour,” which never occurs in that document. Thus there is permanently imprinted on the hearts of us all, the great fact that “the only Redeemer of God’s elect is the Lord Jesus Christ”; through whom, in the execution of His offices of a Prophet, of a Priest, and of a King, God delivers us out of the estate of sin and misery and brings us into an estate of salvation. 2 The same service is performed for our sister, Episcopalian, communion by its “Book of Common Prayer.” The title “Redeemer” is applied in it to Christ about a dozen times: 3
+
+O God the Son, Redeemer of the world;
+
+Our blessed Saviour and Redeemer;
+
+Joyfully receive Him for our Redeemer;
+
+Jesus Christ, our Mediator and Redeemer;
+
+The merits of our Saviour and Redeemer;
+
+O Lord, our Saviour and Redeemer;
+
+Jesus Christ, our only Saviour and Redeemer;
+
+Our Redeemer and the author of everlasting life;
+
+Our Redeemer and the author of everlasting life;
+
+O Lord our strength and our Redeemer;
+
+Only Mediator and Redeemer.
+
+This constant pregnant use of the title “Redeemer” to express our sense of what we owe to Christ, has prevailed in the Church for, say, a millennium and a half. It comes with a little shock of surprise to learn that it has not always prevailed. In the first age of the Church, however, the usage had not become so characteristic of Christians as to stamp itself upon their literary remains. So far as appears, the first occurrence of the epithet “Redeemer” as applied to Christ in extant Christian literature is in Justin Martyr’s “Dialogue with Trypho the Jew,” which was written about the middle of the second century. 4 And it does not seem to occur frequently for a couple of centuries more. This is not to say that it was not in use among Christians during this early period. When Eusebius opens the tenth Book of his “Church History” with the words, “Thanks for all things be given unto God the omnipotent Ruler and King of the universe, and the greatest thanks to Jesus Christ, the Saviour and Redeemer of our souls,” it is quite clear that he is not describing Christ by an unwonted name. Even more clear is it that Justin is not inventing a new name for Christ when he tells Trypho that Christians depend upon Jesus Christ to preserve them from the demons which they had served in the time of their heathenism, “for we call Him Helper and Redeemer, the power of whose name even the demons do fear.” Indeed, he explicitly tells us that the Christians were accustomed to employ this name of Christ: “we call Him Redeemer” he says. Nevertheless it seems hardly likely that so little trace of the use of this designation would have been left in the extant literature of the day, if it had occupied then quite the place it has occupied in later ages. This applies also to the New Testament. For, despite the prominence in the New Testament of the idea of redemption wrought by Christ, the designation “Redeemer” is not once applied to Christ in the New Testament. The word “Redeemer” occurs, indeed, only a single time in the New Testament, and then as a title of Moses, not of Christ,— although it is applied to Moses only as a type of Christ and presupposes its employment of Christ. 5
+
+The comparative rarity of the use of this title of Christ in the first age of the Church is probably due, in part at least, to the intense concreteness of the Greek term (Λυτρωτής) which our “Redeemer” represents, and the definiteness with which it imputes a particular function to our Lord, as Saviour. This gave it a sharply analytical character, which, perhaps, militated against its adoption into wide devotional use until the analytical edges had been softened a little by habit. A parallel may perhaps be found in the prevalence in the New Testament of the locution, “He died in our behalf” over the more analytically exact, “He died in our stead.” The latter occurs; occurs frequently enough to show that it expresses the fact as it lay in the minds of the New Testament writers. But these writers expressed themselves instinctively rather in the former mode because it was a more direct expression of the sense of benefit received, which was the overpowering sentiment which filled their hearts. That Christ died instead of them was the exact truth, analytically stated; that He died for their sake was the broad fact which suffused their hearts with loving emotion.
+
+The word “Redeemer” is of course of Latin origin, and we owe it, together with its cognates “redemption,” “redeem,” “redeemed,” to the nomenclature of Latin theology, and ultimately to the Latin Bible. These Latin words, however, do not, at their best, exactly reproduce the group of Greek words which they represent in the New Testament, although they are underlaid by the same fundamental idea of purchase. Etymologically, redimo, ‘redeem,’ means to buy back, while the Greek term which it renders in the New Testament (λυτροῦσθαι) means rather to buy out, or, to employ its exact equivalent, to ransom. Our English word “ransom” is, of course, philologically speaking, only a doublet of “redemption.” But, in losing the significant form of that word, it has more completely than that word lost also the suggestion that the purchase which it intimates is a re-purchase. It might have been better, therefore, if, instead of “redemption,” “to redeem,” “redeemed,” “redeemer,” we had employed as the representatives of the Greek terms (λυτροῦσθαι, λύτρωσις, ἀπολύτρωσις, λυτρωτής) “ransom,” “to ransom,” “ransomed,” “ransomer.”
+
+Of these, only the noun, “ransom” has actually a place in the English New Testament,—in the great passage in which our Lord Himself declares that He “came, not to be ministered unto but to minister, and to give His life a ransom for many” (Mt. 20:28 = Mk. 10:45), and in its echo in the scarcely less great declaration of Paul that the one mediator between God and men, Himself man, Christ Jesus, “gave Himself a ransom for all” (1 Tim. 2:6). Nevertheless these terms, emphatically defining, like the Greek terms which they represent, the work of Christ in terms of ransoming, have made a place for themselves in the language of Christian devotion only a little inferior to that of those which somewhat less exactly define it in terms of redeeming. The noun of agent, “Ransomer,” is used, it is true, comparatively rarely; although its use, as a designation of Christ, seems actually to have preceded in English literature that of “Redeemer,” or even of its forerunner, the now obsolete “Redemptor.” The earliest citation for “Redeemer” given by the “Oxford Dictionary,” at all events, comes from the middle of the fifteenth century 6—of “Redemptor” from the late fourteenth 7—while “Ransomer” is cited from the “Cursor Mundi,” some half a century earlier: “Christ and king and ransconer …” “Ransomer” is found side by side with “Redeemer” in William Dunbar’s verses at the opening of the sixteenth century: “Thy Ransonner with woundis fyve”; and is placed literally by its side by John Foxe in the “Book of Martyrs” in the middle of that century, apparently as more closely defining the nature of the saving act of Him whom Foxe calls “the onlie sauior, redeemer and raunsomer of them which were lost in Adam our forefather.”
+
+The other forms have, however, been more widely used in all ages of English literature. The character of their earlier use may be illustrated again from William Dunbar who tells us that “the heaven’s king is clad in our nature, Us from the death with ransom to redress”; or from a couple of very similar instances from even earlier verses. In one, Christ is described as Him “that deyid up on the rood, To raunsoun synfull creature.” 8 In the other He is made Himself to say
+
+“Vpon a crosse nayled I was for the,
+
+Soffred deth to pay the rawnison.” 9
+
+Milton, our theological poet by way of eminence, not only speaks of Christ as, in rising, raising with Himself, “His brethren, ransom’d with His own dear life,” but discriminatingly describes Him as “man’s friend, his mediator, his design’d both ransom and redeemer voluntarie.” “We learn with wonder,” says Cowper, almost in Milton’s manner, “how this world began, who made, who marr’d, and who has ransom’d man.” Or, coming at once to our own days Tennyson can put upon the lips of a penitent sinner, the desire to minister (as he expresses it) “to poor sick people, richer in His eyes who ransom’d us, and haler too, than I.” Let us appeal, however, again to our hymns.
+
+Surprisingly few instances appear, in the hymns gathered in our own “Hymnal” at least, of the use of the noun “ransom,” for which direct warrant is given in the text of our English New Testament. Only, it appears, these three: 10
+
+Father of heaven, whose love profound
+
+A ransom for our souls hath found;
+
+I’d sing the precious blood He spilt
+
+My ransom from the dreadful guilt
+
+Of sin and wrath divine;
+
+Jesus, all our ransom paid,
+
+All Thy Father’s will obeyed,
+
+Hear us, Holy Jesus.
+
+But as over against the dozen times that the word “redeemed” occurs 11 in this “Hymnal” we have counted no fewer than twenty-two times in which the word “ransomed” occurs. In a couple of these instances, the two words stand together: 12
+
+He crowns thy life with love,
+
+When ransomed from the grave;
+
+He that redeemed my soul from hell,
+
+Hath sovereign power to save.
+
+And when, redeemed from sin and hell,
+
+With all the ransomed throng I dwell.
+
+The others run as follows: 13
+
+Then be His love in Christ proclaimed
+
+With all our ransomed powers;
+
+Ransomed, healed, restored, forgiven,
+
+Who like me His praise should sing;
+
+Sing on your heavenly way,
+
+Ye ransomed sinners, sing;
+
+Ye ransomed from the fall,
+
+Hail Him who saves you by His grace;
+
+Bring our ransomed souls at last
+
+Where they need no star to guide;
+
+One, the light of God’s own presence
+
+O’er His ransomed people shed;
+
+A wretched sinner, lost to God,
+
+But ransomed by Emanuel’s blood;
+
+Thy ransomed host in glory;
+
+My ransomed soul shall be
+
+Through all eternity
+
+Offered to thee;
+
+Our ransomed spirits rise to Thee;
+
+Let none whom He hath ransomed fail to greet Him;
+
+When we, a ransomed nation,
+
+Thy scepter shall obey;
+
+Till o’er our ransomed nature
+
+The Lamb for sinners slain,
+
+Redeemer, King, Creator,
+
+In bliss returns to reign;
+
+Till all the ransomed number
+
+Fall down before the throne;
+
+Blessed are the sons of God,
+
+They are bought with Christ’s own blood,
+
+They are ransomed from the grave;
+
+Till all the ransomed church of God
+
+Be saved to sin no more;
+
+Thy blood, O Lord, was shed
+
+That I might ransomed be;
+
+Where streams of living water flow
+
+My ransomed soul He leadeth;
+
+His laud and benediction
+
+Thy ransomed people raise.
+
+It does not appear, then, that Christian emotion would have found any more difficulty in gathering about the term “ransom” and its derivatives, and consecrating them as the channel of its expression, than it has found in gathering around and consecrating “redeem” and its derivatives. Had these terms taken their proper place in our English New Testament as the exact renderings of the Greek terms now less precisely rendered by “redeem” and its derivatives, and had they from the English New Testament entered into our familiar Christian speech, there is no reason to doubt that “Christ our Ransomer” would now be as precious to the Christian heart as “Christ our Redeemer” is. There is certainly no one who will not judge with old John Brown that “a Ransomer,” especially one who has ransomed us “at such a rate,” “will be most tender” of His ransomed ones; 14 and His ransomed ones, realizing what His ransoming of them involved, may be trusted—if we may take the language of our hymns as indications—to speak of Him with the deepest gratitude and love. Nor should we consider it a small gain that then the sense of the New Testament representations would have been conveyed to us more precisely and with their shades of meaning and stresses of emphasis more clearly and sharply presented. After all is said, the New Testament does not set forth the saving work of Christ as a redemption, but as a ransoming; and does not present Him to us therefore so much as our Redeemer as our Ransomer; and it is a pity that we have been diverted by the channels through which we have historically received our religious phraseology from the adoption and use in our familiar speech of the more exact terminology.
+
+One of the gains which would have accrued to us had this more exact terminology become our current mode of speech concerning our Lord’s saving action, is that we should then have been measurably preserved from a danger which has accompanied the use of “redeem” and its derivatives to describe it—a danger which has nowadays become very acute—of dissipating in our thought of it all that is distinctive in our Lord’s saving action. We are not saying, of course, that “ransom,” any more than other terms, is immune from that disease of language by which, in the widening application of terms, they suffer a progressive loss of their distinctive meaning. But “ransom” has, in point of fact, retained with very great constancy its intrinsic connotation of purchase. It may possibly be that, in an extreme extension of its application, it is occasionally employed in the loose sense of merely “to rescue.” The “Standard Dictionary” gives that as one of its definitions, marking it as “archaic”; though the “Oxford Dictionary” supplies no citations supporting it. At all events, the word does not readily lend itself to evacuating extensions of application; and when we say “to ransom” our minds naturally fix themselves on a price paid as the means of the deliverance intimated. The word is essentially a modal word; it emphasizes the means by which the effect it intimates is accomplished, and does not exhaust itself merely in declaring the effect. The same, of course, may be said in principle of “redeem.” But this word has suffered far more from attrition of meaning than “ransom,” and indeed had already lost the power inevitably to suggest purchase before it was adopted into specifically Christian use. We shall not forget, of course, what we have just noted, that “ransom” and “redeem” are at bottom one word; that they are merely two English forms of the Latin redimo. It is, no doubt, inexact, therefore, to speak of the usage of the Latin redimo and its derivatives as if it belonged to the early history of “redeem” more than to that of “ransom.” Nevertheless it is convenient and not really misleading to do so, when we have particularly in mind the use of the two words in Christian devotional speech. “To redeem” has come into our English New Testament and our English religious usage in direct and continuous descent from its previous usage in Latin religious speech and the Latin Bible; while “to ransom” has come in from without, bringing with it its own set of implications, fixed through a separate history. And what needs to be said is that “to ransom” has quite firmly retained its fixed sense of securing a release by the payment of a price, while “to redeem” had already largely lost this sense when it was first applied in the Latin New Testament to render Greek terms, the very soul of which was this intimation of the payment of a price, and needed to reacquire this emphasis through the influence of these terms shining through it; and that it moreover continues to be employed in general usage today in very wide and undistinctive senses which naturally react more or less injuriously upon the particular meaning which it is employed in Christian usage to convey. 15
+
+The Latin verb redimo already in its classical usage was employed not only, in accordance with its composition, in the sense of “to buy back,” and not merely more broadly in the sense of “to buy,”—whether to “buy off” or “to buy up”; but, also in more extended applications still, in the senses simply of “to release” or “rescue,” “to acquire” or “obtain,” or even “to obviate” or “avert.” It had acquired, indeed, a special sense of “to undertake,” “to contract,” “to hire” or “to farm.” In accordance with this special sense, its derivative, redemptor, in all periods of the language, was used, as the synonym of the less common conductor, of a contractor, undertaker, purveyor, farmer,—as when Cicero speaks of the redemptor who had contracted to build a certain column, or Pliny of the redemptor who farmed the tolls of a bridge. When Christ was called the Redemptor, then, there was some danger that the notion conveyed to Latin ears might be nearer that which is conveyed to us by a Sponsor or a Surety (the seventeenth century divines spoke freely of Christ as our “Undertaker”) than that of a Ransomer; and this danger was obviated only by the implication of the Greek terms which this and its companion Latin terms represented and by which, and the contexts natural to them, they were held to their more native significance, not, indeed, of buying back, but of buying off. The persistence of the secular use of these terms, parallel with the religious, but with a more or less complete neglect of their original implication of purchase—through the whole period of their use in Latin, and later of the use of their descendants in English—has constituted a perpetual danger that they would, by assimilation, lose their specific implication of purchase in their religious usage also. Obviously in these circumstances they cannot throw up an effective barrier against the elimination from them of the idea of purchase even in their religious applications, on the setting in of any strong current of thought and feeling in that direction. Men who have ceased to think of the work of Christ in terms of purchasing, and to whom the whole conception of His giving His life for us as a ransom, or of His pouring out His blood as a price paid for our sins, has become abhorrent, feel little difficulty, therefore, in still speaking of Him as our Redeemer, and of His work as a Redemption, and of the Christianity which He founded as a Redemptive Religion. The ideas connected with purchase are not so inseparably attached to these terms in their instinctive thought that the linguistic feeling is intolerably shocked by the employment of them with no implication of this set of ideas. Such an evacuation of these great words, the vehicles thus far of the fundamental Christian confession, of their whole content as such, is now actually going on about us. And the time may be looked forward to in the near future when the words “Redeemer” “redemption” “redeem” shall have ceased altogether to convey the ideas which it has been thus far their whole function in our religious terminology to convey.
+
+What has thus been going on among us has been going on at a much more rapid pace in Germany, and the process has reached a much more advanced stage there than here. German speech was much less strongly fortified against it than ours. It has been the misfortune of the religious terminology of Germany, that the words employed by it to represent the great ransoming language of the New Testament are wholly without native implication of purchase. Redeem, redemption, Redeemer, at least in their fundamental etymological suggestion, say purchase as emphatically as the Greek terms, built up around the notion of ransom, which they represent; and they preserve this implication in a large section of their usage. The German erlösen, Erlösung, Erlöser, on the contrary, contain no native suggestion of purchase whatever; and are without any large secular usage in which such an implication is distinctly conveyed. 16 They mean in themselves just deliver, deliverance, Deliverer, and they are employed nowhere, apart from their religious application, with any constant involvement of the mode in which the deliverance is effected. One of their characteristic usages, we are told by Jacob Grimm, is as the standing expression in the Märchen for the act of disenchanting (equivalent to entzaubern); in such phrases, for example, as “the princess is now erlöst,” “the serpent can be erlöst by a kiss,” “at twelve o’clock they were all erlöst.” 17 If you will turn over the pages of the brother Grimm’s “Kinderund Haus-Märchen,” you will come about the middle of the book upon the tale of “The King of the Golden Mountain,” and may read in it of how a young merchant’s son comes one day to a magnificent castle and finds in it nothing but a serpent. “The serpent, however,” we read on, “was a bewitched maiden, who rejoiced when she saw him and said to him, ‘Art thou come, my Erlöser? I have already waited twelve years for thee, this kingdom is bewitched and thou must erlösen it.’ ” A still more instructive passage may be met with a few pages earlier, in the tale of “The Lark.” There, when the traveller found himself in the clutches of a lion, he begged to be permitted to ransom (loskaufen) himself with a great sum, and so to save (retten) himself; but the lion himself, who was, of course, an enchanted prince, was—at the proper time and by the proper means— neither ransomed nor saved, but simply erlöst. Erlösen, Erlösung, Erlöser of themselves awaken in the consciousness of the hearer no other idea than that of deliverance; and although, in religious language, they may have acquired suggestions of purchase by association— through their employment as the representatives of the Greek terms of ransoming and the contexts of thought into which they have thus been brought,—these do not belong to them intrinsically and fall away at once when external supports are removed.
+
+We cannot feel surprise accordingly, when we meet in recent German theological discussion—as we repeatedly do—an express distinction drawn between Loskaufung, “ransoming,” as a narrow term intimating the manner in which a given deliverance is effected, and Erlösung, “deliverance,” as a broad term, declaring merely the fact of deliverance, with no intimation whatever of the mode by which it is effected. Thus, for example, Paul Ewald commenting on Eph. i. 7, remarks 18 that there is no reason why ἀπολύτρωσις should be taken there as meaning, “ransoming” (Loskaufung), rather than “in the more general sense of Erlösung,” that is to say, of “deliverance.” Similarly A. Seeberg speaks 19 of ἀπυλύτρωσις as having lost in the New Testament its etymological significance, and come to mean, as he says, “nothing more than Erlösung,” that is, “deliverance.” And again G. Hollmann declares 20 that the Hebrew verb  ָּפָד הwhile meaning literally “to ransom” (loskaufen), yet, in the majority of the passages in which it occurs, means simply “to liberate,” “to deliver” (befreien, erlösen); that is to say, “to free,” “to liberate,” and not “to ransom,” are in his mind synonymous with erlösen. We are not concerned for the moment with the Tightness, or the wrongness, of the opinions expressed by these writers with respect to the meaning of the Biblical terms which they are discussing. What concerns us now is only that, in endeavoring to fix their meaning, these writers expressly discriminate the term erlösen from loskaufen, and expressly assign to it the wide meaning “to deliver,” and thus bring it into exact synonymy with such other non-modal words as “to free,” “to liberate.” We may speculate as to what might have been the effect on the course of German religious thought if, from the beginning, some exact reproductions of the Greek words built up around the idea of ransom—such as say loskaufen, Loskaufung, Loskaufer,—had been adopted as their representatives in the pages of the German New Testament, and, consequent upon that, in the natural expression of the religious thought and feeling of German Christians. But we can scarcely doubt that it has been gravely injurious to it, that, in point of fact, a loose terminology, importing merely deliverance, has taken the place of the more exact Greek terms, in the expression of religious thought and feeling; and thus German Christians have been habituated to express their conceptions of Christ’s saving act in language which left wholly unnoted the central fact that it was an act of purchase.
+
+The way to the reversion which has thus taken place of late in German religious speech, from the narrower significance which had long been attached in Christian usage to the word Erlösung, “ransoming,” to its wider, native sense, “deliverance,” was led—like the way to so many other things which have acted disintegratingly upon Christian conceptions—by Schleiermacher. So, at least, Julius Kaftan tells us. “Schleiermacher,” says he, 21 “explained the peculiar nature of Christianity by means of the notion of Erlösung. Christianity is the religion in which every thing is related to the Erlösung accomplished by Jesus of Nazareth. It dates from this that the word is employed by us in a comprehensive sense. We say of the Lord that He is our Erlöser. We sum up what He has brought us in this word, Erlösung.” Kaftan himself is of the opinion that justice is scarcely done to the definition of Christianity when it is thus identified with Erlösung, deliverance, taken in the wide, undifferentiated sense given it by Schleiermacher, and after him by the so-called “Liberal theology.” A closer definition, he thinks, is needed. But it is very significant that he seeks this closer definition by emphasizing not the mode in which the deliverance is wrought, but rather the thing from which the deliverance is effected. “The word Erlösung,” he says, “is of a formal nature. That it may have its full sense, there must be added that from which we are erlöst.” This he declares is, in the Christian, the New Testament conception, the world. And so, he goes on to assert with great emphasis, “The fundamental idea of Christianity is Erlösung from the world.”
+
+We are not concerned here with the justice of the opinion thus expressed. We are not even concerned for the moment with the assimilation which results from this opinion of Christianity with certain other religions, the fundamental idea of which is deliverance from the world. We pause only in passing to note that Kaftan explicitly admits that it was “the history of religion which opened his eyes to the fact that in Christianity as in other religions of deliverance (Erlösungsreligionen) Erlösung from the world is the chief and fundamental conception.” What we are for the moment interested in is the clearness with which Kaftan ascribes to the word Erlösung the wide sense of “deliverance,” with no implication whatever of “ransoming.” Christianity, it is said, like other religions of high grade, is an Erlösungsreligion, a religion of deliverance. “We have today,” we read, 22 “attained a wider survey of the religious life of humanity, a wider one, I mean, than that of the older teachers. We have learned that even outside of Christianity, whether really or supposedly, there is something like Erlösung (deliverance.) From this the arrangement has resulted, in the classification of religions, that we designate the highest stage of the religious life, that of the spiritual religions, also that of the Erlösungsreligionen (religions of deliverance).” That is to say, there is a class of religions,—no doubt, it embraces only the highest, the spiritual, religions,—which may justly be called Erlösungsreligionen, religions of deliverance, and Christianity belongs to this class. When we speak of Erlösung with reference to Christianity, we mean the same kind of a thing which we mean when we speak of it with reference to these other religions. As one of the Erlösungsreligionen (religions of deliverance) Christianity like the rest offers man deliverance. In point of fact, the deliverance which Christianity offers, according to Kaftan, is just a subjective change of mind and heart; he can write currently such a phrase as “Erlösung oder Wiedergeburt” (deliverance or regeneration. 23) Erlösung (deliverance) in other words, as applied to describe the benefits conferred by Christianity, has come to mean for him just the better ethical life of Christians.
+
+The classification of religions of which Kaftan avails himself in this discussion is derived ultimately from Hermann Siebeck, whose “Hand-book of the Philosophy of Religion” enjoys great vogue among Germans of Ritschlian tendency. This classification has not, however, commended itself universally. Many, like C. P. Tiele for example, strongly object to the distinguishing of a class of Erlösungsreligionen (religions of deliverance), which is placed at the apex of the series of religions. In reality, they say, all religions are Erlösungsreligionen (religions of deliverance). Precisely what religion is, always and everywhere, is a means of deliverance from some evil or other, felt as such. Does not the proverb say, not lehrt beten—a sense of need is the mother of all religion? 24 The designation Erlösungsreligionen (religions of deliverance) has, however, evidently come to stay, whether it be taken discriminatingly as the designation of a particular class of religions, or merely descriptively as a declaration of the essential nature of all religions. And it is rapidly becoming the accepted way of speaking of Christianity to call it an Erlösungsreligion —a religion of deliverance,—whether it is meant thereby to assign it to a class or merely to indicate its nature. The point to be noted is that Erlösung is employed in these phrases in its looser native sense of deliverance, not in its narrower, acquired sense of ransoming. When Christianity is declared to be an Erlösungsreligion all that is meant is that it offers like all other religions, or very eminently like some other religions, a deliverance of some kind or other to men.
+
+What gives this importance for us, is that these phrases have passed over from German into English, partly through the translation into English of the German books which employ them, partly by the adoption of the phrases themselves by native English writers for use in their own discussions. And in passing over into English, these phrases have not been exactly rendered with a care to reproducing their precise sense in unambiguous English, but have been mechanically transferred into what are supposed to be the corresponding conventional English equivalents for the terms used. 25 Thus we have learned in these last days to speak very freely of “redemptive religions” or “religions of redemption,” and it has become the fashion to describe Christianity as a “redemptive religion” or a “religion of redemption,”—while yet the conception which lies in the mind is not that of redemption in the precise sense, but that of deliverance in its broadest connotation. This loose German usage has thus infected our own, and is coöperating with the native influences at work in the same direction, to break down the proper implications of our English redemptive terminology. 26
+
+You see, that what we are doing today as we look out upon our current religious modes of speech, is assisting at the death bed of a word. It is sad to witness the death of any worthy thing,—even of a worthy word. And worthy words do die, like any other worthy thing— if we do not take good care of them. How many worthy words have already died under our very eyes, because we did not take care of them! Tennyson calls our attention to one of them. “The grand old name of gentleman,” he sings, “defamed by every charlatan, and soil’d with all ignoble use.” If you persist in calling people who are not gentlemen by the name of gentleman, you do not make them gentlemen by so calling them, but you end by making the word gentleman mean that kind of people. The religious terrain is full of the graves of good words which have died from lack of care—they stand as close in it as do the graves today in the flats of Flanders or among the hills of northern France. And these good words are still dying all around us. There is that good word “Evangelical.” It is certainly moribund, if not already dead. Nobody any longer seems to know what it means. Even our Dictionaries no longer know. Certainly there never was a more blundering, floundering attempt ever made to define a word than “The Standard Dictionary’s” attempt to define this word; and the “Century Dictionary” does little better. Adolf Harnack begins one of his essays with some paragraphs animadverting on the varied and confused senses in which the word “Evangelical” is used in Germany. 27 But he betrays no understanding whatever of the real source of a great part of this confusion. It is that the official name of the Protestant Church in a large part of Germany is “The Evangelical Church.” When this name was first acquired by that church it had a perfectly defined meaning, and described the church as that kind of a church. But having been once identified with that church, it has drifted with it into the bog. The habit of calling “Evangelical” everything which was from time to time characteristic of that church or which any strong party in that church wished to make characteristic of it—has ended in robbing the term of all meaning. Along a somewhat different pathway we have arrived at the same state of affairs in America. Does anybody in the world know what “Evangelical” means, in our current religious speech? The other day, a professedly evangelical pastor, serving a church which is certainly committed by its formularies to an evangelical confession, having occasion to report in one of our newspapers on a religious meeting composed practically entirely of Unitarians and Jews, remarked with enthusiasm upon the deeply evangelical character of its spirit and utterances.
+
+But we need not stop with “Evangelical.” Take an even greater word. Does the word “Christianity” any longer bear a definite meaning? Men are debating on all sides of us what Christianity really is. Auguste Sabatier makes it out to be just altruism; Josiah Royce identifies it with the sentiment of loyalty; D. C. Macintosh explains it as nothing but morality. We hear of Christianity without dogma, Christianity without miracle, Christianity without Christ. Since, however, Christianity is a historical religion, an undogmatic Christianity would be an absurdity; since it is through and through a supernatural religion, a non-miraculous Christianity would be a contradiction; since it is Christianity, a Christless Christianity would be —well, let us say lamely (but with a lameness which has perhaps its own emphasis), a misnomer. People set upon calling unchristian things Christian are simply washing all meaning out of the name. If everything that is called Christianity in these days is Christianity, then there is no such thing as Christianity. A name applied indiscriminately to everything, designates nothing.
+
+The words “Redeem,” “Redemption,” “Redeemer” are going the same way. When we use these terms in so comprehensive a sense—we are following Kaftan’s phraseology—that we understand by “Redemption” whatever benefit we suppose ourselves to receive through Christ,—no matter what we happen to think that benefit is— and call Him “Redeemer” merely in order to express the fact that we somehow or other relate this benefit to Him—no matter how loosely or unessentially—we have simply evacuated the terms of all meaning, and would do better to wipe them out of our vocabulary. Yet this is precisely how modern Liberalism uses these terms. Sabatier, who reduces Christianity to mere altruism, Royce who explains it in terms of loyalty, Macintosh who sees in it only morality—all still speak of it as a “Redemptive Religion,” and all are perfectly willing to call Jesus still by the title of “Redeemer,”—although some of them at least are quite free to allow that He seems to them quite unessential to Christianity, and Christianity would remain all that it is, and just as truly a “Redemptive Religion,” even though He had never existed.
+
+I think you will agree with me that it is a sad thing to see words like these die like this. And I hope you will determine that, God helping you, you will not let them die thus, if any care on your part can preserve them in life and vigor. But the dying of the words is not the saddest thing which we see here. The saddest thing is the dying out of the hearts of men of the things for which the words stand. As ministers of Christ it will be your function to keep the things alive. If you can do that, the words which express the things will take care of themselves. Either they will abide in vigor; or other good words and true will press in to take the place left vacant by them. The real thing for you to settle in your minds, therefore, is whether Christ is truly a Redeemer to you, and whether you find an actual Redemption in Him,—or are you ready to deny the Master that bought you, and to count His blood an unholy thing? Do you realize that Christ is your Ransomer and has actually shed His blood for you as your ransom? Do you realize that your salvation has been bought, bought at a tremendous price, at the price of nothing less precious than blood, and that the blood of Christ, the Holy One of God? Or, go a step further: do you realize that this Christ who has thus shed His blood for you is Himself your God? So the Scriptures teach: 28
+
+The blood of God outpoured upon the tree!
+
+So reads the Book. O mind, receive the thought,
+
+Nor helpless murmur thou hast vainly sought
+
+Thought-room within thee for such mystery.
+
+Thou foolish mindling! Do’st thou hope to see
+
+Undazed, untottering, all that God hath wrought?
+
+Before His mighty “shall,” thy little “ought”
+
+Be shamed to silence and humility!
+
+Come mindling, I will show thee what ’twere meet
+
+That thou shouldst shrink from marvelling, and flee As unbelievable,—nay, wonderingly,
+
+With dazed, but still with faithful praises, greet: Draw near and listen to this sweetest sweet,—
+
+Thy God, O mindling, shed His blood for thee!
+
+## Notes
+
+1. The references are (by Hymns and Verses): 52.3; 54.2; 59.2; 73.3; 147.1; 148.1; 150. 3; 162. 4; 172. 6; 190. 1, 5; 197.1; 216. 1; 218.1; 239. 3; 276.1; 293. 3; 300. 1; 311.2; 331. 3; 401.4; 445. 3; 454. 3; 476. 5; 555. 1; 569. 3; 593.2; 649.2; 651.1.
+
+2. Questions, 20 and 21.
+
+3. According to the concordance of the (American) “Book of Common Prayer,” published by the Rev. J. Courtney Jones, 1898. The actual number, as will be seen, is eleven.
+
+4. “Dial.,” 30. 3: “For we call Him Helper (Βοηθόν) and Redeemer (Λυτρωτήν), the power of whose name even the Demons do fear”; cf. 83.3 Justin is applying to Christ the language of Ps. 18:14 (LXX: E. V. 19:14). Λυτρωτής occurs in the LXX only at Ps. 18:14 and Ps. 77(78):35.
+
+5. Acts 7:35; cf. H. A. W. Meyer and J. A. Alexander in loc. Christ is called “Deliverer” only once in the New Testament (Rom. 11:26) and then by an adaptation of an Old Testament passage.
+
+6. “1432–1450, tr. Higden (Rolls) viii, 201: ‘A man … havynge woundes in his body lyke to the woundes of Criste, seyenge that he was redemer of man.’ ”
+
+7. “1377, Langland: ‘And after his resurrecioun Redemptor was his name.’ ”
+
+8. “Oxford Dictionary,” sub voc: “1414, Brampton, Penit. Ps. (Percy Society), 28.”
+
+9. “Political Poems,” etc. (ed. Furnivale), p. 111.
+
+10. 59. 1; 159. 2; 227. vi, 1. The verb “ransom,” of course, also occurs (e.g. 141. 6); see below, note 14, for the form “ransomed.”
+
+11. Redeemed, 55. 5; 88. 2; 130. 4; 150. 4; 172. 3; 236. 4; 336. 1; 383. 5; 396. 2; 453. 5; 546. 1; 642. 1. Consult, however, the following also: Redeeming, 81.1; 179. 3; 223. 5; 332. 2; 402. 2; 441. 4; 470. 2; 609. 1; Redemption, 141. 4; 152. 2; 258. 4; 259. 1; 264. 1; 265. 4; 394. 1; 395. 1; 406. 2; 435. 4.
+
+12. 130. 4; 453. 5.
+
+13. 132. 4; 134. 1; 154. 4; 157. 4; 189. 4; 303. 2; 325. 2; 354. 4; 375. 4; 390. 4; 395. 5; 399. 2; 401. 4; 420. 3; 421. 1; 441. 3; 444. 1; 512. 2; 636. 4.
+
+14. John Brown, “Life of Faith in Time of Trial and Affliction,” etc., 1678 (ed. 1726, p. 161; ed. 1824, p. 129): “And sure a Ransomer who hath purchased many persons to himself, at such a Rate, will be most tender of them, and will not take it well, that any wrong them.”
+
+15. When R. C. Trench, “The Study of Words,” ed. 15, 1874, p. 312, counsels the school-teacher to insist both on the idea of purchase, and on that of purchasing back, in all usages of Redemption, he is indulging in an etymological purism which the general use of the word will not sustain.
+
+16. Kluge, in his etymological dictionary of the German language, under “er-,” tells us it is the new-high-German equivalent of the old-high-German “ir-,” “ar-,” “ur-,” and refers us to the emphasized “ur-” for information. Under that form, he tells us that “er-” is the unemphasized form of the prefix, and adds: “The prefix means aus, ursprünglich, anfänglich.” Thus it appears that erlösen is a weaker way of saying auslösen; and the usage bears that out, auslösen tending to suggest “extirpation,” erlösen, “deliverance.” By this feeling, apparently, G. Hollmann, “Die Bedeutung des Todes Jesu,” 1901, pp. 108–109, is led to parallel Auslösung with Loskaufung as strong terms in contrast with Erlösung paralleled with Befreiung. The Greek equivalents of erlösen and auslösen are ἀπολύειν and ἐκλύειν, both of which are found in the New Testament, but elsewhere in senses more significant for our purposes. In the Iliad ἀπολύειν (like the simple λύειν) bears even the acquired sense of “to ransom.” It is interesting to note that in Job 19:25, for “my Redeemer” ()ֹּג ֵא ל, the LXX reads ὁ ἐκλύειν με.
+
+17. “Deutsches Wörterbuch,” iii, 1862, sub voc.
+
+18. “Kommentar zum N. T. herausgegeben von T. Zahn,” x, 1905, p. 7 note. So also Zahn himself in vol. vi1–2, p. 181, note 52 (cf. also p. 179, note 50): “Accordingly, λύτρωσις, Loskaufung, Lev. 25:48, Plut. “Aratus,” 11; in the wider sense, ‘deliverance,’ Erlösung, Ps. 110 (111) 9, Lk. 1:68, 2:38, Heb. 9:12; 1 Clem xii. 7.”
+
+19. “Der Tod Christi,” etc., 1905, p. 218.
+
+20. “Die Bedeutung des Todes Jesu,” etc., 1901, pp. 102, 108–109.
+
+21. Zeitschrift für Theologie und Kirche, 1908, 18, p. 238.
+
+22. P. 239.
+
+23. “Dogmatik3–4,” p. 459.
+
+24. According to Rudolf Eucken, “Christianity and the New Idealism,” E. T., 1909, p. 115, “That which drives men to religion is the break with the world of their experience, the failure to find satisfaction in what this world offers or is able to offer.” It is probably something like this that Henry Osborn Taylor, “Deliverance,” 1915, p. 5, means, when he says: “Evidently every ‘religion’ is a means of adjustment or deliverance.” According to this all religions represent efforts of men to adjust themselves “to the fears and hopes of their natures,” thus attaining peace or even “freedom of action in which they accomplish their lives.” This “adjustment,” Taylor speaks of as a “deliverance,” that is to say, no doubt, deliverance from the discomfort of non-adjustment with its clogging effects on life. In this view religion is deliverance from conscious maladjustment of life. The implication is, apparently, that all men are to this extent conscious of being out of joint, in one way or another, with themselves or the universe in which they live, and struggle after adjustment. Thus religion arises, or rather the various religions, since they differ much both in the maladjustments they feel and their methods of correcting them. And there are even modes of adjustment which have been tried that cannot be called “religions.”
+
+25. Thus, for example, Paul Wernle writes, “Die Anfänge unserer Religion1,” p. 106, of Paul’s view of Christianity: “Es war ihm ganz Erlösungsreligion”; “Jesus Erlöser, nicht Gesetzgeber, das war seine Parole.” W. M. Maogregor, “Christian Freedom,” 1914, p. 85, knowing what he is about, rightly translates: “To Paul Christianity was altogether a religion of deliverance.” But the English translation of Wernle’s book (“The Beginnings of Christianity,” 1903, i, p. 176) renders: “Christianity was entirely a religion of redemption for him”: “Jesus the Redeemer, not the lawgiver, was his watchword.” This is, of course, a truer description of Paul’s actual point of view; but it is not what Wernle means to say of him. Similarly Rudolf Eucken constantly speaks of Christianity as an “ethical” or “moral” “Erlösungsreligion” and of the particular “Erlösungstat” to which, as such, it points us (e.g. “Hauptprobleme der Religionsphilosophie der Gegenwart4–5,” 1912, pp. 124, 126, 129). His translators (“Christianity and the New Idealism,” 1909, pp. 114, 117, 119, 120) render as constantly “the religion of moral redemption,” “act of redemption,” although Eucken has no proper “redemption” whatever in mind,—as indeed the adjective “ethical,” “moral” shows sufficiently clearly. An ethical revolution may be a deliverance but it is not properly a “redemption.”
+
+26. For example, on the basis of this note: “Beyschlag (‘N. T. Theol.’ II. 157) frankly takes ἀπολυτροῦν, ἐλενθεροῦν, ἐξαιρεῖν (Gal. 1:4), ἀγοράζειν as synonymous,” W. M. Macgregor, “Christian Freedom,” 1914, p. 276. He retires into the background of all of them, all other notion than that of “Emancipation,” that is, the notion of the weakest and least modal of them all.
+
+27. “Aus Wissenschaft und Leben,” 1911, ii, pp. 213 ff.
+
+28. Acts 20:28, “Feed the church of God which He hath purchased with His own blood.” The reading “God” is, as F. J. A. Hort says, “assuredly genuine,” and the emphasis upon the blood being His own is very strong. There is no justification for correcting the text conjecturally, as Hort does, to avoid this. If the reading “Lord” were genuine, the meaning would be precisely the same: “Lord” is not a lower title than “God.” in such connections. 1 Cor. 2:8, “They would not have crucified the Lord of Glory,” is an exact parallel.
