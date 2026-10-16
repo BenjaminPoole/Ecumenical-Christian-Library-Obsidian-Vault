@@ -7,7 +7,7 @@ tags:
 
 # Victorian (1800–1900)
 
-The nineteenth century, Catholic and Protestant: the Victorian pulpit, the Oxford Movement, Old Princeton and Dutch Neo-Calvinism, and the German and Danish theology that answered the Enlightenment. All of it is in the public domain, with one exception noted under Kierkegaard.
+The nineteenth century, Catholic and Protestant: the Victorian pulpit, the Oxford Movement, Old Princeton and Dutch Neo-Calvinism, and the German and Danish theology that answered the Enlightenment. All of it is in the public domain, with the exceptions noted under Kierkegaard and Kuyper.
 
 ## Friedrich Schleiermacher
 
@@ -53,9 +53,9 @@ Author index: **[[Charles Spurgeon|Charles Spurgeon]]** *(4,633 notes)*
 
 ## Abraham Kuyper
 
-Abraham Kuyper (1837–1920), founder of the Free University of Amsterdam and of Neo-Calvinism, and Prime Minister of the Netherlands from 1901 to 1905. The Stone Lectures on *Calvinism* given at Princeton in 1898, read from the page images of the 1899 edition; *The Work of the Holy Spirit* (De Vries, 1900, with an introduction by B. B. Warfield) and the meditations *To Be Near Unto God* (1918), from the [CCEL](https://ccel.org/ccel/kuyper).
+Abraham Kuyper (1837–1920), founder of the Free University of Amsterdam and of Neo-Calvinism, and Prime Minister of the Netherlands from 1901 to 1905. The Stone Lectures on *Calvinism* given at Princeton in 1898, read from the page images of the 1899 edition; *The Work of the Holy Spirit* (De Vries, 1900, with an introduction by B. B. Warfield) and the meditations *To Be Near Unto God* (1918), from the [CCEL](https://ccel.org/ccel/kuyper). The meditations for the sick-room *In the Shadow of Death* (De Vries, 1929), read from the page images of the Eerdmans edition: published in 1929, it is public domain in the United States, but may still be in copyright elsewhere.
 
-Author index: **[[Abraham Kuyper|Abraham Kuyper]]** *(242 notes)*
+Author index: **[[Abraham Kuyper|Abraham Kuyper]]** *(310 notes)*
 
 ## Benjamin B. Warfield
 
