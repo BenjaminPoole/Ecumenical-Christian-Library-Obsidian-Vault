@@ -1,0 +1,36 @@
+---
+title: "Chapter XIV. The Presbytery, § 2. Ordination by less than Three Ministers"
+author: "Charles Hodge"
+work: "The Church and its Polity"
+section: 31
+year: "1879"
+written: "1835–1878"
+source: "https://www.monergism.com/thethreshold/sdg/hodge/The%20Church%20and%20its%20Polity%20-%20Hodge.pdf"
+tags:
+  - victorian
+  - charles-hodge
+---
+
+# Chapter XIV. The Presbytery, § 2. Ordination by less than Three Ministers
+
+[Form of Gov., chap. x., sec. viii.—Comp. Digest of 1873, pp. 145–149.]
+
+The Rev. Mr. Hughes, of the committee on the Minutes of the Synod of West Tennessee, recommended that the Records be approved, with the exception, that the Synod sanctioned the action of the Holstein Presbytery in ordaining a licentiate, when but two ministers were present. The committee recommended that the Assembly express their strong disapprobation of this measure, and declare that the Synod should not have countenanced the proceedings of the Holstein Presbytery.
+
+Mr. Walter Lowrie moved that the exception be stricken out from this Report.
+
+The Rev. Dr. Doak, (one of the fathers of Presbyterianism in the West,) remembered all the circumstances of this case. At that very session there was a quorum present, by whom all the trials and preliminary exercises were approved, and the candidate was actually on his knees, and the hands of the two ministers were on the candidate's head, when they discovered the third brother had absented himself. They consulted as to what should be done, and concluded that as everything else had been done in so orderly a manner, the want of a third minister's hand was not indispensable, and they therefore proceeded to ordain him. It seems hard that one single member of a presbytery should arrest the proceeding of a presbytery in such solemn circumstances, and before a large congregation. They admitted there was the appearance of wrong. He did not know whether the third brother had gone out of the house or not.
+
+Rev. Dr. Murray said, the question is a very simple one between irregularity and invalidity. The ordination here is irregular, as the Synod state; but they refuse to say that the ordination was invalid, and this the committee wish the Assembly to censure. He was persuaded the Assembly would not concur in this censure, and thereby pronounce this ordination invalid.
+
+Rev. Dr. Rice. The Presbyterian Church is regulated by the Bible, as the great and highest resort, and the Confession of Faith as its exponent. Whilst the Confession of Faith requires three ministers in order to ordination, it no where declares that without three, there can be no ordination. Nor does the Bible any where specify "three" as the number necessary to ordain. It simply requires plurality. When we wish to determine what is regular, we go to our Form of Government; if to ascertain what is valid, we resort to the Bible. If two ministers are present, we cannot say that the Bible does not sanction the ordination. The number specified in our book is merely for prudential reasons.
+
+The exceptions in the report were stricken out, and the Synod was not censured for approving the conduct of the presbytery in this ordination.
+
+In this decision we presume the great body of the Church will concur. As the brethren, whose remarks are quoted above, state, there is the greatest possible difference between irregular and invalid. Rules are laid down for security, and to be faithfully observed in ordinary circumstances. But the neglect or violation of the rules prescribing how a thing ought to be done, does not vitiate the thing done. In many countries and Churches there are rules regulating the celebration of marriage, but how monstrous would it be that the disregard of such municipal regulations should make the marriage void. That this is sometimes done, as in Great Britain, is justly regarded as a grievous injustice. Some years ago it was decided that a marriage in Ireland, solemnized by a Presbyterian minister, where one of the parties was an Episcopalian, was no marriage. It would be a decision of like, though of less enormity, to affirm that an ordination by less than three ministers was no ordination. \* \* \* \* We recognize the validity of orders in the Episcopal Church, and all classes of Presbyterians have always done so, with what consistency, then, can we maintain that three, or even a plurality of ordainers is absolutely necessary? A plurality may be desirable in all possible cases; the precise number, three, may be the safest minimum that could be fixed on as the general rule, but there is nothing in the nature of ordination, and nothing in the laws of Christ which makes that number essential. We have derived the rule from the old canon law, as laid down in the earliest councils of the Christian Church, which required the co-operation of three bishops in the ordination or consecration of another bishop. This became the universal law of the Church, and of all Churches, and was from its obvious wisdom adopted by the different classes of Protestants at the Reformation. But it has ever been regarded as a prudential municipal arrangement, necessary to the safety of the Church, but not to the validity of the service. In our own Church the same principle has been acted on. In the early part of our history, it was customary to ordain by a committee of presbytery, as well as by the presbytery itself. The Rev. Dr. Leland indeed, is reported to have said, "Installation can be performed by a committee of two ministers, but the power of ordination cannot be delegated." If this means simply that under our present constitution such is the rule, it may be correct. But if, as we suppose was intended, the sentence quoted means that according to the principles of Presbyterianism "the power of ordination cannot be delegated," it is obviously contradicted by the practice of our own Church, by the express enactments of the Westminster Directory, and the history of the Church, in all its Presbyterian branches.
+
+The fact that a single minister ordains elders not merely in the midst of his session, or parochial presbytery, but when acting as an evangelist and organizing churches, shows, at least to those who make ruling elders to be bishops, that according even to our present constitution a single bishop may ordain others to the episcopate. This, however, is not our argument. The real question is, what is ordination? and what is essential to the transmission of the ministerial office? All admit that under our constitution, which accords in this matter with the general law of the Church, three ministers should be present and co-operate in the ordination services. Any departure from this rule is an irregularity, to be justified only in cases of emergency. But the departure, even when not justifiable, is to be censured as disorderly, but not considered as rendering the ordination void.
+
+
+---
+[[CP 30 Chapter XIV. The Presbytery, § 1. Quorum of Presbytery|← Chapter XIV. The Presbytery, § 1. Quorum of Presbytery]] · [[The Church and its Polity|Contents]] · [[CP 32 Chapter XIV. The Presbytery, § 3. Presbytery judges the Qualifications of its Members|Chapter XIV. The Presbytery, § 3. Presbytery judges the Qualifications of its Members →]]
