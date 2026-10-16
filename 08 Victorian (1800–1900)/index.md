@@ -41,9 +41,9 @@ Author index: **[[JC Ryle|J. C. Ryle]]** *(214 notes)*
 
 ## Albrecht Ritschl
 
-Albrecht Ritschl (1822–1889), professor at Bonn and Göttingen, after Schleiermacher the most influential German Protestant theologian of the century and the founder of the Ritschlian school. The third, constructive volume of *The Christian Doctrine of Justification and Reconciliation* in the translation edited by H. R. Mackintosh and A. B. Macaulay (1900), read from the page images.
+Albrecht Ritschl (1822–1889), professor at Bonn and Göttingen, after Schleiermacher the most influential German Protestant theologian of the century and the founder of the Ritschlian school. The first, historical volume, *A Critical History of the Christian Doctrine of Justification and Reconciliation* in John S. Black's translation (1872), and the third, constructive volume, *The Christian Doctrine of Justification and Reconciliation*, in the translation edited by H. R. Mackintosh and A. B. Macaulay (1900), both read from the page images.
 
-Author index: **[[Albrecht Ritschl|Albrecht Ritschl]]** *(12 notes)*
+Author index: **[[Albrecht Ritschl|Albrecht Ritschl]]** *(26 notes)*
 
 ## Charles Spurgeon
 
