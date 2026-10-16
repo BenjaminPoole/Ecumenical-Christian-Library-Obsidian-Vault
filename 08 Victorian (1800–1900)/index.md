@@ -59,6 +59,6 @@ Author index: **[[Abraham Kuyper|Abraham Kuyper]]** *(310 notes)*
 
 ## Benjamin B. Warfield
 
-Benjamin Breckinridge Warfield (1851–1921), professor of theology at Princeton Theological Seminary from 1887 until his death, the successor of the Hodges and the last great theologian of Old Princeton. The sermons of *The Power of God unto Salvation* (1903) and *The Saviour of the World* (1913), *The Lord of Glory* (1907), his study of the New Testament's designations of Christ, *The Plan of Salvation* (1915) and *Counterfeit Miracles* (1918), read from the page images of the first editions. From e-texts, not yet read against the scans: *The Westminster Assembly and Its Work* (1908), *Calvin's Doctrine of God* and *Calvin as a Theologian* (1909), *Infant Salvation* (1891) and *The Making of the Westminster Confession* (1901).
+Benjamin Breckinridge Warfield (1851–1921), professor of theology at Princeton Theological Seminary from 1887 until his death, the successor of the Hodges and the last great theologian of Old Princeton. The sermons of *The Power of God unto Salvation* (1903) and *The Saviour of the World* (1913), *The Lord of Glory* (1907), his study of the New Testament's designations of Christ, *The Plan of Salvation* (1915) and *Counterfeit Miracles* (1918), read from the page images of the first editions. From e-texts, not yet read against the scans: *The Westminster Assembly and Its Work* (1908), *Calvin's Doctrine of God* and *Calvin as a Theologian* (1909), *Infant Salvation* (1891), *The Making of the Westminster Confession* (1901) and *The Right of Systematic Theology* (1897).
 
-Author index: **[[Benjamin B. Warfield|Benjamin B. Warfield]]** *(97 notes)*
+Author index: **[[Benjamin B. Warfield|Benjamin B. Warfield]]** *(99 notes)*
