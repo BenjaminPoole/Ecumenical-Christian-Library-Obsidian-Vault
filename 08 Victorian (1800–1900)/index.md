@@ -17,9 +17,9 @@ Author index: **[[Friedrich Schleiermacher|Friedrich Schleiermacher]]** *(35 not
 
 ## Charles Hodge
 
-Charles Hodge (1797–1878), for over fifty years professor at Princeton Theological Seminary and the leading voice of Old School Presbyterianism in America. The three-volume *Systematic Theology* (1871–73), the *Commentary on Ephesians*, and *What is Darwinism?* (1874), from the [CCEL](https://ccel.org/ccel/hodge).
+Charles Hodge (1797–1878), for over fifty years professor at Princeton Theological Seminary and the leading voice of Old School Presbyterianism in America. The three-volume *Systematic Theology* (1871–73), the *Commentary on Ephesians*, and *What is Darwinism?* (1874), from the [CCEL](https://ccel.org/ccel/hodge); the *Princeton Sermons* (1879), the outlines of his Sabbath-afternoon addresses to the seminary's students, from the Monergism ebook.
 
-Author index: **[[Charles Hodge|Charles Hodge]]** *(329 notes)*
+Author index: **[[Charles Hodge|Charles Hodge]]** *(579 notes)*
 
 ## John Henry Newman
 
