@@ -17,6 +17,6 @@ Index: **[[The Fundamentals index|The Fundamentals: A Testimony to the Truth]]**
 
 ## G. K. Chesterton
 
-English journalist, novelist and apologist (1874–1936), received into the Catholic Church in 1922. Given here: *Heretics* (1905), his criticism of the leading writers and ideas of his day, *Orthodoxy* (1908), his account of how he came to believe the Christian faith, *The Everlasting Man* (1925), his outline of human history and of Christ's place in it, written against H. G. Wells, and *St. Thomas Aquinas* (1933, also known as *The Dumb Ox*), his popular life of the Dominican philosopher and theologian.
+English journalist, novelist and apologist (1874–1936), received into the Catholic Church in 1922. Given here: *Heretics* (1905), his criticism of the leading writers and ideas of his day, *Orthodoxy* (1908), his account of how he came to believe the Christian faith, *St. Francis of Assisi* (1923), his life of the founder of the Franciscans, *The Everlasting Man* (1925), his outline of human history and of Christ's place in it, written against H. G. Wells, and *St. Thomas Aquinas* (1933, also known as *The Dumb Ox*), his popular life of the Dominican philosopher and theologian.
 
-Author index: **[[G. K. Chesterton|G. K. Chesterton]]** *(5 notes)*
+Author index: **[[G. K. Chesterton|G. K. Chesterton]]** *(6 notes)*
