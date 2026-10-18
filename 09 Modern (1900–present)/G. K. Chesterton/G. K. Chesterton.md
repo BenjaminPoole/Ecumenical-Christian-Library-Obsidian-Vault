@@ -12,4 +12,5 @@ Gilbert Keith Chesterton (1874–1936) was an English journalist, novelist, poet
 
 - [[Heretics]] (1905)
 - [[Orthodoxy]] (1908)
+- [[The Everlasting Man]] (1925)
 - [[St. Thomas Aquinas]] (1933)
