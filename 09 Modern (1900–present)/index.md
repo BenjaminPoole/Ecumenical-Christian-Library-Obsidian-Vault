@@ -17,6 +17,6 @@ Index: **[[The Fundamentals index|The Fundamentals: A Testimony to the Truth]]**
 
 ## G. K. Chesterton
 
-English journalist, novelist and apologist (1874–1936), received into the Catholic Church in 1922. Given here: *St. Thomas Aquinas* (1933, also known as *The Dumb Ox*), his popular life of the Dominican philosopher and theologian.
+English journalist, novelist and apologist (1874–1936), received into the Catholic Church in 1922. Given here: *Orthodoxy* (1908), his account of how he came to believe the Christian faith, and *St. Thomas Aquinas* (1933, also known as *The Dumb Ox*), his popular life of the Dominican philosopher and theologian.
 
-Author index: **[[G. K. Chesterton|G. K. Chesterton]]** *(2 notes)*
+Author index: **[[G. K. Chesterton|G. K. Chesterton]]** *(3 notes)*
