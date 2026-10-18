@@ -16,4 +16,5 @@ Gilbert Keith Chesterton (1874–1936) was an English journalist, novelist, poet
 - [[St. Francis of Assisi]] (1923)
 - [[The Everlasting Man]] (1925)
 - [[The Catholic Church and Conversion]] (1926)
+- [[The Thing]] (1929)
 - [[St. Thomas Aquinas]] (1933)
