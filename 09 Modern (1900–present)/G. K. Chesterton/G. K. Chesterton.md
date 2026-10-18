@@ -15,4 +15,5 @@ Gilbert Keith Chesterton (1874–1936) was an English journalist, novelist, poet
 - [[What's Wrong with the World]] (1910)
 - [[St. Francis of Assisi]] (1923)
 - [[The Everlasting Man]] (1925)
+- [[The Catholic Church and Conversion]] (1926)
 - [[St. Thomas Aquinas]] (1933)
