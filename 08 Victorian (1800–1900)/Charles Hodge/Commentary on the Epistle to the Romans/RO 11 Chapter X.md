@@ -185,7 +185,7 @@ Paul follows the Septuagint version of the passage, merely transposing the claus
 
 [^2]: Judaei habuere et habent zelum sine scientia, nos contra, proh dolor, scientiam sine zelo.—*Flacius*, quoted by *Bengel*. Melius est vel claudicare in via, quam extra viam strenue currere, ut ait Augustinus. Si religiosi esse volumus, meminerimus verum esse, quod Lactantius docet, eam demum veram esse religionem quae conjuncta est cum Dei verbo.—*Calvin.*
 
-[^3]: Indicat legis praeposterum interpretem esse, qui per ejus opera justificari quaerit, quoniam in hoc lex data est, quo nos ad aliam justitiam manu duceret. Imo quicquid doceat lex, quicquid praecipiat, quicquid promittat semper Christum habet pro scopo; ergo in ipsum dirigendae sunt omnes partes.—*Calvin.* Lex hominem urget, donec is ad Christum confugit* Tum ipsa dicit: *asylum es nactus, desino te persequi, sapis, salvus es.*—*Bengel.*
+[^3]: Indicat legis praeposterum interpretem esse, qui per ejus opera justificari quaerit, quoniam in hoc lex data est, quo nos ad aliam justitiam manu duceret. Imo quicquid doceat lex, quicquid praecipiat, quicquid promittat semper Christum habet pro scopo; ergo in ipsum dirigendae sunt omnes partes.—*Calvin.* Lex hominem urget, donec is ad Christum confugit. Tum ipsa dicit: *asylum es nactus, desino te persequi, sapis, salvus es.*—*Bengel.*
 
 [^4]: See Knapp's Diatribe in Locum Rom. x. 4—11, &c., p. 543 of his *Scripta Varii Argumenti.*
 

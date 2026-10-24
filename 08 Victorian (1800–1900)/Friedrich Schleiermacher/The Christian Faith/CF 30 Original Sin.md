@@ -136,7 +136,7 @@ Now, while the first appearance of sin in the first pair, due to that original s
 
 [^39]: 70.
 
-[^40]: The *Conf. Gall.* x. says explicitly: Nec putamus necesse esse inquirere quinam possit hoc peccatum ab uno ad alterum propagari. Similarly Calvin, Instit.* ii. 1, 7: Neque in substantia carnis aut animae causam habet contagio: sed quia a Deo ita fuit ordinatum, ut quae primo homini dona contulerat, ille tam sibi quam suis haberet simul et perderet. From which we see clearly that Calvin’s main concern is to repudiate explanations which might have links of connexion with non-Christian views.
+[^40]: The *Conf. Gall.* x. says explicitly: Nec putamus necesse esse inquirere quinam possit hoc peccatum ab uno ad alterum propagari. Similarly Calvin, *Instit.* ii. 1, 7: Neque in substantia carnis aut animae causam habet contagio: sed quia a Deo ita fuit ordinatum, ut quae primo homini dona contulerat, ille tam sibi quam suis haberet simul et perderet. From which we see clearly that Calvin’s main concern is to repudiate explanations which might have links of connexion with non-Christian views.
 
 [^41]: Rom. 5¹²⁻²¹.
 

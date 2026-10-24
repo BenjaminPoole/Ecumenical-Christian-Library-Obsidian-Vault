@@ -178,7 +178,7 @@ Schweizer, with justice, condemns the undervaluing of Abelard's doctrine as comp
 
 [^25]: Vol. ii. p. 114 *sqq.*
 
-[^26]: This suggests J. H. Scholten: *Dogmaticæ Christianæ initia; Pars* Materialis*, p. 59. Scholten, however, limits the significance of Christ to the fact that he is the archetype of true religion: while this thought with Schweizer is subordinated to the other one, that He is bearer of the perfect revelation.
+[^26]: This suggests J. H. Scholten: *Dogmaticæ Christianæ initia; Pars Materialis*, p. 59. Scholten, however, limits the significance of Christ to the fact that he is the archetype of true religion: while this thought with Schweizer is subordinated to the other one, that He is bearer of the perfect revelation.
 
 [^27]: See *Frau von Krüdener*, *Ein Zeitgemälde.* Berne, 1868, p. 196.
 
