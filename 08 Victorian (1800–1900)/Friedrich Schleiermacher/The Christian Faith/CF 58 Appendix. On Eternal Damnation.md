@@ -1,0 +1,37 @@
+---
+title: "Appendix. On Eternal Damnation"
+author: "Friedrich Schleiermacher"
+work: "The Christian Faith"
+section: 58
+translator: "H. R. Mackintosh and J. S. Stewart"
+year: "1928"
+written: "1821–1822; second edition 1830–1831"
+source: "https://archive.org/details/christianfaith0000schl_i5l0"
+tags:
+  - victorian
+  - friedrich-schleiermacher
+---
+
+# Appendix. On Eternal Damnation
+
+The figurative sayings of Christ, which have led to a state of irremediable misery for those who die out of fellowship with Christ[^1] being accepted as the counterpart of eternal bliss, will, if more closely scrutinized, be found insufficient to support any such conclusion. Either these passages cannot without extreme arbitrariness be separated from others which must allude to some earlier event,[^2] or they are countered by others which forbid us to think of the definitive victory of evil over one part of the human race, and from which we must rather infer that before the general resurrection evil will have been completely overcome.[^3] Still less can the idea of eternal damnation itself bear close scrutiny, whether considered in itself or as it is related to eternal bliss. If we once agree that eternal damnation cannot mean condemnation to bodily pains and sufferings, for the simple reason that (if human nature is not to be utterly destroyed) the alleviating influence of custom must be allowed for; and if the sense of ability to bear what has been inflicted entails some satisfaction, so that what results on the whole is something less than pure and irremediable misery—if all this be so, there is scarcely any firm ground on which we can stand. If the misery is of a spiritual kind, and if accordingly it consists of the pains of conscience, then the lost are better by far in their damnation than they were in this life; yet although they are better, they are to be more wretched. We cannot imagine this; for even if such a lot were in keeping with divine justice, still there would be no way of preventing the self-approval of the awakened and quickened conscience from supplying a counterweight to misery. Indeed, we cannot imagine how the awakened conscience, as a living movement of the spirit, could fail to issue in some good. If it be rejoined that what is to be regarded as the source of everlasting torment is not any sharpened feeling for the difference between good and evil, but only the consciousness of self-forfeited bliss, yet such a consciousness could not be living and acute except in so far as bliss could be pictured in the mind; nor could it be torturing unless a capacity were present to share in the blessed state. But this capacity would itself imply a moral improvement, and the mental picture of bliss would constitute an enjoyment by which the misery was lessened.
+
+If we now consider eternal damnation as it is related to eternal bliss, it is easy to see that once the former exists, the latter can exist no longer. Even if externally the two realms were quite separate, yet so high a degree of bliss is not as such compatible with entire ignorance of others’ misery, the more so if the separation itself is the result purely of a general judgment, at which both sides were present, which means conscious each of the other. Now if we attribute to the blessed a knowledge of the state of the damned, it cannot be a knowledge unmixed with sympathy. If the perfecting of our nature is not to move backwards, sympathy must be such as to embrace the whole human race, and when extended to the damned must of necessity be a disturbing element in bliss, all the more that, unlike similar feelings in this life, it is untouched by hope. For, reflect as we may that if eternal damnation exists at all, it must be just, and that the vision of God embraces also His righteousness, yet even so sympathy persists; indeed, even in this life we rightly expect a deeper sympathy to be shown to merited than to unmerited suffering. In some form or other personal survival includes memory of our former state, in which it will always happen some of us were associated with some of them in a common life; and sympathy will be all the stronger because in that earlier time there was a point when we were as little regenerate as they. In the divine government of the world everything is inseparably conditioned by everything else; hence we cannot ignore the fact that the circumstance of our having enjoyed helpful dispensations was due to the very same disposition of things as insured that such help should not reach them. Thus our sympathy cannot fail to be attended by the bitter feeling always present when we see a real connexion between our own gain and another’s loss.
+
+From whichever side we view it, then, there are great difficulties in thinking that the finite issue of redemption is such that some thereby obtain the highest bliss, while others (on the ordinary view, indeed, the majority of the human race) are lost in irrevocable misery. We ought not to retain such an idea without decisive testimony to the fact that it was to this that Christ Himself looked forward; and such testimony is wholly lacking. Hence we ought at least to admit the equal rights of the milder view, of which likewise there are traces in Scripture;[^4] the view, namely, that through the power of redemption there will one day be a universal restoration of all souls.
+
+## POSTSCRIPT TO THE PROPHETIC DOCTRINES
+
+What seems to emerge from these considerations is this. Both elements—the consummation of the Church and personal survival—can each for itself be taken up with perfect truth in our Christian consciousness; it is certain, too, that the consummation of the Church can never be manifested in this life, and that the state attained in the next life must bear a different relation to the consummation of the Church from that of our present state. And yet the combination and correlation of these two elements yields no firmly outlined or really lucid idea, nor can any such idea of either the one element or the other be developed out of the intimations of Scripture. If we try to use the idea of the consummation of the Church so as to determine, from its relation to what as yet is unconsummated, the relation of the single life in the next world to the single life here, or the difference between the two, we can reach no fixed conclusion. And if we seek, by means of the idea of the future life, to assign a place to the consummated Church where it will no longer be a productive factor but a product only, again we fail. The one point of view will always tend to merge in what is mythical, *i.e.* in the historical presentation of what is supra-historical; the other point of view will always approximate to what is visionary, *i.e.* the earthly presentation of what is more than earthly. These were everywhere the forms of prophetic thought, which in its higher import makes no claim to furnish knowledge in the strict sense, but is meant only to give stimulating expression to principles already known.
+
+[^1]: Matt. 25⁴⁶, Mark 9⁴⁴, John 5²⁹.
+
+[^2]: Cf. Matt. 24³⁰⁻³¹ and John 5²⁴. ²⁵.
+
+[^3]: I Cor. 15²⁵. ²⁶.
+
+[^4]: I Cor. 15²⁶.⁵⁵.
+
+
+---
+[[CF 57 The Consummation of the Church|← The Consummation of the Church]] · [[The Christian Faith|Contents]] · [[CF 59 Second Aspect, Third Section. The Divine Attributes Which Relate to Redemption|Second Aspect, Third Section. The Divine Attributes Which Relate to Redemption →]]

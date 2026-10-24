@@ -7,13 +7,13 @@ tags:
 
 # Victorian (1800–1900)
 
-The nineteenth century, Catholic and Protestant: the Victorian pulpit, the Oxford Movement, Old Princeton and Dutch Neo-Calvinism, and the German and Danish theology that answered the Enlightenment. All of it is in the public domain, with the exceptions noted under Kierkegaard and Kuyper.
+The nineteenth century, Catholic and Protestant: the Victorian pulpit, the Oxford Movement, Old Princeton and Dutch Neo-Calvinism, and the German and Danish theology that answered the Enlightenment. All of it is in the public domain, with the exceptions noted under Kierkegaard, Kuyper and Schleiermacher.
 
 ## Friedrich Schleiermacher
 
-Friedrich Schleiermacher (1768–1834), preacher in Berlin and professor at Halle and Berlin, called the father of modern liberal theology: religion is neither knowing nor doing but feeling, "the feeling of absolute dependence". *On Religion: Speeches to Its Cultured Despisers* in John Oman's translation (1893), and the *Selected Sermons* translated by Mary F. Wilson (1890), from the [CCEL](https://ccel.org/ccel/schleiermach).
+Friedrich Schleiermacher (1768–1834), preacher in Berlin and professor at Halle and Berlin, called the father of modern liberal theology: religion is neither knowing nor doing but feeling, "the feeling of absolute dependence". *On Religion: Speeches to Its Cultured Despisers* in John Oman's translation (1893), and the *Selected Sermons* translated by Mary F. Wilson (1890), from the [CCEL](https://ccel.org/ccel/schleiermach); and *The Christian Faith* in the translation by H. R. Mackintosh and J. S. Stewart (1928), read from the page images of the [Internet Archive scan](https://archive.org/details/christianfaith0000schl_i5l0). That translation is in the public domain in the United States only: J. S. Stewart died in 1990, so elsewhere it remains in copyright until 2060.
 
-Author index: **[[Friedrich Schleiermacher|Friedrich Schleiermacher]]** *(35 notes)*
+Author index: **[[Friedrich Schleiermacher|Friedrich Schleiermacher]]** *(97 notes)*
 
 ## Charles Hodge
 
