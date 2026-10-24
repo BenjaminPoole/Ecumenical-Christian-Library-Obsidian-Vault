@@ -107,7 +107,7 @@ It may be objected that if the slaves are allowed so to improve as to become fre
 
 [^7]: Quoted by President Young, p. 45 of the Address, &c.
 
-[^8]: On the manner in which slaves were acquired, compare Deut. xx. 14; xxi. 10, 11. Ex. xxii. 3. Neh. v. 4, 5. Gen. xiv. 14; xv. 3; xvii. 23. Num. xxxi. 18, 35. Deut. xxv. 44–46. / As to the manner in which they were to be treated, see Lev. xxv. 39–53. Ex. xx. 10; xxii. 2–8. Deut. xxv. 4–6, &c., &c.
+[^8]: On the manner in which slaves were acquired, compare Deut. xx. 14; xxi. 10, 11. Ex. xxii. 3. Neh. v. 4, 5. Gen. xiv. 14; xv. 3; xvii. 23. Num. xxxi. 18, 35. Deut. xxv. 44–46. As to the manner in which they were to be treated, see Lev. xxv. 39–53. Ex. xx. 10; xxii. 2–8. Deut. xxv. 4–6, &c., &c.
 
 [^9]: “The words of Christ (Matt. xix. 9) may be construed by an easy implication to prohibit polygamy: for if ‘whoever putteth away his wife, and *marrieth* another committeth adultery,’ he who marrieth another, *without* putting away the first, is no less guilty of adultery: because the adultery does not consist in the repudiation of the first wife (for, however unjust and cruel that may be, it is not adultery), but entering into a second marriage during the legal existence and obligation of the first. The several passages in St. Paul’s writings, which speak of marriage, always suppose it to signify the union of one man with one woman.”—PALEY’s Moral Philosophy, Book III. Chap. 6.
 

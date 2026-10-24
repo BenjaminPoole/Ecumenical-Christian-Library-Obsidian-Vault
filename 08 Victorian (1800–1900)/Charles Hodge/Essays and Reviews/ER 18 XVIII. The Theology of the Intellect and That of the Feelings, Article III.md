@@ -68,7 +68,7 @@ Again, there is not in the long article under consideration any frank and manly 
 
 We hope the reasons above given will satisfy our friends of the propriety of our discontinuing this discussion. We have one other, which, we trust we may present without offence. It is a common remark that a man never writes anything well for which he has “to read up.” Professor Park has evidently labored under this disadvantage. Old-school theology is a new field to him; and though he quotes freely authors of whom we, though natives, never heard, yet he is not at home, and unavoidably falls into the mistakes which foreigners cannot fail to commit in a strange land. He does not understand the language. He finds out “five meanings of imputation!” It would be wearisome work to set such a stranger right at every step. We would fain part with our author on good terms. We admire his abilities, and are ready to defer to him in his own department. But when he undertakes to teach Old-school men Old-school theology it is very much like a Frenchman teaching an Englishman how to pronounce English. With the best intentions, the amiable Gaul would be sure to make sad work with the dental aspirations.
 
-*The End.*
+## The End
 
 [^1]: Bib. Sac. p. 646.
 
