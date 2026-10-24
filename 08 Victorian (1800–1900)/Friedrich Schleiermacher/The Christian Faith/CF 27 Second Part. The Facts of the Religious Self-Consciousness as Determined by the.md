@@ -52,7 +52,7 @@ One point, however, common to all forms of faith in so far as they all participa
 
 [^5]: Cf. Rom. 3²³. *Conf. Aug.* xix.: Voluntas . . . avertit se a Deo.
 
-[^6]: Augsb. Conf.* xx.: ‘He therefore desires that we should *embrace* the promise of God by faith.’ Melanchthon, *Loci Comm. Theol.* De Vocabulo Fidei: ‘Si fides non est fiducia intuens Christum . . . non applicamus nobis eius beneficium.’ De Fide: ‘Pia mens . . . intelligit hanc misericordiam fide id est fiducia apprehendandam esse.’
+[^6]: *Augsb. Conf.* xx.: ‘He therefore desires that we should *embrace* the promise of God by faith.’ Melanchthon, *Loci Comm. Theol.* De Vocabulo Fidei: ‘Si fides non est fiducia intuens Christum . . . non applicamus nobis eius beneficium.’ De Fide: ‘Pia mens . . . intelligit hanc misericordiam fide id est fiducia apprehendandam esse.’
 
 
 ---

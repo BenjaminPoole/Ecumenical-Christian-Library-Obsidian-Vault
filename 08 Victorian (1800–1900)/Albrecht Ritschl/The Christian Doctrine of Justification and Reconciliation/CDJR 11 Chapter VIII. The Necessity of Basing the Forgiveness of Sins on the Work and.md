@@ -134,41 +134,41 @@ Regarding the justification and regeneration of the individual, then, nothing fu
 
 [^2]: Theodor Häring, *Ueber das Bleibende im Glauben an Christus*, Stuttgart, 1880.
 
-[^3]: Zu Ritschl's Versöhnungslehre*, Zürich, 1888, p. 39.
+[^3]: *Zu Ritschl's Versöhnungslehre*, Zürich, 1888, p. 39.
 
-[^4]: Op. cit.* pp. 40, 41.
+[^4]: *Op. cit.* pp. 40, 41.
 
-[^5]: Opp. var. arg. ad hist. reform. pertin.* iii. p. 410.
+[^5]: *Opp. var. arg. ad hist. reform. pertin.* iii. p. 410.
 
 [^6]: Anselm, *Cantuar. Oratio* ii. : "Intuere dulcem natum toto corpore extensum, cerne manus innoxias pio manantes sanguine, et remitte placatus scelera, quae patraverunt manus meae. Considera inerme latus crudeli perfossum cuspide et renova me sacrosancto fonte illo, quem inde fluxisse credo. Vide immaculata vestigia, quae non steterunt in via peccatorum, sed semper ambulaverunt in lege tua, diris confixa clavis; et perfice gressus meos in semitis tuis, facque odio habere benignum omnem viam iniquitatis. . . . Candet nudatum pectus, rubet cruentum latus, tensa arent viscera, decora languent lumina, regia pallent ora, procera rigent brachia, crura pendent marmorea, rigat terebratos pedes beati sanguinis unda. Specta, gloriose genitor, gratissimae prolis lacerata membra, et memorare benignus, quae mea est substantia . . . Vide redemptoris supplicium et remitte redemti delictum.”
 
-[^7]: Geschichte des Pietismus,* ii. p. 64 ff.
+[^7]: *Geschichte des Pietismus,* ii. p. 64 ff.
 
 [^8]: The view of Hülsmann (*Beiträge zur christlichen Erkenntniss*, published by Hollenberg, 1872, p. 427 ff.) also goes on the lines of aesthetic reflection.
 
-[^9]: Fundamente einer christlichen Philosophie.* I derive my knowledge of this work from Philippi, *Kirchliche Glaubenslehre*, iv. 2, p. 216 ff.
+[^9]: *Fundamente einer christlichen Philosophie.* I derive my knowledge of this work from Philippi, *Kirchliche Glaubenslehre*, iv. 2, p. 216 ff.
 
-[^10]: Schutzschriften,* Pt. i. p. 9.
+[^10]: *Schutzschriften,* Pt. i. p. 9.
 
 [^11]: As often as the formula that faith justifies occurs in the *Apology of the Augsburg Confession*, we see clearly that it is an inexact expression, which has to be supplemented and corrected by the ideas expressed above.
 
 [^12]: [*Gerechtgesprochen*, pronounced righteous.]
 
-[^13]: Die Hauptpunkte der kirchlichen Glaubenslehre mit den Worten der Bekenntnisse dargestellt und an der heil. Schrift und den Forderungen des Glaubens geprüft*, 1862, p. 87 ff.
+[^13]: *Die Hauptpunkte der kirchlichen Glaubenslehre mit den Worten der Bekenntnisse dargestellt und an der heil. Schrift und den Forderungen des Glaubens geprüft*, 1862, p. 87 ff.
 
-[^14]: Der ideale und der geschichtliche Christus*, 1871, p. 15.
+[^14]: *Der ideale und der geschichtliche Christus*, 1871, p. 15.
 
-[^15]: Der alte und der neue Glaube an Christus*, 1868.
+[^15]: *Der alte und der neue Glaube an Christus*, 1868.
 
 [^16]: So Hanne, *op. cit.* p. 42: "He who strives with full earnestness to appropriate the ideal Christ, and to become like Him, cannot succeed in doing so without the historical Christ."
 
 [^17]: I have before me two popular theological treatises of recent date, the one from the field of critical, the other from that of apologetic theology. It is noticeable how little their formulae regarding justification and Divine sonship differ from one another, but at the same time how little practical fruit they yield, because neither of them embraces the Christian goal of dominion over the world. Brückner, *Was ist die Rechtfertigung aus dem Glauben?* (Heidelberg, 1872) pp. 30, 32: "All religion is a feeling of dependence on God. Freedom in God is its end and aim. The phrase *sola fide* makes that dependence on God absolute, to the exclusion of every other temporally conditioned, humanly mundane, mediation or authority; at the same time, however, it conditions the true ideal freedom of the spirit and conscience by the idea of the omnipotence and love of God. . . . The idea of Divine sonship manifests itself in Jesus Christ in its truth and perfection, through the power of the satisfaction and blessedness which it is capable of giving; it shows in Him as the Founder and Pattern of Christianity how absolute dependence on God, the Father of love, is one with absolute freedom in God." Pfeiffer, *Das Gotteskindschaftsbewusstsein* (Bern and St. Gallen, 1873), p. 74: "The right filial relation of man to God, according to the teaching of Jesus, is the unconditional surrender of the soul to God, and, as the result of acceptance through grace, the consciousness of receiving the continual communication of the Spirit from the Being of the Father and of being blessed in this communication of life."
 
-[^18]: Apol. C. A.* xiii. 45-50.
+[^18]: *Apol. C. A.* xiii. 45-50.
 
-[^19]: Geschichte des Pietismus*, i. p. 49.
+[^19]: *Geschichte des Pietismus*, i. p. 49.
 
-[^20]: Op. cit.* i. pp. 129, 281, ii. p. 48, iii. pp. 94, 212.
+[^20]: *Op. cit.* i. pp. 129, 281, ii. p. 48, iii. pp. 94, 212.
 
 [^21]: Spangenberg (*Idea fidei fratrum*) first develops the doctrine of grace in relation to faith, but in addition to that prescribes love to God as a contemplative exercise (*op. cit.* iii. p. 454).
 

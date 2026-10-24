@@ -157,7 +157,7 @@ VERSE 33. *Now the peace of God be with you all.* As he begged them to pray for 
 
 [^3]: For *ἡμᾶς, ὑμᾶς* is read in the MSS. A. C. D. (ex emendatione,) E. F. G. 1, 21, 23, 29, 30, 37, 38, 39, 43, 52, 61, in both the Syriac, in the Coptic, Gothic, Latin, and Armenian versions, and in several of the Fathers. It is adopted in the Complutensian edition, and in those of Griesbach, Mill, Knapp, Lachmann, and Tischendorf.
 
-[^4]: ἀλλήλους*, *each other*, *ἄλλους*, *others*, is read in the MSS. 1, 2, 4, 6, 10, 14, 15, 17, 18, 20, 23, 29, 32, 35, 38, 43, 46, 48, 52, 54, 62, 63; in the Syriac version, and by many of the Greek Fathers. The Complutensian editors, Beza, Wetstein, and Griesbach, adopt this reading.
+[^4]: *ἀλλήλους*, *each other*, *ἄλλους*, *others*, is read in the MSS. 1, 2, 4, 6, 10, 14, 15, 17, 18, 20, 23, 29, 32, 35, 38, 43, 46, 48, 52, 54, 62, 63; in the Syriac version, and by many of the Greek Fathers. The Complutensian editors, Beza, Wetstein, and Griesbach, adopt this reading.
 
 [^5]: The MSS. A. C. D. E. F. G. the Syriac, Coptic, Ethiopic, and Latin versions, some of the Greek, and most of the Latin Fathers, omit ἐλεύσομαι πρὸς ὑμᾶς, and most of these authorities omit γάρ. Mill, Griesbach, and Knapp, omit both; Lachmann retains γάρ.
 

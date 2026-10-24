@@ -124,7 +124,7 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^8]: Niemeyer: *Collectio Confessionum*, p. 462, *seq.* Compare Trechsel; as above, ii. p. 375.
 
-[^9]: Examen Conc. Trid.* (Genev. 1641), p. 134, *seq.* 140. Chemnitz's point of view as stated in the text is constantly recurring also in his article *De justificatione*. Bellarmine (*De justificatione*, ii. 2), in attacking this representation of the question at issue as a falsification of it, himself fails accurately to reproduce Chemnitz' dilemma. For the latter does not consider merely the question *propter quod Deus hominem in gratiam recipiat*, as Bellarmine says in summarizing Chemnitz, p. 129, but also the question *propter quod Deus hominem renatum justum censeat.*
+[^9]: *Examen Conc. Trid.* (Genev. 1641), p. 134, *seq.* 140. Chemnitz's point of view as stated in the text is constantly recurring also in his article *De justificatione*. Bellarmine (*De justificatione*, ii. 2), in attacking this representation of the question at issue as a falsification of it, himself fails accurately to reproduce Chemnitz' dilemma. For the latter does not consider merely the question *propter quod Deus hominem in gratiam recipiat*, as Bellarmine says in summarizing Chemnitz, p. 129, but also the question *propter quod Deus hominem renatum justum censeat.*
 
 [^10]: Löscher, *Reformationsacta*, i. pp. 777, 748, 252.
 
@@ -150,7 +150,7 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^21]: In the *Apologia Conf. Aug.* p. 175. See above, p. 123, note.
 
-[^22]: Sermo de Pœnitentia*, Löscher, i. p. 574. *Resolutiones disputationum de virtute indulgentiarum* (against Tetzel), as above, ii. pp. 262-265. *Sermon von der Busse* (the second of the year 1518), *ib.* p. 512. *Erklärung an den Card. Cajetan*, *ib.* pp. 464-472. *De captivitate ecclesiæ Babylonica*, Opp. Lat. Jen. fol. 276 b. Walch, xix. p. 98 *seq.*
+[^22]: *Sermo de Pœnitentia*, Löscher, i. p. 574. *Resolutiones disputationum de virtute indulgentiarum* (against Tetzel), as above, ii. pp. 262-265. *Sermon von der Busse* (the second of the year 1518), *ib.* p. 512. *Erklärung an den Card. Cajetan*, *ib.* pp. 464-472. *De captivitate ecclesiæ Babylonica*, Opp. Lat. Jen. fol. 276 b. Walch, xix. p. 98 *seq.*
 
 [^23]: Compare his *Zweiter Sermon von der Busse* (as above, p. 526): "Thus thou seest that the whole Church is filled with the forgiveness of sins."
 
@@ -158,27 +158,27 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^25]: Zweiter Sermon von der Busse, as above, ii. p. 524. Conclus. c. Eccium, p. 321.
 
-[^26]: Resolutiones*, as above, ii. pp. 196-202.
+[^26]: *Resolutiones*, as above, ii. pp. 196-202.
 
-[^27]: Concl. c. Eccium*; see above, ii. p. 321.
+[^27]: *Concl. c. Eccium*; see above, ii. p. 321.
 
-[^28]: Sermo de Pœnitentia* (as above, ii. p. 569): Impossibile est ut odias aliquid vero odio et perfecto, cujus contrarium non prius dilexeris. Amor semper odio est prior et odium natura et sponte fluit ex amore . . . odium mali propter bonum. Sic odium peccati et detestatio vitæ præteritæ nulla cura, nullo labore quæsita veniunt sua sponte . . . Pœnitentia debet esse dulcis et ex dulcedine in iram descendere ad odium peccati. Amor enim est vinculum perpetuum quia, voluntarium, odium temporale, quia violentum. Igitur persuade homini primum ut diligat justitiam et sine magisterio tuo conteretur de peccato; diligat Christum et statim sui prodigus odio habebit se ipsum. So also in his *Concl. c. Ecc.* (ii. p. 321): in his letter to Staupitz of May 30, 1518 (de Wette, i. p. 116). Exposition of the Ten Commandments (Löscher, i. p. 641). The letter to Staupitz shows that Luther was indebted to him for this important knowledge.
+[^28]: *Sermo de Pœnitentia* (as above, ii. p. 569): Impossibile est ut odias aliquid vero odio et perfecto, cujus contrarium non prius dilexeris. Amor semper odio est prior et odium natura et sponte fluit ex amore . . . odium mali propter bonum. Sic odium peccati et detestatio vitæ præteritæ nulla cura, nullo labore quæsita veniunt sua sponte . . . Pœnitentia debet esse dulcis et ex dulcedine in iram descendere ad odium peccati. Amor enim est vinculum perpetuum quia, voluntarium, odium temporale, quia violentum. Igitur persuade homini primum ut diligat justitiam et sine magisterio tuo conteretur de peccato; diligat Christum et statim sui prodigus odio habebit se ipsum. So also in his *Concl. c. Ecc.* (ii. p. 321): in his letter to Staupitz of May 30, 1518 (de Wette, i. p. 116). Exposition of the Ten Commandments (Löscher, i. p. 641). The letter to Staupitz shows that Luther was indebted to him for this important knowledge.
 
 [^29]: Compare Melanchthon's luminous statement (*Declamatio de calumnia Osiandri*, C. R., xii. p. 11): Etsi enim hac consolatione filius Dei ipse corda erigit et vivificat, ac spiritum sanctum in hunc, qui fide sustentatur, effundit, jam domicilium et templum Dei est homo renatus, tamen anteferenda est obedientia filii Dei his ipsis divinis actionibus quamquam excellentibus, et retinenda consolatio, propter mediatorem tibi imputari justitiam.
 
-[^30]: Zur kirchlichen Christologie*, p. 45.
+[^30]: *Zur kirchlichen Christologie*, p. 45.
 
 [^31]: Zeller, *Das theologische System Zwingli's*, p. 174.
 
-[^32]: Beiträge zur Kirchenverfassungsgeschichte und Kirchenpolitik*, vol. i. p. 163.
+[^32]: *Beiträge zur Kirchenverfassungsgeschichte und Kirchenpolitik*, vol. i. p. 163.
 
-[^33]: Werke* (edited by Schuler and Schulthess), i. p. 280: "So now, merit having been demolished, the Papists need no longer molest the saints for their intercession."
+[^33]: *Werke* (edited by Schuler and Schulthess), i. p. 280: "So now, merit having been demolished, the Papists need no longer molest the saints for their intercession."
 
-[^34]: Auslegung der Schlussreden*, i. p. 262 *sqq.* *Von göttlicher und menschlicher Gerechtigkeit*, i. p. 431 *sqq.* *Commentarius de vera et falsa religione*, iii. p. 180 *sqq.*
+[^34]: *Auslegung der Schlussreden*, i. p. 262 *sqq.* *Von göttlicher und menschlicher Gerechtigkeit*, i. p. 431 *sqq.* *Commentarius de vera et falsa religione*, iii. p. 180 *sqq.*
 
 [^35]: Compare the first Confession of Basle (Niemeyer, *Collectio conf.* p. 83): "We acknowledge the remission of sins through faith in Jesus Christ the Crucified. And although this faith manifests itself unremittingly in works of love, reveals itself and proves itself thereby, yet we do not attribute our righteousness or the propitiation for our sins to those works, which are fruits of faith, but simply to our genuine confidence and trust in the shed blood of the Lamb of God. For we frankly confess that all things are given unto us in Christ, who is our Righteousness, Sanctification, Ransom, Way, Truth, Wisdom, and Life. Wherefore the works of believers are not done as a satisfaction for sin, but simply as evidence that they are in some measure thankful to God, the Lord, for the great goodness shown towards them in Christ."
 
-[^36]: De vera et falsa religione* (loci de evangelio, de pœnitentia), iii. p. 191 *sq.*
+[^36]: *De vera et falsa religione* (loci de evangelio, de pœnitentia), iii. p. 191 *sq.*
 
 [^37]: Compare articles 50 to 54 of the 67 *Schlussreden*, and the *Auslegung* that relates to them. "Christ has borne all our pains, and done all our work. Whoever therefore attributes to works of penance what is due to Christ alone, is in error, and does despite to God " (Art. 54).
 
@@ -186,7 +186,7 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^39]: Sigwart, *Ulrich Zwingli*, p. 39. Zeller virtually expresses the same view *Theol. System Zwingli's*) because, adopting Schneckenburger's recipe, he allows the thought of eternal election, as the reformed principle of doctrine, to be taken for granted as arising out of Zwingli's craving after absolute certainty of salvation (p. 24 *sqq.*) Sigwart (p. 3 *sqq.*) is very well worth reading on this point. Although, however, he tries very hard to understand Zwingli as a reformer before forming an estimate of him as a systematical theologian, he is not successful, and so falls back to the level of Zeller's view, which is characterized throughout by this feature, that it measures the theology of a *religious* reformer of the *Church* by the standard that might be applied to an ordinary *teacher of a theological school.* One can judge from this how far Stahl (*die Lutherische Kirche und die Union*, p. 13) is right in characterizing Sigwart's book as an "unprejudiced" representation. Extreme parties are notoriously always alike in this matter of freedom from prejudice, and on this occasion Stahl has carried it so far as to spare himself the trouble of any thorough-going study of Zwingli's works, thereby hoping to exercise a more unbiassed judgment on the value of the Reformation which Zwingli originated.
 
-[^40]: De providentia Dei* (iv. p. 98). Compare the sketch of the train of thought in this tract of Zwingli's which is given in my *Geschichtl. Studien zur Christl. Lehre von Gott.* Art. ii. (Jahrb. für deutsche Theol. xiii. p. 94 *sq.*)
+[^40]: *De providentia Dei* (iv. p. 98). Compare the sketch of the train of thought in this tract of Zwingli's which is given in my *Geschichtl. Studien zur Christl. Lehre von Gott.* Art. ii. (Jahrb. für deutsche Theol. xiii. p. 94 *sq.*)
 
 [^41]: Zeller, p. 24; Sigwart, p. 158.
 
@@ -204,19 +204,19 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^48]: Compare *Apol. Conf. Aug.* pp. 71, 99, 141.
 
-[^49]: Die Lutherische Kirche und die Union*, from p. 23 onwards.
+[^49]: *Die Lutherische Kirche und die Union*, from p. 23 onwards.
 
 [^50]: iv. p. 60: Confirmatio, satisfactio et expiatio criminum per solum Christum pro nobis impetrata est apud Deum. Ipse est enim propitiatio pro peccatis nostris. . . . Cum ergo ille pro peccato satisfecerit, quinam fiunt, quæso, participes illius satisfactionis et redemtionis? Ipsum audiamus: Qui in me credit, hoc est qui in me fidit, qui in me nititur, habet vitam æternam. At vitam æternam nemo adipiscitur, nisi cui peccata ademta sunt. Qui ergo Christo fidit, ei remittuntur peccata.
 
-[^51]: De prov. Dei* (iv. p. 124): Fidei tribuitur justificatio et salus, quum (although) ea solius sint electionis, et liberalitatis divinæ, fides autem electionem sic sequatur ut qui illam habeant, sciant veluti per sigillum ac pignus se electos esse.
+[^51]: *De prov. Dei* (iv. p. 124): Fidei tribuitur justificatio et salus, quum (although) ea solius sint electionis, et liberalitatis divinæ, fides autem electionem sic sequatur ut qui illam habeant, sciant veluti per sigillum ac pignus se electos esse.
 
 [^52]: I do not find in the *Annotationes in Genesin* (v. p. 59), the expression of Zwingli quoted by Sigwart as above: *Justitiam largitur, internam istam, quæ nihil aliud est, nisi spiritus.* Some such undercurrent of thought, however, seems to run in the *Expositio fidei* (iv. 60). *Sicut enim fidem nemo potest nisi spiritus sanctus dare, sic etiam non remissionem peccatorum.* Still, when taken along with its connexion, this also means only that the Holy Spirit as objective ground of faith is the means of the appropriation of the forgiveness of sins, grounded on Christ's atoning work, just as faith itself is.
 
-[^53]: Luther's Theologie*, ii. p. 454. I shall again recur to this point.
+[^53]: *Luther's Theologie*, ii. p. 454. I shall again recur to this point.
 
-[^54]: Auslegung der Schlussreden* (Werke, i. pp. 253, 254); *Exegesis eucharistiæ negotii ad Lutherum* (iii. p. 543).
+[^54]: *Auslegung der Schlussreden* (Werke, i. pp. 253, 254); *Exegesis eucharistiæ negotii ad Lutherum* (iii. p. 543).
 
-[^55]: Vermahnung sich vor Aufruhr zu hüten* (1522) Walch, x. p. 420. "Above everything would I have my name to be passed over in silence, and that ye should call yourselves not Lutherans, but Christians. What is Luther? At all events the doctrine is not mine. Neither have I been crucified for any man. St. Paul (1 Cor. iii. 4, 5) would not suffer that Christians should call themselves of Paul or of Peter, but only of Christ. How then should I, a poor vile worm (*armer stinkender Madensack*), come to have children of Christ called by my worthless name? Nay, dear friends; let us do away with party names, and name ourselves of Christ, whose doctrine we hold. The Papists have a party name,—and justly; for, not satisfied with Christ's doctrine and name, they will have the Pope's also. Let them be the Pope's, who is their master. I am not, nor will I be, any man's master. *In common with the congregation of Christ's people, I hold the one common doctrine of Christ, who alone is our Master.*"
+[^55]: *Vermahnung sich vor Aufruhr zu hüten* (1522) Walch, x. p. 420. "Above everything would I have my name to be passed over in silence, and that ye should call yourselves not Lutherans, but Christians. What is Luther? At all events the doctrine is not mine. Neither have I been crucified for any man. St. Paul (1 Cor. iii. 4, 5) would not suffer that Christians should call themselves of Paul or of Peter, but only of Christ. How then should I, a poor vile worm (*armer stinkender Madensack*), come to have children of Christ called by my worthless name? Nay, dear friends; let us do away with party names, and name ourselves of Christ, whose doctrine we hold. The Papists have a party name,—and justly; for, not satisfied with Christ's doctrine and name, they will have the Pope's also. Let them be the Pope's, who is their master. I am not, nor will I be, any man's master. *In common with the congregation of Christ's people, I hold the one common doctrine of Christ, who alone is our Master.*"
 
 [^56]: He himself refers to his teacher, Thomas Wyttenbach, and to Erasmus. Compare *Auslegung der Schlussreden* (i. p. 298); *Exegesis eucharistiæ negotii ad Lutherum* (iii. p. 544).
 
@@ -226,7 +226,7 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^59]: This is not rendered needless by Zeller's observation, as above, p. 13, that the Lutheran Confession approaches Catholicism more closely, while those of the Reformed Churches approximate those sects and parties which stand outside of the limits of Reformation Protestantism. Such an observation betrays a merely superficial mode of viewing the question.
 
-[^60]: Kürzere Auslegung des Briefes an die Galater* (1519), Walch, ix. p. 209: "When Paul speaks of the faith which justifies he of course means the faith which worketh by love; for faith earns the bestowal of the Spirit." P. 117: "To the righteous no sin is imputed, and this by reason of faith, which, being in conformity with God, crucifies sin in the flesh." *Sermon von dreierlei gutem Leben* (1521), x. p. 1992: "Faith alone makes blessed. Wherefore? It brings with it the spirit that does all good works willingly and lovingly, and thus fulfils and delights in the commandments of God." *Auslegung der 22 ersten Psalmen* (1519), iv. p. 859: "Beware of the sophists who make Christ to be our righteousness and our wisdom in such a way that all the time they make him only to be the cause of our righteousness. . . . Faith in Christ brings it about that he lives and works in me just as a healing salve works on a sick body; thus there is made with Christ one flesh and one body by a hidden unspeakable transformation of our sins into his righteousness. . . . It is now Christ's office and nature to cleanse the sins away from those who believe in him, and by himself to infuse righteousness into them." *Enarratio Epist. et Evang.* (1521), Opp. lat. Jen. ii. p. 356 b. *Vorrede zum Römerbrief* (1522), Walch, xiv. p. 112. Compare Köstlin, i. p. 285; ii. p. 454 *sq.*
+[^60]: *Kürzere Auslegung des Briefes an die Galater* (1519), Walch, ix. p. 209: "When Paul speaks of the faith which justifies he of course means the faith which worketh by love; for faith earns the bestowal of the Spirit." P. 117: "To the righteous no sin is imputed, and this by reason of faith, which, being in conformity with God, crucifies sin in the flesh." *Sermon von dreierlei gutem Leben* (1521), x. p. 1992: "Faith alone makes blessed. Wherefore? It brings with it the spirit that does all good works willingly and lovingly, and thus fulfils and delights in the commandments of God." *Auslegung der 22 ersten Psalmen* (1519), iv. p. 859: "Beware of the sophists who make Christ to be our righteousness and our wisdom in such a way that all the time they make him only to be the cause of our righteousness. . . . Faith in Christ brings it about that he lives and works in me just as a healing salve works on a sick body; thus there is made with Christ one flesh and one body by a hidden unspeakable transformation of our sins into his righteousness. . . . It is now Christ's office and nature to cleanse the sins away from those who believe in him, and by himself to infuse righteousness into them." *Enarratio Epist. et Evang.* (1521), Opp. lat. Jen. ii. p. 356 b. *Vorrede zum Römerbrief* (1522), Walch, xiv. p. 112. Compare Köstlin, i. p. 285; ii. p. 454 *sq.*
 
 [^61]: C. R. ii. p. 501.
 
@@ -238,7 +238,7 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^65]: For the requisite citations I would refer to Thomasius: *das Bekenntniss der evangelisch-lutherischen Kirche in der Consequenz seines Princips*, p. 100 *sq.*
 
-[^66]: Von der babyl. Gefangenschaft* (Walch, xix. p. 102): "It is only by faith (kindled in view of the promise and God's threatening) that the conscience is thus crushed, and again lifted up and comforted. For this reason faith ought before all things to be instructed and awakened. Where faith has been attained, repentance and peace will infallibly follow." *Auslegung der 22 ersten Psalmen* (iv. p. 1506): the writer of the 19th Psalm affirms of the law that it converts the soul, "in order to distinguish it from the law that is learned without the word of faith and without the glow of the Spirit, for such learning only defiles, perverts souls, makes unbelievers and fools. Therefore everything that is here said in praise of the law must be understood of the Holy Spirit, which quickens us by the word of faith." Melanchthon: *Loci* (1521), *l. c.* p. 154: Certum est, odio peccati neminem tangi posse, nisi per spiritum sanctum. p. 216: Tantum abest, ut sine opera spiritus sancti conteramur.
+[^66]: *Von der babyl. Gefangenschaft* (Walch, xix. p. 102): "It is only by faith (kindled in view of the promise and God's threatening) that the conscience is thus crushed, and again lifted up and comforted. For this reason faith ought before all things to be instructed and awakened. Where faith has been attained, repentance and peace will infallibly follow." *Auslegung der 22 ersten Psalmen* (iv. p. 1506): the writer of the 19th Psalm affirms of the law that it converts the soul, "in order to distinguish it from the law that is learned without the word of faith and without the glow of the Spirit, for such learning only defiles, perverts souls, makes unbelievers and fools. Therefore everything that is here said in praise of the law must be understood of the Holy Spirit, which quickens us by the word of faith." Melanchthon: *Loci* (1521), *l. c.* p. 154: Certum est, odio peccati neminem tangi posse, nisi per spiritum sanctum. p. 216: Tantum abest, ut sine opera spiritus sancti conteramur.
 
 [^67]: Löscher: i. pp. 762, 765, 785. So also Melanchthon: *Apol. Conf. Aug.* (libr. symb. ed. Hase, p. 71). *Loci* (1535); p. 421. Evangelium arguit peccata et docet, nobis opus esse mediatore. Cf. p. 490 (1543) p. 741: Poenitentia fit voce legis, per quam Deus arguit peccata nostra, . . . fit et voce evangelii accusantis mundum, quod non audiat filium Dei, non moveatur ejus passione et resurrectione. Ideo inquit Christus (Joh. xvi. 8): spiritus sanctus arguet mundum de peccato, quod non credunt. Et Rom. i. 18: revelatur ira Dei, etc.
 
@@ -256,13 +256,13 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^74]: Niemeyer, *Coll. conff.* pp. 135, 136: Ecclesia est corpus et societas fidelium, quos Deus ad vitam æternam prædestinavit. Estne hoc etiam caput creditu necessarium? Imo vero, nisi facere velimus otiosam Christi mortem, et pro nihilo ducere, quidquid hactenus relatum est. Hic enim unus est omnium effectus, ut sit ecclesia. . . . Cur peccatorum remissionem subnectis ecclesiæ? Quia eam nemo consequitur, quia et coadunatus fuerit ante populo Dei, et unitatem cum Christi corpore perseveranter ad finem usque colat, eoque modo testatum faciat, verum se esse ecclesiæ membrum.
 
-[^75]: Lib.* iv. 1, 1: In ecclesiæ sinum aggregari vult Deus filios suos, non modo ut ejus opera et ministerio alantur, quamdiu infantes sunt ac pueri, sed cura etiam materna regantur donec adolescant, ac tandem perveniant ad fidei metam.
+[^75]: *Lib.* iv. 1, 1: In ecclesiæ sinum aggregari vult Deus filios suos, non modo ut ejus opera et ministerio alantur, quamdiu infantes sunt ac pueri, sed cura etiam materna regantur donec adolescant, ac tandem perveniant ad fidei metam.
 
-[^76]: Comparative Dogmatik*, ii. pp. 22, 23.
+[^76]: *Comparative Dogmatik*, ii. pp. 22, 23.
 
-[^77]: Lib.* ii. 15. 3, 6: In the Genevan Catechism it is even King, High Priest, Prophet (Niemeyer, p. 129).
+[^77]: *Lib.* ii. 15. 3, 6: In the Genevan Catechism it is even King, High Priest, Prophet (Niemeyer, p. 129).
 
-[^78]: Lib.* ii. 15. 5: Dedit pater omnem potestatem filio, ut per ejus manum nos gubernet, foveat, sustentet, sub ejus tutela nos protegat nobisque auxilietur. Ita quantisper a Deo peregrinamur, Christus intercedit medius, qui nos paulatim ad solidam cum Deo conjunctionem perducat.
+[^78]: *Lib.* ii. 15. 5: Dedit pater omnem potestatem filio, ut per ejus manum nos gubernet, foveat, sustentet, sub ejus tutela nos protegat nobisque auxilietur. Ita quantisper a Deo peregrinamur, Christus intercedit medius, qui nos paulatim ad solidam cum Deo conjunctionem perducat.
 
 [^79]: iii. 3. 19: Proprium fidei objectum est dei bonitas, qua peccata remittuntur. 11. 1: Regeneratio est secunda gratia. Justificationis ratio . . . ita discutienda est, ut meminerimus præcipuum esse sustinendæ religionis cardinem. Nisi enim primum omnium, quo sis apud Deum loco, et quale de te sit illius judicium, tenes, ut nullum habes stabiliendæ salutis fundamentum, ita nec erigendæ in Deum pietatis.
 
@@ -278,7 +278,7 @@ For this empirical view of conversion Calvin, in his editions of the years 1539-
 
 [^85]: iii. 14. 21: Stat inconcussum, quod ante posuimus, effectum nostræ salutis in dei patris dilectione situm esse, materiam in filii obedientia, instrumentum in spiritus illuminatione, hoc est fide, finem esse tantæ Dei benignitatis gloriam. 11. 10: Non ergo eum extra nos procul speculamur, ut nobis imputetur ejus justitia, sed quia ipsum induimus et insiti sumus in ejus corpus . . . ideo justitiæ societatem nobis cum eo esse gloriamur.
 
-[^86]: Comparative Dogmatik*, ii. p. 23. *Zur kirchl. Christologie*, p. 55 *sq.*
+[^86]: *Comparative Dogmatik*, ii. p. 23. *Zur kirchl. Christologie*, p. 55 *sq.*
 
 [^87]: C. R. xxix. pp. 148-150.
 

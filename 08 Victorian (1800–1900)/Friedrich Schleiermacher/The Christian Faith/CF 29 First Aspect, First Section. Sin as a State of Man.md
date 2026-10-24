@@ -54,7 +54,7 @@ From the one point of view we distinguish between our good nature—for many imp
 
 [^3]: Rom. 7²⁵ 8³
 
-[^4]: Conf. Aug.* xix.: Voluntas . . . quae avertit se a Deo.
+[^4]: *Conf. Aug.* xix.: Voluntas . . . quae avertit se a Deo.
 
 [^5]: For others of this type cf. Gerhard, *Loc. Th.* t. v. pp. 2 ff.
 

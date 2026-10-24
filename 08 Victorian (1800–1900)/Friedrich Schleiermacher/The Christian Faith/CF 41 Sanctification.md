@@ -78,19 +78,19 @@ Hence one may justly say that in the Christian Church it is neither necessary no
 
 [^2]: Eph. 2¹⁹.
 
-[^3]: Expos. simpl.* xvi.: Sunt multa praeterea indigna Deo, et imperfecta plurima inveniuntur in operibus etiam sanctorum.—*Conf. Belg.* xxiv.: Nullum enim opus facere possumus, quod non est carnis vitio pollutum.
+[^3]: *Expos. simpl.* xvi.: Sunt multa praeterea indigna Deo, et imperfecta plurima inveniuntur in operibus etiam sanctorum.—*Conf. Belg.* xxiv.: Nullum enim opus facere possumus, quod non est carnis vitio pollutum.
 
-[^4]: Epit. artic.* iv.: Credimus . . . cum dicitur renatos bene operari libero et spontaneo spiritu, id non ita accipiendum esse, quod . . . nihilominus tamen fidem retineat (scil. homo renatus) etiamsi in peccatis ex proposito perseveret.—*Ibid.*: reprobamus dogma illud, quod fides in Christum non amittatur . . . etiamsi (homo) sciens volensque peccet.
+[^4]: *Epit. artic.* iv.: Credimus . . . cum dicitur renatos bene operari libero et spontaneo spiritu, id non ita accipiendum esse, quod . . . nihilominus tamen fidem retineat (scil. homo renatus) etiamsi in peccatis ex proposito perseveret.—*Ibid.*: reprobamus dogma illud, quod fides in Christum non amittatur . . . etiamsi (homo) sciens volensque peccet.
 
 [^5]: Melanchth., *loc.* pp. 124 and 276: Necesse est autem discernere peccata quae in renatis in hac vita manent ab illis peccatis, propter quae amittuntur gratia et fides . . . est igitur actuale mortale in labente post reconciliationem actio interior vel exterior pugnans cum lege Dei facta contra conscientiam—nec potest stare cum malo proposito contra conscientiam fidei.—*Augs. Conf.* xii.: ‘. . . that those who have sinned after baptism can always, if they are converted, receive forgiveness. . . . Hereby those are repudiated who teach that such as have once become religious can never fall away.’—*Declar. Thorun.* xi. p. 421: Quasi statuamus semel iustificatos Dei gratiam eiusve certitudinem . . . non posse amittere quamvis in peccatis pro lubitu volutentur. Cum contra potius doceamus, ipsos etiam renatos quoties in peccata contra conscientiam recidunt, in iisque aliquamdiu perseverant, nec fidem vivam nec Dei gratiam iustificantem nedum eius certitudinem . . . pro illo tempore retinere, etc.—Reinh., *Dogm.*, § 127, is careful to take the main proposition, ipsum tamen justificationis decretum in Deo mutabile non est, along with that (*ibid.* 2.) that a man can be justified more than once in his life. For as often as he receives faith once more after the occurrence of a moral lapse the decretum justificans related to this faith must again take place in God. See § 128: . . . iustificatio . . . neglecta fide iterum potest amitti.
 
-[^6]: Expos. simpl.* xvi.: Eadem (fides) retinet nos in officio.—*Conf. Gall.* xxi.: . . . credimus fidem electis dari, ut non semel tantum in rectam viam introducantur, quin potius ut in ea ad extremum usque pergant.—*Sol. decl.*, p. 802: Deus proposuit se iustificatos etiam in multiplici et varia ipsorum infirmitate . . . defensurum . . . et si lapsi fuerint, manum supposituram ut ad vitam conserventur. Augustine’s sentence is relevant at this point: Ego autem id esse dico peccatum ad mortem, fidem quae per dilectionem operatur deserere usque ad mortem (*De corr. et grat.* 35).
+[^6]: *Expos. simpl.* xvi.: Eadem (fides) retinet nos in officio.—*Conf. Gall.* xxi.: . . . credimus fidem electis dari, ut non semel tantum in rectam viam introducantur, quin potius ut in ea ad extremum usque pergant.—*Sol. decl.*, p. 802: Deus proposuit se iustificatos etiam in multiplici et varia ipsorum infirmitate . . . defensurum . . . et si lapsi fuerint, manum supposituram ut ad vitam conserventur. Augustine’s sentence is relevant at this point: Ego autem id esse dico peccatum ad mortem, fidem quae per dilectionem operatur deserere usque ad mortem (*De corr. et grat.* 35).
 
 [^7]: See above, § 74.
 
-[^8]: Epit. Artic.* iv.: Repudiamus . . . *nudam* hanc offendiculi plenam . . . phrasin, bona opera noxia esse ad salutem. See also what immediately follows.
+[^8]: *Epit. Artic.* iv.: Repudiamus . . . *nudam* hanc offendiculi plenam . . . phrasin, bona opera noxia esse ad salutem. See also what immediately follows.
 
-[^9]: Ibid.*: Credimus fidem in nobis conservari aut retineri non per opera, sed tantum per Spiritum Dei. The latter remark is not yet relevant, but is quite true. All the same, the Holy Spirit has no other way of giving strength to faith than by activity in works.
+[^9]: *Ibid.*: Credimus fidem in nobis conservari aut retineri non per opera, sed tantum per Spiritum Dei. The latter remark is not yet relevant, but is quite true. All the same, the Holy Spirit has no other way of giving strength to faith than by activity in works.
 
 [^10]: Gal. 3²⁵ 5¹⁸, even though he here speaks of the flesh lusting against the spirit.
 
@@ -102,7 +102,7 @@ Hence one may justly say that in the Christian Church it is neither necessary no
 
 [^14]: John 15¹².
 
-[^15]: Conf. Gall.* xxiii.: Credimus omnes legis figuras adventu Jesu Christi sublatas esse, quamvis earum veritas et substantia nobis in eo constat, in quo sunt omnes impletae.
+[^15]: *Conf. Gall.* xxiii.: Credimus omnes legis figuras adventu Jesu Christi sublatas esse, quamvis earum veritas et substantia nobis in eo constat, in quo sunt omnes impletae.
 
 [^16]: One cannot say with truth of any law: *Lex inculcat . . . esse voluntatem et mandatum Dei ut in nova vita ambulemus.* Here obviously the Mosaic Law is meant.
 

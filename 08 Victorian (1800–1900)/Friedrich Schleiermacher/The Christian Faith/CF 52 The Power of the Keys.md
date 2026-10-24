@@ -46,7 +46,7 @@ Another peculiarity seems to be that we formerly[^1] described the Power of the 
 
 [^4]: John 20²³.
 
-[^5]: Conf. Aug. de abus.* vii.: Necesse est enim retineri in ecclesiis doctrinam de libertate christiana.
+[^5]: *Conf. Aug. de abus.* vii.: Necesse est enim retineri in ecclesiis doctrinam de libertate christiana.
 
 [^6]: Cf. Matt. 10¹⁴·¹⁵. For wheresoever the disciples thus withdrew, there no community arose, and sins were retained in every case.
 

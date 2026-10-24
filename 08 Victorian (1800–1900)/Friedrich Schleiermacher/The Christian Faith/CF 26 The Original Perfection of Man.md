@@ -60,15 +60,15 @@ But this leads us over to the other point of view—namely, the representation o
 
 [^9]: So Quenstedt, *Syst. Theol.*, p. 843, reckons as part of the original perfection *conformitas appetitus sensitivi cum Dei castitate.*
 
-[^10]: Ibid.* p. 844: In corpore primi hominis eluxit imago Dei . . . per impassibilitatem.
+[^10]: *Ibid.* p. 844: In corpore primi hominis eluxit imago Dei . . . per impassibilitatem.
 
-[^11]: Apolog. Conf.* i. (p. 20. Ed. Lücke) inclines in this direction: Justitia originalis habitura erat non solum aequale temperamentum qualitatum corporis, sed etiam haec dona, notitiam Dei certiorem timorem Dei fiduciam Dei, aut certe rectitudinem et vim ista efficiendi; though even this shows some confusion. And *Solid. Decl.*, p. 643: In Adamo et Heva *natura* initio pura bona et sancta creata est.
+[^11]: *Apolog. Conf.* i. (p. 20. Ed. Lücke) inclines in this direction: Justitia originalis habitura erat non solum aequale temperamentum qualitatum corporis, sed etiam haec dona, notitiam Dei certiorem timorem Dei fiduciam Dei, aut certe rectitudinem et vim ista efficiendi; though even this shows some confusion. And *Solid. Decl.*, p. 643: In Adamo et Heva *natura* initio pura bona et sancta creata est.
 
 [^12]: Here belongs *Solid. Decl.*, p. 640, in so far as it calls original sin a privatio concreatae in Paradiso justitiae originalis seu imaginis Dei, ad quam homo initio in veritate sanctitate atque justitia creatus fuerat; and *Conf. Belg.* xiv.: Credimus Deum ex limo terrae hominem ad imaginem suam bonum scilicet iustum et sanctum creasse, qui proprio arbitrio suam voluntatem ad Dei voluntatem componere et conformem reddere posset. Less clearly, *Conf. Helv.*: Fuit homo ab initio a Deo conditus ad imaginem Dei in iustitia et sanctitate veritatis, bonus et rectus.
 
 [^13]: Cf. Luther in *Genes.* i. § 187: ‘To this inner perfection was later added the most beautiful and admirable strength and glory of the body and all its members.’
 
-[^14]: Concupiscentia.* The relevant passages are too many to give in detail, but the use of the word is so varied that it would be hard to decide whether, and if so how far, his doctrine goes beyond the proper bounds.
+[^14]: *Concupiscentia.* The relevant passages are too many to give in detail, but the use of the word is so varied that it would be hard to decide whether, and if so how far, his doctrine goes beyond the proper bounds.
 
 [^15]: Frenum extraordinarium. See Bellarmin., *de Gratia pr. hom,* cap. v.
 

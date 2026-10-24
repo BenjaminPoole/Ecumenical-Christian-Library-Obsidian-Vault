@@ -98,7 +98,7 @@ In order properly to understand this view, we must secure against misapprehensio
 
 [^2]: The hints in the third section of the *Grundlegung zur Metaphysik der Sitten* are based upon the solution of the third antinomy of pure reason given in the *Critique of pure Reason* (1781), and are carried out in accordance herewith in the part of the *Critique of the practical Reason* (1788) entitled *Critical illustration of the analytic of pure practical Reason.*
 
-[^3]: Kritik der praktischen Vernunft.* 1ster Th. 1stes Buch, 1 Hptst. sec. 8 (vol. v. p. 40 of the new edition of Kant's works by Hartenstein).
+[^3]: *Kritik der praktischen Vernunft.* 1ster Th. 1stes Buch, 1 Hptst. sec. 8 (vol. v. p. 40 of the new edition of Kant's works by Hartenstein).
 
 [^4]: This was precisely what Eberhard's opinion came to (above, p. 362).
 
@@ -106,9 +106,9 @@ In order properly to understand this view, we must secure against misapprehensio
 
 [^6]: This last point is conceded by the Kantian C. Chr. Erhard Schmid in his *Versuch einer Moralphilosophie* (1790); for he states (p. 148) his doctrine of the highest Good under the title “Absolute union of pure and empirical practical reason.” Yet he reckons the doctrine as part of the critique of practical reason, and so does not attain to the distinction expressed above.
 
-[^7]: Erster Theil, erstes Buch, drittes Hauptstück, vol. v. p. 76 seq.*
+[^7]: *Erster Theil, erstes Buch, drittes Hauptstück, vol. v. p. 76 seq.*
 
-[^8]: Cf.* in the above-cited edition of Kant's Works, vol. vi. pp. 175-177, 249.
+[^8]: *Cf.* in the above-cited edition of Kant's Works, vol. vi. pp. 175-177, 249.
 
 [^9]: As above, p. 99.
 
@@ -118,9 +118,9 @@ In order properly to understand this view, we must secure against misapprehensio
 
 [^12]: Therefore Kant, after this change of opinion at p. 156, returns in p. 162 to the religious thought.
 
-[^13]: Werke*, vi. p. 155: "As we are not the authors of this idea, it on the contrary having taken its place in men without our being able to comprehend how human nature could ever have been so much as able to receive it, we may rather say that that pattern has come down to us from heaven—that it has laid hold of humanity."
+[^13]: *Werke*, vi. p. 155: "As we are not the authors of this idea, it on the contrary having taken its place in men without our being able to comprehend how human nature could ever have been so much as able to receive it, we may rather say that that pattern has come down to us from heaven—that it has laid hold of humanity."
 
-[^14]: Censur des christlichen protestantischen Lehrbegriffs.* Drei Theile, 1791-93. The first part in a second edition, 1796 (thus having been prepared subsequent to the appearance of Kant's "Religion within the limits of mere reason.") It is this second edition that I use. With reference to what is said in the text, compare p. 146 *sq.*
+[^14]: *Censur des christlichen protestantischen Lehrbegriffs.* Drei Theile, 1791-93. The first part in a second edition, 1796 (thus having been prepared subsequent to the appearance of Kant's "Religion within the limits of mere reason.") It is this second edition that I use. With reference to what is said in the text, compare p. 146 *sq.*
 
 [^15]: As above, p. 149 *sqq.* See also a dissertation, "Is the forgiveness of sins a Postulate of the Practical Reason?" in Stäudlin's *Beiträge zur Philosophie und Geschichte der Religion u. Sittenlehre* (1797), pp. 112-201.
 
@@ -132,57 +132,57 @@ In order properly to understand this view, we must secure against misapprehensio
 
 [^19]: The same thought gets characteristic expression cognate to the Kantian view from E. R. Stier (in his biography, vol. i. p. 216): "For all that is yet in the future [we ought] to live only strictly according to the law as if only by the fulfilment thereof we were to be saved,—then for the past only to comfort ourselves with grace, and for God's sake presuppose no forgiving grace for the future."
 
-[^20]: Censur des prot. Lehrbegriffs*, ii. p. 276 *sqq.*
+[^20]: *Censur des prot. Lehrbegriffs*, ii. p. 276 *sqq.*
 
-[^21]: Censur des prot. Lehrbegriffs*, i. p. 169. Also the dissertation in Stäudlin's *Beiträge*, iii. p. 153.
+[^21]: *Censur des prot. Lehrbegriffs*, i. p. 169. Also the dissertation in Stäudlin's *Beiträge*, iii. p. 153.
 
-[^22]: Censur des prot. Lehrbegriffs*, iii. p. 127.
+[^22]: *Censur des prot. Lehrbegriffs*, iii. p. 127.
 
 [^23]: It is no less remarkable that Baur (as above, pp. 568, 570) assigns to Tieftrunk's line of thought in the *Censur des prot. Lehrbegriffs* the purpose of deducing from Kant's principle the necessity of the remission of punishments. Baur therefore finds in Tieftrunk's essay in Stäudlin's *Beiträge* a "new application of his deduction," but in respect to this finds at the same time that "it is not said wherein forgiveness consists" (p. 574). It has entirely escaped the notice of the historian of the doctrine of reconciliation that Tieftrunk has made the great advance of postulating in reconciliation with God nothing but the removal of guilt and of the consciousness of guilt, and leaving aside that of punishment. A fellow-countryman of Baur had indeed before him overlooked this peculiarity of Tieftrunk's doctrine. In Süskind's essay *Ueber die Möglichkeit der Strafaufhebung oder der Sündenvergebung nach Principien der praktischen Vernunft* (in Flatt's *Magazin für Dogmatik und Moral*, 1st part, 1796), an abstract of Tieftrunk's view taken from the 2d part of the *Censur des prot. Lehrbegriffs* is to be found which does not reproduce his characteristic tendency. Süskind deserves a certain measure of indulgence in this, not being acquainted with Tieftrunk's first part in its 2d ed. (1796), where the dominating point of view is stated in an unmistakable way. In fact he inadvertently assumes the eudæmonistic point of view and loses himself in aimless talk (compare the notice in Baur). In spite of this Baur has reposed such confidence in Süskind as to reproduce almost word for word (pp. 568-570) his abstract of Tieftrunk's view (as above, pp. 23-25), citing the very numbers of the pages in Tieftrunk's work which Süskind has referred to. From that theological local patriotism, which is customary with others also of his countrymen, Baur has thus altogether neglected to look at the North German theologian's chief work, of which he treats.
 
-[^24]: Censur*, ii. p. 348 *sq.*
+[^24]: *Censur*, ii. p. 348 *sq.*
 
-[^25]: Censur*, ii. p. 328 *sqq.*; 357 *sqq.*
+[^25]: *Censur*, ii. p. 328 *sqq.*; 357 *sqq.*
 
-[^26]: Ib.*, p. 201 *sqq.*
+[^26]: *Ib.*, p. 201 *sqq.*
 
 [^27]: Stäudlin, *Beiträge*, iii. p. 186.
 
 [^28]: In Dorner's *Geschichte der protest. Theologie*, pp. 750, 751, there is to be found a notice of the controversy (touched upon by Baur also) between Tieftrunk and Süskind, which is quite unintelligible to me so far as I am acquainted with the original documents. In particular, I do not understand upon what basis Dorner's remark against Tieftrunk rests: “ he failed to perceive, that if sin be forgiven spontaneously, and that too previous to amendment (for forgiveness of sins must establish the possibility of the latter), then in place of God's righteousness an indifference to the distinction between God and evil must come in.” For I have nowhere read in Tieftrunk the premisses that are here given as his. Just as little do I find in him the assertion attributed to him by Dorner, that “ instead of the promulgation of forgiveness of sins by revelation, there is needed only the knowledge of it as an eternal truth of the reason.” And in fact Tieftrunk could not at all have expressed himself so.
 
-[^29]: Disputatio de eo quid sit Deum condonare hominibus peccata pœnasque remittere?* Halæ, 1792.
+[^29]: *Disputatio de eo quid sit Deum condonare hominibus peccata pœnasque remittere?* Halæ, 1792.
 
 [^30]: J. W. Schmid: *Commentationis in qua remissionis peccatorum notio biblica indagatur Partes i. et ii.*, Jena, 1796. C. F. Stäudlin: *Ueber den Zweck u. die Wirkungen des Todes Jesu* in the Göttingen *Bibliothek der neuesten theolog. Literatur*, Erster Band, 1795. C. Chr. Flatt: *Philosophisch-exegetische Untersuchungen über die Lehre von der Versöhnung der Menschen mit Gott.* Two Parts, 1797-98.
 
 [^31]: In Flatt's *Magazin für christl. Dogmatik u. Moral*, 1stes Stück, 1796.
 
-[^32]: Ist unter der Sündenvergebung, welche das neue Testament verspricht, Aufhebung der Strafe zu verstehen?* In Flatt's *Magazin*, parts iii. and iv., 1797.
+[^32]: *Ist unter der Sündenvergebung, welche das neue Testament verspricht, Aufhebung der Strafe zu verstehen?* In Flatt's *Magazin*, parts iii. and iv., 1797.
 
-[^33]: Metaphysik der Sitten*, Zweiter Theil, 1797, in the *sämmtl. Werke* vii. p. 195. The duties of virtue are the perfection of one's-self and the happiness of others.
+[^33]: *Metaphysik der Sitten*, Zweiter Theil, 1797, in the *sämmtl. Werke* vii. p. 195. The duties of virtue are the perfection of one's-self and the happiness of others.
 
-[^34]: Ueber christliche Religion als Volkslehre und Wissenschaft* (1797), pp. 197, 303-311, 315.
+[^34]: *Ueber christliche Religion als Volkslehre und Wissenschaft* (1797), pp. 197, 303-311, 315.
 
 [^35]: These trains of thought had already occurred in Stäudlin and Flatt. I refrain from citing proofs at large of their presence in the writings of other theologians, and simply refer to the accordant teachings of C. Chr. Erh. Schmid: *Philosophische Dogmatik* (1796), p. 177; Stäudlin: *Dogmatik und Dogmengeschichte* (1800), 2ter Theil, pp. 758-785; *Lehrbuch der Dogmatik und Dogmengeschichte* (1801), pp. 485-494; Chr. F. Ammon: *Inbegriff der evangelischen Glaubenslehre* (1805), pp. 220-238; J. A. Ludw. Wegscheider: *Institutiones theol. Christ. dogm.* (ed. v., 1826) §§ 140-142; Tzschirner: *Vorlesungen über die christliche Glaubenslehre* (1829), p. 414 *sq.*
 
-[^36]: Versuch einer Moralphilosophie*, 1790, p. 295.
+[^36]: *Versuch einer Moralphilosophie*, 1790, p. 295.
 
-[^37]: Der Widerstreit der Vernunft mit sich selbst in der Versöhnungslehre* (1802); in Krug's *Gesammelte Schriften*, vol. i. pp. 295-352. Baur (p. 589) remarks with reference to this that no mention is made of one antinomy of the practical reason that affects this doctrine by Kant himself. He has read very imperfectly the philosophical doctrine of religion of the latter.
+[^37]: *Der Widerstreit der Vernunft mit sich selbst in der Versöhnungslehre* (1802); in Krug's *Gesammelte Schriften*, vol. i. pp. 295-352. Baur (p. 589) remarks with reference to this that no mention is made of one antinomy of the practical reason that affects this doctrine by Kant himself. He has read very imperfectly the philosophical doctrine of religion of the latter.
 
-[^38]: Ueber Religion u. Theologie* (1815), 2nd ed., 1821.
+[^38]: *Ueber Religion u. Theologie* (1815), 2nd ed., 1821.
 
-[^39]: Ueber Religion u. Theologie*, p. 50-55.
+[^39]: *Ueber Religion u. Theologie*, p. 50-55.
 
-[^40]: De Morte Jesu Christi expiatoria* (1813), p. 89: Nihil aliud dicere voluit Jesus, nisi mortem suam saluti fore generi humano, ea quidem ratione, ut doctrina sua, per mortem confirmata, homines a peccatorum miseria liberaret.
+[^40]: *De Morte Jesu Christi expiatoria* (1813), p. 89: Nihil aliud dicere voluit Jesus, nisi mortem suam saluti fore generi humano, ea quidem ratione, ut doctrina sua, per mortem confirmata, homines a peccatorum miseria liberaret.
 
-[^41]: Ueber Rel. u. Theol.*, 117-119.
+[^41]: *Ueber Rel. u. Theol.*, 117-119.
 
 [^42]: A show, but, alas! only a show.
 
-[^43]: Ueber Religion u. Theologie*, pp. 192, 256.
+[^43]: *Ueber Religion u. Theologie*, pp. 192, 256.
 
-[^44]: Ueber Religion u. Theologie*, p. 258.
+[^44]: *Ueber Religion u. Theologie*, p. 258.
 
-[^45]: Ibid.*, pp. 148-152. In this last opinion I am at one with Hagenbach in his article on De Wette, in Herzog's *Realencyclopädie*, xviii. p. 65. On the other hand, De Wette's *Wesen des christlichen Glaubens* (1846) is a work without style and without importance.
+[^45]: *Ibid.*, pp. 148-152. In this last opinion I am at one with Hagenbach in his article on De Wette, in Herzog's *Realencyclopädie*, xviii. p. 65. On the other hand, De Wette's *Wesen des christlichen Glaubens* (1846) is a work without style and without importance.
 
 
 ---

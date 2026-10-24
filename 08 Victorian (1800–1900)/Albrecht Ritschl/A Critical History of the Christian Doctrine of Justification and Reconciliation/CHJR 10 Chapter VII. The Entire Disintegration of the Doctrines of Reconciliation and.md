@@ -110,9 +110,9 @@ In Storr's essay we are to recognise the positive fruit which, as regards method
 
 [^2]: Theologia Revelata Dogmatica, *tom.* i. p. 29.
 
-[^3]: Colloquium heptaplomeres de abditis rerum arcanis*, written in 1588.
+[^3]: *Colloquium heptaplomeres de abditis rerum arcanis*, written in 1588.
 
-[^4]: De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso*: Paris, 1624. *De religione gentilium, errorumque apud eos causis*: London, 1645; Complete, Amsterd. 1663.
+[^4]: *De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso*: Paris, 1624. *De religione gentilium, errorumque apud eos causis*: London, 1645; Complete, Amsterd. 1663.
 
 [^5]: Tindal: *Christianity as old as the Creation, or the Gospel a republication of the Religion of Nature*: London, 1730. Chubb: *The true Gospel of Jesus Christ Asserted*: London, 1738.
 
@@ -124,13 +124,13 @@ In Storr's essay we are to recognise the positive fruit which, as regards method
 
 [^9]: H. Schmid: *Geschichte des Pietismus*, p. 191.
 
-[^10]: Essais de théodicée sur la bonté de Dieu, la liberté de l'homme et l'origine du mal.* 1710.
+[^10]: *Essais de théodicée sur la bonté de Dieu, la liberté de l'homme et l'origine du mal.* 1710.
 
 [^11]: Grotius maintains indeed retributive punishment in relation to God's justice, while representing it as unsuited to the use of man.
 
 [^12]: Dippel has briefly summarized his repeatedly expressed objections to the Church-doctrine of reconciliation in his *Hauptsumma der theologischen Grundlehren des Democriti*, 1733. They are to be found along with the refutation of them by Canz in Reinbeck's *Betrachtungen über die Augsburgische Confession, fortgesetzt von Canz*, 5 Theil; pp. 476-498.
 
-[^13]: De regimine Dei universali sive jurisprudentia civitatis Dei publica*, 1731. Ed. novissima 1744.
+[^13]: *De regimine Dei universali sive jurisprudentia civitatis Dei publica*, 1731. Ed. novissima 1744.
 
 [^14]: Compare Kuno Fischer: *Leibnitz und seine Schule*, p. 522 *sq.*
 
@@ -142,7 +142,7 @@ In Storr's essay we are to recognise the positive fruit which, as regards method
 
 [^18]: Beiträge zur Kirchenverfassungsgeschichte und Kirchenpolitik, i. p. 474.
 
-[^19]: Der thätige Gehorsam Christi untersucht*, Breslau, 1768. Of Lutheran theologians previous to Töllner, Haferung in Wittenberg, and Christopher Francke in Kiel, both of them flourishing at the beginning of the eighteenth century, stood alone in making the assertion (which is inconsistent with orthodoxy) that Christ fulfilled the law for Himself also. Compare Fr. Walch: *De obedientia Christi activa dissertatio inauguralis*, Gottingae, 1754; p. 70.
+[^19]: *Der thätige Gehorsam Christi untersucht*, Breslau, 1768. Of Lutheran theologians previous to Töllner, Haferung in Wittenberg, and Christopher Francke in Kiel, both of them flourishing at the beginning of the eighteenth century, stood alone in making the assertion (which is inconsistent with orthodoxy) that Christ fulfilled the law for Himself also. Compare Fr. Walch: *De obedientia Christi activa dissertatio inauguralis*, Gottingae, 1754; p. 70.
 
 [^20]: La Placette (preacher at Copenhagen): *Traité de la Justification*, 1733. The co-ordination of the active with the passive obedience as a means of satisfaction to God rests, we know, on the presupposition that God's justice and the law are the highest rules of the moral order of the world, to which the attribute of grace is subordinate (p. 305). The point of La Placette's argumentation is (p. 190), that he regards the goodness of God as the ground on which salvation is bestowed, and that it comes into operation as soon as Christ's penal satisfaction has removed the obstacle to its manifestation.
 
@@ -156,19 +156,19 @@ In Storr's essay we are to recognise the positive fruit which, as regards method
 
 [^25]: This is the case in his tract *Beweis dass Gott die Menschen bereits durch seine Offenbarung in der Natur zur Seligkeit führt* (1766), p. 208 *sq.*
 
-[^26]: Thätiger Gehorsam Christi*, p. 664.
+[^26]: *Thätiger Gehorsam Christi*, p. 664.
 
 [^27]: In like manner he insists in the treatise cited above (*Beweis*, etc., p. 106 *sq.*) that even if God by the revelation which He has made in nature brings men to blessedness, the plan of salvation revealed in Scripture is not thereby superseded or changed. For God's revelation in nature does not imply that human nature is not destroyed by sin (p. 103) and demands the use of means whereby confidence towards God may be awakened (p. 116).
 
-[^28]: Die göttlichen Strafen und die göttliche Strafgerechtigkeit*, in his *Theol. Untersuchungen*, ii. 1. p. 140-177.
+[^28]: *Die göttlichen Strafen und die göttliche Strafgerechtigkeit*, in his *Theol. Untersuchungen*, ii. 1. p. 140-177.
 
 [^29]: As above, p. 138.
 
-[^30]: Von dem gesellschaftlichen Leben der Menschen*, p. 293.
+[^30]: *Von dem gesellschaftlichen Leben der Menschen*, p. 293.
 
-[^31]: Neue Apologie des Socrates oder Untersuchung von der Seligkeit der Heiden*, vol. i. 1772 (3d ed. 1788); vol. ii. 1788 contains a more elaborate and defensive treatment of single parts of the first volume.
+[^31]: *Neue Apologie des Socrates oder Untersuchung von der Seligkeit der Heiden*, vol. i. 1772 (3d ed. 1788); vol. ii. 1788 contains a more elaborate and defensive treatment of single parts of the first volume.
 
-[^32]: System der reinen Philosophie oder Glückseligkeitslehre des Christenthums*, 1778, 2d. ed. 1780. On the other hand, the analogous investigation of the idea of Divine punishment made by C. F. Bahrdt (*Apologie der gesunden Vernunft durch Gründe der Schrift unterstützt, in Bezug auf die christliche Versöhnungslehre* 1781), and by J. F. Ch. Löffler (*Ueber die kirchl. Genugthuungslehre*; two tracts of the years 1789, 1805 to be found in the first vol. of his minor works, 1817) are without speciality or remarkable strictness.
+[^32]: *System der reinen Philosophie oder Glückseligkeitslehre des Christenthums*, 1778, 2d. ed. 1780. On the other hand, the analogous investigation of the idea of Divine punishment made by C. F. Bahrdt (*Apologie der gesunden Vernunft durch Gründe der Schrift unterstützt, in Bezug auf die christliche Versöhnungslehre* 1781), and by J. F. Ch. Löffler (*Ueber die kirchl. Genugthuungslehre*; two tracts of the years 1789, 1805 to be found in the first vol. of his minor works, 1817) are without speciality or remarkable strictness.
 
 [^33]: Baier: *Theol. Positiva,* Pars ii. cap. 1 sec. 15: *Culpa est relatio quædam* ex peccato in ordine ad legem considerato resultans,—importat obligationem, qua quis sub peccato, per ipsum peccatum constrictus tenetur, ut revera sit et dicatur peccator. Hollaz: *Examen theol.,* Pars ii. cap. 2, qu. 18: Culpa est fœditas vel deformitas moralis ex actu legi difformi et creaturæ rationali indecoro resultans, ac per modum turpis maculæ peccatori adhærens. Reatus culpæ est obligatio, qua homo sub peccato quasi constrictus tenetur ut peccator detestabilis censeatur.
 
@@ -178,31 +178,31 @@ In Storr's essay we are to recognise the positive fruit which, as regards method
 
 [^36]: In this John William Schmid of Jena, a Kantian, who reverts to the standpoint of the Illumination, agrees with him. Compare his work *Ueber christl. Religion als Volkslehre und Wissenschaft* (1797), p. 307.
 
-[^37]: Lineamenta institutionum fidei Christianæ historico-criticarum.* 1795.
+[^37]: *Lineamenta institutionum fidei Christianæ historico-criticarum.* 1795.
 
 [^38]: Here ought to be mentioned that movement, parallel to the German Illumination, which led several English divines to Socinianism. (Compare Fock, as above, p. 269 *sq.*) The application of this tendency to denial of the doctrine of reconciliation is made in Joseph Priestley's *Theological Repository*, vol. i. (1769), in two anonymous treatises, *The end of the Life and Death of Christ*, and *Essay on the Sacrifice of Christ* (the former probably by the editor). The positive views inculcated respecting the death and resurrection of Christ, and respecting the forgiveness of sins that flows from the acceptance of His doctrine, are directly Socinian. The scriptural expressions regarding the sacrificial value of the death of Christ, are understood in the vague sense of a self-denying laborious exertion for the behoof of mankind. Eberhard has appropriated many of the biblico-theological arguments that are adduced in support of this thesis. This Socinianism led its supporters to the formation of the new Unitarian churches, but it comes short of the sphere of thought of the Illumination theologians in the Lutheran Church.
 
-[^39]: Versuch einer freiern theologischen Lehrart.* 1777.
+[^39]: *Versuch einer freiern theologischen Lehrart.* 1777.
 
-[^40]: Institutiones theologiæ dogmaticæ.* 1777.
+[^40]: *Institutiones theologiæ dogmaticæ.* 1777.
 
-[^41]: Das kirchliche Leben des siebzehnten Jahrhunderts.* 1 Abth. (1861) p. 202. Comp. pp. 212, 268.
+[^41]: *Das kirchliche Leben des siebzehnten Jahrhunderts.* 1 Abth. (1861) p. 202. Comp. pp. 212, 268.
 
 [^42]: Franc. Walch: *Breviarium theologiæ dogmaticæ.* 1775. J. Ben. Carpzow: *Liber doctrinalis purioris theologiæ.* 1776. Chr. F. Sartorius: *Compendium theologiæ dogmaticæ.* 1782. Compare Gass: *Geschichte d. protestant. Dogmatik*, vol. iv. pp. 100, 110, 113.
 
-[^43]: Gedanken über die Lehre der heil. Schrift von Sünde und Genugthuung, als eine der Vernunft gemässe Lehre*, Neue Ausgabe, 1779.
+[^43]: *Gedanken über die Lehre der heil. Schrift von Sünde und Genugthuung, als eine der Vernunft gemässe Lehre*, Neue Ausgabe, 1779.
 
 [^44]: Eberhard, in spite of his intended denial of that theme, has not been able to avoid recognising the endless effects of sin in Leibnitz’s sense. But, at the same time, the reply which Lessing directed against him is connected with such an inclination to his views, that in the second volume of his *Neue Apologie des Socrates*, Eberhard was able to show that the difference between them was not fundamental.
 
 [^45]: G. F. Seiler: *Theologia dogmatico-polemica cum compendio historiae dogmatum*, 1774. *Ueber den Versöhnungstod Jesu Christi*, 2 Theile; 1778. J. Chr. Döderlein: *Institutio theologi christiani*, 2 Tomi; 1780. S. F. N. Morus: *Epitome theologiae Christianae*, 1789. G. Ch. Storr: *Pauli Brief an die Hebräer erläutert.* " Zweiter Theil: *Ueber den eigentlichen Zweck des Todes Jesu*, 1789. *Doctrinae christianae pars theoretica e sacris literis repetita*, 1793. G. Ch. Knapp: *Vorlesungen über die christl. Glaubenslehre* (unchanged since 1789), 2 Theile; 1827. F. B. Reinhard: *Vorlesungen über die Dogmatik*, 1801. That all these theologians recognise in Christ’s death in the first instance penal satisfaction, and then penal example only secondarily, is not clearly brought out in the account given of them by Baur, p. 537 *seq.*
 
-[^46]: Compendium theologiae dogmaticae*, 1761.
+[^46]: *Compendium theologiae dogmaticae*, 1761.
 
 [^47]: Baur, p. 554, here thinks of Origen, being less familiar with the *Théodicée* of Leibnitz.
 
-[^48]: Ueber den Tod Jesu als ein wesentliches Stück seines wohlthätigen Planes zur Beglückung des menschlichen Geschlechtes.* 1795.
+[^48]: *Ueber den Tod Jesu als ein wesentliches Stück seines wohlthätigen Planes zur Beglückung des menschlichen Geschlechtes.* 1795.
 
-[^49]: Bemerkungen über Kant's philosophische Religionslehre* (1794), p. 20.
+[^49]: *Bemerkungen über Kant's philosophische Religionslehre* (1794), p. 20.
 
 
 ---

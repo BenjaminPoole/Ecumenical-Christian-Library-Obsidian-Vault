@@ -43,7 +43,7 @@ Although, thus, the cautious agnostic position as to the fate of uncovenanted in
 
 [^2]: Zwingli's teaching may be conveniently worked out by the aid of August Baur's valuable *Zwingli's Theologie*, especially vol. ii. (Halle, 1889). Zwingli's peculiar doctrine of original sin had practically very little influence on his resolution of the question of the sal- vation of infants, which rather turned on his doctrine of the extent of the atonement.
 
-[^3]: Works*, i., 423 (1523).
+[^3]: *Works*, i., 423 (1523).
 
 [^4]: The word "church," says Zwingli, "is used variously in the Scriptures. First of all, it is used for those elect who are destinated by the will of God to eternal life. . . . This is known to God alone, for He, according to the word of Solomon, alone knows the hearts of the sons of men. But none the less, those who are members of this church know that they themselves, since they have faith, are elect and are members of this first church; but they are ignorant of other members than themselves. . . . Those then who believe are ordained to eternal life. But who truly believe no one knows except the believer himself. . . . From these, therefore, it follows that that first church is known to God alone, and only those who have certain and unshaken faith know that they are members of this church." (*Works*, iv., p. 8.) "It follows, therefore, that those who believe know they are elect; for those who believe are elect. Election is, therefore, the antecedent of faith. . . . It is proper to pronounce concerning those only who persist in disbelief until death. However much any give open signs, whether by cruelty or lust, that they are repudiated by God, nevertheless we ought not before the end or ' departure ' (as the poet says) to condemn any one." (*Works*, iv., 723 *sq.*, 1530.)
 
@@ -55,7 +55,7 @@ Although, thus, the cautious agnostic position as to the fate of uncovenanted in
 
 [^8]: Amsterdam ed. of Calvin's *Opera*, vii., 36*a*: " De piorum liberis loquar, ad quos promissio gratiæ dirigitur. Nam alii à communi forte nequaquam eximuntur."
 
-[^9]: Decades*, Parker Soc. ed., iv., 373; cf. 382, 313, 344.
+[^9]: *Decades*, Parker Soc. ed., iv., 373; cf. 382, 313, 344.
 
 [^10]: Dr. Charles W. Shields, in a very thorough and learned paper in *The Presbyterian and Reformed Review* for October, 1890(vol. i., pp. 634–651), has said everything possible to be said in favor of including Calvin in the class of those who teach the salvation of all infants dying such. Dr. Shields's ingenious and powerful argument is vitiated, however, by two faults of interpretation. He does not always catch the drift of Calvin's argument, as directed rather to showing against the Anabaptists that infants, too, as subjects of salvation, are also subjects of baptism; and he refers Calvin's repeated assertions of the presence of personal guilt as distinguished from imputed guilt in all those who are lost, to guilt arising from actual sinning, whereas Calvin means it of guilt arising from inherent corruption or " original sin." Calvin says that every soul that is lost deserves it not merely because it is implicated in the guilt of Adam's first sin, but also because it is inwardly corrupt and wrath-deserving; he does not say it is not condemned unless it has committed overt acts of sinning. When these two errors of interpretation are eliminated, no passages remain which would seem to imply the salvation of all who die in infancy.
 
@@ -67,41 +67,41 @@ Although, thus, the cautious agnostic position as to the fate of uncovenanted in
 
 [^14]: See reference, *ante*, p. 193.
 
-[^15]: The Atonement*, etc., 1861, pp. 183, 184.
+[^15]: *The Atonement*, etc., 1861, pp. 183, 184.
 
-[^16]: Loci Communes*, i., class. 4, cap. 5, § 16 (compare iv., 100).
+[^16]: *Loci Communes*, i., class. 4, cap. 5, § 16 (compare iv., 100).
 
 [^17]: This letter is preserved in the Williams Library, London, and was printed by Dr. Briggs in *The Presbyterian Review*, v., 705 *sq.* See pp. 708 and 706.
 
 [^18]: Dr. Briggs prints "Antisquodica," which is a mere blunder, of course, for Gataker's "Antisynodica." Malderus was bishop of Antwerp and a prolific writer, author of a number of commentaries and theological and ethical treatises. The book cited by Gataker was published at Antwerp by Balthasar Moretus, in 1620, and is a volume of over 300 8vo pages. Its full title is: *Antisynodica*, sive Animadversiones in decreta conventus Dordraceni, quam vocant synodum nationalem, de quinque doctrinæ capitibus inter Remonstrantes et Contra-Remonstrantes controversis.
 
-[^19]: Op. cit.*, ed. 3, 1653, pp. 76 and 78.
+[^19]: *Op. cit.*, ed. 3, 1653, pp. 76 and 78.
 
-[^20]: A Christian Directory*, etc., London, 1673, p. 807 *sq.* See p. 809. ("Christian Ecclesiastics: Ecclesiastical Cases of Conscience," Quest. 35.)
+[^20]: *A Christian Directory*, etc., London, 1673, p. 807 *sq.* See p. 809. ("Christian Ecclesiastics: Ecclesiastical Cases of Conscience," Quest. 35.)
 
 [^21]: Joannis Marckii *Compendium*, etc. (1752), p. 147 (cap. vii., § xxxiii.). In defending Marck's suggestion, De Moor quotes a similar passage from the *Censura Confess. Remonstr.*, and another from Triglandius very much to the same effect as Gataker's.
 
-[^22]: Antapolog.*, caput. 13, p. 207a.
+[^22]: *Antapolog.*, caput. 13, p. 207a.
 
-[^23]: Loci.*, ix., p. 281, edition of 1769.
+[^23]: *Loci.*, ix., p. 281, edition of 1769.
 
-[^24]: Opera*, iii., cols. 1173-74, § 22.
+[^24]: *Opera*, iii., cols. 1173-74, § 22.
 
-[^25]: Institut. Theolog. Polemic.*, 1716, iv., 518.
+[^25]: *Institut. Theolog. Polemic.*, 1716, iv., 518.
 
 [^26]: See above, p. 191.
 
-[^27]: Guide unto True Blessedness*, etc., ed. 2, 1614.
+[^27]: *Guide unto True Blessedness*, etc., ed. 2, 1614.
 
-[^28]: Works*, ii., 135-36.
+[^28]: *Works*, ii., 135-36.
 
 [^29]: It is, perhaps, worth noting that this is the general Calvinistic view of what "children of believers" means. Compare Calvin, *Tracts*, vol. iii., p. 351; and also Junius as quoted above, p. 203.
 
-[^30]: Works*, x., 81; compare v., 137.
+[^30]: *Works*, x., 81; compare v., 137.
 
-[^31]: Catechism*, q. 37.
+[^31]: *Catechism*, q. 37.
 
-[^32]: The True Scripture Doctrine concerning some Important Points of Christian Faith*, etc. Boston, 1741, pp. 123, 124.
+[^32]: *The True Scripture Doctrine concerning some Important Points of Christian Faith*, etc. Boston, 1741, pp. 123, 124.
 
 [^33]: De Heraut, for September 7th, 1890.
 
@@ -109,27 +109,27 @@ Although, thus, the cautious agnostic position as to the fate of uncovenanted in
 
 [^35]: The language here used has a not uninteresting history. It is Calvin's challenge to Castellio: "Put forth now thy virulence against God, who hurls innocent babes torn from their mothers' breasts into eternal death" (*De Occulta Dei Providentia*, in *Opp.* ed., Amst., viii., pp. 644-45). The underlying conception that God condemns infants to eternal death may, no doubt, be Calvin's; but the mode of expression is Calvin's *reductio ad absurdum* (or rather *ad blasphemiam*) of Castellio's opinions. Nevertheless the Remonstrants allowed themselves in their polemic zeal to apply the whole sentiment to the orthodox, and that, even in a still more sharpened form—viz., with reference to *believers'* children. This very gross calumny the Synod repels. Its deliverance is subjected to a very sharp and not very candid criticism by Episcopius (*Opera* I., i., p. 176, and specially II., p. 28).
 
-[^36]: Westminster Confession of Faith*, X., i. and iii. The opinion that a body of non-elect infants dying in infancy and not saved is implied in this passage, although often controversially asserted, is not only a wholly unreasonable opinion exegetically, but is absolutely negatived by the history of the formation of this clause in the Assembly as recorded in the *Minutes*, and has never found favor among the expositors of the Confession. David Dickson's (1684) treatment of the section shows that he understands it to be directed against the Anabaptists; and all careful students of the Confession understand it as above, including Shaw, A. A. Hodge, Macpherson, Mitchell, and Beattie. This is true of all schools of adherents to the Confession. See, *e.g.*, Lyman Beecher (*Spirit of the Pilgrims*, 1828, i., pp. 49, 81): "The phrase 'elect infants,' which, in his usual way, the reviewer takes for granted implies that there are infants who are not elect, implies no such thing." "But this Confession, which represented the Calvinism of Old England and New, and which expresses also the doctrinal opinions of the Church of Scotland and of the Presbyterian Church in the United States, teaches neither directly nor by implication that infants are damned." Compare also Philip Schaff, *Creeds of Christendom*, i., 380, 795. Compare also *The Presbyterian Pastor's Catechism*, by the Rev. John H. Bockok, D.D. (Presbyterian Board, 1857): "*Q.* 13. *Why do we not baptize the infant children of unbelievers? A.* 1. Not because we think such children would be lost if they died in infancy. We do not think children will be saved on account of their baptism, but through the merits of Christ. Baptism does not confer salvation, but only acknowledges and recognizes it. 2. Non-elect infants are such as do not die in infancy, but grow up to be wicked and impenitent men, as Cain, Herod, Judas, Voltaire, Paine." The impression that the phrase "elect infants dying in infancy," implies as its contrast "non-elect infants dying in infancy," rather than "elect infants living to grow up," is probably due in some measure to lack of acquaintance with the literature of the subject. A glance into Cornelius Burges's treatise entitled *Baptismal Regeneration of Elect Infants*, which was published in 1629, will supply a number of instances of the use of the phrase in the latter contrast. For example: "Elect infants that live to years . . . yet such as dye in infancy" (p. 166). Some think Calvin in his *Institutes*, iv., 16, 21, speaks only of the "case of elect infants dying in infancy," "but he is not so to be taken, as if he held that only elect infants who dye in infancy doe receive the Spirit in baptism: but that all the elect, whether they live or dye, doe ordinarily partake of the Spirit in that ordinance" (p. 164). "That all elect infants doe ordinarily, in Baptism, receive the Spirit of Christ, to seaze upon them for Christ, and to be in them as the roote and first principle of regeneration and future newnesse of life. . . . This I speake . . . with reference only unto such Infants as dye not in infancy, but live to years of discretion, and then come to be effectually called, and actually converted by the ordinary means of the word applied by the same Spirit unto them, when and how he pleaseth. As for the rest of the elect who dye infants, I will not deny a further worke, sometimes in, sometimes before baptisme, to fit them for heaven" (p. 3). The relation of this sentence to the statement in the *Westminster Confession* is obvious. Among the testimonies which Burges cites from leading Reformed theologians in support of his contentions, we may adduce two, the language of which is closely similar to that of the *Confession*. One is from the Continental divine Junius (*De Pædobapt.* 7), and asserts that "elect infants are regenerated when they are ingrafted unto Christ (regenerantur infantes electi cum Christo inseruntur), and this is sealed to them when they are baptized" (quoted p. 26). The other is from the English divine Whitaker (*De Sacram. in Genere, quæst.* i., cap. 3, p. 15), and affirms that "God renews elect infants dying in infancy by the power of His Spirit (infantes electos, morientes antequam adoleverint, Deus virtute Spiritus sui renovat): but if it falls to them to live to greater age, they are the more incited to seek renewal, because they know they received its badge while infants" (quoted p. 211).
+[^36]: *Westminster Confession of Faith*, X., i. and iii. The opinion that a body of non-elect infants dying in infancy and not saved is implied in this passage, although often controversially asserted, is not only a wholly unreasonable opinion exegetically, but is absolutely negatived by the history of the formation of this clause in the Assembly as recorded in the *Minutes*, and has never found favor among the expositors of the Confession. David Dickson's (1684) treatment of the section shows that he understands it to be directed against the Anabaptists; and all careful students of the Confession understand it as above, including Shaw, A. A. Hodge, Macpherson, Mitchell, and Beattie. This is true of all schools of adherents to the Confession. See, *e.g.*, Lyman Beecher (*Spirit of the Pilgrims*, 1828, i., pp. 49, 81): "The phrase 'elect infants,' which, in his usual way, the reviewer takes for granted implies that there are infants who are not elect, implies no such thing." "But this Confession, which represented the Calvinism of Old England and New, and which expresses also the doctrinal opinions of the Church of Scotland and of the Presbyterian Church in the United States, teaches neither directly nor by implication that infants are damned." Compare also Philip Schaff, *Creeds of Christendom*, i., 380, 795. Compare also *The Presbyterian Pastor's Catechism*, by the Rev. John H. Bockok, D.D. (Presbyterian Board, 1857): "*Q.* 13. *Why do we not baptize the infant children of unbelievers? A.* 1. Not because we think such children would be lost if they died in infancy. We do not think children will be saved on account of their baptism, but through the merits of Christ. Baptism does not confer salvation, but only acknowledges and recognizes it. 2. Non-elect infants are such as do not die in infancy, but grow up to be wicked and impenitent men, as Cain, Herod, Judas, Voltaire, Paine." The impression that the phrase "elect infants dying in infancy," implies as its contrast "non-elect infants dying in infancy," rather than "elect infants living to grow up," is probably due in some measure to lack of acquaintance with the literature of the subject. A glance into Cornelius Burges's treatise entitled *Baptismal Regeneration of Elect Infants*, which was published in 1629, will supply a number of instances of the use of the phrase in the latter contrast. For example: "Elect infants that live to years . . . yet such as dye in infancy" (p. 166). Some think Calvin in his *Institutes*, iv., 16, 21, speaks only of the "case of elect infants dying in infancy," "but he is not so to be taken, as if he held that only elect infants who dye in infancy doe receive the Spirit in baptism: but that all the elect, whether they live or dye, doe ordinarily partake of the Spirit in that ordinance" (p. 164). "That all elect infants doe ordinarily, in Baptism, receive the Spirit of Christ, to seaze upon them for Christ, and to be in them as the roote and first principle of regeneration and future newnesse of life. . . . This I speake . . . with reference only unto such Infants as dye not in infancy, but live to years of discretion, and then come to be effectually called, and actually converted by the ordinary means of the word applied by the same Spirit unto them, when and how he pleaseth. As for the rest of the elect who dye infants, I will not deny a further worke, sometimes in, sometimes before baptisme, to fit them for heaven" (p. 3). The relation of this sentence to the statement in the *Westminster Confession* is obvious. Among the testimonies which Burges cites from leading Reformed theologians in support of his contentions, we may adduce two, the language of which is closely similar to that of the *Confession*. One is from the Continental divine Junius (*De Pædobapt.* 7), and asserts that "elect infants are regenerated when they are ingrafted unto Christ (regenerantur infantes electi cum Christo inseruntur), and this is sealed to them when they are baptized" (quoted p. 26). The other is from the English divine Whitaker (*De Sacram. in Genere, quæst.* i., cap. 3, p. 15), and affirms that "God renews elect infants dying in infancy by the power of His Spirit (infantes electos, morientes antequam adoleverint, Deus virtute Spiritus sui renovat): but if it falls to them to live to greater age, they are the more incited to seek renewal, because they know they received its badge while infants" (quoted p. 211).
 
-[^37]: Sermons* (Savannah, Ga., 1822), iii., pp. 20 *sq.* (esp. p. 23); cf. iv., p. 273 *sq.*
+[^37]: *Sermons* (Savannah, Ga., 1822), iii., pp. 20 *sq.* (esp. p. 23); cf. iv., p. 273 *sq.*
 
-[^38]: An Essay on the Probation of Fallen Man*, etc., 1827, pp. 15, 16. Dr. H. M. Dexter, in *The Congregationalist*, December 10th, 1874, says that Dr. Wilson, editing Ridgeley's *Body of Divinity*, "dissents from his author, and argues effectively and at great length in proof that all infants dying before actual transgression are 'saved by sovereign mercy, by free favor, to the praise of the glory of God's grace.'" The reference given is vol. i., p. 422, but it is wrong; and we have, consequently, not been able to verify the statement.
+[^38]: *An Essay on the Probation of Fallen Man*, etc., 1827, pp. 15, 16. Dr. H. M. Dexter, in *The Congregationalist*, December 10th, 1874, says that Dr. Wilson, editing Ridgeley's *Body of Divinity*, "dissents from his author, and argues effectively and at great length in proof that all infants dying before actual transgression are 'saved by sovereign mercy, by free favor, to the praise of the glory of God's grace.'" The reference given is vol. i., p. 422, but it is wrong; and we have, consequently, not been able to verify the statement.
 
-[^39]: The Government of God Desirable.* A sermon delivered at Newark, N. J., October, 1808, during the session of the Synod of New York and New Jersey. By Lyman Beecher, A.M., Pastor of the Church of Christ in East Hampton, L. I. Seventh edition. Boston: T. R. Marvin, 1827, 8vo, pp. 27. P. 15, note. This footnote was added in this (seventh) edition. The sermon is also reprinted in Dr. Beecher's *Works.*
+[^39]: *The Government of God Desirable.* A sermon delivered at Newark, N. J., October, 1808, during the session of the Synod of New York and New Jersey. By Lyman Beecher, A.M., Pastor of the Church of Christ in East Hampton, L. I. Seventh edition. Boston: T. R. Marvin, 1827, 8vo, pp. 27. P. 15, note. This footnote was added in this (seventh) edition. The sermon is also reprinted in Dr. Beecher's *Works.*
 
 [^40]: In three articles in *The Christian Examiner* for 1827 and 1828 (vols. iv. and v.), said to be by F. Jenks. In *The Spirit of the Pilgrims*, i. (1828), pp. 42 *sq.*, 78 *sq.*, and 149 *sq.* Dr. Beecher explained that in writing the note attacked his mind was more upon contemporary than past teachers. He says further: "I have only to add that I have nowhere asserted that Calvinists as a body teach that all infants are *certainly* saved. I am aware that many, with Dickinson and the Reformers" (doubtless a blunder, from Van Mastricht's *Reformati*) "and 'moderate Calvinists' have hoped that they are saved, and referred the event to the unerring discretion of heaven" (p. 51).
 
-[^41]: Systematic Theology*, iii., 605, note 4, published in 1872. In the succeeding words Dr. Hodge approaches, but fortunately does not attain, the unhistorical assertion of Dr. Beecher. He adds: "We are not learned enough to venture the assertion that no Calvinist ever held it; but if all Calvinists are responsible for what every Calvinist has ever said, and all Lutherans are responsible for everything Luther or Lutherans have ever said, then Dr. Krauth as well as ourselves will have a heavy burden to carry." Dr. Krauth, of course, found no more difficulty than the writer in *The Christian Examiner* had found in reply to Dr. Beecher, in bringing together, in reply to Dr. Hodge, a great list of Calvinists who had held this doctrine. The result is found in his *Infant Baptism and Infant Salvation in the Calvinistic System*, etc. (Phila., 1874, p. 83.)
+[^41]: *Systematic Theology*, iii., 605, note 4, published in 1872. In the succeeding words Dr. Hodge approaches, but fortunately does not attain, the unhistorical assertion of Dr. Beecher. He adds: "We are not learned enough to venture the assertion that no Calvinist ever held it; but if all Calvinists are responsible for what every Calvinist has ever said, and all Lutherans are responsible for everything Luther or Lutherans have ever said, then Dr. Krauth as well as ourselves will have a heavy burden to carry." Dr. Krauth, of course, found no more difficulty than the writer in *The Christian Examiner* had found in reply to Dr. Beecher, in bringing together, in reply to Dr. Hodge, a great list of Calvinists who had held this doctrine. The result is found in his *Infant Baptism and Infant Salvation in the Calvinistic System*, etc. (Phila., 1874, p. 83.)
 
-[^42]: The Life of Archibald Alexander, D.D.*, etc., by James W. Alexander, D.D., p. 585.
+[^42]: *The Life of Archibald Alexander, D.D.*, etc., by James W. Alexander, D.D., p. 585.
 
-[^43]: Systematic Theology*, i., 26; iii., 605.
+[^43]: *Systematic Theology*, i., 26; iii., 605.
 
-[^44]: Infant Salvation in its Relation to Infant Depravity, Infant Regeneration and Infant Baptism.* Philadelphia, 1859, pp. 64, 109, 196.
+[^44]: *Infant Salvation in its Relation to Infant Depravity, Infant Regeneration and Infant Baptism.* Philadelphia, 1859, pp. 64, 109, 196.
 
-[^45]: Beyond the Stars*, ch. vii. (pp. 184, etc.).
+[^45]: *Beyond the Stars*, ch. vii. (pp. 184, etc.).
 
-[^46]: Dogmatic Theology*, ii., 714.
+[^46]: *Dogmatic Theology*, ii., 714.
 
 
 ---

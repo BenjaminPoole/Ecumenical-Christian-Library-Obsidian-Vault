@@ -48,7 +48,7 @@ As, however, the possibility of restoring the redemptive tie must not be exclude
 
 [^4]: Conf. et Expos. simpl.* viii.: Fatemur etiam peccata non esse aequalia, licet ex eodem corruptionis et incredulitatis fonte exoriantur. Melanchth., Loc. Th.* p. 126: Ac stoicae illae disputationes execrandae sunt, quas servant aliqui disputantes omnia peccata aequalia esse.
 
-[^5]: Apol. Conf.* i. (from Hugo of St. Victor): Originale peccatum est ignorantia in mente et concupiscentia in carne.
+[^5]: *Apol. Conf.* i. (from Hugo of St. Victor): Originale peccatum est ignorantia in mente et concupiscentia in carne.
 
 [^6]: Rom. 1²¹⁻²⁶.
 

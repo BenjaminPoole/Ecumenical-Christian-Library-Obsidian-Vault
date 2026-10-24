@@ -234,9 +234,9 @@ It is of the greatest importance for the systematic procedure of theology that t
 
 [^4]: The line of thought set forth here has been met by the contemptuous objection that it bases Christianity upon morality. The sapient persons who thus prefer the charge that I, like Kant in his *Religion within the Limits of Mere Reason*, make religion a subordinate appendix to morals, though my mode of doctrine shows the very opposite, would do better to acquire a thorough knowledge of the elementary distinction between the *ratio essendi* and the *ratio cognoscendi*, instead of sitting in judgment on me,
 
-[^5]: Die alte und neue Glaube*, p. 140.
+[^5]: *Die alte und neue Glaube*, p. 140.
 
-[^6]: Die christl. Glaubenslehre*, i. p. 504.
+[^6]: *Die christl. Glaubenslehre*, i. p. 504.
 
 [^7]: Cf. Lotze, *Mikrokosmus*, iii. p. 565 ff.
 
@@ -252,7 +252,7 @@ It is of the greatest importance for the systematic procedure of theology that t
 
 [^13]: Cf. *Jahrb. f. deutsche Theologie*, 1868, p. 286 ff.
 
-[^14]: Op. cit.* p. 291: I there brought forward from Hoornbeck, *Socinianismus confutatus*, an attempt of the kind, which utterly failed.
+[^14]: *Op. cit.* p. 291: I there brought forward from Hoornbeck, *Socinianismus confutatus*, an attempt of the kind, which utterly failed.
 
 [^15]: For this reason the theosophical assertion of a “nature in God” is likewise false. But I cannot enter upon a special examination of such theories.
 
@@ -260,7 +260,7 @@ It is of the greatest importance for the systematic procedure of theology that t
 
 [^17]: I refer the reader to Leopold Schmidt, *Die Ethik der alten Griechen* (1882), 2 vols.
 
-[^18]: Op. cit.* ii. p. 258.
+[^18]: *Op. cit.* ii. p. 258.
 
 [^19]: Instead of this, Philippi (*Kirchliche Dogmatik*, ii. p. 20 ff.) arranges the attributes of God according to the “ three moments in which the Divine nature discloses itself to us in an ascending series ”: God (1) as absolute Substance, *a.* eternity, *b.* omnipresence; (2) as absolute Subject, *a.* omnipotence, *b.* omniscience; (3) as holy love, *a.* wisdom, *b.* justice, *c.* goodness. The first of these strata is the Areopagitic conception of God, in so far as, through affirmation, it is brought into relation to the world; the second is the Aristotelian conception. Now this “Church” theologian assures us, indeed, that “there is here no development successively from lower to higher; rather, we merely separate out the lower from the higher for preliminary examination.” For what purpose this is necessary, he does not say: in my opinion it may be used to prove that this kind of theology contains the germ of all rationalism. The Socinian Crell (*Jahrb. für deutsche Theol.* xiii. p. 256) proceeds exactly as does Philippi. Now if Philippi meant the remark seriously, that the prior strata in the conception of God are separated out merely provisionally, in order to exhibit their defectiveness, then he ought to have deduced all the attributes of God afresh from the conception of holy love. As he does not do so, he has no conception of the unity of God, and leaves open to rationalism the possibility of accepting only so much of the Christian conception of God as harmonises with the first or the second stratum.
 
@@ -268,17 +268,17 @@ It is of the greatest importance for the systematic procedure of theology that t
 
 [^21]: Cf. Köstlin, *Luther's Theologie*, ii. p. 380; Melanchthon, *Loci theol.* *C. R.* xxi. pp. 519, 920; my lecture on "Ulrich Zwingli" (*Jahrb. für deutsche Theol.* xvii. pp. 109-137); *Zwinglii Opera*, viii. pp. 174-184 (Letter to Ambrosius Blarer); *C. R.* iii. pp. 240-258 (*de iure reformandi*); Schenkel, *On the original relation of the Church to the State within the bounds of German Protestantism* (*Stud. u. Krit.* 1850, pts. 1, 2); *Calvini Inst. chr. rel.* ii. 15. 4, 5; iv. 12. 1; 20. 1-3, 9; Weingarten, *The Churches of the English Revolution*, pp. 35 f., 128 ff.; *Conf. Scoticana* (1560),cap. 24, in Niemeyer's *Coll. Conff.* p. 355.
 
-[^22]: De civ. dei*, xii. 17: "Non aliter deus afficitur cum vacat, aliter cum operatur. . . . Novit quiescens agere et agens quiescere."
+[^22]: *De civ. dei*, xii. 17: "Non aliter deus afficitur cum vacat, aliter cum operatur. . . . Novit quiescens agere et agens quiescere."
 
 [^23]: Cf. Lotze, *Microcosmus*, iii. 599 ff.
 
-[^24]: Microcosmus*, iii. p. 20 ff.
+[^24]: *Microcosmus*, iii. p. 20 ff.
 
 [^25]: Lotze, *Microcosmus*, iii. p. 380 ff.
 
 [^26]: Conc. Trid. Sess. vi. Decr. de iustificatione, 1: "Etsi in eis (servis peccati) liberum arbitrium minime exstinctum esset, viribus licet attenuatum et inclina- tum." *Conf. Aug.* xviii. : “Humana voluntas habet aliquam libertatem ad efficiendam iustitiam civilem et deligendas res rationi subiectas, sed non habet vim sine spiritu sancto efficiendae iustitiae dei seu iustitiae spiritualis.”
 
-[^27]: De civitate dei*, xix. 13: “ Deus dedit hominibus quaedam bona huic vitae congrua, id est pacem temporalem pro modulo mortalis vitae in ipsa salute et incolumitate ac societate sui generis, et quaeque huic paci vel tuendae vel recuperandae necessaria sunt: eo pacto aequissimus, ut qui mortalis talibus bonis paci mortalium accommodatis recte usus fuerit, accipiat ampliora atque meliora, ipsam scilicet immortalitatis pacem, eique convenientem gloriam et honorem in vita aeterna ad fruendum deo et proximo in deo: qui autem perperam, nec illa accipiat et haec amittat.”
+[^27]: *De civitate dei*, xix. 13: “ Deus dedit hominibus quaedam bona huic vitae congrua, id est pacem temporalem pro modulo mortalis vitae in ipsa salute et incolumitate ac societate sui generis, et quaeque huic paci vel tuendae vel recuperandae necessaria sunt: eo pacto aequissimus, ut qui mortalis talibus bonis paci mortalium accommodatis recte usus fuerit, accipiat ampliora atque meliora, ipsam scilicet immortalitatis pacem, eique convenientem gloriam et honorem in vita aeterna ad fruendum deo et proximo in deo: qui autem perperam, nec illa accipiat et haec amittat.”
 
 [^28]: In the above-cited passage Paul says expressly that whoever resists the government is opposing what God has ordained. The *Augsb. Conf.* xvi. here subjoins the exception, *nisi cum magistratus iubent peccare, tunc enim Christiani magis debent obedire deo quam hominibus.* But no command to sin is to be found in State laws which make the privileges of definite denominations dependent on positive legal conditions. The Christian owes obedience to these laws as indirect Divine ordinances, and it is a misuse of Scripture to oppose them, as human ordinances, to any Divine commandment whatsoever. For Peter's declaration in Acts v. 29 is aimed, not at State laws as human and infra-Divine, but at an injunction of the Church authorities; bishops and pastors' conferences, therefore, fall under the principle that we ought to obey God rather than them.
 

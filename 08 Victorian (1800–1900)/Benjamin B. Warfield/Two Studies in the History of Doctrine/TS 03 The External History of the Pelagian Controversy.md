@@ -35,7 +35,7 @@ But Pelagianism did not so die as not to leave a legacy behind it. "Remainders o
 
 The Augustinian opposition was at first led by the vigorous controversialist Prosper of Aquitaine, “ the Troubadour of Augustinianism,” who in prose and verse alike, but to little apparent effect, assaulted the “ ingrates” who would not give its full rights to the grace of God. Already in 431 he obtained a letter from Pope Cœlestine, addressed to the Gallican bishops and designed to close the controversy in favor of Augustinianism; and from that time the whole influence of the Roman see was freely used to this end. It was not, however, until nearly a century later that the contest was brought to a conclusion in a victory for a weakened Augustinianism, under the leadership of the wise and good Cæsarius of Arles. As a nurseling of Lerins, Cæsarius came himself out of the centre of the semi-Pelagian circle, and owed his Augustinianism apparently to a certain Pomerius, a rhetorician by profession, whom he met at Arles. Under the influence of Cæsarius the second Council of Orange, which convened at that ancient town on the third day of July, 529, drew up a series of articles which condemned the distinctive features of semi-Pelagianism, and affirmed an anxiously guarded and somewhat attenuated Augustinianism. These articles were framed with the aid of Felix IV. and received the ratification of Boniface II. in the following year. So far as a formal condemnation could reach, distinctive semi-Pelagianism was suppressed by them in the whole Western Church. This result could not have been attained by leadership less great than that of Cæsarius. But the serious consequence attended the method of compromise by which he secured this great achievement, that a weakened Augustinianism thus became the norm of church-doctrine for the future. Crass Gallic synergism was forever excluded from Western church-teaching; but equally a pure and complete Augustinianism was put henceforth beyond its reach. Distinctive semi-Pelagianism must hereafter rank as heresy; the Augustinian doctrine of “ prevenient grace” became an essential element of the Church's system. But consistent Augustinianism might easily also come to be looked upon as heresy, and the very terms “ predestination” and “ particular redemption” might fall under the ban. In a word, the decrees of Trent are the natural sequence of the canons of Orange; and we must trace it back to these canons that Thomism has proved the supreme height of doctrine attainable in the Latin Church.
 
-[^1]: On Original Sin*, 13.
+[^1]: *On Original Sin*, 13.
 
 [^2]: Early in 412, or, less probably, according to the Ballerini and Hefele, 411.
 
@@ -47,7 +47,7 @@ The Augustinian opposition was at first led by the vigorous controversialist Pro
 
 [^6]: A full account and criticism of the proceedings are given by Augustine in his *On the Proceedings of Pelagius*.
 
-[^7]: On Original Sin*, 13, at the end.
+[^7]: *On Original Sin*, 13, at the end.
 
 [^8]: Augustine's *Sermons* (Migne, v. 1511).
 

@@ -35,17 +35,17 @@ Meanwhile, however, whether through the vigor of Augustine's advocacy or out of 
 
 [^5]: The whole discussion can be conveniently read in vol. v. of *The Nicene and Post-Nicene Fathers*. Second series. New York, 1893, pp. 372-381.
 
-[^6]: De Bapt.*, c. 12.
+[^6]: *De Bapt.*, c. 12.
 
-[^7]: Epistles* lviii. (lxiv.) and lxiii. (lxxii.).
+[^7]: *Epistles* lviii. (lxiv.) and lxiii. (lxxii.).
 
 [^8]: With what limitations may be conveniently read in Wall, *Hist. of Infant Baptism*, ed. 2, 1707, pp. 359 *sq.*
 
-[^9]: Epistle* lxiii. (lxxii.), § 21.
+[^9]: *Epistle* lxiii. (lxxii.), § 21.
 
 [^10]: Augustine's doctrine is most strongly expressed in *Sermo xiv.* In *De Peccat. Merit.*, c, 21 (xvi.), and *Contra Julian.*, v., ii, he speaks of the comparative mildness of the punishment.
 
-[^11]: De Peccat. Merit.*, c. 33 (xxii.), c. 40 (xxvii.).
+[^11]: *De Peccat. Merit.*, c. 33 (xxii.), c. 40 (xxvii.).
 
 [^12]: Mr. H. C. Lea, in his *History of Auricular Confession*, I., 97, adduces a curious instance of the perversity of Monkish thought from St. Odo of Cluny. Augustine bases the condemnability of infants on their original sin, and he sometimes accounts for the transmission of sin by the presence of concupiscence in the act of procreation. Odo, without more ado, traces the condemnability of infants to the sinfulness of conjugal intercourse! Since such infants are certainly not punished for guilt of their own, he argues, it is clear that they are punished for that sin by which they are conceived; "if, therefore," he continues, "the sin in conjugal intercourse is so great that an infant for that alone ought to be punished . . ."
 
@@ -55,7 +55,7 @@ Meanwhile, however, whether through the vigor of Augustine's advocacy or out of 
 
 [^15]: E.g., *Expos. in Job*, i. 16. Such phrases as these meet us in Gregory's writings: "Those who have done nothing here of themselves, but have not been freed by the sacraments of salvation, enter there into torments;" "It is perpetual torment which those receive who have not sinned of their own proper will at all." (*Moralium*, ix., xii.).
 
-[^16]: De Bapt.*, c. 12.
+[^16]: *De Bapt.*, c. 12.
 
 
 ---

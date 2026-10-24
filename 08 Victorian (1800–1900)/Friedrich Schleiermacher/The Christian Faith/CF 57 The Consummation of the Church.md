@@ -120,17 +120,17 @@ It is no easier, supposing we try to imagine that at the resurrection there will
 
 [^20]: Luke 16²²ff. 23⁴³, 1 Pet. 3¹⁹. ²⁰.
 
-[^21]: Art. Smalc.* ii.: Quapropter purgatorium . . . mera diaboli larva est. Pugnat enim cum primo articulo qui docet Christum solum et non hominum opera animas liberare. Et constat etiam de mortuis nihil nobis divinitus mandatum esse.—*Expos. simpl.* xxvi.: Quod autem quidam tradunt de igne purgatorio, fidei christianae, credo remissionem peccatorum et vitam aeternam purgationisque plenae per Christum, et Christi domini sententiis (John 5²⁴ 13¹⁰) adversatur.
+[^21]: *Art. Smalc.* ii.: Quapropter purgatorium . . . mera diaboli larva est. Pugnat enim cum primo articulo qui docet Christum solum et non hominum opera animas liberare. Et constat etiam de mortuis nihil nobis divinitus mandatum esse.—*Expos. simpl.* xxvi.: Quod autem quidam tradunt de igne purgatorio, fidei christianae, credo remissionem peccatorum et vitam aeternam purgationisque plenae per Christum, et Christi domini sententiis (John 5²⁴ 13¹⁰) adversatur.
 
 [^22]: Directly, though not with certainty, from Luke 23⁴³; indirectly from Phil. 1²¹⁻²⁴.
 
-[^23]: Expos. simpl.* xxvi.: Credimus enim fideles recte a morte corporea migrare ad Christum . . . Credimus item infideles recte praecipitari in tartara.
+[^23]: *Expos. simpl.* xxvi.: Credimus enim fideles recte a morte corporea migrare ad Christum . . . Credimus item infideles recte praecipitari in tartara.
 
 [^24]: Cf. § 126, 1.
 
 [^25]: Cf. § 148, 2.
 
-[^26]: Comment. in Matt.* x. 2 (on Matt. 13³⁶⁻⁴⁰), ed. R., vol. iii. p. 444.
+[^26]: *Comment. in Matt.* x. 2 (on Matt. 13³⁶⁻⁴⁰), ed. R., vol. iii. p. 444.
 
 [^27]: 1 John 3².
 

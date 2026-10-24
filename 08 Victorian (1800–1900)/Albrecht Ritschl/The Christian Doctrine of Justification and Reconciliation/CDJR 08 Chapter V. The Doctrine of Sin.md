@@ -110,35 +110,35 @@ If, therefore, God loves sinners (§ 39), inasmuch as His thoughts are directed 
 
 [^3]: It is true, indeed, that Luther occasionally affirms quite unreservedly the eternal damnation of unbaptized children, but, on the other hand, he counts it to their advantage that they have not committed actual sins. The fact is that, speaking generally, Luther never took quite seriously to the above inference from original sin. In connection with this problem he utters a warning against seeking to penetrate into matters which God has not revealed; and hence he is not in favour of trying to solve the problem, as Augustine did, by purely theoretical arguments. He rather awakens hope in God's mercy towards children who die unbaptized, and, in short, clearly puts aside in this question the interest which actuated Augustine. For Luther, therefore, baptism becomes in part an act which proclaims the promise of grace to children, partly an act by which they are dedicated to God (*C. A.* ix. *Art. Smalc.* iii. 5). Cf. Köstlin, *Luther's Theologie*, ii. pp. 88-100, 375, 511.
 
-[^4]: C. A.* ii. : " Damnant Pelagianos et alios, qui vitium originis negant esse peccatum, et ut extenuent gloriam meriti et beneficiorum Christi, disputant, hominem propriis viribus rationis coram deo iustificari posse."
+[^4]: *C. A.* ii. : " Damnant Pelagianos et alios, qui vitium originis negant esse peccatum, et ut extenuent gloriam meriti et beneficiorum Christi, disputant, hominem propriis viribus rationis coram deo iustificari posse."
 
-[^5]: Geschichte des Pietismus*, ii. pp. 45, 70.
+[^5]: *Geschichte des Pietismus*, ii. pp. 45, 70.
 
-[^6]: Apol. C. A.* i. 8: "Cum de peccato originis loquuntur, graviora vitia humanae naturae non commemorant, scilicet ignorationem dei, contemptum dei, vacare metu et fiducia dei, odisse iudicium dei, fugere deum iudicantem, desperare gratiam, habere fiduciam rerum praesentium etc. Hos morbos, qui maxime adversantur legi dei, non animadvertunt scholastici."
+[^6]: *Apol. C. A.* i. 8: "Cum de peccato originis loquuntur, graviora vitia humanae naturae non commemorant, scilicet ignorationem dei, contemptum dei, vacare metu et fiducia dei, odisse iudicium dei, fugere deum iudicantem, desperare gratiam, habere fiduciam rerum praesentium etc. Hos morbos, qui maxime adversantur legi dei, non animadvertunt scholastici."
 
-[^7]: L.c.* i. 29: "Hugo ait, originale peccatum esse ignorationem in mente et concupiscentiam in carne. Significat enim nos nascentes afferre ignorationem dei, incredulitatem, diffidentiam, contemptum, odium dei."
+[^7]: *L.c.* i. 29: "Hugo ait, originale peccatum esse ignorationem in mente et concupiscentiam in carne. Significat enim nos nascentes afferre ignorationem dei, incredulitatem, diffidentiam, contemptum, odium dei."
 
-[^8]: L.c.* i. 31: "Facile iudicare poterit prudens lector, non tantum culpas actuales esse, sine metu et sine fide esse; sunt enim durabiles defectus in natura non renovata."
+[^8]: *L.c.* i. 31: "Facile iudicare poterit prudens lector, non tantum culpas actuales esse, sine metu et sine fide esse; sunt enim durabiles defectus in natura non renovata."
 
 [^9]: Cf. Dietzsch, *Adam und Christus*, p. 68 ff. The relative clause ἐφ' ᾧ πάντες ἥμαρτον refers to θάνατος. The preposition is here used as in Heb. ix. 15; 1 Thess. iii. 7; 2 Cor. vii. 4, ix. 6; Eph. iv. 26.
 
-[^10]: Geschichte des Pietismus*, ii. p. 543, iii. p. 68.
+[^10]: *Geschichte des Pietismus*, ii. p. 543, iii. p. 68.
 
-[^11]: Jahrb. für deutsche Theologie*, xiii. p. 108.
+[^11]: *Jahrb. für deutsche Theologie*, xiii. p. 108.
 
-[^12]: De magnitudine passionum* x.: “ Hic dolor debitus noster dolor est, quem si vere agnus dei tollens peccata mundi pro nobis portavit, in tanta mensura portavit, quantus districto divinae iustitiae iudicio repositus pro omnibus omnium nostrum peccatis, quos redemit ex morte, languore et dolore. — Superat omnia divinarum legum necessitas, quibus statutum, nihil finaliter indecorum futurum in regno destinato. Non iam de suppliciis inferni quis obiiciat. Nullus enim per Christum redemtus unquam meruit tali supplicio cruciari, quia nullus redemtorum in illam obstinaciam obdurati cordis prolapsus est, sed infirmitate et ignorantia, non obdurata malitia contemtorum lapsorum in profundum. Licet igitur dicamus, multos mortaliter peccare in hac nostra humana infirmitate, nemo tamen per haec peccat usque ad mortem. Sunt igitur peccata nostra mortalia, sed non mortua, sicut nos mortales et non mortui. Quae autem mortalia tantum sunt, quanta poena divinis legibus reposita sit, non puto cuiquam notum esse mortalium. Iuste ergo in iudicio Iesus contra omnes perditos causabitur, tantam eius afflictionem pro eis assumptam, ut dei iudicio ad omnem poenam pro eorum peccatis abolendis sufficere iudicetur, et eos contempsisse. · Praeterea pro singulis salvandis tantum obtulit deo, quantum pro illius voluit abolitione. Voluit autem, quantum apti. Apti autem, quantum mundi et conformes Christo. Intentio enim Christi erat individua, quia solis praedestinatis, et limitata, quia praecise tantum, quantum cuique in suum locum et ordinem.”
+[^12]: *De magnitudine passionum* x.: “ Hic dolor debitus noster dolor est, quem si vere agnus dei tollens peccata mundi pro nobis portavit, in tanta mensura portavit, quantus districto divinae iustitiae iudicio repositus pro omnibus omnium nostrum peccatis, quos redemit ex morte, languore et dolore. — Superat omnia divinarum legum necessitas, quibus statutum, nihil finaliter indecorum futurum in regno destinato. Non iam de suppliciis inferni quis obiiciat. Nullus enim per Christum redemtus unquam meruit tali supplicio cruciari, quia nullus redemtorum in illam obstinaciam obdurati cordis prolapsus est, sed infirmitate et ignorantia, non obdurata malitia contemtorum lapsorum in profundum. Licet igitur dicamus, multos mortaliter peccare in hac nostra humana infirmitate, nemo tamen per haec peccat usque ad mortem. Sunt igitur peccata nostra mortalia, sed non mortua, sicut nos mortales et non mortui. Quae autem mortalia tantum sunt, quanta poena divinis legibus reposita sit, non puto cuiquam notum esse mortalium. Iuste ergo in iudicio Iesus contra omnes perditos causabitur, tantam eius afflictionem pro eis assumptam, ut dei iudicio ad omnem poenam pro eorum peccatis abolendis sufficere iudicetur, et eos contempsisse. · Praeterea pro singulis salvandis tantum obtulit deo, quantum pro illius voluit abolitione. Voluit autem, quantum apti. Apti autem, quantum mundi et conformes Christo. Intentio enim Christi erat individua, quia solis praedestinatis, et limitata, quia praecise tantum, quantum cuique in suum locum et ordinem.”
 
 [^13]: Cf. the art. on Wessel by H. Schmidt in Herzog’s *R. E.* vol. xvii. p. 742.
 
-[^14]: Von der Vollziehung ewiger Erwählung*, §§ 89–93. Opera, ed. Knaake, i. p. 156.
+[^14]: *Von der Vollziehung ewiger Erwählung*, §§ 89–93. Opera, ed. Knaake, i. p. 156.
 
-[^15]: De peccato originali declaratio*, Opp. iii. p. 631 ff.
+[^15]: *De peccato originali declaratio*, Opp. iii. p. 631 ff.
 
-[^16]: Ep. ad Bullingerum* (1544). Confessio ecclesiae Londinensis. Opera, ed. Kuyper, ii. pp. 587, 298.
+[^16]: *Ep. ad Bullingerum* (1544). Confessio ecclesiae Londinensis. Opera, ed. Kuyper, ii. pp. 587, 298.
 
-[^17]: De peccato in spiritum sanctum* (Dorpat, 1856), pp. 49, 146.
+[^17]: *De peccato in spiritum sanctum* (Dorpat, 1856), pp. 49, 146.
 
-[^18]: Catech. maior*, ii. 66: “ Quicunque extra Christianitatem sunt—in perpetua manent ira et damnatione. Neque enim habent Christum dominum, neque ullis spiritus sancti donis et dotibus illustrati et donati sunt.” Cf. Köstlin, *Luther’s Theologie*, vol. ii. p. 374.
+[^18]: *Catech. maior*, ii. 66: “ Quicunque extra Christianitatem sunt—in perpetua manent ira et damnatione. Neque enim habent Christum dominum, neque ullis spiritus sancti donis et dotibus illustrati et donati sunt.” Cf. Köstlin, *Luther’s Theologie*, vol. ii. p. 374.
 
 
 ---

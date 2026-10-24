@@ -193,7 +193,7 @@ VERSE 21. *Be not overcome of evil, but overcome evil with good.* It is only by 
 
 [^2]: Προφήτης, vates, i. e., vir divinus, qui afflatu divino gaudet et cui numen retegit, quae antea incognita erant, maxime ad religionem pertinentia.—*Wahl.* Sunt qui *prophetiam* intelligunt divinandi facultatem, quae circa evangelii primordia in ecclesia vigebat. . . . Ego vero eos sequi malo, qui latius extendunt hoc nomen ad peculiare revelationis donum, ut quis dextre ac perite in voluntate Dei enarranda munus interpretis obeat.—*Calvin.* On the nature of the office of prophet, see Koppe's Excursus III., appended to his Commentary on the Epistle to the Ephesians; and Winer's Realwörterbuch, under the word *Propheten*. Both these treatises are rationalistic, yet both contain the materials for a fair examination of the subject. See also Neander on the Planting of the Christian Church, Vol. I.
 
-[^3]: Καιρῷ*, instead of *κυρίῳ*, is read only in the MSS. D. F. G. All the other MSS., and the Coptic, Ethiopic, Armenian, Vulgate, and Syriac versions, have *κυρίῳ*. Mill and Griesbach prefer the former; but Wetstein, Bengel, Knapp, Lachmann, the latter. This diversity of reading is not surprising, as *Κῶ* was a frequent contraction both for *κυρίῳ* and *καιρῷ*.
+[^3]: *Καιρῷ*, instead of *κυρίῳ*, is read only in the MSS. D. F. G. All the other MSS., and the Coptic, Ethiopic, Armenian, Vulgate, and Syriac versions, have *κυρίῳ*. Mill and Griesbach prefer the former; but Wetstein, Bengel, Knapp, Lachmann, the latter. This diversity of reading is not surprising, as *Κῶ* was a frequent contraction both for *κυρίῳ* and *καιρῷ*.
 
 
 ---

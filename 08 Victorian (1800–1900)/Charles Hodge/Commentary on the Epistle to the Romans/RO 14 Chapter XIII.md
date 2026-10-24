@@ -103,7 +103,7 @@ VERSE 14. *But put ye on the Lord Jesus Christ*, i. e., be as he was. *To put on
 
 7. All Christian duty is included in putting on the Lord Jesus; in being like him, having that similarity of temper and conduct which results from being intimately united to him by the Holy Spirit, ver. 14.
 
-[^1]: Suetonius*, Claud. 25, says, "Judæos impulsore Chresto *assidue tumultuantes* (Claudius) Roma expulit;" see Acts xviii. 2.
+[^1]: *Suetonius*, Claud. 25, says, "Judæos impulsore Chresto *assidue tumultuantes* (Claudius) Roma expulit;" see Acts xviii. 2.
 
 [^2]: Amare; debitum immortale. Si amabitis, nil debitis nam amor implet legem. Amare, libertas est.—*Bengel.* Argute et eleganter dictum: dilectionis debitum et semper solvitur et semper manet.—*Wetstein.* / A grateful mind, / By owing owes not, and still pays, at once / Indebted and discharged.—*Milton's Paradise Lost,* IV. 55.
 

@@ -84,7 +84,7 @@ The second ground is that Christ and the Apostles themselves refer to the books 
 
 [^4]: Acts 1²¹ff.; cf. John 15²⁷. Paul does not belong to this circle, and if the Church has never regarded him as the inferior of the other Apostles in respect of inspiration, it thereby ascribes to him the same prerogatives as to them, although in a sense he had acquired them in a different way.
 
-[^5]: Conf. Gall.* iii,; *Conf. Angl.* vi.; *Conf. Belg.* iv.
+[^5]: *Conf. Gall.* iii,; *Conf. Angl.* vi.; *Conf. Belg.* iv.
 
 [^6]: The accounts given by Irenæus, iii. 1, and Eusebius, *H.E.* ii. 15, iii. 24, 39, v. 8, and elsewhere, are bound, as time goes on, to be less and less regarded as based on trustworthy information.
 

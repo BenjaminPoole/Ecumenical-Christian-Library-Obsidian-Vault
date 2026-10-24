@@ -218,7 +218,7 @@ Now if this is in general the sufficiently clear result of an examination of Scr
 
 [^37]: The same view is expressed, among others, by Joann. Dam., if only he be rightly understood (iii. 7; p. 215 seq.): Ἰστέον δὲ, ὡς εἰ καὶ περιχωρεῖν ἐν ἀλλήλαις τὰς τοῦ κυρίου φύσεις φαμέν, ἀλλ’ οἴδαμεν ὅπως ἐκ τῆς θείας φύσεως ἡ περιχώρησις γέγονεν· αὕτη μὲν γὰρ διὰ πάντων διήκει καθὼς βούλεται καὶ περιχωρεῖ, δι’ αὐτῆς δὲ οὐδέν. καὶ αὕτη μὲν τῶν οἰκείων αὐχημάτων τῇ σαρκὶ μεταδίδωσι (of which more below) μένουσα αὐτὴ ἀπαθὴς, καὶ τῶν τῆς σαρκὸς παθῶν (to which everything temporal belongs) ἀμέτοχος.
 
-[^38]: E.g.* Joann. Dam. iii. 3 ff.
+[^38]: *E.g.* Joann. Dam. iii. 3 ff.
 
 [^39]: ἀχωρίστως, ἀδιαιρέτως, and ἀδιαστάτως.
 
@@ -228,11 +228,11 @@ Now if this is in general the sufficiently clear result of an examination of Scr
 
 [^42]: See Reinh., *Dogm.*, § 97, 2 and 6.
 
-[^43]: Sol. decl.*, p. 771: Si enim persuaderi mihi patiar ut credam solam humanam naturam pro me passam esse, profecto Christus mihi non magni pretii salvator erit, sed ipse tandem salvatore eget.
+[^43]: *Sol. decl.*, p. 771: Si enim persuaderi mihi patiar ut credam solam humanam naturam pro me passam esse, profecto Christus mihi non magni pretii salvator erit, sed ipse tandem salvatore eget.
 
 [^44]: Joann. Dam. iii. 7: αὕτη μὲν (ἡ θεία φύσις) τῶν οἰκείων αὐχημάτων τῇ σαρκὶ μεταδίδωσι, μένουσα αὐτὴ ἀπαθὴς, καὶ τῶν τῆς σαρκὸς παθῶν ἀμέτοχος.
 
-[^45]: Conf. Gall.* xv. p. 116: manente tamen unaquaque illarum naturarum in sua distincta proprietate, etc. Similarly, *Conf. Belg.* xix.
+[^45]: *Conf. Gall.* xv. p. 116: manente tamen unaquaque illarum naturarum in sua distincta proprietate, etc. Similarly, *Conf. Belg.* xix.
 
 [^46]: John 8⁴⁶.
 
@@ -244,15 +244,15 @@ Now if this is in general the sufficiently clear result of an examination of Scr
 
 [^50]: Cf. § 59, *Postscript.*
 
-[^51]: Conf. Belg.* xix. p. 181: et quamvis eidem naturae immortalitatem resurrectione sua dederit, etc.
+[^51]: *Conf. Belg.* xix. p. 181: et quamvis eidem naturae immortalitatem resurrectione sua dederit, etc.
 
 [^52]: It is a divine provision, certainly of the highest significance, but not sufficiently recognized, that neither a trustworthy tradition regarding the external aspect of Christ’s person, nor an authentic picture of it, has come down to us. For the same reason, we may be sure, we lack an exact description of His manner of life and a connected narrative of the events of His career.
 
-[^53]: E.g.* Chrysost., *in ep. ad Col. Homil.* viii.: οὕτως ἦν καλὸς, ὡς οὐδὲ εἶναι εἰπεῖν.
+[^53]: *E.g.* Chrysost., *in ep. ad Col. Homil.* viii.: οὕτως ἦν καλὸς, ὡς οὐδὲ εἶναι εἰπεῖν.
 
 [^54]: Cf. § 29, 3.
 
-[^55]: Symb. Nic.*: καὶ ἀναστάντα ἐν τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφάς· καὶ ἀνελθόντα εἰς τοὺς οὐρανοὺς καὶ καθεζόμενον ἐκ δεξιῶν τοῦ πατρὸς· καὶ πάλιν ἐρχόμενον μετὰ δόξης κρῖναι ζῶντας καὶ νεκρούς.
+[^55]: *Symb. Nic.*: καὶ ἀναστάντα ἐν τῇ τρίτῃ ἡμέρᾳ κατὰ τὰς γραφάς· καὶ ἀνελθόντα εἰς τοὺς οὐρανοὺς καὶ καθεζόμενον ἐκ δεξιῶν τοῦ πατρὸς· καὶ πάλιν ἐρχόμενον μετὰ δόξης κρῖναι ζῶντας καὶ νεκρούς.
 
 [^56]: Rom. 4²⁵.
 
@@ -260,7 +260,7 @@ Now if this is in general the sufficiently clear result of an examination of Scr
 
 [^58]: Acts 2²⁴ 3⁵ 4¹⁰ 10⁴⁰, Rom. 4²⁴, 1 Cor. 6¹⁴ 15¹⁵, 2 Cor. 4¹⁴.
 
-[^59]: Symb. Rom.*: κατελθόντα εἰς τὰ κάτωτα only in one Greek, but in several old Latin copies; *Symb. Quic.* 36: descendit ad inferos.
+[^59]: *Symb. Rom.*: κατελθόντα εἰς τὰ κάτωτα only in one Greek, but in several old Latin copies; *Symb. Quic.* 36: descendit ad inferos.
 
 [^60]: 1 Pet. 3¹⁹. Eph. 4⁹ should certainly not be adduced here.
 

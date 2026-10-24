@@ -56,7 +56,7 @@ Under the conception of public Ministry we have subsumed everything that is the 
 
 [^8]: Matt. 10⁶[?].
 
-[^9]: E.g.* Matt. 18¹⁵⁻²⁰.
+[^9]: *E.g.* Matt. 18¹⁵⁻²⁰.
 
 [^10]: Acts 6².
 

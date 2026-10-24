@@ -70,13 +70,13 @@ Theology has performed its task when, guided by the Christian idea of God and th
 
 [^6]: Cf. *Geschichte des Pietismus*, ii. p. 117 ff.
 
-[^7]: Pia desideria* and *Allgemeine Gottesgelahrtheit* (1680), i. p. 36. *Consilia*, iii. p. 54.
+[^7]: *Pia desideria* and *Allgemeine Gottesgelahrtheit* (1680), i. p. 36. *Consilia*, iii. p. 54.
 
-[^8]: Glaubenslehre*, § 9, 2: “Whatever in the domain of Christianity belongs to our consciousness of God, must also be referred, through the idea of a kingdom of God, to the totality of our activities . . . This figure of ‘the Kingdom of God,’ so significant, so all-inclusive in Christianity, is only a general expression of the fact that in Christianity all pain and all joy are religious only in so far as they are related to activity in the Kingdom of God, and that every pious emotion, which arises from a passive state, ends in the consciousness of a transition to activity.”
+[^8]: *Glaubenslehre*, § 9, 2: “Whatever in the domain of Christianity belongs to our consciousness of God, must also be referred, through the idea of a kingdom of God, to the totality of our activities . . . This figure of ‘the Kingdom of God,’ so significant, so all-inclusive in Christianity, is only a general expression of the fact that in Christianity all pain and all joy are religious only in so far as they are related to activity in the Kingdom of God, and that every pious emotion, which arises from a passive state, ends in the consciousness of a transition to activity.”
 
 [^9]: Once, however, in the *Apology of the C. A.* iii. 68, 71, 72, he expresses the true idea. Similarly Luther, in his Smaller Catechism, sec. 2, art. 2, with which the parallel statement in his Larger Catechism really agrees.
 
-[^10]: Die Lehre vom göttlichen Reiche* (1823), p. 2: “Although, in view of the great multiplicity of moral ideas contained in Christianity, it is difficult to discover the most comprehensive, yet it is impossible not to perceive that its highest ideal is a society, and that its doctrines and precepts become luminous only when they are subordinated and related to it. For as a unity of essence and a moral unity of spirit exists eternally between the Father and the Son, so the Son must likewise become the Head of all humanity, in order that it may be raised to the perfection which is to be seen in Him, and be led through Him into a fellowship with the Father similar to that in which He Himself lives. This union is appropriately named the Kingdom of God.” P. 4: “When we consider the relation of God to man, and the work of redemption in the light of this idea, many doctrinal conceptions lose the appearance of arbitrariness which they may have, and gain a closer connection and a firmer foundation.”
+[^10]: *Die Lehre vom göttlichen Reiche* (1823), p. 2: “Although, in view of the great multiplicity of moral ideas contained in Christianity, it is difficult to discover the most comprehensive, yet it is impossible not to perceive that its highest ideal is a society, and that its doctrines and precepts become luminous only when they are subordinated and related to it. For as a unity of essence and a moral unity of spirit exists eternally between the Father and the Son, so the Son must likewise become the Head of all humanity, in order that it may be raised to the perfection which is to be seen in Him, and be led through Him into a fellowship with the Father similar to that in which He Himself lives. This union is appropriately named the Kingdom of God.” P. 4: “When we consider the relation of God to man, and the work of redemption in the light of this idea, many doctrinal conceptions lose the appearance of arbitrariness which they may have, and gain a closer connection and a firmer foundation.”
 
 [^11]: Cf. Schleiermacher, *Christliche Sitte*, p. 23; Nitzsch, *System der christlichen Lehre* (6th ed.), p. 4; Harless, *Christliche Ethik* (6th ed.), p. 3.
 
@@ -92,11 +92,11 @@ Theology has performed its task when, guided by the Christian idea of God and th
 
 [^17]: Cf. *Theologie und Metaphysik*, p. 30 ff. (2nd ed., p. 32 ff.).
 
-[^18]: Geschichte des Pietismus*, ii. p. 29.
+[^18]: *Geschichte des Pietismus*, ii. p. 29.
 
-[^19]: Theologie und Metaphysik*, p. 23 (2nd ed., p. 25).
+[^19]: *Theologie und Metaphysik*, p. 23 (2nd ed., p. 25).
 
-[^20]: Examen theologicum*, p. 69.
+[^20]: *Examen theologicum*, p. 69.
 
 
 ---

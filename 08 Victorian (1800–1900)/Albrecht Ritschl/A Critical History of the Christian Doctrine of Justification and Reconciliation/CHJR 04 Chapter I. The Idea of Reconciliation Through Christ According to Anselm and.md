@@ -54,7 +54,7 @@ To be sure, all Abelard's positions, as they lie before us, are merely assertion
 
 [^2]: Anselm born 1033, died 1109. Abelard born 1079, died 1142.
 
-[^3]: Cur Deus homo*, ii. 22: sic probas Deum fieri hominem ex necessitate ut etiam si removeantur pauca, quæ de nostris libris posuisti (ut quod de tribus personis Dei et de Adam tetigisti) non solum Judæis sed etiam paganis sola ratione satisfacias.
+[^3]: *Cur Deus homo*, ii. 22: sic probas Deum fieri hominem ex necessitate ut etiam si removeantur pauca, quæ de nostris libris posuisti (ut quod de tribus personis Dei et de Adam tetigisti) non solum Judæis sed etiam paganis sola ratione satisfacias.
 
 [^4]: Simply in order that the admirers of Anselm may not complain of any omission, I here mention his assertion (which is quite unimportant to the theory of satisfaction), that mankind was created in room of the angels that had fallen, and that, when man also fell into sin, not merely was a number corresponding to the fallen angels elected and redeemed through the satisfaction of Christ, but also a few more (ii. 16-18). This supposition is essentially taken from Augustine (*De Civ. Dei*, xxii. 1, Enchiridion, cap. 29); only the last clause does not belong to him.
 
@@ -62,7 +62,7 @@ To be sure, all Abelard's positions, as they lie before us, are merely assertion
 
 [^6]: Hasse: *Anselm von Canterbury*, ii. p. 606.
 
-[^7]: Commentariorum super S. Pauli Epistolam ad Romanos libri V.* (Petri Abaelardi et Heloisae opera. Paris, 1616.)
+[^7]: *Commentariorum super S. Pauli Epistolam ad Romanos libri V.* (Petri Abaelardi et Heloisae opera. Paris, 1616.)
 
 [^8]: Compare Augustinus de catechizandis rudibus, cap. 4: Quæ major causa est adventus Domini, nisi ut ostenderet Deus dilectionem suam in nobis, quia cum adhuc inimici essemus, Christus pro nobis mortuus est. Hoc autem ideo, ut et nos invicem diligamus, et, quemadmodum ille pro nobis animam posuit, sic et nos pro fratribus animam ponamus, et ipsum Deum, quoniam prior dilexit nos et filio suo unico non pepercit, sed pro nobis omnibus tradidit eum, si amare pigebat, saltem nunc redamare non pigeat. Nulla est enim major ad amorem invitatio, quam prævenire amando." For subsequent sins Abelard lays down the usual church-rule, that they are covered by *pœnitentia* and *satisfactio*, inasmuch as the eventual consequence, punishment in hell, is averted by the former, while the purifying pains of purgatory are averted by the latter. Abelard's expression with regard to this (p. 558) has been utterly misunderstood by Baur (as above, pp. 195, 196), because he thinks that this disciplinary sense of *satisfactio* is similar to the use of the idea by Anselm.
 

@@ -92,45 +92,45 @@ On the other hand—and this is the third pronouncement—our exposition of the 
 
 [^1]: Cf. §§ 83 and 84.
 
-[^2]: E.g.* ‘enlightenment,’ Eph. 3⁹ 5¹⁴, Heb. 6¹⁻⁶; ‘renewal,’ Eph. 4²³, Tit. 3⁵ Heb. 6⁶.
+[^2]: *E.g.* ‘enlightenment,’ Eph. 3⁹ 5¹⁴, Heb. 6¹⁻⁶; ‘renewal,’ Eph. 4²³, Tit. 3⁵ Heb. 6⁶.
 
 [^3]: See p. 168: Ostendendum est quod scriptura in *poenitentia* seu *conversione* has duas partes ponit.
 
-[^4]: Apol. Conf.*, *ibid.*: Paulus fere ubique cum describit conversionem, facit has duas partes mortificationem et vivificationem . . . sunt ergo hae duae partes contritio et fides.
+[^4]: *Apol. Conf.*, *ibid.*: Paulus fere ubique cum describit conversionem, facit has duas partes mortificationem et vivificationem . . . sunt ergo hae duae partes contritio et fides.
 
 [^5]: 74.
 
-[^6]: Expos. simpl.* xv. p. 42: fides Christum recipit.
+[^6]: *Expos. simpl.* xv. p. 42: fides Christum recipit.
 
-[^7]: Catech. Rom. praef.* 27: Cum enim finis qui ad beatitudinem hominis propositus est altior sit; quam ut humana mentis acie perspici possit, necesse ei erat ipsius a Deo cognitionem accipere. Haec vero cognitio nihil aliud est nisi fides.—*Ibid.* p. II. de poenit. 8: Verum in eo quem poenitet, fides poenitentiam antecedat necesse est . . . ex quo fit, ut nullo modo poenitentiae pars recte dici possit.
+[^7]: *Catech. Rom. praef.* 27: Cum enim finis qui ad beatitudinem hominis propositus est altior sit; quam ut humana mentis acie perspici possit, necesse ei erat ipsius a Deo cognitionem accipere. Haec vero cognitio nihil aliud est nisi fides.—*Ibid.* p. II. de poenit. 8: Verum in eo quem poenitet, fides poenitentiam antecedat necesse est . . . ex quo fit, ut nullo modo poenitentiae pars recte dici possit.
 
-[^8]: Apol. Conf.* v. p. 169: Mortificatio significat veros terrores quos sustinere natura non posset, nisi erigeretur fide. Ita hic (Col. 2¹¹) exspoliationem corporis peccatorum vocat, quam nos usitate dicimus contritionem, quia in illis doloribus concupiscentia naturalis expurgatur.
+[^8]: *Apol. Conf.* v. p. 169: Mortificatio significat veros terrores quos sustinere natura non posset, nisi erigeretur fide. Ita hic (Col. 2¹¹) exspoliationem corporis peccatorum vocat, quam nos usitate dicimus contritionem, quia in illis doloribus concupiscentia naturalis expurgatur.
 
-[^9]: Ibid.*: Et vivificatio intelligi debet . . . consolatio quae vere sustentat fugientem vitam in contritione.
+[^9]: *Ibid.*: Et vivificatio intelligi debet . . . consolatio quae vere sustentat fugientem vitam in contritione.
 
 [^10]: This is never more than an inexact phrase, for according to our general formula all divine grace is always prevenient; and it would be more correct to say ‘preparatory.’
 
 [^11]: Compare, in the *Apology for the Augsburg Confession*, the whole treatment of the conceptions repentance, confession, and satisfaction.
 
-[^12]: Apol. Conf.* i.: Addidit etiam (Lutherus) de materiali quod spiritus sanctus datus per baptismum *incipit* mortificare concupiscentiam et novos motus creat (and obviously only *incipit creare*) in homine.—*Ibid.* iv.: Igitur necesse est baptizare parvulos, ut applicetur iis promissio salutis.
+[^12]: *Apol. Conf.* i.: Addidit etiam (Lutherus) de materiali quod spiritus sanctus datus per baptismum *incipit* mortificare concupiscentiam et novos motus creat (and obviously only *incipit creare*) in homine.—*Ibid.* iv.: Igitur necesse est baptizare parvulos, ut applicetur iis promissio salutis.
 
-[^13]: Expos. simpl.* xx.: Assignantur haec omnia baptismo. Nam intus regeneramur purificamur et renovamur a Deo per spiritum sanctum, foris autem accipimus obsignationem, etc. —*Conf. Gallic.* xxxv. p. 123: Quamvis baptismus sit fidei et resipiscentiae sacramentum, tamen . . . affirmamus . . . infantes . . . esse baptizandos.
+[^13]: *Expos. simpl.* xx.: Assignantur haec omnia baptismo. Nam intus regeneramur purificamur et renovamur a Deo per spiritum sanctum, foris autem accipimus obsignationem, etc. —*Conf. Gallic.* xxxv. p. 123: Quamvis baptismus sit fidei et resipiscentiae sacramentum, tamen . . . affirmamus . . . infantes . . . esse baptizandos.
 
-[^14]: Expos. simpl.* ix.: In regeneratione intellectus illuminatur per Spiritum sanctum ut et mysteria et voluntatem Dei intelligat.
+[^14]: *Expos. simpl.* ix.: In regeneratione intellectus illuminatur per Spiritum sanctum ut et mysteria et voluntatem Dei intelligat.
 
-[^15]: Institutt.* ix. 16. 20: Baptizantur in futuram poenitentiam et fidem, quae etsi nondum in illis formatae sunt, arcana tamen spiritus operatione utriusque semen in illis latet.
+[^15]: *Institutt.* ix. 16. 20: Baptizantur in futuram poenitentiam et fidem, quae etsi nondum in illis formatae sunt, arcana tamen spiritus operatione utriusque semen in illis latet.
 
-[^16]: Augsb. Conf.* v: To win such faith God has appointed preaching, by means of which the Holy Spirit awakens and comforts the heart and imparts faith.—*Art. Smalc.* vii.: Constanter tenendum est Deum nemini spiritum vel gratiam suam largiri nisi per verbum et cum verbo externo et praecedente: and it is here to be remarked that the communication of the Spirit is described as a consequence or result—ut ita praemuniamus nos contra Enthusiastas, qui iactitant se ante verbum et sine verbo spiritum habere.—*Expos. simpl.* xiv.: Per poenitentiam autem intelligimus mentis in homine peccatore resipiscentiam, verbo evangelii et spiritu sancto excitatam. *Ibid.* xvi.: Haec autem fides merum est Dei donum, quod solus Deus ex gratia sua . . . donat, et quidem per Spiritum sanctum mediante praedicatione Evangelii.—*Conf. Gall.* xxv.: Credimus quoniam non nisi per Evangelium fimus Christi compotes.—*Conf. Belg.* xxiv.: Credimus veram hanc fidem per auditum verbi Dei et Spiritus sancti operationem homini insitam eum regenerare.
+[^16]: *Augsb. Conf.* v: To win such faith God has appointed preaching, by means of which the Holy Spirit awakens and comforts the heart and imparts faith.—*Art. Smalc.* vii.: Constanter tenendum est Deum nemini spiritum vel gratiam suam largiri nisi per verbum et cum verbo externo et praecedente: and it is here to be remarked that the communication of the Spirit is described as a consequence or result—ut ita praemuniamus nos contra Enthusiastas, qui iactitant se ante verbum et sine verbo spiritum habere.—*Expos. simpl.* xiv.: Per poenitentiam autem intelligimus mentis in homine peccatore resipiscentiam, verbo evangelii et spiritu sancto excitatam. *Ibid.* xvi.: Haec autem fides merum est Dei donum, quod solus Deus ex gratia sua . . . donat, et quidem per Spiritum sanctum mediante praedicatione Evangelii.—*Conf. Gall.* xxv.: Credimus quoniam non nisi per Evangelium fimus Christi compotes.—*Conf. Belg.* xxiv.: Credimus veram hanc fidem per auditum verbi Dei et Spiritus sancti operationem homini insitam eum regenerare.
 
-[^17]: Expos. simpl.* i.: Quamquam enim nemo veniat ad Christum, nisi qui trahatur a patre ac intus illuminetur per spiritum sanctum, scimus tamen Deum omnino velle praedicari verbum Dei. Equidem potuisset per spiritum sanctum suum aut per ministerium angeli instituisse Cornelium, etc.—Agnoscimus interim Deum illuminare posse homines etiam sine externo ministerio, etc.—*Conf. Helv.* xiv.: Quae (ecclesia) externis . . . ritibus ab ipso Christo institutis et verbi Dei . . . publica disciplina . . . ita construitur, ut in hanc sine his nemo *nisi singulari Dei privilegio* censeatur.
+[^17]: *Expos. simpl.* i.: Quamquam enim nemo veniat ad Christum, nisi qui trahatur a patre ac intus illuminetur per spiritum sanctum, scimus tamen Deum omnino velle praedicari verbum Dei. Equidem potuisset per spiritum sanctum suum aut per ministerium angeli instituisse Cornelium, etc.—Agnoscimus interim Deum illuminare posse homines etiam sine externo ministerio, etc.—*Conf. Helv.* xiv.: Quae (ecclesia) externis . . . ritibus ab ipso Christo institutis et verbi Dei . . . publica disciplina . . . ita construitur, ut in hanc sine his nemo *nisi singulari Dei privilegio* censeatur.
 
 [^18]: John 17²⁰.
 
 [^19]: Rom. 10¹⁷, Tit. 1³.
 
-[^20]: Sol. decl.*, p. 674: Ex his consequitur, quam primum Spir. s. per verbum et sacramenta opus suum regenerationis et renovationis in nobis *inchoavit*, quod revera tunc per virtutem Spir. s. cooperari possimus ac debeamus.—Hoc vero ipsum non est ex nostris carnalibus et naturalibus viribus, sed ex novis illis viribus, quae Spir. s. in nobis in conversione inchoavit. What is said expressly of the period after conversion holds good all the more for the period preceding it.—*Ibid.*, p. 681: . . . hominem ex se ipso aut naturalibus suis viribus non posse aliquid conferre vel adjumentum adferre ad suam conversionem.
+[^20]: *Sol. decl.*, p. 674: Ex his consequitur, quam primum Spir. s. per verbum et sacramenta opus suum regenerationis et renovationis in nobis *inchoavit*, quod revera tunc per virtutem Spir. s. cooperari possimus ac debeamus.—Hoc vero ipsum non est ex nostris carnalibus et naturalibus viribus, sed ex novis illis viribus, quae Spir. s. in nobis in conversione inchoavit. What is said expressly of the period after conversion holds good all the more for the period preceding it.—*Ibid.*, p. 681: . . . hominem ex se ipso aut naturalibus suis viribus non posse aliquid conferre vel adjumentum adferre ad suam conversionem.
 
-[^21]: Ibid.*, p. 671: In eiusmodi enim externis rebus homo adhuc etiam post lapsum aliquo modo liberum arbitrium habet, ut . . . verbum Dei audire vel non audire possit.
+[^21]: *Ibid.*, p. 671: In eiusmodi enim externis rebus homo adhuc etiam post lapsum aliquo modo liberum arbitrium habet, ut . . . verbum Dei audire vel non audire possit.
 
 [^22]: Cf., *inter alia*, Gerhard, t. v. p. 113, and *Sol. decl.*, p. 662: Et hoc ipsum vocat (Lutherus) capacitatem non activam sed passivam, which are not really Luther’s words.
 
@@ -140,7 +140,7 @@ On the other hand—and this is the third pronouncement—our exposition of the 
 
 [^25]: Rom. 8²². ³⁵⁻³⁹.
 
-[^26]: Conf. Belg.* xx.: Necessarium est enim aut omnia quae ad salutem nostram requiruntur in Jesu Christo non esse, aut si in eo sunt omnia, tum eum, qui fide Jesum possidet, totam salutem habere.
+[^26]: *Conf. Belg.* xx.: Necessarium est enim aut omnia quae ad salutem nostram requiruntur in Jesu Christo non esse, aut si in eo sunt omnia, tum eum, qui fide Jesum possidet, totam salutem habere.
 
 [^27]: This is also scriptural, if we venture to assume that the expression ‘justify,’ as here expounded, corresponds to the Pauline δικαιῶσαι; this comes out most strikingly in Rom. 8³³.
 
@@ -148,11 +148,11 @@ On the other hand—and this is the third pronouncement—our exposition of the 
 
 [^29]: Cf. Gerhard, iv. p. 147.
 
-[^30]: Conf. Belg.* xxiv.: Fide utique in Christum iustificamur, et quidem priusquam bona opera praestiterimus.—*Apol. Conf.* ii.: . . . quod fides sit ipsa iustitia, qua coram Deo iusti reputamur . . . quia accipit promissionem . . . seu quia sentit quod Christus sit nobis factus a Deo sapientia iustitia sanctificatio et redemtio.
+[^30]: *Conf. Belg.* xxiv.: Fide utique in Christum iustificamur, et quidem priusquam bona opera praestiterimus.—*Apol. Conf.* ii.: . . . quod fides sit ipsa iustitia, qua coram Deo iusti reputamur . . . quia accipit promissionem . . . seu quia sentit quod Christus sit nobis factus a Deo sapientia iustitia sanctificatio et redemtio.
 
 [^31]: Atqui extra controversiam est neminem a Deo extra Christum diligi (Calv., *Institt.* iii. ii. 32).
 
-[^32]: Sola gratia redemtos discernit a perditis, quos in unam perditionis concreverat massam ab origine ducta causa communis* (Augustin., *Enchir.* xxix.).
+[^32]: *Sola gratia redemtos discernit a perditis, quos in unam perditionis concreverat massam ab origine ducta causa communis* (Augustin., *Enchir.* xxix.).
 
 
 ---

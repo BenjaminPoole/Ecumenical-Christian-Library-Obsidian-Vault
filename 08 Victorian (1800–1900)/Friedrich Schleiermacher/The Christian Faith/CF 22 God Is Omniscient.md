@@ -38,7 +38,7 @@ And this leads us to consider still further, in the light of this divine attribu
 
 [^2]: This is Calvin’s meaning, *Instit.* iii. 23. 6: Quum nec alia ratione quae futura sunt praevideat, nisi quia ut fierent decrevit; where only the idea of seeing *beforehand* is awkward. Erigena puts it better, *de praedest.*, p. 121: Ea ergo videt quae facere voluit, neque alia videt, nisi ea quae fecit.
 
-[^3]: Idem, ibid.* p. 125: Non in eo praecedit visio operationem, quoniam coaeterna est visioni operatio.
+[^3]: *Idem, ibid.* p. 125: Non in eo praecedit visio operationem, quoniam coaeterna est visioni operatio.
 
 [^4]: Cf. § 53, 2.
 

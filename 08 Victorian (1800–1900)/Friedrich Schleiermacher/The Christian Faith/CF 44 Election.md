@@ -98,7 +98,7 @@ No one, however, will desire to stretch the application of our first formula so 
 
 [^11]: 4, § 46, § 49.
 
-[^12]: Sol. decl.* xi.: Pater enim trahit hominem virtute spiritus sui juxta ordinem a se decretum et institutum.
+[^12]: *Sol. decl.* xi.: Pater enim trahit hominem virtute spiritus sui juxta ordinem a se decretum et institutum.
 
 [^13]: So in Acts 2⁴¹ and 13¹⁸ it is certainly not meant that of those who did not then believe, none could possibly become believers at some later time.
 
@@ -114,9 +114,9 @@ No one, however, will desire to stretch the application of our first formula so 
 
 [^19]: Praedestinationem vocamus aeternum dei decretum, quo apud se constitutum habuit quid de *unoquoque* homine fieri vellet (Calv., *Institt.* III. xxiii. 5.
 
-[^20]: Sol. decl.* xi.: Aeterna vero electio seu praedestinatio dei ad salutem non simul ad bonos et ad malos pertinet,—and all that follows.
+[^20]: *Sol. decl.* xi.: Aeterna vero electio seu praedestinatio dei ad salutem non simul ad bonos et ad malos pertinet,—and all that follows.
 
-[^21]: Sol. decl.* xi.: Et quidem deus illo suo consilio non tantum in genere salutem suorum procuravit, verum etiam omnes et singulas personas electorum . . . ad salutem elegit.
+[^21]: *Sol. decl.* xi.: Et quidem deus illo suo consilio non tantum in genere salutem suorum procuravit, verum etiam omnes et singulas personas electorum . . . ad salutem elegit.
 
 [^22]: At this point the Augustinian formula already cited is entirely apposite: Sola gratia redemtos discernit a perditis, quos in unam perditionis concreverat massam ab origine ducta causa communis (*Enchir.* xxix.). To suit our purpose, we have to alter this only slightly, as follows: Praedestinatio discernit redemtos a communi perditionis massa.
 
@@ -126,11 +126,11 @@ No one, however, will desire to stretch the application of our first formula so 
 
 [^25]: Rom. 10 and 11.
 
-[^26]: Sol. decl.* xi.: In eodem suo consilio decrevit, quod eos qui per verbum vocati illud repudiant . . . et obstinati in illa contumacia perseverant, indurare reprobare et aeternae damnatione devovere velit.
+[^26]: *Sol. decl.* xi.: In eodem suo consilio decrevit, quod eos qui per verbum vocati illud repudiant . . . et obstinati in illa contumacia perseverant, indurare reprobare et aeternae damnatione devovere velit.
 
 [^27]: Dicimus fidei intuitum decreto electionis esse includendum (Gerh., iv. p. 207).
 
-[^28]: Expos. simpl.* x.: Bene sperandum tamen est de omnibus, neque temere probis quisquam est adnumerandus,
+[^28]: *Expos. simpl.* x.: Bene sperandum tamen est de omnibus, neque temere probis quisquam est adnumerandus,
 
 
 ---

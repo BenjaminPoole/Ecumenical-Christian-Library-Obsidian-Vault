@@ -41,47 +41,47 @@ But if this answer stand, it must be clearly understood that it can stand on no 
 
 [^1]: Outstanding instances may be found in Castellio and Servetus. The latter taught that infants are born with hereditary disease (morbus) of sin, indeed, but without guilt, which comes only with responsibility, *i.e.*, with the knowledge of good and evil, the age for which he sets at about twenty. Those who die before that age go, like all men, to the purifying pains of Hades—a sort of purgatory: whence they are released by Christ at the resurrection. They are soiled by the serpent of original sin; but they are guilty of no impiety, and hence the merciful and pitiful Master who gave His blessing to unbaptized babes in this life will not condemn them, but will raise them up at the last day and convey them to heavenly bliss. These tenets may be veri- fied from the extracts given from the *Christianismi Restitutio* by Dr. Schaff, *History of the Christian Church*, vii., pp. 748 *sq.* Dr. Schaff is wrong, however, in paralleling Servetus's doctrine of original sin with Zwingli's. Zwingli taught the universality of the guilt of Adam's first sin, only denying that hereditary corruption is the source of guilt; while Servetus makes no more of *ad*herent than he does of *in*herent guilt, denying guilt altogether to infants. On the other hand, Servetus's doctrine is curiously similar to that of our modern Pelagianizing Arminians, as represented, say, by Drs. Whedon, Miner Raymond and John Miley.
 
-[^2]: Opera Theologica*, ed. Curcellæus, altera pars. Goudæ, 1665, p. 153*a*.
+[^2]: *Opera Theologica*, ed. Curcellæus, altera pars. Goudæ, 1665, p. 153*a*.
 
 [^3]: Sermons, vol. vi., Sermon i, on *The Mystery of Iniquity.*
 
 [^4]: Something similar to it has occasionally been held; see above, p. 145.
 
-[^5]: The Doctrine of a Future Life* (New York, 1891), p. 94, *note.* The text is speaking of probation and of the fact of reprobation found- ed on it; and the note adds: " All this is, of course, inapplicable to infants, idiots, lunatics and other irresponsible human beings who can hardly be called *persons* in the strict sense. Their case has its peculiar difficulties. . . . We may be permitted, however, to venture the suggestion that where the moral disability is congenital and total there is grave reason to doubt the existence of an immortal spirit; and perhaps we may be forced to believe that immortality itself is *developed* rather than innate. Certain it is that the soul, as a thinking, moral substance, is itself at least developed at some point of embryonic life, and why may not its immortality be likewise a stage in its progress? The perpetuity or even the existence of an absolutely undeveloped soul is to us inconceivable."
+[^5]: *The Doctrine of a Future Life* (New York, 1891), p. 94, *note.* The text is speaking of probation and of the fact of reprobation found- ed on it; and the note adds: " All this is, of course, inapplicable to infants, idiots, lunatics and other irresponsible human beings who can hardly be called *persons* in the strict sense. Their case has its peculiar difficulties. . . . We may be permitted, however, to venture the suggestion that where the moral disability is congenital and total there is grave reason to doubt the existence of an immortal spirit; and perhaps we may be forced to believe that immortality itself is *developed* rather than innate. Certain it is that the soul, as a thinking, moral substance, is itself at least developed at some point of embryonic life, and why may not its immortality be likewise a stage in its progress? The perpetuity or even the existence of an absolutely undeveloped soul is to us inconceivable."
 
 [^6]: W. B. Pope, *Christian Theology*, ii., 59.
 
 [^7]: He is defending his friend Borrius, and denies that Borrius would have infants saved without the intervention of Christ; and affirms that Borrius's doctrine of infant salvation rested on the conception that " God has taken the whole human race into the grace of reconciliation, and has entered into a covenant of grace with Adam and with the whole of his posterity in him." (*Works*, Nichols's translation, ii., 10, 11.)
 
-[^8]: Works*, i., 283, 284.
+[^8]: *Works*, i., 283, 284.
 
-[^9]: Theological Institutes*, ii., 57 *sq.*
+[^9]: *Theological Institutes*, ii., 57 *sq.*
 
 [^10]: As above.
 
-[^11]: Systematic Theology*, ii. 39.
+[^11]: *Systematic Theology*, ii. 39.
 
 [^12]: This includes very explicitly the late Dr. Henry J. Van Dyke, who wrote: " We believe that the satisfaction which He [Christ] as the seed of the woman and Saviour of the world, rendered to God's broken law, takes away the guilt and condemnation of Adam's sin from the whole human race. We do not say the inherited corruption and depravity of our nature, which is commonly called original sin; but we say the guilt and condemnation of original sin; so that the multitude of the redeemed which no man can number will include not only all believers, but ' all who have not sinned after the similitude of Adam's transgression,' that is to say, who die in infancy" (*The Presbyterian Review* for January, 1885, vol. vi., p. 58; cf. *The Church: Her Ministry and Sacraments*, p. 106, where the middle clause of the above is omitted, but without change of sense). So also Dr. Henry Van Dyke (*God and Little Children*, N. Y., 1890, p. 62 *sq.*): " The obedience of Christ countervails the disobedience of Adam and blots it out completely. . . . Original sin is all atoned for; the guilt of it is taken away from the race by the Lamb of God." Perhaps a shade less clearly assertory of the fundamental Arminian soteriologic principle is Dr. Henry E. Robins (*The Harmony of Ethics with Theology*, 1891, p. 63 *sq.*): " The sentence of acquittal is the first indispensable step in the process of redemption which will go on to its consummation unless thwarted by personal moral resistance. Now, since infants dying in infancy, idiots, the congenitally insane, and all who in the infallible judgment of God have not reached the stature of moral personality, are incapable of such intelligent moral resistance, incapable of resisting the new terms of salvation proposed under the grace system, they become, we believe, on that account, subjects of regeneration by the Holy Spirit."
 
-[^13]: Methodist Discipline*, § 43 (1892).
+[^13]: *Methodist Discipline*, § 43 (1892).
 
 [^14]: The words quoted here are Dr. John J. Tigert's in Summers's *Systematic Theology*, ii., 39.
 
-[^15]: Theological Institutes*, ii., 59.
+[^15]: *Theological Institutes*, ii., 59.
 
 [^16]: Dr. Pope, for example, says: " We do not assume a second personal fall in the case of each individual reaching the crisis of responsibility" (*Comp. Christ. Theology*, ii., 59.)
 
-[^17]: The Methodist Quarterly Review*, 1883, p. 757. *Commentary* on Eph. ii. 3 *et al.*
+[^17]: *The Methodist Quarterly Review*, 1883, p. 757. *Commentary* on Eph. ii. 3 *et al.*
 
-[^18]: Systematic Theology*, ii., 311 *sq.* Dr. Raymond is not without some little hesitation in his rejection of the older Wesleyan view. " The doctrine of inherited depravity," he says, " involves the idea of inherited disqualification for eternal life. The salvation of infants, then, has primary regard to a preparation for the blessedness of heaven—it may have a regard to a title thereto; not all newly created beings, nor those sustaining similar relations, are by any natural right entitled to a place among holy angels and glorified saints. The salvation of infants cannot be regarded as a salvation from the peril of eternal death. They have not committed sin, the only thing that incurs such a peril. The idea that they are in danger of eternal death because of Adam's transgression, is at most nothing more than the idea of a theoretic peril. But if it be insisted that ' by the offence of one, judgment came upon all men to [a literal and actual] condemnation,' we insist that, from that condemnation, be it what it may, theoretic or literal, all men are saved; for ' by the righteousness of one, the free gift came upon all men unto justification of life,' so that the conditions and relations of the race in infancy differ from those of newly created beings solely in that, by the natural law of propagation, a corrupted nature is inherited. As no unclean thing or unholy person can be admitted to the presence of God . . . it follows that if infants are taken to heaven, some power, justifying, sanctifying their souls, must be vouchsafed unto them; the saving influence of the Holy Spirit must be, for Christ's sake, unconditionally bestowed. Not only their preparation for, but also their title to, and enjoyment of, the blessedness of heaven comes, as came their existence, through the shed blood of our Lord Jesus Christ. . . . Our Lord's assurance of infant salvation is sufficient; that, if saved, they are saved by His blood, admits of no doubt; hence we catalogue among the unconditional benefits of atonement the secured salvation of those dying in infancy."
+[^18]: *Systematic Theology*, ii., 311 *sq.* Dr. Raymond is not without some little hesitation in his rejection of the older Wesleyan view. " The doctrine of inherited depravity," he says, " involves the idea of inherited disqualification for eternal life. The salvation of infants, then, has primary regard to a preparation for the blessedness of heaven—it may have a regard to a title thereto; not all newly created beings, nor those sustaining similar relations, are by any natural right entitled to a place among holy angels and glorified saints. The salvation of infants cannot be regarded as a salvation from the peril of eternal death. They have not committed sin, the only thing that incurs such a peril. The idea that they are in danger of eternal death because of Adam's transgression, is at most nothing more than the idea of a theoretic peril. But if it be insisted that ' by the offence of one, judgment came upon all men to [a literal and actual] condemnation,' we insist that, from that condemnation, be it what it may, theoretic or literal, all men are saved; for ' by the righteousness of one, the free gift came upon all men unto justification of life,' so that the conditions and relations of the race in infancy differ from those of newly created beings solely in that, by the natural law of propagation, a corrupted nature is inherited. As no unclean thing or unholy person can be admitted to the presence of God . . . it follows that if infants are taken to heaven, some power, justifying, sanctifying their souls, must be vouchsafed unto them; the saving influence of the Holy Spirit must be, for Christ's sake, unconditionally bestowed. Not only their preparation for, but also their title to, and enjoyment of, the blessedness of heaven comes, as came their existence, through the shed blood of our Lord Jesus Christ. . . . Our Lord's assurance of infant salvation is sufficient; that, if saved, they are saved by His blood, admits of no doubt; hence we catalogue among the unconditional benefits of atonement the secured salvation of those dying in infancy."
 
-[^19]: Systematic Theology*, i., 518, 532; ii., 247, 408, 505 *sq.* Dr. Miley is very decided in his Pelagianizing construction and controverts at length the earlier Wesleyan view. We are indebted to him for a number of references.
+[^19]: *Systematic Theology*, i., 518, 532; ii., 247, 408, 505 *sq.* Dr. Miley is very decided in his Pelagianizing construction and controverts at length the earlier Wesleyan view. We are indebted to him for a number of references.
 
-[^20]: The Conflict of Centuries* (Nashville, Tenn., Southern Meth. Pub. House, 1884,) pp. 115 *sq.*, 166, 208. " The fundamental truth is here affirmed ' that there is no corruption in children which is truly and properly sin,' " etc.
+[^20]: *The Conflict of Centuries* (Nashville, Tenn., Southern Meth. Pub. House, 1884,) pp. 115 *sq.*, 166, 208. " The fundamental truth is here affirmed ' that there is no corruption in children which is truly and properly sin,' " etc.
 
-[^21]: Future Retribution* (New York, 1891): " This is not the place to discuss the question of the relation of children to the atonement, and we need only say that, not being sinners in any true definition of sin, their relation to Christ must be wholly peculiar, as is their relation to probation and the new birth" (p. 159 *note*).
+[^21]: *Future Retribution* (New York, 1891): " This is not the place to discuss the question of the relation of children to the atonement, and we need only say that, not being sinners in any true definition of sin, their relation to Christ must be wholly peculiar, as is their relation to probation and the new birth" (p. 159 *note*).
 
-[^22]: Cumberland Presbyterian Review*, July, 1890, p. 369; cf. January, 1890, p. 113.
+[^22]: *Cumberland Presbyterian Review*, July, 1890, p. 369; cf. January, 1890, p. 113.
 
 [^23]: " All infants dying in infancy are regenerated and saved by Christ through the Spirit, who worketh when, and where, and how He pleaseth; so also are others who have never had the exercise of reason, and who are incapable of being outwardly called by the ministry of the Word."—*The Confession of Faith of the Cumberland Presbyterian Church*, revised and adopted by the General Assembly at Princeton, Ky., May, 1829 (Nashville, Tenn., Board of Publication C. P. Church, 1880, ch. x., § 3). In the revision of 1883, this runs: " All infants dying in infancy, and all persons who have never had the faculty of reason, are regenerated and saved."—*Confession of Faith and Government of the Cumberland Presbyterian Church.* (Nashville, etc., 1893, § 54, p. 34.)
 
@@ -89,7 +89,7 @@ But if this answer stand, it must be clearly understood that it can stand on no 
 
 [^25]: Cf. *Progressive Orthodoxy*, p. 76: " There is much reason also, in the nature of the case, to believe that the present life is the most favorable opportunity for moral renewal in Christ."
 
-[^26]: Progressive Orthodoxy*, p. 93.
+[^26]: *Progressive Orthodoxy*, p. 93.
 
 [^27]: Vol. ii., pp. 91 *sq.*
 
@@ -97,7 +97,7 @@ But if this answer stand, it must be clearly understood that it can stand on no 
 
 [^29]: This inconsistency naturally appears in all writers of similar tendencies, and the popular religious literature of the day is accordingly full of it. An example may be found in Bishop Hugh Miller Thompson's Baldwin Lectures on *The World and the Man* (New York,
 
-[^30]: The Evolution of Love.* By Emory Miller, D.D., LL.D. (Chicago, 1892), p. 330; cf. pp. 254 and 336, which speak of *children* and not merely *infants*.
+[^30]: *The Evolution of Love.* By Emory Miller, D.D., LL.D. (Chicago, 1892), p. 330; cf. pp. 254 and 336, which speak of *children* and not merely *infants*.
 
 
 ---

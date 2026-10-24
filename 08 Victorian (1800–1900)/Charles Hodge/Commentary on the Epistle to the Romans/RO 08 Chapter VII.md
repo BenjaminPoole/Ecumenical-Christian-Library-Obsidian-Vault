@@ -227,7 +227,7 @@ If, then, the context is altogether favourable to the ordinary interpretation; i
 
 [^2]: Knapp's Prolusio in locum, Rom. vii. 21, in his Scripta Varii Argumenti. The several interpretations of the passage are given and discussed by that writer.
 
-[^3]: Ego*, id est, genus Israeliticum cum vixit ante legem—in Aegypto scilicet. See his comment on ver. 9.
+[^3]: *Ego*, id est, genus Israeliticum cum vixit ante legem—in Aegypto scilicet. See his comment on ver. 9.
 
 [^4]: The passages referred to by Knapp are 1 Cor. iii. 5, iv. 3, &c.; vi. 12; x 29, 30; xiii. 11, 12; xiv. 14, 15; Gal. ii. 18—21.
 

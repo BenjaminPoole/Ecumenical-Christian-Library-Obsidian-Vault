@@ -46,7 +46,7 @@ If, however, the result of exegetical inquiry should be that no actual history i
 
 [^7]: Gen. 2¹⁹ does not go quite so far.
 
-[^8]: Ibid.* ver. 16; that is, if the tree (ver. 17) was not in itself harmful.
+[^8]: *Ibid.* ver. 16; that is, if the tree (ver. 17) was not in itself harmful.
 
 [^9]: Gen. 2¹⁷.
 

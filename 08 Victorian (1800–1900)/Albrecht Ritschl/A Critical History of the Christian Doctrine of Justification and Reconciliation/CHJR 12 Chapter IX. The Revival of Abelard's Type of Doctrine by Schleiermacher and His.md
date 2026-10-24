@@ -128,7 +128,7 @@ Schweizer defines redemption by Christ very much in the terms supplied by Schlei
 
 Schweizer, with justice, condemns the undervaluing of Abelard's doctrine as compared with that of Anselm, to which the representatives of modern orthodoxy assign a value that has never been given to it in any previous age. In fact as a vehicle of religious life and feeling, it is only Abelard's thought that can be directly accepted,—not Anselm's theory. With respect to this, I may point out to those admirers of the latter who abhor the former as rationalistic, that so decided a representative of modern Moravian Pietism as Madame von Krüdener moved wholly in Abelard's line of thought. She was wont, as a contemporaneous observer bears witness,[^27] to express herself to the effect that the essence of the gospel of Jesus Christ is love to the crucified One. In the great sacrificial death of Christ lay, as she put it, the fountain of Divine love. Only by counter love to Him could we share in forgiveness of sins and reconciliation with God. From this love to God, she maintained, springs that living faith which cannot for a moment doubt the promise of God.
 
-[^1]: Geschichte der protestantischen Theologie*, p. 813.
+[^1]: *Geschichte der protestantischen Theologie*, p. 813.
 
 [^2]: As above, p. 793.
 
@@ -136,7 +136,7 @@ Schweizer, with justice, condemns the undervaluing of Abelard's doctrine as comp
 
 [^4]: In what follows I make use of the second edition of 1830, unless when I expressly cite the first, 1821-2.
 
-[^5]: Philosophische und vermischte Schriften*, vol. ii. pp. 446-468. The dissertation belongs to the year 1827, but was published for the first time in 1830. Compare also the second dissertation: as above, p. 469 *sq.*
+[^5]: *Philosophische und vermischte Schriften*, vol. ii. pp. 446-468. The dissertation belongs to the year 1827, but was published for the first time in 1830. Compare also the second dissertation: as above, p. 469 *sq.*
 
 [^6]: Although Schleiermacher (sec. 14. 1) affirms that every one can join the Christian fellowship only by means of a free decision of his own, he does not disclose any grounds of such a decision that lie outside of the religious impression that Christ produces. But this impression, where it is made, constitutes the religious fellowship of which it is the principle. Therefore he declares, in the appendix to sec. 14, that he assumes no intermediate step between the faith of the individual.and his participation in Christian fellowship, but rather that, with faith, that participation is *ipso facto* given, not only in so far as this depends upon the spontaneous activity of him who has become a believer, but in so far as it depends upon the fellowship itself as the source from which the testimony that awakens faith had proceeded. This is to exclude the possibility of a personal believing persuasion of the individual's membership in the Christian fellowship by demonstration drawn from the miracles and prophecies.
 
@@ -144,9 +144,9 @@ Schweizer, with justice, condemns the undervaluing of Abelard's doctrine as comp
 
 [^8]: Schleiermacher (sec. 101. 3) acknowledges that even in the course of growing perfection there arise life-hindrances of such a nature that they obviously appear to the believer, that is, to the reconciled person, to stand in connexion with his sins that still remain, and so to be punishments. By this concession the whole idea of reconciliation becomes illusory in relation to the premisses from which it is deduced.
 
-[^9]: De officio Christi triplici.* Opuscula theologica (1773; ed. sec. 1793) pp. 371-396.
+[^9]: *De officio Christi triplici.* Opuscula theologica (1773; ed. sec. 1793) pp. 371-396.
 
-[^10]: Geschichte der protestantischen Dogmatik*, Bd. iv. p. 621.
+[^10]: *Geschichte der protestantischen Dogmatik*, Bd. iv. p. 621.
 
 [^11]: In connexion with this proposition, it is affirmed yet again that the high-priestly value of Christ's active obedience lies in the fact that God regards us in Christ as sharers of His obedience. But this mode of formulating the doctrine also is incorrect, and made it possible to append the totally erroneous exposition of the high-priestly value of the passive obedience.
 
@@ -156,23 +156,23 @@ Schweizer, with justice, condemns the undervaluing of Abelard's doctrine as comp
 
 [^14]: The specific influence which Schleiermacher's *Glaubenslehre* exercised upon D. F. Strauss, I assume as well known. A singular evidence of the fact is the circumstance that even Braniss (*Ueber Schleiermacher's Glaubenslehre; ein kritischer Versuch*, 1824, p. 147 *sq.*) developed from Schleiermacher's philosophical premisses the same speculative view which Strauss subsequently took up, in order to show that the former do not harmonize with the christological tendency of the *Glaubenslehre*. In like manner it is in accordance with Schleiermacherian ideas, aided in some degree by the formulæ of Hegel, that Kliefoth (*Einleitung in die Dogmengeschichte*, 1839, pp. 20, 21) shows how Christian doctrine and Ethic arise as the common work and possession of the fellowship of believers, how in that way they no longer pertain to the individual, but have come to be objective historical things (!); how by Church government and Church legislation they come to be creed and law, to which the individual consciousness ought to subject itself in order to mould itself thereupon; how the Church-organism that thus comes into being has its *purpose* in the Christian culture of the individual; its *goal* and its *norm* in creed and law; how accordingly, in the outward existence of the Church, the unity of the Christian spirit gives itself reality. This deduction accords only with the definition of Dogmatics, as the exhibition of the doctrine of the Church,—a view set up by Schleiermacher, and never before maintained by any one. On the other hand, the view of the Church's development-process as a progressive incarnation of God (p. 14) is suggested in the *Glaubenslehre*, sec. 100, 2; sec. 120, 2. Kliefoth's agreement with Möhler on this point is also not casual, in so far as the latter's treatise *Ueber die Einheit in der Kirche* (1825) adheres as closely to the Schleiermacherian formulæ as it foreshadows Kliefoth's view of thought. That people do not yet discern in Kliefoth's *Einleitung in die Dogmengeschichte* a counterpart of equal greatness to Strauss's *Leben Jesu*, which preceded it by only a few years, is a fault that I should like by these remarks to remedy.
 
-[^15]: Die Glaubenslehre der evangelisch-protestantischen Kirche*, 1834.
+[^15]: *Die Glaubenslehre der evangelisch-protestantischen Kirche*, 1834.
 
 [^16]: In the *Studien der evangelischen Geistlichkeit Württembergs*, edited by him (vii. 2, viii. 1, 2, 1834-35); published as a separate work in 1836. It is a reconstruction of his earlier work: *Die Lehre von der Versöhnung und der Rechtfertigung des Menschen. Ein philosophisch-exegetischer Versuch*, 1823.
 
 [^17]: Nitzsch: *System der christlichen Lehre*, 1828, 6th Ed. 1851. Lücke: *Grundriss der evangelischen Dogmatik* (printed for private circulation), 1845. The respect for Schleiermacher, which is kept up in this and cognate circles, is not carried so far as to entitle these theologians to the name of Schleiermacherians. On the other hand, I do not think I do them any injustice, I believe I merely vindicate their rights, when I designate them as Melanchthonians. Melanchthon is regarded by them as the theologian who was at once churchly, and at the same time dogmatically liberal and friendly to union; and the Augsburg Confession is to them at once a church standard, and the fundamental type of their dogma (compare a very characteristic utterance by Nitzsch in the *Stud. u. Krit.*, 1833, p. 929). Just as in the sixteenth century, Lutheranism has risen up over this Melanchthonianism,—and for this the latter is not altogether to be absolved from blame. For it has not made itself master of the central tasks of theology, but has allowed its problems to be set for it by its adversaries for the most part. It has spent its chief strength in polemics, particularly against the *Leben Jesu* of Strauss, and has failed to see the danger of a Lutheranism like that of Kliefoth. With all its valuable “studies and criticisms” it has never associated the purpose or the power to make a school; it has invariably refused to hold science as high as churchliness, and thus has paved the way for that churchliness on the high places of which but slight regard is paid to the “Mediation Theology.”
 
-[^18]: Eine protestantische Beantwortung der Symbolik Möhler's*, 1835.
+[^18]: *Eine protestantische Beantwortung der Symbolik Möhler's*, 1835.
 
-[^19]: Programma de summis principiis confessionis Augustanae*, 1830. The definition of justification in this tract runs as follows (Nitzsch: *System*, p. 138): Est igitur justificatio beneficium Dei quo homines miseriae peccati obnoxii *eum naturae statum* consequuntur, ut a Deo probari (pro justis haberi) et gratiam Dei aeternamque salutem *merito Christi* capessere possint. This is not Catholic; neither is it Osiandrian; it is primarily a misuse of the technical *usus loquendi*. For if the state of grace is determined by Christ's merit, the *justificatio* which is indicated as its previous condition means what the old divines called *regeneratio*, but in this instance not merely as *donatio fidei*, but as real life-fellowship with Christ. This view, as we shall see later, is one that had been anticipated in the early pietistic school.
+[^19]: *Programma de summis principiis confessionis Augustanae*, 1830. The definition of justification in this tract runs as follows (Nitzsch: *System*, p. 138): Est igitur justificatio beneficium Dei quo homines miseriae peccati obnoxii *eum naturae statum* consequuntur, ut a Deo probari (pro justis haberi) et gratiam Dei aeternamque salutem *merito Christi* capessere possint. This is not Catholic; neither is it Osiandrian; it is primarily a misuse of the technical *usus loquendi*. For if the state of grace is determined by Christ's merit, the *justificatio* which is indicated as its previous condition means what the old divines called *regeneratio*, but in this instance not merely as *donatio fidei*, but as real life-fellowship with Christ. This view, as we shall see later, is one that had been anticipated in the early pietistic school.
 
-[^20]: Theologische Ethik*, Zweiter Band, 1845, p. 279 *sq.* The new edition of the work, which was interrupted by the death of the author, presents in the two first volumes changes of view; but in the third volume edited by Holzmann there is no new elaboration of the doctrine of redemption; the text of the first edition is merely reproduced.
+[^20]: *Theologische Ethik*, Zweiter Band, 1845, p. 279 *sq.* The new edition of the work, which was interrupted by the death of the author, presents in the two first volumes changes of view; but in the third volume edited by Holzmann there is no new elaboration of the doctrine of redemption; the text of the first edition is merely reproduced.
 
 [^21]: For which Rothe finds support in Ebrard (as above, p. 303); he might have given his treatment of the subject greater weight by appealing to Kant! (See above, p. 413.)
 
-[^22]: Theologie*, 2 Bände. 1851.
+[^22]: *Theologie*, 2 Bände. 1851.
 
-[^23]: Christl. Glaubenslehre nach protestantischen Grundsätzen.* First part of the second volume (1869), comp. p. 190.
+[^23]: *Christl. Glaubenslehre nach protestantischen Grundsätzen.* First part of the second volume (1869), comp. p. 190.
 
 [^24]: As above, vol. i. 360 *sqq.*
 

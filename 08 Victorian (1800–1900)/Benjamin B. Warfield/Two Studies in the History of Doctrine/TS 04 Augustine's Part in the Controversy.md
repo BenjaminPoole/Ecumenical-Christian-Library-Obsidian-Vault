@@ -281,13 +281,13 @@ Although the great preacher of grace was taken away by death before the completi
 
 [^1]: Compare his work written this year, *On Several Questions to Simplicianus*. For the development of Augustine's theology, see the admirable statement in Neander's *Church History*, E. T., ii. 625 sq.
 
-[^2]: On the Proceedings of Pelagius*, 46.
+[^2]: *On the Proceedings of Pelagius*, 46.
 
-[^3]: On the Merits and Remission of Sins*, iii. 12.
+[^3]: *On the Merits and Remission of Sins*, iii. 12.
 
-[^4]: Epistle* 157, 22.
+[^4]: *Epistle* 157, 22.
 
-[^5]: On the Proceedings of Pelagius*, 46.
+[^5]: *On the Proceedings of Pelagius*, 46.
 
 [^6]: Sermon 176, 2.
 
@@ -297,21 +297,21 @@ Although the great preacher of grace was taken away by death before the completi
 
 [^9]: Flavius Marcellinus was a Christian man of high character and devout mind. Honorius mentions him as a " man of conspicuous renown," in a law enacted August 30th, 414 (*Cod. Theod.* xvi., 5, line 55). He was appointed by Honorius to preside over the commission of inquiry into the disputes between the Catholics and Donatists in 411, and held the famous conference between the parties that met in Carthage on the 1st, 3d, and 8th of June, 411. He discharged this whole business with singular patience, moderation, and good judgment; which appears to have cemented the intimate friendship between him and Augustine. Augustine's treatise on *The Spirit and Letter* is also addressed to him, and the *City of God* was undertaken on his suggestion. He was put to death in September, 413, "having, though innocent, fallen a victim to the cruel hatred of the tyrant Heraclius," as Jerome writes in his book iii. against the Pelagians.
 
-[^10]: On the Merits and Remission of Sins*, iii. 1.
+[^10]: *On the Merits and Remission of Sins*, iii. 1.
 
-[^11]: Ibid.* i. 1. Compare *Epistle* 139.
+[^11]: *Ibid.* i. 1. Compare *Epistle* 139.
 
 [^12]: On the prominence of infant baptism in the controversy, and why it was so, see *Sermon* 165, 7 sq. " What do you say? 'Just this,' he says, 'that God creates every man immortal.' Why, then, do infant children die? For if I say, 'Why do adult men die?' you would say to me, 'They have sinned.' Therefore I do not argue about the adults: I cite infancy as a witness against you," and so on, eloquently developing the argument.
 
-[^13]: On the Merits and Remission of Sins*, iii. 1.
+[^13]: *On the Merits and Remission of Sins*, iii. 1.
 
-[^14]: Letter*, 139, 3.
+[^14]: *Letter*, 139, 3.
 
-[^15]: Letter*, 140.
+[^15]: *Letter*, 140.
 
 [^16]: See chaps. i and 5.
 
-[^17]: Sermon* 163 treats the text similarly.
+[^17]: *Sermon* 163 treats the text similarly.
 
 [^18]: See this prayer beautifully illustrated from Scripture in *On the Merits and Remission of Sins*, ii. 5.
 
@@ -319,49 +319,49 @@ Although the great preacher of grace was taken away by death before the completi
 
 [^20]: As quoted above, p. 18.
 
-[^21]: Epistle* 146. See *On the Proceedings of Pelagius*, 50, 51, 52.
+[^21]: *Epistle* 146. See *On the Proceedings of Pelagius*, 50, 51, 52.
 
-[^22]: Epistle* 149. See especially 18 sq.
+[^22]: *Epistle* 149. See especially 18 sq.
 
-[^23]: Ibid.* 121.
+[^23]: *Ibid.* 121.
 
-[^24]: Sermon* 293.
+[^24]: *Sermon* 293.
 
-[^25]: Sermon* 176, 2.
+[^25]: *Sermon* 176, 2.
 
 [^26]: The inscription says, "V Calendas Julii," i.e., June 27. But it also says, "*In natalis martyris Guddentis*," whose day appears to have been July 18. Some of the martyrologies assign the 28th of June to Gaudentius (which some copies read here), but possibly none to Guddene.
 
-[^27]: Sermon* 294.
+[^27]: *Sermon* 294.
 
 [^28]: The passage is quoted at length in *On the Merits and Remission of Sins*, iii. 10. Compare *Against Two Letters of the Pelagians* iv. 23.
 
-[^29]: Epistle* 157, 22.
+[^29]: *Epistle* 157, 22.
 
-[^30]: Epistle* 156 among Augustine's *Letters*.
+[^30]: *Epistle* 156 among Augustine's *Letters*.
 
-[^31]: Epistle* 157, 22.
+[^31]: *Epistle* 157, 22.
 
-[^32]: Epistles* 177, 6; and 179, 2.
+[^32]: *Epistles* 177, 6; and 179, 2.
 
-[^33]: Epistle* 168. *On the Proceedings of Pelagius*, 48.
+[^33]: *Epistle* 168. *On the Proceedings of Pelagius*, 48.
 
-[^34]: On the Proceedings of Pelagius*, 47; and *Epistle* 186, 1.
+[^34]: *On the Proceedings of Pelagius*, 47; and *Epistle* 186, 1.
 
 [^35]: Compare *On Nature and Grace*, 7; and *Epistle* 186, 1.
 
-[^36]: Epistle* 169, 13.
+[^36]: *Epistle* 169, 13.
 
-[^37]: On Nature and Grace*, 1; Sallust's *Jugurtha*, prologue.
+[^37]: *On Nature and Grace*, 1; Sallust's *Jugurtha*, prologue.
 
 [^38]: For Augustine's press of work just now, see *Epistle* 169, 1 and 13.
 
 [^39]: The argument occurs in Pelagius' *Commentary on Paul*, written before 410, and is already before Augustine in *On the Merits and Forgiveness of Sins*, etc., iii. 5.
 
-[^40]: Epistle* 166.
+[^40]: *Epistle* 166.
 
 [^41]: An almost contemporary letter to Oceanus (*Epistle* 180, written in 416) adverts to the same subject and in the same spirit, showing how much it was in Augustine's thoughts. Compare *Epistle* 180, 2 and 5.
 
-[^42]: Epistle* 172.
+[^42]: *Epistle* 172.
 
 [^43]: See *On the Perfection of Man's Righteousness*, i.
 
@@ -371,23 +371,23 @@ Although the great preacher of grace was taken away by death before the completi
 
 [^46]: Compare the similar words in *Epistle* 177, 3, which was written, not only after what had occurred in Palestine was known, but also after the condemnatory decisions of the African synods.
 
-[^47]: Epistles* 175 and 176 in Augustine's *Letters*.
+[^47]: *Epistles* 175 and 176 in Augustine's *Letters*.
 
-[^48]: Epistle* 177. The other bishops were Aurelius, Alypius, Evodius, and Possidius.
+[^48]: *Epistle* 177. The other bishops were Aurelius, Alypius, Evodius, and Possidius.
 
-[^49]: Epistle* 178.
+[^49]: *Epistle* 178.
 
-[^50]: Epistle* 179.
+[^50]: *Epistle* 179.
 
 [^51]: See *The Nicene and Post-Nicene Fathers*, New York ed., vol. i., p. 459, and the references there given. Compare Canon Robertson's vivid account of them in his *History of the Christian Church*, ii. 18, 145.
 
-[^52]: Epistle* 188.
+[^52]: *Epistle* 188.
 
 [^53]: Compare *On the Grace of Christ*, 40. In the succeeding sections. some of its statements are examined.
 
-[^54]: Epistles* 181, 182, 183, among Augustine's *Letters*.
+[^54]: *Epistles* 181, 182, 183, among Augustine's *Letters*.
 
-[^55]: Epistle* 186, written conjointly with Alypius.
+[^55]: *Epistle* 186, written conjointly with Alypius.
 
 [^56]: The book given him by Timasius and James, to which *On Nature and Grace* is a reply.
 
@@ -395,51 +395,51 @@ Although the great preacher of grace was taken away by death before the completi
 
 [^58]: The book addressed to Dardanus, in which the Pelagians are confuted, but not named, belongs about at this time. Compare *Retractations*, ii. 49.
 
-[^59]: Sermon* 131, preached at Carthage.
+[^59]: *Sermon* 131, preached at Carthage.
 
-[^60]: On the Grace of Christ*, 2.
+[^60]: *On the Grace of Christ*, 2.
 
 [^61]: The so-called *Confession of Faith* sent to Innocent after the Synod of Diospolis, which, however, arrived after Innocent's death.
 
-[^62]: On Original Sin*, i.
+[^62]: *On Original Sin*, i.
 
-[^63]: Ibid.* 5.
+[^63]: *Ibid.* 5.
 
-[^64]: On the Grace of Christ*, 55.
+[^64]: *On the Grace of Christ*, 55.
 
-[^65]: On the Gift of Perseverance*, 55.
+[^65]: *On the Gift of Perseverance*, 55.
 
 [^66]: Compare below. Neander, in the second volume (E. T.) of his *History of the Christian Church*, discusses the matter in a very fair spirit.
 
-[^67]: Sermon 26.*
+[^67]: *Sermon 26.*
 
-[^68]: Epistle* 190.
+[^68]: *Epistle* 190.
 
 [^69]: See *Epistle* 194, i.
 
-[^70]: Ibid.* 191, i.
+[^70]: *Ibid.* 191, i.
 
-[^71]: Epistle* 191.
+[^71]: *Epistle* 191.
 
-[^72]: Ibid.* 194.
+[^72]: *Ibid.* 194.
 
 [^73]: It appears to have been first reported to Augustine by Marius Mercator, in a letter received at Carthage. See *Epistle* 193, 3.
 
 [^74]: As, for example, in *On the Merits and Remission of Sins*, etc., i.
 
-[^75]: Epistle* 193.
+[^75]: *Epistle* 193.
 
 [^76]: Compare *On Dulcitius' Eight Questions*, 3.
 
 [^77]: That is, *On the Merits and Remission of Sins*, etc., ii. 30 sq.
 
-[^78]: Epistle* 196.
+[^78]: *Epistle* 196.
 
-[^79]: On Marriage and Concupiscence*, i. 2.
+[^79]: *On Marriage and Concupiscence*, i. 2.
 
 [^80]: Compare the Benedictine Preface to *The Unfinished Work*.
 
-[^81]: Epistle* 202, *bis.* Compare *Epistle* 190.
+[^81]: *Epistle* 202, *bis.* Compare *Epistle* 190.
 
 [^82]: This able and learned man was much the most formidable of the Pelagian writers. He was a son of a dear friend of Augustine and was himself much loved by him. He became a "lector" in 404, and was ordained bishop by Innocent I. about 417. Under Zosimus' vacillating policy he took strong ground on the Pelagian side, and, refusing to sign Zosimus' *Tractoria*, was exiled with his seventeen fellow-recusants, and passed his long life in vain endeavours to obtain recognition for the Pelagian party. His writings included two letters to Zosimus, a *Confession of Faith*, the two letters answered in *Against Two Letters of the Pelagians* (though he seems to have repudiated the former of these), and two large books against Augustine, the first of which was his four books against the first book of *On Marriage and Concupiscence*, in reply to extracts from which the second book of that treatise was written, whilst Augustine's *Against Julian*, in six books, traverses the whole work. To this second book Julian replied in a rejoinder addressed to Florus, and consisting of eight books. Augustine's *Unfinished Work* is a reply to this. Julian's character was as noble as his energy was great and his pen acute. He stands out among his fellow-Pelagians as the sufferer for conscience' sake. A full account of his works may be read in the Benedictine Preface to Augustine's *Unfinished Work*, with which may be compared the article on him in Smith and Wace's *Dictionary of Christian Biography*.
 
@@ -461,31 +461,31 @@ Although the great preacher of grace was taken away by death before the completi
 
 [^91]: See vol. iii. of *The Post-Nicene Library*, pp. 237 sq.
 
-[^92]: Retractations*, lib. ii. c. 63.
+[^92]: *Retractations*, lib. ii. c. 63.
 
 [^93]: Now a portion of Tunis.
 
-[^94]: Epistle* 194.
+[^94]: *Epistle* 194.
 
-[^95]: Epistle* 214.
+[^95]: *Epistle* 214.
 
-[^96]: Epistle* 215, 2 sq.
+[^96]: *Epistle* 215, 2 sq.
 
-[^97]: Epistle* 216.
+[^97]: *Epistle* 216.
 
-[^98]: On Rebuke and Grace*, i.
+[^98]: *On Rebuke and Grace*, i.
 
-[^99]: Retractations*, ii. 67. Compare *On Rebuke and Grace*, 5 sq.
+[^99]: *Retractations*, ii. 67. Compare *On Rebuke and Grace*, 5 sq.
 
 [^100]: On the importance of this treatise for Augustine's doctrine of predestination, see Wiggers' *Augustinianism and Pelagianism*, E. T. p. 236, where a sketch of the history of this doctrine in Augustine's writings may be found.
 
 [^101]: Epistle 217.
 
-[^102]: Epistle* 224.
+[^102]: *Epistle* 224.
 
 [^103]: Compare *Epistles* 225, i, and 156. It is, of course, not certain that this is the same Hilary that wrote to Augustine from Sicily, but it seems probable.
 
-[^104]: Letters* 225, and 226.
+[^104]: *Letters* 225, and 226.
 
 
 ---

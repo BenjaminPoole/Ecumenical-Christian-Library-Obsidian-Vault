@@ -74,7 +74,7 @@ If now the outline of the four named faculties has been drawn fairly correctly, 
 
 [^2]: In the translation this review of the history of Theologic Encyclopedia, occupying in the original 432 pages, has been omitted.
 
-[^3]: The Science of the Logos*, by Dr. J. Woltjer, 1891.
+[^3]: *The Science of the Logos*, by Dr. J. Woltjer, 1891.
 
 
 ---

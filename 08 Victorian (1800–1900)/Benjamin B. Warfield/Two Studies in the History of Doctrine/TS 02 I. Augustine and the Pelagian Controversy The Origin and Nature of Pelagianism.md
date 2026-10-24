@@ -35,57 +35,57 @@ In defending their theory, as we are told by Augustine, there were five claims t
 
 The teachings of the Pelagians, it will be readily seen, easily welded themselves into a system, the essential and formative elements of which were entirely new in the Christian Church. It was this startlingly new reading of man's condition, powers, and dependence for salvation that broke like a thunderbolt upon the Western Church at the opening of the fifth century, and forced her to reconsider, from the foundations, her whole teaching as to man and his salvation.
 
-[^1]: On the Merits and Remission of Sins*, iii. 6, 11, 12; *Against Two Letters of the Pelagians*, iv. 32; *Against Julian*, i. 4; *On Heresies*, 88; and often elsewhere. Jerome found *roots* for the theory in Origen and Rufinus (Letter 133, 3), but this is a different matter: compare Augustine, *On Original Sin*, 25.
+[^1]: *On the Merits and Remission of Sins*, iii. 6, 11, 12; *Against Two Letters of the Pelagians*, iv. 32; *Against Julian*, i. 4; *On Heresies*, 88; and often elsewhere. Jerome found *roots* for the theory in Origen and Rufinus (Letter 133, 3), but this is a different matter: compare Augustine, *On Original Sin*, 25.
 
 [^2]: Preface to Book iv. of his work on Jeremiah.
 
-[^3]: Latin Christianity*, i. 166, note 2.
+[^3]: *Latin Christianity*, i. 166, note 2.
 
-[^4]: Trois Prem. Siècles*, ii. 375.
+[^4]: *Trois Prem. Siècles*, ii. 375.
 
-[^5]: De Natura Deorum*, iii. 36.
+[^5]: *De Natura Deorum*, iii. 36.
 
-[^6]: History of the Councils of the Church* (E. T.), ii. 446, note 3.
+[^6]: *History of the Councils of the Church* (E. T.), ii. 446, note 3.
 
 [^7]: Compare the excellent statement in Thomasius' *Dogmengeschichte*, i. 483.
 
-[^8]: On the Proceedings of Pelagius*, 46; *On the Merits and Remission of Sins*, iii. 1; *Epistle* 186, etc.
+[^8]: *On the Proceedings of Pelagius*, 46; *On the Merits and Remission of Sins*, iii. 1; *Epistle* 186, etc.
 
-[^9]: On Nature and Grace*, i.
+[^9]: *On Nature and Grace*, i.
 
-[^10]: Epistle to Demetrias*, 16.
+[^10]: *Epistle to Demetrias*, 16.
 
-[^11]: Do.* 2 and 19.
+[^11]: *Do.* 2 and 19.
 
-[^12]: On the Gift of Perseverance*, 53.
+[^12]: *On the Gift of Perseverance*, 53.
 
-[^13]: On Nature and Grace*, 49.
+[^13]: *On Nature and Grace*, 49.
 
-[^14]: On the Gift of Perseverance*, 4; *Against Two Letters of the Pelagians*, iii. 24; iv. 2 sq.
+[^14]: *On the Gift of Perseverance*, 4; *Against Two Letters of the Pelagians*, iii. 24; iv. 2 sq.
 
-[^15]: On the Spirit and Letter*, 4; *On Nature and Grace*, 53; *On the Proceedings of Pelagius*, 20, 22, 38; *On the Grace of Christ*, 2, 3, 8, 31, 42, 45; *Against Two Letters of the Pelagians*, iv. 11; *On Grace and Free Will*, 23-26, and often.
+[^15]: *On the Spirit and Letter*, 4; *On Nature and Grace*, 53; *On the Proceedings of Pelagius*, 20, 22, 38; *On the Grace of Christ*, 2, 3, 8, 31, 42, 45; *Against Two Letters of the Pelagians*, iv. 11; *On Grace and Free Will*, 23-26, and often.
 
-[^16]: On Original Sin*, 14.
+[^16]: *On Original Sin*, 14.
 
-[^17]: Ibid.*
+[^17]: *Ibid.*
 
-[^18]: Ibid.*
+[^18]: *Ibid.*
 
-[^19]: The Unfinished Work*, iii. 82.
+[^19]: *The Unfinished Work*, iii. 82.
 
-[^20]: Do.* i. 91; compare *do.* i. 48, 60; ii. 20. "There is nothing of sin in man, if there is nothing of his own will." "There is no original sin in infants at all."
+[^20]: *Do.* i. 91; compare *do.* i. 48, 60; ii. 20. "There is nothing of sin in man, if there is nothing of his own will." "There is no original sin in infants at all."
 
-[^21]: On Original Sin*, 30.
+[^21]: *On Original Sin*, 30.
 
-[^22]: On the Grace of Christ*, 43.
+[^22]: *On the Grace of Christ*, 43.
 
-[^23]: The Unfinished Work*, i. 91; compare 69.
+[^23]: *The Unfinished Work*, i. 91; compare 69.
 
 [^24]: Dr. Matheson finely says (*Expositor*, i. ix. 21), "There is the same difference between the Christian and Pagan idea of prayer as there is between the Christian and Pagan idea of sin. Paganism knows nothing of sin, it knows only sins: it has no conception of the principle of evil, it comprehends only a succession of sinful acts." This is Pelagianism too.
 
 [^25]: Compare Schaff, *Church History*, iii. 804; and Thomasius, *Dogmengeschichte*, i. 487-8.
 
-[^26]: Against Two Letters of the Pelagians*, iii. 25, and iv. at the beginning.
+[^26]: *Against Two Letters of the Pelagians*, iii. 25, and iv. at the beginning.
 
 [^27]: This belongs to the earlier Pelagianism; Julian was ready to admit that death came from Adam, but not that sin did.
 

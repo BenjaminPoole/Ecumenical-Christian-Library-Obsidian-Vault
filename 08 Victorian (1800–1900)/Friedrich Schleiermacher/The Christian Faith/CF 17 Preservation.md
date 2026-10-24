@@ -88,7 +88,7 @@ Secondly, it was supremely important here to show the harmony between the intere
 
 [^1]: Quenstedt, *Syst. theol.*, p. 761: . . . ita ut idem effectus non a solo Deo nec a sola creatura, sed unâ eâdemque efficientiâ totali simul a Deo et creatura producatur . . . actum dico (*sc.* concursum Dei) non praevium actioni causae secundae nec subsequentem . . . sed talis est actus, qui intime in ipsa actione creaturae includitur, imo eadem actio creaturae est.—*Ibid.* p. 782: Non est re ipsa alia actio influxus Dei, alia operatio creaturae, sed una et indivisibilis actio utrumque respiciens et ab utraque pendens, a Deo ut causa universali, a creatura ut particulari.
 
-[^2]: E.g.* Morus, i. p. 306: limites non definiuntur quousque operatur sol, agricola, et ubi incipiat Deus . . . adjuvando et limitando efficit Deus, ut fiat consilium suum.
+[^2]: *E.g.* Morus, i. p. 306: limites non definiuntur quousque operatur sol, agricola, et ubi incipiat Deus . . . adjuvando et limitando efficit Deus, ut fiat consilium suum.
 
 [^3]: Quenst., *l.c.*: Observandum quod Deus non solum vim agendi dat causis secundis et etiam conservat, sed quod immediate influit in actionem et effectum creaturae.
 

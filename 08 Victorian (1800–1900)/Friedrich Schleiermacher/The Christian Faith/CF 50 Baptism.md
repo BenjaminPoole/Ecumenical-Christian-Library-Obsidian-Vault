@@ -92,13 +92,13 @@ Still, we cannot affirm the necessary character of a baptism thus divided into t
 
 [^21]: See § 108.
 
-[^22]: Heidelb. Catech.*, Quest. 69–72.
+[^22]: *Heidelb. Catech.*, Quest. 69–72.
 
 [^23]: Zwingli, *de ver. relig.*, p. 200: Nam hac ratione libertas divini spiritus alligata esset, qui dividit singulis ut vult.
 
-[^24]: Catech. Rom.* ii. *de bapt.* 58.
+[^24]: *Catech. Rom.* ii. *de bapt.* 58.
 
-[^25]: Expos. simpl.* xx.: Baptismus autem pertinet ad officia ecclesiastica.
+[^25]: *Expos. simpl.* xx.: Baptismus autem pertinet ad officia ecclesiastica.
 
 [^26]: Those referring to regeneration, §§ 107–109.
 

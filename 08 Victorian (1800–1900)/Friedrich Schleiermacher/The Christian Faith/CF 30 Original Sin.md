@@ -68,11 +68,11 @@ Now, while the first appearance of sin in the first pair, due to that original s
 
 [^5]: Cf. *Conf. Belg.* xiv., the two statements: Adeo ut ipsi (homini) tantum exigua illorum (donorum omnium quae a Deo acceperat) vestigia remanserint: and, Nulla enim intelligentia nec voluntas conformis est divinae, nisi quam Christus in illis fuerat operatus.
 
-[^6]: Solid. declar.* ii. p. 656: ita ut in hominis natura post lapsum ante regenerationem ne scintillula quidem spiritualium virium reliqua manserit aut restet, quibus ille ex se ad gratiam Dei praeparare se, aut oblatam gratiam apprehendere aut eius gratiae capax esse possit. This, however, as may be readily discerned, is cancelled (so far at least as it conflicts with our statement) by what follows (p. 771): Hoc Dei verbum etiam nondum ad Deum conversus externis auribus audire aut legere potest. In eiusmodi enim externis rebus homo adhuc aliquo modo liberum arbitrium habet, ut . . . verbum Dei audire vel non audire possit.
+[^6]: *Solid. declar.* ii. p. 656: ita ut in hominis natura post lapsum ante regenerationem ne scintillula quidem spiritualium virium reliqua manserit aut restet, quibus ille ex se ad gratiam Dei praeparare se, aut oblatam gratiam apprehendere aut eius gratiae capax esse possit. This, however, as may be readily discerned, is cancelled (so far at least as it conflicts with our statement) by what follows (p. 771): Hoc Dei verbum etiam nondum ad Deum conversus externis auribus audire aut legere potest. In eiusmodi enim externis rebus homo adhuc aliquo modo liberum arbitrium habet, ut . . . verbum Dei audire vel non audire possit.
 
-[^7]: Solid. declar.*, p. 643: Repudiantur . . . qui docent . . . hominem ex naturali nativitate adhuc aliquid boni . . . reliquum habere, capacitatem videlicet . . . in rebus spiritualibus aliquid inchoandi operandi aut cooperandi.
+[^7]: *Solid. declar.*, p. 643: Repudiantur . . . qui docent . . . hominem ex naturali nativitate adhuc aliquid boni . . . reliquum habere, capacitatem videlicet . . . in rebus spiritualibus aliquid inchoandi operandi aut cooperandi.
 
-[^8]: Enchirid.* xii.: Quamdiu itaque natura corrumpitur inest ei bonum quo privetur . . . quocirca bonum consumere corruptio non potest nisi consumendo naturam.
+[^8]: *Enchirid.* xii.: Quamdiu itaque natura corrumpitur inest ei bonum quo privetur . . . quocirca bonum consumere corruptio non potest nisi consumendo naturam.
 
 [^9]: Matt. 22³⁷⁻³⁹, supplemented by John 13³⁴ and Col. 3²³.
 
@@ -92,17 +92,17 @@ Now, while the first appearance of sin in the first pair, due to that original s
 
 [^17]: Morbus originis. On *morbus* and *vitium*, cf. Cicero, *Tusculanae disputationes*, iv. 13, Ern.
 
-[^18]: Apol. Conf.* i.: Defectus iustitiae originalis et concupiscentia sunt poenae.
+[^18]: *Apol. Conf.* i.: Defectus iustitiae originalis et concupiscentia sunt poenae.
 
 [^19]: Cf. § 15.
 
 [^20]: Cf. § 60, i.
 
-[^21]: Conf. Aug.* ii.; *Apol. Conf.* i.; *Conf. Helv.* viii.; *Conf. Belg.* xv.; *Art. Smalc.* i.
+[^21]: *Conf. Aug.* ii.; *Apol. Conf.* i.; *Conf. Helv.* viii.; *Conf. Belg.* xv.; *Art. Smalc.* i.
 
-[^22]: Conf. Gall.* x.: Nec putamus necesse esse inquirere, quinam possit hoc peccatum ab uno ad alterum propagari.
+[^22]: *Conf. Gall.* x.: Nec putamus necesse esse inquirere, quinam possit hoc peccatum ab uno ad alterum propagari.
 
-[^23]: Conf. Belg.* xiv.: verbis et imposturis diaboli aurem praebens. Cf. Gerh., *Loc. Th.*, t. iv. p. 294 sq.
+[^23]: *Conf. Belg.* xiv.: verbis et imposturis diaboli aurem praebens. Cf. Gerh., *Loc. Th.*, t. iv. p. 294 sq.
 
 [^24]: Augustin., *Enchirid.* 30: Homo libero arbitrio male utens et se perdidit et ipsum.
 
@@ -118,13 +118,13 @@ Now, while the first appearance of sin in the first pair, due to that original s
 
 [^30]: See Gerhard, *Loc. Th.*, t. iv. p. 302.
 
-[^31]: Conf. Helv.* ix.: Post lapsum intellectus obscuratus est, voluntas vero ex libera facta est serva.—*Conf. Belg.* xiv.: Homo se ipsum verbis diaboli aurem praebens . . . a Deo, qui vera ipsius erat vita, penitus avulsit totamque naturam suam corrupit.
+[^31]: *Conf. Helv.* ix.: Post lapsum intellectus obscuratus est, voluntas vero ex libera facta est serva.—*Conf. Belg.* xiv.: Homo se ipsum verbis diaboli aurem praebens . . . a Deo, qui vera ipsius erat vita, penitus avulsit totamque naturam suam corrupit.
 
 [^32]: Cf. § 22.
 
-[^33]: Solid. Decl.* ii., p. 656.
+[^33]: *Solid. Decl.* ii., p. 656.
 
-[^34]: Solid. Decl.*, p. 648: Asserimus id ipsum esse Dei opus, quod homo aliquid cogitare loqui agere operari potest . . . quod vero cogitationes verba facta eius prava sunt . . . hoc originaliter et principaliter est opus Satanae.
+[^34]: *Solid. Decl.*, p. 648: Asserimus id ipsum esse Dei opus, quod homo aliquid cogitare loqui agere operari potest . . . quod vero cogitationes verba facta eius prava sunt . . . hoc originaliter et principaliter est opus Satanae.
 
 [^35]: Reinhard, *Dogm.*, §§ 75–80.
 
@@ -132,7 +132,7 @@ Now, while the first appearance of sin in the first pair, due to that original s
 
 [^37]: Quenstedt, *Syst. Theol.*, p. 913: Tribus autem modis fit peccatum quando persona corrumpit naturam, ut factum ab Adamo et Eva, quando natura corrumpit personam, ut fit in propagatione peccati originis, quando persona corrumpit personam, ut fit in peccatis actualibus.
 
-[^38]: Conf. Aug.* ii.; *Apol. Conf.* i.; *Conf. Helv.* viii.; *Conf. Belg.* xv.; *Art. Smalc.* i., etc.
+[^38]: *Conf. Aug.* ii.; *Apol. Conf.* i.; *Conf. Helv.* viii.; *Conf. Belg.* xv.; *Art. Smalc.* i., etc.
 
 [^39]: 70.
 
@@ -144,7 +144,7 @@ Now, while the first appearance of sin in the first pair, due to that original s
 
 [^43]: 2 Cor. 11³.
 
-[^44]: Ambros.*, in *Rom.* v.: Manifestum in Adam omnes peccasse quasi in massa.—Ex eo igitur cuncti peccatores quia ex ipso omnes sumus.—*Hieron.*, in *Hosea* vi. 7: Et ibi in paradiso omnes praevaricati sunt in me in similitudinem praevaricationis Adam.
+[^44]: *Ambros.*, in *Rom.* v.: Manifestum in Adam omnes peccasse quasi in massa.—Ex eo igitur cuncti peccatores quia ex ipso omnes sumus.—*Hieron.*, in *Hosea* vi. 7: Et ibi in paradiso omnes praevaricati sunt in me in similitudinem praevaricationis Adam.
 
 [^45]: Cf. §§ 60, 61, 68.
 

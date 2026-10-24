@@ -50,9 +50,9 @@ On the other hand, anyone seeking to put forward, as a part of Christian doctrin
 
 [^5]: Aug., *Conf.* 19: Causa peccati est voluntas diaboli et malorum quae . . . avertit se a Deo.
 
-[^6]: Conf. Belg.* xiv.: verbis diaboli aurem praebens.—*Conf. Helv.* viii.: instinctu serpentis et sua culpa.—*Sol. decl.* i.: seductione Satanae iustitia concreata amissa est.
+[^6]: *Conf. Belg.* xiv.: verbis diaboli aurem praebens.—*Conf. Helv.* viii.: instinctu serpentis et sua culpa.—*Sol. decl.* i.: seductione Satanae iustitia concreata amissa est.
 
-[^7]: Conf. Aug.* xvii.: impios autem homines et diabolos condemnabit ut sine fine crucientur.
+[^7]: *Conf. Aug.* xvii.: impios autem homines et diabolos condemnabit ut sine fine crucientur.
 
 [^8]: πονηρός in Matt. 13¹⁹, διάβολος in Luke.
 
@@ -84,7 +84,7 @@ On the other hand, anyone seeking to put forward, as a part of Christian doctrin
 
 [^22]: Cf. Matt. 15¹⁹, Rom. 5¹²⁻¹⁹ 7 7ff., Jas. 1¹².
 
-[^23]: Instit.* i. 14, 17: Quamvis voluntate et conatu semper Deo aversetur tamen nisi annuente et volente Deo nihil facere potest.—Legimus illum se sistere coram Deo nec pergere audere ad facinus, nisi impetrata facultate . . . 18, Deus illi fideles cruciandos tradit, impios gubernandos.
+[^23]: *Instit.* i. 14, 17: Quamvis voluntate et conatu semper Deo aversetur tamen nisi annuente et volente Deo nihil facere potest.—Legimus illum se sistere coram Deo nec pergere audere ad facinus, nisi impetrata facultate . . . 18, Deus illi fideles cruciandos tradit, impios gubernandos.
 
 [^24]: Cf. § 43, 1.
 

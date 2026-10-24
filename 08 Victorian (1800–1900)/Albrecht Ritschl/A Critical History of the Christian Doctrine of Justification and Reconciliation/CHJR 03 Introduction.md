@@ -50,7 +50,7 @@ In the circle of the Greek theology of the middle ages, we certainly find indica
 
 In my historical studies, preparatory to the particular investigation I have in hand, however, I do not occupy myself with such casual and rhetorical formulæ as have not been thought out in an independent manner, even although they should have an appearance of riper development. I take up only those trains of thought which have been actually worked out in a methodical way, and which strive after conclusions which are logically necessary. But such trains of thought have been constructed only by the theologians of the West. The doctrines of reconciliation and justification are precisely those which have found their development exclusively in this portion of the Church. Whereby we may discern—what indeed is a conclusion warranted by everything else—that Western Christianity in general stands on a different *niveau* from that of the East, and that the separation of fellowship between the two groups has not its explanation in politics alone.
 
-[^1]: Der Christliche Glaube*, 3d Ed. § 102.
+[^1]: *Der Christliche Glaube*, 3d Ed. § 102.
 
 [^2]: Eusebius, it is true, had already referred the three types to Christ.—*Hist. Eccl.* i. 3.
 
@@ -58,19 +58,19 @@ In my historical studies, preparatory to the particular investigation I have in 
 
 [^4]: As above, pp. 87-90.
 
-[^5]: Ut supra*, pp. 155, 191-194, 202.
+[^5]: *Ut supra*, pp. 155, 191-194, 202.
 
-[^6]: Ut supra*, p. 209, *et seq.*
+[^6]: *Ut supra*, p. 209, *et seq.*
 
-[^7]: Summa Theol.* P. III. qu. 49, art. 2.
+[^7]: *Summa Theol.* P. III. qu. 49, art. 2.
 
-[^8]: Der Christliche Glaube*, 2d Ed. § 100, 101.
+[^8]: *Der Christliche Glaube*, 2d Ed. § 100, 101.
 
-[^9]: Ut supra*, p. 111.
+[^9]: *Ut supra*, p. 111.
 
-[^10]: Ut supra*, p. 89.
+[^10]: *Ut supra*, p. 89.
 
-[^11]: Ut supra*, p. 117.
+[^11]: *Ut supra*, p. 117.
 
 [^12]: De Trinitate, ii. 24. Humani generis causa Dei filius natus ex virgine est et Spiritu sancto,—ut homo factus ex virgine naturam in se carnis acciperet perque hujus *admixtionis societatem sanctificatum* in eo universi generis humani corpus existeret. Compare Baur, as above, p. 116.
 
@@ -80,7 +80,7 @@ In my historical studies, preparatory to the particular investigation I have in 
 
 [^15]: Περὶ τῆς ὀρθοδόξου πίστεως, iii. 27.
 
-[^16]: Ut supra*, iii. 31.
+[^16]: *Ut supra*, iii. 31.
 
 [^17]: Compare Gass: *Die Mystik des Nikolaos Kabasilas*, p. 77.—Gass (*l.c.*) in agreement with Ullmann (*Die Dogmatik der griechischen Kirche im 12. Jahrhundert.*—*Stud. u. Kr.* 1833, Part 3, p. 736, *seq.*) finds also in Nicolaos of Methone coincidences with the theory of Anselm, which however Ullmann limits to this point, that the necessity of the Incarnation in reference to the atonement is indicated, while the Greek is thinking not of a satisfaction rendered to God, but of a redemption out of the power of death. But this theory has no historical connexion with Anselm, but is derived from the tract (attributed to Athanasius) *De incarnatione Verbi Dei*: compare Baur, p. 94, f.
 

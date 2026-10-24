@@ -33,15 +33,15 @@ That it is not merely the letter of the Lutheran formularies which needs to be t
 
 [^4]: Schaff's *Creeds of Christendom*, iii., pp. 174, 175.
 
-[^5]: Ibid.*, iii., 184.
+[^5]: *Ibid.*, iii., 184.
 
-[^6]: Hist. of Protestant Theology* (E.T.), i., 171.
+[^6]: *Hist. of Protestant Theology* (E.T.), i., 171.
 
-[^7]: Opp.*, xxii., 872 (Dorner's quotation).
+[^7]: *Opp.*, xxii., 872 (Dorner's quotation).
 
-[^8]: Com. in Gen.*, c. 17.
+[^8]: *Com. in Gen.*, c. 17.
 
-[^9]: Christliche Bedenken.*
+[^9]: *Christliche Bedenken.*
 
 [^10]: See for several such' quotations brought together, Laurence, *Bampton Lectures*, 1804, ed. 1820, p. 272. Also Gerhard as in next note.
 
@@ -51,11 +51,11 @@ That it is not merely the letter of the Lutheran formularies which needs to be t
 
 [^13]: Cf. Laurence, *Bampton Lectures*, p. 272.
 
-[^14]: Ibid.*
+[^14]: *Ibid.*
 
 [^15]: This classification is taken from Cotta (Gerhard's *Loci*, ix., 282).
 
-[^16]: Quæst. in cap. vii. Gen.*
+[^16]: *Quæst. in cap. vii. Gen.*
 
 [^17]: See Krauth, *Conservative Reformation*, p. 433.
 
@@ -63,11 +63,11 @@ That it is not merely the letter of the Lutheran formularies which needs to be t
 
 [^19]: Krauth, *l.c.*, p. 429.
 
-[^20]: Ib.*, pp. 561–563.
+[^20]: *Ib.*, pp. 561–563.
 
-[^21]: Ib.*, pp. 430, 437.
+[^21]: *Ib.*, pp. 430, 437.
 
-[^22]: Ib.*, *Infant Salvation in the Calvinistic System*, p. 22.
+[^22]: *Ib.*, *Infant Salvation in the Calvinistic System*, p. 22.
 
 [^23]: Lars Nielsen Dahle, *Life After Death*, etc., translated from the Norse by the Rev. John Beveridge, M.A., B.D. (Edinburgh, 1896), p. 227.
 

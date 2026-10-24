@@ -64,9 +64,9 @@ The fact that the Roman Catholic Church, since the time of the counter Reformati
 
 [^1]: Compare Baur *ut supra*, p. 207.
 
-[^2]: Ueber Princip und Charakter des Lehrbegriffs der reformirten Kirche.*—*Theol. Jahrb.*, 1847, pp. 309–390. "The fundamental principle of Protestantism is the self-consciousness of the subject at peace as regards its eternal welfare" (p. 376).
+[^2]: *Ueber Princip und Charakter des Lehrbegriffs der reformirten Kirche.*—*Theol. Jahrb.*, 1847, pp. 309–390. "The fundamental principle of Protestantism is the self-consciousness of the subject at peace as regards its eternal welfare" (p. 376).
 
-[^3]: Vorlesungen über die kleineren protestantischen Kirchenparteien* (p. 40).
+[^3]: *Vorlesungen über die kleineren protestantischen Kirchenparteien* (p. 40).
 
 [^4]: Compare my *Geschichtl. Studien zur christlichen Lehre von Gott*, Art. I., *Jahrb. f. deutsche Theol.* Bd. x. (1865) pp. 277-318.
 

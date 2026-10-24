@@ -37,111 +37,111 @@ Despite the strong churchly element within the theology of Augustine, the develo
 
 [^2]: It is inexplicable how Professor Allen, in his *Continuity of Christian Thought*, can speak of the Augustinian theology as resting "upon the transcendence of Deity as its controlling principle" (p. 3), which is explained as "a tacit assumption of deism" (p. 171). A. Dorner (*Augustinus: sein theologisches System*, etc.) also finds deistic implications in certain elements of Augustine's thought. Any tendency to error in Augustine's conception of God lay, however, in precisely the opposite direction. Compare Aubrey Moore, *Lux Mundi*, p. 83, and Levi L. Paine, *The New World*, December, 1895 (iv. 670-673).
 
-[^3]: On Rebuke and Grace*, 27, 28.
+[^3]: *On Rebuke and Grace*, 27, 28.
 
-[^4]: Ibid.*, 29, 31, sq.
+[^4]: *Ibid.*, 29, 31, sq.
 
-[^5]: Ibid.*, 28.
+[^5]: *Ibid.*, 28.
 
-[^6]: On the City of God*, xiii. 2, 12, 14; *On the Trinity*, iv. 13.
+[^6]: *On the City of God*, xiii. 2, 12, 14; *On the Trinity*, iv. 13.
 
-[^7]: On the Merits and Remission of Sins*, i. 15, and often.
+[^7]: *On the Merits and Remission of Sins*, i. 15, and often.
 
-[^8]: Against Two Letters of the Pelagians*, iv. 7; *On the Merits and Forgiveness of Sins*, iii. 14, 15.
+[^8]: *Against Two Letters of the Pelagians*, iv. 7; *On the Merits and Forgiveness of Sins*, iii. 14, 15.
 
-[^9]: On Marriage andConcupiscence*, ii. 57; *On the City of God*, xiv. 1.
+[^9]: *On Marriage andConcupiscence*, ii. 57; *On the City of God*, xiv. 1.
 
-[^10]: Against Two Letters of the Pelagians*, iv. 7.
+[^10]: *Against Two Letters of the Pelagians*, iv. 7.
 
-[^11]: On Original Sin*, 42; *On Marriage and Concupiscence*, ii. 15.
+[^11]: *On Original Sin*, 42; *On Marriage and Concupiscence*, ii. 15.
 
-[^12]: Retractations*, ii. 24.
+[^12]: *Retractations*, ii. 24.
 
-[^13]: Against Julian*, iv. 3, 25, 26. Compare Thomasius' *Dogmengeschichte*, i. 501 and 507.
+[^13]: *Against Julian*, iv. 3, 25, 26. Compare Thomasius' *Dogmengeschichte*, i. 501 and 507.
 
-[^14]: On the Spirit and Letter*, 58.
+[^14]: *On the Spirit and Letter*, 58.
 
-[^15]: On the Merits and Forgiveness of Sins*, ii. 30.
+[^15]: *On the Merits and Forgiveness of Sins*, ii. 30.
 
-[^16]: On Rebuke and Grace*, 11.
+[^16]: *On Rebuke and Grace*, 11.
 
-[^17]: On the Grace of Christ*, 4 sq.
+[^17]: *On the Grace of Christ*, 4 sq.
 
-[^18]: On the Predestination of the Saints*, 10.
+[^18]: *On the Predestination of the Saints*, 10.
 
-[^19]: Against Two Letters of the Pelagians*, i. 5; *Epistle* 215, 4 and often.
+[^19]: *Against Two Letters of the Pelagians*, i. 5; *Epistle* 215, 4 and often.
 
-[^20]: Against Two Letters of the Pelagians*, i. 7; compare i. 5, 6.
+[^20]: *Against Two Letters of the Pelagians*, i. 7; compare i. 5, 6.
 
-[^21]: Sermon* 26.
+[^21]: *Sermon* 26.
 
-[^22]: On Nature and Grace*, 62; *On the Grace of Christ*, 13; *On Rebuke and Grace*, 2 sq.
+[^22]: *On Nature and Grace*, 62; *On the Grace of Christ*, 13; *On Rebuke and Grace*, 2 sq.
 
-[^23]: On the Spirit and Letter*, 52; *On Grace and Free Will*, 1 sq.
+[^23]: *On the Spirit and Letter*, 52; *On Grace and Free Will*, 1 sq.
 
-[^24]: On the Spirit and Letter*, 60, and often.
+[^24]: *On the Spirit and Letter*, 60, and often.
 
-[^25]: On Nature and Grace*, 4, and often.
+[^25]: *On Nature and Grace*, 4, and often.
 
-[^26]: On the Grace of Christ*, 27, and often.
+[^26]: *On the Grace of Christ*, 27, and often.
 
-[^27]: Ibid.*, 34, and often.
+[^27]: *Ibid.*, 34, and often.
 
-[^28]: On Grace and Free Will*, 21.
+[^28]: *On Grace and Free Will*, 21.
 
-[^29]: Ibid.*, 30, and often.
+[^29]: *Ibid.*, 30, and often.
 
-[^30]: On the Gift of Perseverance*, 16; *Against Two Letters of the Pelagians*, ii. 15.
+[^30]: *On the Gift of Perseverance*, 16; *Against Two Letters of the Pelagians*, ii. 15.
 
-[^31]: Epistle to Optatus*, 190.
+[^31]: *Epistle to Optatus*, 190.
 
-[^32]: On the Predestination of the Saints*, 17, 18.
+[^32]: *On the Predestination of the Saints*, 17, 18.
 
-[^33]: On Grace and Free Will*, 33, and often.
+[^33]: *On Grace and Free Will*, 33, and often.
 
-[^34]: On Grace and Free Will*, 17; *On the Proceedings of Pelagius*, 34, and often.
+[^34]: *On Grace and Free Will*, 17; *On the Proceedings of Pelagius*, 34, and often.
 
 [^35]: Compare Thomasius' *Dogmengeschichte*, i. 510.
 
-[^36]: On Rebuke and Grace*, 40, 45; *On the Predestination of the Saints*, 13.
+[^36]: *On Rebuke and Grace*, 40, 45; *On the Predestination of the Saints*, 13.
 
-[^37]: On Rebuke and Grace*, 40.
+[^37]: *On Rebuke and Grace*, 40.
 
-[^38]: On the Gift of Perseverance*, 56.
+[^38]: *On the Gift of Perseverance*, 56.
 
-[^39]: On the Predestination of the Saints*, 36 sq.
+[^39]: *On the Predestination of the Saints*, 36 sq.
 
-[^40]: On the Gift of Perseverance*, 41 sq., 47.
+[^40]: *On the Gift of Perseverance*, 41 sq., 47.
 
-[^41]: On Rebuke and Grace*, 39; compare 14.
+[^41]: *On Rebuke and Grace*, 39; compare 14.
 
-[^42]: On the Gift of Perseverance*, 29; *Against Two Letters of the Pelagians*, ii. 9 sq.
+[^42]: *On the Gift of Perseverance*, 29; *Against Two Letters of the Pelagians*, ii. 9 sq.
 
 [^43]: Says Harnack (*Dogmengeschichte*, iii. 90): "In conflict with Manicheanism and Donatism, Augustine acquired a doctrine of freedom, of the Church and of the means of grace which has little in common with his experience of sin and grace, and is in open strife with the theological development of this experience (doctrine of predestinational grace). It is possible even to draw out a double theology of Augustine, an Ecclesiastics and a Doctrine of Grace, and to present the whole in both."
 
-[^44]: On Rebuke and Grace*, 1.
+[^44]: *On Rebuke and Grace*, 1.
 
-[^45]: On the Predestination of the Saints*, 17, 18; if the gospel is not preached at any given place, it is proof that God has no elect there.
+[^45]: *On the Predestination of the Saints*, 17, 18; if the gospel is not preached at any given place, it is proof that God has no elect there.
 
-[^46]: On the Merits and Forgiveness of Sins*, etc., ii. 37.
+[^46]: *On the Merits and Forgiveness of Sins*, etc., ii. 37.
 
-[^47]: On Rebuke and Grace*, 23.
+[^47]: *On Rebuke and Grace*, 23.
 
-[^48]: Ibid.*, 20.
+[^48]: *Ibid.*, 20.
 
-[^49]: On the Soul and its Origin*, i. 11; ii. 17.
+[^49]: *On the Soul and its Origin*, i. 11; ii. 17.
 
-[^50]: On the Merits and Forgiveness of Sins*, etc., ii. 46.
+[^50]: *On the Merits and Forgiveness of Sins*, etc., ii. 46.
 
 [^51]: On Augustine's teaching as to baptism, see Rev. James Field Spalding's *The Teaching and Influence of Augustine*, pp. 39 sq.
 
 [^52]: This is shown in the accompanying essay on *The Development of the Doctrine of Infant Salvation*.
 
-[^53]: On the Soul and its Origin*, iv. 14.
+[^53]: *On the Soul and its Origin*, iv. 14.
 
-[^54]: On the Merits and Forgiveness of Sins*, etc., ii. 59.
+[^54]: *On the Merits and Forgiveness of Sins*, etc., ii. 59.
 
-[^55]: Ibid.*, i. 29.
+[^55]: *Ibid.*, i. 29.
 
 [^56]: Compare *On the Spirit and the Letter*, 63.
 

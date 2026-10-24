@@ -119,11 +119,11 @@ The Roman Catholic Church, adhering to the doctrinal decisions of the Council of
 
 [^5]: Lib. i. dist. 17, qu. 3, § 25. Saltem principalius in merito est a Deo. Respondeo; si principalius dicatur ultimum completivum, concedatur; si vero dicatur prima realitas sive perfectior realitas, negetur, quia actus est absolutum quid et prius natura ista acceptatione divina, et magis ens ea.
 
-[^6]: Epitoma et collectorium circa quatuor sententiarum libros.* Lugduni, 1514.
+[^6]: *Epitoma et collectorium circa quatuor sententiarum libros.* Lugduni, 1514.
 
-[^7]: Bernardi Tractatus de erroribus Abaelardi* (Opp. ed. Mabillon, Paris, 1690, vol. i. p. 655), cap. viii. 20: Ubi reconciliatio, ibi remissio peccatorum. Et quid ipsa, nisi justificatio? Sivi igitur reconciliatio, sive remissio peccatorum, sive justificatio sit, sive etiam redemtio, intercedente morte unigeniti obtinemus, justificati gratis in sanguine ipsius. *In Cantica*, sermo xxii. 6 (*l. c.* p. 1336): Christus est factus nobis sapientia, justitia, sanctificatio, redemtio. Sapientia in prædicatione, justitia in absolutione peccatorum, sanctificatio in conversatione, quam habuit cum peccatoribus, redemtio in passione.
+[^7]: *Bernardi Tractatus de erroribus Abaelardi* (Opp. ed. Mabillon, Paris, 1690, vol. i. p. 655), cap. viii. 20: Ubi reconciliatio, ibi remissio peccatorum. Et quid ipsa, nisi justificatio? Sivi igitur reconciliatio, sive remissio peccatorum, sive justificatio sit, sive etiam redemtio, intercedente morte unigeniti obtinemus, justificati gratis in sanguine ipsius. *In Cantica*, sermo xxii. 6 (*l. c.* p. 1336): Christus est factus nobis sapientia, justitia, sanctificatio, redemtio. Sapientia in prædicatione, justitia in absolutione peccatorum, sanctificatio in conversatione, quam habuit cum peccatoribus, redemtio in passione.
 
-[^8]: De error. Abael.* cap. vi. 16: Alius, qui peccatorem constituit, alius, qui justificat a peccato; alter in semine, alter in sanguine. . . . Sicut enim in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur. Si infectus ex illo originali concupiscantia, etiam Christi gratia spirituali perfusus sum. Quid mihi plus imputatur de prævaricatore? si generatio, regenerationem oppono. . . . Sane pervenit delictum ad me, sed pervenit et gratia. . . . Terrena nativitas perdit me, et non multo magis generatio cœlestis conservat me? Nec vereor sic erutus de potestate tenebrarum repelli a patre luminum, justificatus gratis in sanguine filii ejus. Nempe ipse, qui justificat, quis est, qui condemnat? Non condemnabit justum, qui misertus est peccatori. Justum me dixerim, sed illius justitia. Quæ ergo mihi justitia facta est, mea non est? Si mea traducta culpa, cur non et mea indulta justitia?
+[^8]: *De error. Abael.* cap. vi. 16: Alius, qui peccatorem constituit, alius, qui justificat a peccato; alter in semine, alter in sanguine. . . . Sicut enim in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur. Si infectus ex illo originali concupiscantia, etiam Christi gratia spirituali perfusus sum. Quid mihi plus imputatur de prævaricatore? si generatio, regenerationem oppono. . . . Sane pervenit delictum ad me, sed pervenit et gratia. . . . Terrena nativitas perdit me, et non multo magis generatio cœlestis conservat me? Nec vereor sic erutus de potestate tenebrarum repelli a patre luminum, justificatus gratis in sanguine filii ejus. Nempe ipse, qui justificat, quis est, qui condemnat? Non condemnabit justum, qui misertus est peccatori. Justum me dixerim, sed illius justitia. Quæ ergo mihi justitia facta est, mea non est? Si mea traducta culpa, cur non et mea indulta justitia?
 
 [^9]: This qualifies the similar assertion made by Melanchthon,—*Apol. Conf. Aug.* p. 99. Antonius, Bernhardus, Dominicus, Franciscus et alii sancti patres elegerunt certum vitæ genus, vel propter studium vel propter alia utilia exercitia. Interim sentiebant se fide propter Christum justos reputari et habere propitium Deum, non propter illa propria exercitia. Yet just this last statement finds its warrant in the following exposition.
 
@@ -139,17 +139,17 @@ The Roman Catholic Church, adhering to the doctrinal decisions of the Council of
 
 [^15]: In Cantica, sermo 43. 3: Pro acervo meritorum, quæ mihi deesse sciebam, hunc mihi fasciculum colligare volui collectum ex omnibus anxietatibus et amaritudinibus Domini mei.—Sermo 61. 3: Ubi tuta firmaque infirmis securitas et requies nisi in vulneribus salvatoris?
 
-[^16]: Franciscus von Assisi. Ein Heiligenbild.* 1856. See particularly p. 109, and following pages.
+[^16]: *Franciscus von Assisi. Ein Heiligenbild.* 1856. See particularly p. 109, and following pages.
 
-[^17]: Francisci Assisiatis et Antonii Paduani Opera, ed. de la Haye.* Pedeponti 1739. Colloquium 4 (p. 71): In veritate dico vobis, domine episcope, nullum tantum mihi concessisse honorem, sicut tu hodie. Alii sanctum, alii beatum me in Dei operibus proclamant, mihi, non Deo, honorem et gloriam tribuentes; sed tu hodie pro tua sapientia vere me honorasti, Deo, quæ sua sunt, laudem et gloriam tribuens; pretiosum a vili separasti, Deo sapientiam et virtutem, mihi inscitiam et vilitatem appropriasti.—Coll. 11 (p. 73): Videor, ait, mihi maximus peccatorum. Cui cum frater diceret ex adverso: Hoc non potes, pater, sana conscientia dicere nec sentire, subjunxit: Si quantumcunque sceleratum hominem tanta fuisset Christus misericordia prosecutus, arbitror sane, quod multo, quam ego, Deo gratior esset.
+[^17]: *Francisci Assisiatis et Antonii Paduani Opera, ed. de la Haye.* Pedeponti 1739. Colloquium 4 (p. 71): In veritate dico vobis, domine episcope, nullum tantum mihi concessisse honorem, sicut tu hodie. Alii sanctum, alii beatum me in Dei operibus proclamant, mihi, non Deo, honorem et gloriam tribuentes; sed tu hodie pro tua sapientia vere me honorasti, Deo, quæ sua sunt, laudem et gloriam tribuens; pretiosum a vili separasti, Deo sapientiam et virtutem, mihi inscitiam et vilitatem appropriasti.—Coll. 11 (p. 73): Videor, ait, mihi maximus peccatorum. Cui cum frater diceret ex adverso: Hoc non potes, pater, sana conscientia dicere nec sentire, subjunxit: Si quantumcunque sceleratum hominem tanta fuisset Christus misericordia prosecutus, arbitror sane, quod multo, quam ego, Deo gratior esset.
 
 [^18]: In the edition of his works cited above, Sermones dominicales et de tempore, pag. 2: Sanguis Christi clamat misericordiam. Securum, o homo, habes accessum ad Deum, ubi habes matrem ante filium, et filium ante patrem. Mater ostendit filio pectus et ubera, filius ostendit patri latus et vulnera. Nulla ergo ibi erit repulsa, ubi tot caritatis occurrunt insignia. Pag. 18:—Vere humilis non elevatur, cum de bonæ vitæ odore laudatur, verus (inquit Bernhardus) humilis vult vilis haberi et non humilis prædicari.
 
 [^19]: Charles Schmidt: *Études sur le mysticisme allemand au xiv. siècle* (Paris 1847), pp. 142, 143. See Tauler's *Sermons* (Augsburg, 1508), fol. 85: “ Worth never proceeds from man's works or merits, but solely from the grace and merit of our Lord Jesus Christ, flowing at the same time from God.” —Fol. 124: “ Lord, I am not worthy that thou shouldst come under my roof into my heart; but I come to that privilege through thy inexhaustible mercy, and the rich treasures of thy worthy merit. If I stand in need of repentance, love, and grace, I find it all in Thee, where virtue, desire, or longing and goodness are to be found.”
 
-[^20]: Reformatoren vor der Reformation.* II. Band. (1842) p. 253.
+[^20]: *Reformatoren vor der Reformation.* II. Band. (1842) p. 253.
 
-[^21]: e.g.* Weingarten: *Revolutionskirchen Englands*, p. 2.
+[^21]: *e.g.* Weingarten: *Revolutionskirchen Englands*, p. 2.
 
 [^22]: In Luther's preface to the complete edition of that work published in 1518. In Walch's edition xiv. p. 204, the date 1516 is wrongly given. That is the date of the shorter preface, along with which Luther at first published only a portion of the book, under the title, “The Old and the New Man—what they are.” This preface is to be found in Walch, p. 207. Compare the preface, pp. x. xi. in Pfeiffer's edition of the *Theologie deutsch.* (2d Ed. 1855). As for the above-mentioned declaration of Luther, considered in itself, we must distinguish between two different ways of learning from books—learning by appropriation, and learning by suggestion. As Luther did not appropriate the peculiar circle of thought developed in this book, his interest in it must be referred to the stimulus he derived from it.
 
@@ -159,41 +159,41 @@ The Roman Catholic Church, adhering to the doctrinal decisions of the Council of
 
 [^25]: Compare C. L. Wilibald. Grimm, *De Joanne Staupitio, ejusque in sacrorum instaurationem merito.* In Illgen's *Zeitschrift f. histor. Theol.* 1837. Perhaps his predecessor in office as Vicar of the Augustinian order for Gemany, Andreas Proles, had some influence upon him.
 
-[^26]: Staupitii Opera, ed Knaake,* vol. i. pp. 106, 118.
+[^26]: *Staupitii Opera, ed Knaake,* vol. i. pp. 106, 118.
 
-[^27]: De prædestinationis exsecutione,* in Christopher Scheurl's translation; Sec. 34, 35, 36, as above, p. 145.
+[^27]: *De prædestinationis exsecutione,* in Christopher Scheurl's translation; Sec. 34, 35, 36, as above, p. 145.
 
 [^28]: Sec. 38, 40, 43, 52, as above, pp. 146-150.
 
 [^29]: I naturally refrain from laying stress here upon the tractate of Staupitz, *Von dem heiligen rechten christlichen Glauben.* For it was published in 1525, after his death (ob. 28 Dec. 1524), and bears unmistakeable traces of Luther's influence in the mode of apprehending the ideas of faith and of justification or redemption in Christ, as also in the inferior position given to the sacrament of penance in comparison with faith; although it was composed by Staupitz when he was Abbot of Saint Peter's, in Salzburg, whither he had withdrawn in order to continue at peace with the authorities of the Roman Catholic Church.
 
-[^30]: Reformatoren vor der Reformation,* ii. p. 659.
+[^30]: *Reformatoren vor der Reformation,* ii. p. 659.
 
-[^31]: De magnitudine passionis,* cap. 7. *Opera,* Amstelod. 1617. I may remark that Wessel was a nominalist in metaphysics indeed, but not in theology. As a theologian, moreover, he makes use not of the scholastic, but of the rhetorical form, which is well adapted to his tendency to a brilliant use of figures. It is of course impossible to attain to any fixed theological ideas by such a method, still Wessel also in this respect follows in the track of the realist tendencies of the Catholic doctrine.
+[^31]: *De magnitudine passionis,* cap. 7. *Opera,* Amstelod. 1617. I may remark that Wessel was a nominalist in metaphysics indeed, but not in theology. As a theologian, moreover, he makes use not of the scholastic, but of the rhetorical form, which is well adapted to his tendency to a brilliant use of figures. It is of course impossible to attain to any fixed theological ideas by such a method, still Wessel also in this respect follows in the track of the realist tendencies of the Catholic doctrine.
 
 [^32]: As above, i. p. 90.
 
 [^33]: As above, i. pp. 324, 325.
 
-[^34]: Girolamo Savonarola* (1836), pp. 215, 269-281.
+[^34]: *Girolamo Savonarola* (1836), pp. 215, 269-281.
 
 [^35]: It must be conceded that Savonarola also gives expression to the religious estimate of self, after the manner of Bernard, in his exposition of the 51st Psalm, which was recommended by Luther: “Quot justi, tot miserationes. Nullus gloriari potest in semetipso. Veniant omnes justi et interrogemus eos coram Deo, an sua virtute salvi facti sint? Certe omnes respondebunt, Non nobis, Domine, sed nomini tuo da gloriam.”
 
-[^36]: Herzog's Realencyklopädie,* xviii. p. 100.
+[^36]: *Herzog's Realencyklopädie,* xviii. p. 100.
 
-[^37]: Geschichte der böhmischen Reformation*, p. 388.
+[^37]: *Geschichte der böhmischen Reformation*, p. 388.
 
-[^38]: Hymni ecclesiastici, præsertim qui Ambrosiani dicuntur.* In Georg. Cassandri Operibus (Paris, 1616). / p. 177. Ob hoc redemtor quæsumus, / Ut probra nostra diluas, / Vitæ perennis commoda / Nobis benigne conferas.
+[^38]: *Hymni ecclesiastici, præsertim qui Ambrosiani dicuntur.* In Georg. Cassandri Operibus (Paris, 1616). / p. 177. Ob hoc redemtor quæsumus, / Ut probra nostra diluas, / Vitæ perennis commoda / Nobis benigne conferas.
 
 [^39]: Compare Wimpina, Anacephalæosis hæresium ii. 9; Literæ pontificiæ Pauli III., de modo concionandi (by Reginald Poole) in Laemmer's *Die vortridentinisch-katholische Theologie*, p. 163, 168. Compare also *Gerhardi Confessio catholica*, p. 1558, *seq.*,—but with discrimination.
 
 [^40]: The task I am immediately occupied with prevents me from investigating specially this change I have indicated in the Church's tone. Still I have not the slightest doubt that towards the beginning of the sixteenth century one could find, over and above the two theologians that have been named, several other orthodox Catholic divines who also revived the Augustinian tradition in this fashion. Even Erasmus belongs to this class. Accordingly, we must fix in some other way the value of Wessel and of Staupitz than by calling them forerunners of the Reformation, and even Reformers previous to the Reformation. The latter designation, in particular, is altogether to be set aside; for it is untrue. These men reformed nothing either in the doctrine or in the institutions of the Church. But neither ought they as forerunners of the Reformation to be separated from the other Augustinians and realists, to whom they are more closely allied than to the Reformers.
 
-[^41]: De articulis religionis inter Catholicos et Protestantes controversis consultatio ad Ferdinandum I. et Maximilianum II.* (1564.) In his collected Works, pp. 924, 925.
+[^41]: *De articulis religionis inter Catholicos et Protestantes controversis consultatio ad Ferdinandum I. et Maximilianum II.* (1564.) In his collected Works, pp. 924, 925.
 
 [^42]: Compare, for example, *Apologia Conf. Aug.* p. 61. "Scholastici secuti philosophos tantum docent justitiam rationis . . . quod ratio sine Spiritu sancto possit diligere Deum super omnia . . . ad hunc modum docent, homines mereri remissionem peccatorum, faciendo quod in se est," p. 63. "Quod fingunt discrimen inter meritum congrui et meritum condigni, ludunt tantum, ne videantur aperte πελαγιανίζειν. Nam si Deus necessario (!) dat gratiam pro merito congrui, jam non est meritum congrui, sed meritum condigni." This latter remark of Melanchthon at once shows that he has no understanding of the matter, for the Nominalists, in respect of both sorts of merit, deny any sort of necessity so far as God is concerned (p. 91). It is in the adoption ("faithful to the confession") of these unhistorical assumptions, however, that the views of Protestant historians, reviewed above, have their origin, as if mediæval theologians at once separate themselves from the doctrine of the Catholic Church merely in virtue of the fact that they assign no value to *meritum de congruo*, and derive from grace everything that is good in man. Another scientifically inaccurate assertion of Melanchthon—connected with the previous one—is to be found in p. 175: "Adversarii dicunt peccatum ita remitti, quia attritus seu contritus elicit actum dilectionis Dei, per hunc actum *meretur* accipere remissionem peccatorum. . . . Præterea docent confidere, quod remissionem peccatorum consequamur *propter contritionem et dilectionem.*" On the one hand, even *attritio* as *actus informis*, presupposes grace; and, on the other, *contritio*, as being *actus caritate formatus*, presupposes *gratia gratum faciens.* In the progress from the first to the second grade, and even on the second grade itself, the idea of *meritum* is not at all resorted to.
 
-[^43]: Agenda Coloniensis ecclesiæ* (Colon. 1637), p. 108; *Agenda sive Rituale Osnabrugense* (Colon. 1653), p. 171.
+[^43]: *Agenda Coloniensis ecclesiæ* (Colon. 1637), p. 108; *Agenda sive Rituale Osnabrugense* (Colon. 1653), p. 171.
 
 
 ---

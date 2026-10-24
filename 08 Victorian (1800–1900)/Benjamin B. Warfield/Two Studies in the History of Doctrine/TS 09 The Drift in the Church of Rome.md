@@ -31,7 +31,7 @@ Thus, after so many ages, the Pelagian conception of a middle state for infants 
 
 [^2]: Schaff's *Creeds of Christendom*, ii., pp. 120, 123 (Seventh Session, March 3, 1547, Canon iv. on the Sacraments, and Canon v. on Baptism).
 
-[^3]: The Catechism of the Council of Trent, Translated into English; with Notes by* Theodore Alois Buckley, B.A., pp. 150, 174, 175 (Part II., ch. i., *qq.* xvi., xxx., xxxiii.); cf. Streitwolf and Klener, *Libri Symbolici Eccles. Cath.*, tom. i., pp. 249, 274, 276. On the other hand, we are credibly informed that the council was near anathematizing as a Lutheran heresy the proposition that the penalty for original sin is the fire of hell (so Father Paul, *Hist. of the Council of Trent*, c. 2).
+[^3]: *The Catechism of the Council of Trent, Translated into English; with Notes by* Theodore Alois Buckley, B.A., pp. 150, 174, 175 (Part II., ch. i., *qq.* xvi., xxx., xxxiii.); cf. Streitwolf and Klener, *Libri Symbolici Eccles. Cath.*, tom. i., pp. 249, 274, 276. On the other hand, we are credibly informed that the council was near anathematizing as a Lutheran heresy the proposition that the penalty for original sin is the fire of hell (so Father Paul, *Hist. of the Council of Trent*, c. 2).
 
 [^4]: Perrone, *Prælect. Theol. in Compend. Redact.*, i., p. 494.
 
@@ -39,33 +39,33 @@ Thus, after so many ages, the Pelagian conception of a middle state for infants 
 
 [^6]: No. IV., improved ed. New York: Benziger Bros. (1888), p. 309.
 
-[^7]: A Full Catechism of the Catholic Religion*, Fander's transla- tion, revised, etc., by Bishop Lynch, of Charleston. New York: The Catholic Publication Society Co., 1891, p. 248.
+[^7]: *A Full Catechism of the Catholic Religion*, Fander's transla- tion, revised, etc., by Bishop Lynch, of Charleston. New York: The Catholic Publication Society Co., 1891, p. 248.
 
-[^8]: Abridged Course of Religious Instruction*, etc. By the Rev. Father F. X. Schouppe, S. J., new ed., etc. London: Burns & Oates, p. 188.
+[^8]: *Abridged Course of Religious Instruction*, etc. By the Rev. Father F. X. Schouppe, S. J., new ed., etc. London: Burns & Oates, p. 188.
 
-[^9]: The Catechumen*, etc. By J. G. Wenham, Provost of Southwark. 3d ed. London: St. Anselm's Society, 1892, p. 293.
+[^9]: *The Catechumen*, etc. By J. G. Wenham, Provost of Southwark. 3d ed. London: St. Anselm's Society, 1892, p. 293.
 
-[^10]: Ecclesiastical Polity*, v., ch. 60, (ed. Dobson, I. 605.)
+[^10]: *Ecclesiastical Polity*, v., ch. 60, (ed. Dobson, I. 605.)
 
 [^11]: What is meant by this language may be gathered from the following sentences from J. Henry Newman's *Letter Addressed to His Grace the Duke of Norfolk*, on the infallibility of the Pope: "I have employed myself, in illustration, in framing a sentence which would be plain enough to any priest, but I think would perplex any Protestant. I hope it is not too light to introduce here. We will suppose then a theologian to write as follows: 'Holding, as we do, that there is only *material* sin in those who, being *invincibly* ignorant, reject the truth, therefore in charity we hope that they have the future portion of *formal* believers, as considering that by *virtue* of their good faith, though not of the *body* of the faithful, they *implicitly* and *interpretatively* believe what they seem to deny.' What sense would this statement convey to the mind of a member of some Reformation Society or Protestant League? He would read it as follows, and consider it all the more insidious and dangerous for its being so very unintelligible: 'Holding, as we do, that there is only a very considerable sin in those who reject the truth out of contumacious ignorance, therefore in charity we hope that they have the future portion of nominal Christians, as considering, that by the excellence of their living faith, though not in the number of believers, they believe without any hesitation, as interpreters [of Scripture?], what they seem to deny.'" (P. 93.)
 
 [^12]: Thus, *e.g.*, Dominicus de Soto expresses it (*De Natura et Gratia*, ii. 10): "It is most firmly established in the Church that no infant apart from baptism *in re*—since he cannot have it *in voto*—enters the kingdom of heaven." In a more popular form it is put thus (*A Manual of Instruction in Christian Doctrine*, etc., 10th ed. London: St. Anselm's Society. Ed. 3 [1871], p. 282): "Baptism is absolutely necessary to salvation for all infants, at least wherever the Gospel has been promulgated. . . . Children, therefore, who die unbaptized cannot enter into the beatific vision. . . . The case of adults is somewhat different. For them, when the actual reception of the sacrament is impossible, an act of perfect charity, which includes the desire of it, will suffice for salvation. . . . Again, martyrdom, which is the highest act of charity, has always been held to supply the place of baptism." The book bears the imprimaturs of Cardinals Wiseman and Manning.
 
-[^13]: Op. Cit.*, p. 122.
+[^13]: *Op. Cit.*, p. 122.
 
 [^14]: From the theological point of view, Gousset, *Théolog. Dogmat.*, 10th ed., Paris, 1866, i., 548, 549, 351, ii.,382, may be profitably consulted on this whole subject. How it is popularly presented may be gathered from the following editorial remarks from *The Catholic Review*, 42, 25 (December 11–17, 1893): "The truth is that God does not demand what is impossible; the heathen who have not heard of the Gospel will be judged by the light and grace given them. If we, with the Sacraments and the Sacrifice, are so apt to fall into sin, how hard it must be for the pagans to be faithful to natural virtue. Yet some of them, no doubt, have been true to the voice of conscience and are today in heaven. Having the disposition to do right, they had the implied desire for baptism, and St. Thomas says that if actual baptism had been essential for their salvation, the Almighty would have sent an angel from heaven to pour the cleansing water on them. They are few, probably, but few or many, they manifest the mercy of God and show that nowhere was salvation made impossible."
 
-[^15]: London Month*, February, 1893.
+[^15]: *London Month*, February, 1893.
 
 [^16]: In 3 Part. Thomæ, Q. 68, art. 2, et. ii.
 
-[^17]: De bapt. infant.*
+[^17]: *De bapt. infant.*
 
-[^18]: De Remedio . . . pro parentis.*
+[^18]: *De Remedio . . . pro parentis.*
 
-[^19]: Theolog. Moral.*, ii., xi., 3.
+[^19]: *Theolog. Moral.*, ii., xi., 3.
 
-[^20]: Dog.* iii., 2, § i.
+[^20]: *Dog.* iii., 2, § i.
 
 [^21]: De La Marne, *Traité métaphysique des Dogmes de la Trinité*, etc., Paris, 1826.
 
@@ -75,15 +75,15 @@ Thus, after so many ages, the Pelagian conception of a middle state for infants 
 
 [^24]: The Very Rev. William Byrne, D.D., Vicar-General of the Archdiocese of Baltimore, *The Catholic Doctrine of Faith and Morals*, etc., Boston, 1892, pp. 224, 225.
 
-[^25]: Compend.*, 1861, i., 494, No. 585.
+[^25]: *Compend.*, 1861, i., 494, No. 585.
 
-[^26]: Op. cit.*, No. 729.
+[^26]: *Op. cit.*, No. 729.
 
 [^27]: What is possible in the Church of Rome in the way of elevating the idea of hell to that of a paradise may be interestingly investigated by reading the notable discussion on *The Happiness in Hell* by Professor St. George Mivart and others in *The Nineteenth Century* for December, 1892, and January, February, April, September, and December, 1893. Professor Mivart's language is such as this: " Hell in its widest sense—namely, as including all those blameless souls who do not enjoy the Beatific Vision—must be considered as, for them, an abode of happiness transcending all our most vivid anticipations, so that man's natural capacity for happiness is there gratified to the very utmost; nor is it even possible for the Catholic theologian of the most severe and rigid school to deny that, thus considered, there is, and there will for all eternity be, a real and true *happiness in hell*" (Dec. 1892, p. 919). Professor Mivart's articles have been placed on the *Index*, and his language is extreme. But it is language which obviously expresses a widespread conviction among Roman teachers. And, indeed, a hell for "blameless souls" could scarcely be more severe.
 
-[^28]: Compend*, 1861, i., 494, cf. ii., 252.
+[^28]: *Compend*, 1861, i., 494, cf. ii., 252.
 
-[^29]: Ibid.*, 1861, i., 494, No. 590.
+[^29]: *Ibid.*, 1861, i., 494, No. 590.
 
 [^30]: See some of the difficulties very mildly stated in Hurter, *loc. cit.*
 

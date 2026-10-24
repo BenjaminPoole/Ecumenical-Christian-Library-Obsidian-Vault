@@ -23,11 +23,11 @@ A more timid effort was also made in this period to modify the inherited doctrin
 
 [^2]: Hurter, *Theolog. Dogmat. Compend.*, 1878, iii., p. 516: Tract. x., cap. iii., § 729. Wycliffe must be added; but he stands out of the mass.
 
-[^3]: Hell*, iv., 23 *sq.*; *Purgatory*, vii., 25 *sq.*; *Heaven*, xxxii., 76 *sq.* (Plumptre's translation).
+[^3]: *Hell*, iv., 23 *sq.*; *Purgatory*, vii., 25 *sq.*; *Heaven*, xxxii., 76 *sq.* (Plumptre's translation).
 
 [^4]: Cf. Wall, *op. cit.*, p. 371.
 
-[^5]: Sermon, De Nat. Mar. Virg.*, consid. 2, col. 33.
+[^5]: *Sermon, De Nat. Mar. Virg.*, consid. 2, col. 33.
 
 [^6]: In iv., Sect. iv., p. 11.
 

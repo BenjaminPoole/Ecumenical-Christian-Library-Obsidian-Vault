@@ -32,17 +32,17 @@ PRINCETON, June 16, 1898.
 
 [^1]: Jhr. Mr. A. F. de Savornin Lohman in *De Nederlander* of April 1, 1897 (as extracted in the *Gedenkboek*, published in commemoration of the completion of the first twenty-five years of service by Dr. Kuyper as chief-editor of *De Standaard*, Amsterdam, 1897, p. 89).
 
-[^2]: Hollands kirchliches Leben*, Württemberg, 1885.
+[^2]: *Hollands kirchliches Leben*, Württemberg, 1885.
 
 [^3]: It was published as one of the issues of the series entitled *Mannen van Beteekenis in Onze Dagen*, edited by Dr. E. J. Pijzel, and published at Haarlem by H. D. Tjeenk Willink. It is a pamphlet of 72 pages, and appeared in 1889.
 
 [^4]: Issue of April, 1892, Vol. III. pp. 209 *sq.*
 
-[^5]: Evangelisch Reformirte Blaetter aus Oesterreich* (Kuttelberg, Oesterr. Schlesien, 1891; Vol. I. pp. 9 *seq.*).
+[^5]: *Evangelisch Reformirte Blaetter aus Oesterreich* (Kuttelberg, Oesterr. Schlesien, 1891; Vol. I. pp. 9 *seq.*).
 
-[^6]: Confidentie*: Schrijven aan den weled. Heer J. H. van der Linden, door Dr. A. Kuyper (Amsterdam: Höveker en Zoon, 1873). Additional sources of information are given by both Dr. Bavinck and Dr. Klein.
+[^6]: *Confidentie*: Schrijven aan den weled. Heer J. H. van der Linden, door Dr. A. Kuyper (Amsterdam: Höveker en Zoon, 1873). Additional sources of information are given by both Dr. Bavinck and Dr. Klein.
 
-[^7]: Gedenkboek*, etc., as above, p. 68.
+[^7]: *Gedenkboek*, etc., as above, p. 68.
 
 [^8]: In the Preface to the first volume of his *Encyclopaedie* Dr. Kuyper says: "Brought up under the teaching of Scholten and Kuenen, in an entirely different circle of theological ideas, and later not less strongly influenced by the 'Mediating Theology,' the author found rest neither for his heart nor for his mind until his eyes were opened to the depth, the earnestness, and the beauty of the Reformed Confession, which has come to us out of those spiritually rich days when Calvinism was still a world-power, not only in the theological, but also in the social and political, realm."
 

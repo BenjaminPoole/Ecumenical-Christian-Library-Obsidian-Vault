@@ -88,7 +88,7 @@ In this connexion it may appear an enigma (for this does not rest on Christ’s 
 
 [^8]: Cf. 1 Cor. 11²³.
 
-[^9]: Catech. Racov.*, Qu. 334-345. Zwingli is not to be confused with this party. He does call participation in the bread and wine in the Supper merely a thankful remembrance, but at the same time he always assumes a spiritual participation: Cum ad coenam domini cum hac spirituali manducatione venis . . . ac simul cum fratribus panem et vinum, quae jam symbolicum Christi corpus sunt, participas, jam proprie sacramentaliter edis cum scilicet intus idem agis quod foris operaris (*Expos. fid. chr.* Opp. ii. 555).
+[^9]: *Catech. Racov.*, Qu. 334-345. Zwingli is not to be confused with this party. He does call participation in the bread and wine in the Supper merely a thankful remembrance, but at the same time he always assumes a spiritual participation: Cum ad coenam domini cum hac spirituali manducatione venis . . . ac simul cum fratribus panem et vinum, quae jam symbolicum Christi corpus sunt, participas, jam proprie sacramentaliter edis cum scilicet intus idem agis quod foris operaris (*Expos. fid. chr.* Opp. ii. 555).
 
 [^10]: Apparet coenam domini non eo institutam esse ut aliquid illic sumamus (*Catech. Racov.*, Qu. 338).
 
@@ -100,7 +100,7 @@ In this connexion it may appear an enigma (for this does not rest on Christ’s 
 
 [^14]: Cf. § 111.
 
-[^15]: Conf. Saxon.*, p. 173: Monemus etiam ne existiment propter hoc opus . . . remitti peccata, sed ut fiducia intueantur mortem et meritum filii Dei . . . et statuant propter ipsum nobis peccata remitti.
+[^15]: *Conf. Saxon.*, p. 173: Monemus etiam ne existiment propter hoc opus . . . remitti peccata, sed ut fiducia intueantur mortem et meritum filii Dei . . . et statuant propter ipsum nobis peccata remitti.
 
 [^16]: Melanchth., *loc. theol.*: Numerantur haec sacramenta, baptismus, coena domini, absolutio. The same thing is meant by the order of Articles 8–13 in the *Augsburg Confession*. Hence, too, the *Apology* says: Vere igitur sunt sacramenta baptismus, coena domini, absolutio, quae est sacramentum poenitentiae.
 
@@ -114,7 +114,7 @@ In this connexion it may appear an enigma (for this does not rest on Christ’s 
 
 [^21]: Heb. 2¹⁰.¹⁷ 3² 5⁸.
 
-[^22]: Heidelb. Catech.*, Qu. 80; *Artic. Smalc.* ii., *de Missa*; *Expos. simpl.* xxi.
+[^22]: *Heidelb. Catech.*, Qu. 80; *Artic. Smalc.* ii., *de Missa*; *Expos. simpl.* xxi.
 
 [^23]: De vera et falsa relig., p. 194.
 

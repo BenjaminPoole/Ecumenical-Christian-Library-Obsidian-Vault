@@ -252,7 +252,7 @@ If now, in view of the complete untenability of this formula, we inquire what it
 
 [^64]: Matt. 21²⁰, John 15⁹·¹⁰ 17⁴.
 
-[^65]: Expos. simpl.* xvii. p. 50: Ecclesia non potest ullum aliud habere caput quam Christum . . . Nam ut ecclesia corpus est spirituale, ita caput habeat sibi congruens spirituale utique oportet.
+[^65]: *Expos. simpl.* xvii. p. 50: Ecclesia non potest ullum aliud habere caput quam Christum . . . Nam ut ecclesia corpus est spirituale, ita caput habeat sibi congruens spirituale utique oportet.
 
 [^66]: John 1²·³.
 
@@ -264,11 +264,11 @@ If now, in view of the complete untenability of this formula, we inquire what it
 
 [^70]: Rom. 13¹·².
 
-[^71]: Aug. Conf.* xvi.: Quia Evangelium tradit iustitiam aeternam cordis, interim non dissipat politiam aut oeconomiam, sed maxime postulat conservare tanquam ordinationes Dei et in talibus ordinationibus exercere caritatem.
+[^71]: *Aug. Conf.* xvi.: Quia Evangelium tradit iustitiam aeternam cordis, interim non dissipat politiam aut oeconomiam, sed maxime postulat conservare tanquam ordinationes Dei et in talibus ordinationibus exercere caritatem.
 
 [^72]: This is also the basis of the rule of Peter, Acts 1²¹, and of the procedure of the Church as related in Gal. 2⁷·⁹.
 
-[^73]: Expos. simpl.* xxx. p. 91: Si magistratus sit amicus adeoque membrum ecclesiae, utilissimum excellentissimumque membrum est, quod ei permultum prodesse eamque peroptime iuvare potest.
+[^73]: *Expos. simpl.* xxx. p. 91: Si magistratus sit amicus adeoque membrum ecclesiae, utilissimum excellentissimumque membrum est, quod ei permultum prodesse eamque peroptime iuvare potest.
 
 [^74]: 1 Cor. 7²².
 
@@ -276,7 +276,7 @@ If now, in view of the complete untenability of this formula, we inquire what it
 
 [^76]: John 1⁵¹ 4³⁴ 5¹⁷. ²⁰ff.· 6⁵⁷ 8²⁹ 10³⁰. ³⁶, etc. etc.
 
-[^77]: Sol. decl.*, p. 767: divinam suam majestatem pro liberrima voluntate quando et quomodo ipsi visum fuit etiam in statu exinanitionis manifestavit.
+[^77]: *Sol. decl.*, p. 767: divinam suam majestatem pro liberrima voluntate quando et quomodo ipsi visum fuit etiam in statu exinanitionis manifestavit.
 
 [^78]: Phil. 2⁶⁻⁹. None of the other passages cited in this connexion contributes anything to the question.
 

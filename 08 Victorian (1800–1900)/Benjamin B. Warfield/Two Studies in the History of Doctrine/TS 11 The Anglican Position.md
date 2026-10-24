@@ -45,7 +45,7 @@ Naturally many other opinions have found expression in the bosom of this most in
 
 It would seem that on grounds such as these, even the highest churchmanship might find it possible to assert the certain salvation of all the children of Christians, at least, which die unbaptized; and, as has been pointed out on an earlier page,[^35] the considerations thus so judiciously set forth would even appear to open a way for the development, on churchly grounds, of a baptism of intention as applied to infants, which could be extended, without danger to any important interest, to embrace all infants that die in infancy. Nevertheless it has not been on the part of high-churchmen that, in the Church of England, the salvation of infants dying such has been affirmed. This has rather been the part of low-churchmen, like John Newton[^36] and Thomas Scott[^37] and Augustus Toplady,[^38] while high-churchmen have ever shown a tendency to doubt or deny the salvation of those who die without having been " admitted into covenant with God" by baptism. This is the language of *Tract No. 35*[^39] (written by A. C. Percival) of the Oxford *Tracts for the Times*, within which were included also Dr. Pusey's voluminous treatises on baptismal regeneration. These treatises have not failed of their effect, and possibly at no time before the present in the whole history of the Church of England since the first years of its reformation, has there ever been a more widespread tendency to stand simply upon the wording of the rubric at the end of the Baptismal Service, as if it included all ascertainable truth, and to affirm only the certainty of the salvation of those infants dying in infancy which have been baptized. All others, though they be the children of God's recognized children, are, sometimes with a certainly not very easily understood complacency, at the best committed to the " uncovenanted mercies of God,"[^40] at the worst consigned to a place among those who know not God and obey not the Gospel of our Lord Jesus.
 
-[^1]: Reform. Legum;* de Baptismo: “ Illorum etiam videri debet scrupulosa superstitio, qui Dei gratiam et Spiritum Sanctum tanto- pere cum sacramentorum elementis colligant, ut plane affirment, nullum Christianorum infantem salutem esse consecuturum, qui prius morte fuerit occupatus, quam ad Baptismum adduci potuerit: quod longe secus habere judicamus.” This code of laws seems to have been drawn up by a commission with Cranmer at the head of it. It was published by Parker in 1571.
+[^1]: *Reform. Legum;* de Baptismo: “ Illorum etiam videri debet scrupulosa superstitio, qui Dei gratiam et Spiritum Sanctum tanto- pere cum sacramentorum elementis colligant, ut plane affirment, nullum Christianorum infantem salutem esse consecuturum, qui prius morte fuerit occupatus, quam ad Baptismum adduci potuerit: quod longe secus habere judicamus.” This code of laws seems to have been drawn up by a commission with Cranmer at the head of it. It was published by Parker in 1571.
 
 [^2]: “ As seen by us, from the position we now occupy,” says Hardwick (*A History of the Articles of Religion*, etc. Third ed. revised by the Rev. Francis Procter, M.A., etc. London: Bell, 1876, p. 42), “ these articles belong to a transition-period. They embody the ideas of men who were emerging gradually into a different sphere of thought, who could not for the present contemplate the truth they were recovering, either in its harmonies or contrasts, and who conse- quently did not shrink from acquiescing in accommodations and concessions, which to riper understandings might have seemed like the betrayal of a sacred trust.” Dr. Schaff repels Dixon's description (*History of the Reformation*, i., p. 415) of these articles as bearing “ the character of a compromise between the old and the new learning.” “ They are essentially Romish,” he says (*Creeds of Christendom*, i., 611), “ with the Pope left out in the cold;” and he endorses Foxe's characterization of them (which Hardwick deprecates) as intended for “ weakelings, which were newly weyned from their mother's milke of Rome.”
 
@@ -53,17 +53,17 @@ It would seem that on grounds such as these, even the highest churchmanship migh
 
 [^4]: The text may be seen in Bishop Lloyd's *Formularies of Faith in the Reign of Henry VIII.*, p. 1.
 
-[^5]: Ibid.* Cf. Francis Procter, *A History of the Book of Common Prayer*, etc. 15th ed. London and New York: Macmillan & Co., 1881, pp. 384, 385, *note* 1.
+[^5]: *Ibid.* Cf. Francis Procter, *A History of the Book of Common Prayer*, etc. 15th ed. London and New York: Macmillan & Co., 1881, pp. 384, 385, *note* 1.
 
-[^6]: The Two Liturgies, A.D. 1549 and A.D. 1552, etc., edited for the Parker Society, by the Rev.* Joseph Ketley, M.A., etc. (Cambridge, 1844, p. 121).
+[^6]: *The Two Liturgies, A.D. 1549 and A.D. 1552, etc., edited for the Parker Society, by the Rev.* Joseph Ketley, M.A., etc. (Cambridge, 1844, p. 121).
 
-[^7]: Ibid.*, p. 295. The two may be found together in *The Two Books of Common Prayer set forth . . . in the Reign of King Edward the Sixth*, by Edward Cardwell, D.D., etc. (Oxford, 1852, p. 544).
+[^7]: *Ibid.*, p. 295. The two may be found together in *The Two Books of Common Prayer set forth . . . in the Reign of King Edward the Sixth*, by Edward Cardwell, D.D., etc. (Oxford, 1852, p. 544).
 
 [^8]: Observe how even Cardwell speaks of the general spirit of this revision (*A History of Conferences and other Proceedings connected with the Revision of the Book of Common Prayer*, etc. Third ed. Oxford, 1849, pp. 387 *sq.*) and the warning he draws from it (pp. 463 *sq.*): “ Let it be remembered, also, on the part of nonconformists, that whenever objection is made against any expressions as ambiguous or indefinite, other parties, of different and even opposite opinions, will be as ready as they themselves are, to offer amendments. In such a case, the result will probably be that phrases, which had previously afforded a common shelter to both, will be made precise and contracted in accordance with the wishes of the more rigid interpreters. Let it be remembered that if one party complain of a strict adherence to forms and a tendency toward superstition, another party, more compact, more learned, and more resolute, may call for the restoration of prayers and usages which once found a place in the liturgy, and were removed by the fathers of the reformation as too nearly allied to Romanism."'
 
 [^9]: Cardwell, as cited, p. 276.
 
-[^10]: Ibid.*, p. 327.
+[^10]: *Ibid.*, p. 327.
 
 [^11]: Cardwell, as cited, p. 358. The reference to Augustine is to Ep. 98 in the Benedictine enumeration (§ 10). Augustine is discussing the propriety and effect of baptism prior to the exercise of active faith on the part of the recipient, and says: “ During the time in which he is by reason of youth unable to do this, the sacrament will avail for his protection against adverse powers, and will avail so much on his behalf, that if before he arrives at the use of reason he depart from this life, he is delivered by Christian help, namely, by the love of the Church, commending him through the sacrament unto God, from that condemnation which by one man entered into the world. He who does not believe this, and thinks that it is impossible, is assuredly an unbeliever, although he may have received the sacrament of faith; and far before him in merit is the infant which, though not yet possessing a faith helped by the understanding, is not obstructing faith by any antagonism of the understanding, and therefore receives with profit the sacrament of faith" (translation of the Rev. J. G. Cunningham, M.A., in *The Nicene and Post-Nicene Fathers*, first series, vol. i., p. 410).
 
@@ -77,11 +77,11 @@ It would seem that on grounds such as these, even the highest churchmanship migh
 
 [^16]: Cardwell, as cited, pp. 276, 325; cf. 326.
 
-[^17]: Ibid.*, p. 356.
+[^17]: *Ibid.*, p. 356.
 
-[^18]: Op. cit*, pp. 440, 441.
+[^18]: *Op. cit*, pp. 440, 441.
 
-[^19]: Op. cit.*, pp. 70 and 176. Laurence contends that “ the Reformers" intended by the language of the Prayer Book in no way “ to establish any opinion inconsistent with the salvation of infants unbaptized:" “ the very reverse of this is the fact," he thinks. And thus it has become customary to speak. So, *e.g.*, Procter, *Op. cit.*, p. 384, *note* 1: and even Blunt, *The Annotated Book of Common Prayer* (London, 1866), ii., 230, although himself inclining to believe the loss of all infants dying unbaptized. These opinions would seem, however, to be too little determined by historical considerations. See further below.
+[^19]: *Op. cit.*, pp. 70 and 176. Laurence contends that “ the Reformers" intended by the language of the Prayer Book in no way “ to establish any opinion inconsistent with the salvation of infants unbaptized:" “ the very reverse of this is the fact," he thinks. And thus it has become customary to speak. So, *e.g.*, Procter, *Op. cit.*, p. 384, *note* 1: and even Blunt, *The Annotated Book of Common Prayer* (London, 1866), ii., 230, although himself inclining to believe the loss of all infants dying unbaptized. These opinions would seem, however, to be too little determined by historical considerations. See further below.
 
 [^20]: In some cases also his knowledge of historic facts was defective.
 
@@ -89,37 +89,37 @@ It would seem that on grounds such as these, even the highest churchmanship migh
 
 [^22]: A *History of the Book of Common Prayer*, etc., 15th ed. (London and New York, 1881), p. 384, *note* 1.
 
-[^23]: The Annotated Book of Common Prayer*, etc., edited by the Rev. John Henry Blunt, M.A., F.S.A., etc. (London, 1866), ii., 230.
+[^23]: *The Annotated Book of Common Prayer*, etc., edited by the Rev. John Henry Blunt, M.A., F.S.A., etc. (London, 1866), ii., 230.
 
-[^24]: Hist. of Infant Baptism*, ed. 2, 1707, p. 377.
+[^24]: *Hist. of Infant Baptism*, ed. 2, 1707, p. 377.
 
 [^25]: See above, foot-note on p. 174.
 
-[^26]: Creeds of Christendom*, i., p. 642.
+[^26]: *Creeds of Christendom*, i., p. 642.
 
-[^27]: Prayers and Other Pieces by Thomas Becon, S.T.P.*, edited for the Parker Society by the Rev. John Ayre, M.A. (Cambridge, 1844), p. 617.
+[^27]: *Prayers and Other Pieces by Thomas Becon, S.T.P.*, edited for the Parker Society by the Rev. John Ayre, M.A. (Cambridge, 1844), p. 617.
 
-[^28]: The Catechism of Thomas Becon, S T.P.*, etc., edited for the Parker Society by the Rev. John Ayre, M.A. (Cambridge, 1844), pp. 214-225.
+[^28]: *The Catechism of Thomas Becon, S T.P.*, etc., edited for the Parker Society by the Rev. John Ayre, M.A. (Cambridge, 1844), pp. 214-225.
 
-[^29]: An Answer unto My Lord of Winchester's Booke*, etc., 1547, in the Parker Society's *Early Writings of Bishop Hooper*, pp. 129, 131.
+[^29]: *An Answer unto My Lord of Winchester's Booke*, etc., 1547, in the Parker Society's *Early Writings of Bishop Hooper*, pp. 129, 131.
 
 [^30]: " Reprobates are either infants or men of riper age. In reprobate infants the execution of God's decree is this: As soon as they are born, for the guilt of original and natural sin, being left in God's secret judgment unto themselves, they dying are rejected of God forever" (*The Golden Chain*, ch. 53, in *Works*, ed. 1608, i., p. 107). " We are to judge that Infants of believing parents in their infancy dying, are justified" (*How to Live Well*, i., 486).
 
 [^31]: " Some Reprobates dying Infants . . . Being once conceived they are in a state of Death (Rom. 5. 14), by reason of the sin of *Adam* imputed, and of original corruption cleaving to their Nature, wherein also, dying they perish: As (for instance) the Children of Heathen Parents. For touching the Children of Christians, we are taught and account them holy. 1 Cor. 7. 14" (*Body of Divinity*, 4to ed., 1702, p. 165).
 
-[^32]: The Whole Works of*, etc. (London, 1828), vol. ii., p. 258 *sq.*, 289 *sq.*; vol. viii., 150 *sq.*; vol. ix., p. 12 *sq.*, 90 *sq.*, 369 *sq.*
+[^32]: *The Whole Works of*, etc. (London, 1828), vol. ii., p. 258 *sq.*, 289 *sq.*; vol. viii., 150 *sq.*; vol. ix., p. 12 *sq.*, 90 *sq.*, 369 *sq.*
 
 [^33]: “ Either all children must be damned, dying unbaptized, or they must have baptism. . . . The principle in Christian religion is, That children come into the world infected with original sin; and therefore, if there be no remedy against that, provided by God, all children of Christian parents, which St. Paul says are holy, are liable to eternal death without remedy. Now, there is no remedy but Christ; and his death and passion are not communicated to any but by outward signs and sacraments. And no other do we read of but that of water in baptism" (*Course of Divinity*, London, 1674, p. 196).
 
-[^34]: Ecclesiastical Polity*, Book V., § 60. (Dobson's ed, i., 600-607; Keble's ed. ii., 341-347.)
+[^34]: *Ecclesiastical Polity*, Book V., § 60. (Dobson's ed, i., 600-607; Keble's ed. ii., 341-347.)
 
 [^35]: See above, p. 156.
 
-[^36]: Works*, IV., 182: " I cannot be sorry for the death of infants. How many storms do they escape! Nor can I doubt, in my private judgment, that they are included in the election of grace. Perhaps those who die in infancy are the exceeding great multitude of all people, nations, and languages mentioned (Rev. 7:9) in distinction from the visible body of professing believers, who were marked on their foreheads and openly known to. be the Lord's."
+[^36]: *Works*, IV., 182: " I cannot be sorry for the death of infants. How many storms do they escape! Nor can I doubt, in my private judgment, that they are included in the election of grace. Perhaps those who die in infancy are the exceeding great multitude of all people, nations, and languages mentioned (Rev. 7:9) in distinction from the visible body of professing believers, who were marked on their foreheads and openly known to. be the Lord's."
 
-[^37]: The Articles of the Synod of Dort*, etc. (Philadelphia, 1818, p. 189): " The salvation of the offspring of believers dying in infancy is here scripturally stated, and not limited to such as are baptized. Nothing is said of the children of unbelievers dying in infancy, and the Scripture says nothing. But why might not these Calvinists have as favorable a hope of all infants dying before actual sin as anti-Calvinists can have?"
+[^37]: *The Articles of the Synod of Dort*, etc. (Philadelphia, 1818, p. 189): " The salvation of the offspring of believers dying in infancy is here scripturally stated, and not limited to such as are baptized. Nothing is said of the children of unbelievers dying in infancy, and the Scripture says nothing. But why might not these Calvinists have as favorable a hope of all infants dying before actual sin as anti-Calvinists can have?"
 
-[^38]: The Works of*, etc. (new ed., London, 1837, pp. 645, 646): " But you observe . . . that ' With regard to infants, the rubrick declares it is certain by God's word that children which are baptized, dying before they commit actual sin, are undoubtedly saved.' I firmly believe the same; nay, I believe more. I am convinced that the souls of all departed infants whatever, whether baptized or unbaptized, are with God in glory. . . . I believe that in the decree of predestination to life, God hath included all whom he hath decreed to take away in infancy; and that the decree of reprobation has nothing to do with them." So, again, p. 142, *note m*: " No objection can hence arise against the salvation of such as die in infancy (all of whom are undoubtedly saved); nor yet against the salvation of God's elect among the Heathens, Mohametans, and others. The Holy Spirit is able to inspire the grace of actual faith into those hearts (especially at the moment of dissolution) which are incapable of exerting the explicit act of faith."
+[^38]: *The Works of*, etc. (new ed., London, 1837, pp. 645, 646): " But you observe . . . that ' With regard to infants, the rubrick declares it is certain by God's word that children which are baptized, dying before they commit actual sin, are undoubtedly saved.' I firmly believe the same; nay, I believe more. I am convinced that the souls of all departed infants whatever, whether baptized or unbaptized, are with God in glory. . . . I believe that in the decree of predestination to life, God hath included all whom he hath decreed to take away in infancy; and that the decree of reprobation has nothing to do with them." So, again, p. 142, *note m*: " No objection can hence arise against the salvation of such as die in infancy (all of whom are undoubtedly saved); nor yet against the salvation of God's elect among the Heathens, Mohametans, and others. The Holy Spirit is able to inspire the grace of actual faith into those hearts (especially at the moment of dissolution) which are incapable of exerting the explicit act of faith."
 
 [^39]: " The Sacrament of Baptism, by which souls are admitted into covenant with God, and without which none can enter into the kingdom of heaven (John 3:5)" (*Tract No. 35*, p. 1). Cf. the words of *Tract No. 67* which affirms that the relationship of sonship to God is imparted through baptism, and is not imparted without it.
 

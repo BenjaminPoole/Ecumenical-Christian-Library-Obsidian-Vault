@@ -24,7 +24,7 @@ As regards the second condition: Dogmatics would indeed by general consent be pl
 
 The greatest diversities in order and method will, of course, be those which follow from the particular way in which Dogmatics is conceived, and which thus disappear when a different conception of Dogmatics is taken as basis. But there are also lesser diversities among which choice may be exercised even by those who start from the same definition of the subject.
 
-[^1]: Kurze Darstellung*, § 3. [Eng. trans., *Brief Outline of the Study of Theology*, p. 92.]
+[^1]: *Kurze Darstellung*, § 3. [Eng. trans., *Brief Outline of the Study of Theology*, p. 92.]
 
 
 ---

@@ -100,11 +100,11 @@ Under these circumstances, it would cause us no surprise whatever were freedom o
 
 [^1]: Calvin, *Inst.* iii. 14. 21: "Quod praeterea bona fidelium opera scriptura causas esse ostendit, cur illis dominus benefaciat, stat inconcussum, effectum nostrae salutis in dei patris dilectione situm esse, materiam in filii obedientia, instrumentum in spiritus illuminatione. Istis nihil obstat, quominus opera dominus tanquam causas inferiores amplectatur, sed unde id? nempe quos sua misericordia aeternae vitae hereditati destinavit, eos ordinaria sua dispensationae per opera bona inducit in eius possessionem. Quod in ordine dispensationis praecedit, posterioris causam nominat." *Conf. Helv.*, post. 16: "Nos sentimus per opera bona nos servari, illaque ad salutem ita esse necessaria, ut absque illis nemo unquam sit servatus. Gratia enim soliusque Christi beneficio servamur; opera necessario ex fide progignuntur. Ac improprie his salus attribuitur, quae propriissime adscribitur gratiae."
 
-[^2]: Apol. C. A.* iii. 68, 155; *Form. Conc.* 4; *Helv.*, post. 16; *Catech. Pal.* 86.
+[^2]: *Apol. C. A.* iii. 68, 155; *Form. Conc.* 4; *Helv.*, post. 16; *Catech. Pal.* 86.
 
-[^3]: Comparat. Dogmatik*, i. p. 42; cf. *Apol. C. A.* iii. 155, 229, *vide supra* pp. 143, 144. Further, Quenstedt, P. iv. cap. 9, thes. 8, not. 2: "Per bona opera iustificatio nostra quoad nos a posteriori confirmatur." Hollatz, P. iii. sec. 2, cap. 7, qu. 22: "Quicunque legem divinam, quantum in hac vitae infirmitate fieri potest, sincere servat, is fidei suae certus est."
+[^3]: *Comparat. Dogmatik*, i. p. 42; cf. *Apol. C. A.* iii. 155, 229, *vide supra* pp. 143, 144. Further, Quenstedt, P. iv. cap. 9, thes. 8, not. 2: "Per bona opera iustificatio nostra quoad nos a posteriori confirmatur." Hollatz, P. iii. sec. 2, cap. 7, qu. 22: "Quicunque legem divinam, quantum in hac vitae infirmitate fieri potest, sincere servat, is fidei suae certus est."
 
-[^4]: Christliche Glaubenslehre*, ii. 2, p. 135.
+[^4]: *Christliche Glaubenslehre*, ii. 2, p. 135.
 
 [^5]: Köstlin, ii. p. 461.
 
@@ -112,23 +112,23 @@ Under these circumstances, it would cause us no surprise whatever were freedom o
 
 [^7]: Cf. vol. i. pp. 276, 292; *supra*, p. 72.
 
-[^8]: Praelectiones theol.* cap. iii. (B. F. P. i. p. 539): "Imago divina, quam in altero seculo habituri sumus, in eo constituta est, quod omnibus inimicis nostris et morti ipsi atque infero plenissime dominabimur, nec aliquid in deo praestantius est, quam cunctarum rerum dominatus atque imperium."
+[^8]: *Praelectiones theol.* cap. iii. (B. F. P. i. p. 539): "Imago divina, quam in altero seculo habituri sumus, in eo constituta est, quod omnibus inimicis nostris et morti ipsi atque infero plenissime dominabimur, nec aliquid in deo praestantius est, quam cunctarum rerum dominatus atque imperium."
 
 [^9]: Luther, *De libertate christiana*, p. 226, and Melanchthon, *Loci theol.* C. R. xxi. p. 1039, are less clear than Calvin, *Inst.* iii. 19. 4: "Altera forma libertatis est, ut conscientiae, non quasi legis necessitate coactae, legi obsequantur, sed legis ipsius iugo liberae voluntati dei ultro obediant."
 
-[^10]: Form. Conc.*, Epit. vi. 5: "Fructus spiritus sunt opera illa, quae spiritus dei per homines renatos operatur, et quae a credentibus fiunt, quatenus renati sunt, ita quidem sponte ac libere, quasi nullum praeceptum unquam accepissent. Et hoc modo filii dei in lege vivunt, et secundum normam legis divinae vitam suam instituunt." *Sol. decl.* vi. §§ 4, 5: "Justificati in lege divina quotidie exercere se debent, sicut scriptum est: beatus, qui lege domini delectatur et in lege eius meditatur die ac nocte, . . . Lex divina cordibus ipsorum inscripta est."
+[^10]: *Form. Conc.*, Epit. vi. 5: "Fructus spiritus sunt opera illa, quae spiritus dei per homines renatos operatur, et quae a credentibus fiunt, quatenus renati sunt, ita quidem sponte ac libere, quasi nullum praeceptum unquam accepissent. Et hoc modo filii dei in lege vivunt, et secundum normam legis divinae vitam suam instituunt." *Sol. decl.* vi. §§ 4, 5: "Justificati in lege divina quotidie exercere se debent, sicut scriptum est: beatus, qui lege domini delectatur et in lege eius meditatur die ac nocte, . . . Lex divina cordibus ipsorum inscripta est."
 
 [^11]: On this point we have a controversy with Catholicism of the following kind. In the Catholic form of Christianity, the universal Christian morality of the Kingdom of God is realised in monasticism, *i.e.* outside the natural and particular provinces of the family, friendship, fellowship in civic vocation, and the State. The consequence is that the universal morality of Christianity becomes in monasticism a barren or even a pernicious particularism. For it is in the particular, not alongside or outside of it, that the universal finds its realisation,
 
-[^12]: Catech. Racov.* 453: "Iustificatio est, cum nos deus pro iustis habet, quod ea ratione facit, cum nobis et peccata remittit et nos vita aeterna donat."
+[^12]: *Catech. Racov.* 453: "Iustificatio est, cum nos deus pro iustis habet, quod ea ratione facit, cum nobis et peccata remittit et nos vita aeterna donat."
 
-[^13]: Inst.* iii. 19. 4: "Conscientiae legis ipsius iugo liberae voluntati dei ultro obediunt."
+[^13]: *Inst.* iii. 19. 4: "Conscientiae legis ipsius iugo liberae voluntati dei ultro obediunt."
 
-[^14]: Conf. Helv.* post. 16: "Docemus vere bona opera enasci ex fide viva per spiritum sanctum et a fidelibus fieri secundum voluntatem et regulam verbi dei . . . Diximus autem antea, legem dei, quae voluntas dei est, formulam nobis praescribere bonorum operum."
+[^14]: *Conf. Helv.* post. 16: "Docemus vere bona opera enasci ex fide viva per spiritum sanctum et a fidelibus fieri secundum voluntatem et regulam verbi dei . . . Diximus autem antea, legem dei, quae voluntas dei est, formulam nobis praescribere bonorum operum."
 
 [^15]: Ioh. Crell, *Ethices seu doctrinae de moribus prolegomena. Ethica christiana,* B. F. P. tom. iv.
 
-[^16]: Morgenröthe evangelischer Weisheit,* vol. i. p. 789, of the collection of treatises cited vol. i, p. 532 of this work,
+[^16]: *Morgenröthe evangelischer Weisheit,* vol. i. p. 789, of the collection of treatises cited vol. i, p. 532 of this work,
 
 
 ---

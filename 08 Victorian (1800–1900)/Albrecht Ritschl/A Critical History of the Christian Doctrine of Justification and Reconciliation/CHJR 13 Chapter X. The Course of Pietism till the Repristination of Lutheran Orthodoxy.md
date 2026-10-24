@@ -102,9 +102,9 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^1]: Compare Von Engelhardt: *Valentin Ernst Löscher nach seinem Leben und Wirken* (1853), pp. 179, 215.
 
-[^2]: Loc. Theol.* xvii. Ed. Cotta; tom. vii. p. 107 *sq.*
+[^2]: *Loc. Theol.* xvii. Ed. Cotta; tom. vii. p. 107 *sq.*
 
-[^3]: L. c.*, p. 109: Credentes in Christum non solum in genere sciunt præparatam esse electis vitæ æternæ hæreditatem, sed etiam in specie sciunt, sibi eam esse præparatam; illud norunt ex revelatione verbi, hoc vero ex interno Spiritus Sancti testimonio. . . . Utique ergo vere credentes scire *possunt* an sint in fide et an Christus in ipsis habitet.
+[^3]: *L. c.*, p. 109: Credentes in Christum non solum in genere sciunt præparatam esse electis vitæ æternæ hæreditatem, sed etiam in specie sciunt, sibi eam esse præparatam; illud norunt ex revelatione verbi, hoc vero ex interno Spiritus Sancti testimonio. . . . Utique ergo vere credentes scire *possunt* an sint in fide et an Christus in ipsis habitet.
 
 [^4]: Tholuck in Herzog's *Realencyklopädie*, xi. p. 662: “It cannot be said that the new awakening has gone back to the Pietism of Halle or taken colour from it;—rather may we say that it wears the colour of the Moravian Brotherhood, to the influence of which many declared themselves to be indebted for their new life, as also the circles influenced by Schleiermacher retained some sympathies for the Moravians. Yet in certain lineaments it also coincides with the former Pietism of Halle, as, for example, in the strict separation between the world and the children of God, the withdrawal from worldly enjoyment and sociality, not so much from science and art. The new party has had a public organ from the year 1827 in the *Evangelische Kirchenzeitung*. Without looking down with contempt upon the brethren in their conventicle dress, this new Pietism exchanged this garb for the *costume of society*, and Ruge saw himself compelled to distinguish amongst the Pietists the ordinary and the *perfumed.*” I add the remark that the brethren in conventicle dress are those Pietists who associate with the effort after sanctity in their ascetic withdrawal from the world an interest in mystic and theosophic culture.
 
@@ -116,15 +116,15 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^8]: Stier: *Andeutungen für gläubiges Schriftverständniss*, ii. pp. 63, 64, quotes the following passages from one of Lavater's letters (in Pfenninger's *Repertorium*, ii. 1. p. 139): “By the inoculation, if I may so speak, of this new quantum of religiousness and morality, and of physical vital energy, the archæus of the whole race has again attained to such force, impetus, and vigour, that now once more, like a tree laden with glorious fruits, it can again grow up into the skies.—Sin is ignorance and sickness. When the ignorance and *materia peccans* are taken away, wrong and punishment are at an end. All sin is sin by reason of its hurtfulness. If the harm of sin is taken away, then sin is taken away. To forgive sin and to render innocuous sin, which in itself is harmful, or to make good the harm it has done, are one and the same thing. The grace of God is the antidote for the poison of sin. Christ is the antidote of sin, purifier, atonement. To purify and atone for are identical; so are to quicken and to bestow grace.”—Jung-Stilling: *Heimweh* (4ter Theil, in the 5th vol. of the *Sämmtl. Schriften*, p. 68): “The Logos whereby the Infinite One communicates Himself to finite reasonable Being, quickened one organ in this body (of humanity that had lapsed into corruption, death, decay) that yet remained sound, and allied Himself inseparably with it. Of this organ He made a fountain of life, and caused the Spirit of divine love to operate throughout the whole dead mass. But thereby the resistance of the power of death grew more intense, there arose a violent struggle in the body like a high fever; the organ already designated was itself affected by suppuration; but just thereby did it recover and come to be the Head, the life-source of a new moral Person, namely, of the regenerate humanity or the spiritual body of Christ. The Redeemer united that divine spirit of love with His own human spirit, and thus assimilated it with human nature, and made it invincible; brought it about that by His holy living, suffering, dying, and rising again, He overcame the Whole power of death which reigned in the entire body of humanity. Every member that frankly yields itself to the operation of the Spirit of Christ is made whole, and becomes an organ of His body.—Now do I understand the sinner's reconciliation with God. As long as a member in this body corporate continues to derive no vital power from the Head, so long is it sick and an object of loathing in the eyes of God: but according as it is operated on by that Spirit it grows always liker to the Divine nature, and consequently by degrees is reconciled with it.”—Hamann: *Fliegender Brief an Niemand den Kundbaren* (in vol. vii. of Roth's edition of his *Schriften*, p. 117):—“He whose conviction rests upon the word and deed of a Man who as God of the living, and not of the dead, after a triumph of right and might over the most universal law of nature, has brought to light a universal elixir of immortality against the sting of death. and from the carrion and bones of the despot and destroyer has derived meat and sweetness for *nutrimentum spiritus*; in order that peace on earth to the satisfaction of entire humanity might be prepared by the rejection of a wicked and adulterous generation, and the reception of the lost son procured as the latest prelude to the most glorious and most terrible resurrection, and the completion of the universe unto glory in the highest.”
 
-[^9]: Lehre v. d. Sünde u. v. Versöhner*, 3rd ed. (1830), p. 93 *sqq.*
+[^9]: *Lehre v. d. Sünde u. v. Versöhner*, 3rd ed. (1830), p. 93 *sqq.*
 
-[^10]: Andeutungen für gläubiges Schriftverständniss.* 1ste Sammlung (1824), pp. 379-403; 2te Sammlung (1828, otherwise known as *Beiträge zur biblischen Theologie*), pp. 24-116.
+[^10]: *Andeutungen für gläubiges Schriftverständniss.* 1ste Sammlung (1824), pp. 379-403; 2te Sammlung (1828, otherwise known as *Beiträge zur biblischen Theologie*), pp. 24-116.
 
 [^11]: I may add, that Lavater also with all distinctness declares that doctrine to be unbiblical and nonsensical. (*Briefe über die Schriftlehre von unserer Versöhnung mit Gott durch Christum* (1793) in Gessner's edition of his *Nachgelassene Schriften*, vol. ii. p. 84 *sqq*.) Menken's similar view will be noticed afterwards.
 
 [^12]: Baur (p. 668) has entirely ignored this issue of Stier's presentation.
 
-[^13]: Zweite Sammlung*, p. 47 *sq.*
+[^13]: *Zweite Sammlung*, p. 47 *sq.*
 
 [^14]: Compare H. von der Goltz: *Die theologische Bedeutung Bengel’s und seiner Schule* in the *Jahrb. für deutsche Theol.* vi. (1861), p. 460-506. Diestel: *Geschichte des alten Testaments in der christl. Kirche*, 698 *sq.*
 
@@ -140,7 +140,7 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^20]: Compare Auberlen: as above, p. 311.
 
-[^21]: Comparative Dogmatik*, ii. p. 40 *sqq.*
+[^21]: *Comparative Dogmatik*, ii. p. 40 *sqq.*
 
 [^22]: Compare Von Engelhardt: as above, p. 170 *sqq.*, 207 *sqq.*
 
@@ -148,9 +148,9 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^24]: “On the Brazen Serpent and its symbolical reference to the Person and History of Jesus Christ.”
 
-[^25]: Gedanken über Epheser*, 2, 3; in Menken’s *Schriften*, vol. vii. p. 275.
+[^25]: *Gedanken über Epheser*, 2, 3; in Menken’s *Schriften*, vol. vii. p. 275.
 
-[^26]: Anleitung zum eigenen Unterricht in den Wahrheiten der heiligen Schrift*. As above: vol. vi. p. 48 *sqq.*
+[^26]: *Anleitung zum eigenen Unterricht in den Wahrheiten der heiligen Schrift*. As above: vol. vi. p. 48 *sqq.*
 
 [^27]: This idea comes from Dippel and other Mystics, who even affirm that there was actual sin in Christ. Compare *Evangelische Kirchenzeitung* (1838), No. 62. Similar but plainly nonsensical is the view of the sect-founder Edward Irving. Compare *Evang. Kirchenz.* (1837), No. 55.
 
@@ -158,17 +158,17 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^29]: This applies to a criticism passed in the *Evangelische Kirchenzeitung*, 1837-38.—*Geschichtliches aus der Versöhnungs-und Genugthuungslehre*, Art. iii. Without expressed adherence to Menken, his assumption of the sinfulness of Christ's human nature is reproduced, as well as the corresponding doctrine of reconciliation (although with modifications that do not increase its clearness) by Gericke: *Die Wirkungen des Todes Jesu in Beziehung auf seine eigene Person*; in the *Stud. u. Krit.* 1843, p. 261 *sqq.* Compare against him O. F. A. Münchmeyer., *ib.* 1845, p. 319 *sqq.*
 
-[^30]: Christi Person und Werk*; iii. 2. pp. 127-140.
+[^30]: *Christi Person und Werk*; iii. 2. pp. 127-140.
 
 [^31]: Compare Diestel, as above, p. 704.
 
 [^32]: I make use of the first edition of this work (2 parts, 1852-1855). Compare particularly the second part; *1ste Abtheilung*, p. 212 *sqq.*, 332 *sqq.* The modifications of his view which he made in consequence of adverse criticism, and which are incorporated with the second edition (1858), are first stated in the *Schutzschriften für eine neue Weise alte Wahrheit zu lehren*, 1. 2. (1856-7). Compare also *Begründete Abweisung eines nicht begründeten Vorwurfs (Zeitschrift für Protestantismus und Kirche*, 1856, Feb. and March). Upon the controversy compare C. Weizsäcker: *Um was handelt es sich in dem Streite über die Versöhnungslehre?* In the *Jahrb. deutsche Theol.* iii. (1858) pp. 154-188.
 
-[^33]: Herr Dr. von Hofmann gegenüber der lutherischen Versöhnungs- und Rechtfertigungslehre*, p. 47.
+[^33]: *Herr Dr. von Hofmann gegenüber der lutherischen Versöhnungs- und Rechtfertigungslehre*, p. 47.
 
 [^34]: Just as Schleiermacher (p. 481) adopted the idea of satisfaction in the sense that Christ did what was sufficient to procure redemption.
 
-[^35]: Erste Schutzschrift*, pp. 19, 20.
+[^35]: *Erste Schutzschrift*, pp. 19, 20.
 
 [^36]: In the *Zeitschrift für Protestantismus u. Kirche* (1856), p. 188.
 
@@ -180,23 +180,23 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^40]: As above, p. 50 *sqq.*
 
-[^41]: Schriftbeweis*, i. pp. 560, 563.
+[^41]: *Schriftbeweis*, i. pp. 560, 563.
 
-[^42]: Inbegriff der christl. Glaubenslehre*, 1832.
+[^42]: *Inbegriff der christl. Glaubenslehre*, 1832.
 
 [^43]: Gerhard: *Loci theol.* (ed. Cotta) tom. iii. p. 176.—Scriptura ἀνθρωποπαθῶς tantum Deo iram tribuit, notatur enim vindictæ divinæ effectus, non turbulentus Dei affectus.—Ira dupliciter considerari potest (1.) *materialiter*, quo respectu definitur sanguinis aut caloris, qui circa cor est, fervor et ebullitio; (2.) *formaliter*, quo respectu definitur appetitus doloris vicissim adversario inferendi. Neutro autem modo proprie Deo tribui potest ira. Non priore, quia corporalis ista motio in incorporea Dei essentia locum non habet. Non posteriore, quia Deus, utpote immutabilis ἀπαθὴς dolorem aut tristitiam pati nequit, et proinde appetitus doloris vicissim inferendi in eo non habet locum.
 
 [^44]: Compare Philippi (as above, p. 56): "He who takes away from me the atoning blood of the Son of God, paid as a ransom to the wrath of God, who takes away the satisfaction of our Lord and Saviour Jesus Christ, vicariously given to the penal justice of God, who hereby takes away justification or forgiveness of sins only by faith in the merits of this my Surety and Mediator, who takes away the imputation of the righteousness of Jesus Christ, takes away Christianity altogether *so far as I am concerned.* I might then *just as well* have adhered to the religion of my ancestors, the seed of Abraham after the flesh." Who now is the exemplary Christian, Meyer or Philippi?
 
-[^45]: Die christl. Lehrwissenschaft nach den biblischen Urkunden.* Part i. 1841.
+[^45]: *Die christl. Lehrwissenschaft nach den biblischen Urkunden.* Part i. 1841.
 
 [^46]: As above, p. 553: "As condemning sin in the Mediator and rewarding His righteousness, justice in Him organizes itself as the new law of faith in Him, whence again its condemning power passes over all flesh, delivering sin over to death, so that man either dies to it or in it; in the first case receiving the full reward of life in and according to the newly-formed righteousness; in the other case, receiving the full punishment of death in and according to his increasing lawlessness. By both means combined, the Divine justice terminates in the complete organization of a world, freed from all disorder, that mirrors the justice of God."
 
-[^47]: Evangelische Kirchenzeitung*, 1834, 37, 38. Baur's conjecture (as above, p. 679) that Sartorius was its author, has since been denied by that writer (*Lehre von der heiligen Liebe*, ii. p. 70).
+[^47]: *Evangelische Kirchenzeitung*, 1834, 37, 38. Baur's conjecture (as above, p. 679) that Sartorius was its author, has since been denied by that writer (*Lehre von der heiligen Liebe*, ii. p. 70).
 
-[^48]: Das Strafrecht u. die christliche Lehre von der Satisfaction. Zerstreute Blätter aus den Hand-und Hülfsacten eines Juristen.* Part i. (1832) pp. 468-494.
+[^48]: *Das Strafrecht u. die christliche Lehre von der Satisfaction. Zerstreute Blätter aus den Hand-und Hülfsacten eines Juristen.* Part i. (1832) pp. 468-494.
 
-[^49]: Die Lehre von der heiligen Liebe.* Part ii. *Von der versöhnenden Liebe*, 1844. The track of Sartorius is followed more or less plainly by H. Martensen: *Christliche Dogmatik* (1849). From the Danish in 1850. W. F. Gess: *Drei Abhandlungen über die Versöhnung* in the *Jahrb. f. deutsche Theol.* ii., iii., iv., 1857-59. Herm. Plitt: *Evangelische Glaubenslehre nach Schrift u. Erfahrung.* Two vols. 1863-64.
+[^49]: *Die Lehre von der heiligen Liebe.* Part ii. *Von der versöhnenden Liebe*, 1844. The track of Sartorius is followed more or less plainly by H. Martensen: *Christliche Dogmatik* (1849). From the Danish in 1850. W. F. Gess: *Drei Abhandlungen über die Versöhnung* in the *Jahrb. f. deutsche Theol.* ii., iii., iv., 1857-59. Herm. Plitt: *Evangelische Glaubenslehre nach Schrift u. Erfahrung.* Two vols. 1863-64.
 
 [^50]: Here Tieftrunk's distinction comes in (see above, p. 422).
 
@@ -206,19 +206,19 @@ But this destiny, to wit, of revealing the love of God, does not exhaust the val
 
 [^53]: Thomasius: *Christi Person u. Werk*, Part III. Div. i., 1859. Philippi: *Kirchliche Glaubenslehre*, Part IV. sec. ii., 1863.
 
-[^54]: Erste Schutzschrift*, p. 2.
+[^54]: *Erste Schutzschrift*, p. 2.
 
 [^55]: As above, pp. 41, 42. The point to be urged is not so much that Christ has done and suffered what we ought to have done and suffered, but rather that the inviolable supremacy and the unqualified authority of the infinite holiness of God, which had been absolutely negatived by sin, had to be brought to absolute *currency and recognition*.
 
-[^56]: Evangelische Kirchenzeitung*, 1866, Nos. 93, 94 (a paper on the Epistle of James;) 1867, Nos. 23-26 (the woman that was a sinner, Luke vii. 36-50); Nos. 47, 48.
+[^56]: *Evangelische Kirchenzeitung*, 1866, Nos. 93, 94 (a paper on the Epistle of James;) 1867, Nos. 23-26 (the woman that was a sinner, Luke vii. 36-50); Nos. 47, 48.
 
 [^57]: Schneckenburger: *Comparative Dogmatik;* ii. p. 73. Compare above, p. 273, note 1.
 
 [^58]: He says (*Evang. Kirch.* 1867, p. 271): “It is one of the greatest problems of the present time rightly to remedy the mischief which Pietism sought to remedy in a wrong way (*i.e.*, by ranking sanctification before justification); and every attempt in this direction ought, if it spring from an earnest honest spirit and eager study of Holy Scripture, to be received with loving sympathy instead of being repelled with harsh charges of heresy.” This is a correct view of the case, though Hengstenberg had no right to give the closing admonition,—see only, for example, how in his paper on the Epistle of James, at the very time when he is insisting upon the active exercise of love, he vents the most malicious insinuations against the “Mediation-theology.”
 
-[^59]: Die christliche Dogmatik vom Standpunkte des Gewissens aus dargestellt*, vol. ii. Div. ii., 1859.
+[^59]: *Die christliche Dogmatik vom Standpunkte des Gewissens aus dargestellt*, vol. ii. Div. ii., 1859.
 
-[^60]: Die lutherische Dogmatik, historisch-genetisch dargestellt*, vol. iii. (1868), p. 401.
+[^60]: *Die lutherische Dogmatik, historisch-genetisch dargestellt*, vol. iii. (1868), p. 401.
 
 [^61]: See the Article *Versöhnung* in Herzog's *Realencyklopädie*, xvii. (1863) pp. 87-143. Compare his essay *Ueber die christliche Versöhnungslehre*; *Stud. u. Krit.*, 1845, pp. 267-318. In his interpretation of the notion of justification Schöberlein follows the Pietistic schema, and adopts also the view that has been traced in von Meyer and Beck of the correspondence between the penal value of individual repentance and the penal satisfaction of Christ, (*Ueber das Verhältniss der persönlichen Gemeinschaft mit Christo zur Erleuchtung, Rechtfertigung, Heiligung*; *Stud. u. Krit.*, 1847, p. 45 *sq.*)
 

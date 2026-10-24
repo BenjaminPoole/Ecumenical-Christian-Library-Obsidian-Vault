@@ -56,7 +56,7 @@ It is upon the ground of the Hegelian idea of God that Biedermann[^12] opens up 
 
 Baur, in siding with Strauss in his *Geschichte der christlichen Lehre von der Versöhnung*, has declared that he does not thereby intend to assert that the Christology and reconciliation-doctrine of the latter offer the final and in every way satisfactory solution of the problem. He believes, on the other hand, that he has clearly shown how the dogma, by the immanent agitation of its idea, is pushed on from one form to another, until at last the latest theory attaches itself as a new link in the chain of the momenta of its development. In the negative character that attaches to every representation lies, according to him, the impulse to an always advancing progress; the march of the Spirit goes forwards only; and what once has been recognised in its negative character remains for ever a vanquished and eliminated factor. I may now appeal to the delineation of the history of the doctrines of reconciliation and justification, which here closes, to test whether or not this belief in the progress of knowledge in a direct line is one to which we are of necessity driven by facts. At all events, the last link recognised by my predecessor in the history unfolded by him—and that too by a follower of the speculative theology itself—has been so surpassed that an older position has again been taken up.
 
-[^1]: Leben Schleiermacher's*, i. p. 168 *sqq.*
+[^1]: *Leben Schleiermacher's*, i. p. 168 *sqq.*
 
 [^2]: "Lectures on the Method of Academic Study," cf. Lectures, 7, 8, 9.
 
@@ -68,21 +68,21 @@ Baur, in siding with Strauss in his *Geschichte der christlichen Lehre von der V
 
 [^6]: With regard to what follows, compare Strauss: *Charakteristiken u. Kritiken* (the papers on Schleiermacher and Daub), p. 82 *sqq.*
 
-[^7]: Theologumena*, p. 75: Rerum interitus, dum docet, vanam esse ipsarum naturam, quippe quae evanescunt omnes, ea simul valet dignitate et auctoritate ut significet singulas quasque principio illi reconciliatas esse, cui suam, quatenus est divina, debent et acceptam referunt naturam. Principem contra naturæ Dei reconciliatricis et Dei reconciliantis indicem ac testem habemus religionem, vitæ omni tempore superioris fontem æternum, cujus hancce virtutem et majestatem infra contemplabimur.
+[^7]: *Theologumena*, p. 75: Rerum interitus, dum docet, vanam esse ipsarum naturam, quippe quae evanescunt omnes, ea simul valet dignitate et auctoritate ut significet singulas quasque principio illi reconciliatas esse, cui suam, quatenus est divina, debent et acceptam referunt naturam. Principem contra naturæ Dei reconciliatricis et Dei reconciliantis indicem ac testem habemus religionem, vitæ omni tempore superioris fontem æternum, cujus hancce virtutem et majestatem infra contemplabimur.
 
 [^8]: Compare *Vorlesungen über die Philosophie der Religion* (2d ed. 1840), part second, from p. 191 onwards. The lectures date from the years 1821 to 1831.
 
-[^9]: Die Grundlehren der christlichen Dogmatik als Wissenschaft*, 2d and entirely new edition (1827). The first edition is dated 1819.
+[^9]: *Die Grundlehren der christlichen Dogmatik als Wissenschaft*, 2d and entirely new edition (1827). The first edition is dated 1819.
 
 [^10]: With the proof, given above, that Hegel has grounded the judgment of faith, concerning the value of Christ's Person, not metaphysically in the idea of God but only phenomenally in the need of finite knowledge, compare Strauss: *Streitschriften* (1841), Heft 3, p. 76 *sqq.*
 
-[^11]: Das Wesen der Religion* (1847), Part ii. p. 165.
+[^11]: *Das Wesen der Religion* (1847), Part ii. p. 165.
 
-[^12]: Christliche Dogmatik* (1869).
+[^12]: *Christliche Dogmatik* (1869).
 
 [^13]: As Biedermann in this goes directly in the teeth of an expression by Strauss (*Der Christus des Glaubens und der Jesus der Geschichte*, p. 214), his position approximates what has been brought forward above (p. 509), as conspicuous in Schweizer's *Christliche Glaubenslehre*.
 
-[^14]: Philosophische Dogmatik oder Philosophie des Christenthums*, vol iii. (1862), pp. 342, 396, 351.
+[^14]: *Philosophische Dogmatik oder Philosophie des Christenthums*, vol iii. (1862), pp. 342, 396, 351.
 
 
 ---

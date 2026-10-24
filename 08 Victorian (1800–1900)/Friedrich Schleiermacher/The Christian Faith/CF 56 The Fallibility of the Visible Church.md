@@ -52,7 +52,7 @@ Irrespectively of this, history often exhibits an apparent diminution of the dom
 
 [^3]: Acts 10¹⁴ 16⁷, Gal. 2¹¹.
 
-[^4]: Repetit. Conf.* (ed. Twesten), p. 164.
+[^4]: *Repetit. Conf.* (ed. Twesten), p. 164.
 
 [^5]: 12, 2.
 
