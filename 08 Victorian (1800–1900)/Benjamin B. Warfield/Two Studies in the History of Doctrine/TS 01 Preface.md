@@ -13,7 +13,7 @@ tags:
 
 # Preface
 
-The papers contained in this volume, neither of which is here printed for the first time, are reprinted to render them more accessible than they have come to be in the lapse of time. Some of their peculiarities are explained by the circumstances of their original publication. The former one was prepared as prolegomena to a translation of Augustine's Anti-Pelagian treatises, and owes it to this fact that those treatises are described and abstracted and not extracted in it, while incidental passages bearing on the subject from others of Augustine's writings are illustratively quoted. It is reprinted here practically unaltered. The latter paper, which originally appeared in a monthly magazine, has, on the contrary, been considerably enlarged and in some parts rewritten for this reissue.
+The papers contained in this volume, neither of which is here printed for the first time, are reprinted to render them more accessible than they have come to be in the lapse of time. Some of their peculiarities are explained by the circumstances of their original publication. The former one was prepared as prolegomena to a translation of Augustine’s Anti-Pelagian treatises, and owes it to this fact that those treatises are described and abstracted and not extracted in it, while incidental passages bearing on the subject from others of Augustine’s writings are illustratively quoted. It is reprinted here practically unaltered. The latter paper, which originally appeared in a monthly magazine, has, on the contrary, been considerably enlarged and in some parts rewritten for this reissue.
 
 *Princeton, September, 1897.*
 

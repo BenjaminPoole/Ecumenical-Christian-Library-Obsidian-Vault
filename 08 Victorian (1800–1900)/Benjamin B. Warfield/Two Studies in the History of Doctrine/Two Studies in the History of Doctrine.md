@@ -12,7 +12,7 @@ tags:
 
 *Benjamin B. Warfield* — *Two Studies in the History of Doctrine: Augustine and the Pelagian Controversy; The Development of the Doctrine of Infant Salvation* (New York: The Christian Literature Co., 1897), transcribed from the page images of the [Internet Archive scan](https://archive.org/details/twostudiesinhist00warf).
 
-The first study traces the origin and nature of Pelagianism, the external history of the controversy, Augustine's part in it and his theology of grace. The second follows the doctrine of the salvation of infants from the Fathers through the medieval mitigation, the drift in the Church of Rome, the Lutheran, Anglican and Reformed teaching, to its ethical tendencies. The table of contents is left out.
+The first study traces the origin and nature of Pelagianism, the external history of the controversy, Augustine’s part in it and his theology of grace. The second follows the doctrine of the salvation of infants from the Fathers through the medieval mitigation, the drift in the Church of Rome, the Lutheran, Anglican and Reformed teaching, to its ethical tendencies. The table of contents is left out.
 
 Up: [[Benjamin B. Warfield|Benjamin B. Warfield]]
 
