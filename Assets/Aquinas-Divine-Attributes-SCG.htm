@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;700&amp;family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM+Plex+Mono:wght@400;600&amp;display=swap" rel="stylesheet">
 <style>
   html, body { margin: 0; padding: 0; width: 100%; height: 100%; background: #ffffff; overflow: hidden; }
   a { color: #a83a32; text-decoration: none; }
@@ -262,7 +262,7 @@ function renderVals(props) {
     '</svg>';
 
   var bandLabels = v.bandLabels.map(function (bl) {
-    return '<div style="position:absolute;left:' + bl.x + 'px;top:' + bl.y + 'px;font-family:\'JetBrains Mono\',monospace;font-size:15px;letter-spacing:0.16em;text-transform:uppercase;color:rgba(36,33,30,0.42)">' + esc(bl.text) + '</div>';
+    return '<div style="position:absolute;left:' + bl.x + 'px;top:' + bl.y + 'px;font-family:\'IBM Plex Mono\',monospace;font-size:15px;letter-spacing:0.16em;text-transform:uppercase;color:rgba(36,33,30,0.42)">' + esc(bl.text) + '</div>';
   }).join('');
 
   var deus =
@@ -271,8 +271,8 @@ function renderVals(props) {
   var nodes = v.nodes.map(function (n) {
     return '<div style="position:absolute;width:234px;left:' + n.lx + 'px;top:' + n.ly + 'px;box-sizing:border-box;padding:11px 13px 10px;background:' + n.bg + ';border:' + n.borderWidth + 'px ' + n.borderStyle + ' ' + n.color + ';border-radius:3px;box-shadow:' + n.shadow + '">' +
       '<div style="font-size:27px;line-height:1.08;font-weight:600;color:' + n.color + ';text-wrap:pretty">' + esc(n.label) + '</div>' +
-      '<div style="font-family:\'JetBrains Mono\',monospace;font-size:14px;line-height:1.3;color:' + n.subColor + ';margin-top:6px">' + esc(n.locus) + '</div>' +
-      '<div style="font-family:\'JetBrains Mono\',monospace;font-size:14px;line-height:1.3;color:' + n.routeColor + ';margin-top:1px">' + esc(n.route) + '</div>' +
+      '<div style="font-family:\'IBM Plex Mono\',monospace;font-size:14px;line-height:1.3;color:' + n.subColor + ';margin-top:6px">' + esc(n.locus) + '</div>' +
+      '<div style="font-family:\'IBM Plex Mono\',monospace;font-size:14px;line-height:1.3;color:' + n.routeColor + ';margin-top:1px">' + esc(n.route) + '</div>' +
     '</div>';
   }).join('');
 
@@ -304,7 +304,7 @@ function renderVals(props) {
   var canvas = document.getElementById('dc-canvas');
   canvas.style.cssText =
     'position:relative;width:' + cropW + 'px;height:' + cropH + 'px;background:#ffffff;' +
-    "font-family:'EB Garamond',Georgia,serif;color:#24211e;overflow:hidden;transform-origin:center center";
+    "font-family:'Source Sans Pro',sans-serif;color:#24211e;overflow:hidden;transform-origin:center center";
   canvas.innerHTML =
     '<div style="position:absolute;left:' + (-cropL) + 'px;top:' + (-cropT) + 'px;width:' + v.canvasW + 'px;height:' + v.canvasH + 'px">' +
     svg + bandLabels + emblem + deus + nodes + captions + '</div>';
