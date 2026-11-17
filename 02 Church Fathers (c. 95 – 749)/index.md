@@ -6,7 +6,7 @@ tags:
 
 # Church Fathers
 
-English translations of the early Church Fathers (3551 works, 74 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
+English translations of the early Church Fathers (3552 works, 74 authors), from the [New Advent](http://www.newadvent.org/fathers/) corpus. Arranged by series and volume, following the printed edition (as on [CCEL](https://www.ccel.org/fathers)): Ante-Nicene Fathers (1885–1887); Nicene and Post-Nicene Fathers, Series I (1886–1889) and Series II (1890–1900). Public domain; corpus CC-BY 4.0.
 
 Each note carries `written` (approximate composition date) and `earliest_ms` (earliest surviving manuscript witness, including early translations and quotation traditions) properties, plus a `#written/Nth-century` tag. These are approximate, century-level scholarly estimates compiled for orientation — verify against current scholarship before citing. Composition dates for Commodianus, the *Octavius*, Moses of Chorene, and the Diatessaron's Dura fragment are disputed; manuscript dates for several minor authors are educated estimates. Volume-heading date ranges cover core works only — items marked pseudonymous, legendary, spurious, disputed, or hagiographic are excluded (their dates still appear on the volume pages).
 
@@ -225,7 +225,7 @@ Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from ot
 - [[Hilary of Poitiers|Hilary of Poitiers]] (49)
 - [[Hippolytus|Hippolytus]] (8)
 - [[Ignatius of Antioch|Ignatius of Antioch]] (9)
-- [[Irenaeus of Lyons|Irenaeus of Lyons]] (174)
+- [[Irenaeus of Lyons|Irenaeus of Lyons]] (175)
 - [[Jerome|Jerome]] (112)
 - [[John Cassian|John Cassian]] (40)
 - [[John Chrysostom|John Chrysostom]] (533)
