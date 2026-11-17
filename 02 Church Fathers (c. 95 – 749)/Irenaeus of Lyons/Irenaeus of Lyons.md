@@ -7,7 +7,7 @@ tags:
 
 # Irenaeus of Lyons
 
-174 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
+175 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Against Heresies, Book I|Against Heresies, Book I]] — [[ANF 01|ANF 1]]
 - [[Against Heresies, Book II|Against Heresies, Book II]] — [[ANF 01|ANF 1]]
@@ -183,3 +183,4 @@ tags:
 - [[Against Heresies, V.35|Against Heresies, V.35]] — [[ANF 01|ANF 1]]
 - [[Against Heresies, V.36|Against Heresies, V.36]] — [[ANF 01|ANF 1]]
 - [[Irenaeus of Lyons/Fragments|Fragments]] — [[ANF 01|ANF 1]]
+- [[Irenaeus of Lyons/The Demonstration of the Apostolic Preaching|The Demonstration of the Apostolic Preaching]] — Robinson, 1920
