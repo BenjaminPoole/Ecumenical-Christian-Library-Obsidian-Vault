@@ -105,8 +105,8 @@ Feast of St. Agnes of Assisi, 1905.
 [^19]: For the testimony of St. Bonaventure and Celano see below, p. 147.
 [^20]: See Tract, de Miraculis., Anal. Boll., t. xviii, p. 115.
 [^21]: See below, p. 27.
-[^22]: See Lemmens : De duobus generibus vitarum S. P. Francisci in Doct. Ant. Franc, P. II, p. 9; and de Kerval : Les Sources de l’histoirede S. François in Bullettino Critico, fasc. ifP-3-
-[^23]: See Sabatier : Opuscules, fase, x, p. 133 ; also Boehmer : Analekten, p. vi.
+[^22]: See Lemmens : De duobus generibus vitarum S. P. Francisci in Doct. Ant. Franc, P. II, p. 9; and de Kerval : Les Sources de l’histoire de S. François in Bullettino Critico, fasc. ifP-3-
+[^23]: See Sabatier : Opuscules, fasc. x, p. 133 ; also Boehmer : Analekten, p. vi.
 [^24]: See Ehrle, S.J. : Die historischen Handschriften des Klosters San Francesco in Assisi in Archiv für Litteratur, etc., t.I, p. 484 ; Mgr. Faloci Pulignani in the Miscell. Francescana, t. VI, p. 46 ; M. Sabatier : Vie de S. François , I, p. 370 ; and Professor Alessandri : Inventario dei manoscritti della biblioteca del conv. de S. Francesco di Assisi, p. 57.
 [^25]: See page 64.
 [^26]: See page 81.
@@ -145,10 +145,10 @@ Feast of St. Agnes of Assisi, 1905.
 [^59]: Sii Francisci Assisiensis Opera Omnia, Paris. 1880 (vol. VI of Bibliotheca Patristica.)
 [^60]: Opuscoli di S. Francesco, by Fr. Bernardo da Fivizzano, O.M.Cap., Florence, 1880. The Latin text is also given in this edition.
 [^61]: Works of St. Francis. Translated by a Religious of the Order. London, 1890.
-[^62]: CEuvres de S. François. Trans, of Berthaumier. Paris, 1864.
+[^62]: Œuvres de S. François. Trans, of Berthaumier. Paris, 1864.
 [^63]: Leben, Regel, und Werke des h. Franziskus von Assisi. By Hereneus Haid. Ratisbon, 1856.
 [^64]: Obras Completas del B. P. S. Francisco de Asis segun la coleccion del P. Wadingo. Ternel, 1902.
-[^65]: “Opuscula Sane ti Pair is Franc isci Assisiensis sec. Codices MSS. emendata et denuo edita a PP. Collegii S. Bonaventurae. Ad Claras Aquas (Quaracchi), 1904.”
+[^65]: “Opuscula Sancti Patris Francisci Assisiensis sec. Codices MSS. emendata et denuo edita a PP. Collegii S. Bonaventurae. Ad Claras Aquas (Quaracchi), 1904.”
 [^66]: H. Boehmer : Analekten zur Geschichte des Franciscus von Assisi. S. Francisci Opuscula. Tübingen and Leipzig, 1904.
 [^67]: W. Goetz : Die Quellen zur Geschichte des hl. Franciscus von Assisi. Gotha, 1904. The part of this work dealing with the Opuscula already appeared in the Zeitschrift für Kirchengeschichte. As there is some difference between the reprint and the original, I have quoted sometimes from one and sometimes from the other.
 [^68]: There is also an excellent new French translation by Fr. Ubald d’Alençon, O.M.Cap., — Les Opuscules de Saint François d’Assise (Paris, Poussielgue, 1905). I have quoted from it elsewhere. A critical Italian edition is in preparation by Fr. Nicolò Dal-Gal, O.F.M., already well known for his contributions to Franciscan history.

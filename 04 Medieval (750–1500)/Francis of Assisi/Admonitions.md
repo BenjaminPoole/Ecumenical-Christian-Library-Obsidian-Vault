@@ -147,7 +147,7 @@ Where there is charity and wisdom there is neither fear nor ignorance. Where the
 
 Blessed is the servant who treasures up in heaven[^56] the good things which the Lord shows him and who does not wish to manifest them to men through the hope of reward, for the Most High will Himself manifest his works to whomsoever He may please. Blessed is the servant who keeps the secrets of the Lord in his heart.[^57]
 
-[^1]: See Goetz : Quellen zur Geschichte des hl. Franz von Assisi, in Zeitschrift für Kirchengeschichte, t. xxii, p. 551, and Van Ortroy, S.J., in Anal, Bollando t. xxiv, fase, iii (1905), p. 411.
+[^1]: See Goetz : Quellen zur Geschichte des hl. Franz von Assisi, in Zeitschrift für Kirchengeschichte, t. xxii, p. 551, and Van Ortroy, S.J., in Anal, Bollando t. xxiv, fasc. iii (1905), p. 411.
 [^2]: The codex of St. Antony’s College, Rome, omits the Admonitions numbered 11 and 22. It may be noted, however, that both these numbers are found at the end of the Speculum Perfectionis, ed. Lemmens. See Documenta Antiqua Franciscana, P. II, p. 84.
 [^3]: On this MS. see Sabatier, Opuscules, fasc. ii.
 [^4]: On this MS. see Little, Opuscules, fasc. v.

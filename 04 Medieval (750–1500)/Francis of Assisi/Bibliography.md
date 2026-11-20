@@ -76,7 +76,7 @@ Fr. Thomas Eccleston, O.F.M.: De Adventu Fratrum Minorum in Angliam in Anal. Fra
 
 Fr. Edouard d’Alençon, O.M.Cap.[^3] Epistola S. Francisci ad Ministrum Generalem in sua forma authentica. Rome, 1899. La Benediction de S. François. Paris, 1896. See also Sacrum Commercium.
 
-Fr. Ehrle, S.J.: “Die Historischen Handschriften von S. Francesco in Assisi” in the Archiv für Litteratur- und Kirchengeschichte des Mittelalters, t. I, pp. 484 seq. “Controversen iiber die Anfänge des Minoritenordens” in Zeitschrift für Katholische Theologie, t. XI, pp. 725 seq.
+Fr. Ehrle, S.J.: “Die Historischen Handschriften von S. Francesco in Assisi” in the Archiv für Litteratur- und Kirchengeschichte des Mittelalters, t. I, pp. 484 seq. “Controversen über die Anfänge des Minoritenordens” in Zeitschrift für Katholische Theologie, t. XI, pp. 725 seq.
 
 Mgr. Faloci-Pulignani: “Tre Autografi di S. Francesco” in Misc. Francescana, t. VI, pp. 33 seq., and “La Calligrafia di S. Francesco,” /. c, t. VII, pp. 67 seq.
 
@@ -118,7 +118,7 @@ Opuscula S. P. Francisci Assisiensis. Edita a PP. Collegii S. Bonaventurae, Quar
 
 Fr. Panfilo da Magliano, O.F.M.: Storia Compendiosa di San Francesco. Rome, 1874-1876.
 
-Paul Sabatier: Vie de S. François d? Assise. Paris, 1894. (English translation by L. S. Houghton.) Regula antiqua Fratrum et Sororum de Poenitentia. Paris. (English translation in Adderley and Marsons’ Third Orders. Mowbray, 1902.) Description du MS. Franciscain de Liegnitz. Paris, 1901. Examen de quelques Travaux recents sur les Opuscules de Saint François. Paris, 1904. See also under Actus, Bartholi, and Speculum.
+Paul Sabatier: Vie de S. François d’Assise. Paris, 1894. (English translation by L. S. Houghton.) Regula antiqua Fratrum et Sororum de Poenitentia. Paris. (English translation in Adderley and Marsons’ Third Orders. Mowbray, 1902.) Description du MS. Franciscain de Liegnitz. Paris, 1901. Examen de quelques Travaux recents sur les Opuscules de Saint François. Paris, 1904. See also under Actus, Bartholi, and Speculum.
 
 Fr. Hyacinth. Sbaralea, O.M.Conv.: Supplementum et Castigatio ad Scriptores Trium Ordinum S. Francis ci. Rome, 1806.
 
@@ -138,4 +138,4 @@ Fr. Luke Wadding, O.F.M.: Annales Minorum, B. P. Francisci Assisiatis Opuscula. 
 
 [^1]: The space devoted by Fr. Van Ortroy, S J., to Franciscan history in this periodical assumes larger proportions each year.
 [^2]: A critical edition of this work will form Vol. IV of the Anal. Franc.
-[^3]: When this volume is almost through the press, I learn of the publication of Fr. Edouard’s long-promised edition of Celano’ s works — 5. Francisci Assisiensis vita et miracula additis opusculis liturgicis auctore Fr. Thoma de Celano. Hanc editionem novam ad fidem mss. recensuit P. Eduardus Alençoniensis, Rome. Desclée, 1905. racchi, 1 90 1. Speculum Perfectionis. Ed. Sabatier. Paris, 1898. (English translation of the text only, by the Countess de la Warr : The Mirror of P erf ection. Burns & Oates, 1902.) Luigi Suttina : Appunti Bibliografici di Studi Francescani. Padua, 1904. H. Thode : Franz von Assisi und die Anfänge der Kunst der Renaissance in Italien. Berlin, 1885 and 1904. Trium Sociorum, Legenda S. Francisci A ss is. Ed. Faloci. Foligno, 1898. (English translation by E. Gurney Salter : The Legend of the Three Companions. Dent, 1902.) Fr. Ubald d’Alençon, O.M.Cap. : Les Opuscules de S. François d’Assise. Paris, 1905.
+[^3]: When this volume is almost through the press, I learn of the publication of Fr. Edouard’s long-promised edition of Celano’ s works — 5. Francisci Assisiensis vita et miracula additis opusculis liturgicis auctore Fr. Thoma de Celano. Hanc editionem novam ad fidem mss. recensuit P. Eduardus Alençoniensis, Rome. Desclée, 1905. racchi, 1 90 1. Speculum Perfectionis. Ed. Sabatier. Paris, 1898. (English translation of the text only, by the Countess de la Warr : The Mirror of Perfection. Burns & Oates, 1902.) Luigi Suttina : Appunti Bibliografici di Studi Francescani. Padua, 1904. H. Thode : Franz von Assisi und die Anfänge der Kunst der Renaissance in Italien. Berlin, 1885 and 1904. Trium Sociorum, Legenda S. Francisci A ss is. Ed. Faloci. Foligno, 1898. (English translation by E. Gurney Salter : The Legend of the Three Companions. Dent, 1902.) Fr. Ubald d’Alençon, O.M.Cap. : Les Opuscules de S. François d’Assise. Paris, 1905.
