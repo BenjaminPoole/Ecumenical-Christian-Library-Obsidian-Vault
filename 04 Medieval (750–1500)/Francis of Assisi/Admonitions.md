@@ -25,7 +25,7 @@ Codices containing the Admonitions of St. Francis are to be found at the followi
 
 Of the foregoing codices that in the Laurentian Library at Florence dates from the thirteenth century; those at Ognissanti, Florence, at Assisi, Berlin, St. Floriano, Oxford, Rome (St. Antony’s, St. Isidore’s, and the Vatican codex 4354), Toledo, and Volterra date from the fourteenth, and the others from the fifteenth century.
 
-For the Quaracchi edition of the Admonitions, upon which the present translation is based, the two oldest of all these codices, to wit, those of the Laurentian Library at Florence and of the Municipal Library at Assisi,[^6] have been used. Those at St. Isidore’s, Rome, and Ognissanti, Florence, have also been consulted, besides the editions of the Admonitions found in the Monumenta Ordinis Minorum (Salamanca, 1511, tract. 11, fol. 276 r), the Firmamento, Trium Ordinum[^7] (Paris, 1512, P. I, fol.  r), and the Liber Conformitatum of Bartholomew of Pisa (Milan,  10, fruct XII, P. 11). But for the titles and paragraphing, which differ more or less in different codices, the Laurentian codex has been followed.[^8]
+For the Quaracchi edition of the Admonitions, upon which the present translation is based, the two oldest of all these codices, to wit, those of the Laurentian Library at Florence and of the Municipal Library at Assisi,[^6] have been used. Those at St. Isidore’s, Rome, and Ognissanti, Florence, have also been consulted, besides the editions of the Admonitions found in the Monumenta Ordinis Minorum (Salamanca, 1511, tract. 11, fol. 276 r), the Firmamento, Trium Ordinum[^7] (Paris, 1512, P. I, fol. 19 r), and the Liber Conformitatum of Bartholomew of Pisa (Milan, 1510, fruct XII, P. 11). But for the titles and paragraphing, which differ more or less in different codices, the Laurentian codex has been followed.[^8]
 
 So much by way of preface to the Admonitions.
 
@@ -101,7 +101,7 @@ How much interior patience and humility a servant of God may have cannot be know
 
 ### 17. Of the Humble Servant of God
 
-Blessed is that servant who is not more puffed up because of of the good the Lord says and works through him than because of that which He says and works through others. A man sins who wishes to receive more from his neighbor than he is himself willing to give to the Lord God.
+Blessed is that servant who is not more puffed up because of the good the Lord says and works through him than because of that which He says and works through others. A man sins who wishes to receive more from his neighbor than he is himself willing to give to the Lord God.
 
 ### 18. Of Compassion toward One’s Neighbor
 
@@ -147,7 +147,7 @@ Where there is charity and wisdom there is neither fear nor ignorance. Where the
 
 Blessed is the servant who treasures up in heaven[^56] the good things which the Lord shows him and who does not wish to manifest them to men through the hope of reward, for the Most High will Himself manifest his works to whomsoever He may please. Blessed is the servant who keeps the secrets of the Lord in his heart.[^57]
 
-[^1]: See Goetz : Quellen zur Geschichte des hi. Franz von Assisi, in Zeitschrift fur Kirchengeschichte, t. xxii, p. 551, and Van Ortroy, S.J., in Anal, Bollando t. xxiv, fase, iii (1905), p. 411.
+[^1]: See Goetz : Quellen zur Geschichte des hl. Franz von Assisi, in Zeitschrift für Kirchengeschichte, t. xxii, p. 551, and Van Ortroy, S.J., in Anal, Bollando t. xxiv, fase, iii (1905), p. 411.
 [^2]: The codex of St. Antony’s College, Rome, omits the Admonitions numbered 11 and 22. It may be noted, however, that both these numbers are found at the end of the Speculum Perfectionis, ed. Lemmens. See Documenta Antiqua Franciscana, P. II, p. 84.
 [^3]: On this MS. see Sabatier, Opuscules, fasc. ii.
 [^4]: On this MS. see Little, Opuscules, fasc. v.

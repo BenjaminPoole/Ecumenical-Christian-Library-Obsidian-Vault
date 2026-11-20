@@ -83,7 +83,7 @@ And let all the brothers take care not to calumniate anyone, nor to contend in w
 
 ### 12. Of avoiding unbecoming Looks and the Company of Women.
 
-Let all the brothers, wherever they are or may go, carefully avoid unbecoming looks, and company of women, and let no one converse with them alone. Let the priests speak to them honestly, giving them penance or some spiritual counsel. And let no woman whatsoever be received to obedience by any brother,[^54] but spiritual counsel being given to her let her do penance where she wills. Let us all carefully watch over ourselves, and hold all our members in subjection, for the Lord says: “Whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.”[^55]
+Let all the brothers, wherever they are or may go, carefully avoid unbecoming looks, and company of women, and let no one converse with them alone.[^54] Let the priests speak to them honestly, giving them penance or some spiritual counsel. And let no woman whatsoever be received to obedience by any brother,[^55] but spiritual counsel being given to her let her do penance where she wills. Let us all carefully watch over ourselves, and hold all our members in subjection, for the Lord says: “Whosoever shall look on a woman to lust after her, hath already committed adultery with her in his heart.”[^56]
 
 ### 13. Of the Punishment of Fornicators.
 
@@ -91,7 +91,7 @@ If any brother by the instigation of the devil should commit fornication, let hi
 
 ### 14. How the Brothers should go through the World.
 
-When the brothers travel through the world, let them carry nothing by the way, neither bag, nor purse, nor bread, nor money, nor a staff. And whatsoever house they shall enter, let them first say, “Peace be to this house,” and remaining in the same house, let them eat and drink what things they have.[^56] Let them not resist evil,[^57] but if anyone should strike them on the cheek, let them turn to him the other; and if anyone take away their garment, let them not forbid him the tunic also. Let them give to everyone that asketh them, and if anyone take away their goods, let them not ask them again.[^58]
+When the brothers travel through the world, let them carry nothing by the way, neither bag, nor purse, nor bread, nor money, nor a staff. And whatsoever house they shall enter, let them first say, “Peace be to this house,” and remaining in the same house, let them eat and drink what things they have.[^57] Let them not resist evil,[^58] but if anyone should strike them on the cheek, let them turn to him the other; and if anyone take away their garment, let them not forbid him the tunic also. Let them give to everyone that asketh them, and if anyone take away their goods, let them not ask them again.[^59]
 
 ### 15. That the Brothers may not keep Beasts nor ride.
 
@@ -99,17 +99,17 @@ I enjoin all the brothers, both clerics and laics, that when they travel through
 
 ### 16. Of those who go among the Saracens and other Infidels.
 
-The Lord says: “Behold, I send you as sheep in the midst of wolves. Be ye therefore wise as serpents and simple as doves.”[^59] Wherefore, whoever of the brothers may wish, by divine inspiration, to go among the Saracens and other infidels, let them go with the permission of their minister and servant. But let the minister give them leave and not refuse them, if he sees they are fit to be sent; he will be held to render an account to the Lord if in this or in other things he acts indiscreetly. The brothers, however, who go may conduct themselves in two ways spiritually among them. One way is not to make disputes or contentions; but let them be “subject to every human creature for God’s sake,”[^60] yet confessing themselves to be Christians. The other way is that when they see it is pleasing to God, they announce the Word of God, that they may believe in Almighty God, — Father, and Son, and Holy Ghost, the Creater of all, our Lord the Redeemer and Saviour the Son, and that they should be baptized and be made Christians, because, “unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God.”[^61]
+The Lord says: “Behold, I send you as sheep in the midst of wolves. Be ye therefore wise as serpents and simple as doves.”[^60] Wherefore, whoever of the brothers may wish, by divine inspiration, to go among the Saracens and other infidels, let them go with the permission of their minister and servant. But let the minister give them leave and not refuse them, if he sees they are fit to be sent; he will be held to render an account to the Lord if in this or in other things he acts indiscreetly. The brothers, however, who go may conduct themselves in two ways spiritually among them. One way is not to make disputes or contentions; but let them be “subject to every human creature for God’s sake,”[^61] yet confessing themselves to be Christians. The other way is that when they see it is pleasing to God, they announce the Word of God, that they may believe in Almighty God, — Father, and Son, and Holy Ghost, the Creater of all, our Lord the Redeemer and Saviour the Son, and that they should be baptized and be made Christians, because, “unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God.”[^62]
 
-These and other things which please God they may say to them, for the Lord says in the Gospel: “Everyone that shall confess Me before men, I will also confess him before My Father who is in heaven;”[^62] and “he that shall be ashamed of Me and My words, of him the Son of Man shall be ashamed, when He shall come in His majesty and that of His Father, and of the holy angels.” *
+These and other things which please God they may say to them, for the Lord says in the Gospel: “Everyone that shall confess Me before men, I will also confess him before My Father who is in heaven;”[^63] and “he that shall be ashamed of Me and My words, of him the Son of Man shall be ashamed, when He shall come in His majesty and that of His Father, and of the holy angels.”[^64]
 
-And let all the brothers, wherever they may be, remember that they have given themselves, and have relinquished their bodies to our Lord Jesus Christ; and for love of Him they ought to expose themselves to enemies both visible and invisible, for the Lord says: “Whosoever shall lose his life for My sake, shall save it”[^63] in eternal life. “Blessed are they that suffer persecution for justice’ sake, for theirs is the kingdom of[^64] heaven.”[^65] “If they have persecuted Me, they will also persecute you.”[^66] If however they should persecute you in one city, flee to another.[^67] “Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for My sake.”[^68] “Be glad in that day and rejoice, for your reward is great in heaven.”[^69] “I say to you, my friends, be not afraid of them who kill the body, and after that have no more that they can do.”[^70] “See that ye are not troubled.”[^71] “In your patience you shall possess your souls.”[^72] “But he that shall persevere unto the end, he shall be saved.”[^73]
+And let all the brothers, wherever they may be, remember that they have given themselves, and have relinquished their bodies to our Lord Jesus Christ; and for love of Him they ought to expose themselves to enemies both visible and invisible, for the Lord says: “Whosoever shall lose his life for My sake, shall save it”[^65] in eternal life. “Blessed are they that suffer persecution for justice’ sake, for theirs is the kingdom of heaven.”[^66] “If they have persecuted Me, they will also persecute you.”[^67] If however they should persecute you in one city, flee to another.[^68] “Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for My sake.”[^69] “Be glad in that day and rejoice, for your reward is great in heaven.”[^70] “I say to you, my friends, be not afraid of them who kill the body, and after that have no more that they can do.”[^71] “See that ye are not troubled.”[^72] “In your patience you shall possess your souls.”[^73] “But he that shall persevere unto the end, he shall be saved.”[^74]
 
 ### 17. Of Preachers.
 
-Let none of the brothers preach contrary to the form and institution of the holy Roman Church, and unless this has been conceded to him by his minister. But let the minister take care that he does not grant this leave indiscreetly to anyone. Nevertheless, let all the brothers preach by their works. And let no minister or preacher appropriate to himself the ministry of brothers or the office of preaching, but let him give up his office without any contradiction at whatever hour it may be enjoined him. Wherefore I beseech in the charity which God is all my brothers, preachers, prayers, or laborers, both clerics and laics, that they study to humble themselves in all things and that they glory not, nor rejoice, nor inwardly exalt themselves on account of good words and works, nor indeed for any good which God may sometimes say or do and operate in them or by them, according to what the Lord says: “But yet rejoice not, in this that spirits are subject unto you.”[^74] And let us know for certain that nothing belongs to us but vices and sins. And we ought rather to rejoice when we “fall into divers temptations,”[^75] and when we bear some afflictions or sorrows of soul or body in this world for the sake of eternal life. Let us then all, brothers, avoid all pride and vainglory. Let us keep ourselves from the wisdom of this world, and the prudence of the flesh; for the spirit of the world wishes and cares much for words, but little for work; and it seeks not religion and interior sanctity of spirit, but wishes and desires a religion and sanctity appearing from without to men. And these are they of whom the Lord says: “Amen, I say unto you, they have received their reward.”[^76] But the spirit of the Lord wishes the flesh to be mortified and despised, and to be considered vile, abject, and contemptible; and it studies humility and patience, pure simplicity, and true peace of mind, and always desires above all things divine fear and divine wisdom, and the divine love of the Father, and the Son, and the Holy Ghost.
+Let none of the brothers preach contrary to the form and institution of the holy Roman Church, and unless this has been conceded to him by his minister. But let the minister take care that he does not grant this leave indiscreetly to anyone. Nevertheless, let all the brothers preach by their works. And let no minister or preacher appropriate to himself the ministry of brothers or the office of preaching, but let him give up his office without any contradiction at whatever hour it may be enjoined him. Wherefore I beseech in the charity which God is[^75] all my brothers, preachers, prayers, or laborers, both clerics and laics, that they study to humble themselves in all things and that they glory not, nor rejoice, nor inwardly exalt themselves on account of good words and works, nor indeed for any good which God may sometimes say or do and operate in them or by them, according to what the Lord says: “But yet rejoice not, in this that spirits are subject unto you.”[^76] And let us know for certain that nothing belongs to us but vices and sins. And we ought rather to rejoice when we “fall into divers temptations,”[^77] and when we bear some afflictions or sorrows of soul or body in this world for the sake of eternal life. Let us then all, brothers, avoid all pride and vainglory. Let us keep ourselves from the wisdom of this world, and the prudence of the flesh; for the spirit of the world wishes and cares much for words, but little for work; and it seeks not religion and interior sanctity of spirit, but wishes and desires a religion and sanctity appearing from without to men. And these are they of whom the Lord says: “Amen, I say unto you, they have received their reward.”[^78] But the spirit of the Lord wishes the flesh to be mortified and despised, and to be considered vile, abject, and contemptible; and it studies humility and patience, pure simplicity, and true peace of mind, and always desires above all things divine fear and divine wisdom, and the divine love of the Father, and the Son, and the Holy Ghost.
 
-And let us refer all good to the Lord God most High and Supreme; let us acknowledge that all good belongs to Him, and let us give thanks for all to Him from whom all good proceeds. And may He, the most High and Supreme, only True God, have, and may there be rendered to Him and may He receive, all honors and reverences, all praises and benedictions, all thanks and all glory, to whom all good belongs, who alone is good.[^77] And when we see or hear evil said or God blasphemed, let us bless and thank and praise the Lord who is blessed for ever. Amen.
+And let us refer all good to the Lord God most High and Supreme; let us acknowledge that all good belongs to Him, and let us give thanks for all to Him from whom all good proceeds. And may He, the most High and Supreme, only True God, have, and may there be rendered to Him and may He receive, all honors and reverences, all praises and benedictions, all thanks and all glory, to whom all good belongs, who alone is good.[^79] And when we see or hear evil said or God blasphemed, let us bless and thank and praise the Lord who is blessed for ever. Amen.
 
 ### 18. How the Ministers should meet together.
 
@@ -121,31 +121,31 @@ Let all the brothers be Catholics, and live and speak in a Catholic manner. But 
 
 ### 20. Of the Confession of the Brothers and of the Reception of the Body and Blood of our Lord Jesus Christ.
 
-Let my blessed brothers, both clerics and laics, confess their sins to priests of our religion. And if they cannot do this, let them confess to other discreet and Catholic priests, knowing firmly and hoping that from whatever Catholic priests they may receive penance and absolution, they will undoubtedly be absolved from these sins if they take care to observe humbly and faithfully the penance enjoined them. If however they cannot then have a priest, let them confess to their brother, as the Apostle James says: “Confess your sins to one another;”[^78] but let them not on this account fail to have recourse to priests, for to priests alone the power of binding and loosing has been given. And thus contrite and having confessed, let them receive the Body and Blood of our Lord Jesus Christ with great humility and veneration, calling to mind what the Lord Himself says: “He that eateth My Flesh and drinketh My Blood hath everlasting life;”[^79] and “Do this for a commemoration of Me.”[^80]
+Let my blessed brothers, both clerics and laics, confess their sins to priests of our religion. And if they cannot do this, let them confess to other discreet and Catholic priests, knowing firmly and hoping that from whatever Catholic priests they may receive penance and absolution, they will undoubtedly be absolved from these sins if they take care to observe humbly and faithfully the penance enjoined them. If however they cannot then have a priest, let them confess to their brother, as the Apostle James says: “Confess your sins to one another;”[^80] but let them not on this account fail to have recourse to priests, for to priests alone the power of binding and loosing has been given. And thus contrite and having confessed, let them receive the Body and Blood of our Lord Jesus Christ with great humility and veneration, calling to mind what the Lord Himself says: “He that eateth My Flesh and drinketh My Blood hath everlasting life;”[^81] and “Do this for a commemoration of Me.”[^82]
 
 ### 21. Of the Praise and Exhortation which all the Brothers may make.
 
-And this or the like exhortation and praise all my brothers may announce with the blessing of God, whenever it may please them among whatever men they may be: Fear and honor, praise and bless God, give thanks[^81] and adore the Lord God Almighty in Trinity and Unity, Father, and Son, and Holy Ghost, the Creator of all. “Do penance,”[^82] brin forth fruits worthy of penance,[^83] for know that w must soon die. “Give and it shall be given U you;”[^84] “Forgive, and you shall be forgiven.”[^85] And if you do not forgive men their sins, the Lord will not forgive you your sins.[^86] Confess all your sins.[^87] Blessed are they who shall die in penitence, for they shall be in the kingdom of heaven. Woe to those who do not die in penitence, for they shall be the children of the devil, whose works they do,[^88] and they shall go into eternal fire. Beware and abstain from all evil, and persevere in good until the end.
+And this or the like exhortation and praise all my brothers may announce with the blessing of God, whenever it may please them among whatever men they may be: Fear and honor, praise and bless God, give thanks[^83] and adore the Lord God Almighty in Trinity and Unity, Father, and Son, and Holy Ghost, the Creator of all. “Do penance,”[^84] bring forth fruits worthy of penance,[^85] for know that we must soon die. “Give and it shall be given U you;”[^86] “Forgive, and you shall be forgiven.”[^87] And if you do not forgive men their sins, the Lord will not forgive you your sins.[^88] Confess all your sins.[^89] Blessed are they who shall die in penitence, for they shall be in the kingdom of heaven. Woe to those who do not die in penitence, for they shall be the children of the devil, whose works they do,[^90] and they shall go into eternal fire. Beware and abstain from all evil, and persevere in good until the end.
 
 ### 22. Of the Admonition of the Brothers.
 
-Let us all, brothers, give heed to what the Lord says: “Love your enemies, and do good to them that hate you.”[^89] For our Lord Jesus, whose footsteps we ought to follow,[^90] called His betrayer friend,[^91] and offered Himself willingly to His crucifiers. Therefore all those who unjustly inflict upon us tribulations and anguishes, shames and injuries, sorrows and torments, martyrdom and death, are our friends whom we ought to love much, because we gain eternal life by that which they make us suffer. And let us hate our body with its vices and sins, because by living carnally it wishes to deprive us of the love of our Lord Jesus Christ and eternal life, and to lose itself with all else in hell; for we by our own fault are corrupt, miserable, and averse to good, but prompt and willing to evil; because, as the Lord says in the Gospel: from the heart of men proceed and come evil thoughts, adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, false testimonies, blasphemy, foolishness.[^92] All these evils come from within, from the heart of man, and these are what defile a man.
+Let us all, brothers, give heed to what the Lord says: “Love your enemies, and do good to them that hate you.”[^91] For our Lord Jesus, whose footsteps we ought to follow,[^92] called His betrayer friend,[^93] and offered Himself willingly to His crucifiers. Therefore all those who unjustly inflict upon us tribulations and anguishes, shames and injuries, sorrows and torments, martyrdom and death, are our friends whom we ought to love much, because we gain eternal life by that which they make us suffer. And let us hate our body with its vices and sins, because by living carnally it wishes to deprive us of the love of our Lord Jesus Christ and eternal life, and to lose itself with all else in hell; for we by our own fault are corrupt, miserable, and averse to good, but prompt and willing to evil; because, as the Lord says in the Gospel: from the heart of men proceed and come evil thoughts, adulteries, fornications, murders, thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, false testimonies, blasphemy, foolishness.[^94] All these evils come from within, from the heart of man, and these are what defile a man.
 
-But now, after having renounced the world, we have nothing else to do but to be solicitous, to follow the will of God, and to please Him. Let us take much care that we be not the wayside, or the stony or thorny ground, according to what the Lord says in the Gospel: The seed is the word of God. And that which fell by the wayside and was trampled under foot are they that hear the word and do not understand; then the devil cometh, and snatcheth that which has been sown in their hearts and taketh the word out of their hearts, lest believing they should be saved. But that which fell upon the rock are they who, when they hear the word, at once receive it with joy; but when tribulation and persecution arise on account of the word, they are immediately scandalized, and these have no roots in themselves, but are for a while, for they believe for a while, and in time of temptation fall away. But that which fell among thorns are they who hear the word of God, and the solicitude and cares of this world, the fallacies of riches, and the desire of other things entering in choke the word, and it becomes unfruitful. But that sown on good ground are they who, in a good and best heart, hearing the word understand and keep it, and bring forth fruit in patience.[^93]
+But now, after having renounced the world, we have nothing else to do but to be solicitous, to follow the will of God, and to please Him. Let us take much care that we be not the wayside, or the stony or thorny ground, according to what the Lord says in the Gospel: The seed is the word of God. And that which fell by the wayside and was trampled under foot are they that hear the word and do not understand; then the devil cometh, and snatcheth that which has been sown in their hearts and taketh the word out of their hearts, lest believing they should be saved. But that which fell upon the rock are they who, when they hear the word, at once receive it with joy; but when tribulation and persecution arise on account of the word, they are immediately scandalized, and these have no roots in themselves, but are for a while, for they believe for a while, and in time of temptation fall away. But that which fell among thorns are they who hear the word of God, and the solicitude and cares of this world, the fallacies of riches, and the desire of other things entering in choke the word, and it becomes unfruitful. But that sown on good ground are they who, in a good and best heart, hearing the word understand and keep it, and bring forth fruit in patience.[^95]
 
-And for this reason, brothers, let us, as the Lord says, “let the dead bury their dead.”[^94] And let us be much on our guard against the malice and cunning of Satan, who desires that man should not give his heart and mind to the Lord God, and who going about seeks to seduce the heart of man under pretext of some reward or benefit, to smother the words and precepts of the Lord from memory, and who wishes to blind the heart of man by wordly business and cares, and to dwell there, as the Lord says: “When an unclean spirit is gone out of a man, he walketh through dry places seeking rest and findeth none; then he saith: ‘I will return into my house whence I came out/ And coming he findeth it empty, swept, and garnished. Then he goeth and taketh with him seven other spirits more wicked than himself, and they enter in, and dwell there; and the last state of that man is made worse than the first. ‘n Wherefore let us all, brothers, watch much, lest under pretext of some reward or labor or aid we lose or separate our mind and heart from the Lord. But I beseech all the brothers, both the ministers and others, in the charity which God is,[^95] that, overcoming all obstacles and putting aside all care and solicitude, they strive in the best manner they are able, to serve, love, and honor the Lord God with a clean heart and a pure mind, which He seeks above all. And let us always make in us a tabernacle and dwelling-place for Him, who is the Lord God Omnipotent, Father, and Son, and Holy Ghost, who says:” Watch, therefore, praying at all times, that you may be accounted worthy to escape “all the evils” that are to come,[^96] and to stand before the Son of Man.“[^97] And when you stand to pray,[^98] say,” Our Father, who art in heaven.” And let us adore Him with a pure heart, for “we ought always tc pray, and not to faint,”[^99] for the Father seeks such adorers. “God is a Spirit, and they that adore Him, must adore Him in spirit and in truth.”[^100] And let us have recourse to Him as the “Shepherd and Bishop of our souls,”[^101] who says; “I am the Good Shepherd,” who feed My sheep, “and I lay down My life for My flock.”[^102] But all you are brothers. “And call none your father upon earth; for one is your Father who is in heaven. Neither be ye called masters, for one is your master, who is in heaven, Christ.”[^103] “If you abide in Me, and My words abide in you, you shall ask whatever you will, and it shall be done unto you.”[^104] “Where there are two or three gathered together in My Name, there am I in the midst of them.”[^105] “Behold, I am with you all days, even to the consummation of the world.”[^106] “The words that I have spoken to you are spirit and life.”  “I am the Way, the Truth, and the Life.”
+And for this reason, brothers, let us, as the Lord says, “let the dead bury their dead.”[^96] And let us be much on our guard against the malice and cunning of Satan, who desires that man should not give his heart and mind to the Lord God, and who going about seeks to seduce the heart of man under pretext of some reward or benefit, to smother the words and precepts of the Lord from memory, and who wishes to blind the heart of man by wordly business and cares, and to dwell there, as the Lord says: “When an unclean spirit is gone out of a man, he walketh through dry places seeking rest and findeth none; then he saith: ‘I will return into my house whence I came out/ And coming he findeth it empty, swept, and garnished. Then he goeth and taketh with him seven other spirits more wicked than himself, and they enter in, and dwell there; and the last state of that man is made worse than the first.’”[^97] Wherefore let us all, brothers, watch much, lest under pretext of some reward or labor or aid we lose or separate our mind and heart from the Lord. But I beseech all the brothers, both the ministers and others, in the charity which God is,[^98] that, overcoming all obstacles and putting aside all care and solicitude, they strive in the best manner they are able, to serve, love, and honor the Lord God with a clean heart and a pure mind, which He seeks above all. And let us always make in us a tabernacle and dwelling-place for Him, who is the Lord God Omnipotent, Father, and Son, and Holy Ghost, who says: “Watch, therefore, praying at all times, that you may be accounted worthy to escape” all the evils “that are to come, and to stand before the Son of Man.”[^99] And when you stand to pray,[^100] say, “Our Father, who art in heaven.” And let us adore Him with a pure heart, for “we ought always tc pray, and not to faint,”[^101] for the Father seeks such adorers. “God is a Spirit, and they that adore Him, must adore Him in spirit and in truth.”[^102] And let us have recourse to Him as the “Shepherd and Bishop of our souls,”[^103] who says; “I am the Good Shepherd,” who feed My sheep, “and I lay down My life for My flock.”[^104] But all you are brothers. “And call none your father upon earth; for one is your Father who is in heaven. Neither be ye called masters, for one is your master, who is in heaven, Christ.”[^105] “If you abide in Me, and My words abide in you, you shall ask whatever you will, and it shall be done unto you.”[^106] “Where there are two or three gathered together in My Name, there am I in the midst of them.”[^107] “Behold, I am with you all days, even to the consummation of the world.”[^108] “The words that I have spoken to you are spirit and life.”[^109] “I am the Way, the Truth, and the Life.”[^110]
 
-Let us therefore hold fast the words, the life and doctrine and holy Gospel of Him who deigned for us to ask His Father to manifest to us His Name, saying: Father, I have manifested Thy Name to the men whom Thou hast given Me because the words which Thou gavest Me I have given to them, and they have received them, and have known in very deed that I came forth out of Thee, and they have believed that Thou didst send Me. I pray for them, I pray not for the world, but for them whom Thou hast given Me, because they are Thine and all My things are Thine. Holy Father, keep them in Thy Name whom Thou hast given Me, that they may be one, as We also are. These things I speak in the world that they may have joy filled in themselves. I have given them Thy word, and the world hath hated them, because they are not of the world, as I also am not of the world. I pray not that Thou shouldst take them out of the world, but that Thou shouldst keep them from evil. Sanctify them in truth. Thy word is truth. As Thou hast sent Me into the world, I have sent them into the world. And for them I do sanctify Myself, that they may be sanctified in truth. Not for them only do I pray, but for them also who through their word shall believe in Me, that they may be consummated in one, and that the world may know that Thou hast sent Me, and hast loved them, as Thou hast also loved Me. And I have made known Thy Name to them, that the love wherewith Thou hast loved Me may be in them, and I in them. Father, I will that where I am, they also whom Thou hast given Me may be with Me, that they may see Thy glory in Thy kingdom.[^107]
+Let us therefore hold fast the words, the life and doctrine and holy Gospel of Him who deigned for us to ask His Father to manifest to us His Name, saying: Father, I have manifested Thy Name to the men whom Thou hast given Me because the words which Thou gavest Me I have given to them, and they have received them, and have known in very deed that I came forth out of Thee, and they have believed that Thou didst send Me. I pray for them, I pray not for the world, but for them whom Thou hast given Me, because they are Thine and all My things are Thine. Holy Father, keep them in Thy Name whom Thou hast given Me, that they may be one, as We also are. These things I speak in the world that they may have joy filled in themselves. I have given them Thy word, and the world hath hated them, because they are not of the world, as I also am not of the world. I pray not that Thou shouldst take them out of the world, but that Thou shouldst keep them from evil. Sanctify them in truth. Thy word is truth. As Thou hast sent Me into the world, I have sent them into the world. And for them I do sanctify Myself, that they may be sanctified in truth. Not for them only do I pray, but for them also who through their word shall believe in Me, that they may be consummated in one, and that the world may know that Thou hast sent Me, and hast loved them, as Thou hast also loved Me. And I have made known Thy Name to them, that the love wherewith Thou hast loved Me may be in them, and I in them. Father, I will that where I am, they also whom Thou hast given Me may be with Me, that they may see Thy glory in Thy kingdom.[^111]
 
-### 23. Prayer, Praise, and Thanksgiving.
+### 23. Prayer, Praise, and Thanksgiving.[^112]
 
-Almighty, most Holy, most High and Supreme God, Holy and Just Father, Lord King of heaven and earth, for Thyself we give thanks to Thee because by Thy holy will, and by Thine only Son, Thou hast created all things spiritual and corporal in the Holy Ghost and didst place us made to Thine image and likeness[^108] in paradise, whence we fell by our own fault. And we give Thee thanks because, as by Thy Son Thou didst create us, so by the true and holy love with which Thou hast loved us,[^109] Thou didst cause Him, true God and true Man, to be born of the glorious and ever-Virgin, most Blessed holy Mary, and didst will that He should redeem us captives by His Cross and Blood and Death. And we give thanks to Thee because Thy Son Himself is to come again in the glory of His Majesty to put the wicked who have not done penance for their sins, and have not known Thee, in eternal fire, and to say to all who have known Thee and adored Thee, and served Thee in penance: “Come, ye blessed of My Father, possess the kingdom prepared for you from the beginning of the world.”[^110]
+Almighty, most Holy, most High and Supreme God, Holy and Just Father, Lord King of heaven and earth, for Thyself we give thanks to Thee because by Thy holy will, and by Thine only Son, Thou hast created all things spiritual and corporal in the Holy Ghost and didst place us made to Thine image and likeness[^113] in paradise, whence we fell by our own fault. And we give Thee thanks because, as by Thy Son Thou didst create us, so by the true and holy love with which Thou hast loved us,[^114] Thou didst cause Him, true God and true Man, to be born of the glorious and ever-Virgin, most Blessed holy Mary, and didst will that He should redeem us captives by His Cross and Blood and Death. And we give thanks to Thee because Thy Son Himself is to come again in the glory of His Majesty to put the wicked who have not done penance for their sins, and have not known Thee, in eternal fire, and to say to all who have known Thee and adored Thee, and served Thee in penance: “Come, ye blessed of My Father, possess the kingdom prepared for you from the beginning of the world.”[^115]
 
-And since all we wretches and sinners are not worthy to name Thee, we humbly beseech Thee, that our Lord Jesus Christ, Thy beloved Son, in whom Thou art well pleased,[^111] together with the Holy Ghost, the Paraclete, may give thanks to Thee as it is pleasing to Thee and Them, for all; He suffices Thee always for all through whom Thou hast done so much for us. Alleluia. And we earnestly beg the glorious Mother, the most Blessed Mary ever-Virgin, Blessed Michael, Gabriel, Raphael, and all the choirs of the blessed spirits, seraphim, cherubim, and thrones, dominations, principalities and powers, virtues, angels and archangels, blessed John the Baptist, John the Evangelist, Peter, Paul, the blessed patriarchs and prophets, innocents, apostles, evangelists, disciples, martyrs, confessors, virgins, blessed Elias and Enoch, and all the Saints who have been and are, and shall be, for Thy love, that they may, as it is pleasing to Thee, give thanks for these things to the most high, true God, eternal and living, with Thy most dear Son, our Lord Jesus Christ, and the Holy Ghost, the Paraclete, for ever and ever. Amen. Alleluia.
+And since all we wretches and sinners are not worthy to name Thee, we humbly beseech Thee, that our Lord Jesus Christ, Thy beloved Son, in whom Thou art well pleased,[^116] together with the Holy Ghost, the Paraclete, may give thanks to Thee as it is pleasing to Thee and Them, for all; He suffices Thee always for all through whom Thou hast done so much for us. Alleluia. And we earnestly beg the glorious Mother, the most Blessed Mary ever-Virgin, Blessed Michael, Gabriel, Raphael, and all the choirs of the blessed spirits, seraphim, cherubim, and thrones, dominations, principalities and powers, virtues, angels and archangels, blessed John the Baptist, John the Evangelist, Peter, Paul, the blessed patriarchs and prophets, innocents, apostles, evangelists, disciples, martyrs, confessors, virgins, blessed Elias and Enoch, and all the Saints who have been and are, and shall be, for Thy love, that they may, as it is pleasing to Thee, give thanks for these things to the most high, true God, eternal and living, with Thy most dear Son, our Lord Jesus Christ, and the Holy Ghost, the Paraclete, for ever and ever. Amen. Alleluia.
 
-And all we, brothers minor, useless servants, humbly entreat and beseech all those within the holy Catholic and Apostolic Church wishing to serve God, and all ‘ecclesiastical Orders, priests, deacons, subdeacons, acolytes, exorcists, lectors, door-keepers, and all clerics; all religious men and women, all boys and children, poor and needy, kings and princes, laborers, husbandmen, servants and masters, all virgins, continent, and married people, laics, men and women, all infants, youths, young men and old, healthy and sick, all small and great, and all peoples, clans, tribes, and tongues, all nations and all men in all the earth, who are and shall be, that we may persevere in the true faith and in doing penance, for otherwise no one can be saved. Let us all love with all our heart, with all our soul, with all our mind, with all our strength and fortitude, with all our understanding and with all our powers,[^112] with our whole might and whole affection, with our innermost parts, our whole desires, and wills, the Lord God, who has given, and gives to us all, the whole body, the whole soul, and our life; who has created and redeemed us, and by His mercy alone will save us; who has done and does all good to us, miserable and wretched, vile, unclean, ungrateful, and evil.
+And all we, brothers minor, useless servants, humbly entreat and beseech all those within the holy Catholic and Apostolic Church wishing to serve God, and all ‘ecclesiastical Orders, priests, deacons, subdeacons, acolytes, exorcists, lectors, door-keepers, and all clerics; all religious men and women, all boys and children, poor and needy, kings and princes, laborers, husbandmen, servants and masters, all virgins, continent, and married people, laics, men and women, all infants, youths, young men and old, healthy and sick, all small and great, and all peoples, clans, tribes, and tongues, all nations and all men in all the earth, who are and shall be, that we may persevere in the true faith and in doing penance, for otherwise no one can be saved. Let us all love with all our heart, with all our soul, with all our mind, with all our strength and fortitude, with all our understanding and with all our powers,[^117] with our whole might and whole affection, with our innermost parts, our whole desires, and wills, the Lord God, who has given, and gives to us all, the whole body, the whole soul, and our life; who has created and redeemed us, and by His mercy alone will save us; who has done and does all good to us, miserable and wretched, vile, unclean, ungrateful, and evil.
 
-Let us therefore desire nothing else, wish for nothing else, and let nothing please and delight us except our Creator and Redeemer, and Saviour, the only true God, who is full of good, all good, entire good, the true and supreme good, who alone is good,[^113] merciful and kind, gentle and sweet, who alone is holy, just, true, and upright, who alone is benign, pure, and clean, from whom, and through whom, and in whom is all mercy, all grace, all glory of all penitents and of the just, and of all the blessed rejoicing in heaven. Let nothing therefore hinder us, let nothing separate us, let nothing come between us. Let us all, everywhere, in every place, at every hour, and at all times, daily and continually believe, truly and humbly, and let us hold in our hearts, and love, honor, adore, serve, praise and bless, glorify and exalt, magnify and give thanks to the most High and Supreme, Eternal God, in Trinity and Unity, to the Father, and Son, and Holy Ghost, to the Creator of all, to the Saviour of all who believe and hope in Him, and love Him, who, without beginning or end, is inmutable, invisible, unerring, ineffable, incomprehensible, unfathomable, blessed, praiseworthy, glorious, exalted, sublime, most high, sweet, amiable, lovable, and always wholly desirable above all forever and ever.
+Let us therefore desire nothing else, wish for nothing else, and let nothing please and delight us except our Creator and Redeemer, and Saviour, the only true God, who is full of good, all good, entire good, the true and supreme good, who alone is good,[^118] merciful and kind, gentle and sweet, who alone is holy, just, true, and upright, who alone is benign, pure, and clean, from whom, and through whom, and in whom is all mercy, all grace, all glory of all penitents and of the just, and of all the blessed rejoicing in heaven. Let nothing therefore hinder us, let nothing separate us, let nothing come between us. Let us all, everywhere, in every place, at every hour, and at all times, daily and continually believe, truly and humbly, and let us hold in our hearts, and love, honor, adore, serve, praise and bless, glorify and exalt, magnify and give thanks to the most High and Supreme, Eternal God, in Trinity and Unity, to the Father, and Son, and Holy Ghost, to the Creator of all, to the Saviour of all who believe and hope in Him, and love Him, who, without beginning or end, is inmutable, invisible, unerring, ineffable, incomprehensible, unfathomable, blessed, praiseworthy, glorious, exalted, sublime, most high, sweet, amiable, lovable, and always wholly desirable above all forever and ever.
 
 In the Name of the Lord, I beseech all the brothers that they learn the tenor and sense of those things that are written in this life for the salvation of our souls, and frequently recall them to mind. And I pray God that He who is Almighty, Three in One, may bless all who teach, learn, hold, remember, and fulfil those things as often as they repeat and do what is there written for our salvation. And I entreat all, kissing their feet, to love greatly, keep and treasure up these things. And on the part of Almighty God and of the Lord Pope, and by obedience, I, Brother Francis, strictly command and enjoin that no one subtract from those things that are written in this life, or add anything written to it over and above, and that the brothers have no other Rule.
 
@@ -157,7 +157,7 @@ Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the 
 [^4]: Luke 14 : 26.
 [^5]: See Matt. 19 : 29.
 [^6]: From the Latin capavo. See Du Cange, Glossar. latin.
-[^7]: See the bull Cum secundum of Honorius III, dated September 22, 1220 (Bullarium Franciscanum, t. i, p. 6.)
+[^7]: See the bull Cum secundum of Honorius III, dated September 22, 1220 (Bullarium Franciscanum, t. I, p. 6.)
 [^8]: Luke 9: 62.
 [^9]: See Matt. 11 : 8 ; Luke 7 : 25.
 [^10]: See Mark 9 : 28.
@@ -176,7 +176,7 @@ Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the 
 [^23]: Ps. 127 : 2.
 [^24]: II Thess. 3 : 10.
 [^25]: See I Cor. 7 : 24.
-[^26]: St. Jerome says : “Semper facito aliquid boni operis, ut diabolus te in veniat occupatimi.” Epis. 125 (alias 4), n. 11.
+[^26]: St. Jerome says : “Semper facito aliquid boni operis, ut diabolus te inveniat occupatum.” Epis. 125 (alias 4), n. 11.
 [^27]: St. Anselm says ; “Otiositas inimica est animae.” Epist. 49-
 [^28]: See I Peter 4 : 9.
 [^29]: See above, page 28.
@@ -191,76 +191,81 @@ Glory be to the Father, and to the Son, and to the Holy Ghost. As it was in the 
 [^38]: Luke 21 : 34-35.
 [^39]: See Acts 13 : 48.
 [^40]: Apoc. 3 : 19.
-[^41]: See 2 Cel. 3, no; also Hugo le Digne, /. c.f fol. 68 v. and Spec. Per/, (ed. Sabatier), chap. \2.
+[^41]: See 2 Cel. 3, no; also Hugo le Digne, /. c.f fol. 68 v. and Spec. Perf., (ed. Sabatier), chap. \2.
 [^42]: See II Tim. 2 : 14.
 [^43]: Luke 17 : 10.
 [^44]: Matt. 5 : 22.
-[^45]: John 15: 12.
-[^46]: Jas. 2-: 18.
+[^45]: John 15 : 12.
+[^46]: Jas. 2 : 18.
 [^47]: 1 John 3 : 18.
 [^48]: Tit. 3 : 2.
-[^49]: Rom. 1 : 29 -30.
-[^50]: Tit. 3: 2.
+[^49]: Rom. 1 : 29-30.
+[^50]: Tit. 3 : 2.
 [^51]: Is. 38 : 15.
 [^52]: Luke 13 : 24.
-[^53]: Matt. 7 : 14. i°See above, p. 29.
-[^54]: This prohibition refers to a vow of obedience made by a woman to her spiritual director, as Fr. Van Ortroy points out. See Anal. Boll , t. xxiv, fasc. iv, p. 523.
-[^55]: Matt. 5 : 28.
-[^56]: See Luke 9 : 3 ; 10 : 4-8.
-[^57]: See Matt. 5: 39.
-[^58]: See Luke 6 : 29-30.
-[^59]: Matt. 10: 16.
-[^60]: I Pet. 2 : 13.
-[^61]: John 3 : 5.
-[^62]: Matt. 10 : 32.
-[^63]: Mark 8 : 35 ; Luke 9 : 24.
+[^53]: Matt. 7 : 14.
+[^54]: See above, p. 29.
+[^55]: This prohibition refers to a vow of obedience made by a woman to her spiritual director, as Fr. Van Ortroy points out. See Anal. Boll , t. xxiv, fasc. iv, p. 523.
+[^56]: Matt. 5 : 28.
+[^57]: See Luke 9 : 3 ; 10 : 4-8.
+[^58]: See Matt. 5: 39.
+[^59]: See Luke 6 : 29-30.
+[^60]: Matt. 10: 16.
+[^61]: I Pet. 2 : 13.
+[^62]: John 3 : 5.
+[^63]: Matt. 10 : 32.
 [^64]: Luke 9 : 26.
-[^65]: Matt. 5 : 10.
-[^66]: John 15 : 20.
-[^67]: See Matt. 10 : 23.
-[^68]: Matt. 5 : 11-12.
-[^69]: Luke 6 : 23.
-[^70]: Luke 12 : 4.
-[^71]: Matt. 24 : 6.
-[^72]: Luke 21 : 19. ,JMatt. 10 : 22.
-[^73]: See I John 4 : 8.
-[^74]: Luke io : 20.
-[^75]: James 1:2.
-[^76]: Matt. 6 : 2.
-[^77]: See Luke 18 : 19.
-[^78]: James 5 : 16.
-[^79]: John 6 : 55.
-[^80]: Luke 22 : 19.
-[^81]: 1 Thess. 5 : 18.
-[^82]: Matt. 3 : 2.
-[^83]: Luke 3 : 8.
-[^84]: Luke 6 : 38.
-[^85]: Luke 6 : 37.
-[^86]: See Mark 11 : 26.
-[^87]: See James 5 : 16.
-[^88]: See John 8 : 44.
-[^89]: Matt. 5 : 44.
-[^90]: See I Peter 2 : 21.
-[^91]: See Matt. 26 : 50.
-[^92]: See Matt. 15 : 19, and Mark 7 : 21-22.
-[^93]: See Matt. 13: 19-23; Mark 4 : 15-20; Luke 8 : 11-15.
-[^94]: Matt. 8 : 22.
-[^95]: See I John 4 : 16.
-[^96]: Matt. 12 : 43-45 ; see Luke 11 : 24-26.
-[^97]: Luke 2i : 36.
-[^98]: See Mark 11 : 25.
-[^99]: Luke 18 : 1.
-[^100]: John 4 : 24.
-[^101]: 1 Peter 2 : 25. See John 10 : 11 and 15. < See Matt. 23 : 8-10.
-[^102]: John 15 : 7.
-[^103]: Matt. 18: 20.
-[^104]: Matt. 28 : 20.
-[^105]: John 6 : 64.
-[^106]: John 14 : 6.
-[^107]: See John 17 : 6-26. -The Speculum Minorum condenses this chapter.
-[^108]: See John 17 : 26.
-[^109]: Matt. 25 : 34.
-[^110]: See Gen. 1 : 26 ; 2 : 15.
-[^111]: See Matt. 17 : 5.
-[^112]: See Deut. 6 : 5 ; Mark 12 : 30 and 33 ; Luke 10 : 27.
-[^113]: See Luke 18 : 19.
+[^65]: Mark 8 : 35 ; Luke 9 : 24.
+[^66]: Matt. 5 : 10.
+[^67]: John 15 : 20.
+[^68]: See Matt. 10 : 23.
+[^69]: Matt. 5 : 11-12.
+[^70]: Luke 6 : 23.
+[^71]: Luke 12 : 4.
+[^72]: Matt. 24 : 6.
+[^73]: Luke 21 : 19.
+[^74]: Matt. 10 : 22.
+[^75]: See I John 4 : 8.
+[^76]: Luke io : 20.
+[^77]: James 1:2.
+[^78]: Matt. 6 : 2.
+[^79]: See Luke 18 : 19.
+[^80]: James 5 : 16.
+[^81]: John 6 : 55.
+[^82]: Luke 22 : 19.
+[^83]: 1 Thess. 5 : 18.
+[^84]: Matt. 3 : 2.
+[^85]: Luke 3 : 8.
+[^86]: Luke 6 : 38.
+[^87]: Luke 6 : 37.
+[^88]: See Mark 11 : 26.
+[^89]: See James 5 : 16.
+[^90]: See John 8 : 44.
+[^91]: Matt. 5 : 44.
+[^92]: See I Peter 2 : 21.
+[^93]: See Matt. 26 : 50.
+[^94]: See Matt. 15 : 19, and Mark 7 : 21-22.
+[^95]: See Matt. 13: 19-23; Mark 4 : 15-20; Luke 8 : 11-15.
+[^96]: Matt. 8 : 22.
+[^97]: Matt. 12 : 43-45 ; see Luke 11 : 24-26.
+[^98]: See I John 4 : 16.
+[^99]: Luke 21 : 36.
+[^100]: See Mark 11 : 25.
+[^101]: Luke 18 : 1.
+[^102]: John 4 : 24.
+[^103]: 1 Peter 2 : 25.
+[^104]: See John 10 : 11 and 15.
+[^105]: See Matt. 23 : 8-10.
+[^106]: John 15 : 7.
+[^107]: Matt. 18 : 20.
+[^108]: Matt. 28 : 20.
+[^109]: John 6 : 64.
+[^110]: John 14 : 6.
+[^111]: See John 17 : 6-26.
+[^112]: The Speculum Minorum condenses this chapter.
+[^113]: See Gen. 1 : 26 ; 2 : 15.
+[^114]: See John 17 : 26.
+[^115]: Matt. 25 : 34.
+[^116]: See Matt. 17 : 5.
+[^117]: See Deut. 6 : 5 ; Mark 12 : 30 and 33 ; Luke 10 : 27.
+[^118]: See Luke 18 : 19.

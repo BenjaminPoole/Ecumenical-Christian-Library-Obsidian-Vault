@@ -8,7 +8,7 @@ tags:
 
 # Francis of Assisi
 
-Francis of Assisi (c. 1181–1226), founder of the Friars Minor, who took the Gospel as his Rule and left a small body of writings: counsels, rules, letters, prayers and the *Canticle of the Sun*. This is the whole collection in Paschal Robinson’s English translation (Philadelphia, 1906), made from the critical Quaracchi edition of 1904, with his introductions and appendix. The *Little Flowers of St. Francis* (Fioretti) are not included: they were compiled in the fourteenth century and are not by Francis.
+Francis of Assisi (c. 1181–1226), founder of the Friars Minor, who took the Gospel as his Rule and left a small body of writings: counsels, rules, letters, prayers and the *Canticle of the Sun*. This is the whole collection in Paschal Robinson’s English translation (Philadelphia, 1906), made from the critical Quaracchi edition of 1904, with his introductions and appendix. The *Little Flowers of St. Francis’ (Fioretti) are not included: they were compiled in the fourteenth century and are not by Francis.
 
 ## Works (20)
 

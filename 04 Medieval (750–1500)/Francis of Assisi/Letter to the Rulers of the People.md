@@ -23,7 +23,7 @@ This letter is known to us only by the testimony of the Ven. Francis Gonzaga, O.
 
 ## To the Rulers of the People
 
-To all podestds, and consuls, judges and governors, in whatever part of the world, and to all others to whom this letter may come, Brother Francis, your little and contemptible servant, wishes health and peace to you.
+To all podestàs, and consuls, judges and governors, in whatever part of the world, and to all others to whom this letter may come, Brother Francis, your little and contemptible servant, wishes health and peace to you.
 
 Consider and see that the day of death draws nigh.[^4] I ask you, therefore, with such reverence as I can, not to forget the Lord on account of the cares and solicitudes of this world and not to turn aside from His commandments, for all those who forget Him and decline from His commandments are cursed[^5] and they shall be forgotten by Him.[^6] And when the day of death comes, all that which they think they have shall be taken away from them.[^7] And the wiser and more powerful they may have been in this world, so much the greater torments shall they endure in hell.[^8]
 

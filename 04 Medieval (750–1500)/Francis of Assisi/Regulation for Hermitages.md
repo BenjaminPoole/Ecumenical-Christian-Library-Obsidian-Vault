@@ -33,16 +33,16 @@ And they must not allow any[^13] person to enter into the cloister where they li
 
 [^1]: See Bonav. Leg. Maj., XII, i, where the Saint is represented as discoursing on the relative merits and advantages of the active and contemplative life. Wadding gives this discourse among the Monastic Conferences he attributes to St. Francis. See Opuscula, Coll. XIV, p. 318.
 [^2]: See Floretum S. Francisci, ed. Sabatier, cap. 16, p. 60. This chapter, which is one of the most interesting from a critical point of view, represents St. Francis as consulting St. Clare and Brother Sylvester on the subject of his doubt.
-[^3]: See First Rule, chap, vii (above, p. 40) ; also Speculum Per/., ed. Sabatier, pp. 25-26.
+[^3]: See First Rule, chap, vii (above, p. 40) ; also Speculum Perf., ed. Sabatier, pp. 25-26.
 [^4]: As is most poetically described by the author of the Sacrum Commercium. Show me your cloister, asks the Lady Poverty of the friars. And they, leading her to the summit of a hill, showed her the wide world, saying : This is our cloister, O Lady Poverty. (See The Lady Poverty », by M. Carmichael, p. 128.)
-[^5]: See 1 Cel. 1, 17; and Leg. III So c. 55. Such grottoes may still be seen in St. Francis’ country ; they serve as a shelter for beggars and gypsies.
+[^5]: See 1 Cel. 1, 17; and Leg. III Soc. 55. Such grottoes may still be seen in St. Francis’ country ; they serve as a shelter for beggars and gypsies.
 [^6]: St Francis habitually uses the word locus or place to designate the habitations of the friars (see above, Rule II, chap, vi, p. 68).
 [^7]: See “Franciscus in admonitionibus suis” (fruct. xii, P. 11, cap. 30). It was from this text that Wadding took the Regulation for his edition of the Opuscula in which it figures under the heading Collationes Moitasticae III.
-[^8]: The figure which presents Mary and Martha as types of the contemplative and active life was already a familiar one. See Gregor., VI Moral., c. 37, n. 61 : “Quid per Mariam, quae verba Domini residens audiebat, nisi contemplativa vita exprimitur? Quid per Martham exterioribus obsequiis occu patam nisi activa vita signatur?”
+[^8]: The figure which presents Mary and Martha as types of the contemplative and active life was already a familiar one. See Gregor., VI Moral., c. 37, n. 61 : “Quid per Mariam, quae verba Domini residens audiebat, nisi contemplativa vita exprimitur? Quid per Martham exterioribus obsequiis occupatam nisi activa vita signatur?”
 [^9]: Cod. As. after cloister reads: “in which each one shall have his own cell.”
 [^10]: Cod. As. reads : “immediately after sunset.”
 [^11]: Luke 12 : 31.
 [^12]: This is the reading of the Cod. As. and Is.; other texts read the “poorest beggars.”
-[^13]: Cod. O. adds : “any woman or person whatsoever..”
+[^13]: Cod. O. adds : “any woman or person whatsoever.”
 [^14]: The text in Cod. As. ends here.
 [^15]: See 2 Cel. 33, 113.

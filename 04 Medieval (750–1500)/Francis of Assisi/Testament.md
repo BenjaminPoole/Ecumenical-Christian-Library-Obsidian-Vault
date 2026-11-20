@@ -21,7 +21,7 @@ tags:
 
 The opuscule which St. Francis called his Testament is a precious document of the highest authority. Renan forsooth denied its authenticity, but rashly, for, as M. Sabatier rightly remarks,[^1] this is not to be questioned.[^2] The Testament corresponds throughout with the other writings of St. Francis, and moreover reveals his character and spirit in every line. But we are not reduced to internal proofs for its genuinity. All the historians, including Thomas of Celano,[^3] and St. Bonaventure,[^4] mention it,[^5] while Gregory IX cites it textually in his bull Quo elongati of September 28, 1230. We know from this bull that the Saint’s Testament was published a few days only before his death.[^6] Everything seems to point to its having been written at the hermitage of the Celle near Cortona, during St. Francis’ last visit there (summer of 1226), though some think it was dictated to Angelo Tancredi, one of the Three Companions, in the little hut nearest the Portiuncula which served as an infirmary and in which St. Francis died.
 
-According to M. Sabatier, St. Francis wrote more than one testament. Indeed, the French critic goes so far as to say that at the end of each of his crises the Saint made his will anew,[^7] and in support of this assertion cites Chapter 87 of his own edition of the Speculum Perfectionis, in which we read that during an illness (seemingly in April, 1226), St. Francis caused Brother Benedict of Prato to write down a blessing and some words of advice ‘in token of memory and benediction and testament.” But surely from this narration we may not deduce the general proposition that St. Francis wrote “several testaments.” The early Legends are silent except as to the one Testament here given, and all the passages which different writers quote “from the Testament ‘’ may be found in this one, — if we except two passages in M. Sabatier’s edition of the Speculum Perfectionis. But it is not difficult to see that in both these places the Speculum is in error. In the ninth chapter it repeats incorrectly what Brother Leo elsewhere[^8] relates, and in the fifty-fifth chapter the compiler of the Speculum is still more astray, as a comparison of this chapter with chapter twenty-seventh of Father Lemmens’ edition of the Speculum clearly indicates. Both editions of the Speculum tell in almost the same words of St. Francis’ love for the Church of the Portiuncula. M. Sabatier’s edition says:”At his death he caused it to be written in the Testament that all the brothers should do likewise;” whereas Father Lemmens’ edition reads as follows: “Toward his death he bequeathed this Church to the brothers as a testament.”[^9]
+According to M. Sabatier, St. Francis wrote more than one testament. Indeed, the French critic goes so far as to say that at the end of each of his crises the Saint made his will anew,[^7] and in support of this assertion cites Chapter 87 of his own edition of the Speculum Perfectionis, in which we read that during an illness (seemingly in April, 1226), St. Francis caused Brother Benedict of Prato to write down a blessing and some words of advice ‘in token of memory and benediction and testament.” But surely from this narration we may not deduce the general proposition that St. Francis wrote “several testaments.” The early Legends are silent except as to the one Testament here given, and all the passages which different writers quote “from the Testament” may be found in this one, — if we except two passages in M. Sabatier’s edition of the Speculum Perfectionis. But it is not difficult to see that in both these places the Speculum is in error. In the ninth chapter it repeats incorrectly what Brother Leo elsewhere[^8] relates, and in the fifty-fifth chapter the compiler of the Speculum is still more astray, as a comparison of this chapter with chapter twenty-seventh of Father Lemmens’ edition of the Speculum clearly indicates. Both editions of the Speculum tell in almost the same words of St. Francis’ love for the Church of the Portiuncula. M. Sabatier’s edition says:”At his death he caused it to be written in the Testament that all the brothers should do likewise;” whereas Father Lemmens’ edition reads as follows: “Toward his death he bequeathed this Church to the brothers as a testament.”[^9]
 
 The Testament is to be found among St. Francis’ works in twelve of the codices above described,[^10] to wit, those at Assisi,[^11] Berlin, Florence (Ognissanti MSS.), St. Floriano, Liegnitz, Paris (Nat. lib. and Mazarin MSS. 989), Prague and Rome (St. Antony’s and both Vatican MSS.), as well as in a fifteenth century MS. at the Hague (Municip. lib. cod. K. 54, fol. 3 v). The text here translated is that of the Assisi codex collated with those of Ognissanti, Florence, and St. Antony’s, Rome, and with the versions of the Testament contained in the Monumenta (fol. 274 v) and Firmamenta[^12] (fol. 16 v). Here begins the Testament of the Holy Father St. Francis:
 
@@ -43,11 +43,11 @@ And let all the other brothers be bound to obey their guardian and to perform th
 
 And whoever shall observe these things[^31] may he be filled in heaven with the blessing of the Most High Father and may he be filled on earth with blessing of His Beloved Son together with the Holy Ghost, the Paraclete, and all the Powers of heaven and all the saints. And I, Brother Francis, your little one and servant, in so far as I am able, I confirm to you within and without this most holy blessing.[^32] Amen.[^33]
 
-[^1]: Sabatier ; Vie de S. Francois ; Étude des Sources.
+[^1]: Sabatier ; Vie de S. François ; Étude des Sources.
 [^2]: See also Goetz, /. c.} t. XXII, pp. 372 seq.
 [^3]: See 1 Cel. 17; 2 Cel. 3, 99.
 [^4]: See Bonav., Leg. Maj., III, 2.
-[^5]: It is also expressly cited in the Leg. III So c. 11 and 29.
+[^5]: It is also expressly cited in the Leg. III Soc. 11 and 29.
 [^6]: “Circa ultimum vitae suae,” etc. See Bullarium Franc. , t. I, p. 68.
 [^7]: “A la fin de chacune de ces crises, il faisait de nouveau note 2. See also Speculum (ed. Lemmens), No. 30.
 [^8]: See 5. Francisci Intentio regulae, nn. 14 and 15, in the Documenta Antiqua Franciscana, P. I, p. 97.
@@ -55,13 +55,13 @@ And whoever shall observe these things[^31] may he be filled in heaven with the 
 [^10]: See page 3.
 [^11]: The text of the Testament given by M. Sabatier in his edition of the Speculum Perf. is that of this Assisi MS.
 [^12]: It may also be found in the Speculum Minorum (Tract. III, 8 r) and in the Annates of Wadding (ad an. 1226, 35).
-[^13]: See 1 Cel. 17, where this passage of the Testament is quoted. See also Bonav. Leg. 3faj., II, 6; and Leg. III So c. 11. Some texts instead of “feci mis ericor dram cum Mis” give “feci moram cum Mis” : “I made a sojourn with them.” See Misceli. Franc, III (1888), p. 70. It is interesting to note here how St Francis on the eve of his death, casting a backward glance over the ways by which he had been led, dwells on this incident which had marked a new era in his life.
+[^13]: See 1 Cel. 17, where this passage of the Testament is quoted. See also Bonav. Leg. Maj., II, 6; and Leg. III Soc. 11. Some texts instead of “feci mis ericor dram cum Mis” give “feci moram cum Mis” : “I made a sojourn with them.” See Miscell. Franc, III (1888), p. 70. It is interesting to note here how St Francis on the eve of his death, casting a backward glance over the ways by which he had been led, dwells on this incident which had marked a new era in his life.
 [^14]: Cod. As. reads “tal em fidem” “such faith.”
-[^15]: Cod. As. and O. omit “here.” (See i Cel. 45 ; and Bonav. Leg. Maj. 43, where this prayer may be found.) Cod. An. Firm. andWadd. insert “here.”
+[^15]: Cod. As. and O. omit “here.” (See 1 Cel. 45 ; and Bonav. Leg. Maj. 43, where this prayer may be found.) Cod. An. Firm. and Wadd. insert “here.”
 [^16]: Order, i. e., sacerdotal character.
 [^17]: Priests of the world, i, e.y secular priests.
 [^18]: See 2 Cel. 3, 99, where this passage of the Testament is quoted ; see also Bonav. Epis. de tribus quaestionibus in which it is also referred to. (Opera Omnia, t. VIII, p. 335.)
-[^19]: See Leg. III So c. 29, for reference to this passage.
+[^19]: See Leg. III Soc. 29, for reference to this passage.
 [^20]: Cod. O. reads : eramus 11 we were content.”
 [^21]: Cod. As. omits qui volebant, “by those who wished.”
 [^22]: Firm, and Wadd. add : “poor and neglected churches.”
@@ -75,4 +75,4 @@ And whoever shall observe these things[^31] may he be filled in heaven with the 
 [^30]: Cod. As. and Mon. for “purely” read “without gloss ;” Firm, and Wadd. add “without gloss.”
 [^31]: Cod. An. and O. read “this” for “these things.”
 [^32]: Cod. O. adds “to him who caused these words to be written, be all honor, all praise and glory forever and ever.”
-[^33]: See i Cel. 38, for the blessing given by St. Francis on his deathbed to Elias and the Order.
+[^33]: See 1 Cel. 38, for the blessing given by St. Francis on his deathbed to Elias and the Order.

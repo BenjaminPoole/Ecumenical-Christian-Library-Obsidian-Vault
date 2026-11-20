@@ -27,7 +27,7 @@ Hail, holy Lady, most holy Queen, Mother of God, Mary who art ever Virgin, chose
 
 [^1]: Analekten, p. xxvii.
 [^2]: Opuscules, fasc. x, p. 134.
-[^3]: The text given by Wadding (Opusc, p. 105) was copied by him from an Irish MS. at Salamanca.
+[^3]: The text given by Wadding (Opusc., p. 105) was copied by him from an Irish MS. at Salamanca.
 [^4]: Cod. Is. omits from “Hail thou His tabernacle” to “Hail thou His handmaid,” inclusive.
 [^5]: Wadding omits from “Hail thou His house” to “Hail thou His handmaid,” inclusive.
 [^6]: The text of the Conformities and Wadding here add the second part of the antiphon given below in the Office of the Passion beginning “Mother of our most Holy Lord Jesus Christ,” etc. In the Speculum (ed. Morin, 1509) this Salutation is followed by another prayer to the Blessed Virgin (see Sabatier, Opuscules, fasc. x, p. 164); but from the beginning of the seventeenth century, the second prayer is no longer found in the text of the Speculum (see the edition of Spoelberch, P. I, pp. 176-178, and Wadding, Opusc., p. 107). In the opinion of Professor Boehmer this Salutation ought to follow immediately after the Salutation of the Virtues given above (p. 20). See his Analekten, pp. vi and xxviii. They are found in this order in the Spec. Vitae of 1504 and the Vatican MS. 4354.

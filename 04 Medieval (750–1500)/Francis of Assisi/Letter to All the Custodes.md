@@ -33,7 +33,7 @@ And in all the preaching you do, admonish the people concerning penance and that
 
 And you shall so announce and preach His praise to all peoples that at every hour and when the bells are rung praise and thanks shall always be given to the Almighty God by all the people through the whole earth.
 
-And to whomsoever of my brothers, custodes, this writing shall come, let them copy it and keep it with them and cause it to be copied for the brothers who have the office of preaching and the care of brothers, and let them unto the end preach all those things that are contained in this writing: let them know they have the blessing of the Lord God and mine. And let these be for them through true and holy obedi-
+And to whomsoever of my brothers, custodes, this writing shall come, let them copy it and keep it with them and cause it to be copied for the brothers who have the office of preaching and the care of brothers, and let them unto the end preach all those things that are contained in this writing: let them know they have the blessing of the Lord God and mine. And let these be for them through true and holy obedience.
 
 [^1]: Cod. 225, mentioned above (p. no). See Sabatier’s Bartholi, p. 135.
 [^2]: Seemingly an allusion to the mysteries of the Eucharist.

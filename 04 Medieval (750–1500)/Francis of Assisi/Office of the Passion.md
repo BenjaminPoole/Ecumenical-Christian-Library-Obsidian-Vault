@@ -119,7 +119,7 @@ Psalm.
 
 *Ps. 56:9.* Arise, O my glory, arise psaltery and harp; I will arise early.
 
-*Ps. 56:10.* I will give praise to Thee, 0 Lord, among the people; I will sing a psalm to Thee among the nations;
+*Ps. 56:10.* I will give praise to Thee, O Lord, among the people; I will sing a psalm to Thee among the nations;
 
 *Ps. 56:11.* For Thy mercy is magnified even to the heavens; and Thy truth unto the clouds.
 
@@ -191,23 +191,23 @@ Psalm .
 
 *Lam. 1:12.* O all ye that pass by, attend and see if there be any sorrow like to my sorrow.
 
-*Ps. 21:* 17. For many dogs have encompassed me; the council of the malignant hath besieged me
+*Ps. 21:17.* For many dogs have encompassed me; the council of the malignant hath besieged me
 
-*Ps. 21:* 18. They looked and stared upon me;
+*Ps. 21:18.* They looked and stared upon me;
 
-*Ps. 21:* 19. they parted my garments among them and upon my vesture cast lots.
+*Ps. 21:19.* they parted my garments among them and upon my vesture cast lots.
 
-*Ps. 21:* 17. They have dug my hands and my feet;
+*Ps. 21:17.* They have dug my hands and my feet;
 
-*Ps. 21:* 18. they numbered all my bones.
+*Ps. 21:18.* they numbered all my bones.
 
-*Ps. 21:* 14. They have opened their mouth against me: as a lion ravening and roaring.
+*Ps. 21:14.* They have opened their mouth against me: as a lion ravening and roaring.
 
 *Ps. 21:15.* I am poured out like water and all my bones are scattered. And my heart is become like melting wax in the midst of my bowels.
 
-*Ps. 21:* 16. My strength is dried up like a potsherd; and my tongue hath cleaved to my jaws.
+*Ps. 21:16.* My strength is dried up like a potsherd; and my tongue hath cleaved to my jaws.
 
-*Ps. 68:* 22. And they gave me gall for my food: and in my thirst they gave me vinegar to drink.
+*Ps. 68:22.* And they gave me gall for my food: and in my thirst they gave me vinegar to drink.
 
 *Ps. 21:16.* And Thou hast brought me into the dust of death;
 
@@ -293,7 +293,7 @@ Psalm.
 
 *Ps. 117:27.* The Lord is God and He hath shone upon us.
 
-*Ps. 95:1.* 1. Let the heavens rejoice and let the earth be glad: let the sea be moved and the fulness thereof.
+*Ps. 95:11.* Let the heavens rejoice and let the earth be glad: let the sea be moved and the fulness thereof.
 
 *Ps. 95:12.* The fields shall rejoice and all that are in them.
 
@@ -503,7 +503,7 @@ Ant. Holy Mary.
 
 Psalm. O clap your hands, etc. — as above, p. 164.
 
-*Also note that the whole Psalm is not said but up to the verse, “Let all the earth be moved”; understand however that the whole verse 44 Bring your own bodies “must be said. At the end of this verse 44 Glory be to the Father” is said. And thus it is said daily at Vespers from Advent until Christmas eve.*
+*Also note that the whole Psalm is not said but up to the verse, “Let all the earth be moved”; understand however that the whole verse 44 Bring your own bodies” must be said. At the end of this verse 44 “Glory be to the Father” is said. And thus it is said daily at Vespers from Advent until Christmas eve.*
 
 ### Christmas Day at Vespers
 

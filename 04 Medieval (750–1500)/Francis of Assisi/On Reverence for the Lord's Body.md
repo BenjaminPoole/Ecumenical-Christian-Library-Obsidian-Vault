@@ -19,7 +19,7 @@ tags:
 
 ## Introduction
 
-The arguments already adduced to establish the authenticity of the Admonitions may also be used in behalf of this instruction addressed to all clerics. It is found in eight of the codices above mentioned — to wit, those of Assisi, Liegnitz, Paris (both Mazarin MSS. and at lib. of Prot. theol. fac), Rome (St. Antony’s and St. Isidore’s MS. V25), and Dusseldorf. In Wadding’s edition of the Opuscula this instruction on the Blessed Sacrament is placed among the letters of St. Francis[^1] (No. XIII), but the early codices do not give it in an epistolary form,[^2] but rather as it is printed here without address or salutation. For the present edition the Assisian codex[^3] has been used as well as the codices of St. Antony’s and St. Isidore’s at Rome. The text is as follows:
+The arguments already adduced to establish the authenticity of the Admonitions may also be used in behalf of this instruction addressed to all clerics. It is found in eight of the codices above mentioned — to wit, those of Assisi, Liegnitz, Paris (both Mazarin MSS. and at lib. of Prot. theol. fac), Rome (St. Antony’s and St. Isidore’s MS. V25), and Düsseldorf. In Wadding’s edition of the Opuscula this instruction on the Blessed Sacrament is placed among the letters of St. Francis[^1] (No. XIII), but the early codices do not give it in an epistolary form,[^2] but rather as it is printed here without address or salutation. For the present edition the Assisian codex[^3] has been used as well as the codices of St. Antony’s and St. Isidore’s at Rome. The text is as follows:
 
 ## On Reverence for the Lord’s Body and on the Cleanliness of the Altar
 
