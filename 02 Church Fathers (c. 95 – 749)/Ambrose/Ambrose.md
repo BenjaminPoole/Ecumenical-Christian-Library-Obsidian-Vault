@@ -7,7 +7,7 @@ tags:
 
 # Ambrose
 
-34 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
+35 work(s). Up: [[02 Church Fathers (c. 95 – 749)/index|Church Fathers]]
 
 - [[Concerning Repentance, Book I|Concerning Repentance, Book I]] — [[NPNF2 10|NPNF2 10]]
 - [[Concerning Repentance, Book II|Concerning Repentance, Book II]] — [[NPNF2 10|NPNF2 10]]
@@ -42,4 +42,5 @@ tags:
 - [[On the Holy Spirit, Book II|On the Holy Spirit, Book II]] — [[NPNF2 10|NPNF2 10]]
 - [[On the Holy Spirit, Book III|On the Holy Spirit, Book III]] — [[NPNF2 10|NPNF2 10]]
 - [[On the Mysteries|On the Mysteries]] — [[NPNF2 10|NPNF2 10]]
+- [[On the Sacraments|On the Sacraments]] — SPCK 1919 (T. Thompson)
 - [[Ambrose/The Memorial|The Memorial]] — [[NPNF2 10|NPNF2 10]]
