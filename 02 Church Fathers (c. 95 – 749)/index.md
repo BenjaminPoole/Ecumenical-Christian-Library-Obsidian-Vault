@@ -131,6 +131,7 @@ Each note carries `written` (approximate composition date) and `earliest_ms` (ea
 Works the Ante-Nicene and Nicene and Post-Nicene volumes do not contain, from other public-domain or freely available translations.
 
 - [[Retractations, Book I|Augustine, Retractations, Book I]] · [[Retractations, Book II|Book II]] — M. F. Eller, 1946 (written c. 426–427)
+- Ambrose, [[02 Church Fathers (c. 95 – 749)/Ambrose/On the Sacraments|On the Sacraments]] — T. Thompson and F. H. Colson, 1919 (written c. 391; authorship disputed)
 - Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 187|Letter 187]] — machine translation (the English translations are in copyright)
 - Augustine of Hippo, [[02 Church Fathers (c. 95 – 749)/Augustine of Hippo/Letter 194|Letter 194]] — machine translation (the English translations are in copyright)
 - Cyril of Alexandria, [[02 Church Fathers (c. 95 – 749)/Cyril of Alexandria/That Christ is One|That Christ is One]] — P. E. Pusey, 1881 (written c. 437–440)

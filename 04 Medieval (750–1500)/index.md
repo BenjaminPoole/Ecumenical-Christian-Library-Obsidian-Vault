@@ -7,7 +7,7 @@ tags:
 
 # Medieval Theology
 
-Latin theology between the Carolingian renewal and the eve of the Reformation, roughly 750 to 1500. The section holds 14 authors and 911 notes, all in public-domain English translations.
+Latin theology between the Carolingian renewal and the eve of the Reformation, roughly 750 to 1500. The section holds 15 authors and 936 notes, all in public-domain English translations.
 
 ## Ratramnus of Corbie
 
@@ -130,6 +130,19 @@ Nicholas of Cusa (1401–1464), cardinal and speculative theologian of *learned 
 Author index: **[[Nicholas of Cusa|Nicholas of Cusa]]**
 
 - **[[The Vision of God|The Vision of God]]** — Written in 1453 for the monks of Tegernsee, who had asked him to explain mystical theology. *(25 notes)*
+
+## Francis of Assisi
+
+Francis of Assisi (c. 1181–1226), founder of the Friars Minor: his Admonitions, Rules, Testament, letters, prayers and the *Canticle of the Sun*, in Paschal Robinson’s translation of 1906.
+
+Author index: **[[Francis of Assisi/Francis of Assisi|Francis of Assisi]]**
+
+- **[[Francis of Assisi/Admonitions|Admonitions]]** — The twenty-eight Words of Admonition on obedience, poverty, humility and charity. *(1 notes)*
+- **[[Francis of Assisi/First Rule of the Friars Minor|First Rule of the Friars Minor]]** and **[[Francis of Assisi/Second Rule of the Friars Minor|Second Rule]]** — The Rule of 1209–1221 and the Rule confirmed by Honorius III in 1223. *(2 notes)*
+- **[[Francis of Assisi/Testament|Testament]]** — Francis’ Testament of 1226. *(1 notes)*
+- **Letters** — Six letters, from [[Francis of Assisi/Letter to All the Faithful|All the Faithful]] to [[Francis of Assisi/Letter to Brother Leo|Brother Leo]]. *(6 notes)*
+- **[[Francis of Assisi/Canticle of the Sun|Canticle of the Sun]]**, **[[Francis of Assisi/Praises of God and Blessing for Brother Leo|Praises of God]]**, **[[Francis of Assisi/Office of the Passion|Office of the Passion]]** and other prayers and salutations. *(10 notes)*
+- **Robinson’s introductions and appendices** — to the writings, the Rules and the Letters, with his appendix on doubtful works and his bibliography. *(5 notes)*
 
 ## Missing Works
 
